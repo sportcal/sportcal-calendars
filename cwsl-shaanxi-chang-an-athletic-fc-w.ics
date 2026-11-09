@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shaanxi Chang AN Athletic FC W · CWSL
+BEGIN:VEVENT
+UID:cwsl-20261114-shaanxi-chang-an-athletic-fc-w-guangxi-pingguo-w-dia@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:SHAANXI CHANG AN ATHLETIC FC W | CWSL | J4 | 🏟️ | Guangxi Ping
+ guo W 🇨🇳
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · Chinese Women's Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:cwsl-20261114-shaanxi-chang-an-athletic-fc-w-guangxi-pingguo-w@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T060000Z
+DTEND:20261114T074500Z
+SUMMARY:Shaanxi Chang AN Athletic FC W - Guangxi Pingguo W
+DESCRIPTION:Chinese Women's Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:cwsl-20261121-shandong-sports-lottery-w-shaanxi-chang-an-athletic-fc-w-
+ dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SHAANXI CHANG AN ATHLETIC FC W | CWSL | J5 | ✈️ | Shandong Spor
+ ts Lottery W 🇨🇳
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · Chinese Women's Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:cwsl-20261121-shandong-sports-lottery-w-shaanxi-chang-an-athletic-fc-w@
+ sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T060000Z
+DTEND:20261121T074500Z
+SUMMARY:Shandong Sports Lottery W - Shaanxi Chang AN Athletic FC W
+DESCRIPTION:Chinese Women's Super League
+END:VEVENT
+END:VCALENDAR

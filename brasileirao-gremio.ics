@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grêmio · Brasileirão
+BEGIN:VEVENT
+UID:brasileirao-20261119-gremio-bahia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:GRÊMIO | Brasileirão | J31 | 🏟️ | Bahia 🇧🇷
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · Brasileirão Série A\nEstadi: 
+ Arena do Grêmio
+END:VEVENT
+BEGIN:VEVENT
+UID:brasileirao-20261119-gremio-bahia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261119T003000Z
+DTEND:20261119T021500Z
+SUMMARY:Grêmio - Bahia
+DESCRIPTION:Brasileirão Série A
+LOCATION:Arena do Grêmio
+END:VEVENT
+BEGIN:VEVENT
+UID:brasileirao-20261124-santos-gremio-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:GRÊMIO | Brasileirão | J32 | ✈️ | Santos 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Brasileirão Série A\nEstadi: 
+ Estádio Cícero Pompeu de Toledo
+END:VEVENT
+BEGIN:VEVENT
+UID:brasileirao-20261124-santos-gremio@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261124T000000Z
+DTEND:20261124T014500Z
+SUMMARY:Santos - Grêmio
+DESCRIPTION:Brasileirão Série A
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+BEGIN:VEVENT
+UID:brasileirao-20261129-corinthians-gremio-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:GRÊMIO | Brasileirão | J33 | ✈️ | Corinthians 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Brasileirão Série A\nEstadi: 
+ Neo Química Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:brasileirao-20261129-corinthians-gremio@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T213000Z
+DTEND:20261129T231500Z
+SUMMARY:Corinthians - Grêmio
+DESCRIPTION:Brasileirão Série A
+LOCATION:Neo Química Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:brasileirao-20261203-gremio-mirassol-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:GRÊMIO | Brasileirão | J34 | 🏟️ | Mirassol 🇧🇷
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · Brasileirão Série A\nEstadi: 
+ Arena do Grêmio
+END:VEVENT
+BEGIN:VEVENT
+UID:brasileirao-20261203-gremio-mirassol@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261203T003000Z
+DTEND:20261203T021500Z
+SUMMARY:Grêmio - Mirassol
+DESCRIPTION:Brasileirão Série A
+LOCATION:Arena do Grêmio
+END:VEVENT
+END:VCALENDAR

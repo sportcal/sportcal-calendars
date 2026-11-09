@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Liaoning Shenbei Hefeng W · CWSL
+BEGIN:VEVENT
+UID:cwsl-20261115-liaoning-shenbei-hefeng-w-beijing-bg-phoenix-w-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:LIAONING SHENBEI HEFENG W | CWSL | J4 | 🏟️ | Beijing BG Phoeni
+ x W 🇨🇳
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · Chinese Women's Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:cwsl-20261115-liaoning-shenbei-hefeng-w-beijing-bg-phoenix-w@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T060000Z
+DTEND:20261115T074500Z
+SUMMARY:Liaoning Shenbei Hefeng W - Beijing BG Phoenix W
+DESCRIPTION:Chinese Women's Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:cwsl-20261122-jiangsu-w-liaoning-shenbei-hefeng-w-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:LIAONING SHENBEI HEFENG W | CWSL | J5 | ✈️ | Jiangsu W 🇨🇳
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · Chinese Women's Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:cwsl-20261122-jiangsu-w-liaoning-shenbei-hefeng-w@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T060000Z
+DTEND:20261122T074500Z
+SUMMARY:Jiangsu W - Liaoning Shenbei Hefeng W
+DESCRIPTION:Chinese Women's Super League
+END:VEVENT
+END:VCALENDAR

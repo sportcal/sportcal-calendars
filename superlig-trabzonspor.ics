@@ -1,0 +1,390 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trabzonspor · Süper Lig
+BEGIN:VEVENT
+UID:superlig-20261122-trabzonspor-eyupspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:TRABZONSPOR | Süper Lig | J12 | 🏟️ | Eyüpspor 🇹🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261122-trabzonspor-eyupspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T160000Z
+DTEND:20261122T174500Z
+SUMMARY:Trabzonspor - Eyüpspor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261130-goztepe-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:TRABZONSPOR | Süper Lig | J13 | ✈️ | Göztepe 🇹🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261130-goztepe-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261130T160000Z
+DTEND:20261130T174500Z
+SUMMARY:Göztepe - Trabzonspor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261206-trabzonspor-corum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:TRABZONSPOR | Süper Lig | J14 | 🏟️ | Çorum 🇹🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261206-trabzonspor-corum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T160000Z
+DTEND:20261206T174500Z
+SUMMARY:Trabzonspor - Çorum
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261213-fenerbahce-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:TRABZONSPOR | Süper Lig | J15 | ✈️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261213-fenerbahce-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T160000Z
+DTEND:20261213T174500Z
+SUMMARY:Fenerbahçe - Trabzonspor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261221-trabzonspor-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:TRABZONSPOR | Süper Lig | J16 | 🏟️ | Kocaelispor 🇹🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261221-trabzonspor-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261221T170000Z
+DTEND:20261221T184500Z
+SUMMARY:Trabzonspor - Kocaelispor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270117-erzurumspor-fk-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:TRABZONSPOR | Süper Lig | J17 | ✈️ | Erzurumspor FK 🇹🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270117-erzurumspor-fk-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:Erzurumspor FK - Trabzonspor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270124-trabzonspor-kas-mpasa-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:TRABZONSPOR | Süper Lig | J18 | 🏟️ | Kasımpaşa 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270124-trabzonspor-kas-mpasa@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Trabzonspor - Kasımpaşa · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270131-basaksehir-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:TRABZONSPOR | Süper Lig | J19 | ✈️ | Başakşehir 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270131-basaksehir-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Başakşehir - Trabzonspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270207-trabzonspor-amed-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:TRABZONSPOR | Süper Lig | J20 | 🏟️ | Amed 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270207-trabzonspor-amed@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Trabzonspor - Amed · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270214-genclerbirligi-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:TRABZONSPOR | Süper Lig | J21 | ✈️ | Genclerbirligi 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270214-genclerbirligi-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Genclerbirligi - Trabzonspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270221-trabzonspor-konyaspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:TRABZONSPOR | Süper Lig | J22 | 🏟️ | Konyaspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270221-trabzonspor-konyaspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Trabzonspor - Konyaspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270228-galatasaray-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:TRABZONSPOR | Süper Lig | J23 | ✈️ | Galatasaray 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270228-galatasaray-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Galatasaray - Trabzonspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270307-trabzonspor-samsunspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:TRABZONSPOR | Süper Lig | J24 | 🏟️ | Samsunspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270307-trabzonspor-samsunspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Trabzonspor - Samsunspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270314-besiktas-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:TRABZONSPOR | Süper Lig | J25 | ✈️ | Beşiktaş 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270314-besiktas-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Beşiktaş - Trabzonspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270321-trabzonspor-rizespor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:TRABZONSPOR | Süper Lig | J26 | 🏟️ | Rizespor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270321-trabzonspor-rizespor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Trabzonspor - Rizespor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270404-gaziantep-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:TRABZONSPOR | Süper Lig | J27 | ✈️ | Gaziantep 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270404-gaziantep-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Gaziantep - Trabzonspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270411-trabzonspor-alanyaspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:TRABZONSPOR | Süper Lig | J28 | 🏟️ | Alanyaspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270411-trabzonspor-alanyaspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Trabzonspor - Alanyaspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270418-eyupspor-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:TRABZONSPOR | Süper Lig | J29 | ✈️ | Eyüpspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270418-eyupspor-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Eyüpspor - Trabzonspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270425-trabzonspor-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:TRABZONSPOR | Süper Lig | J30 | 🏟️ | Göztepe 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270425-trabzonspor-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Trabzonspor - Göztepe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270502-corum-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:TRABZONSPOR | Süper Lig | J31 | ✈️ | Çorum 🇹🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270502-corum-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:Çorum - Trabzonspor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270509-trabzonspor-fenerbahce-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:TRABZONSPOR | Süper Lig | J32 | 🏟️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270509-trabzonspor-fenerbahce@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Trabzonspor - Fenerbahçe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270516-kocaelispor-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:TRABZONSPOR | Süper Lig | J33 | ✈️ | Kocaelispor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270516-kocaelispor-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Kocaelispor - Trabzonspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270523-trabzonspor-erzurumspor-fk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:TRABZONSPOR | Süper Lig | J34 | 🏟️ | Erzurumspor FK 🇹🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270523-trabzonspor-erzurumspor-fk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:Trabzonspor - Erzurumspor FK
+DESCRIPTION:Süper Lig
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2. Bundesliga
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261120-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:2. BUNDESLIGA | J12
+DESCRIPTION:18:30 Arminia Bielefeld - 1.FC Magdeburg\n18:30 SV Darmstadt 98
+  - 1.FC Heidenheim
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261121-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:2. BUNDESLIGA | J12
+DESCRIPTION:13:00 FC Nürnberg - Eintracht Braunschweig\n13:00 Hannover 96 
+ - SpVgg Greuther Fürth\n13:00 VFL Wolfsburg - Holstein Kiel\n20:30 FC St.
+  Pauli - VFL Bochum
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261122-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:2. BUNDESLIGA | J12
+DESCRIPTION:13:30 Energie Cottbus - Hertha BSC\n13:30 FC Kaiserslautern - S
+ G Dynamo Dresden\n13:30 Karlsruher SC - VfL Osnabrück
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261127-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:2. BUNDESLIGA | J13
+DESCRIPTION:18:30 1.FC Heidenheim - FC Nürnberg\n18:30 VFL Bochum - SV Dar
+ mstadt 98
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261128-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:2. BUNDESLIGA | J13
+DESCRIPTION:13:00 SG Dynamo Dresden - FC St. Pauli\n13:00 Hertha BSC - Karl
+ sruher SC\n13:00 Holstein Kiel - FC Kaiserslautern\n20:30 VfL Osnabrück -
+  Hannover 96
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261129-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:2. BUNDESLIGA | J13
+DESCRIPTION:13:30 1.FC Magdeburg - Energie Cottbus\n13:30 SpVgg Greuther F
+ ürth - Arminia Bielefeld\n13:30 Eintracht Braunschweig - VFL Wolfsburg
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261204-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:2. BUNDESLIGA | J14
+DESCRIPTION:18:30 Arminia Bielefeld - SG Dynamo Dresden\n18:30 Energie Cott
+ bus - VfL Osnabrück
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261205-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:2. BUNDESLIGA | J14
+DESCRIPTION:13:00 FC Nürnberg - VFL Bochum\n13:00 FC Kaiserslautern - SpVg
+ g Greuther Fürth\n13:00 Karlsruher SC - Holstein Kiel\n20:30 Hannover 96 
+ - Hertha BSC
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261206-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:2. BUNDESLIGA | J14
+DESCRIPTION:13:30 FC St. Pauli - 1.FC Heidenheim\n13:30 SV Darmstadt 98 - E
+ intracht Braunschweig\n13:30 VFL Wolfsburg - 1.FC Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261211-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:2. BUNDESLIGA | J15
+DESCRIPTION:18:30 1.FC Magdeburg - FC Nürnberg\n18:30 Arminia Bielefeld - 
+ FC Kaiserslautern
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261212-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:2. BUNDESLIGA | J15
+DESCRIPTION:13:00 Hertha BSC - SV Darmstadt 98\n13:00 Holstein Kiel - Hanno
+ ver 96\n13:00 Eintracht Braunschweig - Karlsruher SC\n20:30 SG Dynamo Dres
+ den - Energie Cottbus
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261213-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:2. BUNDESLIGA | J15
+DESCRIPTION:13:30 SpVgg Greuther Fürth - VFL Wolfsburg\n13:30 VFL Bochum -
+  1.FC Heidenheim\n13:30 VfL Osnabrück - FC St. Pauli
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261218-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:2. BUNDESLIGA | J16
+DESCRIPTION:18:30 FC Nürnberg - VfL Osnabrück\n18:30 Energie Cottbus - Ho
+ lstein Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261219-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:2. BUNDESLIGA | J16
+DESCRIPTION:13:00 Karlsruher SC - SG Dynamo Dresden\n13:00 FC St. Pauli - H
+ ertha BSC\n13:00 VFL Wolfsburg - Arminia Bielefeld\n20:30 VFL Bochum - 1.F
+ C Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20261220-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:2. BUNDESLIGA | J16
+DESCRIPTION:13:30 1.FC Heidenheim - Eintracht Braunschweig\n13:30 Hannover 
+ 96 - FC Kaiserslautern\n13:30 SV Darmstadt 98 - SpVgg Greuther Fürth
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270115-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:2. BUNDESLIGA | J17
+DESCRIPTION:18:30 Arminia Bielefeld - Hannover 96\n18:30 SpVgg Greuther Fü
+ rth - Karlsruher SC
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270116-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:2. BUNDESLIGA | J17
+DESCRIPTION:13:00 1.FC Magdeburg - 1.FC Heidenheim\n13:00 Holstein Kiel - V
+ FL Bochum\n13:00 Eintracht Braunschweig - FC St. Pauli\n20:30 Hertha BSC -
+  FC Nürnberg
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270117-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:2. BUNDESLIGA | J17
+DESCRIPTION:13:30 SG Dynamo Dresden - VFL Wolfsburg\n13:30 FC Kaiserslauter
+ n - Energie Cottbus\n13:30 VfL Osnabrück - SV Darmstadt 98
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270122-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:2. BUNDESLIGA | J18
+DESCRIPTION:18:30 SG Dynamo Dresden - FC Nürnberg\n18:30 Eintracht Braunsc
+ hweig - 1.FC Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270123-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:2. BUNDESLIGA | J18
+DESCRIPTION:13:00 Hannover 96 - Energie Cottbus\n13:00 Hertha BSC - VFL Boc
+ hum\n13:00 VfL Osnabrück - 1.FC Heidenheim\n20:30 FC Kaiserslautern - VFL
+  Wolfsburg
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270124-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:2. BUNDESLIGA | J18
+DESCRIPTION:13:30 Arminia Bielefeld - Karlsruher SC\n13:30 Holstein Kiel - 
+ SV Darmstadt 98\n13:30 SpVgg Greuther Fürth - FC St. Pauli
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270130-j19@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:2. BUNDESLIGA | J19
+DESCRIPTION:01:00 1.FC Heidenheim - Hertha BSC\n01:00 1.FC Magdeburg - VfL 
+ Osnabrück\n01:00 FC Nürnberg - SpVgg Greuther Fürth\n01:00 Energie Cott
+ bus - Arminia Bielefeld\n01:00 Karlsruher SC - FC Kaiserslautern\n01:00 FC
+  St. Pauli - Holstein Kiel\n01:00 SV Darmstadt 98 - SG Dynamo Dresden\n01:
+ 00 VFL Bochum - Eintracht Braunschweig\n01:00 VFL Wolfsburg - Hannover 96
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270206-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:2. BUNDESLIGA | J20
+DESCRIPTION:01:00 Arminia Bielefeld - FC Nürnberg\n01:00 SG Dynamo Dresden
+  - 1.FC Heidenheim\n01:00 Hannover 96 - SV Darmstadt 98\n01:00 Hertha BSC 
+ - Eintracht Braunschweig\n01:00 Holstein Kiel - 1.FC Magdeburg\n01:00 FC K
+ aiserslautern - FC St. Pauli\n01:00 SpVgg Greuther Fürth - Energie Cottbu
+ s\n01:00 VFL Wolfsburg - Karlsruher SC\n21:00 VfL Osnabrück - VFL Bochum
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270213-j21@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:2. BUNDESLIGA | J21
+DESCRIPTION:01:00 1.FC Heidenheim - SpVgg Greuther Fürth\n01:00 1.FC Magde
+ burg - Hertha BSC\n01:00 FC Nürnberg - Holstein Kiel\n01:00 Energie Cottb
+ us - VFL Wolfsburg\n01:00 Karlsruher SC - Hannover 96\n01:00 FC St. Pauli 
+ - Arminia Bielefeld\n01:00 SV Darmstadt 98 - FC Kaiserslautern\n01:00 Eint
+ racht Braunschweig - VfL Osnabrück\n01:00 VFL Bochum - SG Dynamo Dresden
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270220-j22@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:2. BUNDESLIGA | J22
+DESCRIPTION:01:00 Arminia Bielefeld - SV Darmstadt 98\n01:00 SG Dynamo Dres
+ den - Eintracht Braunschweig\n01:00 Energie Cottbus - Karlsruher SC\n01:00
+  Hannover 96 - FC Nürnberg\n01:00 Hertha BSC - VfL Osnabrück\n01:00 Hols
+ tein Kiel - 1.FC Heidenheim\n01:00 FC Kaiserslautern - 1.FC Magdeburg\n01:
+ 00 SpVgg Greuther Fürth - VFL Bochum\n01:00 VFL Wolfsburg - FC St. Pauli
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270227-j23@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:2. BUNDESLIGA | J23
+DESCRIPTION:01:00 1.FC Heidenheim - Arminia Bielefeld\n01:00 1.FC Magdeburg
+  - SpVgg Greuther Fürth\n01:00 FC Nürnberg - Karlsruher SC\n01:00 Hertha
+  BSC - SG Dynamo Dresden\n01:00 FC St. Pauli - Energie Cottbus\n01:00 SV D
+ armstadt 98 - VFL Wolfsburg\n01:00 Eintracht Braunschweig - FC Kaiserslaut
+ ern\n01:00 VFL Bochum - Hannover 96\n21:00 VfL Osnabrück - Holstein Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270303-j24@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:2. BUNDESLIGA | J24
+DESCRIPTION:01:00 Arminia Bielefeld - VFL Bochum\n01:00 SG Dynamo Dresden -
+  VfL Osnabrück\n01:00 Energie Cottbus - SV Darmstadt 98\n01:00 Hannover 9
+ 6 - 1.FC Magdeburg\n01:00 Holstein Kiel - Eintracht Braunschweig\n01:00 FC
+  Kaiserslautern - 1.FC Heidenheim\n01:00 Karlsruher SC - FC St. Pauli\n01:
+ 00 SpVgg Greuther Fürth - Hertha BSC\n01:00 VFL Wolfsburg - FC Nürnberg
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270306-j25@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:2. BUNDESLIGA | J25
+DESCRIPTION:01:00 1.FC Heidenheim - VFL Wolfsburg\n01:00 1.FC Magdeburg - S
+ G Dynamo Dresden\n01:00 FC Nürnberg - Energie Cottbus\n01:00 Hertha BSC -
+  Holstein Kiel\n01:00 FC St. Pauli - Hannover 96\n01:00 SV Darmstadt 98 - 
+ Karlsruher SC\n01:00 Eintracht Braunschweig - SpVgg Greuther Fürth\n01:00
+  VFL Bochum - FC Kaiserslautern\n21:00 VfL Osnabrück - Arminia Bielefeld
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270313-j26@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:2. BUNDESLIGA | J26
+DESCRIPTION:01:00 Arminia Bielefeld - Hertha BSC\n01:00 SG Dynamo Dresden -
+  Holstein Kiel\n01:00 Energie Cottbus - 1.FC Heidenheim\n01:00 Hannover 96
+  - Eintracht Braunschweig\n01:00 FC Kaiserslautern - FC Nürnberg\n01:00 K
+ arlsruher SC - 1.FC Magdeburg\n01:00 SpVgg Greuther Fürth - VfL Osnabrüc
+ k\n01:00 FC St. Pauli - SV Darmstadt 98\n01:00 VFL Wolfsburg - VFL Bochum
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270320-j27@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:2. BUNDESLIGA | J27
+DESCRIPTION:01:00 1.FC Heidenheim - Karlsruher SC\n01:00 1.FC Magdeburg - S
+ V Darmstadt 98\n01:00 FC Nürnberg - FC St. Pauli\n01:00 SG Dynamo Dresden
+  - Hannover 96\n01:00 Hertha BSC - FC Kaiserslautern\n01:00 Holstein Kiel 
+ - SpVgg Greuther Fürth\n01:00 Eintracht Braunschweig - Arminia Bielefeld\
+ n01:00 VFL Bochum - Energie Cottbus\n19:00 VfL Osnabrück - VFL Wolfsburg
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270403-j28@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:2. BUNDESLIGA | J28
+DESCRIPTION:02:00 Arminia Bielefeld - Holstein Kiel\n02:00 Energie Cottbus 
+ - Eintracht Braunschweig\n02:00 Hannover 96 - 1.FC Heidenheim\n02:00 FC Ka
+ iserslautern - VfL Osnabrück\n02:00 Karlsruher SC - VFL Bochum\n02:00 SpV
+ gg Greuther Fürth - SG Dynamo Dresden\n02:00 FC St. Pauli - 1.FC Magdebur
+ g\n02:00 SV Darmstadt 98 - FC Nürnberg\n02:00 VFL Wolfsburg - Hertha BSC
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270410-j29@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:2. BUNDESLIGA | J29
+DESCRIPTION:02:00 1.FC Heidenheim - SV Darmstadt 98\n02:00 1.FC Magdeburg -
+  Arminia Bielefeld\n02:00 SG Dynamo Dresden - FC Kaiserslautern\n02:00 Her
+ tha BSC - Energie Cottbus\n02:00 Holstein Kiel - VFL Wolfsburg\n02:00 SpVg
+ g Greuther Fürth - Hannover 96\n02:00 Eintracht Braunschweig - FC Nürnbe
+ rg\n02:00 VFL Bochum - FC St. Pauli\n20:00 VfL Osnabrück - Karlsruher SC
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270417-j30@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:2. BUNDESLIGA | J30
+DESCRIPTION:02:00 FC Nürnberg - 1.FC Heidenheim\n02:00 Arminia Bielefeld -
+  SpVgg Greuther Fürth\n02:00 Energie Cottbus - 1.FC Magdeburg\n02:00 Hann
+ over 96 - VfL Osnabrück\n02:00 FC Kaiserslautern - Holstein Kiel\n02:00 K
+ arlsruher SC - Hertha BSC\n02:00 FC St. Pauli - SG Dynamo Dresden\n02:00 S
+ V Darmstadt 98 - VFL Bochum\n02:00 VFL Wolfsburg - Eintracht Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270424-j31@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:2. BUNDESLIGA | J31
+DESCRIPTION:02:00 1.FC Heidenheim - FC St. Pauli\n02:00 1.FC Magdeburg - VF
+ L Wolfsburg\n02:00 SG Dynamo Dresden - Arminia Bielefeld\n02:00 Hertha BSC
+  - Hannover 96\n02:00 Holstein Kiel - Karlsruher SC\n02:00 SpVgg Greuther 
+ Fürth - FC Kaiserslautern\n02:00 Eintracht Braunschweig - SV Darmstadt 98
+ \n02:00 VFL Bochum - FC Nürnberg\n20:00 VfL Osnabrück - Energie Cottbus
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270508-j32@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:2. BUNDESLIGA | J32
+DESCRIPTION:02:00 1.FC Heidenheim - VFL Bochum\n02:00 FC Nürnberg - 1.FC M
+ agdeburg\n02:00 Energie Cottbus - SG Dynamo Dresden\n02:00 Hannover 96 - H
+ olstein Kiel\n02:00 FC Kaiserslautern - Arminia Bielefeld\n02:00 Karlsruhe
+ r SC - Eintracht Braunschweig\n02:00 FC St. Pauli - VfL Osnabrück\n02:00 
+ SV Darmstadt 98 - Hertha BSC\n02:00 VFL Wolfsburg - SpVgg Greuther Fürth
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270515-j33@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:2. BUNDESLIGA | J33
+DESCRIPTION:02:00 1.FC Magdeburg - VFL Bochum\n02:00 Arminia Bielefeld - VF
+ L Wolfsburg\n02:00 SG Dynamo Dresden - Karlsruher SC\n02:00 Hertha BSC - F
+ C St. Pauli\n02:00 Holstein Kiel - Energie Cottbus\n02:00 FC Kaiserslauter
+ n - Hannover 96\n02:00 SpVgg Greuther Fürth - SV Darmstadt 98\n02:00 Eint
+ racht Braunschweig - 1.FC Heidenheim\n20:00 VfL Osnabrück - FC Nürnberg
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-dia-20270523-j34@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:2. BUNDESLIGA | J34
+DESCRIPTION:20:00 1.FC Heidenheim - 1.FC Magdeburg\n20:00 FC Nürnberg - He
+ rtha BSC\n20:00 Energie Cottbus - FC Kaiserslautern\n20:00 Hannover 96 - A
+ rminia Bielefeld\n20:00 Karlsruher SC - SpVgg Greuther Fürth\n20:00 FC St
+ . Pauli - Eintracht Braunschweig\n20:00 SV Darmstadt 98 - VfL Osnabrück\n
+ 20:00 VFL Bochum - Holstein Kiel\n20:00 VFL Wolfsburg - SG Dynamo Dresden
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261120-arminia-bielefeld-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261120T173000Z
+DTEND:20261120T191500Z
+SUMMARY:Arminia Bielefeld - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261120-sv-darmstadt-98-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261120T173000Z
+DTEND:20261120T191500Z
+SUMMARY:SV Darmstadt 98 - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261121-fc-nurnberg-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T120000Z
+DTEND:20261121T134500Z
+SUMMARY:FC Nürnberg - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261121-hannover-96-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T120000Z
+DTEND:20261121T134500Z
+SUMMARY:Hannover 96 - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261121-vfl-wolfsburg-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T120000Z
+DTEND:20261121T134500Z
+SUMMARY:VFL Wolfsburg - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261121-fc-st-pauli-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T193000Z
+DTEND:20261121T211500Z
+SUMMARY:FC St. Pauli - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261122-energie-cottbus-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T123000Z
+DTEND:20261122T141500Z
+SUMMARY:Energie Cottbus - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261122-fc-kaiserslautern-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T123000Z
+DTEND:20261122T141500Z
+SUMMARY:FC Kaiserslautern - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261122-karlsruher-sc-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T123000Z
+DTEND:20261122T141500Z
+SUMMARY:Karlsruher SC - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261127-1-fc-heidenheim-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261127T173000Z
+DTEND:20261127T191500Z
+SUMMARY:1.FC Heidenheim - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261127-vfl-bochum-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261127T173000Z
+DTEND:20261127T191500Z
+SUMMARY:VFL Bochum - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261128-sg-dynamo-dresden-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T120000Z
+DTEND:20261128T134500Z
+SUMMARY:SG Dynamo Dresden - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261128-hertha-bsc-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T120000Z
+DTEND:20261128T134500Z
+SUMMARY:Hertha BSC - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261128-holstein-kiel-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T120000Z
+DTEND:20261128T134500Z
+SUMMARY:Holstein Kiel - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261128-vfl-osnabruck-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T193000Z
+DTEND:20261128T211500Z
+SUMMARY:VfL Osnabrück - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261129-1-fc-magdeburg-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:1.FC Magdeburg - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261129-spvgg-greuther-furth-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:SpVgg Greuther Fürth - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261129-eintracht-braunschweig-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:Eintracht Braunschweig - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261204-arminia-bielefeld-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261204T173000Z
+DTEND:20261204T191500Z
+SUMMARY:Arminia Bielefeld - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261204-energie-cottbus-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261204T173000Z
+DTEND:20261204T191500Z
+SUMMARY:Energie Cottbus - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-fc-nurnberg-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T120000Z
+DTEND:20261205T134500Z
+SUMMARY:FC Nürnberg - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-fc-kaiserslautern-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T120000Z
+DTEND:20261205T134500Z
+SUMMARY:FC Kaiserslautern - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-karlsruher-sc-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T120000Z
+DTEND:20261205T134500Z
+SUMMARY:Karlsruher SC - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-hannover-96-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T193000Z
+DTEND:20261205T211500Z
+SUMMARY:Hannover 96 - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-fc-st-pauli-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T123000Z
+DTEND:20261206T141500Z
+SUMMARY:FC St. Pauli - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-sv-darmstadt-98-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T123000Z
+DTEND:20261206T141500Z
+SUMMARY:SV Darmstadt 98 - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-vfl-wolfsburg-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T123000Z
+DTEND:20261206T141500Z
+SUMMARY:VFL Wolfsburg - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261211-1-fc-magdeburg-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261211T173000Z
+DTEND:20261211T191500Z
+SUMMARY:1.FC Magdeburg - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261211-arminia-bielefeld-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261211T173000Z
+DTEND:20261211T191500Z
+SUMMARY:Arminia Bielefeld - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-hertha-bsc-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:Hertha BSC - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-holstein-kiel-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:Holstein Kiel - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-eintracht-braunschweig-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:Eintracht Braunschweig - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-sg-dynamo-dresden-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T193000Z
+DTEND:20261212T211500Z
+SUMMARY:SG Dynamo Dresden - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-spvgg-greuther-furth-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:SpVgg Greuther Fürth - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-vfl-bochum-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:VFL Bochum - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-vfl-osnabruck-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:VfL Osnabrück - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261218-fc-nurnberg-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261218T173000Z
+DTEND:20261218T191500Z
+SUMMARY:FC Nürnberg - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261218-energie-cottbus-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261218T173000Z
+DTEND:20261218T191500Z
+SUMMARY:Energie Cottbus - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-karlsruher-sc-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:Karlsruher SC - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-fc-st-pauli-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:FC St. Pauli - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-vfl-wolfsburg-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:VFL Wolfsburg - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-vfl-bochum-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T193000Z
+DTEND:20261219T211500Z
+SUMMARY:VFL Bochum - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261220-1-fc-heidenheim-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T123000Z
+DTEND:20261220T141500Z
+SUMMARY:1.FC Heidenheim - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261220-hannover-96-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T123000Z
+DTEND:20261220T141500Z
+SUMMARY:Hannover 96 - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261220-sv-darmstadt-98-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T123000Z
+DTEND:20261220T141500Z
+SUMMARY:SV Darmstadt 98 - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270115-arminia-bielefeld-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270115T173000Z
+DTEND:20270115T191500Z
+SUMMARY:Arminia Bielefeld - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270115-spvgg-greuther-furth-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270115T173000Z
+DTEND:20270115T191500Z
+SUMMARY:SpVgg Greuther Fürth - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-1-fc-magdeburg-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T120000Z
+DTEND:20270116T134500Z
+SUMMARY:1.FC Magdeburg - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-holstein-kiel-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T120000Z
+DTEND:20270116T134500Z
+SUMMARY:Holstein Kiel - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-eintracht-braunschweig-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T120000Z
+DTEND:20270116T134500Z
+SUMMARY:Eintracht Braunschweig - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-hertha-bsc-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T193000Z
+DTEND:20270116T211500Z
+SUMMARY:Hertha BSC - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270117-sg-dynamo-dresden-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T123000Z
+DTEND:20270117T141500Z
+SUMMARY:SG Dynamo Dresden - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270117-fc-kaiserslautern-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T123000Z
+DTEND:20270117T141500Z
+SUMMARY:FC Kaiserslautern - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270117-vfl-osnabruck-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T123000Z
+DTEND:20270117T141500Z
+SUMMARY:VfL Osnabrück - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270122-sg-dynamo-dresden-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270122T173000Z
+DTEND:20270122T191500Z
+SUMMARY:SG Dynamo Dresden - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270122-eintracht-braunschweig-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270122T173000Z
+DTEND:20270122T191500Z
+SUMMARY:Eintracht Braunschweig - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-hannover-96-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T120000Z
+DTEND:20270123T134500Z
+SUMMARY:Hannover 96 - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-hertha-bsc-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T120000Z
+DTEND:20270123T134500Z
+SUMMARY:Hertha BSC - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-vfl-osnabruck-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T120000Z
+DTEND:20270123T134500Z
+SUMMARY:VfL Osnabrück - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-fc-kaiserslautern-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T193000Z
+DTEND:20270123T211500Z
+SUMMARY:FC Kaiserslautern - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270124-arminia-bielefeld-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T123000Z
+DTEND:20270124T141500Z
+SUMMARY:Arminia Bielefeld - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270124-holstein-kiel-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T123000Z
+DTEND:20270124T141500Z
+SUMMARY:Holstein Kiel - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270124-spvgg-greuther-furth-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T123000Z
+DTEND:20270124T141500Z
+SUMMARY:SpVgg Greuther Fürth - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-1-fc-heidenheim-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:1.FC Heidenheim - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-1-fc-magdeburg-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:1.FC Magdeburg - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-fc-nurnberg-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:FC Nürnberg - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-energie-cottbus-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:Energie Cottbus - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-karlsruher-sc-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:Karlsruher SC - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-fc-st-pauli-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:FC St. Pauli - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-sv-darmstadt-98-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:SV Darmstadt 98 - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-vfl-bochum-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:VFL Bochum - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-vfl-wolfsburg-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:VFL Wolfsburg - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-arminia-bielefeld-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Arminia Bielefeld - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-sg-dynamo-dresden-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:SG Dynamo Dresden - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-hannover-96-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Hannover 96 - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-hertha-bsc-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Hertha BSC - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-holstein-kiel-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Holstein Kiel - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-fc-kaiserslautern-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:FC Kaiserslautern - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-spvgg-greuther-furth-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:SpVgg Greuther Fürth - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-vfl-wolfsburg-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:VFL Wolfsburg - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-vfl-osnabruck-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T200000Z
+DTEND:20270206T214500Z
+SUMMARY:VfL Osnabrück - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-1-fc-heidenheim-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:1.FC Heidenheim - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-1-fc-magdeburg-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:1.FC Magdeburg - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-fc-nurnberg-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:FC Nürnberg - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-energie-cottbus-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Energie Cottbus - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-karlsruher-sc-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Karlsruher SC - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-fc-st-pauli-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:FC St. Pauli - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-sv-darmstadt-98-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:SV Darmstadt 98 - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-eintracht-braunschweig-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Eintracht Braunschweig - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-vfl-bochum-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:VFL Bochum - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-arminia-bielefeld-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Arminia Bielefeld - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-sg-dynamo-dresden-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:SG Dynamo Dresden - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-energie-cottbus-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Energie Cottbus - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-hannover-96-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Hannover 96 - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-hertha-bsc-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Hertha BSC - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-holstein-kiel-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Holstein Kiel - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-fc-kaiserslautern-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:FC Kaiserslautern - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-spvgg-greuther-furth-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:SpVgg Greuther Fürth - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-vfl-wolfsburg-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:VFL Wolfsburg - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-1-fc-heidenheim-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:1.FC Heidenheim - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-1-fc-magdeburg-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:1.FC Magdeburg - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-fc-nurnberg-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:FC Nürnberg - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-hertha-bsc-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Hertha BSC - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-fc-st-pauli-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:FC St. Pauli - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-sv-darmstadt-98-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:SV Darmstadt 98 - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-eintracht-braunschweig-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Eintracht Braunschweig - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-vfl-bochum-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:VFL Bochum - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-vfl-osnabruck-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T200000Z
+DTEND:20270227T214500Z
+SUMMARY:VfL Osnabrück - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-arminia-bielefeld-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Arminia Bielefeld - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-sg-dynamo-dresden-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:SG Dynamo Dresden - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-energie-cottbus-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Energie Cottbus - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-hannover-96-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Hannover 96 - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-holstein-kiel-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Holstein Kiel - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-fc-kaiserslautern-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:FC Kaiserslautern - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-karlsruher-sc-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Karlsruher SC - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-spvgg-greuther-furth-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:SpVgg Greuther Fürth - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-vfl-wolfsburg-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:VFL Wolfsburg - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-1-fc-heidenheim-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:1.FC Heidenheim - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-1-fc-magdeburg-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:1.FC Magdeburg - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-fc-nurnberg-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:FC Nürnberg - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-hertha-bsc-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:Hertha BSC - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-fc-st-pauli-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:FC St. Pauli - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-sv-darmstadt-98-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:SV Darmstadt 98 - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-eintracht-braunschweig-spvgg-greuther-furth@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:Eintracht Braunschweig - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-vfl-bochum-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:VFL Bochum - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-vfl-osnabruck-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T200000Z
+DTEND:20270306T214500Z
+SUMMARY:VfL Osnabrück - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-arminia-bielefeld-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:Arminia Bielefeld - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-sg-dynamo-dresden-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:SG Dynamo Dresden - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-energie-cottbus-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:Energie Cottbus - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-hannover-96-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:Hannover 96 - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-fc-kaiserslautern-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:FC Kaiserslautern - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-karlsruher-sc-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:Karlsruher SC - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-spvgg-greuther-furth-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:SpVgg Greuther Fürth - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-fc-st-pauli-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:FC St. Pauli - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-vfl-wolfsburg-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:VFL Wolfsburg - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-1-fc-heidenheim-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:1.FC Heidenheim - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-1-fc-magdeburg-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:1.FC Magdeburg - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-fc-nurnberg-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:FC Nürnberg - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-sg-dynamo-dresden-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:SG Dynamo Dresden - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-hertha-bsc-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:Hertha BSC - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-holstein-kiel-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:Holstein Kiel - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-eintracht-braunschweig-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:Eintracht Braunschweig - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-vfl-bochum-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:VFL Bochum - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-vfl-osnabruck-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:VfL Osnabrück - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-arminia-bielefeld-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:Arminia Bielefeld - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-energie-cottbus-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:Energie Cottbus - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-hannover-96-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:Hannover 96 - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-fc-kaiserslautern-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:FC Kaiserslautern - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-karlsruher-sc-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:Karlsruher SC - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-spvgg-greuther-furth-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:SpVgg Greuther Fürth - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-fc-st-pauli-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:FC St. Pauli - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-sv-darmstadt-98-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:SV Darmstadt 98 - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-vfl-wolfsburg-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:VFL Wolfsburg - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-1-fc-heidenheim-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:1.FC Heidenheim - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-1-fc-magdeburg-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:1.FC Magdeburg - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-sg-dynamo-dresden-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:SG Dynamo Dresden - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-hertha-bsc-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:Hertha BSC - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-holstein-kiel-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:Holstein Kiel - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-spvgg-greuther-furth-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:SpVgg Greuther Fürth - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-eintracht-braunschweig-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:Eintracht Braunschweig - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-vfl-bochum-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:VFL Bochum - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-vfl-osnabruck-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:VfL Osnabrück - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-fc-nurnberg-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:FC Nürnberg - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-arminia-bielefeld-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:Arminia Bielefeld - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-energie-cottbus-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:Energie Cottbus - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-hannover-96-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:Hannover 96 - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-fc-kaiserslautern-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:FC Kaiserslautern - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-karlsruher-sc-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:Karlsruher SC - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-fc-st-pauli-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:FC St. Pauli - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-sv-darmstadt-98-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:SV Darmstadt 98 - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-vfl-wolfsburg-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:VFL Wolfsburg - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-1-fc-heidenheim-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:1.FC Heidenheim - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-1-fc-magdeburg-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:1.FC Magdeburg - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-sg-dynamo-dresden-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:SG Dynamo Dresden - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-hertha-bsc-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:Hertha BSC - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-holstein-kiel-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:Holstein Kiel - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-spvgg-greuther-furth-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:SpVgg Greuther Fürth - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-eintracht-braunschweig-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:Eintracht Braunschweig - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-vfl-bochum-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:VFL Bochum - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-vfl-osnabruck-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T180000Z
+DTEND:20270424T194500Z
+SUMMARY:VfL Osnabrück - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-1-fc-heidenheim-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:1.FC Heidenheim - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-fc-nurnberg-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:FC Nürnberg - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-energie-cottbus-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:Energie Cottbus - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-hannover-96-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:Hannover 96 - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-fc-kaiserslautern-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:FC Kaiserslautern - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-karlsruher-sc-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:Karlsruher SC - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-fc-st-pauli-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:FC St. Pauli - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-sv-darmstadt-98-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:SV Darmstadt 98 - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-vfl-wolfsburg-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:VFL Wolfsburg - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-1-fc-magdeburg-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:1.FC Magdeburg - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-arminia-bielefeld-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:Arminia Bielefeld - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-sg-dynamo-dresden-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:SG Dynamo Dresden - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-hertha-bsc-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:Hertha BSC - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-holstein-kiel-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:Holstein Kiel - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-fc-kaiserslautern-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:FC Kaiserslautern - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-spvgg-greuther-furth-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:SpVgg Greuther Fürth - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-eintracht-braunschweig-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:Eintracht Braunschweig - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-vfl-osnabruck-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T180000Z
+DTEND:20270515T194500Z
+SUMMARY:VfL Osnabrück - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-1-fc-heidenheim-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:1.FC Heidenheim - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-fc-nurnberg-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:FC Nürnberg - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-energie-cottbus-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Energie Cottbus - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-hannover-96-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Hannover 96 - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-karlsruher-sc-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Karlsruher SC - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-fc-st-pauli-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:FC St. Pauli - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-sv-darmstadt-98-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:SV Darmstadt 98 - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-vfl-bochum-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:VFL Bochum - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-vfl-wolfsburg-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:VFL Wolfsburg - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+END:VCALENDAR

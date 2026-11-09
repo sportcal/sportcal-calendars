@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Portugal · Primeira Liga
+BEGIN:VEVENT
+UID:primeira-20261129-fc-porto-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J12 | ✈️ | FC Porto 🇵
+ 🇹
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261129-fc-porto-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T203000Z
+DTEND:20261129T221500Z
+SUMMARY:FC Porto - Sporting Portugal
+DESCRIPTION:Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261204-sporting-portugal-maritimo-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J13 | 🏟️ | Maritimo 🇵
+ 🇹
+DESCRIPTION:Inici: 21:15 (Europe/Madrid) · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261204-sporting-portugal-maritimo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261204T201500Z
+DTEND:20261204T220000Z
+SUMMARY:Sporting Portugal - Maritimo
+DESCRIPTION:Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261212-gil-vicente-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J14 | ✈️ | Gil Vicente 🇵
+ 🇹
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261212-gil-vicente-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T203000Z
+DTEND:20261212T221500Z
+SUMMARY:Gil Vicente - Sporting Portugal
+DESCRIPTION:Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261220-sporting-portugal-estoril-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J15 | 🏟️ | Estoril 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261220-sporting-portugal-estoril@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Sporting Portugal - Estoril · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261227-benfica-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J16 | ✈️ | Benfica 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261227-benfica-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Benfica - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270110-sporting-portugal-santa-clara-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J17 | 🏟️ | Santa Clara 
+ 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270110-sporting-portugal-santa-clara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Sporting Portugal - Santa Clara · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270117-sporting-portugal-estrela-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J18 | 🏟️ | Estrela 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270117-sporting-portugal-estrela@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Sporting Portugal - Estrela · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270124-vitoria-guimaraes-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J19 | ✈️ | Vitoria Guimarae
+ s 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270124-vitoria-guimaraes-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Vitoria Guimaraes - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270131-alverca-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J20 | ✈️ | Alverca 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270131-alverca-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Alverca - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270207-sporting-portugal-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J21 | 🏟️ | Rio Ave 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270207-sporting-portugal-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Sporting Portugal - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270214-cd-nacional-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J22 | ✈️ | CD Nacional 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270214-cd-nacional-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:CD Nacional - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270221-sporting-portugal-fc-famalicao-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J23 | 🏟️ | FC Famalicão 
+ 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270221-sporting-portugal-fc-famalicao@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Sporting Portugal - FC Famalicão · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270228-fc-arouca-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J24 | ✈️ | FC Arouca 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270228-fc-arouca-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:FC Arouca - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270307-sporting-portugal-sporting-braga-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J25 | 🏟️ | Sporting Braga 
+ 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270307-sporting-portugal-sporting-braga@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Sporting Portugal - Sporting Braga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270314-academico-viseu-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J26 | ✈️ | Academico Viseu 
+ 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270314-academico-viseu-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Academico Viseu - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270321-sporting-portugal-casa-pia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J27 | 🏟️ | Casa Pia 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270321-sporting-portugal-casa-pia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Sporting Portugal - Casa Pia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270404-moreirense-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J28 | ✈️ | Moreirense 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270404-moreirense-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Moreirense - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270411-sporting-portugal-fc-porto-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J29 | 🏟️ | FC Porto 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270411-sporting-portugal-fc-porto@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Sporting Portugal - FC Porto · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270418-maritimo-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J30 | ✈️ | Maritimo 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270418-maritimo-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Maritimo - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270425-sporting-portugal-gil-vicente-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J31 | 🏟️ | Gil Vicente 
+ 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270425-sporting-portugal-gil-vicente@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Sporting Portugal - Gil Vicente · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270502-estoril-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J32 | ✈️ | Estoril 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270502-estoril-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Estoril - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270509-sporting-portugal-benfica-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J33 | 🏟️ | Benfica 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270509-sporting-portugal-benfica@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Sporting Portugal - Benfica · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270516-santa-clara-sporting-portugal-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:SPORTING PORTUGAL | Primeira Liga | J34 | ✈️ | Santa Clara 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270516-santa-clara-sporting-portugal@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Santa Clara - Sporting Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Radnički Kragujevac · SuperLiga
+BEGIN:VEVENT
+UID:serbiasl-20261121-radnicki-kragujevac-fk-cukaricki-stankom-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J16 | 🏟️ | FK Cukaricki Sta
+ nkom 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261121-radnicki-kragujevac-fk-cukaricki-stankom@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Radnički Kragujevac - FK Cukaricki Stankom
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261128-zemun-radnicki-kragujevac-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J17 | ✈️ | Zemun 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261128-zemun-radnicki-kragujevac@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T000000Z
+DTEND:20261128T014500Z
+SUMMARY:Zemun - Radnički Kragujevac
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261206-radnicki-kragujevac-fk-partizan-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J18 | 🏟️ | FK Partizan 🇷
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261206-radnicki-kragujevac-fk-partizan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T000000Z
+DTEND:20261206T014500Z
+SUMMARY:Radnički Kragujevac - FK Partizan
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270206-imt-novi-beograd-radnicki-kragujevac-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J19 | ✈️ | IMT Novi Beograd 
+ 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270206-imt-novi-beograd-radnicki-kragujevac@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:IMT Novi Beograd - Radnički Kragujevac
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270213-radnicki-kragujevac-radnicki-nis-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J20 | 🏟️ | Radnički Niš 
+ 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270213-radnicki-kragujevac-radnicki-nis@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Radnički Kragujevac - Radnički Niš
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270220-radnicki-kragujevac-macva-sabac-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J21 | 🏟️ | Mačva Šabac 
+ 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270220-radnicki-kragujevac-macva-sabac@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Radnički Kragujevac - Mačva Šabac
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270227-mladost-lucani-radnicki-kragujevac-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J22 | ✈️ | Mladost Lučani 
+ 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270227-mladost-lucani-radnicki-kragujevac@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Mladost Lučani - Radnički Kragujevac
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270307-radnicki-kragujevac-ofk-beograd-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J23 | 🏟️ | OFK Beograd 🇷
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270307-radnicki-kragujevac-ofk-beograd@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T000000Z
+DTEND:20270307T014500Z
+SUMMARY:Radnički Kragujevac - OFK Beograd
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270313-red-star-belgrade-radnicki-kragujevac-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J24 | ✈️ | Red Star Belgrade
+  🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270313-red-star-belgrade-radnicki-kragujevac@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:Red Star Belgrade - Radnički Kragujevac
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270320-radnicki-kragujevac-fk-vojvodina-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J25 | 🏟️ | FK Vojvodina 
+ 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270320-radnicki-kragujevac-fk-vojvodina@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:Radnički Kragujevac - FK Vojvodina
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270403-radnik-surdulica-radnicki-kragujevac-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:RADNIČKI KRAGUJEVAC | SuperLiga | J26 | ✈️ | Radnik Surdulica 
+ 🇷🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270403-radnik-surdulica-radnicki-kragujevac@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:Radnik Surdulica - Radnički Kragujevac
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+END:VCALENDAR

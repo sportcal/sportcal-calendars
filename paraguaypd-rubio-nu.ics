@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rubio Ñú · Primera División
+BEGIN:VEVENT
+UID:paraguaypd-20261109-sportivo-san-lorenzo-rubio-nu-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:RUBIO ÑÚ | Primera División | J19 | ✈️ | Sportivo San Lorenz
+ o 🇵🇾
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261109-sportivo-san-lorenzo-rubio-nu@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261109T200000Z
+DTEND:20261109T214500Z
+SUMMARY:Sportivo San Lorenzo - Rubio Ñú
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261118-rubio-nu-libertad-asuncion-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:RUBIO ÑÚ | Primera División | J20 | 🏟️ | Libertad Asuncion 
+ 🇵🇾
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261118-rubio-nu-libertad-asuncion@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261118T000000Z
+DTEND:20261118T014500Z
+SUMMARY:Rubio Ñú - Libertad Asuncion
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261125-nacional-asuncion-rubio-nu-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:RUBIO ÑÚ | Primera División | J21 | ✈️ | Nacional Asuncion 
+ 🇵🇾
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261125-nacional-asuncion-rubio-nu@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261125T000000Z
+DTEND:20261125T014500Z
+SUMMARY:Nacional Asuncion - Rubio Ñú
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261129-rubio-nu-cerro-porteno-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:RUBIO ÑÚ | Primera División | J22 | 🏟️ | Cerro Porteno 🇵
+ 🇾
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261129-rubio-nu-cerro-porteno@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T000000Z
+DTEND:20261129T014500Z
+SUMMARY:Rubio Ñú - Cerro Porteno
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,391 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Göztepe · Süper Lig
+BEGIN:VEVENT
+UID:superlig-20261122-erzurumspor-fk-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:GÖZTEPE | Süper Lig | J12 | ✈️ | Erzurumspor FK 🇹🇷
+DESCRIPTION:Inici: 11:30 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261122-erzurumspor-fk-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T103000Z
+DTEND:20261122T121500Z
+SUMMARY:Erzurumspor FK - Göztepe
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261130-goztepe-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:GÖZTEPE | Süper Lig | J13 | 🏟️ | Trabzonspor 🇹🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261130-goztepe-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261130T160000Z
+DTEND:20261130T174500Z
+SUMMARY:Göztepe - Trabzonspor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261207-kas-mpasa-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:GÖZTEPE | Süper Lig | J14 | ✈️ | Kasımpaşa 🇹🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261207-kas-mpasa-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261207T170000Z
+DTEND:20261207T184500Z
+SUMMARY:Kasımpaşa - Göztepe
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261213-goztepe-konyaspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:GÖZTEPE | Süper Lig | J15 | 🏟️ | Konyaspor 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261213-goztepe-konyaspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T130000Z
+DTEND:20261213T144500Z
+SUMMARY:Göztepe - Konyaspor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261218-amed-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:GÖZTEPE | Süper Lig | J16 | ✈️ | Amed 🇹🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261218-amed-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261218T170000Z
+DTEND:20261218T184500Z
+SUMMARY:Amed - Göztepe
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270117-goztepe-besiktas-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:GÖZTEPE | Süper Lig | J17 | 🏟️ | Beşiktaş 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270117-goztepe-besiktas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Göztepe - Beşiktaş · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270124-goztepe-samsunspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:GÖZTEPE | Süper Lig | J18 | 🏟️ | Samsunspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270124-goztepe-samsunspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Göztepe - Samsunspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270131-genclerbirligi-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:GÖZTEPE | Süper Lig | J19 | ✈️ | Genclerbirligi 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270131-genclerbirligi-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Genclerbirligi - Göztepe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270207-goztepe-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:GÖZTEPE | Süper Lig | J20 | 🏟️ | Galatasaray 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270207-goztepe-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Göztepe - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270214-gaziantep-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:GÖZTEPE | Süper Lig | J21 | ✈️ | Gaziantep 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270214-gaziantep-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Gaziantep - Göztepe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270221-goztepe-alanyaspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:GÖZTEPE | Süper Lig | J22 | 🏟️ | Alanyaspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270221-goztepe-alanyaspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Göztepe - Alanyaspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270228-rizespor-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:GÖZTEPE | Süper Lig | J23 | ✈️ | Rizespor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270228-rizespor-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Rizespor - Göztepe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270307-goztepe-eyupspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:GÖZTEPE | Süper Lig | J24 | 🏟️ | Eyüpspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270307-goztepe-eyupspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Göztepe - Eyüpspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270314-goztepe-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:GÖZTEPE | Süper Lig | J25 | 🏟️ | Kocaelispor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270314-goztepe-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Göztepe - Kocaelispor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270321-corum-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:GÖZTEPE | Süper Lig | J26 | ✈️ | Çorum 🇹🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270321-corum-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:Çorum - Göztepe
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270404-goztepe-fenerbahce-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:GÖZTEPE | Süper Lig | J27 | 🏟️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270404-goztepe-fenerbahce@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Göztepe - Fenerbahçe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270411-basaksehir-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:GÖZTEPE | Süper Lig | J28 | ✈️ | Başakşehir 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270411-basaksehir-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Başakşehir - Göztepe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270418-goztepe-erzurumspor-fk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:GÖZTEPE | Süper Lig | J29 | 🏟️ | Erzurumspor FK 🇹🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270418-goztepe-erzurumspor-fk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T000000Z
+DTEND:20270418T014500Z
+SUMMARY:Göztepe - Erzurumspor FK
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270425-trabzonspor-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:GÖZTEPE | Süper Lig | J30 | ✈️ | Trabzonspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270425-trabzonspor-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Trabzonspor - Göztepe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270502-goztepe-kas-mpasa-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:GÖZTEPE | Süper Lig | J31 | 🏟️ | Kasımpaşa 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270502-goztepe-kas-mpasa@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Göztepe - Kasımpaşa · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270509-konyaspor-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:GÖZTEPE | Süper Lig | J32 | ✈️ | Konyaspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270509-konyaspor-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Konyaspor - Göztepe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270516-goztepe-amed-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:GÖZTEPE | Süper Lig | J33 | 🏟️ | Amed 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270516-goztepe-amed@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Göztepe - Amed · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270523-besiktas-goztepe-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:GÖZTEPE | Süper Lig | J34 | ✈️ | Beşiktaş 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270523-besiktas-goztepe@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Beşiktaş - Göztepe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Russian Premier Liga
+BEGIN:VEVENT
+UID:premjerliga-dia-20261120-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:PREMIER LIGA | J15
+DESCRIPTION:17:30 FC Rostov - Krylia Sovetov Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20261121-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:PREMIER LIGA | J15
+DESCRIPTION:11:00 FC Orenburg - Baltika Kaliningrad\n13:15 Akron - Fakel Vo
+ ronezh\n15:30 Rubin Kazan - Zenit St Petersburg\n17:45 PFC CSKA Moskou - A
+ khmat Grozny
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20261122-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:PREMIER LIGA | J15
+DESCRIPTION:12:00 Dinamo Moscow - FC Krasnodar\n14:30 Makhachkala - FC Spar
+ tak Moskou\n17:00 Rodina Moscow - Lokomotiv Moscow
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20261128-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:PREMIER LIGA | J16
+DESCRIPTION:12:00 Rubin Kazan - Akron\n14:30 PFC CSKA Moskou - Zenit St Pet
+ ersburg\n17:00 Baltika Kaliningrad - Akhmat Grozny
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20261129-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:PREMIER LIGA | J16
+DESCRIPTION:11:00 FC Orenburg - Rodina Moscow\n13:15 FC Rostov - FC Krasnod
+ ar\n15:30 Krylia Sovetov Samara - Dinamo Moscow\n17:45 Lokomotiv Moscow - 
+ Makhachkala
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20261130-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:PREMIER LIGA | J16
+DESCRIPTION:17:30 Fakel Voronezh - FC Spartak Moskou
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20261204-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:PREMIER LIGA | J17
+DESCRIPTION:17:30 Makhachkala - Krylia Sovetov Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20261205-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:PREMIER LIGA | J17
+DESCRIPTION:11:00 Akron - FC Orenburg\n13:15 Rodina Moscow - PFC CSKA Mosko
+ u\n15:30 Zenit St Petersburg - Baltika Kaliningrad\n17:45 Akhmat Grozny - 
+ Lokomotiv Moscow
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20261206-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:PREMIER LIGA | J17
+DESCRIPTION:12:30 Fakel Voronezh - FC Rostov\n15:00 FC Spartak Moskou - Din
+ amo Moscow\n17:30 FC Krasnodar - Rubin Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270228-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:PREMIER LIGA | J18
+DESCRIPTION:01:00 FC Rostov - PFC CSKA Moskou\n21:00 Akhmat Grozny - Akron\
+ n21:00 Dinamo Moscow - Rubin Kazan\n21:00 Makhachkala - FC Orenburg\n21:00
+  Baltika Kaliningrad - Rodina Moscow\n21:00 FC Krasnodar - FC Spartak Mosk
+ ou\n21:00 Krylia Sovetov Samara - Lokomotiv Moscow\n21:00 Zenit St Petersb
+ urg - Fakel Voronezh
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270307-j19@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:PREMIER LIGA | J19
+DESCRIPTION:21:00 Akhmat Grozny - Rubin Kazan\n21:00 Akron - FC Spartak Mos
+ kou\n21:00 Makhachkala - Fakel Voronezh\n21:00 FC Krasnodar - Krylia Sovet
+ ov Samara\n21:00 Lokomotiv Moscow - PFC CSKA Moskou\n21:00 Rodina Moscow -
+  Dinamo Moscow\n21:00 FC Rostov - Baltika Kaliningrad\n21:00 Zenit St Pete
+ rsburg - FC Orenburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270314-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:PREMIER LIGA | J20
+DESCRIPTION:19:00 Akron - Makhachkala\n19:00 Dinamo Moscow - Lokomotiv Mosc
+ ow\n19:00 Fakel Voronezh - PFC CSKA Moskou\n19:00 Baltika Kaliningrad - FC
+  Krasnodar\n19:00 FC Orenburg - Krylia Sovetov Samara\n19:00 Rodina Moscow
+  - Zenit St Petersburg\n19:00 Rubin Kazan - FC Rostov\n19:00 FC Spartak Mo
+ skou - Akhmat Grozny
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270321-j21@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:PREMIER LIGA | J21
+DESCRIPTION:19:00 PFC CSKA Moskou - FC Orenburg\n19:00 Makhachkala - Baltik
+ a Kaliningrad\n19:00 FC Krasnodar - Dinamo Moscow\n19:00 Krylia Sovetov Sa
+ mara - Akhmat Grozny\n19:00 Lokomotiv Moscow - Fakel Voronezh\n19:00 FC Ro
+ stov - Rodina Moscow\n19:00 Rubin Kazan - FC Spartak Moskou\n19:00 Zenit S
+ t Petersburg - Akron
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270404-j22@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:PREMIER LIGA | J22
+DESCRIPTION:20:00 Akhmat Grozny - Fakel Voronezh\n20:00 Akron - Lokomotiv M
+ oscow\n20:00 PFC CSKA Moskou - FC Krasnodar\n20:00 Dinamo Moscow - Baltika
+  Kaliningrad\n20:00 FC Orenburg - Rubin Kazan\n20:00 Rodina Moscow - Kryli
+ a Sovetov Samara\n20:00 FC Rostov - Zenit St Petersburg\n20:00 FC Spartak 
+ Moskou - Makhachkala
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270411-j23@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:PREMIER LIGA | J23
+DESCRIPTION:20:00 Akhmat Grozny - Dinamo Moscow\n20:00 Makhachkala - Rubin 
+ Kazan\n20:00 Fakel Voronezh - Akron\n20:00 Baltika Kaliningrad - PFC CSKA 
+ Moskou\n20:00 FC Orenburg - FC Spartak Moskou\n20:00 FC Krasnodar - Rodina
+  Moscow\n20:00 Krylia Sovetov Samara - FC Rostov\n20:00 Lokomotiv Moscow -
+  Zenit St Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270418-j24@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:PREMIER LIGA | J24
+DESCRIPTION:20:00 Akron - FC Krasnodar\n20:00 Dinamo Moscow - Fakel Voronez
+ h\n20:00 Lokomotiv Moscow - FC Orenburg\n20:00 Rodina Moscow - Makhachkala
+ \n20:00 FC Rostov - Akhmat Grozny\n20:00 Rubin Kazan - Baltika Kaliningrad
+ \n20:00 FC Spartak Moskou - PFC CSKA Moskou\n20:00 Zenit St Petersburg - K
+ rylia Sovetov Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270425-j25@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:PREMIER LIGA | J25
+DESCRIPTION:20:00 Akhmat Grozny - Zenit St Petersburg\n20:00 Akron - FC Ros
+ tov\n20:00 PFC CSKA Moskou - Dinamo Moscow\n20:00 Baltika Kaliningrad - Kr
+ ylia Sovetov Samara\n20:00 FC Orenburg - Fakel Voronezh\n20:00 FC Krasnoda
+ r - Makhachkala\n20:00 Rodina Moscow - FC Spartak Moskou\n20:00 Rubin Kaza
+ n - Lokomotiv Moscow
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270502-j26@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:PREMIER LIGA | J26
+DESCRIPTION:20:00 Dinamo Moscow - Akron\n20:00 Makhachkala - Akhmat Grozny\
+ n20:00 Fakel Voronezh - Rubin Kazan\n20:00 Krylia Sovetov Samara - PFC CSK
+ A Moskou\n20:00 Lokomotiv Moscow - Rodina Moscow\n20:00 FC Rostov - FC Ore
+ nburg\n20:00 FC Spartak Moskou - Baltika Kaliningrad\n20:00 Zenit St Peter
+ sburg - FC Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270509-j27@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:PREMIER LIGA | J27
+DESCRIPTION:20:00 PFC CSKA Moskou - Akron\n20:00 Dinamo Moscow - FC Rostov\
+ n20:00 Makhachkala - Zenit St Petersburg\n20:00 Baltika Kaliningrad - Fake
+ l Voronezh\n20:00 FC Krasnodar - FC Orenburg\n20:00 Krylia Sovetov Samara 
+ - Rubin Kazan\n20:00 Rodina Moscow - Akhmat Grozny\n20:00 FC Spartak Mosko
+ u - Lokomotiv Moscow
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270516-j28@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:PREMIER LIGA | J28
+DESCRIPTION:20:00 Akhmat Grozny - FC Krasnodar\n20:00 Akron - Rodina Moscow
+ \n20:00 Fakel Voronezh - Krylia Sovetov Samara\n20:00 FC Orenburg - Dinamo
+  Moscow\n20:00 Lokomotiv Moscow - Baltika Kaliningrad\n20:00 FC Rostov - M
+ akhachkala\n20:00 Rubin Kazan - PFC CSKA Moskou\n20:00 Zenit St Petersburg
+  - FC Spartak Moskou
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270523-j29@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:PREMIER LIGA | J29
+DESCRIPTION:20:00 Akron - Baltika Kaliningrad\n20:00 PFC CSKA Moskou - Makh
+ achkala\n20:00 Dinamo Moscow - Zenit St Petersburg\n20:00 Fakel Voronezh -
+  FC Krasnodar\n20:00 FC Orenburg - Akhmat Grozny\n20:00 Lokomotiv Moscow -
+  FC Rostov\n20:00 Rubin Kazan - Rodina Moscow\n20:00 FC Spartak Moskou - K
+ rylia Sovetov Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-dia-20270529-j30@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:PREMIER LIGA | J30
+DESCRIPTION:20:00 Akhmat Grozny - PFC CSKA Moskou\n20:00 Makhachkala - Dina
+ mo Moscow\n20:00 Baltika Kaliningrad - FC Orenburg\n20:00 FC Krasnodar - L
+ okomotiv Moscow\n20:00 Krylia Sovetov Samara - Akron\n20:00 Rodina Moscow 
+ - Fakel Voronezh\n20:00 FC Rostov - FC Spartak Moskou\n20:00 Zenit St Pete
+ rsburg - Rubin Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261120-fc-rostov-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261120T163000Z
+DTEND:20261120T181500Z
+SUMMARY:FC Rostov - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261121-fc-orenburg-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T100000Z
+DTEND:20261121T114500Z
+SUMMARY:FC Orenburg - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261121-akron-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T121500Z
+DTEND:20261121T140000Z
+SUMMARY:Akron - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261121-rubin-kazan-zenit-st-petersburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T143000Z
+DTEND:20261121T161500Z
+SUMMARY:Rubin Kazan - Zenit St Petersburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261121-pfc-cska-moskou-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T164500Z
+DTEND:20261121T183000Z
+SUMMARY:PFC CSKA Moskou - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261122-dinamo-moscow-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T110000Z
+DTEND:20261122T124500Z
+SUMMARY:Dinamo Moscow - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:VTB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261122-makhachkala-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Makhachkala - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261122-rodina-moscow-lokomotiv-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T160000Z
+DTEND:20261122T174500Z
+SUMMARY:Rodina Moscow - Lokomotiv Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261128-rubin-kazan-akron@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T110000Z
+DTEND:20261128T124500Z
+SUMMARY:Rubin Kazan - Akron
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261128-pfc-cska-moskou-zenit-st-petersburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T133000Z
+DTEND:20261128T151500Z
+SUMMARY:PFC CSKA Moskou - Zenit St Petersburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261128-baltika-kaliningrad-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:Baltika Kaliningrad - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261129-fc-orenburg-rodina-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T100000Z
+DTEND:20261129T114500Z
+SUMMARY:FC Orenburg - Rodina Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261129-fc-rostov-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T121500Z
+DTEND:20261129T140000Z
+SUMMARY:FC Rostov - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261129-krylia-sovetov-samara-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T143000Z
+DTEND:20261129T161500Z
+SUMMARY:Krylia Sovetov Samara - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261129-lokomotiv-moscow-makhachkala@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T164500Z
+DTEND:20261129T183000Z
+SUMMARY:Lokomotiv Moscow - Makhachkala
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261130-fakel-voronezh-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261130T163000Z
+DTEND:20261130T181500Z
+SUMMARY:Fakel Voronezh - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Stadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261204-makhachkala-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261204T163000Z
+DTEND:20261204T181500Z
+SUMMARY:Makhachkala - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261205-akron-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T100000Z
+DTEND:20261205T114500Z
+SUMMARY:Akron - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261205-rodina-moscow-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T121500Z
+DTEND:20261205T140000Z
+SUMMARY:Rodina Moscow - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261205-zenit-st-petersburg-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T143000Z
+DTEND:20261205T161500Z
+SUMMARY:Zenit St Petersburg - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261205-akhmat-grozny-lokomotiv-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T164500Z
+DTEND:20261205T183000Z
+SUMMARY:Akhmat Grozny - Lokomotiv Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Akhmat-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261206-fakel-voronezh-fc-rostov@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T113000Z
+DTEND:20261206T131500Z
+SUMMARY:Fakel Voronezh - FC Rostov
+DESCRIPTION:Russian Premier Liga
+LOCATION:Stadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261206-fc-spartak-moskou-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Spartak Moskou - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261206-fc-krasnodar-rubin-kazan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T163000Z
+DTEND:20261206T181500Z
+SUMMARY:FC Krasnodar - Rubin Kazan
+DESCRIPTION:Russian Premier Liga
+LOCATION:Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-fc-rostov-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T000000Z
+DTEND:20270228T014500Z
+SUMMARY:FC Rostov - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-akhmat-grozny-akron@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Akhmat Grozny - Akron
+DESCRIPTION:Russian Premier Liga
+LOCATION:Akhmat-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-dinamo-moscow-rubin-kazan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Dinamo Moscow - Rubin Kazan
+DESCRIPTION:Russian Premier Liga
+LOCATION:VTB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-makhachkala-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Makhachkala - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-baltika-kaliningrad-rodina-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Baltika Kaliningrad - Rodina Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-fc-krasnodar-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:FC Krasnodar - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-krylia-sovetov-samara-lokomotiv-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Krylia Sovetov Samara - Lokomotiv Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-zenit-st-petersburg-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Zenit St Petersburg - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-akhmat-grozny-rubin-kazan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Akhmat Grozny - Rubin Kazan
+DESCRIPTION:Russian Premier Liga
+LOCATION:Akhmat-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-akron-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Akron - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-makhachkala-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Makhachkala - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-fc-krasnodar-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:FC Krasnodar - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-lokomotiv-moscow-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Lokomotiv Moscow - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-rodina-moscow-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Rodina Moscow - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-fc-rostov-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:FC Rostov - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-zenit-st-petersburg-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Zenit St Petersburg - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-akron-makhachkala@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Akron - Makhachkala
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-dinamo-moscow-lokomotiv-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Dinamo Moscow - Lokomotiv Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:VTB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-fakel-voronezh-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Fakel Voronezh - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Stadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-baltika-kaliningrad-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Baltika Kaliningrad - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-fc-orenburg-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:FC Orenburg - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-rodina-moscow-zenit-st-petersburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Rodina Moscow - Zenit St Petersburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-rubin-kazan-fc-rostov@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Rubin Kazan - FC Rostov
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-fc-spartak-moskou-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:FC Spartak Moskou - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-pfc-cska-moskou-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:PFC CSKA Moskou - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-makhachkala-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Makhachkala - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-fc-krasnodar-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:FC Krasnodar - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-krylia-sovetov-samara-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Krylia Sovetov Samara - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-lokomotiv-moscow-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Lokomotiv Moscow - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-fc-rostov-rodina-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:FC Rostov - Rodina Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-rubin-kazan-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Rubin Kazan - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-zenit-st-petersburg-akron@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Zenit St Petersburg - Akron
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-akhmat-grozny-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Akhmat Grozny - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:Akhmat-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-akron-lokomotiv-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Akron - Lokomotiv Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-pfc-cska-moskou-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:PFC CSKA Moskou - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-dinamo-moscow-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Dinamo Moscow - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:VTB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-fc-orenburg-rubin-kazan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:FC Orenburg - Rubin Kazan
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-rodina-moscow-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Rodina Moscow - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-fc-rostov-zenit-st-petersburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:FC Rostov - Zenit St Petersburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-fc-spartak-moskou-makhachkala@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:FC Spartak Moskou - Makhachkala
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-akhmat-grozny-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Akhmat Grozny - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Akhmat-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-makhachkala-rubin-kazan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Makhachkala - Rubin Kazan
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-fakel-voronezh-akron@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Fakel Voronezh - Akron
+DESCRIPTION:Russian Premier Liga
+LOCATION:Stadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-baltika-kaliningrad-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Baltika Kaliningrad - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-fc-orenburg-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:FC Orenburg - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-fc-krasnodar-rodina-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:FC Krasnodar - Rodina Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-krylia-sovetov-samara-fc-rostov@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Krylia Sovetov Samara - FC Rostov
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-lokomotiv-moscow-zenit-st-petersburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Lokomotiv Moscow - Zenit St Petersburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-akron-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Akron - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-dinamo-moscow-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Dinamo Moscow - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:VTB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-lokomotiv-moscow-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Lokomotiv Moscow - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-rodina-moscow-makhachkala@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Rodina Moscow - Makhachkala
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-fc-rostov-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:FC Rostov - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-rubin-kazan-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Rubin Kazan - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-fc-spartak-moskou-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:FC Spartak Moskou - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-zenit-st-petersburg-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Zenit St Petersburg - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-akhmat-grozny-zenit-st-petersburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Akhmat Grozny - Zenit St Petersburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Akhmat-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-akron-fc-rostov@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Akron - FC Rostov
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-pfc-cska-moskou-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:PFC CSKA Moskou - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-baltika-kaliningrad-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Baltika Kaliningrad - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-fc-orenburg-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:FC Orenburg - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-fc-krasnodar-makhachkala@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:FC Krasnodar - Makhachkala
+DESCRIPTION:Russian Premier Liga
+LOCATION:Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-rodina-moscow-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Rodina Moscow - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-rubin-kazan-lokomotiv-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Rubin Kazan - Lokomotiv Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-dinamo-moscow-akron@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Dinamo Moscow - Akron
+DESCRIPTION:Russian Premier Liga
+LOCATION:VTB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-makhachkala-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Makhachkala - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-fakel-voronezh-rubin-kazan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Fakel Voronezh - Rubin Kazan
+DESCRIPTION:Russian Premier Liga
+LOCATION:Stadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-krylia-sovetov-samara-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Krylia Sovetov Samara - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-lokomotiv-moscow-rodina-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Lokomotiv Moscow - Rodina Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-fc-rostov-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:FC Rostov - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-fc-spartak-moskou-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:FC Spartak Moskou - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-zenit-st-petersburg-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Zenit St Petersburg - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-pfc-cska-moskou-akron@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:PFC CSKA Moskou - Akron
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-dinamo-moscow-fc-rostov@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Dinamo Moscow - FC Rostov
+DESCRIPTION:Russian Premier Liga
+LOCATION:VTB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-makhachkala-zenit-st-petersburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Makhachkala - Zenit St Petersburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-baltika-kaliningrad-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Baltika Kaliningrad - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-fc-krasnodar-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:FC Krasnodar - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-krylia-sovetov-samara-rubin-kazan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Krylia Sovetov Samara - Rubin Kazan
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-rodina-moscow-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Rodina Moscow - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-fc-spartak-moskou-lokomotiv-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:FC Spartak Moskou - Lokomotiv Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-akhmat-grozny-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Akhmat Grozny - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:Akhmat-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-akron-rodina-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Akron - Rodina Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-fakel-voronezh-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Fakel Voronezh - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Stadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-fc-orenburg-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:FC Orenburg - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-lokomotiv-moscow-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Lokomotiv Moscow - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-fc-rostov-makhachkala@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:FC Rostov - Makhachkala
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-rubin-kazan-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Rubin Kazan - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-zenit-st-petersburg-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Zenit St Petersburg - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-akron-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Akron - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-pfc-cska-moskou-makhachkala@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:PFC CSKA Moskou - Makhachkala
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-dinamo-moscow-zenit-st-petersburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Dinamo Moscow - Zenit St Petersburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:VTB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-fakel-voronezh-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Fakel Voronezh - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:Stadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-fc-orenburg-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:FC Orenburg - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-lokomotiv-moscow-fc-rostov@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Lokomotiv Moscow - FC Rostov
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-rubin-kazan-rodina-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Rubin Kazan - Rodina Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-fc-spartak-moskou-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:FC Spartak Moskou - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-akhmat-grozny-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:Akhmat Grozny - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Akhmat-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-makhachkala-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:Makhachkala - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-baltika-kaliningrad-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:Baltika Kaliningrad - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-fc-krasnodar-lokomotiv-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:FC Krasnodar - Lokomotiv Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-krylia-sovetov-samara-akron@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:Krylia Sovetov Samara - Akron
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-rodina-moscow-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:Rodina Moscow - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-fc-rostov-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:FC Rostov - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-zenit-st-petersburg-rubin-kazan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:Zenit St Petersburg - Rubin Kazan
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+END:VCALENDAR

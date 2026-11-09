@@ -1,0 +1,408 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KRC Genk · Jupiler Pro League
+BEGIN:VEVENT
+UID:jupiler-20261121-krc-genk-raal-la-louviere-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:KRC GENK | Jupiler Pro League | J12 | 🏟️ | RAAL La Louvière 
+ 🇧🇪
+DESCRIPTION:Inici: 18:15 (Europe/Madrid) · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261121-krc-genk-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T171500Z
+DTEND:20261121T190000Z
+SUMMARY:KRC Genk - RAAL La Louvière
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261129-sint-truiden-vv-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:KRC GENK | Jupiler Pro League | J13 | ✈️ | Sint Truiden VV 🇧
+ 🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261129-sint-truiden-vv-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:Sint Truiden VV - KRC Genk
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261211-krc-genk-oh-leuven-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:KRC GENK | Jupiler Pro League | J14 | 🏟️ | OH Leuven 🇧🇪
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261211-krc-genk-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261211T194500Z
+DTEND:20261211T213000Z
+SUMMARY:KRC Genk - OH Leuven
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261219-sporting-charleroi-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:KRC GENK | Jupiler Pro League | J15 | ✈️ | Sporting Charleroi 
+ 🇧🇪
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261219-sporting-charleroi-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T194500Z
+DTEND:20261219T213000Z
+SUMMARY:Sporting Charleroi - KRC Genk
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261227-krc-genk-lommel-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:KRC GENK | Jupiler Pro League | J16 | 🏟️ | Lommel 🇧🇪
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261227-krc-genk-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261227T150000Z
+DTEND:20261227T164500Z
+SUMMARY:KRC Genk - Lommel
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270117-cercle-brugge-k-s-v-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:KRC GENK | Jupiler Pro League | J17 | ✈️ | Cercle Brugge K.S.V.
+  🇧🇪
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270117-cercle-brugge-k-s-v-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T150000Z
+DTEND:20270117T164500Z
+SUMMARY:Cercle Brugge K.S.V. - KRC Genk
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-krc-genk-sv-zulte-waregem-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:KRC GENK | Jupiler Pro League | J18 | 🏟️ | SV Zulte-Waregem 
+ 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-krc-genk-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:KRC Genk - SV Zulte-Waregem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-kvc-westerlo-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:KRC GENK | Jupiler Pro League | J19 | ✈️ | KVC Westerlo 🇧
+ 🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-kvc-westerlo-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:KVC Westerlo - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-krc-genk-rafc-antwerp-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:KRC GENK | Jupiler Pro League | J20 | 🏟️ | RAFC Antwerp 🇧
+ 🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-krc-genk-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:KRC Genk - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-beveren-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:KRC GENK | Jupiler Pro League | J21 | ✈️ | Beveren 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-beveren-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Beveren - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-kv-kortrijk-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:KRC GENK | Jupiler Pro League | J22 | ✈️ | KV Kortrijk 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-kv-kortrijk-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:KV Kortrijk - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-krc-genk-union-saint-gilloise-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:KRC GENK | Jupiler Pro League | J23 | 🏟️ | Union Saint-Gillois
+ e 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-krc-genk-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:KRC Genk - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-oh-leuven-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:KRC GENK | Jupiler Pro League | J24 | ✈️ | OH Leuven 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-oh-leuven-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:OH Leuven - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-krc-genk-sint-truiden-vv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:KRC GENK | Jupiler Pro League | J25 | 🏟️ | Sint Truiden VV 
+ 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-krc-genk-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:KRC Genk - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-raal-la-louviere-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:KRC GENK | Jupiler Pro League | J26 | ✈️ | RAAL La Louvière 
+ 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-raal-la-louviere-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:RAAL La Louvière - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-krc-genk-rsc-anderlecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:KRC GENK | Jupiler Pro League | J27 | 🏟️ | RSC Anderlecht 🇧
+ 🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-krc-genk-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:KRC Genk - RSC Anderlecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-lommel-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:KRC GENK | Jupiler Pro League | J28 | ✈️ | Lommel 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-lommel-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Lommel - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-krc-genk-club-brugge-kv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:KRC GENK | Jupiler Pro League | J29 | 🏟️ | Club Brugge KV 🇧
+ 🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-krc-genk-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:KRC Genk - Club Brugge KV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-krc-genk-sporting-charleroi-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:KRC GENK | Jupiler Pro League | J30 | 🏟️ | Sporting Charleroi 
+ 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-krc-genk-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:KRC Genk - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-kaa-gent-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:KRC GENK | Jupiler Pro League | J31 | ✈️ | KAA Gent 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-kaa-gent-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:KAA Gent - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-krc-genk-cercle-brugge-k-s-v-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:KRC GENK | Jupiler Pro League | J32 | 🏟️ | Cercle Brugge K.S.V
+ . 🇧🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-krc-genk-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:KRC Genk - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-standard-luik-krc-genk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:KRC GENK | Jupiler Pro League | J33 | ✈️ | Standard Luik 🇧
+ 🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-standard-luik-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Standard Luik - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-krc-genk-kv-mechelen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:KRC GENK | Jupiler Pro League | J34 | 🏟️ | KV Mechelen 🇧
+ 🇪
+DESCRIPTION:Hora pendent de confirmació · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-krc-genk-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:KRC Genk - KV Mechelen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+END:VCALENDAR

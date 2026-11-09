@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kifisia · Super League
+BEGIN:VEVENT
+UID:greeksl-20261122-paok-salonika-kifisia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:KIFISIA | Super League | J11 | ✈️ | PAOK Salonika 🇬🇷
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20261122-paok-salonika-kifisia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T173000Z
+DTEND:20261122T191500Z
+SUMMARY:PAOK Salonika - Kifisia
+DESCRIPTION:Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20261128-kifisia-kalamata-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:KIFISIA | Super League | J12 | 🏟️ | Kalamata 🇬🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20261128-kifisia-kalamata@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:Kifisia - Kalamata
+DESCRIPTION:Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20261206-asteras-tripolis-kifisia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:KIFISIA | Super League | J13 | ✈️ | Asteras Tripolis 🇬🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20261206-asteras-tripolis-kifisia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Asteras Tripolis - Kifisia
+DESCRIPTION:Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20261214-kifisia-ofi-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:KIFISIA | Super League | J14 | 🏟️ | OFI 🇬🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20261214-kifisia-ofi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261214T170000Z
+DTEND:20261214T184500Z
+SUMMARY:Kifisia - OFI
+DESCRIPTION:Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20261219-kifisia-atromitos-athens-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:KIFISIA | Super League | J15 | 🏟️ | Atromitos Athens 🇬🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20261219-kifisia-atromitos-athens@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T180000Z
+DTEND:20261219T194500Z
+SUMMARY:Kifisia - Atromitos Athens
+DESCRIPTION:Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270110-panetolikos-kifisia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:KIFISIA | Super League | J16 | ✈️ | Panetolikos 🇬🇷
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270110-panetolikos-kifisia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T173000Z
+DTEND:20270110T191500Z
+SUMMARY:Panetolikos - Kifisia
+DESCRIPTION:Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270116-kifisia-asteras-tripolis-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:KIFISIA | Super League | J17 | 🏟️ | Asteras Tripolis 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270116-kifisia-asteras-tripolis@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Kifisia - Asteras Tripolis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270123-aris-kifisia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:KIFISIA | Super League | J18 | ✈️ | Aris 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270123-aris-kifisia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Aris - Kifisia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270130-kifisia-volos-nfc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:KIFISIA | Super League | J19 | 🏟️ | Volos NFC 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270130-kifisia-volos-nfc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Kifisia - Volos NFC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270206-aek-athene-kifisia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:KIFISIA | Super League | J20 | ✈️ | AEK Athene 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270206-aek-athene-kifisia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:AEK Athene - Kifisia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270213-levadiakos-kifisia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:KIFISIA | Super League | J21 | ✈️ | Levadiakos 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270213-levadiakos-kifisia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Levadiakos - Kifisia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270220-kifisia-paok-salonika-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:KIFISIA | Super League | J22 | 🏟️ | PAOK Salonika 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270220-kifisia-paok-salonika@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Kifisia - PAOK Salonika · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270227-kalamata-kifisia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:KIFISIA | Super League | J23 | ✈️ | Kalamata 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270227-kalamata-kifisia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Kalamata - Kifisia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270306-kifisia-panathinaikos-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:KIFISIA | Super League | J24 | 🏟️ | Panathinaikos 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270306-kifisia-panathinaikos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Kifisia - Panathinaikos · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270313-olympiakos-piraeus-kifisia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:KIFISIA | Super League | J25 | ✈️ | Olympiakos Piraeus 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270313-olympiakos-piraeus-kifisia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Olympiakos Piraeus - Kifisia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270320-kifisia-iraklis-1908-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:KIFISIA | Super League | J26 | 🏟️ | Iraklis 1908 🇬🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Super League Greece
+END:VEVENT
+BEGIN:VEVENT
+UID:greeksl-20270320-kifisia-iraklis-1908@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:Kifisia - Iraklis 1908
+DESCRIPTION:Super League Greece
+END:VEVENT
+END:VCALENDAR

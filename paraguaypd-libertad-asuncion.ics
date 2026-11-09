@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Libertad Asuncion · Primera División
+BEGIN:VEVENT
+UID:paraguaypd-20261118-rubio-nu-libertad-asuncion-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:LIBERTAD ASUNCION | Primera División | J20 | ✈️ | Rubio Ñú 
+ 🇵🇾
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261118-rubio-nu-libertad-asuncion@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261118T000000Z
+DTEND:20261118T014500Z
+SUMMARY:Rubio Ñú - Libertad Asuncion
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261125-libertad-asuncion-2-de-mayo-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:LIBERTAD ASUNCION | Primera División | J21 | 🏟️ | 2 de Mayo 
+ 🇵🇾
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261125-libertad-asuncion-2-de-mayo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261125T000000Z
+DTEND:20261125T014500Z
+SUMMARY:Libertad Asuncion - 2 de Mayo
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261129-sportivo-ameliano-libertad-asuncion-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:LIBERTAD ASUNCION | Primera División | J22 | ✈️ | Sportivo Ame
+ liano 🇵🇾
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261129-sportivo-ameliano-libertad-asuncion@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T000000Z
+DTEND:20261129T014500Z
+SUMMARY:Sportivo Ameliano - Libertad Asuncion
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+END:VCALENDAR

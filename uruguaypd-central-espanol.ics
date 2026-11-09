@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Central Español · Primera División
+BEGIN:VEVENT
+UID:uruguaypd-20261114-central-espanol-boston-river-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CENTRAL ESPAÑOL | Primera División | J36 | 🏟️ | Boston River
+  🇺🇾
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Uruguayan Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguaypd-20261114-central-espanol-boston-river@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T130000Z
+DTEND:20261114T144500Z
+SUMMARY:Central Español - Boston River
+DESCRIPTION:Uruguayan Primera División
+END:VEVENT
+END:VCALENDAR

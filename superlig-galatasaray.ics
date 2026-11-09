@@ -1,0 +1,391 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Galatasaray · Süper Lig
+BEGIN:VEVENT
+UID:superlig-20261121-galatasaray-samsunspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:GALATASARAY | Süper Lig | J12 | 🏟️ | Samsunspor 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261121-galatasaray-samsunspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T130000Z
+DTEND:20261121T144500Z
+SUMMARY:Galatasaray - Samsunspor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261130-besiktas-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:GALATASARAY | Süper Lig | J13 | ✈️ | Beşiktaş 🇹🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261130-besiktas-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261130T180000Z
+DTEND:20261130T194500Z
+SUMMARY:Beşiktaş - Galatasaray
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261204-galatasaray-rizespor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:GALATASARAY | Süper Lig | J14 | 🏟️ | Rizespor 🇹🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261204-galatasaray-rizespor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261204T170000Z
+DTEND:20261204T184500Z
+SUMMARY:Galatasaray - Rizespor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261212-eyupspor-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:GALATASARAY | Süper Lig | J15 | ✈️ | Eyüpspor 🇹🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261212-eyupspor-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T160000Z
+DTEND:20261212T174500Z
+SUMMARY:Eyüpspor - Galatasaray
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261219-galatasaray-alanyaspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:GALATASARAY | Süper Lig | J16 | 🏟️ | Alanyaspor 🇹🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261219-galatasaray-alanyaspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T160000Z
+DTEND:20261219T174500Z
+SUMMARY:Galatasaray - Alanyaspor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270117-gaziantep-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:GALATASARAY | Süper Lig | J17 | ✈️ | Gaziantep 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270117-gaziantep-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Gaziantep - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270124-corum-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:GALATASARAY | Süper Lig | J18 | ✈️ | Çorum 🇹🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270124-corum-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:Çorum - Galatasaray
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270131-galatasaray-erzurumspor-fk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:GALATASARAY | Süper Lig | J19 | 🏟️ | Erzurumspor FK 🇹🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270131-galatasaray-erzurumspor-fk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:Galatasaray - Erzurumspor FK
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270207-goztepe-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:GALATASARAY | Süper Lig | J20 | ✈️ | Göztepe 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270207-goztepe-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Göztepe - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270214-galatasaray-basaksehir-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:GALATASARAY | Süper Lig | J21 | 🏟️ | Başakşehir 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270214-galatasaray-basaksehir@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Galatasaray - Başakşehir · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270221-kocaelispor-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:GALATASARAY | Süper Lig | J22 | ✈️ | Kocaelispor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270221-kocaelispor-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Kocaelispor - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270228-galatasaray-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:GALATASARAY | Süper Lig | J23 | 🏟️ | Trabzonspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270228-galatasaray-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Galatasaray - Trabzonspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270307-kas-mpasa-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:GALATASARAY | Süper Lig | J24 | ✈️ | Kasımpaşa 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270307-kas-mpasa-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Kasımpaşa - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270314-galatasaray-genclerbirligi-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:GALATASARAY | Süper Lig | J25 | 🏟️ | Genclerbirligi 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270314-galatasaray-genclerbirligi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Galatasaray - Genclerbirligi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270321-fenerbahce-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:GALATASARAY | Süper Lig | J26 | ✈️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270321-fenerbahce-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Fenerbahçe - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270404-galatasaray-konyaspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:GALATASARAY | Süper Lig | J27 | 🏟️ | Konyaspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270404-galatasaray-konyaspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Galatasaray - Konyaspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270411-amed-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:GALATASARAY | Süper Lig | J28 | ✈️ | Amed 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270411-amed-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Amed - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270418-samsunspor-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:GALATASARAY | Süper Lig | J29 | ✈️ | Samsunspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270418-samsunspor-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Samsunspor - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270425-galatasaray-besiktas-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:GALATASARAY | Süper Lig | J30 | 🏟️ | Beşiktaş 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270425-galatasaray-besiktas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Galatasaray - Beşiktaş · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270502-rizespor-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:GALATASARAY | Süper Lig | J31 | ✈️ | Rizespor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270502-rizespor-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Rizespor - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270509-galatasaray-eyupspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:GALATASARAY | Süper Lig | J32 | 🏟️ | Eyüpspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270509-galatasaray-eyupspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Galatasaray - Eyüpspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270516-alanyaspor-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:GALATASARAY | Süper Lig | J33 | ✈️ | Alanyaspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270516-alanyaspor-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Alanyaspor - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270523-galatasaray-gaziantep-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:GALATASARAY | Süper Lig | J34 | 🏟️ | Gaziantep 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270523-galatasaray-gaziantep@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Galatasaray - Gaziantep · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+END:VCALENDAR

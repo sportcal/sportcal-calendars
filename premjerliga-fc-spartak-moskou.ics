@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Spartak Moskou · Premier Liga
+BEGIN:VEVENT
+UID:premjerliga-20261122-makhachkala-fc-spartak-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J15 | ✈️ | Makhachkala 🇷
+ 🇺
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Russian Premier Liga\nEstadi: A
+ nzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261122-makhachkala-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Makhachkala - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261130-fakel-voronezh-fc-spartak-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J16 | ✈️ | Fakel Voronezh 
+ 🇷🇺
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Russian Premier Liga\nEstadi: S
+ tadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261130-fakel-voronezh-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261130T163000Z
+DTEND:20261130T181500Z
+SUMMARY:Fakel Voronezh - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Stadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261206-fc-spartak-moskou-dinamo-moscow-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J17 | 🏟️ | Dinamo Moscow 
+ 🇷🇺
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: L
+ ukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261206-fc-spartak-moskou-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Spartak Moskou - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-fc-krasnodar-fc-spartak-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J18 | ✈️ | FC Krasnodar 🇷
+ 🇺
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ rasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-fc-krasnodar-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:FC Krasnodar - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Krasnodar
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-akron-fc-spartak-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J19 | ✈️ | Akron 🇷🇺
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: S
+ amara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-akron-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Akron - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-fc-spartak-moskou-akhmat-grozny-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J20 | 🏟️ | Akhmat Grozny 
+ 🇷🇺
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: L
+ ukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-fc-spartak-moskou-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:FC Spartak Moskou - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-rubin-kazan-fc-spartak-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J21 | ✈️ | Rubin Kazan 🇷
+ 🇺
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ azan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-rubin-kazan-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Rubin Kazan - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-fc-spartak-moskou-makhachkala-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J22 | 🏟️ | Makhachkala 🇷
+ 🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: L
+ ukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-fc-spartak-moskou-makhachkala@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:FC Spartak Moskou - Makhachkala
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-fc-orenburg-fc-spartak-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J23 | ✈️ | FC Orenburg 🇷
+ 🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: G
+ azovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-fc-orenburg-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:FC Orenburg - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-fc-spartak-moskou-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J24 | 🏟️ | PFC CSKA Moskou 
+ 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: L
+ ukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-fc-spartak-moskou-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:FC Spartak Moskou - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-rodina-moscow-fc-spartak-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J25 | ✈️ | Rodina Moscow 
+ 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: A
+ rena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-rodina-moscow-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Rodina Moscow - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-fc-spartak-moskou-baltika-kaliningrad-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J26 | 🏟️ | Baltika Kalining
+ rad 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: L
+ ukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-fc-spartak-moskou-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:FC Spartak Moskou - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-fc-spartak-moskou-lokomotiv-moscow-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J27 | 🏟️ | Lokomotiv Moscow
+  🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: L
+ ukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-fc-spartak-moskou-lokomotiv-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:FC Spartak Moskou - Lokomotiv Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-zenit-st-petersburg-fc-spartak-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J28 | ✈️ | Zenit St Petersbu
+ rg 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: S
+ aint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-zenit-st-petersburg-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Zenit St Petersburg - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-fc-spartak-moskou-krylia-sovetov-samara-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J29 | 🏟️ | Krylia Sovetov S
+ amara 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: L
+ ukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-fc-spartak-moskou-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:FC Spartak Moskou - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-fc-rostov-fc-spartak-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:FC SPARTAK MOSKOU | Premier Liga | J30 | ✈️ | FC Rostov 🇷
+ 🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: R
+ ostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-fc-rostov-fc-spartak-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:FC Rostov - FC Spartak Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+END:VCALENDAR

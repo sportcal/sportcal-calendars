@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lillestrom · Eliteserien
+BEGIN:VEVENT
+UID:eliteserien-20261122-sarpsborg-fk-lillestrom-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:LILLESTROM | Eliteserien | J27 | ✈️ | Sarpsborg FK 🇳🇴
+DESCRIPTION:Inici: 19:15 (Europe/Madrid) · Eliteserien\nEstadi: Sarpsborg 
+ Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eliteserien-20261122-sarpsborg-fk-lillestrom@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T181500Z
+DTEND:20261122T200000Z
+SUMMARY:Sarpsborg FK - Lillestrom
+DESCRIPTION:Eliteserien
+LOCATION:Sarpsborg Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eliteserien-20261130-lillestrom-hamkam-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:LILLESTROM | Eliteserien | J28 | 🏟️ | HamKam 🇳🇴
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Eliteserien\nEstadi: Arasen Sta
+ dion
+END:VEVENT
+BEGIN:VEVENT
+UID:eliteserien-20261130-lillestrom-hamkam@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261130T180000Z
+DTEND:20261130T194500Z
+SUMMARY:Lillestrom - HamKam
+DESCRIPTION:Eliteserien
+LOCATION:Arasen Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eliteserien-20261206-kristiansund-bk-lillestrom-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:LILLESTROM | Eliteserien | J29 | ✈️ | Kristiansund BK 🇳🇴
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Eliteserien\nEstadi: Nordmore S
+ tadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eliteserien-20261206-kristiansund-bk-lillestrom@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T160000Z
+DTEND:20261206T174500Z
+SUMMARY:Kristiansund BK - Lillestrom
+DESCRIPTION:Eliteserien
+LOCATION:Nordmore Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eliteserien-20261213-lillestrom-troms-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:LILLESTROM | Eliteserien | J30 | 🏟️ | Tromsø 🇳🇴
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Eliteserien\nEstadi: Arasen Sta
+ dion
+END:VEVENT
+BEGIN:VEVENT
+UID:eliteserien-20261213-lillestrom-troms@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T160000Z
+DTEND:20261213T174500Z
+SUMMARY:Lillestrom - Tromsø
+DESCRIPTION:Eliteserien
+LOCATION:Arasen Stadion
+END:VEVENT
+END:VCALENDAR

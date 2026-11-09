@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rio Ave · Primeira Liga
+BEGIN:VEVENT
+UID:primeira-20261128-fc-arouca-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:RIO AVE | Primeira Liga | J12 | ✈️ | FC Arouca 🇵🇹
+DESCRIPTION:Inici: 16:30 (Europe/Madrid) · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261128-fc-arouca-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T153000Z
+DTEND:20261128T171500Z
+SUMMARY:FC Arouca - Rio Ave
+DESCRIPTION:Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261206-rio-ave-casa-pia-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:RIO AVE | Primeira Liga | J13 | 🏟️ | Casa Pia 🇵🇹
+DESCRIPTION:Inici: 16:30 (Europe/Madrid) · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261206-rio-ave-casa-pia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T153000Z
+DTEND:20261206T171500Z
+SUMMARY:Rio Ave - Casa Pia
+DESCRIPTION:Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261212-maritimo-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:RIO AVE | Primeira Liga | J14 | ✈️ | Maritimo 🇵🇹
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261212-maritimo-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:Maritimo - Rio Ave
+DESCRIPTION:Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261220-rio-ave-benfica-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:RIO AVE | Primeira Liga | J15 | 🏟️ | Benfica 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261220-rio-ave-benfica@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Rio Ave - Benfica · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261227-vitoria-guimaraes-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:RIO AVE | Primeira Liga | J16 | ✈️ | Vitoria Guimaraes 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20261227-vitoria-guimaraes-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Vitoria Guimaraes - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270110-rio-ave-moreirense-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:RIO AVE | Primeira Liga | J17 | 🏟️ | Moreirense 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270110-rio-ave-moreirense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Rio Ave - Moreirense · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270117-rio-ave-gil-vicente-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:RIO AVE | Primeira Liga | J18 | 🏟️ | Gil Vicente 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270117-rio-ave-gil-vicente@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Rio Ave - Gil Vicente · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270124-fc-porto-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:RIO AVE | Primeira Liga | J19 | ✈️ | FC Porto 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270124-fc-porto-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:FC Porto - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270131-rio-ave-estoril-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:RIO AVE | Primeira Liga | J20 | 🏟️ | Estoril 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270131-rio-ave-estoril@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Rio Ave - Estoril · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270207-sporting-portugal-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:RIO AVE | Primeira Liga | J21 | ✈️ | Sporting Portugal 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270207-sporting-portugal-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Sporting Portugal - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270214-rio-ave-santa-clara-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:RIO AVE | Primeira Liga | J22 | 🏟️ | Santa Clara 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270214-rio-ave-santa-clara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Rio Ave - Santa Clara · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270221-estrela-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:RIO AVE | Primeira Liga | J23 | ✈️ | Estrela 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270221-estrela-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Estrela - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270228-rio-ave-alverca-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:RIO AVE | Primeira Liga | J24 | 🏟️ | Alverca 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270228-rio-ave-alverca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Rio Ave - Alverca · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270307-cd-nacional-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:RIO AVE | Primeira Liga | J25 | ✈️ | CD Nacional 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270307-cd-nacional-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:CD Nacional - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270314-fc-famalicao-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:RIO AVE | Primeira Liga | J26 | ✈️ | FC Famalicão 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270314-fc-famalicao-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:FC Famalicão - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270321-rio-ave-academico-viseu-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:RIO AVE | Primeira Liga | J27 | 🏟️ | Academico Viseu 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270321-rio-ave-academico-viseu@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Rio Ave - Academico Viseu · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270404-sporting-braga-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:RIO AVE | Primeira Liga | J28 | ✈️ | Sporting Braga 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270404-sporting-braga-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Sporting Braga - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270411-rio-ave-fc-arouca-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:RIO AVE | Primeira Liga | J29 | 🏟️ | FC Arouca 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270411-rio-ave-fc-arouca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Rio Ave - FC Arouca · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270418-casa-pia-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:RIO AVE | Primeira Liga | J30 | ✈️ | Casa Pia 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270418-casa-pia-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Casa Pia - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270425-rio-ave-maritimo-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:RIO AVE | Primeira Liga | J31 | 🏟️ | Maritimo 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270425-rio-ave-maritimo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Rio Ave - Maritimo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270502-benfica-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:RIO AVE | Primeira Liga | J32 | ✈️ | Benfica 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270502-benfica-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Benfica - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270509-rio-ave-vitoria-guimaraes-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:RIO AVE | Primeira Liga | J33 | 🏟️ | Vitoria Guimaraes 🇵
+ 🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270509-rio-ave-vitoria-guimaraes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Rio Ave - Vitoria Guimaraes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270516-moreirense-rio-ave-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:RIO AVE | Primeira Liga | J34 | ✈️ | Moreirense 🇵🇹
+DESCRIPTION:Hora pendent de confirmació · Primeira Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:primeira-20270516-moreirense-rio-ave@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Moreirense - Rio Ave · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primeira Liga
+END:VEVENT
+END:VCALENDAR

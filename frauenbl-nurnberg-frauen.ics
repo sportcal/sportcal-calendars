@@ -1,0 +1,297 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nürnberg Frauen · Frauen-Bundesliga
+BEGIN:VEVENT
+UID:frauenbl-20261115-nurnberg-frauen-1-fc-koln-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J10 | 🏟️ | 1.FC Köln F
+ rauen 🇩🇪
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261115-nurnberg-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T150000Z
+DTEND:20261115T164500Z
+SUMMARY:Nürnberg Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261122-1-fsv-mainz-05-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J11 | ✈️ | 1. FSV Mainz 
+ 05 Frauen 🇩🇪
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261122-1-fsv-mainz-05-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T173000Z
+DTEND:20261122T191500Z
+SUMMARY:1. FSV Mainz 05 Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-bayern-munchen-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J12 | ✈️ | Bayern Munche
+ n Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-bayern-munchen-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:Bayern Munchen Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-nurnberg-frauen-werder-bremen-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J13 | 🏟️ | Werder Breme
+ n Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-nurnberg-frauen-werder-bremen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:Nürnberg Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-vfl-wolfsburg-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J14 | ✈️ | VFL Wolfsburg
+  Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-vfl-wolfsburg-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:VFL Wolfsburg Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-nurnberg-frauen-eintracht-frankfurt-frauen-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J15 | 🏟️ | Eintracht Fr
+ ankfurt Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-nurnberg-frauen-eintracht-frankfurt-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:Nürnberg Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-vfb-stuttgart-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J16 | ✈️ | VfB Stuttgart
+  Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-vfb-stuttgart-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:VfB Stuttgart Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-nurnberg-frauen-rb-leipzig-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J17 | 🏟️ | RB Leipzig F
+ rauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-nurnberg-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:Nürnberg Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-nurnberg-frauen-hamburger-sv-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J18 | 🏟️ | Hamburger SV
+  Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-nurnberg-frauen-hamburger-sv-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:Nürnberg Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-1899-hoffenheim-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J19 | ✈️ | 1899 Hoffenhe
+ im Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-1899-hoffenheim-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:1899 Hoffenheim Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-nurnberg-frauen-1-fc-union-berlin-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J20 | 🏟️ | 1. FC Union 
+ Berlin Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-nurnberg-frauen-1-fc-union-berlin-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:Nürnberg Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-bayer-leverkusen-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J21 | ✈️ | Bayer Leverku
+ sen Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-bayer-leverkusen-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:Bayer Leverkusen Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-nurnberg-frauen-sc-freiburg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J22 | 🏟️ | SC Freiburg 
+ Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-nurnberg-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:Nürnberg Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-1-fc-koln-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J23 | ✈️ | 1.FC Köln Fr
+ auen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-1-fc-koln-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:1.FC Köln Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-nurnberg-frauen-1-fsv-mainz-05-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J24 | 🏟️ | 1. FSV Mainz
+  05 Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-nurnberg-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:Nürnberg Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-nurnberg-frauen-bayern-munchen-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J25 | 🏟️ | Bayern Munch
+ en Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-nurnberg-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:Nürnberg Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-werder-bremen-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:NÜRNBERG FRAUEN | Frauen-Bundesliga | J26 | ✈️ | Werder Bremen
+  Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-werder-bremen-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:Werder Bremen Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+END:VCALENDAR

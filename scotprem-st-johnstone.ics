@@ -1,0 +1,347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. Johnstone · Scottish Premiership
+BEGIN:VEVENT
+UID:scotprem-20261121-falkirk-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J14 | ✈️ | Falkirk 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261121-falkirk-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Falkirk - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261128-dundee-united-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J15 | ✈️ | Dundee United
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261128-dundee-united-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T150000Z
+DTEND:20261128T164500Z
+SUMMARY:Dundee United - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261202-st-johnstone-st-mirren-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J16 | 🏟️ | St Mirren 
+ 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261202-st-johnstone-st-mirren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261202T194500Z
+DTEND:20261202T213000Z
+SUMMARY:St. Johnstone - St Mirren
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261205-celtic-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J17 | ✈️ | Celtic 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261205-celtic-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Celtic - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261219-hibernian-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J19 | ✈️ | Hibernian 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261219-hibernian-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T150000Z
+DTEND:20261219T164500Z
+SUMMARY:Hibernian - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261226-st-johnstone-aberdeen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J19 | 🏟️ | Aberdeen 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261226-st-johnstone-aberdeen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261226T150000Z
+DTEND:20261226T164500Z
+SUMMARY:St. Johnstone - Aberdeen
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261230-st-johnstone-heart-of-midlothian-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J20 | 🏟️ | Heart of Mid
+ lothian 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20261230-st-johnstone-heart-of-midlothian@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261230T194500Z
+DTEND:20261230T213000Z
+SUMMARY:St. Johnstone - Heart of Midlothian
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270102-motherwell-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J21 | ✈️ | Motherwell 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270102-motherwell-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270102T150000Z
+DTEND:20270102T164500Z
+SUMMARY:Motherwell - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270109-st-johnstone-falkirk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J22 | 🏟️ | Falkirk 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270109-st-johnstone-falkirk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270109T150000Z
+DTEND:20270109T164500Z
+SUMMARY:St. Johnstone - Falkirk
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270113-st-johnstone-rangers-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J23 | 🏟️ | Rangers 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270113-st-johnstone-rangers@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270113T200000Z
+DTEND:20270113T214500Z
+SUMMARY:St. Johnstone - Rangers
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270123-rangers-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J24 | ✈️ | Rangers 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270123-rangers-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T150000Z
+DTEND:20270123T164500Z
+SUMMARY:Rangers - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270130-st-johnstone-dundee-united-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J25 | 🏟️ | Dundee Unite
+ d 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270130-st-johnstone-dundee-united@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T150000Z
+DTEND:20270130T164500Z
+SUMMARY:St. Johnstone - Dundee United
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270203-st-mirren-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J26 | ✈️ | St Mirren 
+ 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270203-st-mirren-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270203T194500Z
+DTEND:20270203T213000Z
+SUMMARY:St Mirren - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270213-dundee-fc-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J27 | ✈️ | Dundee FC 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270213-dundee-fc-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T150000Z
+DTEND:20270213T164500Z
+SUMMARY:Dundee FC - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270220-st-johnstone-kilmarnock-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J28 | 🏟️ | Kilmarnock 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270220-st-johnstone-kilmarnock@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T150000Z
+DTEND:20270220T164500Z
+SUMMARY:St. Johnstone - Kilmarnock
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270227-aberdeen-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J29 | ✈️ | Aberdeen 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270227-aberdeen-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T150000Z
+DTEND:20270227T164500Z
+SUMMARY:Aberdeen - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270313-st-johnstone-celtic-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J30 | 🏟️ | Celtic 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270313-st-johnstone-celtic@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T150000Z
+DTEND:20270313T164500Z
+SUMMARY:St. Johnstone - Celtic
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270320-st-johnstone-hibernian-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J31 | 🏟️ | Hibernian 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270320-st-johnstone-hibernian@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T150000Z
+DTEND:20270320T164500Z
+SUMMARY:St. Johnstone - Hibernian
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270403-heart-of-midlothian-st-johnstone-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J32 | ✈️ | Heart of Midl
+ othian 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270403-heart-of-midlothian-st-johnstone@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T140000Z
+DTEND:20270403T154500Z
+SUMMARY:Heart of Midlothian - St. Johnstone
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270410-st-johnstone-motherwell-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:ST. JOHNSTONE | Scottish Premiership | J33 | 🏟️ | Motherwell 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+UID:scotprem-20270410-st-johnstone-motherwell@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T140000Z
+DTEND:20270410T154500Z
+SUMMARY:St. Johnstone - Motherwell
+DESCRIPTION:Scottish Premiership
+END:VEVENT
+END:VCALENDAR

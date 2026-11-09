@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlético Mineiro · Sudamericana
+BEGIN:VEVENT
+UID:sudamericana-20261121-atletico-mineiro-boca-juniors-cs-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ATLÉTICO MINEIRO | Sudamericana | 🏟️ | Boca Juniors [CS]
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Copa Sudamericana\nEstadi: Metr
+ opolitano Roberto Meléndez
+END:VEVENT
+BEGIN:VEVENT
+UID:sudamericana-20261121-atletico-mineiro-boca-juniors-cs@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T223000Z
+DTEND:20261122T001500Z
+SUMMARY:Atlético Mineiro - Boca Juniors [CS]
+DESCRIPTION:Copa Sudamericana
+LOCATION:Metropolitano Roberto Meléndez
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,432 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VFL Bochum · 2. Bundesliga
+BEGIN:VEVENT
+UID:bundesliga2-20261121-fc-st-pauli-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J12 | ✈️ | FC St. Pauli 🇩🇪
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261121-fc-st-pauli-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T193000Z
+DTEND:20261121T211500Z
+SUMMARY:FC St. Pauli - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261127-vfl-bochum-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J13 | 🏟️ | SV Darmstadt 98 🇩
+ 🇪
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261127-vfl-bochum-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261127T173000Z
+DTEND:20261127T191500Z
+SUMMARY:VFL Bochum - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-fc-nurnberg-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J14 | ✈️ | FC Nürnberg 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Max-Morl
+ ock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-fc-nurnberg-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T120000Z
+DTEND:20261205T134500Z
+SUMMARY:FC Nürnberg - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-vfl-bochum-1-fc-heidenheim-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J15 | 🏟️ | 1.FC Heidenheim 🇩
+ 🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-vfl-bochum-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:VFL Bochum - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-vfl-bochum-1-fc-magdeburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J16 | 🏟️ | 1.FC Magdeburg 🇩
+ 🇪
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-vfl-bochum-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T193000Z
+DTEND:20261219T211500Z
+SUMMARY:VFL Bochum - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-holstein-kiel-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J17 | ✈️ | Holstein Kiel 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Holstein
+ -Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-holstein-kiel-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T120000Z
+DTEND:20270116T134500Z
+SUMMARY:Holstein Kiel - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-hertha-bsc-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J18 | ✈️ | Hertha BSC 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-hertha-bsc-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T120000Z
+DTEND:20270123T134500Z
+SUMMARY:Hertha BSC - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-vfl-bochum-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J19 | 🏟️ | Eintracht Braunschweig
+  🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-vfl-bochum-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:VFL Bochum - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-vfl-osnabruck-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J20 | ✈️ | VfL Osnabrück 🇩🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Stadion 
+ an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-vfl-osnabruck-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T200000Z
+DTEND:20270206T214500Z
+SUMMARY:VfL Osnabrück - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-vfl-bochum-sg-dynamo-dresden-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J21 | 🏟️ | SG Dynamo Dresden 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-vfl-bochum-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:VFL Bochum - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-spvgg-greuther-furth-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J22 | ✈️ | SpVgg Greuther Fürth 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-spvgg-greuther-furth-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:SpVgg Greuther Fürth - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-vfl-bochum-hannover-96-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J23 | 🏟️ | Hannover 96 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-vfl-bochum-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:VFL Bochum - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-arminia-bielefeld-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J24 | ✈️ | Arminia Bielefeld 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: SchücoA
+ rena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-arminia-bielefeld-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Arminia Bielefeld - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-vfl-bochum-fc-kaiserslautern-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J25 | 🏟️ | FC Kaiserslautern 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-vfl-bochum-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:VFL Bochum - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-vfl-wolfsburg-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J26 | ✈️ | VFL Wolfsburg 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-vfl-wolfsburg-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:VFL Wolfsburg - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-vfl-bochum-energie-cottbus-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J27 | 🏟️ | Energie Cottbus 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-vfl-bochum-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:VFL Bochum - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-karlsruher-sc-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J28 | ✈️ | Karlsruher SC 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: BBBank W
+ ildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-karlsruher-sc-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:Karlsruher SC - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-vfl-bochum-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J29 | 🏟️ | FC St. Pauli 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-vfl-bochum-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:VFL Bochum - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-sv-darmstadt-98-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J30 | ✈️ | SV Darmstadt 98 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-sv-darmstadt-98-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:SV Darmstadt 98 - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-vfl-bochum-fc-nurnberg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J31 | 🏟️ | FC Nürnberg 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-vfl-bochum-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:VFL Bochum - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-1-fc-heidenheim-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J32 | ✈️ | 1.FC Heidenheim 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Voith-Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-1-fc-heidenheim-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:1.FC Heidenheim - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-1-fc-magdeburg-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J33 | ✈️ | 1.FC Magdeburg 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: MDCC-Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-1-fc-magdeburg-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:1.FC Magdeburg - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-vfl-bochum-holstein-kiel-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:VFL BOCHUM | 2. Bundesliga | J34 | 🏟️ | Holstein Kiel 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-vfl-bochum-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:VFL Bochum - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+END:VCALENDAR

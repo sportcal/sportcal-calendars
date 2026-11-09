@@ -1,0 +1,391 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kocaelispor · Süper Lig
+BEGIN:VEVENT
+UID:superlig-20261121-kocaelispor-fenerbahce-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:KOCAELISPOR | Süper Lig | J12 | 🏟️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261121-kocaelispor-fenerbahce@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T160000Z
+DTEND:20261121T174500Z
+SUMMARY:Kocaelispor - Fenerbahçe
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261129-corum-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:KOCAELISPOR | Süper Lig | J13 | ✈️ | Çorum 🇹🇷
+DESCRIPTION:Inici: 11:30 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261129-corum-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T103000Z
+DTEND:20261129T121500Z
+SUMMARY:Çorum - Kocaelispor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261206-erzurumspor-fk-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:KOCAELISPOR | Süper Lig | J14 | ✈️ | Erzurumspor FK 🇹🇷
+DESCRIPTION:Inici: 11:30 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261206-erzurumspor-fk-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T103000Z
+DTEND:20261206T121500Z
+SUMMARY:Erzurumspor FK - Kocaelispor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261213-kocaelispor-genclerbirligi-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:KOCAELISPOR | Süper Lig | J15 | 🏟️ | Genclerbirligi 🇹🇷
+DESCRIPTION:Inici: 11:30 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261213-kocaelispor-genclerbirligi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T103000Z
+DTEND:20261213T121500Z
+SUMMARY:Kocaelispor - Genclerbirligi
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261221-trabzonspor-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:KOCAELISPOR | Süper Lig | J16 | ✈️ | Trabzonspor 🇹🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20261221-trabzonspor-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261221T170000Z
+DTEND:20261221T184500Z
+SUMMARY:Trabzonspor - Kocaelispor
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270117-kocaelispor-kas-mpasa-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:KOCAELISPOR | Süper Lig | J17 | 🏟️ | Kasımpaşa 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270117-kocaelispor-kas-mpasa@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Kocaelispor - Kasımpaşa · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270124-kocaelispor-basaksehir-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:KOCAELISPOR | Süper Lig | J18 | 🏟️ | Başakşehir 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270124-kocaelispor-basaksehir@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Kocaelispor - Başakşehir · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270131-amed-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:KOCAELISPOR | Süper Lig | J19 | ✈️ | Amed 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270131-amed-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Amed - Kocaelispor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270207-kocaelispor-konyaspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:KOCAELISPOR | Süper Lig | J20 | 🏟️ | Konyaspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270207-kocaelispor-konyaspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Kocaelispor - Konyaspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270214-samsunspor-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:KOCAELISPOR | Süper Lig | J21 | ✈️ | Samsunspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270214-samsunspor-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Samsunspor - Kocaelispor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270221-kocaelispor-galatasaray-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:KOCAELISPOR | Süper Lig | J22 | 🏟️ | Galatasaray 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270221-kocaelispor-galatasaray@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Kocaelispor - Galatasaray · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270228-gaziantep-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:KOCAELISPOR | Süper Lig | J23 | ✈️ | Gaziantep 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270228-gaziantep-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Gaziantep - Kocaelispor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270307-kocaelispor-besiktas-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:KOCAELISPOR | Süper Lig | J24 | 🏟️ | Beşiktaş 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270307-kocaelispor-besiktas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Kocaelispor - Beşiktaş · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270314-goztepe-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:KOCAELISPOR | Süper Lig | J25 | ✈️ | Göztepe 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270314-goztepe-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Göztepe - Kocaelispor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270321-kocaelispor-alanyaspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:KOCAELISPOR | Süper Lig | J26 | 🏟️ | Alanyaspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270321-kocaelispor-alanyaspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Kocaelispor - Alanyaspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270404-rizespor-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:KOCAELISPOR | Süper Lig | J27 | ✈️ | Rizespor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270404-rizespor-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Rizespor - Kocaelispor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270411-kocaelispor-eyupspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:KOCAELISPOR | Süper Lig | J28 | 🏟️ | Eyüpspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270411-kocaelispor-eyupspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Kocaelispor - Eyüpspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270418-fenerbahce-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:KOCAELISPOR | Süper Lig | J29 | ✈️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270418-fenerbahce-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Fenerbahçe - Kocaelispor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270425-kocaelispor-corum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:KOCAELISPOR | Süper Lig | J30 | 🏟️ | Çorum 🇹🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270425-kocaelispor-corum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T000000Z
+DTEND:20270425T014500Z
+SUMMARY:Kocaelispor - Çorum
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270502-kocaelispor-erzurumspor-fk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:KOCAELISPOR | Süper Lig | J31 | 🏟️ | Erzurumspor FK 🇹🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270502-kocaelispor-erzurumspor-fk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:Kocaelispor - Erzurumspor FK
+DESCRIPTION:Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270509-genclerbirligi-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:KOCAELISPOR | Süper Lig | J32 | ✈️ | Genclerbirligi 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270509-genclerbirligi-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Genclerbirligi - Kocaelispor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270516-kocaelispor-trabzonspor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:KOCAELISPOR | Süper Lig | J33 | 🏟️ | Trabzonspor 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270516-kocaelispor-trabzonspor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Kocaelispor - Trabzonspor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270523-kas-mpasa-kocaelispor-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:KOCAELISPOR | Süper Lig | J34 | ✈️ | Kasımpaşa 🇹🇷
+DESCRIPTION:Hora pendent de confirmació · Süper Lig
+END:VEVENT
+BEGIN:VEVENT
+UID:superlig-20270523-kas-mpasa-kocaelispor@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Kasımpaşa - Kocaelispor · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Süper Lig
+END:VEVENT
+END:VCALENDAR

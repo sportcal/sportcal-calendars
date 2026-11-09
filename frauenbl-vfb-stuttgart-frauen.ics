@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VfB Stuttgart Frauen · Frauen-Bundesliga
+BEGIN:VEVENT
+UID:frauenbl-20261116-vfb-stuttgart-frauen-bayer-leverkusen-frauen-dia@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J10 | 🏟️ | Bayer Le
+ verkusen Frauen 🇩🇪
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261116-vfb-stuttgart-frauen-bayer-leverkusen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261116T170000Z
+DTEND:20261116T184500Z
+SUMMARY:VfB Stuttgart Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261122-sc-freiburg-frauen-vfb-stuttgart-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J11 | ✈️ | SC Freibu
+ rg Frauen 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261122-sc-freiburg-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:SC Freiburg Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-vfb-stuttgart-frauen-rb-leipzig-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J12 | 🏟️ | RB Leipz
+ ig Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-vfb-stuttgart-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:VfB Stuttgart Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-1-fc-koln-frauen-vfb-stuttgart-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J13 | ✈️ | 1.FC Köl
+ n Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-1-fc-koln-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:1.FC Köln Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-vfb-stuttgart-frauen-1899-hoffenheim-frauen-dia@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J14 | 🏟️ | 1899 Hof
+ fenheim Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-vfb-stuttgart-frauen-1899-hoffenheim-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:VfB Stuttgart Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-hamburger-sv-frauen-vfb-stuttgart-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J15 | ✈️ | Hamburger
+  SV Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-hamburger-sv-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:Hamburger SV Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-vfb-stuttgart-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J16 | 🏟️ | Nürnber
+ g Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-vfb-stuttgart-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:VfB Stuttgart Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-vfl-wolfsburg-frauen-vfb-stuttgart-frauen-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J17 | ✈️ | VFL Wolfs
+ burg Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-vfl-wolfsburg-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:VFL Wolfsburg Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-vfb-stuttgart-frauen-werder-bremen-frauen-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J18 | 🏟️ | Werder B
+ remen Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-vfb-stuttgart-frauen-werder-bremen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:VfB Stuttgart Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-1-fc-union-berlin-frauen-vfb-stuttgart-frauen-dia@spo
+ rtcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J19 | ✈️ | 1. FC Uni
+ on Berlin Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-1-fc-union-berlin-frauen-vfb-stuttgart-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:1. FC Union Berlin Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-vfb-stuttgart-frauen-bayern-munchen-frauen-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J20 | 🏟️ | Bayern M
+ unchen Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-vfb-stuttgart-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:VfB Stuttgart Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-eintracht-frankfurt-frauen-vfb-stuttgart-frauen-dia@s
+ portcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J21 | ✈️ | Eintracht
+  Frankfurt Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-eintracht-frankfurt-frauen-vfb-stuttgart-frauen@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:Eintracht Frankfurt Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-vfb-stuttgart-frauen-1-fsv-mainz-05-frauen-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J22 | 🏟️ | 1. FSV M
+ ainz 05 Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-vfb-stuttgart-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:VfB Stuttgart Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-bayer-leverkusen-frauen-vfb-stuttgart-frauen-dia@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J23 | ✈️ | Bayer Lev
+ erkusen Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-bayer-leverkusen-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:Bayer Leverkusen Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-vfb-stuttgart-frauen-sc-freiburg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J24 | 🏟️ | SC Freib
+ urg Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-vfb-stuttgart-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:VfB Stuttgart Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-rb-leipzig-frauen-vfb-stuttgart-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J25 | ✈️ | RB Leipzi
+ g Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-rb-leipzig-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:RB Leipzig Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-vfb-stuttgart-frauen-1-fc-koln-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:VFB STUTTGART FRAUEN | Frauen-Bundesliga | J26 | 🏟️ | 1.FC Kö
+ ln Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-vfb-stuttgart-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:VfB Stuttgart Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+END:VCALENDAR

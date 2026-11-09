@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ghazl El Mahalla · Premier League
+BEGIN:VEVENT
+UID:egyptpl-20261125-ghazl-el-mahalla-petrojet-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:GHAZL EL MAHALLA | Premier League | J9 | 🏟️ | Petrojet 🇪
+ 🇬
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20261125-ghazl-el-mahalla-petrojet@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261125T180000Z
+DTEND:20261125T194500Z
+SUMMARY:Ghazl El Mahalla - Petrojet
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20261210-ghazl-el-mahalla-al-ahly-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:GHAZL EL MAHALLA | Premier League | J10 | 🏟️ | Al Ahly 🇪
+ 🇬
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20261210-ghazl-el-mahalla-al-ahly@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261210T180000Z
+DTEND:20261210T194500Z
+SUMMARY:Ghazl El Mahalla - Al Ahly
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20261216-al-masry-ghazl-el-mahalla-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:GHAZL EL MAHALLA | Premier League | J11 | ✈️ | Al Masry 🇪
+ 🇬
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20261216-al-masry-ghazl-el-mahalla@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261216T180000Z
+DTEND:20261216T194500Z
+SUMMARY:Al Masry - Ghazl El Mahalla
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20261222-ghazl-el-mahalla-al-mokawloon-al-arab-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:GHAZL EL MAHALLA | Premier League | J12 | 🏟️ | Al Mokawloon Al
+  Arab 🇪🇬
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20261222-ghazl-el-mahalla-al-mokawloon-al-arab@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261222T180000Z
+DTEND:20261222T194500Z
+SUMMARY:Ghazl El Mahalla - Al Mokawloon Al Arab
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20261227-el-gounah-ghazl-el-mahalla-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:GHAZL EL MAHALLA | Premier League | J13 | ✈️ | El Gounah 🇪
+ 🇬
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20261227-el-gounah-ghazl-el-mahalla@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261227T150000Z
+DTEND:20261227T164500Z
+SUMMARY:El Gounah - Ghazl El Mahalla
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270105-ghazl-el-mahalla-zed-fc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:GHAZL EL MAHALLA | Premier League | J14 | 🏟️ | ZED FC 🇪🇬
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270105-ghazl-el-mahalla-zed-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270105T180000Z
+DTEND:20270105T194500Z
+SUMMARY:Ghazl El Mahalla - ZED FC
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270126-wadi-degla-ghazl-el-mahalla-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:GHAZL EL MAHALLA | Premier League | J15 | ✈️ | Wadi Degla 🇪
+ 🇬
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270126-wadi-degla-ghazl-el-mahalla@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270126T180000Z
+DTEND:20270126T194500Z
+SUMMARY:Wadi Degla - Ghazl El Mahalla
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270201-ghazl-el-mahalla-tala-ea-el-gaish-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:GHAZL EL MAHALLA | Premier League | J16 | 🏟️ | Tala'ea El Gais
+ h 🇪🇬
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270201-ghazl-el-mahalla-tala-ea-el-gaish@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270201T180000Z
+DTEND:20270201T194500Z
+SUMMARY:Ghazl El Mahalla - Tala'ea El Gaish
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270206-olympic-el-qanah-ghazl-el-mahalla-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:GHAZL EL MAHALLA | Premier League | J17 | ✈️ | Olympic El Qanah
+  🇪🇬
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270206-olympic-el-qanah-ghazl-el-mahalla@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T150000Z
+DTEND:20270206T164500Z
+SUMMARY:Olympic El Qanah - Ghazl El Mahalla
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270211-ghazl-el-mahalla-ceramica-cleopatra-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:GHAZL EL MAHALLA | Premier League | J18 | 🏟️ | Ceramica Cleopa
+ tra 🇪🇬
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270211-ghazl-el-mahalla-ceramica-cleopatra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270211T193000Z
+DTEND:20270211T211500Z
+SUMMARY:Ghazl El Mahalla - Ceramica Cleopatra
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270218-asyut-petroleum-ghazl-el-mahalla-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:GHAZL EL MAHALLA | Premier League | J19 | ✈️ | Asyut Petroleum 
+ 🇪🇬
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Egyptian Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:egyptpl-20270218-asyut-petroleum-ghazl-el-mahalla@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270218T193000Z
+DTEND:20270218T211500Z
+SUMMARY:Asyut Petroleum - Ghazl El Mahalla
+DESCRIPTION:Egyptian Premier League
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,389 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deportivo Alavés Women · Liga F
+BEGIN:VEVENT
+UID:ligaf-20261114-deportivo-alaves-women-sd-eibar-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J11 | 🏟️ | SD Eibar Women 
+ 🇪🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Liga F\nEstadi: Mendizorrotza
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261114-deportivo-alaves-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Deportivo Alavés Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Mendizorrotza
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261121-logrono-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J12 | ✈️ | Logroño Women 
+ 🇪🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Liga F\nEstadi: Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261121-logrono-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Logroño Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-athletic-club-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J13 | ✈️ | Athletic Club Wom
+ en 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga F\nEstadi: Instalaciones d
+ e Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-athletic-club-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261209T200000Z
+DTEND:20261209T214500Z
+SUMMARY:Athletic Club Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-deportivo-alaves-women-real-madrid-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J14 | 🏟️ | Real Madrid Wome
+ n 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-deportivo-alaves-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Deportivo Alavés Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-badalona-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J15 | ✈️ | Badalona Women 
+ 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga F\nEstadi: Nou Municipal d
+ e Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-badalona-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Badalona Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-deportivo-alaves-women-madrid-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J16 | 🏟️ | Madrid Women 
+ 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-deportivo-alaves-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Deportivo Alavés Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-granada-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J17 | ✈️ | Granada Women 
+ 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-granada-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Granada Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-deportivo-alaves-women-atletico-madrid-women-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J18 | 🏟️ | Atlético Madrid
+  Women 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-deportivo-alaves-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Deportivo Alavés Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-valencia-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J19 | ✈️ | Valencia Women 
+ 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga F\nEstadi: Estadio Antonio
+  Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-valencia-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Valencia Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-deportivo-alaves-women-espanyol-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J20 | 🏟️ | Espanyol Women 
+ 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-deportivo-alaves-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Deportivo Alavés Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-deportivo-alaves-women-granadilla-tenerife-women-dia@spo
+ rtcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J20 | 🏟️ | Granadilla Tener
+ ife Women 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-deportivo-alaves-women-granadilla-tenerife-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Deportivo Alavés Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-fc-barcelona-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J22 | ✈️ | FC Barcelona Wome
+ n 🇪🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Liga F\nEstadi: Estadi Johan Cr
+ uyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-fc-barcelona-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:FC Barcelona Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-deportivo-alaves-women-logrono-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J23 | 🏟️ | Logroño Women 
+ 🇪🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-deportivo-alaves-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Deportivo Alavés Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-sd-eibar-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J24 | ✈️ | SD Eibar Women 
+ 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Liga F\nEstadi: Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-sd-eibar-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:SD Eibar Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-deportivo-alaves-women-deportivo-de-la-coruna-women-dia@
+ sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J25 | 🏟️ | Deportivo de La 
+ Coruña Women 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-deportivo-alaves-women-deportivo-de-la-coruna-women@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Deportivo Alavés Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-real-sociedad-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J26 | ✈️ | Real Sociedad Wom
+ en 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Liga F\nEstadi: Estadio Zubieta
+  XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-real-sociedad-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Real Sociedad Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-deportivo-alaves-women-athletic-club-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J27 | 🏟️ | Athletic Club Wo
+ men 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-deportivo-alaves-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Deportivo Alavés Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-sevilla-fc-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J28 | ✈️ | Sevilla FC Women 
+ 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Liga F\nEstadi: Estadio Jesús 
+ Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-sevilla-fc-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Sevilla FC Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-deportivo-alaves-women-badalona-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J29 | 🏟️ | Badalona Women 
+ 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Liga F\nEstadi: Ciudad Deportiv
+ a José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-deportivo-alaves-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270519T180000Z
+DTEND:20270519T194500Z
+SUMMARY:Deportivo Alavés Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-real-madrid-women-deportivo-alaves-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:DEPORTIVO ALAVÉS WOMEN | Liga F | J30 | ✈️ | Real Madrid Women
+  🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Liga F\nEstadi: Alfredo Di Sté
+ fano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-real-madrid-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Real Madrid Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+END:VCALENDAR

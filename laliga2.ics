@@ -1,0 +1,3323 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LaLiga 2
+BEGIN:VEVENT
+UID:laliga2-dia-20261109-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:LALIGA 2 | J13
+DESCRIPTION:20:30 CE Sabadell FC - Real Sociedad II
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261113-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:LALIGA 2 | J14
+DESCRIPTION:20:30 CD Leganés - Burgos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261114-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:LALIGA 2 | J14
+DESCRIPTION:14:00 Real Valladolid - CD Castellón\n16:15 Real Sociedad II -
+  Real Sporting de Gijon\n18:30 UD Almeria - FC Andorra\n18:30 Real Mallorc
+ a - Cordoba CF\n21:00 Real Oviedo - Girona FC
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261115-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:LALIGA 2 | J14
+DESCRIPTION:14:00 CD Tenerife - AD Ceuta FC\n16:15 Granada CF - UD Las Palm
+ as\n18:30 SD Eibar - Cádiz\n18:30 CD Eldense - CE Sabadell FC
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261116-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:LALIGA 2 | J14
+DESCRIPTION:20:30 Albacete Balompie - RC Celta Fortuna
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261120-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:LALIGA 2 | J15
+DESCRIPTION:20:30 FC Andorra - CD Leganés
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261121-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:LALIGA 2 | J15
+DESCRIPTION:14:00 CE Sabadell FC - Granada CF\n16:15 Real Sociedad II - Cá
+ diz\n18:30 CD Castellón - CD Eldense\n21:00 CD Tenerife - Real Mallorca
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261122-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:LALIGA 2 | J15
+DESCRIPTION:14:00 Cordoba CF - Real Oviedo\n16:15 Real Sporting de Gijon - 
+ UD Las Palmas\n18:30 Girona FC - SD Eibar\n18:30 RC Celta Fortuna - Real V
+ alladolid\n21:00 Burgos - Albacete Balompie
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261123-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:LALIGA 2 | J15
+DESCRIPTION:20:30 AD Ceuta FC - UD Almeria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261129-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:LALIGA 2 | J16
+DESCRIPTION:01:00 SD Eibar - Burgos\n01:00 Real Oviedo - RC Celta Fortuna\n
+ 21:00 Albacete Balompie - CD Tenerife\n21:00 UD Almeria - Real Sporting de
+  Gijon\n21:00 Cádiz - Cordoba CF\n21:00 CD Eldense - Girona FC\n21:00 Gra
+ nada CF - AD Ceuta FC\n21:00 UD Las Palmas - FC Andorra\n21:00 CD Leganés
+  - CE Sabadell FC\n21:00 Real Mallorca - CD Castellón\n21:00 Real Vallado
+ lid - Real Sociedad II
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261206-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:LALIGA 2 | J17
+DESCRIPTION:01:00 Burgos - Cádiz\n01:00 RC Celta Fortuna - Real Mallorca\n
+ 21:00 CD Castellón - UD Almeria\n21:00 CE Sabadell FC - SD Eibar\n21:00 A
+ D Ceuta FC - Albacete Balompie\n21:00 Cordoba CF - UD Las Palmas\n21:00 FC
+  Andorra - Real Oviedo\n21:00 Girona FC - Real Valladolid\n21:00 Real Soci
+ edad II - CD Leganés\n21:00 Real Sporting de Gijon - Granada CF\n21:00 CD
+  Tenerife - CD Eldense
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261213-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:LALIGA 2 | J18
+DESCRIPTION:01:00 UD Las Palmas - RC Celta Fortuna\n01:00 Real Mallorca - B
+ urgos\n21:00 UD Almeria - Albacete Balompie\n21:00 Cádiz - CE Sabadell FC
+ \n21:00 Cordoba CF - CD Castellón\n21:00 SD Eibar - Real Sporting de Gijo
+ n\n21:00 CD Eldense - FC Andorra\n21:00 Granada CF - Girona FC\n21:00 CD L
+ eganés - AD Ceuta FC\n21:00 Real Oviedo - Real Sociedad II\n21:00 Real Va
+ lladolid - CD Tenerife
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20261220-j19@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:LALIGA 2 | J19
+DESCRIPTION:01:00 Burgos - Girona FC\n01:00 RC Celta Fortuna - CD Eldense\n
+ 21:00 Albacete Balompie - Real Mallorca\n21:00 UD Almeria - Real Valladoli
+ d\n21:00 CD Castellón - Granada CF\n21:00 CE Sabadell FC - UD Las Palmas\
+ n21:00 AD Ceuta FC - SD Eibar\n21:00 FC Andorra - Cádiz\n21:00 Real Socie
+ dad II - Cordoba CF\n21:00 Real Sporting de Gijon - CD Leganés\n21:00 CD 
+ Tenerife - Real Oviedo
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270103-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:LALIGA 2 | J20
+DESCRIPTION:01:00 CD Leganés - RC Celta Fortuna\n01:00 Real Valladolid - B
+ urgos\n21:00 Cádiz - Albacete Balompie\n21:00 Cordoba CF - FC Andorra\n21
+ :00 SD Eibar - Real Sociedad II\n21:00 CD Eldense - AD Ceuta FC\n21:00 Gir
+ ona FC - CE Sabadell FC\n21:00 Granada CF - UD Almeria\n21:00 UD Las Palma
+ s - CD Tenerife\n21:00 Real Mallorca - Real Sporting de Gijon\n21:00 Real 
+ Oviedo - CD Castellón
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270110-j21@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:LALIGA 2 | J21
+DESCRIPTION:01:00 RC Celta Fortuna - Granada CF\n01:00 CD Tenerife - Burgos
+ \n21:00 Albacete Balompie - FC Andorra\n21:00 UD Almeria - UD Las Palmas\n
+ 21:00 CD Castellón - Cádiz\n21:00 CE Sabadell FC - Real Valladolid\n21:0
+ 0 AD Ceuta FC - Girona FC\n21:00 CD Leganés - SD Eibar\n21:00 Real Mallor
+ ca - Real Oviedo\n21:00 Real Sociedad II - CD Eldense\n21:00 Real Sporting
+  de Gijon - Cordoba CF
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270117-j22@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:LALIGA 2 | J22
+DESCRIPTION:01:00 Burgos - Real Sporting de Gijon\n01:00 SD Eibar - RC Celt
+ a Fortuna\n21:00 Cádiz - Real Mallorca\n21:00 CD Castellón - CD Leganés
+ \n21:00 Cordoba CF - CE Sabadell FC\n21:00 CD Eldense - Albacete Balompie\
+ n21:00 FC Andorra - CD Tenerife\n21:00 Granada CF - Real Sociedad II\n21:0
+ 0 UD Las Palmas - Girona FC\n21:00 Real Oviedo - UD Almeria\n21:00 Real Va
+ lladolid - AD Ceuta FC
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270124-j23@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:LALIGA 2 | J23
+DESCRIPTION:01:00 RC Celta Fortuna - Burgos\n21:00 Albacete Balompie - Gran
+ ada CF\n21:00 UD Almeria - Cordoba CF\n21:00 Cádiz - CD Eldense\n21:00 CE
+  Sabadell FC - AD Ceuta FC\n21:00 Girona FC - Real Oviedo\n21:00 CD Legan
+ és - Real Valladolid\n21:00 Real Mallorca - FC Andorra\n21:00 Real Socied
+ ad II - UD Las Palmas\n21:00 Real Sporting de Gijon - CD Castellón\n21:00
+  CD Tenerife - SD Eibar
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270131-j24@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:LALIGA 2 | J24
+DESCRIPTION:01:00 Burgos - CD Leganés\n01:00 Real Valladolid - RC Celta Fo
+ rtuna\n21:00 AD Ceuta FC - CD Tenerife\n21:00 Cordoba CF - Real Mallorca\n
+ 21:00 SD Eibar - Albacete Balompie\n21:00 CD Eldense - CD Castellón\n21:0
+ 0 FC Andorra - UD Almeria\n21:00 Girona FC - Real Sociedad II\n21:00 Grana
+ da CF - CE Sabadell FC\n21:00 UD Las Palmas - Real Sporting de Gijon\n21:0
+ 0 Real Oviedo - Cádiz
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270207-j25@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:LALIGA 2 | J25
+DESCRIPTION:01:00 CE Sabadell FC - Burgos\n01:00 RC Celta Fortuna - Girona 
+ FC\n21:00 Albacete Balompie - Real Valladolid\n21:00 UD Almeria - SD Eibar
+ \n21:00 CD Castellón - UD Las Palmas\n21:00 Cordoba CF - Cádiz\n21:00 CD
+  Leganés - Real Oviedo\n21:00 Real Mallorca - CD Eldense\n21:00 Real Soci
+ edad II - FC Andorra\n21:00 Real Sporting de Gijon - AD Ceuta FC\n21:00 CD
+  Tenerife - Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270214-j26@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:LALIGA 2 | J26
+DESCRIPTION:01:00 Burgos - UD Almeria\n01:00 FC Andorra - RC Celta Fortuna\
+ n21:00 Albacete Balompie - CD Castellón\n21:00 Cádiz - Real Sociedad II\
+ n21:00 AD Ceuta FC - Real Mallorca\n21:00 CD Eldense - CD Tenerife\n21:00 
+ Girona FC - Cordoba CF\n21:00 Granada CF - CD Leganés\n21:00 UD Las Palma
+ s - SD Eibar\n21:00 Real Oviedo - CE Sabadell FC\n21:00 Real Valladolid - 
+ Real Sporting de Gijon
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270221-j27@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:LALIGA 2 | J27
+DESCRIPTION:01:00 Cordoba CF - Burgos\n01:00 RC Celta Fortuna - UD Las Palm
+ as\n21:00 UD Almeria - AD Ceuta FC\n21:00 CD Castellón - Girona FC\n21:00
+  CE Sabadell FC - CD Eldense\n21:00 SD Eibar - Real Oviedo\n21:00 CD Legan
+ és - Cádiz\n21:00 Real Mallorca - Granada CF\n21:00 Real Sociedad II - R
+ eal Valladolid\n21:00 Real Sporting de Gijon - FC Andorra\n21:00 CD Teneri
+ fe - Albacete Balompie
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270228-j28@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:LALIGA 2 | J28
+DESCRIPTION:01:00 Albacete Balompie - Burgos\n01:00 CD Eldense - RC Celta F
+ ortuna\n21:00 Cádiz - UD Almeria\n21:00 CD Castellón - FC Andorra\n21:00
+  AD Ceuta FC - CD Leganés\n21:00 Girona FC - Real Sporting de Gijon\n21:0
+ 0 Granada CF - Cordoba CF\n21:00 UD Las Palmas - CE Sabadell FC\n21:00 Rea
+ l Mallorca - Real Sociedad II\n21:00 Real Oviedo - CD Tenerife\n21:00 Real
+  Valladolid - SD Eibar
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270307-j29@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:LALIGA 2 | J29
+DESCRIPTION:01:00 Burgos - Real Mallorca\n01:00 RC Celta Fortuna - Real Ovi
+ edo\n21:00 UD Almeria - CD Castellón\n21:00 CE Sabadell FC - Albacete Bal
+ ompie\n21:00 Cordoba CF - Real Valladolid\n21:00 SD Eibar - CD Eldense\n21
+ :00 FC Andorra - Girona FC\n21:00 UD Las Palmas - Granada CF\n21:00 CD Leg
+ anés - CD Tenerife\n21:00 Real Sociedad II - AD Ceuta FC\n21:00 Real Spor
+ ting de Gijon - Cádiz
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270314-j30@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:LALIGA 2 | J30
+DESCRIPTION:01:00 CD Castellón - RC Celta Fortuna\n01:00 Girona FC - Burgo
+ s\n19:00 Albacete Balompie - UD Las Palmas\n19:00 Cádiz - Granada CF\n19:
+ 00 AD Ceuta FC - FC Andorra\n19:00 CD Eldense - Real Sporting de Gijon\n19
+ :00 Real Mallorca - CD Leganés\n19:00 Real Oviedo - Cordoba CF\n19:00 Rea
+ l Sociedad II - SD Eibar\n19:00 Real Valladolid - UD Almeria\n19:00 CD Ten
+ erife - CE Sabadell FC
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270321-j31@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:LALIGA 2 | J31
+DESCRIPTION:01:00 Burgos - CD Tenerife\n01:00 CE Sabadell FC - RC Celta For
+ tuna\n19:00 UD Almeria - Real Sociedad II\n19:00 Cordoba CF - CD Eldense\n
+ 19:00 SD Eibar - AD Ceuta FC\n19:00 FC Andorra - Albacete Balompie\n19:00 
+ Granada CF - CD Castellón\n19:00 UD Las Palmas - Real Oviedo\n19:00 CD Le
+ ganés - Girona FC\n19:00 Real Valladolid - Cádiz\n19:00 Real Sporting de
+  Gijon - Real Mallorca
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270328-j32@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:LALIGA 2 | J32
+DESCRIPTION:01:00 RC Celta Fortuna - Real Sporting de Gijon\n01:00 Real Soc
+ iedad II - Burgos\n20:00 Albacete Balompie - UD Almeria\n20:00 CD Castell
+ ón - Cordoba CF\n20:00 CE Sabadell FC - Real Mallorca\n20:00 AD Ceuta FC 
+ - Granada CF\n20:00 SD Eibar - FC Andorra\n20:00 CD Eldense - CD Leganés\
+ n20:00 Girona FC - Cádiz\n20:00 Real Oviedo - Real Valladolid\n20:00 CD T
+ enerife - UD Las Palmas
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270404-j33@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:LALIGA 2 | J33
+DESCRIPTION:02:00 Burgos - Real Oviedo\n02:00 Cordoba CF - RC Celta Fortuna
+ \n20:00 Cádiz - CD Castellón\n20:00 FC Andorra - CD Eldense\n20:00 Grana
+ da CF - SD Eibar\n20:00 UD Las Palmas - AD Ceuta FC\n20:00 CD Leganés - U
+ D Almeria\n20:00 Real Mallorca - Girona FC\n20:00 Real Sociedad II - Albac
+ ete Balompie\n20:00 Real Valladolid - CE Sabadell FC\n20:00 Real Sporting 
+ de Gijon - CD Tenerife
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270411-j34@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:LALIGA 2 | J34
+DESCRIPTION:02:00 CD Castellón - Burgos\n02:00 RC Celta Fortuna - Cádiz\n
+ 20:00 Albacete Balompie - AD Ceuta FC\n20:00 UD Almeria - CD Tenerife\n20:
+ 00 CE Sabadell FC - CD Leganés\n20:00 SD Eibar - Cordoba CF\n20:00 FC And
+ orra - Real Valladolid\n20:00 Girona FC - Granada CF\n20:00 UD Las Palmas 
+ - Real Mallorca\n20:00 Real Oviedo - CD Eldense\n20:00 Real Sporting de Gi
+ jon - Real Sociedad II
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270418-j35@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:LALIGA 2 | J35
+DESCRIPTION:02:00 CD Eldense - Burgos\n02:00 RC Celta Fortuna - UD Almeria\
+ n20:00 Cádiz - FC Andorra\n20:00 CE Sabadell FC - Real Sporting de Gijon\
+ n20:00 AD Ceuta FC - CD Castellón\n20:00 Cordoba CF - Albacete Balompie\n
+ 20:00 Granada CF - Real Oviedo\n20:00 CD Leganés - UD Las Palmas\n20:00 R
+ eal Mallorca - SD Eibar\n20:00 Real Valladolid - Girona FC\n20:00 CD Tener
+ ife - Real Sociedad II
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270425-j36@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:LALIGA 2 | J36
+DESCRIPTION:02:00 Burgos - Real Valladolid\n02:00 Real Sociedad II - RC Cel
+ ta Fortuna\n20:00 Albacete Balompie - CD Leganés\n20:00 UD Almeria - Gran
+ ada CF\n20:00 CD Castellón - Real Mallorca\n20:00 AD Ceuta FC - CD Eldens
+ e\n20:00 SD Eibar - CE Sabadell FC\n20:00 FC Andorra - Cordoba CF\n20:00 G
+ irona FC - CD Tenerife\n20:00 UD Las Palmas - Cádiz\n20:00 Real Sporting 
+ de Gijon - Real Oviedo
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270502-j37@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:LALIGA 2 | J37
+DESCRIPTION:02:00 Granada CF - Burgos\n02:00 RC Celta Fortuna - AD Ceuta FC
+ \n20:00 Cádiz - SD Eibar\n20:00 CE Sabadell FC - Girona FC\n20:00 Cordoba
+  CF - Real Sociedad II\n20:00 CD Eldense - UD Almeria\n20:00 FC Andorra - 
+ UD Las Palmas\n20:00 CD Leganés - Real Sporting de Gijon\n20:00 Real Ovie
+ do - Albacete Balompie\n20:00 Real Valladolid - Real Mallorca\n20:00 CD Te
+ nerife - CD Castellón
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270509-j37@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:LALIGA 2 | J37
+DESCRIPTION:20:00 CD Eldense - UD Las Palmas
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270509-j38@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:LALIGA 2 | J38
+DESCRIPTION:02:00 Burgos - FC Andorra\n02:00 Real Mallorca - RC Celta Fortu
+ na\n20:00 Albacete Balompie - Girona FC\n20:00 UD Almeria - CE Sabadell FC
+ \n20:00 CD Castellón - Real Valladolid\n20:00 AD Ceuta FC - Cádiz\n20:00
+  SD Eibar - CD Leganés\n20:00 Granada CF - Real Sporting de Gijon\n20:00 
+ Real Sociedad II - Real Oviedo\n20:00 CD Tenerife - Cordoba CF
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270516-j39@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:LALIGA 2 | J39
+DESCRIPTION:02:00 Cádiz - Burgos\n02:00 RC Celta Fortuna - Albacete Balomp
+ ie\n20:00 CD Castellón - Real Sociedad II\n20:00 Cordoba CF - CD Leganés
+ \n20:00 FC Andorra - CE Sabadell FC\n20:00 Girona FC - CD Eldense\n20:00 U
+ D Las Palmas - UD Almeria\n20:00 Real Mallorca - CD Tenerife\n20:00 Real O
+ viedo - AD Ceuta FC\n20:00 Real Valladolid - Granada CF\n20:00 Real Sporti
+ ng de Gijon - SD Eibar
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270523-j40@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:LALIGA 2 | J40
+DESCRIPTION:02:00 Burgos - UD Las Palmas\n02:00 Granada CF - RC Celta Fortu
+ na\n20:00 Albacete Balompie - Real Sporting de Gijon\n20:00 UD Almeria - G
+ irona FC\n20:00 CE Sabadell FC - Cádiz\n20:00 AD Ceuta FC - Cordoba CF\n2
+ 0:00 SD Eibar - CD Castellón\n20:00 CD Eldense - Real Sociedad II\n20:00 
+ CD Leganés - FC Andorra\n20:00 Real Oviedo - Real Mallorca\n20:00 CD Tene
+ rife - Real Valladolid
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270530-j41@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:LALIGA 2 | J41
+DESCRIPTION:02:00 Burgos - SD Eibar\n02:00 RC Celta Fortuna - CD Leganés\n
+ 20:00 Cádiz - CD Tenerife\n20:00 CD Castellón - Real Oviedo\n20:00 CD El
+ dense - Real Valladolid\n20:00 FC Andorra - Granada CF\n20:00 Girona FC - 
+ AD Ceuta FC\n20:00 UD Las Palmas - Cordoba CF\n20:00 Real Mallorca - Albac
+ ete Balompie\n20:00 Real Sociedad II - CE Sabadell FC\n20:00 Real Sporting
+  de Gijon - UD Almeria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-dia-20270606-j42@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:LALIGA 2 | J42
+DESCRIPTION:02:00 AD Ceuta FC - Burgos\n02:00 CD Tenerife - RC Celta Fortun
+ a\n20:00 Albacete Balompie - Cádiz\n20:00 UD Almeria - Real Mallorca\n20:
+ 00 CE Sabadell FC - CD Castellón\n20:00 Cordoba CF - Real Sporting de Gij
+ on\n20:00 SD Eibar - Girona FC\n20:00 Granada CF - CD Eldense\n20:00 CD Le
+ ganés - Real Sociedad II\n20:00 Real Oviedo - FC Andorra\n20:00 Real Vall
+ adolid - UD Las Palmas
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261109-ce-sabadell-fc-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261109T193000Z
+DTEND:20261109T211500Z
+SUMMARY:CE Sabadell FC - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261113-cd-leganes-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261113T193000Z
+DTEND:20261113T211500Z
+SUMMARY:CD Leganés - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261114-real-valladolid-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T130000Z
+DTEND:20261114T144500Z
+SUMMARY:Real Valladolid - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261114-real-sociedad-ii-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T151500Z
+DTEND:20261114T170000Z
+SUMMARY:Real Sociedad II - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261114-ud-almeria-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T173000Z
+DTEND:20261114T191500Z
+SUMMARY:UD Almeria - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261114-real-mallorca-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T173000Z
+DTEND:20261114T191500Z
+SUMMARY:Real Mallorca - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261114-real-oviedo-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T200000Z
+DTEND:20261114T214500Z
+SUMMARY:Real Oviedo - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261115-cd-tenerife-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:CD Tenerife - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261115-granada-cf-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T151500Z
+DTEND:20261115T170000Z
+SUMMARY:Granada CF - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261115-sd-eibar-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T173000Z
+DTEND:20261115T191500Z
+SUMMARY:SD Eibar - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261115-cd-eldense-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T173000Z
+DTEND:20261115T191500Z
+SUMMARY:CD Eldense - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261116-albacete-balompie-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261116T193000Z
+DTEND:20261116T211500Z
+SUMMARY:Albacete Balompie - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261120-fc-andorra-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261120T193000Z
+DTEND:20261120T211500Z
+SUMMARY:FC Andorra - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261121-ce-sabadell-fc-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T130000Z
+DTEND:20261121T144500Z
+SUMMARY:CE Sabadell FC - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261121-real-sociedad-ii-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T151500Z
+DTEND:20261121T170000Z
+SUMMARY:Real Sociedad II - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261121-cd-castellon-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T173000Z
+DTEND:20261121T191500Z
+SUMMARY:CD Castellón - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261121-cd-tenerife-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T200000Z
+DTEND:20261121T214500Z
+SUMMARY:CD Tenerife - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261122-cordoba-cf-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:Cordoba CF - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261122-real-sporting-de-gijon-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T151500Z
+DTEND:20261122T170000Z
+SUMMARY:Real Sporting de Gijon - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261122-girona-fc-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T173000Z
+DTEND:20261122T191500Z
+SUMMARY:Girona FC - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261122-rc-celta-fortuna-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T173000Z
+DTEND:20261122T191500Z
+SUMMARY:RC Celta Fortuna - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261122-burgos-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T200000Z
+DTEND:20261122T214500Z
+SUMMARY:Burgos - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261123-ad-ceuta-fc-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261123T193000Z
+DTEND:20261123T211500Z
+SUMMARY:AD Ceuta FC - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-sd-eibar-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T000000Z
+DTEND:20261129T014500Z
+SUMMARY:SD Eibar - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-real-oviedo-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T000000Z
+DTEND:20261129T014500Z
+SUMMARY:Real Oviedo - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-albacete-balompie-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:Albacete Balompie - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-ud-almeria-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:UD Almeria - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-cadiz-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:Cádiz - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-cd-eldense-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:CD Eldense - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-granada-cf-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:Granada CF - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-ud-las-palmas-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:UD Las Palmas - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-cd-leganes-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:CD Leganés - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-real-mallorca-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:Real Mallorca - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261129-real-valladolid-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:Real Valladolid - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-burgos-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T000000Z
+DTEND:20261206T014500Z
+SUMMARY:Burgos - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-rc-celta-fortuna-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T000000Z
+DTEND:20261206T014500Z
+SUMMARY:RC Celta Fortuna - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-cd-castellon-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:CD Castellón - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-ce-sabadell-fc-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:CE Sabadell FC - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-ad-ceuta-fc-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:AD Ceuta FC - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-cordoba-cf-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:Cordoba CF - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-fc-andorra-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:FC Andorra - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-girona-fc-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:Girona FC - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-real-sociedad-ii-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:Real Sociedad II - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-real-sporting-de-gijon-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:Real Sporting de Gijon - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261206-cd-tenerife-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T200000Z
+DTEND:20261206T214500Z
+SUMMARY:CD Tenerife - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-ud-las-palmas-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:UD Las Palmas - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-real-mallorca-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:Real Mallorca - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-ud-almeria-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:UD Almeria - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-cadiz-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Cádiz - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-cordoba-cf-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Cordoba CF - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-sd-eibar-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:SD Eibar - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-cd-eldense-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:CD Eldense - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-granada-cf-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Granada CF - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-cd-leganes-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:CD Leganés - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-real-oviedo-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Real Oviedo - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261213-real-valladolid-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Real Valladolid - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-burgos-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:Burgos - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-rc-celta-fortuna-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:RC Celta Fortuna - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-albacete-balompie-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:Albacete Balompie - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-ud-almeria-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:UD Almeria - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-cd-castellon-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:CD Castellón - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-ce-sabadell-fc-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:CE Sabadell FC - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-ad-ceuta-fc-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:AD Ceuta FC - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-fc-andorra-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:FC Andorra - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-real-sociedad-ii-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:Real Sociedad II - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-real-sporting-de-gijon-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:Real Sporting de Gijon - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20261220-cd-tenerife-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:CD Tenerife - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-cd-leganes-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T000000Z
+DTEND:20270103T014500Z
+SUMMARY:CD Leganés - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-real-valladolid-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T000000Z
+DTEND:20270103T014500Z
+SUMMARY:Real Valladolid - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-cadiz-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:Cádiz - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-cordoba-cf-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:Cordoba CF - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-sd-eibar-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:SD Eibar - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-cd-eldense-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:CD Eldense - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-girona-fc-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:Girona FC - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-granada-cf-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:Granada CF - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-ud-las-palmas-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:UD Las Palmas - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-real-mallorca-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:Real Mallorca - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270103-real-oviedo-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:Real Oviedo - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-rc-celta-fortuna-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T000000Z
+DTEND:20270110T014500Z
+SUMMARY:RC Celta Fortuna - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-cd-tenerife-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T000000Z
+DTEND:20270110T014500Z
+SUMMARY:CD Tenerife - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-albacete-balompie-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Albacete Balompie - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-ud-almeria-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:UD Almeria - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-cd-castellon-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:CD Castellón - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-ce-sabadell-fc-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:CE Sabadell FC - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-ad-ceuta-fc-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:AD Ceuta FC - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-cd-leganes-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:CD Leganés - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-real-mallorca-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Real Mallorca - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-real-sociedad-ii-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Real Sociedad II - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270110-real-sporting-de-gijon-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Real Sporting de Gijon - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-burgos-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:Burgos - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-sd-eibar-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:SD Eibar - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-cadiz-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Cádiz - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-cd-castellon-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:CD Castellón - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-cordoba-cf-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Cordoba CF - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-cd-eldense-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:CD Eldense - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-fc-andorra-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:FC Andorra - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-granada-cf-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Granada CF - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-ud-las-palmas-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:UD Las Palmas - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-real-oviedo-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Real Oviedo - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270117-real-valladolid-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Real Valladolid - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-rc-celta-fortuna-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:RC Celta Fortuna - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-albacete-balompie-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Albacete Balompie - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-ud-almeria-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:UD Almeria - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-cadiz-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Cádiz - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-ce-sabadell-fc-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:CE Sabadell FC - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-girona-fc-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Girona FC - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-cd-leganes-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:CD Leganés - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-real-mallorca-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Real Mallorca - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-real-sociedad-ii-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Real Sociedad II - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-real-sporting-de-gijon-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Real Sporting de Gijon - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270124-cd-tenerife-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:CD Tenerife - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-burgos-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:Burgos - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-real-valladolid-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:Real Valladolid - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-ad-ceuta-fc-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:AD Ceuta FC - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-cordoba-cf-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Cordoba CF - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-sd-eibar-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:SD Eibar - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-cd-eldense-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:CD Eldense - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-fc-andorra-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:FC Andorra - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-girona-fc-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Girona FC - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-granada-cf-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Granada CF - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-ud-las-palmas-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:UD Las Palmas - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270131-real-oviedo-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Real Oviedo - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-ce-sabadell-fc-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:CE Sabadell FC - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-rc-celta-fortuna-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:RC Celta Fortuna - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-albacete-balompie-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Albacete Balompie - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-ud-almeria-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:UD Almeria - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-cd-castellon-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:CD Castellón - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-cordoba-cf-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Cordoba CF - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-cd-leganes-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:CD Leganés - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-real-mallorca-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Real Mallorca - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-real-sociedad-ii-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Real Sociedad II - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-real-sporting-de-gijon-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Real Sporting de Gijon - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270207-cd-tenerife-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:CD Tenerife - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-burgos-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:Burgos - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-fc-andorra-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:FC Andorra - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-albacete-balompie-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Albacete Balompie - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-cadiz-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Cádiz - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-ad-ceuta-fc-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:AD Ceuta FC - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-cd-eldense-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:CD Eldense - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-girona-fc-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Girona FC - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-granada-cf-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Granada CF - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-ud-las-palmas-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:UD Las Palmas - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-real-oviedo-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Real Oviedo - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270214-real-valladolid-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Real Valladolid - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-cordoba-cf-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:Cordoba CF - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-rc-celta-fortuna-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:RC Celta Fortuna - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-ud-almeria-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:UD Almeria - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-cd-castellon-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:CD Castellón - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-ce-sabadell-fc-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:CE Sabadell FC - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-sd-eibar-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:SD Eibar - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-cd-leganes-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:CD Leganés - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-real-mallorca-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Real Mallorca - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-real-sociedad-ii-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Real Sociedad II - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-real-sporting-de-gijon-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Real Sporting de Gijon - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270221-cd-tenerife-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:CD Tenerife - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-albacete-balompie-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T000000Z
+DTEND:20270228T014500Z
+SUMMARY:Albacete Balompie - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-cd-eldense-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T000000Z
+DTEND:20270228T014500Z
+SUMMARY:CD Eldense - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-cadiz-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Cádiz - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-cd-castellon-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:CD Castellón - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-ad-ceuta-fc-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:AD Ceuta FC - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-girona-fc-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Girona FC - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-granada-cf-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Granada CF - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-ud-las-palmas-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:UD Las Palmas - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-real-mallorca-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Real Mallorca - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-real-oviedo-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Real Oviedo - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270228-real-valladolid-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Real Valladolid - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-burgos-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T000000Z
+DTEND:20270307T014500Z
+SUMMARY:Burgos - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-rc-celta-fortuna-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T000000Z
+DTEND:20270307T014500Z
+SUMMARY:RC Celta Fortuna - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-ud-almeria-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:UD Almeria - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-ce-sabadell-fc-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:CE Sabadell FC - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-cordoba-cf-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Cordoba CF - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-sd-eibar-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:SD Eibar - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-fc-andorra-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:FC Andorra - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-ud-las-palmas-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:UD Las Palmas - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-cd-leganes-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:CD Leganés - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-real-sociedad-ii-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Real Sociedad II - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270307-real-sporting-de-gijon-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Real Sporting de Gijon - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-cd-castellon-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:CD Castellón - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-girona-fc-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:Girona FC - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-albacete-balompie-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Albacete Balompie - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-cadiz-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Cádiz - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-ad-ceuta-fc-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:AD Ceuta FC - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-cd-eldense-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:CD Eldense - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-real-mallorca-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Real Mallorca - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-real-oviedo-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Real Oviedo - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-real-sociedad-ii-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Real Sociedad II - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-real-valladolid-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Real Valladolid - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270314-cd-tenerife-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:CD Tenerife - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-burgos-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:Burgos - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-ce-sabadell-fc-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:CE Sabadell FC - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-ud-almeria-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:UD Almeria - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-cordoba-cf-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Cordoba CF - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-sd-eibar-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:SD Eibar - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-fc-andorra-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:FC Andorra - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-granada-cf-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Granada CF - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-ud-las-palmas-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:UD Las Palmas - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-cd-leganes-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:CD Leganés - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-real-valladolid-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Real Valladolid - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270321-real-sporting-de-gijon-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Real Sporting de Gijon - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-rc-celta-fortuna-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:RC Celta Fortuna - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-real-sociedad-ii-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:Real Sociedad II - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-albacete-balompie-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:Albacete Balompie - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-cd-castellon-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:CD Castellón - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-ce-sabadell-fc-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:CE Sabadell FC - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-ad-ceuta-fc-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:AD Ceuta FC - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-sd-eibar-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:SD Eibar - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-cd-eldense-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:CD Eldense - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-girona-fc-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:Girona FC - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-real-oviedo-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:Real Oviedo - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270328-cd-tenerife-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:CD Tenerife - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-burgos-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T000000Z
+DTEND:20270404T014500Z
+SUMMARY:Burgos - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-cordoba-cf-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T000000Z
+DTEND:20270404T014500Z
+SUMMARY:Cordoba CF - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-cadiz-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Cádiz - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-fc-andorra-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:FC Andorra - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-granada-cf-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Granada CF - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-ud-las-palmas-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:UD Las Palmas - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-cd-leganes-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:CD Leganés - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-real-mallorca-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Real Mallorca - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-real-sociedad-ii-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Real Sociedad II - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-real-valladolid-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Real Valladolid - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270404-real-sporting-de-gijon-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Real Sporting de Gijon - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-cd-castellon-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:CD Castellón - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-rc-celta-fortuna-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:RC Celta Fortuna - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-albacete-balompie-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Albacete Balompie - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-ud-almeria-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:UD Almeria - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-ce-sabadell-fc-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:CE Sabadell FC - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-sd-eibar-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:SD Eibar - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-fc-andorra-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:FC Andorra - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-girona-fc-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Girona FC - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-ud-las-palmas-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:UD Las Palmas - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-real-oviedo-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Real Oviedo - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270411-real-sporting-de-gijon-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Real Sporting de Gijon - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-cd-eldense-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T000000Z
+DTEND:20270418T014500Z
+SUMMARY:CD Eldense - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-rc-celta-fortuna-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T000000Z
+DTEND:20270418T014500Z
+SUMMARY:RC Celta Fortuna - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-cadiz-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Cádiz - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-ce-sabadell-fc-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:CE Sabadell FC - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-ad-ceuta-fc-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:AD Ceuta FC - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-cordoba-cf-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Cordoba CF - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-granada-cf-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Granada CF - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-cd-leganes-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:CD Leganés - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-real-mallorca-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Real Mallorca - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-real-valladolid-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Real Valladolid - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270418-cd-tenerife-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:CD Tenerife - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-burgos-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T000000Z
+DTEND:20270425T014500Z
+SUMMARY:Burgos - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-real-sociedad-ii-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T000000Z
+DTEND:20270425T014500Z
+SUMMARY:Real Sociedad II - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-albacete-balompie-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Albacete Balompie - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-ud-almeria-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:UD Almeria - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-cd-castellon-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:CD Castellón - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-ad-ceuta-fc-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:AD Ceuta FC - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-sd-eibar-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:SD Eibar - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-fc-andorra-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:FC Andorra - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-girona-fc-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Girona FC - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-ud-las-palmas-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:UD Las Palmas - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270425-real-sporting-de-gijon-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Real Sporting de Gijon - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-granada-cf-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:Granada CF - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-rc-celta-fortuna-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:RC Celta Fortuna - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-cadiz-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Cádiz - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-ce-sabadell-fc-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:CE Sabadell FC - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-cordoba-cf-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Cordoba CF - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-cd-eldense-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:CD Eldense - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-fc-andorra-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:FC Andorra - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-cd-leganes-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:CD Leganés - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-real-oviedo-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Real Oviedo - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-real-valladolid-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Real Valladolid - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270502-cd-tenerife-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:CD Tenerife - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-burgos-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:Burgos - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-real-mallorca-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:Real Mallorca - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-albacete-balompie-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Albacete Balompie - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-ud-almeria-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:UD Almeria - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-cd-castellon-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:CD Castellón - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-ad-ceuta-fc-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:AD Ceuta FC - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-sd-eibar-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:SD Eibar - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-cd-eldense-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:CD Eldense - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-granada-cf-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Granada CF - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-real-sociedad-ii-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Real Sociedad II - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270509-cd-tenerife-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:CD Tenerife - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-cadiz-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T000000Z
+DTEND:20270516T014500Z
+SUMMARY:Cádiz - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-rc-celta-fortuna-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T000000Z
+DTEND:20270516T014500Z
+SUMMARY:RC Celta Fortuna - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-cd-castellon-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:CD Castellón - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-cordoba-cf-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Cordoba CF - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-fc-andorra-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:FC Andorra - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-girona-fc-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Girona FC - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-ud-las-palmas-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:UD Las Palmas - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-real-mallorca-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Real Mallorca - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-real-oviedo-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Real Oviedo - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-real-valladolid-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Real Valladolid - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270516-real-sporting-de-gijon-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Real Sporting de Gijon - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-burgos-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:Burgos - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-granada-cf-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:Granada CF - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-albacete-balompie-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Albacete Balompie - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-ud-almeria-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:UD Almeria - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-ce-sabadell-fc-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:CE Sabadell FC - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-ad-ceuta-fc-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:AD Ceuta FC - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-sd-eibar-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:SD Eibar - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-cd-eldense-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:CD Eldense - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-cd-leganes-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:CD Leganés - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-real-oviedo-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Real Oviedo - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270523-cd-tenerife-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:CD Tenerife - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-burgos-sd-eibar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T000000Z
+DTEND:20270530T014500Z
+SUMMARY:Burgos - SD Eibar
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de El Plantío
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-rc-celta-fortuna-cd-leganes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T000000Z
+DTEND:20270530T014500Z
+SUMMARY:RC Celta Fortuna - CD Leganés
+DESCRIPTION:LaLiga 2
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-cadiz-cd-tenerife@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T180000Z
+DTEND:20270530T194500Z
+SUMMARY:Cádiz - CD Tenerife
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Mirandilla
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-cd-castellon-real-oviedo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T180000Z
+DTEND:20270530T194500Z
+SUMMARY:CD Castellón - Real Oviedo
+DESCRIPTION:LaLiga 2
+LOCATION:Nou Estadi Castalia
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-cd-eldense-real-valladolid@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T180000Z
+DTEND:20270530T194500Z
+SUMMARY:CD Eldense - Real Valladolid
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo Pepico Amat
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-fc-andorra-granada-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T180000Z
+DTEND:20270530T194500Z
+SUMMARY:FC Andorra - Granada CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi de la FAF d'Encamp
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-girona-fc-ad-ceuta-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T180000Z
+DTEND:20270530T194500Z
+SUMMARY:Girona FC - AD Ceuta FC
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Montilivi
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-ud-las-palmas-cordoba-cf@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T180000Z
+DTEND:20270530T194500Z
+SUMMARY:UD Las Palmas - Cordoba CF
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Gran Canaria
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-real-mallorca-albacete-balompie@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T180000Z
+DTEND:20270530T194500Z
+SUMMARY:Real Mallorca - Albacete Balompie
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Mallorca Son Moix
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-real-sociedad-ii-ce-sabadell-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T180000Z
+DTEND:20270530T194500Z
+SUMMARY:Real Sociedad II - CE Sabadell FC
+DESCRIPTION:LaLiga 2
+LOCATION:Instalaciones de Zubieta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270530-real-sporting-de-gijon-ud-almeria@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270530T180000Z
+DTEND:20270530T194500Z
+SUMMARY:Real Sporting de Gijon - UD Almeria
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio El Molinón-Enrique Castro "Quini"
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-ad-ceuta-fc-burgos@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T000000Z
+DTEND:20270606T014500Z
+SUMMARY:AD Ceuta FC - Burgos
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Alfonso Murube
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-cd-tenerife-rc-celta-fortuna@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T000000Z
+DTEND:20270606T014500Z
+SUMMARY:CD Tenerife - RC Celta Fortuna
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-albacete-balompie-cadiz@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T180000Z
+DTEND:20270606T194500Z
+SUMMARY:Albacete Balompie - Cádiz
+DESCRIPTION:LaLiga 2
+LOCATION:Carlos Belmonte
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-ud-almeria-real-mallorca@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T180000Z
+DTEND:20270606T194500Z
+SUMMARY:UD Almeria - Real Mallorca
+DESCRIPTION:LaLiga 2
+LOCATION:Power Horse
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-ce-sabadell-fc-cd-castellon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T180000Z
+DTEND:20270606T194500Z
+SUMMARY:CE Sabadell FC - CD Castellón
+DESCRIPTION:LaLiga 2
+LOCATION:Estadi Municipal de la Nova Creu Alta
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-cordoba-cf-real-sporting-de-gijon@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T180000Z
+DTEND:20270606T194500Z
+SUMMARY:Cordoba CF - Real Sporting de Gijon
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal Nuevo El Arcángel
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-sd-eibar-girona-fc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T180000Z
+DTEND:20270606T194500Z
+SUMMARY:SD Eibar - Girona FC
+DESCRIPTION:LaLiga 2
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-granada-cf-cd-eldense@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T180000Z
+DTEND:20270606T194500Z
+SUMMARY:Granada CF - CD Eldense
+DESCRIPTION:LaLiga 2
+LOCATION:Nuevo Estadio de Los Cármenes
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-cd-leganes-real-sociedad-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T180000Z
+DTEND:20270606T194500Z
+SUMMARY:CD Leganés - Real Sociedad II
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Municipal de Butarque
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-real-oviedo-fc-andorra@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T180000Z
+DTEND:20270606T194500Z
+SUMMARY:Real Oviedo - FC Andorra
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio Carlos Tartiere
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga2-20270606-real-valladolid-ud-las-palmas@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270606T180000Z
+DTEND:20270606T194500Z
+SUMMARY:Real Valladolid - UD Las Palmas
+DESCRIPTION:LaLiga 2
+LOCATION:Estadio José Zorrilla
+END:VEVENT
+END:VCALENDAR

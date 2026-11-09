@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:1. FSV Mainz 05 Frauen · Frauen-Bundesliga
+BEGIN:VEVENT
+UID:frauenbl-20261113-hamburger-sv-frauen-1-fsv-mainz-05-frauen-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J10 | ✈️ | Hamburg
+ er SV Frauen 🇩🇪
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261113-hamburger-sv-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261113T173000Z
+DTEND:20261113T191500Z
+SUMMARY:Hamburger SV Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261122-1-fsv-mainz-05-frauen-nurnberg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J11 | 🏟️ | Nürnb
+ erg Frauen 🇩🇪
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261122-1-fsv-mainz-05-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T173000Z
+DTEND:20261122T191500Z
+SUMMARY:1. FSV Mainz 05 Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-1-fc-union-berlin-frauen-1-fsv-mainz-05-frauen-dia@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J12 | ✈️ | 1. FC U
+ nion Berlin Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-1-fc-union-berlin-frauen-1-fsv-mainz-05-frauen@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:1. FC Union Berlin Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-1-fsv-mainz-05-frauen-bayer-leverkusen-frauen-dia@spo
+ rtcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J13 | 🏟️ | Bayer 
+ Leverkusen Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-1-fsv-mainz-05-frauen-bayer-leverkusen-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-werder-bremen-frauen-1-fsv-mainz-05-frauen-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J14 | ✈️ | Werder 
+ Bremen Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-werder-bremen-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:Werder Bremen Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-1-fsv-mainz-05-frauen-bayern-munchen-frauen-dia@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J15 | 🏟️ | Bayern
+  Munchen Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-1-fsv-mainz-05-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-1-fc-koln-frauen-1-fsv-mainz-05-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J16 | ✈️ | 1.FC K
+ öln Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-1-fc-koln-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:1.FC Köln Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-1-fsv-mainz-05-frauen-sc-freiburg-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J17 | 🏟️ | SC Fre
+ iburg Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-1-fsv-mainz-05-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-eintracht-frankfurt-frauen-1-fsv-mainz-05-frauen-dia@
+ sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J18 | ✈️ | Eintrac
+ ht Frankfurt Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-eintracht-frankfurt-frauen-1-fsv-mainz-05-frauen@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:Eintracht Frankfurt Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-1-fsv-mainz-05-frauen-rb-leipzig-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J19 | 🏟️ | RB Lei
+ pzig Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-1-fsv-mainz-05-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-vfl-wolfsburg-frauen-1-fsv-mainz-05-frauen-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J20 | ✈️ | VFL Wol
+ fsburg Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-vfl-wolfsburg-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:VFL Wolfsburg Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-1-fsv-mainz-05-frauen-1899-hoffenheim-frauen-dia@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J21 | 🏟️ | 1899 H
+ offenheim Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-1-fsv-mainz-05-frauen-1899-hoffenheim-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-vfb-stuttgart-frauen-1-fsv-mainz-05-frauen-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J22 | ✈️ | VfB Stu
+ ttgart Frauen 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-vfb-stuttgart-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:VfB Stuttgart Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-1-fsv-mainz-05-frauen-hamburger-sv-frauen-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J23 | 🏟️ | Hambur
+ ger SV Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-1-fsv-mainz-05-frauen-hamburger-sv-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-nurnberg-frauen-1-fsv-mainz-05-frauen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J24 | ✈️ | Nürnbe
+ rg Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-nurnberg-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:Nürnberg Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-1-fsv-mainz-05-frauen-1-fc-union-berlin-frauen-dia@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J25 | 🏟️ | 1. FC 
+ Union Berlin Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-1-fsv-mainz-05-frauen-1-fc-union-berlin-frauen@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-bayer-leverkusen-frauen-1-fsv-mainz-05-frauen-dia@spo
+ rtcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:1. FSV MAINZ 05 FRAUEN | Frauen-Bundesliga | J26 | ✈️ | Bayer L
+ everkusen Frauen 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-bayer-leverkusen-frauen-1-fsv-mainz-05-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:Bayer Leverkusen Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+END:VCALENDAR

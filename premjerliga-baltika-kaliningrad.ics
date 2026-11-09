@@ -1,0 +1,312 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Baltika Kaliningrad · Premier Liga
+BEGIN:VEVENT
+UID:premjerliga-20261121-fc-orenburg-baltika-kaliningrad-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J15 | ✈️ | FC Orenburg 
+ 🇷🇺
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: G
+ azovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261121-fc-orenburg-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T100000Z
+DTEND:20261121T114500Z
+SUMMARY:FC Orenburg - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Gazovik
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261128-baltika-kaliningrad-akhmat-grozny-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J16 | 🏟️ | Akhmat Grozny 
+ 🇷🇺
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ aliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261128-baltika-kaliningrad-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:Baltika Kaliningrad - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261205-zenit-st-petersburg-baltika-kaliningrad-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J17 | ✈️ | Zenit St Peters
+ burg 🇷🇺
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Russian Premier Liga\nEstadi: S
+ aint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261205-zenit-st-petersburg-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T143000Z
+DTEND:20261205T161500Z
+SUMMARY:Zenit St Petersburg - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Saint Petersburg
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-baltika-kaliningrad-rodina-moscow-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J18 | 🏟️ | Rodina Moscow 
+ 🇷🇺
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ aliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-baltika-kaliningrad-rodina-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T200000Z
+DTEND:20270228T214500Z
+SUMMARY:Baltika Kaliningrad - Rodina Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-fc-rostov-baltika-kaliningrad-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J19 | ✈️ | FC Rostov 🇷
+ 🇺
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: R
+ ostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-fc-rostov-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:FC Rostov - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-baltika-kaliningrad-fc-krasnodar-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J20 | 🏟️ | FC Krasnodar 
+ 🇷🇺
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ aliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-baltika-kaliningrad-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Baltika Kaliningrad - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-makhachkala-baltika-kaliningrad-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J21 | ✈️ | Makhachkala 
+ 🇷🇺
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: A
+ nzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-makhachkala-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Makhachkala - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Anzhi Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-dinamo-moscow-baltika-kaliningrad-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J22 | ✈️ | Dinamo Moscow 
+ 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: V
+ TB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-dinamo-moscow-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Dinamo Moscow - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:VTB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-baltika-kaliningrad-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J23 | 🏟️ | PFC CSKA Mosko
+ u 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ aliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-baltika-kaliningrad-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Baltika Kaliningrad - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-rubin-kazan-baltika-kaliningrad-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J24 | ✈️ | Rubin Kazan 
+ 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ azan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-rubin-kazan-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:Rubin Kazan - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-baltika-kaliningrad-krylia-sovetov-samara-dia@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J25 | 🏟️ | Krylia Sovetov
+  Samara 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ aliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-baltika-kaliningrad-krylia-sovetov-samara@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:Baltika Kaliningrad - Krylia Sovetov Samara
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-fc-spartak-moskou-baltika-kaliningrad-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J26 | ✈️ | FC Spartak Mosk
+ ou 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: L
+ ukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-fc-spartak-moskou-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:FC Spartak Moskou - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-baltika-kaliningrad-fakel-voronezh-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J27 | 🏟️ | Fakel Voronezh
+  🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ aliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-baltika-kaliningrad-fakel-voronezh@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Baltika Kaliningrad - Fakel Voronezh
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-lokomotiv-moscow-baltika-kaliningrad-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J28 | ✈️ | Lokomotiv Mosco
+ w 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: R
+ ZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-lokomotiv-moscow-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Lokomotiv Moscow - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-akron-baltika-kaliningrad-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J29 | ✈️ | Akron 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: S
+ amara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-akron-baltika-kaliningrad@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Akron - Baltika Kaliningrad
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-baltika-kaliningrad-fc-orenburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:BALTIKA KALININGRAD | Premier Liga | J30 | 🏟️ | FC Orenburg 
+ 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ aliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-baltika-kaliningrad-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:Baltika Kaliningrad - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+END:VCALENDAR

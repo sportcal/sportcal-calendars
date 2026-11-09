@@ -1,0 +1,1038 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Serie A Women
+BEGIN:VEVENT
+UID:serieafem-dia-20261114-j7@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:SERIE A WOMEN | J7
+DESCRIPTION:12:30 Napoli Women - Milan Women\n15:00 Roma Women - Parma Wome
+ n\n18:00 Fiorentina Women - S.S. Lazio Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20261115-j7@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SERIE A WOMEN | J7
+DESCRIPTION:12:30 US Sassuolo Women - Ternana Women\n15:00 Como 1907 Women 
+ - Como Women\n15:00 Inter Women - Juventus Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20261121-j8@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SERIE A WOMEN | J8
+DESCRIPTION:12:30 Parma Women - Napoli Women\n15:00 Milan Women - US Sassuo
+ lo Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20261122-j8@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SERIE A WOMEN | J8
+DESCRIPTION:12:30 Ternana Women - Inter Women\n12:30 Como Women - Roma Wome
+ n\n15:00 Fiorentina Women - Como 1907 Women\n20:30 S.S. Lazio Women - Juve
+ ntus Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20261212-j9@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:SERIE A WOMEN | J9
+DESCRIPTION:12:30 Milan Women - Fiorentina Women\n15:00 Roma Women - Inter 
+ Women\n18:00 Juventus Women - Como Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20261213-j9@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:SERIE A WOMEN | J9
+DESCRIPTION:12:30 US Sassuolo Women - S.S. Lazio Women\n15:00 Como 1907 Wom
+ en - Parma Women\n15:00 Napoli Women - Ternana Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270116-j10@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:SERIE A WOMEN | J10
+DESCRIPTION:TBD Ternana Women - Roma Women\nTBD S.S. Lazio Women - Milan Wo
+ men\nTBD Fiorentina Women - Napoli Women\nTBD Inter Women - Como 1907 Wome
+ n\nTBD Como Women - US Sassuolo Women\nTBD Parma Women - Juventus Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270123-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:SERIE A WOMEN | J11
+DESCRIPTION:TBD Milan Women - Parma Women\nTBD Juventus Women - Ternana Wom
+ en\nTBD Como 1907 Women - S.S. Lazio Women\nTBD Napoli Women - Como Women\
+ nTBD Roma Women - Fiorentina Women\nTBD US Sassuolo Women - Inter Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270130-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:SERIE A WOMEN | J12
+DESCRIPTION:TBD Parma Women - S.S. Lazio Women\nTBD Napoli Women - Juventus
+  Women\nTBD Fiorentina Women - Inter Women\nTBD Como Women - Ternana Women
+ \nTBD Roma Women - US Sassuolo Women\nTBD Milan Women - Como 1907 Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270206-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:SERIE A WOMEN | J13
+DESCRIPTION:TBD US Sassuolo Women - Fiorentina Women\nTBD S.S. Lazio Women 
+ - Roma Women\nTBD Juventus Women - Milan Women\nTBD Como 1907 Women - Napo
+ li Women\nTBD Inter Women - Como Women\nTBD Ternana Women - Parma Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270213-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:SERIE A WOMEN | J14
+DESCRIPTION:TBD Milan Women - Roma Women\nTBD Como 1907 Women - Juventus Wo
+ men\nTBD Fiorentina Women - Como Women\nTBD Parma Women - Inter Women\nTBD
+  S.S. Lazio Women - Ternana Women\nTBD Napoli Women - US Sassuolo Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270220-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:SERIE A WOMEN | J15
+DESCRIPTION:TBD US Sassuolo Women - Como 1907 Women\nTBD Fiorentina Women -
+  Parma Women\nTBD Ternana Women - Milan Women\nTBD Como Women - S.S. Lazio
+  Women\nTBD Inter Women - Napoli Women\nTBD Roma Women - Juventus Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270313-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:SERIE A WOMEN | J16
+DESCRIPTION:TBD Parma Women - US Sassuolo Women\nTBD Juventus Women - Fiore
+ ntina Women\nTBD S.S. Lazio Women - Inter Women\nTBD Napoli Women - Roma W
+ omen\nTBD Como 1907 Women - Ternana Women\nTBD Milan Women - Como Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270320-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SERIE A WOMEN | J17
+DESCRIPTION:TBD US Sassuolo Women - Juventus Women\nTBD Inter Women - Milan
+  Women\nTBD Fiorentina Women - Ternana Women\nTBD Napoli Women - S.S. Lazi
+ o Women\nTBD Roma Women - Como 1907 Women\nTBD Como Women - Parma Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270403-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:SERIE A WOMEN | J18
+DESCRIPTION:TBD S.S. Lazio Women - Fiorentina Women\nTBD Juventus Women - I
+ nter Women\nTBD Ternana Women - US Sassuolo Women\nTBD Milan Women - Napol
+ i Women\nTBD Como Women - Como 1907 Women\nTBD Parma Women - Roma Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270410-j19@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:SERIE A WOMEN | J19
+DESCRIPTION:TBD Juventus Women - S.S. Lazio Women\nTBD Napoli Women - Parma
+  Women\nTBD Como 1907 Women - Fiorentina Women\nTBD Inter Women - Ternana 
+ Women\nTBD US Sassuolo Women - Milan Women\nTBD Roma Women - Como Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270501-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:SERIE A WOMEN | J20
+DESCRIPTION:TBD Como Women - Juventus Women\nTBD S.S. Lazio Women - US Sass
+ uolo Women\nTBD Fiorentina Women - Milan Women\nTBD Parma Women - Como 190
+ 7 Women\nTBD Inter Women - Roma Women\nTBD Ternana Women - Napoli Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270508-j21@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SERIE A WOMEN | J21
+DESCRIPTION:TBD US Sassuolo Women - Como Women\nTBD Como 1907 Women - Inter
+  Women\nTBD Juventus Women - Parma Women\nTBD Napoli Women - Fiorentina Wo
+ men\nTBD Milan Women - S.S. Lazio Women\nTBD Roma Women - Ternana Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-dia-20270515-j22@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:SERIE A WOMEN | J22
+DESCRIPTION:TBD Inter Women - US Sassuolo Women\nTBD Fiorentina Women - Rom
+ a Women\nTBD S.S. Lazio Women - Como 1907 Women\nTBD Parma Women - Milan W
+ omen\nTBD Ternana Women - Juventus Women\nTBD Como Women - Napoli Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261114-napoli-women-milan-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T113000Z
+DTEND:20261114T131500Z
+SUMMARY:Napoli Women - Milan Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261114-roma-women-parma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T140000Z
+DTEND:20261114T154500Z
+SUMMARY:Roma Women - Parma Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261114-fiorentina-women-s-s-lazio-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Fiorentina Women - S.S. Lazio Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261115-us-sassuolo-women-ternana-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T113000Z
+DTEND:20261115T131500Z
+SUMMARY:US Sassuolo Women - Ternana Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261115-como-1907-women-como-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Como 1907 Women - Como Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261115-inter-women-juventus-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Inter Women - Juventus Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261121-parma-women-napoli-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T113000Z
+DTEND:20261121T131500Z
+SUMMARY:Parma Women - Napoli Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261121-milan-women-us-sassuolo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T140000Z
+DTEND:20261121T154500Z
+SUMMARY:Milan Women - US Sassuolo Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261122-ternana-women-inter-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T113000Z
+DTEND:20261122T131500Z
+SUMMARY:Ternana Women - Inter Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261122-como-women-roma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T113000Z
+DTEND:20261122T131500Z
+SUMMARY:Como Women - Roma Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261122-fiorentina-women-como-1907-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Fiorentina Women - Como 1907 Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261122-s-s-lazio-women-juventus-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T193000Z
+DTEND:20261122T211500Z
+SUMMARY:S.S. Lazio Women - Juventus Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261212-milan-women-fiorentina-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T113000Z
+DTEND:20261212T131500Z
+SUMMARY:Milan Women - Fiorentina Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261212-roma-women-inter-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T140000Z
+DTEND:20261212T154500Z
+SUMMARY:Roma Women - Inter Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261212-juventus-women-como-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:Juventus Women - Como Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261213-us-sassuolo-women-s-s-lazio-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T113000Z
+DTEND:20261213T131500Z
+SUMMARY:US Sassuolo Women - S.S. Lazio Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261213-como-1907-women-parma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Como 1907 Women - Parma Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20261213-napoli-women-ternana-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Napoli Women - Ternana Women
+DESCRIPTION:Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270116-ternana-women-roma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Ternana Women - Roma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270116-s-s-lazio-women-milan-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:S.S. Lazio Women - Milan Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270116-fiorentina-women-napoli-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Fiorentina Women - Napoli Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270116-inter-women-como-1907-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Inter Women - Como 1907 Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270116-como-women-us-sassuolo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Como Women - US Sassuolo Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270116-parma-women-juventus-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Parma Women - Juventus Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270123-milan-women-parma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Milan Women - Parma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270123-juventus-women-ternana-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Juventus Women - Ternana Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270123-como-1907-women-s-s-lazio-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Como 1907 Women - S.S. Lazio Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270123-napoli-women-como-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Napoli Women - Como Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270123-roma-women-fiorentina-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Roma Women - Fiorentina Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270123-us-sassuolo-women-inter-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:US Sassuolo Women - Inter Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270130-parma-women-s-s-lazio-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Parma Women - S.S. Lazio Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270130-napoli-women-juventus-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Napoli Women - Juventus Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270130-fiorentina-women-inter-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Fiorentina Women - Inter Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270130-como-women-ternana-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Como Women - Ternana Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270130-roma-women-us-sassuolo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Roma Women - US Sassuolo Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270130-milan-women-como-1907-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Milan Women - Como 1907 Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270206-us-sassuolo-women-fiorentina-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:US Sassuolo Women - Fiorentina Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270206-s-s-lazio-women-roma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:S.S. Lazio Women - Roma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270206-juventus-women-milan-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Juventus Women - Milan Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270206-como-1907-women-napoli-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Como 1907 Women - Napoli Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270206-inter-women-como-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Inter Women - Como Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270206-ternana-women-parma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Ternana Women - Parma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270213-milan-women-roma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Milan Women - Roma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270213-como-1907-women-juventus-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Como 1907 Women - Juventus Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270213-fiorentina-women-como-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Fiorentina Women - Como Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270213-parma-women-inter-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Parma Women - Inter Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270213-s-s-lazio-women-ternana-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:S.S. Lazio Women - Ternana Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270213-napoli-women-us-sassuolo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Napoli Women - US Sassuolo Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270220-us-sassuolo-women-como-1907-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:US Sassuolo Women - Como 1907 Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270220-fiorentina-women-parma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Fiorentina Women - Parma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270220-ternana-women-milan-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Ternana Women - Milan Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270220-como-women-s-s-lazio-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Como Women - S.S. Lazio Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270220-inter-women-napoli-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Inter Women - Napoli Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270220-roma-women-juventus-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Roma Women - Juventus Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270313-parma-women-us-sassuolo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Parma Women - US Sassuolo Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270313-juventus-women-fiorentina-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Juventus Women - Fiorentina Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270313-s-s-lazio-women-inter-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:S.S. Lazio Women - Inter Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270313-napoli-women-roma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Napoli Women - Roma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270313-como-1907-women-ternana-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Como 1907 Women - Ternana Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270313-milan-women-como-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Milan Women - Como Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270320-us-sassuolo-women-juventus-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:US Sassuolo Women - Juventus Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270320-inter-women-milan-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Inter Women - Milan Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270320-fiorentina-women-ternana-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Fiorentina Women - Ternana Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270320-napoli-women-s-s-lazio-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Napoli Women - S.S. Lazio Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270320-roma-women-como-1907-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Roma Women - Como 1907 Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270320-como-women-parma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Como Women - Parma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270403-s-s-lazio-women-fiorentina-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:S.S. Lazio Women - Fiorentina Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270403-juventus-women-inter-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Juventus Women - Inter Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270403-ternana-women-us-sassuolo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Ternana Women - US Sassuolo Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270403-milan-women-napoli-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Milan Women - Napoli Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270403-como-women-como-1907-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Como Women - Como 1907 Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270403-parma-women-roma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Parma Women - Roma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270410-juventus-women-s-s-lazio-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Juventus Women - S.S. Lazio Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270410-napoli-women-parma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Napoli Women - Parma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270410-como-1907-women-fiorentina-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Como 1907 Women - Fiorentina Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270410-inter-women-ternana-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Inter Women - Ternana Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270410-us-sassuolo-women-milan-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:US Sassuolo Women - Milan Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270410-roma-women-como-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Roma Women - Como Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270501-como-women-juventus-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Como Women - Juventus Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270501-s-s-lazio-women-us-sassuolo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:S.S. Lazio Women - US Sassuolo Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270501-fiorentina-women-milan-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Fiorentina Women - Milan Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270501-parma-women-como-1907-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Parma Women - Como 1907 Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270501-inter-women-roma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Inter Women - Roma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270501-ternana-women-napoli-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Ternana Women - Napoli Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270508-us-sassuolo-women-como-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:US Sassuolo Women - Como Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270508-como-1907-women-inter-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Como 1907 Women - Inter Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270508-juventus-women-parma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Juventus Women - Parma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270508-napoli-women-fiorentina-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Napoli Women - Fiorentina Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270508-milan-women-s-s-lazio-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Milan Women - S.S. Lazio Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270508-roma-women-ternana-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Roma Women - Ternana Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270515-inter-women-us-sassuolo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Inter Women - US Sassuolo Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270515-fiorentina-women-roma-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Fiorentina Women - Roma Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270515-s-s-lazio-women-como-1907-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:S.S. Lazio Women - Como 1907 Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270515-parma-women-milan-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Parma Women - Milan Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270515-ternana-women-juventus-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Ternana Women - Juventus Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+BEGIN:VEVENT
+UID:serieafem-20270515-como-women-napoli-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Como Women - Napoli Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Serie A Women
+END:VEVENT
+END:VCALENDAR

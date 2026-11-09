@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Red Star Belgrade · SuperLiga
+BEGIN:VEVENT
+UID:serbiasl-20261121-red-star-belgrade-radnik-surdulica-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:RED STAR BELGRADE | SuperLiga | J16 | 🏟️ | Radnik Surdulica 
+ 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261121-red-star-belgrade-radnik-surdulica@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Red Star Belgrade - Radnik Surdulica
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261128-novi-pazar-red-star-belgrade-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:RED STAR BELGRADE | SuperLiga | J17 | ✈️ | Novi Pazar 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261128-novi-pazar-red-star-belgrade@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T000000Z
+DTEND:20261128T014500Z
+SUMMARY:Novi Pazar - Red Star Belgrade
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261206-red-star-belgrade-zeleznicar-pancevo-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:RED STAR BELGRADE | SuperLiga | J18 | 🏟️ | Železničar Panče
+ vo 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20261206-red-star-belgrade-zeleznicar-pancevo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T000000Z
+DTEND:20261206T014500Z
+SUMMARY:Red Star Belgrade - Železničar Pančevo
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270206-fk-cukaricki-stankom-red-star-belgrade-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:RED STAR BELGRADE | SuperLiga | J19 | ✈️ | FK Cukaricki Stankom
+  🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270206-fk-cukaricki-stankom-red-star-belgrade@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:FK Cukaricki Stankom - Red Star Belgrade
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270213-red-star-belgrade-zemun-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:RED STAR BELGRADE | SuperLiga | J20 | 🏟️ | Zemun 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270213-red-star-belgrade-zemun@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Red Star Belgrade - Zemun
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270220-fk-partizan-red-star-belgrade-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:RED STAR BELGRADE | SuperLiga | J21 | ✈️ | FK Partizan 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270220-fk-partizan-red-star-belgrade@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:FK Partizan - Red Star Belgrade
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270227-red-star-belgrade-imt-novi-beograd-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:RED STAR BELGRADE | SuperLiga | J22 | 🏟️ | IMT Novi Beograd 
+ 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270227-red-star-belgrade-imt-novi-beograd@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Red Star Belgrade - IMT Novi Beograd
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270307-radnicki-nis-red-star-belgrade-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:RED STAR BELGRADE | SuperLiga | J23 | ✈️ | Radnički Niš 🇷
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270307-radnicki-nis-red-star-belgrade@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T000000Z
+DTEND:20270307T014500Z
+SUMMARY:Radnički Niš - Red Star Belgrade
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270313-red-star-belgrade-radnicki-kragujevac-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:RED STAR BELGRADE | SuperLiga | J24 | 🏟️ | Radnički Kragujeva
+ c 🇷🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270313-red-star-belgrade-radnicki-kragujevac@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:Red Star Belgrade - Radnički Kragujevac
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270320-mladost-lucani-red-star-belgrade-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:RED STAR BELGRADE | SuperLiga | J25 | ✈️ | Mladost Lučani 🇷
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270320-mladost-lucani-red-star-belgrade@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:Mladost Lučani - Red Star Belgrade
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270403-red-star-belgrade-ofk-beograd-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:RED STAR BELGRADE | SuperLiga | J26 | 🏟️ | OFK Beograd 🇷
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Serbian SuperLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:serbiasl-20270403-red-star-belgrade-ofk-beograd@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:Red Star Belgrade - OFK Beograd
+DESCRIPTION:Serbian SuperLiga
+END:VEVENT
+END:VCALENDAR

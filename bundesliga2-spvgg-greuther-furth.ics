@@ -1,0 +1,451 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SpVgg Greuther Fürth · 2. Bundesliga
+BEGIN:VEVENT
+UID:bundesliga2-20261121-hannover-96-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J12 | ✈️ | Hannover 96 
+ 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: HDI Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261121-hannover-96-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T120000Z
+DTEND:20261121T134500Z
+SUMMARY:Hannover 96 - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261129-spvgg-greuther-furth-arminia-bielefeld-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J13 | 🏟️ | Arminia Bie
+ lefeld 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261129-spvgg-greuther-furth-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:SpVgg Greuther Fürth - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-fc-kaiserslautern-spvgg-greuther-furth-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J14 | ✈️ | FC Kaisersla
+ utern 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Fritz-Wa
+ lter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-fc-kaiserslautern-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T120000Z
+DTEND:20261205T134500Z
+SUMMARY:FC Kaiserslautern - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-spvgg-greuther-furth-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J15 | 🏟️ | VFL Wolfsbu
+ rg 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-spvgg-greuther-furth-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:SpVgg Greuther Fürth - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261220-sv-darmstadt-98-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J16 | ✈️ | SV Darmstadt
+  98 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261220-sv-darmstadt-98-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T123000Z
+DTEND:20261220T141500Z
+SUMMARY:SV Darmstadt 98 - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270115-spvgg-greuther-furth-karlsruher-sc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J17 | 🏟️ | Karlsruher 
+ SC 🇩🇪
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270115-spvgg-greuther-furth-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270115T173000Z
+DTEND:20270115T191500Z
+SUMMARY:SpVgg Greuther Fürth - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270124-spvgg-greuther-furth-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J18 | 🏟️ | FC St. Paul
+ i 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270124-spvgg-greuther-furth-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T123000Z
+DTEND:20270124T141500Z
+SUMMARY:SpVgg Greuther Fürth - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-fc-nurnberg-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J19 | ✈️ | FC Nürnberg
+  🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Max-Morl
+ ock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-fc-nurnberg-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:FC Nürnberg - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-spvgg-greuther-furth-energie-cottbus-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J20 | 🏟️ | Energie Cot
+ tbus 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-spvgg-greuther-furth-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:SpVgg Greuther Fürth - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-1-fc-heidenheim-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J21 | ✈️ | 1.FC Heidenh
+ eim 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Voith-Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-1-fc-heidenheim-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:1.FC Heidenheim - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-spvgg-greuther-furth-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J22 | 🏟️ | VFL Bochum 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-spvgg-greuther-furth-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:SpVgg Greuther Fürth - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-1-fc-magdeburg-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J23 | ✈️ | 1.FC Magdebu
+ rg 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: MDCC-Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-1-fc-magdeburg-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:1.FC Magdeburg - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-spvgg-greuther-furth-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J24 | 🏟️ | Hertha BSC 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-spvgg-greuther-furth-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:SpVgg Greuther Fürth - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-eintracht-braunschweig-spvgg-greuther-furth-dia@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J25 | ✈️ | Eintracht Br
+ aunschweig 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-eintracht-braunschweig-spvgg-greuther-furth@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:Eintracht Braunschweig - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-spvgg-greuther-furth-vfl-osnabruck-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J26 | 🏟️ | VfL Osnabr
+ ück 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-spvgg-greuther-furth-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:SpVgg Greuther Fürth - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-holstein-kiel-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J27 | ✈️ | Holstein Kie
+ l 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Holstein
+ -Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-holstein-kiel-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:Holstein Kiel - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-spvgg-greuther-furth-sg-dynamo-dresden-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J28 | 🏟️ | SG Dynamo D
+ resden 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-spvgg-greuther-furth-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:SpVgg Greuther Fürth - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-spvgg-greuther-furth-hannover-96-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J29 | 🏟️ | Hannover 96
+  🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-spvgg-greuther-furth-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:SpVgg Greuther Fürth - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-arminia-bielefeld-spvgg-greuther-furth-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J30 | ✈️ | Arminia Biel
+ efeld 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: SchücoA
+ rena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-arminia-bielefeld-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:Arminia Bielefeld - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-spvgg-greuther-furth-fc-kaiserslautern-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J31 | 🏟️ | FC Kaisersl
+ autern 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-spvgg-greuther-furth-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:SpVgg Greuther Fürth - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-vfl-wolfsburg-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J32 | ✈️ | VFL Wolfsbur
+ g 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-vfl-wolfsburg-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:VFL Wolfsburg - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-spvgg-greuther-furth-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J33 | 🏟️ | SV Darmstad
+ t 98 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-spvgg-greuther-furth-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:SpVgg Greuther Fürth - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-karlsruher-sc-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:SPVGG GREUTHER FÜRTH | 2. Bundesliga | J34 | ✈️ | Karlsruher S
+ C 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: BBBank W
+ ildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-karlsruher-sc-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Karlsruher SC - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+END:VCALENDAR

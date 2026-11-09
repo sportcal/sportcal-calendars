@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Universidad Catolica del Ecuador · Serie A
+BEGIN:VEVENT
+UID:ecuadorseriea-20261122-universidad-catolica-del-ecuador-barcelona-sc-di
+ a@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:UNIVERSIDAD CATOLICA DEL ECUADOR | Serie A | J37 | 🏟️ | Barcel
+ ona SC 🇪🇨
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Ecuador Serie A
+END:VEVENT
+BEGIN:VEVENT
+UID:ecuadorseriea-20261122-universidad-catolica-del-ecuador-barcelona-sc@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Universidad Catolica del Ecuador - Barcelona SC
+DESCRIPTION:Ecuador Serie A
+END:VEVENT
+BEGIN:VEVENT
+UID:ecuadorseriea-20261129-universidad-catolica-del-ecuador-independiente-d
+ el-valle-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:UNIVERSIDAD CATOLICA DEL ECUADOR | Serie A | J38 | 🏟️ | Indepe
+ ndiente del Valle 🇪🇨
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Ecuador Serie A
+END:VEVENT
+BEGIN:VEVENT
+UID:ecuadorseriea-20261129-universidad-catolica-del-ecuador-independiente-d
+ el-valle@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T000000Z
+DTEND:20261129T014500Z
+SUMMARY:Universidad Catolica del Ecuador - Independiente del Valle
+DESCRIPTION:Ecuador Serie A
+END:VEVENT
+BEGIN:VEVENT
+UID:ecuadorseriea-20261206-aucas-universidad-catolica-del-ecuador-dia@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:UNIVERSIDAD CATOLICA DEL ECUADOR | Serie A | J39 | ✈️ | Aucas 
+ 🇪🇨
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Ecuador Serie A
+END:VEVENT
+BEGIN:VEVENT
+UID:ecuadorseriea-20261206-aucas-universidad-catolica-del-ecuador@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T000000Z
+DTEND:20261206T014500Z
+SUMMARY:Aucas - Universidad Catolica del Ecuador
+DESCRIPTION:Ecuador Serie A
+END:VEVENT
+BEGIN:VEVENT
+UID:ecuadorseriea-20261213-universidad-catolica-del-ecuador-ldu-de-quito-di
+ a@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:UNIVERSIDAD CATOLICA DEL ECUADOR | Serie A | J40 | 🏟️ | LDU de
+  Quito 🇪🇨
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Ecuador Serie A
+END:VEVENT
+BEGIN:VEVENT
+UID:ecuadorseriea-20261213-universidad-catolica-del-ecuador-ldu-de-quito@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:Universidad Catolica del Ecuador - LDU de Quito
+DESCRIPTION:Ecuador Serie A
+END:VEVENT
+END:VCALENDAR

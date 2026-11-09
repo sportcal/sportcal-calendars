@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Estudiantes · Libertadores
+BEGIN:VEVENT
+UID:libertadores-20261128-palmeiras-estudiantes-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ESTUDIANTES | Libertadores | ✈️ | Palmeiras
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Copa Libertadores\nEstadi: Esta
+ dio Centenario
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadores-20261128-palmeiras-estudiantes@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T200000Z
+DTEND:20261128T214500Z
+SUMMARY:Palmeiras - Estudiantes
+DESCRIPTION:Copa Libertadores
+LOCATION:Estadio Centenario
+END:VEVENT
+END:VCALENDAR

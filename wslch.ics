@@ -1,0 +1,998 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Women's Championship
+BEGIN:VEVENT
+UID:wslch-dia-20261114-j8@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CHAMPIONSHIP | J8
+DESCRIPTION:19:00 Sheffield United Women - Bristol City Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20261115-j8@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:CHAMPIONSHIP | J8
+DESCRIPTION:15:00 Burnley FC Women - Southampton F.C. Women\n15:00 Nottingh
+ am Forest Women - Leicester City Women\n15:00 Sunderland Ladies - Newcastl
+ e United Women\n15:00 Watford Women - Ipswich Town Women\n15:00 Wolverhamp
+ ton Wanderers Women - Durham Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20261220-j9@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:CHAMPIONSHIP | J9
+DESCRIPTION:13:00 Durham Women - Ipswich Town Women\n15:00 Newcastle United
+  Women - Watford Women\n15:00 Sheffield United Women - Sunderland Ladies\n
+ 15:00 Southampton F.C. Women - Wolverhampton Wanderers Women\n16:00 Leices
+ ter City Women - Burnley FC Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20261221-j9@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:CHAMPIONSHIP | J9
+DESCRIPTION:18:00 Bristol City Women - Nottingham Forest Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270110-j10@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:CHAMPIONSHIP | J10
+DESCRIPTION:15:00 Bristol City Women - Leicester City Women\n15:00 Burnley 
+ FC Women - Durham Women\n15:00 Ipswich Town Women - Newcastle United Women
+ \n15:00 Nottingham Forest Women - Sheffield United Women\n15:00 Sunderland
+  Ladies - Wolverhampton Wanderers Women\n15:00 Watford Women - Southampton
+  F.C. Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270122-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:CHAMPIONSHIP | J11
+DESCRIPTION:20:00 Burnley FC Women - Ipswich Town Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270123-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:CHAMPIONSHIP | J11
+DESCRIPTION:19:00 Sheffield United Women - Watford Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270124-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:CHAMPIONSHIP | J11
+DESCRIPTION:13:00 Durham Women - Bristol City Women\n15:00 Newcastle United
+  Women - Southampton F.C. Women\n15:00 Nottingham Forest Women - Sunderlan
+ d Ladies\n15:00 Wolverhampton Wanderers Women - Leicester City Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270127-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:CHAMPIONSHIP | J12
+DESCRIPTION:20:00 Durham Women - Sheffield United Women\n20:00 Sunderland L
+ adies - Burnley FC Women\n20:30 Ipswich Town Women - Watford Women\n20:30 
+ Leicester City Women - Nottingham Forest Women\n20:30 Southampton F.C. Wom
+ en - Bristol City Women\n20:30 Wolverhampton Wanderers Women - Newcastle U
+ nited Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270131-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:CHAMPIONSHIP | J13
+DESCRIPTION:15:00 Bristol City Women - Sheffield United Women\n15:00 Nottin
+ gham Forest Women - Ipswich Town Women\n15:00 Southampton F.C. Women - Bur
+ nley FC Women\n15:00 Sunderland Ladies - Durham Women\n15:00 Watford Women
+  - Wolverhampton Wanderers Women\n16:00 Leicester City Women - Newcastle U
+ nited Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270207-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:CHAMPIONSHIP | J14
+DESCRIPTION:14:00 Ipswich Town Women - Durham Women\n15:00 Bristol City Wom
+ en - Watford Women\n15:00 Burnley FC Women - Leicester City Women\n15:00 N
+ ewcastle United Women - Nottingham Forest Women\n15:00 Sheffield United Wo
+ men - Southampton F.C. Women\n15:00 Wolverhampton Wanderers Women - Sunder
+ land Ladies
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270212-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:CHAMPIONSHIP | J15
+DESCRIPTION:20:30 Watford Women - Leicester City Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270213-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:CHAMPIONSHIP | J15
+DESCRIPTION:19:00 Sheffield United Women - Burnley FC Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270214-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:CHAMPIONSHIP | J15
+DESCRIPTION:13:00 Durham Women - Wolverhampton Wanderers Women\n15:00 Notti
+ ngham Forest Women - Bristol City Women\n15:00 Southampton F.C. Women - Ne
+ wcastle United Women\n15:00 Sunderland Ladies - Ipswich Town Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270314-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:CHAMPIONSHIP | J16
+DESCRIPTION:15:00 Bristol City Women - Sunderland Ladies\n15:00 Burnley FC 
+ Women - Watford Women\n15:00 Ipswich Town Women - Sheffield United Women\n
+ 15:00 Newcastle United Women - Durham Women\n15:00 Nottingham Forest Women
+  - Southampton F.C. Women\n16:00 Leicester City Women - Wolverhampton Wand
+ erers Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270320-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:CHAMPIONSHIP | J17
+DESCRIPTION:19:00 Sheffield United Women - Newcastle United Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270321-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:CHAMPIONSHIP | J17
+DESCRIPTION:13:00 Durham Women - Leicester City Women\n15:00 Ipswich Town W
+ omen - Burnley FC Women\n15:00 Southampton F.C. Women - Watford Women\n15:
+ 00 Sunderland Ladies - Nottingham Forest Women\n15:00 Wolverhampton Wander
+ ers Women - Bristol City Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270326-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:CHAMPIONSHIP | J18
+DESCRIPTION:20:30 Watford Women - Nottingham Forest Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270327-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:CHAMPIONSHIP | J18
+DESCRIPTION:15:00 Burnley FC Women - Wolverhampton Wanderers Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270328-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:CHAMPIONSHIP | J18
+DESCRIPTION:13:00 Southampton F.C. Women - Durham Women\n15:00 Bristol City
+  Women - Ipswich Town Women\n15:00 Newcastle United Women - Sunderland Lad
+ ies\n16:00 Leicester City Women - Sheffield United Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270404-j19@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:CHAMPIONSHIP | J19
+DESCRIPTION:15:00 Bristol City Women - Burnley FC Women\n15:00 Ipswich Town
+  Women - Leicester City Women\n15:00 Nottingham Forest Women - Durham Wome
+ n\n15:00 Sunderland Ladies - Sheffield United Women\n15:00 Watford Women -
+  Newcastle United Women\n15:00 Wolverhampton Wanderers Women - Southampton
+  F.C. Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270410-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:CHAMPIONSHIP | J20
+DESCRIPTION:19:00 Sheffield United Women - Wolverhampton Wanderers Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270411-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:CHAMPIONSHIP | J20
+DESCRIPTION:13:00 Durham Women - Watford Women\n15:00 Burnley FC Women - No
+ ttingham Forest Women\n15:00 Newcastle United Women - Ipswich Town Women\n
+ 15:00 Southampton F.C. Women - Sunderland Ladies\n16:00 Leicester City Wom
+ en - Bristol City Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270501-j21@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:CHAMPIONSHIP | J21
+DESCRIPTION:13:00 Watford Women - Sheffield United Women\n18:30 Bristol Cit
+ y Women - Durham Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270502-j21@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:CHAMPIONSHIP | J21
+DESCRIPTION:15:00 Burnley FC Women - Newcastle United Women\n15:00 Ipswich 
+ Town Women - Southampton F.C. Women\n15:00 Nottingham Forest Women - Wolve
+ rhampton Wanderers Women\n16:00 Leicester City Women - Sunderland Ladies
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-dia-20270508-j22@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:CHAMPIONSHIP | J22
+DESCRIPTION:TBD Durham Women - Burnley FC Women\nTBD Newcastle United Women
+  - Bristol City Women\nTBD Sheffield United Women - Nottingham Forest Wome
+ n\nTBD Southampton F.C. Women - Leicester City Women\nTBD Sunderland Ladie
+ s - Watford Women\nTBD Wolverhampton Wanderers Women - Ipswich Town Women
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261114-sheffield-united-women-bristol-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:Sheffield United Women - Bristol City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261115-burnley-fc-women-southampton-f-c-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Burnley FC Women - Southampton F.C. Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261115-nottingham-forest-women-leicester-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Nottingham Forest Women - Leicester City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261115-sunderland-ladies-newcastle-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Sunderland Ladies - Newcastle United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261115-watford-women-ipswich-town-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Watford Women - Ipswich Town Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261115-wolverhampton-wanderers-women-durham-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Wolverhampton Wanderers Women - Durham Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261220-durham-women-ipswich-town-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T120000Z
+DTEND:20261220T134500Z
+SUMMARY:Durham Women - Ipswich Town Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261220-newcastle-united-women-watford-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Newcastle United Women - Watford Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261220-sheffield-united-women-sunderland-ladies@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Sheffield United Women - Sunderland Ladies
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261220-southampton-f-c-women-wolverhampton-wanderers-women@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Southampton F.C. Women - Wolverhampton Wanderers Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261220-leicester-city-women-burnley-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T150000Z
+DTEND:20261220T164500Z
+SUMMARY:Leicester City Women - Burnley FC Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20261221-bristol-city-women-nottingham-forest-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261221T170000Z
+DTEND:20261221T184500Z
+SUMMARY:Bristol City Women - Nottingham Forest Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270110-bristol-city-women-leicester-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Bristol City Women - Leicester City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270110-burnley-fc-women-durham-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Burnley FC Women - Durham Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270110-ipswich-town-women-newcastle-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Ipswich Town Women - Newcastle United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270110-nottingham-forest-women-sheffield-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Nottingham Forest Women - Sheffield United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270110-sunderland-ladies-wolverhampton-wanderers-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Sunderland Ladies - Wolverhampton Wanderers Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270110-watford-women-southampton-f-c-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Watford Women - Southampton F.C. Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270122-burnley-fc-women-ipswich-town-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270122T190000Z
+DTEND:20270122T204500Z
+SUMMARY:Burnley FC Women - Ipswich Town Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270123-sheffield-united-women-watford-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:Sheffield United Women - Watford Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270124-durham-women-bristol-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T120000Z
+DTEND:20270124T134500Z
+SUMMARY:Durham Women - Bristol City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270124-newcastle-united-women-southampton-f-c-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Newcastle United Women - Southampton F.C. Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270124-nottingham-forest-women-sunderland-ladies@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Nottingham Forest Women - Sunderland Ladies
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270124-wolverhampton-wanderers-women-leicester-city-women@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Wolverhampton Wanderers Women - Leicester City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270127-durham-women-sheffield-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270127T190000Z
+DTEND:20270127T204500Z
+SUMMARY:Durham Women - Sheffield United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270127-sunderland-ladies-burnley-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270127T190000Z
+DTEND:20270127T204500Z
+SUMMARY:Sunderland Ladies - Burnley FC Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270127-ipswich-town-women-watford-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270127T193000Z
+DTEND:20270127T211500Z
+SUMMARY:Ipswich Town Women - Watford Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270127-leicester-city-women-nottingham-forest-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270127T193000Z
+DTEND:20270127T211500Z
+SUMMARY:Leicester City Women - Nottingham Forest Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270127-southampton-f-c-women-bristol-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270127T193000Z
+DTEND:20270127T211500Z
+SUMMARY:Southampton F.C. Women - Bristol City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270127-wolverhampton-wanderers-women-newcastle-united-women@spo
+ rtcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270127T193000Z
+DTEND:20270127T211500Z
+SUMMARY:Wolverhampton Wanderers Women - Newcastle United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270131-bristol-city-women-sheffield-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Bristol City Women - Sheffield United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270131-nottingham-forest-women-ipswich-town-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Nottingham Forest Women - Ipswich Town Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270131-southampton-f-c-women-burnley-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Southampton F.C. Women - Burnley FC Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270131-sunderland-ladies-durham-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Sunderland Ladies - Durham Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270131-watford-women-wolverhampton-wanderers-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Watford Women - Wolverhampton Wanderers Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270131-leicester-city-women-newcastle-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T150000Z
+DTEND:20270131T164500Z
+SUMMARY:Leicester City Women - Newcastle United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270207-ipswich-town-women-durham-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T130000Z
+DTEND:20270207T144500Z
+SUMMARY:Ipswich Town Women - Durham Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270207-bristol-city-women-watford-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Bristol City Women - Watford Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270207-burnley-fc-women-leicester-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Burnley FC Women - Leicester City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270207-newcastle-united-women-nottingham-forest-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Newcastle United Women - Nottingham Forest Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270207-sheffield-united-women-southampton-f-c-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Sheffield United Women - Southampton F.C. Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270207-wolverhampton-wanderers-women-sunderland-ladies@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Wolverhampton Wanderers Women - Sunderland Ladies
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270212-watford-women-leicester-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270212T193000Z
+DTEND:20270212T211500Z
+SUMMARY:Watford Women - Leicester City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270213-sheffield-united-women-burnley-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:Sheffield United Women - Burnley FC Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270214-durham-women-wolverhampton-wanderers-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T120000Z
+DTEND:20270214T134500Z
+SUMMARY:Durham Women - Wolverhampton Wanderers Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270214-nottingham-forest-women-bristol-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Nottingham Forest Women - Bristol City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270214-southampton-f-c-women-newcastle-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Southampton F.C. Women - Newcastle United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270214-sunderland-ladies-ipswich-town-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Sunderland Ladies - Ipswich Town Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270314-bristol-city-women-sunderland-ladies@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Bristol City Women - Sunderland Ladies
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270314-burnley-fc-women-watford-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Burnley FC Women - Watford Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270314-ipswich-town-women-sheffield-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Ipswich Town Women - Sheffield United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270314-newcastle-united-women-durham-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Newcastle United Women - Durham Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270314-nottingham-forest-women-southampton-f-c-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Nottingham Forest Women - Southampton F.C. Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270314-leicester-city-women-wolverhampton-wanderers-women@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T150000Z
+DTEND:20270314T164500Z
+SUMMARY:Leicester City Women - Wolverhampton Wanderers Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270320-sheffield-united-women-newcastle-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:Sheffield United Women - Newcastle United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270321-durham-women-leicester-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T120000Z
+DTEND:20270321T134500Z
+SUMMARY:Durham Women - Leicester City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270321-ipswich-town-women-burnley-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Ipswich Town Women - Burnley FC Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270321-southampton-f-c-women-watford-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Southampton F.C. Women - Watford Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270321-sunderland-ladies-nottingham-forest-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sunderland Ladies - Nottingham Forest Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270321-wolverhampton-wanderers-women-bristol-city-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Wolverhampton Wanderers Women - Bristol City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270326-watford-women-nottingham-forest-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270326T193000Z
+DTEND:20270326T211500Z
+SUMMARY:Watford Women - Nottingham Forest Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270327-burnley-fc-women-wolverhampton-wanderers-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270327T140000Z
+DTEND:20270327T154500Z
+SUMMARY:Burnley FC Women - Wolverhampton Wanderers Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270328-southampton-f-c-women-durham-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T110000Z
+DTEND:20270328T124500Z
+SUMMARY:Southampton F.C. Women - Durham Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270328-bristol-city-women-ipswich-town-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T130000Z
+DTEND:20270328T144500Z
+SUMMARY:Bristol City Women - Ipswich Town Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270328-newcastle-united-women-sunderland-ladies@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T130000Z
+DTEND:20270328T144500Z
+SUMMARY:Newcastle United Women - Sunderland Ladies
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270328-leicester-city-women-sheffield-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T140000Z
+DTEND:20270328T154500Z
+SUMMARY:Leicester City Women - Sheffield United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270404-bristol-city-women-burnley-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Bristol City Women - Burnley FC Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270404-ipswich-town-women-leicester-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Ipswich Town Women - Leicester City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270404-nottingham-forest-women-durham-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Nottingham Forest Women - Durham Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270404-sunderland-ladies-sheffield-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Sunderland Ladies - Sheffield United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270404-watford-women-newcastle-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Watford Women - Newcastle United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270404-wolverhampton-wanderers-women-southampton-f-c-women@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Wolverhampton Wanderers Women - Southampton F.C. Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270410-sheffield-united-women-wolverhampton-wanderers-women@spo
+ rtcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:Sheffield United Women - Wolverhampton Wanderers Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270411-durham-women-watford-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T110000Z
+DTEND:20270411T124500Z
+SUMMARY:Durham Women - Watford Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270411-burnley-fc-women-nottingham-forest-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Burnley FC Women - Nottingham Forest Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270411-newcastle-united-women-ipswich-town-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Newcastle United Women - Ipswich Town Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270411-southampton-f-c-women-sunderland-ladies@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Southampton F.C. Women - Sunderland Ladies
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270411-leicester-city-women-bristol-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T140000Z
+DTEND:20270411T154500Z
+SUMMARY:Leicester City Women - Bristol City Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270501-watford-women-sheffield-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270501T110000Z
+DTEND:20270501T124500Z
+SUMMARY:Watford Women - Sheffield United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270501-bristol-city-women-durham-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270501T163000Z
+DTEND:20270501T181500Z
+SUMMARY:Bristol City Women - Durham Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270502-burnley-fc-women-newcastle-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:Burnley FC Women - Newcastle United Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270502-ipswich-town-women-southampton-f-c-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:Ipswich Town Women - Southampton F.C. Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270502-nottingham-forest-women-wolverhampton-wanderers-women@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:Nottingham Forest Women - Wolverhampton Wanderers Women
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270502-leicester-city-women-sunderland-ladies@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T140000Z
+DTEND:20270502T154500Z
+SUMMARY:Leicester City Women - Sunderland Ladies
+DESCRIPTION:Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270508-durham-women-burnley-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Durham Women - Burnley FC Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270508-newcastle-united-women-bristol-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Newcastle United Women - Bristol City Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270508-sheffield-united-women-nottingham-forest-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Sheffield United Women - Nottingham Forest Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270508-southampton-f-c-women-leicester-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Southampton F.C. Women - Leicester City Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270508-sunderland-ladies-watford-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Sunderland Ladies - Watford Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:wslch-20270508-wolverhampton-wanderers-women-ipswich-town-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Wolverhampton Wanderers Women - Ipswich Town Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's Championship
+END:VEVENT
+END:VCALENDAR

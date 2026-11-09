@@ -1,0 +1,2178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jupiler Pro League
+BEGIN:VEVENT
+UID:jupiler-dia-20261120-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:JUPILER PRO LEAGUE | J12
+DESCRIPTION:20:45 Cercle Brugge K.S.V. - KVC Westerlo
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261121-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:JUPILER PRO LEAGUE | J12
+DESCRIPTION:16:00 Sporting Charleroi - Sint Truiden VV\n18:15 KRC Genk - RA
+ AL La Louvière\n20:45 KV Mechelen - Club Brugge KV\n20:45 SV Zulte-Warege
+ m - RAFC Antwerp
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261122-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:JUPILER PRO LEAGUE | J12
+DESCRIPTION:13:30 Beveren - KAA Gent\n16:00 KV Kortrijk - Union Saint-Gillo
+ ise\n18:30 RSC Anderlecht - OH Leuven\n19:15 Lommel - Standard Luik
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261127-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:JUPILER PRO LEAGUE | J13
+DESCRIPTION:20:45 OH Leuven - KV Kortrijk
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261128-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:JUPILER PRO LEAGUE | J13
+DESCRIPTION:16:00 KVC Westerlo - RAAL La Louvière\n18:15 Cercle Brugge K.S
+ .V. - KV Mechelen\n20:45 Lommel - SV Zulte-Waregem\n20:45 Sporting Charler
+ oi - Beveren
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261129-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:JUPILER PRO LEAGUE | J13
+DESCRIPTION:13:30 Sint Truiden VV - KRC Genk\n16:00 RAFC Antwerp - RSC Ande
+ rlecht\n18:30 Standard Luik - Club Brugge KV\n19:15 Union Saint-Gilloise -
+  KAA Gent
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261211-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:JUPILER PRO LEAGUE | J14
+DESCRIPTION:20:45 KRC Genk - OH Leuven
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261212-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:JUPILER PRO LEAGUE | J14
+DESCRIPTION:16:00 KV Kortrijk - Lommel\n18:15 RAAL La Louvière - RAFC Antw
+ erp\n20:45 Beveren - Cercle Brugge K.S.V.\n20:45 SV Zulte-Waregem - Standa
+ rd Luik
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261213-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:JUPILER PRO LEAGUE | J14
+DESCRIPTION:13:30 RSC Anderlecht - Sporting Charleroi\n16:00 Club Brugge KV
+  - KVC Westerlo\n18:30 KV Mechelen - Union Saint-Gilloise\n19:15 KAA Gent 
+ - Sint Truiden VV
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261218-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:JUPILER PRO LEAGUE | J15
+DESCRIPTION:20:45 RAFC Antwerp - OH Leuven
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261219-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:JUPILER PRO LEAGUE | J15
+DESCRIPTION:16:00 Beveren - KV Mechelen\n18:15 Cercle Brugge K.S.V. - SV Zu
+ lte-Waregem\n20:45 Lommel - RAAL La Louvière\n20:45 Sporting Charleroi - 
+ KRC Genk
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261220-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:JUPILER PRO LEAGUE | J15
+DESCRIPTION:13:30 Standard Luik - RSC Anderlecht\n16:00 Sint Truiden VV - K
+ V Kortrijk\n18:30 Union Saint-Gilloise - Club Brugge KV\n19:15 KVC Westerl
+ o - KAA Gent
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261226-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:JUPILER PRO LEAGUE | J16
+DESCRIPTION:13:30 Club Brugge KV - Sporting Charleroi\n16:00 KV Kortrijk - 
+ Cercle Brugge K.S.V.\n18:15 OH Leuven - KVC Westerlo\n20:45 RAAL La Louvi
+ ère - Beveren\n20:45 Standard Luik - Union Saint-Gilloise
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20261227-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:JUPILER PRO LEAGUE | J16
+DESCRIPTION:13:30 RSC Anderlecht - Sint Truiden VV\n16:00 KRC Genk - Lommel
+ \n18:30 KAA Gent - RAFC Antwerp\n19:15 KV Mechelen - SV Zulte-Waregem
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270115-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:JUPILER PRO LEAGUE | J17
+DESCRIPTION:20:45 Beveren - Club Brugge KV
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270116-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:JUPILER PRO LEAGUE | J17
+DESCRIPTION:16:00 Lommel - RSC Anderlecht\n18:15 Union Saint-Gilloise - RAA
+ L La Louvière\n20:45 RAFC Antwerp - KV Mechelen\n20:45 KVC Westerlo - KV 
+ Kortrijk
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270117-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:JUPILER PRO LEAGUE | J17
+DESCRIPTION:13:30 Sint Truiden VV - Standard Luik\n16:00 Cercle Brugge K.S.
+ V. - KRC Genk\n18:30 Sporting Charleroi - KAA Gent\n19:15 SV Zulte-Waregem
+  - OH Leuven
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270123-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:JUPILER PRO LEAGUE | J18
+DESCRIPTION:TBD Club Brugge KV - RAAL La Louvière\nTBD KRC Genk - SV Zulte
+ -Waregem\nTBD KAA Gent - Cercle Brugge K.S.V.\nTBD KV Kortrijk - RSC Ander
+ lecht\nTBD KV Mechelen - Lommel\nTBD OH Leuven - Sint Truiden VV\nTBD Spor
+ ting Charleroi - RAFC Antwerp\nTBD Standard Luik - KVC Westerlo\nTBD Union
+  Saint-Gilloise - Beveren
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270130-j19@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:JUPILER PRO LEAGUE | J19
+DESCRIPTION:TBD RSC Anderlecht - KAA Gent\nTBD RAFC Antwerp - Club Brugge K
+ V\nTBD Beveren - KV Kortrijk\nTBD Cercle Brugge K.S.V. - Standard Luik\nTB
+ D Lommel - OH Leuven\nTBD RAAL La Louvière - Sporting Charleroi\nTBD Sint
+  Truiden VV - KV Mechelen\nTBD KVC Westerlo - KRC Genk\nTBD SV Zulte-Wareg
+ em - Union Saint-Gilloise
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270206-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:JUPILER PRO LEAGUE | J20
+DESCRIPTION:TBD Club Brugge KV - Standard Luik\nTBD KRC Genk - RAFC Antwerp
+ \nTBD KAA Gent - Beveren\nTBD KV Kortrijk - RAAL La Louvière\nTBD KV Mech
+ elen - Cercle Brugge K.S.V.\nTBD OH Leuven - RSC Anderlecht\nTBD Sporting 
+ Charleroi - KVC Westerlo\nTBD Union Saint-Gilloise - Sint Truiden VV\nTBD 
+ SV Zulte-Waregem - Lommel
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270213-j21@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:JUPILER PRO LEAGUE | J21
+DESCRIPTION:TBD RSC Anderlecht - KV Mechelen\nTBD RAFC Antwerp - KV Kortrij
+ k\nTBD Beveren - KRC Genk\nTBD Cercle Brugge K.S.V. - Sporting Charleroi\n
+ TBD Lommel - Union Saint-Gilloise\nTBD RAAL La Louvière - OH Leuven\nTBD 
+ Sint Truiden VV - KAA Gent\nTBD Standard Luik - SV Zulte-Waregem\nTBD KVC 
+ Westerlo - Club Brugge KV
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270220-j22@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:JUPILER PRO LEAGUE | J22
+DESCRIPTION:TBD Club Brugge KV - Lommel\nTBD KAA Gent - RAAL La Louvière\n
+ TBD KV Kortrijk - KRC Genk\nTBD KV Mechelen - Beveren\nTBD OH Leuven - RAF
+ C Antwerp\nTBD Sint Truiden VV - Cercle Brugge K.S.V.\nTBD Sporting Charle
+ roi - Standard Luik\nTBD Union Saint-Gilloise - KVC Westerlo\nTBD SV Zulte
+ -Waregem - RSC Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270227-j23@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:JUPILER PRO LEAGUE | J23
+DESCRIPTION:TBD RSC Anderlecht - Club Brugge KV\nTBD RAFC Antwerp - SV Zult
+ e-Waregem\nTBD Beveren - Sporting Charleroi\nTBD Cercle Brugge K.S.V. - OH
+  Leuven\nTBD KRC Genk - Union Saint-Gilloise\nTBD Lommel - KV Kortrijk\nTB
+ D RAAL La Louvière - Sint Truiden VV\nTBD Standard Luik - KAA Gent\nTBD K
+ VC Westerlo - KV Mechelen
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270306-j24@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:JUPILER PRO LEAGUE | J24
+DESCRIPTION:TBD Club Brugge KV - Beveren\nTBD KAA Gent - Sporting Charleroi
+ \nTBD KV Mechelen - KV Kortrijk\nTBD OH Leuven - KRC Genk\nTBD RAAL La Lou
+ vière - Lommel\nTBD Sint Truiden VV - RAFC Antwerp\nTBD Union Saint-Gillo
+ ise - Standard Luik\nTBD KVC Westerlo - RSC Anderlecht\nTBD SV Zulte-Wareg
+ em - Cercle Brugge K.S.V.
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270313-j25@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:JUPILER PRO LEAGUE | J25
+DESCRIPTION:TBD RSC Anderlecht - Lommel\nTBD RAFC Antwerp - RAAL La Louviè
+ re\nTBD Beveren - KVC Westerlo\nTBD Cercle Brugge K.S.V. - Union Saint-Gil
+ loise\nTBD KRC Genk - Sint Truiden VV\nTBD KAA Gent - SV Zulte-Waregem\nTB
+ D KV Kortrijk - OH Leuven\nTBD Sporting Charleroi - Club Brugge KV\nTBD St
+ andard Luik - KV Mechelen
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270320-j26@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:JUPILER PRO LEAGUE | J26
+DESCRIPTION:TBD RSC Anderlecht - Standard Luik\nTBD Club Brugge KV - KAA Ge
+ nt\nTBD Lommel - RAFC Antwerp\nTBD KV Mechelen - Sporting Charleroi\nTBD O
+ H Leuven - Union Saint-Gilloise\nTBD RAAL La Louvière - KRC Genk\nTBD Sin
+ t Truiden VV - Beveren\nTBD KVC Westerlo - Cercle Brugge K.S.V.\nTBD SV Zu
+ lte-Waregem - KV Kortrijk
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270403-j27@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:JUPILER PRO LEAGUE | J27
+DESCRIPTION:TBD Beveren - RAFC Antwerp\nTBD Cercle Brugge K.S.V. - RAAL La 
+ Louvière\nTBD KRC Genk - RSC Anderlecht\nTBD KAA Gent - KVC Westerlo\nTBD
+  KV Kortrijk - Club Brugge KV\nTBD OH Leuven - SV Zulte-Waregem\nTBD Sport
+ ing Charleroi - Lommel\nTBD Standard Luik - Sint Truiden VV\nTBD Union Sai
+ nt-Gilloise - KV Mechelen
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270410-j28@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:JUPILER PRO LEAGUE | J28
+DESCRIPTION:TBD RSC Anderlecht - Beveren\nTBD RAFC Antwerp - Cercle Brugge 
+ K.S.V.\nTBD Club Brugge KV - OH Leuven\nTBD KV Kortrijk - Standard Luik\nT
+ BD Lommel - KRC Genk\nTBD KV Mechelen - KAA Gent\nTBD RAAL La Louvière - 
+ Union Saint-Gilloise\nTBD Sint Truiden VV - Sporting Charleroi\nTBD SV Zul
+ te-Waregem - KVC Westerlo
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270417-j29@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:JUPILER PRO LEAGUE | J29
+DESCRIPTION:TBD Beveren - SV Zulte-Waregem\nTBD Cercle Brugge K.S.V. - KV K
+ ortrijk\nTBD KRC Genk - Club Brugge KV\nTBD KAA Gent - Lommel\nTBD KV Mech
+ elen - RAAL La Louvière\nTBD Sporting Charleroi - RSC Anderlecht\nTBD Sta
+ ndard Luik - OH Leuven\nTBD Union Saint-Gilloise - RAFC Antwerp\nTBD KVC W
+ esterlo - Sint Truiden VV
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270424-j30@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:JUPILER PRO LEAGUE | J30
+DESCRIPTION:TBD RSC Anderlecht - Cercle Brugge K.S.V.\nTBD RAFC Antwerp - K
+ AA Gent\nTBD Club Brugge KV - Union Saint-Gilloise\nTBD KRC Genk - Sportin
+ g Charleroi\nTBD KV Kortrijk - KVC Westerlo\nTBD Lommel - Sint Truiden VV\
+ nTBD OH Leuven - Beveren\nTBD RAAL La Louvière - Standard Luik\nTBD SV Zu
+ lte-Waregem - KV Mechelen
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270501-j31@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:JUPILER PRO LEAGUE | J31
+DESCRIPTION:TBD Beveren - RAAL La Louvière\nTBD Cercle Brugge K.S.V. - Clu
+ b Brugge KV\nTBD KAA Gent - KRC Genk\nTBD KV Mechelen - RAFC Antwerp\nTBD 
+ Sint Truiden VV - RSC Anderlecht\nTBD Sporting Charleroi - SV Zulte-Warege
+ m\nTBD Standard Luik - Lommel\nTBD Union Saint-Gilloise - KV Kortrijk\nTBD
+  KVC Westerlo - OH Leuven
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270508-j32@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:JUPILER PRO LEAGUE | J32
+DESCRIPTION:TBD RSC Anderlecht - Union Saint-Gilloise\nTBD RAFC Antwerp - S
+ tandard Luik\nTBD Club Brugge KV - KV Mechelen\nTBD KRC Genk - Cercle Brug
+ ge K.S.V.\nTBD KV Kortrijk - KAA Gent\nTBD Lommel - Beveren\nTBD OH Leuven
+  - Sporting Charleroi\nTBD RAAL La Louvière - KVC Westerlo\nTBD SV Zulte-
+ Waregem - Sint Truiden VV
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270515-j33@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:JUPILER PRO LEAGUE | J33
+DESCRIPTION:TBD RSC Anderlecht - RAFC Antwerp\nTBD Cercle Brugge K.S.V. - B
+ everen\nTBD KAA Gent - Union Saint-Gilloise\nTBD KV Mechelen - OH Leuven\n
+ TBD Sint Truiden VV - Club Brugge KV\nTBD Sporting Charleroi - KV Kortrijk
+ \nTBD Standard Luik - KRC Genk\nTBD KVC Westerlo - Lommel\nTBD SV Zulte-Wa
+ regem - RAAL La Louvière
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-dia-20270522-j34@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:JUPILER PRO LEAGUE | J34
+DESCRIPTION:TBD RAFC Antwerp - KVC Westerlo\nTBD Beveren - Standard Luik\nT
+ BD Club Brugge KV - SV Zulte-Waregem\nTBD KRC Genk - KV Mechelen\nTBD KV K
+ ortrijk - Sint Truiden VV\nTBD Lommel - Cercle Brugge K.S.V.\nTBD OH Leuve
+ n - KAA Gent\nTBD RAAL La Louvière - RSC Anderlecht\nTBD Union Saint-Gill
+ oise - Sporting Charleroi
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261120-cercle-brugge-k-s-v-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261120T194500Z
+DTEND:20261120T213000Z
+SUMMARY:Cercle Brugge K.S.V. - KVC Westerlo
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261121-sporting-charleroi-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Sporting Charleroi - Sint Truiden VV
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261121-krc-genk-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T171500Z
+DTEND:20261121T190000Z
+SUMMARY:KRC Genk - RAAL La Louvière
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261121-kv-mechelen-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T194500Z
+DTEND:20261121T213000Z
+SUMMARY:KV Mechelen - Club Brugge KV
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261121-sv-zulte-waregem-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T194500Z
+DTEND:20261121T213000Z
+SUMMARY:SV Zulte-Waregem - RAFC Antwerp
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261122-beveren-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T123000Z
+DTEND:20261122T141500Z
+SUMMARY:Beveren - KAA Gent
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261122-kv-kortrijk-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T150000Z
+DTEND:20261122T164500Z
+SUMMARY:KV Kortrijk - Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261122-rsc-anderlecht-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T173000Z
+DTEND:20261122T191500Z
+SUMMARY:RSC Anderlecht - OH Leuven
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261122-lommel-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T181500Z
+DTEND:20261122T200000Z
+SUMMARY:Lommel - Standard Luik
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261127-oh-leuven-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261127T194500Z
+DTEND:20261127T213000Z
+SUMMARY:OH Leuven - KV Kortrijk
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261128-kvc-westerlo-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T150000Z
+DTEND:20261128T164500Z
+SUMMARY:KVC Westerlo - RAAL La Louvière
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261128-cercle-brugge-k-s-v-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T171500Z
+DTEND:20261128T190000Z
+SUMMARY:Cercle Brugge K.S.V. - KV Mechelen
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261128-lommel-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T194500Z
+DTEND:20261128T213000Z
+SUMMARY:Lommel - SV Zulte-Waregem
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261128-sporting-charleroi-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T194500Z
+DTEND:20261128T213000Z
+SUMMARY:Sporting Charleroi - Beveren
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261129-sint-truiden-vv-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:Sint Truiden VV - KRC Genk
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261129-rafc-antwerp-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T150000Z
+DTEND:20261129T164500Z
+SUMMARY:RAFC Antwerp - RSC Anderlecht
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261129-standard-luik-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T173000Z
+DTEND:20261129T191500Z
+SUMMARY:Standard Luik - Club Brugge KV
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261129-union-saint-gilloise-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T181500Z
+DTEND:20261129T200000Z
+SUMMARY:Union Saint-Gilloise - KAA Gent
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261211-krc-genk-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261211T194500Z
+DTEND:20261211T213000Z
+SUMMARY:KRC Genk - OH Leuven
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261212-kv-kortrijk-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T150000Z
+DTEND:20261212T164500Z
+SUMMARY:KV Kortrijk - Lommel
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261212-raal-la-louviere-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T171500Z
+DTEND:20261212T190000Z
+SUMMARY:RAAL La Louvière - RAFC Antwerp
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261212-beveren-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T194500Z
+DTEND:20261212T213000Z
+SUMMARY:Beveren - Cercle Brugge K.S.V.
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261212-sv-zulte-waregem-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T194500Z
+DTEND:20261212T213000Z
+SUMMARY:SV Zulte-Waregem - Standard Luik
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261213-rsc-anderlecht-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:RSC Anderlecht - Sporting Charleroi
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261213-club-brugge-kv-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T150000Z
+DTEND:20261213T164500Z
+SUMMARY:Club Brugge KV - KVC Westerlo
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261213-kv-mechelen-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T173000Z
+DTEND:20261213T191500Z
+SUMMARY:KV Mechelen - Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261213-kaa-gent-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T181500Z
+DTEND:20261213T200000Z
+SUMMARY:KAA Gent - Sint Truiden VV
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261218-rafc-antwerp-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261218T194500Z
+DTEND:20261218T213000Z
+SUMMARY:RAFC Antwerp - OH Leuven
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261219-beveren-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T150000Z
+DTEND:20261219T164500Z
+SUMMARY:Beveren - KV Mechelen
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261219-cercle-brugge-k-s-v-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T171500Z
+DTEND:20261219T190000Z
+SUMMARY:Cercle Brugge K.S.V. - SV Zulte-Waregem
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261219-lommel-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T194500Z
+DTEND:20261219T213000Z
+SUMMARY:Lommel - RAAL La Louvière
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261219-sporting-charleroi-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T194500Z
+DTEND:20261219T213000Z
+SUMMARY:Sporting Charleroi - KRC Genk
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261220-standard-luik-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T123000Z
+DTEND:20261220T141500Z
+SUMMARY:Standard Luik - RSC Anderlecht
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261220-sint-truiden-vv-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T150000Z
+DTEND:20261220T164500Z
+SUMMARY:Sint Truiden VV - KV Kortrijk
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261220-union-saint-gilloise-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T173000Z
+DTEND:20261220T191500Z
+SUMMARY:Union Saint-Gilloise - Club Brugge KV
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261220-kvc-westerlo-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T181500Z
+DTEND:20261220T200000Z
+SUMMARY:KVC Westerlo - KAA Gent
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261226-club-brugge-kv-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261226T123000Z
+DTEND:20261226T141500Z
+SUMMARY:Club Brugge KV - Sporting Charleroi
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261226-kv-kortrijk-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261226T150000Z
+DTEND:20261226T164500Z
+SUMMARY:KV Kortrijk - Cercle Brugge K.S.V.
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261226-oh-leuven-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261226T171500Z
+DTEND:20261226T190000Z
+SUMMARY:OH Leuven - KVC Westerlo
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261226-raal-la-louviere-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261226T194500Z
+DTEND:20261226T213000Z
+SUMMARY:RAAL La Louvière - Beveren
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261226-standard-luik-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261226T194500Z
+DTEND:20261226T213000Z
+SUMMARY:Standard Luik - Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261227-rsc-anderlecht-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261227T123000Z
+DTEND:20261227T141500Z
+SUMMARY:RSC Anderlecht - Sint Truiden VV
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261227-krc-genk-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261227T150000Z
+DTEND:20261227T164500Z
+SUMMARY:KRC Genk - Lommel
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261227-kaa-gent-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261227T173000Z
+DTEND:20261227T191500Z
+SUMMARY:KAA Gent - RAFC Antwerp
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20261227-kv-mechelen-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261227T181500Z
+DTEND:20261227T200000Z
+SUMMARY:KV Mechelen - SV Zulte-Waregem
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270115-beveren-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270115T194500Z
+DTEND:20270115T213000Z
+SUMMARY:Beveren - Club Brugge KV
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270116-lommel-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T150000Z
+DTEND:20270116T164500Z
+SUMMARY:Lommel - RSC Anderlecht
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270116-union-saint-gilloise-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T171500Z
+DTEND:20270116T190000Z
+SUMMARY:Union Saint-Gilloise - RAAL La Louvière
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270116-rafc-antwerp-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T194500Z
+DTEND:20270116T213000Z
+SUMMARY:RAFC Antwerp - KV Mechelen
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270116-kvc-westerlo-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T194500Z
+DTEND:20270116T213000Z
+SUMMARY:KVC Westerlo - KV Kortrijk
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270117-sint-truiden-vv-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T123000Z
+DTEND:20270117T141500Z
+SUMMARY:Sint Truiden VV - Standard Luik
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270117-cercle-brugge-k-s-v-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T150000Z
+DTEND:20270117T164500Z
+SUMMARY:Cercle Brugge K.S.V. - KRC Genk
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270117-sporting-charleroi-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T173000Z
+DTEND:20270117T191500Z
+SUMMARY:Sporting Charleroi - KAA Gent
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270117-sv-zulte-waregem-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T181500Z
+DTEND:20270117T200000Z
+SUMMARY:SV Zulte-Waregem - OH Leuven
+DESCRIPTION:Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-club-brugge-kv-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Club Brugge KV - RAAL La Louvière · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-krc-genk-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:KRC Genk - SV Zulte-Waregem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-kaa-gent-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:KAA Gent - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-kv-kortrijk-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:KV Kortrijk - RSC Anderlecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-kv-mechelen-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:KV Mechelen - Lommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-oh-leuven-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:OH Leuven - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-sporting-charleroi-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Sporting Charleroi - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-standard-luik-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Standard Luik - KVC Westerlo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270123-union-saint-gilloise-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Union Saint-Gilloise - Beveren · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-rsc-anderlecht-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:RSC Anderlecht - KAA Gent · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-rafc-antwerp-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:RAFC Antwerp - Club Brugge KV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-beveren-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Beveren - KV Kortrijk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-cercle-brugge-k-s-v-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Cercle Brugge K.S.V. - Standard Luik · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-lommel-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Lommel - OH Leuven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-raal-la-louviere-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:RAAL La Louvière - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-sint-truiden-vv-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Sint Truiden VV - KV Mechelen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-kvc-westerlo-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:KVC Westerlo - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270130-sv-zulte-waregem-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:SV Zulte-Waregem - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-club-brugge-kv-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Club Brugge KV - Standard Luik · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-krc-genk-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:KRC Genk - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-kaa-gent-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:KAA Gent - Beveren · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-kv-kortrijk-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:KV Kortrijk - RAAL La Louvière · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-kv-mechelen-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:KV Mechelen - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-oh-leuven-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:OH Leuven - RSC Anderlecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-sporting-charleroi-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Sporting Charleroi - KVC Westerlo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-union-saint-gilloise-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Union Saint-Gilloise - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270206-sv-zulte-waregem-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:SV Zulte-Waregem - Lommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-rsc-anderlecht-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:RSC Anderlecht - KV Mechelen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-rafc-antwerp-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:RAFC Antwerp - KV Kortrijk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-beveren-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Beveren - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-cercle-brugge-k-s-v-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Cercle Brugge K.S.V. - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-lommel-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Lommel - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-raal-la-louviere-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:RAAL La Louvière - OH Leuven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-sint-truiden-vv-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Sint Truiden VV - KAA Gent · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-standard-luik-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Standard Luik - SV Zulte-Waregem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270213-kvc-westerlo-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:KVC Westerlo - Club Brugge KV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-club-brugge-kv-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Club Brugge KV - Lommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-kaa-gent-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:KAA Gent - RAAL La Louvière · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-kv-kortrijk-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:KV Kortrijk - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-kv-mechelen-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:KV Mechelen - Beveren · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-oh-leuven-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:OH Leuven - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-sint-truiden-vv-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Sint Truiden VV - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-sporting-charleroi-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Sporting Charleroi - Standard Luik · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-union-saint-gilloise-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Union Saint-Gilloise - KVC Westerlo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270220-sv-zulte-waregem-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:SV Zulte-Waregem - RSC Anderlecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-rsc-anderlecht-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:RSC Anderlecht - Club Brugge KV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-rafc-antwerp-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:RAFC Antwerp - SV Zulte-Waregem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-beveren-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Beveren - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-cercle-brugge-k-s-v-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Cercle Brugge K.S.V. - OH Leuven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-krc-genk-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:KRC Genk - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-lommel-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Lommel - KV Kortrijk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-raal-la-louviere-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:RAAL La Louvière - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-standard-luik-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Standard Luik - KAA Gent · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270227-kvc-westerlo-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:KVC Westerlo - KV Mechelen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-club-brugge-kv-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Club Brugge KV - Beveren · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-kaa-gent-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:KAA Gent - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-kv-mechelen-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:KV Mechelen - KV Kortrijk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-oh-leuven-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:OH Leuven - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-raal-la-louviere-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:RAAL La Louvière - Lommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-sint-truiden-vv-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Sint Truiden VV - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-union-saint-gilloise-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Union Saint-Gilloise - Standard Luik · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-kvc-westerlo-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:KVC Westerlo - RSC Anderlecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270306-sv-zulte-waregem-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:SV Zulte-Waregem - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-rsc-anderlecht-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:RSC Anderlecht - Lommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-rafc-antwerp-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:RAFC Antwerp - RAAL La Louvière · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-beveren-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Beveren - KVC Westerlo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-cercle-brugge-k-s-v-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Cercle Brugge K.S.V. - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-krc-genk-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:KRC Genk - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-kaa-gent-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:KAA Gent - SV Zulte-Waregem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-kv-kortrijk-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:KV Kortrijk - OH Leuven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-sporting-charleroi-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Sporting Charleroi - Club Brugge KV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270313-standard-luik-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Standard Luik - KV Mechelen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-rsc-anderlecht-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:RSC Anderlecht - Standard Luik · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-club-brugge-kv-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Club Brugge KV - KAA Gent · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-lommel-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Lommel - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-kv-mechelen-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:KV Mechelen - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-oh-leuven-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:OH Leuven - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-raal-la-louviere-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:RAAL La Louvière - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-sint-truiden-vv-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Sint Truiden VV - Beveren · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-kvc-westerlo-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:KVC Westerlo - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270320-sv-zulte-waregem-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SV Zulte-Waregem - KV Kortrijk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-beveren-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Beveren - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-cercle-brugge-k-s-v-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Cercle Brugge K.S.V. - RAAL La Louvière · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-krc-genk-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:KRC Genk - RSC Anderlecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-kaa-gent-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:KAA Gent - KVC Westerlo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-kv-kortrijk-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:KV Kortrijk - Club Brugge KV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-oh-leuven-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:OH Leuven - SV Zulte-Waregem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-sporting-charleroi-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Sporting Charleroi - Lommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-standard-luik-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Standard Luik - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270403-union-saint-gilloise-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Union Saint-Gilloise - KV Mechelen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-rsc-anderlecht-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:RSC Anderlecht - Beveren · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-rafc-antwerp-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:RAFC Antwerp - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-club-brugge-kv-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Club Brugge KV - OH Leuven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-kv-kortrijk-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:KV Kortrijk - Standard Luik · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-lommel-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Lommel - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-kv-mechelen-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:KV Mechelen - KAA Gent · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-raal-la-louviere-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:RAAL La Louvière - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-sint-truiden-vv-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Sint Truiden VV - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270410-sv-zulte-waregem-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:SV Zulte-Waregem - KVC Westerlo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-beveren-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Beveren - SV Zulte-Waregem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-cercle-brugge-k-s-v-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Cercle Brugge K.S.V. - KV Kortrijk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-krc-genk-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:KRC Genk - Club Brugge KV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-kaa-gent-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:KAA Gent - Lommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-kv-mechelen-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:KV Mechelen - RAAL La Louvière · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-sporting-charleroi-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Sporting Charleroi - RSC Anderlecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-standard-luik-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Standard Luik - OH Leuven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-union-saint-gilloise-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Union Saint-Gilloise - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270417-kvc-westerlo-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:KVC Westerlo - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-rsc-anderlecht-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:RSC Anderlecht - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-rafc-antwerp-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:RAFC Antwerp - KAA Gent · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-club-brugge-kv-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Club Brugge KV - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-krc-genk-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:KRC Genk - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-kv-kortrijk-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:KV Kortrijk - KVC Westerlo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-lommel-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Lommel - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-oh-leuven-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:OH Leuven - Beveren · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-raal-la-louviere-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:RAAL La Louvière - Standard Luik · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270424-sv-zulte-waregem-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:SV Zulte-Waregem - KV Mechelen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-beveren-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Beveren - RAAL La Louvière · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-cercle-brugge-k-s-v-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Cercle Brugge K.S.V. - Club Brugge KV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-kaa-gent-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:KAA Gent - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-kv-mechelen-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:KV Mechelen - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-sint-truiden-vv-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Sint Truiden VV - RSC Anderlecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-sporting-charleroi-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Sporting Charleroi - SV Zulte-Waregem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-standard-luik-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Standard Luik - Lommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-union-saint-gilloise-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Union Saint-Gilloise - KV Kortrijk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270501-kvc-westerlo-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:KVC Westerlo - OH Leuven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-rsc-anderlecht-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:RSC Anderlecht - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-rafc-antwerp-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:RAFC Antwerp - Standard Luik · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-club-brugge-kv-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Club Brugge KV - KV Mechelen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-krc-genk-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:KRC Genk - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-kv-kortrijk-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:KV Kortrijk - KAA Gent · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-lommel-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Lommel - Beveren · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-oh-leuven-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:OH Leuven - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-raal-la-louviere-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:RAAL La Louvière - KVC Westerlo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270508-sv-zulte-waregem-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SV Zulte-Waregem - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-rsc-anderlecht-rafc-antwerp@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:RSC Anderlecht - RAFC Antwerp · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-cercle-brugge-k-s-v-beveren@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Cercle Brugge K.S.V. - Beveren · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-kaa-gent-union-saint-gilloise@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:KAA Gent - Union Saint-Gilloise · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-kv-mechelen-oh-leuven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:KV Mechelen - OH Leuven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-sint-truiden-vv-club-brugge-kv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Sint Truiden VV - Club Brugge KV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-sporting-charleroi-kv-kortrijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Sporting Charleroi - KV Kortrijk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-standard-luik-krc-genk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Standard Luik - KRC Genk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-kvc-westerlo-lommel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:KVC Westerlo - Lommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270515-sv-zulte-waregem-raal-la-louviere@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:SV Zulte-Waregem - RAAL La Louvière · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-rafc-antwerp-kvc-westerlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:RAFC Antwerp - KVC Westerlo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-beveren-standard-luik@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Beveren - Standard Luik · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-club-brugge-kv-sv-zulte-waregem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Club Brugge KV - SV Zulte-Waregem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-krc-genk-kv-mechelen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:KRC Genk - KV Mechelen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-kv-kortrijk-sint-truiden-vv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:KV Kortrijk - Sint Truiden VV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-lommel-cercle-brugge-k-s-v@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Lommel - Cercle Brugge K.S.V. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-oh-leuven-kaa-gent@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:OH Leuven - KAA Gent · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-raal-la-louviere-rsc-anderlecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:RAAL La Louvière - RSC Anderlecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiler-20270522-union-saint-gilloise-sporting-charleroi@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Union Saint-Gilloise - Sporting Charleroi · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Jupiler Pro League
+END:VEVENT
+END:VCALENDAR

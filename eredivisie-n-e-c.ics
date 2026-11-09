@@ -1,0 +1,392 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:N.E.C. · Eredivisie
+BEGIN:VEVENT
+UID:eredivisie-20261121-n-e-c-psv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:N.E.C. | Eredivisie | J13 | 🏟️ | PSV 🇳🇱
+DESCRIPTION:Inici: 16:30 (Europe/Madrid) · Eredivisie\nEstadi: Goffertstad
+ ion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261121-n-e-c-psv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T153000Z
+DTEND:20261121T171500Z
+SUMMARY:N.E.C. - PSV
+DESCRIPTION:Eredivisie
+LOCATION:Goffertstadion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261129-n-e-c-fc-twente-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:N.E.C. | Eredivisie | J14 | 🏟️ | FC Twente 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eredivisie\nEstadi: Goffertstad
+ ion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261129-n-e-c-fc-twente@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T190000Z
+DTEND:20261129T204500Z
+SUMMARY:N.E.C. - FC Twente
+DESCRIPTION:Eredivisie
+LOCATION:Goffertstadion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261205-sparta-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:N.E.C. | Eredivisie | J15 | ✈️ | Sparta 🇳🇱
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · Eredivisie\nEstadi: Sparta-Stad
+ ion Het Kasteel\, Spartapark Noord 1\, Rotterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261205-sparta-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T174500Z
+DTEND:20261205T193000Z
+SUMMARY:Sparta - N.E.C.
+DESCRIPTION:Eredivisie
+LOCATION:Sparta-Stadion Het Kasteel\, Spartapark Noord 1\, Rotterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261213-az-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:N.E.C. | Eredivisie | J16 | ✈️ | AZ 🇳🇱
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Eredivisie\nEstadi: AFAS Stadio
+ n\, Stadionweg 1\, Alkmaar
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261213-az-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T154500Z
+DTEND:20261213T173000Z
+SUMMARY:AZ - N.E.C.
+DESCRIPTION:Eredivisie
+LOCATION:AFAS Stadion\, Stadionweg 1\, Alkmaar
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261220-n-e-c-ado-den-haag-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:N.E.C. | Eredivisie | J17 | 🏟️ | ADO Den Haag 🇳🇱
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Eredivisie\nEstadi: Goffertstad
+ ion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261220-n-e-c-ado-den-haag@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T111500Z
+DTEND:20261220T130000Z
+SUMMARY:N.E.C. - ADO Den Haag
+DESCRIPTION:Eredivisie
+LOCATION:Goffertstadion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270110-n-e-c-sc-cambuur-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:N.E.C. | Eredivisie | J18 | 🏟️ | SC Cambuur 🇳🇱
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Eredivisie\nEstadi: Goffertstad
+ ion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270110-n-e-c-sc-cambuur@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T111500Z
+DTEND:20270110T130000Z
+SUMMARY:N.E.C. - SC Cambuur
+DESCRIPTION:Eredivisie
+LOCATION:Goffertstadion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270116-telstar-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:N.E.C. | Eredivisie | J19 | ✈️ | Telstar 🇳🇱
+DESCRIPTION:Inici: 16:30 (Europe/Madrid) · Eredivisie\nEstadi: BUKO Stadio
+ n\, Minister van Houtenlaan 123\, Velsen-Zuid
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270116-telstar-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T153000Z
+DTEND:20270116T171500Z
+SUMMARY:Telstar - N.E.C.
+DESCRIPTION:Eredivisie
+LOCATION:BUKO Stadion\, Minister van Houtenlaan 123\, Velsen-Zuid
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270124-n-e-c-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:N.E.C. | Eredivisie | J20 | 🏟️ | Willem II 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Goffertstad
+ ion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270124-n-e-c-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:N.E.C. - Willem II
+DESCRIPTION:Eredivisie
+LOCATION:Goffertstadion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270131-fc-groningen-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:N.E.C. | Eredivisie | J21 | ✈️ | FC Groningen 🇳🇱
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Eredivisie\nEstadi: Euroborg\, 
+ Boumaboulevard 41\, Groningen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270131-fc-groningen-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T154500Z
+DTEND:20270131T173000Z
+SUMMARY:FC Groningen - N.E.C.
+DESCRIPTION:Eredivisie
+LOCATION:Euroborg\, Boumaboulevard 41\, Groningen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270213-feyenoord-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:N.E.C. | Eredivisie | J22 | ✈️ | Feyenoord 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270213-feyenoord-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Feyenoord - N.E.C. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270220-n-e-c-sparta-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:N.E.C. | Eredivisie | J23 | 🏟️ | Sparta 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270220-n-e-c-sparta@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:N.E.C. - Sparta · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270227-n-e-c-az-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:N.E.C. | Eredivisie | J24 | 🏟️ | AZ 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270227-n-e-c-az@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:N.E.C. - AZ · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270306-fortuna-sittard-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:N.E.C. | Eredivisie | J25 | ✈️ | Fortuna Sittard 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270306-fortuna-sittard-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Fortuna Sittard - N.E.C. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270313-excelsior-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:N.E.C. | Eredivisie | J26 | ✈️ | Excelsior 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270313-excelsior-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Excelsior - N.E.C. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270320-n-e-c-ajax-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:N.E.C. | Eredivisie | J27 | 🏟️ | Ajax 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270320-n-e-c-ajax@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:N.E.C. - Ajax · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270403-go-ahead-eagles-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:N.E.C. | Eredivisie | J28 | ✈️ | Go Ahead Eagles 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270403-go-ahead-eagles-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Go Ahead Eagles - N.E.C. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270410-n-e-c-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:N.E.C. | Eredivisie | J29 | 🏟️ | sc Heerenveen 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270410-n-e-c-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:N.E.C. - sc Heerenveen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270424-fc-twente-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:N.E.C. | Eredivisie | J30 | ✈️ | FC Twente 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270424-fc-twente-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:FC Twente - N.E.C. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270501-n-e-c-pec-zwolle-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:N.E.C. | Eredivisie | J31 | 🏟️ | PEC Zwolle 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270501-n-e-c-pec-zwolle@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:N.E.C. - PEC Zwolle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270508-ado-den-haag-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:N.E.C. | Eredivisie | J32 | ✈️ | ADO Den Haag 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270508-ado-den-haag-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:ADO Den Haag - N.E.C. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270516-psv-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:N.E.C. | Eredivisie | J33 | ✈️ | PSV 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Philips Sta
+ dion\, Frederiklaan 10\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270516-psv-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T123000Z
+DTEND:20270516T141500Z
+SUMMARY:PSV - N.E.C.
+DESCRIPTION:Eredivisie
+LOCATION:Philips Stadion\, Frederiklaan 10\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270523-n-e-c-fc-utrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:N.E.C. | Eredivisie | J34 | 🏟️ | FC Utrecht 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Goffertstad
+ ion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270523-n-e-c-fc-utrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T123000Z
+DTEND:20270523T141500Z
+SUMMARY:N.E.C. - FC Utrecht
+DESCRIPTION:Eredivisie
+LOCATION:Goffertstadion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,392 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Willem II · Eredivisie
+BEGIN:VEVENT
+UID:eredivisie-20261122-fc-twente-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:WILLEM II | Eredivisie | J13 | ✈️ | FC Twente 🇳🇱
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Eredivisie\nEstadi: De Grolsch 
+ Veste\, Colosseum 65\, Enschede
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261122-fc-twente-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T111500Z
+DTEND:20261122T130000Z
+SUMMARY:FC Twente - Willem II
+DESCRIPTION:Eredivisie
+LOCATION:De Grolsch Veste\, Colosseum 65\, Enschede
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261127-fc-groningen-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:WILLEM II | Eredivisie | J14 | ✈️ | FC Groningen 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eredivisie\nEstadi: Euroborg\, 
+ Boumaboulevard 41\, Groningen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261127-fc-groningen-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:FC Groningen - Willem II
+DESCRIPTION:Eredivisie
+LOCATION:Euroborg\, Boumaboulevard 41\, Groningen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261205-willem-ii-feyenoord-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:WILLEM II | Eredivisie | J15 | 🏟️ | Feyenoord 🇳🇱
+DESCRIPTION:Inici: 16:30 (Europe/Madrid) · Eredivisie\nEstadi: Koning Will
+ em II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261205-willem-ii-feyenoord@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T153000Z
+DTEND:20261205T171500Z
+SUMMARY:Willem II - Feyenoord
+DESCRIPTION:Eredivisie
+LOCATION:Koning Willem II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261213-willem-ii-ado-den-haag-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:WILLEM II | Eredivisie | J16 | 🏟️ | ADO Den Haag 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Koning Will
+ em II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261213-willem-ii-ado-den-haag@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Willem II - ADO Den Haag
+DESCRIPTION:Eredivisie
+LOCATION:Koning Willem II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261218-telstar-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:WILLEM II | Eredivisie | J17 | ✈️ | Telstar 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eredivisie\nEstadi: BUKO Stadio
+ n\, Minister van Houtenlaan 123\, Velsen-Zuid
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261218-telstar-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261218T190000Z
+DTEND:20261218T204500Z
+SUMMARY:Telstar - Willem II
+DESCRIPTION:Eredivisie
+LOCATION:BUKO Stadion\, Minister van Houtenlaan 123\, Velsen-Zuid
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270109-willem-ii-ajax-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:WILLEM II | Eredivisie | J18 | 🏟️ | Ajax 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eredivisie\nEstadi: Koning Will
+ em II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270109-willem-ii-ajax@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Willem II - Ajax
+DESCRIPTION:Eredivisie
+LOCATION:Koning Willem II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270117-sc-cambuur-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:WILLEM II | Eredivisie | J19 | ✈️ | SC Cambuur 🇳🇱
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Eredivisie\nEstadi: Cambuurstad
+ ion\, Stadionplein 15\, Leeuwarden
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270117-sc-cambuur-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T154500Z
+DTEND:20270117T173000Z
+SUMMARY:SC Cambuur - Willem II
+DESCRIPTION:Eredivisie
+LOCATION:Cambuurstadion\, Stadionplein 15\, Leeuwarden
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270124-n-e-c-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:WILLEM II | Eredivisie | J20 | ✈️ | N.E.C. 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Goffertstad
+ ion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270124-n-e-c-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:N.E.C. - Willem II
+DESCRIPTION:Eredivisie
+LOCATION:Goffertstadion\, Stadionplein 1\, Nijmegen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270130-willem-ii-psv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:WILLEM II | Eredivisie | J21 | 🏟️ | PSV 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eredivisie\nEstadi: Koning Will
+ em II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270130-willem-ii-psv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Willem II - PSV
+DESCRIPTION:Eredivisie
+LOCATION:Koning Willem II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270213-willem-ii-sparta-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:WILLEM II | Eredivisie | J22 | 🏟️ | Sparta 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270213-willem-ii-sparta@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Willem II - Sparta · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270220-sc-heerenveen-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:WILLEM II | Eredivisie | J23 | ✈️ | sc Heerenveen 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270220-sc-heerenveen-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:sc Heerenveen - Willem II · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270227-willem-ii-fc-groningen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:WILLEM II | Eredivisie | J24 | 🏟️ | FC Groningen 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270227-willem-ii-fc-groningen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Willem II - FC Groningen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270306-pec-zwolle-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:WILLEM II | Eredivisie | J25 | ✈️ | PEC Zwolle 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270306-pec-zwolle-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:PEC Zwolle - Willem II · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270313-willem-ii-fc-twente-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:WILLEM II | Eredivisie | J26 | 🏟️ | FC Twente 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270313-willem-ii-fc-twente@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Willem II - FC Twente · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270320-ado-den-haag-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:WILLEM II | Eredivisie | J27 | ✈️ | ADO Den Haag 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270320-ado-den-haag-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:ADO Den Haag - Willem II · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270403-willem-ii-fc-utrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:WILLEM II | Eredivisie | J28 | 🏟️ | FC Utrecht 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270403-willem-ii-fc-utrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Willem II - FC Utrecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270410-willem-ii-az-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:WILLEM II | Eredivisie | J29 | 🏟️ | AZ 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270410-willem-ii-az@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Willem II - AZ · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270424-excelsior-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:WILLEM II | Eredivisie | J30 | ✈️ | Excelsior 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270424-excelsior-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Excelsior - Willem II · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270501-feyenoord-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:WILLEM II | Eredivisie | J31 | ✈️ | Feyenoord 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270501-feyenoord-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Feyenoord - Willem II · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270508-willem-ii-telstar-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:WILLEM II | Eredivisie | J32 | 🏟️ | Telstar 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270508-willem-ii-telstar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Willem II - Telstar · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270516-fortuna-sittard-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:WILLEM II | Eredivisie | J33 | ✈️ | Fortuna Sittard 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Fortuna Sit
+ tard Stadion\, Milaanstraat\, Sittard
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270516-fortuna-sittard-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T123000Z
+DTEND:20270516T141500Z
+SUMMARY:Fortuna Sittard - Willem II
+DESCRIPTION:Eredivisie
+LOCATION:Fortuna Sittard Stadion\, Milaanstraat\, Sittard
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270523-willem-ii-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:WILLEM II | Eredivisie | J34 | 🏟️ | Go Ahead Eagles 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Koning Will
+ em II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270523-willem-ii-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T123000Z
+DTEND:20270523T141500Z
+SUMMARY:Willem II - Go Ahead Eagles
+DESCRIPTION:Eredivisie
+LOCATION:Koning Willem II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+END:VCALENDAR

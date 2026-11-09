@@ -1,0 +1,454 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eintracht Braunschweig · 2. Bundesliga
+BEGIN:VEVENT
+UID:bundesliga2-20261121-fc-nurnberg-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J12 | ✈️ | FC Nürnber
+ g 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Max-Morl
+ ock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261121-fc-nurnberg-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T120000Z
+DTEND:20261121T134500Z
+SUMMARY:FC Nürnberg - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261129-eintracht-braunschweig-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J13 | 🏟️ | VFL Wolfsb
+ urg 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261129-eintracht-braunschweig-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:Eintracht Braunschweig - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-sv-darmstadt-98-eintracht-braunschweig-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J14 | ✈️ | SV Darmstad
+ t 98 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-sv-darmstadt-98-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T123000Z
+DTEND:20261206T141500Z
+SUMMARY:SV Darmstadt 98 - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-eintracht-braunschweig-karlsruher-sc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J15 | 🏟️ | Karlsruher
+  SC 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-eintracht-braunschweig-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:Eintracht Braunschweig - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261220-1-fc-heidenheim-eintracht-braunschweig-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J16 | ✈️ | 1.FC Heiden
+ heim 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Voith-Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261220-1-fc-heidenheim-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T123000Z
+DTEND:20261220T141500Z
+SUMMARY:1.FC Heidenheim - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-eintracht-braunschweig-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J17 | 🏟️ | FC St. Pau
+ li 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-eintracht-braunschweig-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T120000Z
+DTEND:20270116T134500Z
+SUMMARY:Eintracht Braunschweig - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270122-eintracht-braunschweig-1-fc-magdeburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J18 | 🏟️ | 1.FC Magde
+ burg 🇩🇪
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270122-eintracht-braunschweig-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270122T173000Z
+DTEND:20270122T191500Z
+SUMMARY:Eintracht Braunschweig - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-vfl-bochum-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J19 | ✈️ | VFL Bochum 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-vfl-bochum-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:VFL Bochum - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-hertha-bsc-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J20 | ✈️ | Hertha BSC 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-hertha-bsc-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Hertha BSC - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-eintracht-braunschweig-vfl-osnabruck-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J21 | 🏟️ | VfL Osnabr
+ ück 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-eintracht-braunschweig-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Eintracht Braunschweig - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-sg-dynamo-dresden-eintracht-braunschweig-dia@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J22 | ✈️ | SG Dynamo D
+ resden 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Rudolf H
+ arbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-sg-dynamo-dresden-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:SG Dynamo Dresden - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-eintracht-braunschweig-fc-kaiserslautern-dia@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J23 | 🏟️ | FC Kaisers
+ lautern 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-eintracht-braunschweig-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Eintracht Braunschweig - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-holstein-kiel-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J24 | ✈️ | Holstein Ki
+ el 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Holstein
+ -Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-holstein-kiel-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Holstein Kiel - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-eintracht-braunschweig-spvgg-greuther-furth-dia@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J25 | 🏟️ | SpVgg Greu
+ ther Fürth 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-eintracht-braunschweig-spvgg-greuther-furth@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:Eintracht Braunschweig - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-hannover-96-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J26 | ✈️ | Hannover 96
+  🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: HDI Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-hannover-96-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:Hannover 96 - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-eintracht-braunschweig-arminia-bielefeld-dia@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J27 | 🏟️ | Arminia Bi
+ elefeld 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-eintracht-braunschweig-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:Eintracht Braunschweig - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-energie-cottbus-eintracht-braunschweig-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J28 | ✈️ | Energie Cot
+ tbus 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Stadion 
+ Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-energie-cottbus-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:Energie Cottbus - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-eintracht-braunschweig-fc-nurnberg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J29 | 🏟️ | FC Nürnbe
+ rg 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-eintracht-braunschweig-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:Eintracht Braunschweig - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-vfl-wolfsburg-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J30 | ✈️ | VFL Wolfsbu
+ rg 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-vfl-wolfsburg-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:VFL Wolfsburg - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-eintracht-braunschweig-sv-darmstadt-98-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J31 | 🏟️ | SV Darmsta
+ dt 98 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-eintracht-braunschweig-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:Eintracht Braunschweig - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-karlsruher-sc-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J32 | ✈️ | Karlsruher 
+ SC 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: BBBank W
+ ildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-karlsruher-sc-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:Karlsruher SC - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-eintracht-braunschweig-1-fc-heidenheim-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J33 | 🏟️ | 1.FC Heide
+ nheim 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-eintracht-braunschweig-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:Eintracht Braunschweig - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-fc-st-pauli-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:EINTRACHT BRAUNSCHWEIG | 2. Bundesliga | J34 | ✈️ | FC St. Paul
+ i 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-fc-st-pauli-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:FC St. Pauli - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+END:VCALENDAR

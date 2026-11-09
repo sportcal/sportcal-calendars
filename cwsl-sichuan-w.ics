@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sichuan W · CWSL
+BEGIN:VEVENT
+UID:cwsl-20261114-guangdong-meizhou-hakka-w-sichuan-w-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:SICHUAN W | CWSL | J4 | ✈️ | Guangdong Meizhou Hakka W 🇨🇳
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · Chinese Women's Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:cwsl-20261114-guangdong-meizhou-hakka-w-sichuan-w@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T060000Z
+DTEND:20261114T074500Z
+SUMMARY:Guangdong Meizhou Hakka W - Sichuan W
+DESCRIPTION:Chinese Women's Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:cwsl-20261121-sichuan-w-changchun-dazhong-zhiye-w-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SICHUAN W | CWSL | J5 | 🏟️ | Changchun Dazhong Zhiye W 🇨
+ 🇳
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · Chinese Women's Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:cwsl-20261121-sichuan-w-changchun-dazhong-zhiye-w@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T060000Z
+DTEND:20261121T074500Z
+SUMMARY:Sichuan W - Changchun Dazhong Zhiye W
+DESCRIPTION:Chinese Women's Super League
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,279 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maccabi Petah Tikva · Premier League
+BEGIN:VEVENT
+UID:israelipl-20261127-maccabi-petah-tikva-h-tel-aviv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J11 | 🏟️ | H. Tel Aviv 
+ 🇮🇱
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261127-maccabi-petah-tikva-h-tel-aviv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261127T120000Z
+DTEND:20261127T134500Z
+SUMMARY:Maccabi Petah Tikva - H. Tel Aviv
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261201-maccabi-petah-tikva-hapoel-petah-tikva-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J12 | 🏟️ | Hapoel Petah
+  Tikva 🇮🇱
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261201-maccabi-petah-tikva-hapoel-petah-tikva@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261201T174500Z
+DTEND:20261201T193000Z
+SUMMARY:Maccabi Petah Tikva - Hapoel Petah Tikva
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261207-netanya-maccabi-petah-tikva-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J13 | ✈️ | Netanya 🇮
+ 🇱
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261207-netanya-maccabi-petah-tikva@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261207T174500Z
+DTEND:20261207T193000Z
+SUMMARY:Netanya - Maccabi Petah Tikva
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261212-shmona-maccabi-petah-tikva-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J14 | ✈️ | Shmona 🇮
+ 🇱
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261212-shmona-maccabi-petah-tikva@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T160000Z
+DTEND:20261212T174500Z
+SUMMARY:Shmona - Maccabi Petah Tikva
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261219-maccabi-petah-tikva-bnei-sakhnin-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J15 | 🏟️ | Bnei Sakhnin
+  🇮🇱
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261219-maccabi-petah-tikva-bnei-sakhnin@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T160000Z
+DTEND:20261219T174500Z
+SUMMARY:Maccabi Petah Tikva - Bnei Sakhnin
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261229-ironi-tiberias-maccabi-petah-tikva-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J16 | ✈️ | Ironi Tiberia
+ s 🇮🇱
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20261229-ironi-tiberias-maccabi-petah-tikva@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261229T173000Z
+DTEND:20261229T191500Z
+SUMMARY:Ironi Tiberias - Maccabi Petah Tikva
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270102-maccabi-petah-tikva-jerusalem-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J17 | 🏟️ | Jerusalem 
+ 🇮🇱
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270102-maccabi-petah-tikva-jerusalem@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270102T173000Z
+DTEND:20270102T191500Z
+SUMMARY:Maccabi Petah Tikva - Jerusalem
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270109-hapoel-katamon-maccabi-petah-tikva-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J18 | ✈️ | Hapoel Katamo
+ n 🇮🇱
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270109-hapoel-katamon-maccabi-petah-tikva@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270109T000000Z
+DTEND:20270109T014500Z
+SUMMARY:Hapoel Katamon - Maccabi Petah Tikva
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270116-maccabi-petah-tikva-h-haifa-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J19 | 🏟️ | H. Haifa 
+ 🇮🇱
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270116-maccabi-petah-tikva-h-haifa@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T000000Z
+DTEND:20270116T014500Z
+SUMMARY:Maccabi Petah Tikva - H. Haifa
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270123-m-haifa-maccabi-petah-tikva-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J20 | ✈️ | M. Haifa 🇮
+ 🇱
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270123-m-haifa-maccabi-petah-tikva@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T000000Z
+DTEND:20270123T014500Z
+SUMMARY:M. Haifa - Maccabi Petah Tikva
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270130-maccabi-petah-tikva-hapoel-ramat-gan-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J21 | 🏟️ | Hapoel Ramat
+  Gan 🇮🇱
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270130-maccabi-petah-tikva-hapoel-ramat-gan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:Maccabi Petah Tikva - Hapoel Ramat Gan
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270206-beer-sheva-maccabi-petah-tikva-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J22 | ✈️ | Beer Sheva 
+ 🇮🇱
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270206-beer-sheva-maccabi-petah-tikva@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Beer Sheva - Maccabi Petah Tikva
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270213-maccabi-petah-tikva-m-tel-aviv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J23 | 🏟️ | M. Tel Aviv 
+ 🇮🇱
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270213-maccabi-petah-tikva-m-tel-aviv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Maccabi Petah Tikva - M. Tel Aviv
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270220-h-tel-aviv-maccabi-petah-tikva-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J24 | ✈️ | H. Tel Aviv 
+ 🇮🇱
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270220-h-tel-aviv-maccabi-petah-tikva@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:H. Tel Aviv - Maccabi Petah Tikva
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270227-hapoel-petah-tikva-maccabi-petah-tikva-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J25 | ✈️ | Hapoel Petah 
+ Tikva 🇮🇱
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270227-hapoel-petah-tikva-maccabi-petah-tikva@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Hapoel Petah Tikva - Maccabi Petah Tikva
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270306-maccabi-petah-tikva-netanya-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:MACCABI PETAH TIKVA | Premier League | J26 | 🏟️ | Netanya 🇮
+ 🇱
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Israeli Premier League
+END:VEVENT
+BEGIN:VEVENT
+UID:israelipl-20270306-maccabi-petah-tikva-netanya@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:Maccabi Petah Tikva - Netanya
+DESCRIPTION:Israeli Premier League
+END:VEVENT
+END:VCALENDAR

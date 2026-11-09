@@ -1,0 +1,1772 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Liga F
+BEGIN:VEVENT
+UID:ligaf-dia-20261109-j10@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:LIGA F | J10
+DESCRIPTION:19:00 Atlético Madrid Women - Badalona Women\n21:00 Deportivo 
+ de La Coruña Women - Valencia Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20261114-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:LIGA F | J11
+DESCRIPTION:12:00 Espanyol Women - Granadilla Tenerife Women\n18:00 Deporti
+ vo Alavés Women - SD Eibar Women\n20:30 Real Madrid Women - Badalona Wome
+ n
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20261115-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:LIGA F | J11
+DESCRIPTION:12:00 Madrid Women - Logroño Women\n12:00 Real Sociedad Women 
+ - Athletic Club Women\n16:00 Sevilla FC Women - Atlético Madrid Women\n18
+ :00 Deportivo de La Coruña Women - FC Barcelona Women\n18:15 Valencia Wom
+ en - Granada Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20261121-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:LIGA F | J12
+DESCRIPTION:12:00 Badalona Women - Deportivo de La Coruña Women\n17:00 SD 
+ Eibar Women - Atlético Madrid Women\n19:00 Logroño Women - Deportivo Ala
+ vés Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20261122-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:LIGA F | J12
+DESCRIPTION:12:00 Granada Women - Real Madrid Women\n12:00 Real Sociedad Wo
+ men - Sevilla FC Women\n17:00 Granadilla Tenerife Women - Madrid Women\n19
+ :00 FC Barcelona Women - Athletic Club Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20261123-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:LIGA F | J12
+DESCRIPTION:20:00 Espanyol Women - Valencia Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20261209-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:LIGA F | J13
+DESCRIPTION:01:00 SD Eibar Women - Logroño Women\n21:00 Athletic Club Wome
+ n - Deportivo Alavés Women\n21:00 Atlético Madrid Women - Granadilla Ten
+ erife Women\n21:00 FC Barcelona Women - Espanyol Women\n21:00 Deportivo de
+  La Coruña Women - Real Sociedad Women\n21:00 Badalona Women - Valencia W
+ omen\n21:00 Real Madrid Women - Madrid Women\n21:00 Sevilla FC Women - Gra
+ nada Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20261213-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:LIGA F | J14
+DESCRIPTION:21:00 Deportivo Alavés Women - Real Madrid Women\n21:00 Granad
+ illa Tenerife Women - SD Eibar Women\n21:00 Logroño Women - Deportivo de 
+ La Coruña Women\n21:00 Espanyol Women - Sevilla FC Women\n21:00 Granada W
+ omen - Athletic Club Women\n21:00 Madrid Women - Badalona Women\n21:00 Rea
+ l Sociedad Women - Atlético Madrid Women\n21:00 Valencia Women - FC Barce
+ lona Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270110-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:LIGA F | J15
+DESCRIPTION:01:00 Sevilla FC Women - Valencia Women\n21:00 Athletic Club Wo
+ men - Deportivo de La Coruña Women\n21:00 Atlético Madrid Women - Espany
+ ol Women\n21:00 SD Eibar Women - FC Barcelona Women\n21:00 Badalona Women 
+ - Deportivo Alavés Women\n21:00 Granada Women - Granadilla Tenerife Women
+ \n21:00 Madrid Women - Real Sociedad Women\n21:00 Real Madrid Women - Logr
+ oño Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270117-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:LIGA F | J16
+DESCRIPTION:01:00 FC Barcelona Women - Sevilla FC Women\n21:00 Deportivo Al
+ avés Women - Madrid Women\n21:00 Granadilla Tenerife Women - Badalona Wom
+ en\n21:00 Deportivo de La Coruña Women - SD Eibar Women\n21:00 Logroño W
+ omen - Atlético Madrid Women\n21:00 Espanyol Women - Athletic Club Women\
+ n21:00 Real Sociedad Women - Granada Women\n21:00 Valencia Women - Real Ma
+ drid Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270124-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:LIGA F | J17
+DESCRIPTION:21:00 Athletic Club Women - Granadilla Tenerife Women\n21:00 At
+ lético Madrid Women - FC Barcelona Women\n21:00 SD Eibar Women - Valencia
+  Women\n21:00 Badalona Women - Logroño Women\n21:00 Granada Women - Depor
+ tivo Alavés Women\n21:00 Madrid Women - Espanyol Women\n21:00 Real Madrid
+  Women - Real Sociedad Women\n21:00 Sevilla FC Women - Deportivo de La Cor
+ uña Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270131-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:LIGA F | J18
+DESCRIPTION:21:00 Deportivo Alavés Women - Atlético Madrid Women\n21:00 F
+ C Barcelona Women - Badalona Women\n21:00 Granadilla Tenerife Women - Real
+  Madrid Women\n21:00 Deportivo de La Coruña Women - Madrid Women\n21:00 E
+ spanyol Women - Granada Women\n21:00 Real Sociedad Women - SD Eibar Women\
+ n21:00 Sevilla FC Women - Logroño Women\n21:00 Valencia Women - Athletic 
+ Club Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270207-j19@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:LIGA F | J19
+DESCRIPTION:21:00 Atlético Madrid Women - Deportivo de La Coruña Women\n2
+ 1:00 Logroño Women - Granadilla Tenerife Women\n21:00 Espanyol Women - Re
+ al Sociedad Women\n21:00 Badalona Women - Sevilla FC Women\n21:00 Granada 
+ Women - FC Barcelona Women\n21:00 Madrid Women - SD Eibar Women\n21:00 Rea
+ l Madrid Women - Athletic Club Women\n21:00 Valencia Women - Deportivo Ala
+ vés Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270214-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:LIGA F | J20
+DESCRIPTION:21:00 Deportivo Alavés Women - Espanyol Women\n21:00 Athletic 
+ Club Women - Real Sociedad Women\n21:00 Atlético Madrid Women - Real Madr
+ id Women\n21:00 FC Barcelona Women - Logroño Women\n21:00 Granadilla Tene
+ rife Women - Valencia Women\n21:00 Deportivo de La Coruña Women - Badalon
+ a Women\n21:00 SD Eibar Women - Granada Women\n21:00 Sevilla FC Women - Ma
+ drid Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270221-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:LIGA F | J20
+DESCRIPTION:21:00 Deportivo Alavés Women - Granadilla Tenerife Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270221-j21@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:LIGA F | J21
+DESCRIPTION:21:00 Logroño Women - SD Eibar Women\n21:00 Badalona Women - A
+ thletic Club Women\n21:00 Granada Women - Sevilla FC Women\n21:00 Madrid W
+ omen - Atlético Madrid Women\n21:00 Real Madrid Women - FC Barcelona Wome
+ n\n21:00 Real Sociedad Women - Deportivo de La Coruña Women\n21:00 Valenc
+ ia Women - Espanyol Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270314-j22@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:LIGA F | J22
+DESCRIPTION:19:00 Athletic Club Women - Logroño Women\n19:00 Atlético Mad
+ rid Women - Real Sociedad Women\n19:00 FC Barcelona Women - Deportivo Alav
+ és Women\n19:00 SD Eibar Women - Real Madrid Women\n19:00 Espanyol Women 
+ - Deportivo de La Coruña Women\n19:00 Granada Women - Badalona Women\n19:
+ 00 Madrid Women - Valencia Women\n19:00 Sevilla FC Women - Granadilla Tene
+ rife Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270321-j23@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:LIGA F | J23
+DESCRIPTION:19:00 Deportivo Alavés Women - Logroño Women\n19:00 Athletic 
+ Club Women - FC Barcelona Women\n19:00 Granadilla Tenerife Women - Atléti
+ co Madrid Women\n19:00 Deportivo de La Coruña Women - Granada Women\n19:0
+ 0 Espanyol Women - SD Eibar Women\n19:00 Badalona Women - Real Madrid Wome
+ n\n19:00 Real Sociedad Women - Madrid Women\n19:00 Valencia Women - Sevill
+ a FC Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270328-j24@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:LIGA F | J24
+DESCRIPTION:20:00 Atlético Madrid Women - Granada Women\n20:00 FC Barcelon
+ a Women - Valencia Women\n20:00 Deportivo de La Coruña Women - Athletic C
+ lub Women\n20:00 Logroño Women - Real Sociedad Women\n20:00 SD Eibar Wome
+ n - Deportivo Alavés Women\n20:00 Badalona Women - Espanyol Women\n20:00 
+ Madrid Women - Granadilla Tenerife Women\n20:00 Real Madrid Women - Sevill
+ a FC Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270404-j25@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:LIGA F | J25
+DESCRIPTION:20:00 Deportivo Alavés Women - Deportivo de La Coruña Women\n
+ 20:00 FC Barcelona Women - SD Eibar Women\n20:00 Granadilla Tenerife Women
+  - Real Sociedad Women\n20:00 Logroño Women - Real Madrid Women\n20:00 Es
+ panyol Women - Atlético Madrid Women\n20:00 Granada Women - Madrid Women\
+ n20:00 Sevilla FC Women - Athletic Club Women\n20:00 Valencia Women - Bada
+ lona Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270411-j26@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:LIGA F | J26
+DESCRIPTION:20:00 Athletic Club Women - Granada Women\n20:00 Atlético Madr
+ id Women - SD Eibar Women\n20:00 Granadilla Tenerife Women - FC Barcelona 
+ Women\n20:00 Badalona Women - Madrid Women\n20:00 Real Madrid Women - Depo
+ rtivo de La Coruña Women\n20:00 Real Sociedad Women - Deportivo Alavés W
+ omen\n20:00 Sevilla FC Women - Espanyol Women\n20:00 Valencia Women - Logr
+ oño Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270502-j27@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:LIGA F | J27
+DESCRIPTION:20:00 Deportivo Alavés Women - Athletic Club Women\n20:00 Atl
+ ético Madrid Women - Sevilla FC Women\n20:00 Deportivo de La Coruña Wome
+ n - Logroño Women\n20:00 SD Eibar Women - Granadilla Tenerife Women\n20:0
+ 0 Espanyol Women - FC Barcelona Women\n20:00 Granada Women - Valencia Wome
+ n\n20:00 Madrid Women - Real Madrid Women\n20:00 Real Sociedad Women - Bad
+ alona Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270509-j28@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:LIGA F | J28
+DESCRIPTION:20:00 Athletic Club Women - SD Eibar Women\n20:00 FC Barcelona 
+ Women - Real Sociedad Women\n20:00 Granadilla Tenerife Women - Espanyol Wo
+ men\n20:00 Logroño Women - Madrid Women\n20:00 Badalona Women - Atlético
+  Madrid Women\n20:00 Real Madrid Women - Granada Women\n20:00 Sevilla FC W
+ omen - Deportivo Alavés Women\n20:00 Valencia Women - Deportivo de La Cor
+ uña Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270519-j29@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:LIGA F | J29
+DESCRIPTION:20:00 Deportivo Alavés Women - Badalona Women\n20:00 Atlético
+  Madrid Women - Athletic Club Women\n20:00 Deportivo de La Coruña Women -
+  Granadilla Tenerife Women\n20:00 SD Eibar Women - Sevilla FC Women\n20:00
+  Espanyol Women - Real Madrid Women\n20:00 Granada Women - Logroño Women\
+ n20:00 Madrid Women - FC Barcelona Women\n20:00 Real Sociedad Women - Vale
+ ncia Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-dia-20270523-j30@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:LIGA F | J30
+DESCRIPTION:20:00 Athletic Club Women - Madrid Women\n20:00 FC Barcelona Wo
+ men - Deportivo de La Coruña Women\n20:00 Granadilla Tenerife Women - Gra
+ nada Women\n20:00 Logroño Women - Espanyol Women\n20:00 Badalona Women - 
+ SD Eibar Women\n20:00 Real Madrid Women - Deportivo Alavés Women\n20:00 S
+ evilla FC Women - Real Sociedad Women\n20:00 Valencia Women - Atlético Ma
+ drid Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261109-atletico-madrid-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261109T180000Z
+DTEND:20261109T194500Z
+SUMMARY:Atlético Madrid Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261109-deportivo-de-la-coruna-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261109T200000Z
+DTEND:20261109T214500Z
+SUMMARY:Deportivo de La Coruña Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Riazor
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261114-espanyol-women-granadilla-tenerife-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T110000Z
+DTEND:20261114T124500Z
+SUMMARY:Espanyol Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261114-deportivo-alaves-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Deportivo Alavés Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Mendizorrotza
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261114-real-madrid-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T193000Z
+DTEND:20261114T211500Z
+SUMMARY:Real Madrid Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261115-madrid-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T110000Z
+DTEND:20261115T124500Z
+SUMMARY:Madrid Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261115-real-sociedad-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T110000Z
+DTEND:20261115T124500Z
+SUMMARY:Real Sociedad Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Reale Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261115-sevilla-fc-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T150000Z
+DTEND:20261115T164500Z
+SUMMARY:Sevilla FC Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261115-deportivo-de-la-coruna-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T170000Z
+DTEND:20261115T184500Z
+SUMMARY:Deportivo de La Coruña Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Riazor
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261115-valencia-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T171500Z
+DTEND:20261115T190000Z
+SUMMARY:Valencia Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261121-badalona-women-deportivo-de-la-coruna-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T110000Z
+DTEND:20261121T124500Z
+SUMMARY:Badalona Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261121-sd-eibar-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T160000Z
+DTEND:20261121T174500Z
+SUMMARY:SD Eibar Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261121-logrono-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Logroño Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261122-granada-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T110000Z
+DTEND:20261122T124500Z
+SUMMARY:Granada Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261122-real-sociedad-women-sevilla-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T110000Z
+DTEND:20261122T124500Z
+SUMMARY:Real Sociedad Women - Sevilla FC Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261122-granadilla-tenerife-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T160000Z
+DTEND:20261122T174500Z
+SUMMARY:Granadilla Tenerife Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261122-fc-barcelona-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T180000Z
+DTEND:20261122T194500Z
+SUMMARY:FC Barcelona Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261123-espanyol-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261123T190000Z
+DTEND:20261123T204500Z
+SUMMARY:Espanyol Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-sd-eibar-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261209T000000Z
+DTEND:20261209T014500Z
+SUMMARY:SD Eibar Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-athletic-club-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261209T200000Z
+DTEND:20261209T214500Z
+SUMMARY:Athletic Club Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-atletico-madrid-women-granadilla-tenerife-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261209T200000Z
+DTEND:20261209T214500Z
+SUMMARY:Atlético Madrid Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-fc-barcelona-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261209T200000Z
+DTEND:20261209T214500Z
+SUMMARY:FC Barcelona Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-deportivo-de-la-coruna-women-real-sociedad-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20261209T200000Z
+DTEND:20261209T214500Z
+SUMMARY:Deportivo de La Coruña Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Dépor Training Center Campo Arsenio Iglesias
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-badalona-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261209T200000Z
+DTEND:20261209T214500Z
+SUMMARY:Badalona Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-real-madrid-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261209T200000Z
+DTEND:20261209T214500Z
+SUMMARY:Real Madrid Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261209-sevilla-fc-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261209T200000Z
+DTEND:20261209T214500Z
+SUMMARY:Sevilla FC Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-deportivo-alaves-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Deportivo Alavés Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-granadilla-tenerife-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Granadilla Tenerife Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-logrono-women-deportivo-de-la-coruna-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Logroño Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-espanyol-women-sevilla-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Espanyol Women - Sevilla FC Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-granada-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Granada Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-madrid-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Madrid Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-real-sociedad-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Real Sociedad Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20261213-valencia-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T200000Z
+DTEND:20261213T214500Z
+SUMMARY:Valencia Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-sevilla-fc-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T000000Z
+DTEND:20270110T014500Z
+SUMMARY:Sevilla FC Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-athletic-club-women-deportivo-de-la-coruna-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Athletic Club Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-atletico-madrid-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Atlético Madrid Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-sd-eibar-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:SD Eibar Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-badalona-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Badalona Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-granada-women-granadilla-tenerife-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Granada Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-madrid-women-real-sociedad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Madrid Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270110-real-madrid-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T200000Z
+DTEND:20270110T214500Z
+SUMMARY:Real Madrid Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-fc-barcelona-women-sevilla-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:FC Barcelona Women - Sevilla FC Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-deportivo-alaves-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Deportivo Alavés Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-granadilla-tenerife-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Granadilla Tenerife Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-deportivo-de-la-coruna-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Deportivo de La Coruña Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Dépor Training Center Campo Arsenio Iglesias
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-logrono-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Logroño Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-espanyol-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Espanyol Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-real-sociedad-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Real Sociedad Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270117-valencia-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T200000Z
+DTEND:20270117T214500Z
+SUMMARY:Valencia Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-athletic-club-women-granadilla-tenerife-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Athletic Club Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-atletico-madrid-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Atlético Madrid Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-sd-eibar-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:SD Eibar Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-badalona-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Badalona Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-granada-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Granada Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-madrid-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Madrid Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-real-madrid-women-real-sociedad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Real Madrid Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270124-sevilla-fc-women-deportivo-de-la-coruna-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Sevilla FC Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-deportivo-alaves-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Deportivo Alavés Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-fc-barcelona-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:FC Barcelona Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-granadilla-tenerife-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Granadilla Tenerife Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-deportivo-de-la-coruna-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Deportivo de La Coruña Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Dépor Training Center Campo Arsenio Iglesias
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-espanyol-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Espanyol Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-real-sociedad-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Real Sociedad Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-sevilla-fc-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Sevilla FC Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270131-valencia-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T200000Z
+DTEND:20270131T214500Z
+SUMMARY:Valencia Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-atletico-madrid-women-deportivo-de-la-coruna-women@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Atlético Madrid Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-logrono-women-granadilla-tenerife-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Logroño Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-espanyol-women-real-sociedad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Espanyol Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-badalona-women-sevilla-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Badalona Women - Sevilla FC Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-granada-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Granada Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-madrid-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Madrid Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-real-madrid-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Real Madrid Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270207-valencia-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T200000Z
+DTEND:20270207T214500Z
+SUMMARY:Valencia Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-deportivo-alaves-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Deportivo Alavés Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-athletic-club-women-real-sociedad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Athletic Club Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-atletico-madrid-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Atlético Madrid Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-fc-barcelona-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:FC Barcelona Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-granadilla-tenerife-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Granadilla Tenerife Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-deportivo-de-la-coruna-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Deportivo de La Coruña Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Dépor Training Center Campo Arsenio Iglesias
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-sd-eibar-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:SD Eibar Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270214-sevilla-fc-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T200000Z
+DTEND:20270214T214500Z
+SUMMARY:Sevilla FC Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-deportivo-alaves-women-granadilla-tenerife-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Deportivo Alavés Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-logrono-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Logroño Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-badalona-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Badalona Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-granada-women-sevilla-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Granada Women - Sevilla FC Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-madrid-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Madrid Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-real-madrid-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Real Madrid Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-real-sociedad-women-deportivo-de-la-coruna-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Real Sociedad Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270221-valencia-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Valencia Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-athletic-club-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Athletic Club Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-atletico-madrid-women-real-sociedad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Atlético Madrid Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-fc-barcelona-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:FC Barcelona Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-sd-eibar-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:SD Eibar Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-espanyol-women-deportivo-de-la-coruna-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Espanyol Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-granada-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Granada Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-madrid-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Madrid Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270314-sevilla-fc-women-granadilla-tenerife-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Sevilla FC Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-deportivo-alaves-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Deportivo Alavés Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-athletic-club-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Athletic Club Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-granadilla-tenerife-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Granadilla Tenerife Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-deportivo-de-la-coruna-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Deportivo de La Coruña Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Dépor Training Center Campo Arsenio Iglesias
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-espanyol-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Espanyol Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-badalona-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Badalona Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-real-sociedad-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Real Sociedad Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270321-valencia-women-sevilla-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:Valencia Women - Sevilla FC Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-atletico-madrid-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:Atlético Madrid Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-fc-barcelona-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:FC Barcelona Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-deportivo-de-la-coruna-women-athletic-club-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:Deportivo de La Coruña Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Dépor Training Center Campo Arsenio Iglesias
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-logrono-women-real-sociedad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:Logroño Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-sd-eibar-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:SD Eibar Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-badalona-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:Badalona Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-madrid-women-granadilla-tenerife-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:Madrid Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270328-real-madrid-women-sevilla-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T180000Z
+DTEND:20270328T194500Z
+SUMMARY:Real Madrid Women - Sevilla FC Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-deportivo-alaves-women-deportivo-de-la-coruna-women@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Deportivo Alavés Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-fc-barcelona-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:FC Barcelona Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-granadilla-tenerife-women-real-sociedad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Granadilla Tenerife Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-logrono-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Logroño Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-espanyol-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Espanyol Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-granada-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Granada Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-sevilla-fc-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Sevilla FC Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270404-valencia-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:Valencia Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-athletic-club-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Athletic Club Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-atletico-madrid-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Atlético Madrid Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-granadilla-tenerife-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Granadilla Tenerife Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-badalona-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Badalona Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-real-madrid-women-deportivo-de-la-coruna-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Real Madrid Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-real-sociedad-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Real Sociedad Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-sevilla-fc-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Sevilla FC Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270411-valencia-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Valencia Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-deportivo-alaves-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Deportivo Alavés Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-atletico-madrid-women-sevilla-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Atlético Madrid Women - Sevilla FC Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-deportivo-de-la-coruna-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Deportivo de La Coruña Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Dépor Training Center Campo Arsenio Iglesias
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-sd-eibar-women-granadilla-tenerife-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:SD Eibar Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-espanyol-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Espanyol Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-granada-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Granada Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-madrid-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Madrid Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270502-real-sociedad-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Real Sociedad Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-athletic-club-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Athletic Club Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-fc-barcelona-women-real-sociedad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:FC Barcelona Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-granadilla-tenerife-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Granadilla Tenerife Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-logrono-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Logroño Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-badalona-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Badalona Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-real-madrid-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Real Madrid Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-sevilla-fc-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Sevilla FC Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270509-valencia-women-deportivo-de-la-coruna-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:Valencia Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-deportivo-alaves-women-badalona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270519T180000Z
+DTEND:20270519T194500Z
+SUMMARY:Deportivo Alavés Women - Badalona Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva José Luis Compañón
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-atletico-madrid-women-athletic-club-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270519T180000Z
+DTEND:20270519T194500Z
+SUMMARY:Atlético Madrid Women - Athletic Club Women
+DESCRIPTION:Liga F
+LOCATION:Centro Deportivo Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-deportivo-de-la-coruna-women-granadilla-tenerife-women@s
+ portcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270519T180000Z
+DTEND:20270519T194500Z
+SUMMARY:Deportivo de La Coruña Women - Granadilla Tenerife Women
+DESCRIPTION:Liga F
+LOCATION:Dépor Training Center Campo Arsenio Iglesias
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-sd-eibar-women-sevilla-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270519T180000Z
+DTEND:20270519T194500Z
+SUMMARY:SD Eibar Women - Sevilla FC Women
+DESCRIPTION:Liga F
+LOCATION:Ipurua
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-espanyol-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270519T180000Z
+DTEND:20270519T194500Z
+SUMMARY:Espanyol Women - Real Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Ciutat Esportiva Dani Jarque
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-granada-women-logrono-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270519T180000Z
+DTEND:20270519T194500Z
+SUMMARY:Granada Women - Logroño Women
+DESCRIPTION:Liga F
+LOCATION:Ciudad Deportiva del Granada CF
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-madrid-women-fc-barcelona-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270519T180000Z
+DTEND:20270519T194500Z
+SUMMARY:Madrid Women - FC Barcelona Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Fernando Torres
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270519-real-sociedad-women-valencia-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270519T180000Z
+DTEND:20270519T194500Z
+SUMMARY:Real Sociedad Women - Valencia Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Zubieta XXI
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-athletic-club-women-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Athletic Club Women - Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Instalaciones de Lezama Campo 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-fc-barcelona-women-deportivo-de-la-coruna-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:FC Barcelona Women - Deportivo de La Coruña Women
+DESCRIPTION:Liga F
+LOCATION:Estadi Johan Cruyff
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-granadilla-tenerife-women-granada-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Granadilla Tenerife Women - Granada Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Heliodoro Rodríguez López
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-logrono-women-espanyol-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Logroño Women - Espanyol Women
+DESCRIPTION:Liga F
+LOCATION:Las Gaunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-badalona-women-sd-eibar-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Badalona Women - SD Eibar Women
+DESCRIPTION:Liga F
+LOCATION:Nou Municipal de Palamós
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-real-madrid-women-deportivo-alaves-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Real Madrid Women - Deportivo Alavés Women
+DESCRIPTION:Liga F
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-sevilla-fc-women-real-sociedad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Sevilla FC Women - Real Sociedad Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Jesús Navas
+END:VEVENT
+BEGIN:VEVENT
+UID:ligaf-20270523-valencia-women-atletico-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:Valencia Women - Atlético Madrid Women
+DESCRIPTION:Liga F
+LOCATION:Estadio Antonio Puchades
+END:VEVENT
+END:VCALENDAR

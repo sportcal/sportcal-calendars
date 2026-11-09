@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Damallsvenskan
+BEGIN:VEVENT
+UID:damallsvenskan-dia-20261115-j26@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:DAMALLSVENSKAN | J26
+DESCRIPTION:14:00 Brommapojkarna Women - Rosengård Women\n14:00 Uppsala Wo
+ men - Växjö Women\n14:00 Norrköping Women - AIK Women\n14:00 Hammarby W
+ omen - Kristianstad Women\n14:00 Malmö FF Women - Vittsjö Women\n14:00 E
+ skilstuna United Women - Djurgården Women\n14:00 Häcken Women - Piteå W
+ omen
+END:VEVENT
+BEGIN:VEVENT
+UID:damallsvenskan-20261115-brommapojkarna-women-rosengard-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Brommapojkarna Women - Rosengård Women
+DESCRIPTION:Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+UID:damallsvenskan-20261115-uppsala-women-vaxjo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Uppsala Women - Växjö Women
+DESCRIPTION:Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+UID:damallsvenskan-20261115-norrkoping-women-aik-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Norrköping Women - AIK Women
+DESCRIPTION:Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+UID:damallsvenskan-20261115-hammarby-women-kristianstad-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Hammarby Women - Kristianstad Women
+DESCRIPTION:Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+UID:damallsvenskan-20261115-malmo-ff-women-vittsjo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Malmö FF Women - Vittsjö Women
+DESCRIPTION:Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+UID:damallsvenskan-20261115-eskilstuna-united-women-djurgarden-women@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Eskilstuna United Women - Djurgården Women
+DESCRIPTION:Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+UID:damallsvenskan-20261115-hacken-women-pitea-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Häcken Women - Piteå Women
+DESCRIPTION:Damallsvenskan
+END:VEVENT
+END:VCALENDAR

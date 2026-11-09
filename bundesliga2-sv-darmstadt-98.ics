@@ -1,0 +1,446 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SV Darmstadt 98 · 2. Bundesliga
+BEGIN:VEVENT
+UID:bundesliga2-20261120-sv-darmstadt-98-1-fc-heidenheim-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J12 | 🏟️ | 1.FC Heidenheim 
+ 🇩🇪
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261120-sv-darmstadt-98-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261120T173000Z
+DTEND:20261120T191500Z
+SUMMARY:SV Darmstadt 98 - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261127-vfl-bochum-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J13 | ✈️ | VFL Bochum 🇩
+ 🇪
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261127-vfl-bochum-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261127T173000Z
+DTEND:20261127T191500Z
+SUMMARY:VFL Bochum - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-sv-darmstadt-98-eintracht-braunschweig-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J14 | 🏟️ | Eintracht Braunsc
+ hweig 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-sv-darmstadt-98-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T123000Z
+DTEND:20261206T141500Z
+SUMMARY:SV Darmstadt 98 - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-hertha-bsc-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J15 | ✈️ | Hertha BSC 🇩
+ 🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-hertha-bsc-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:Hertha BSC - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261220-sv-darmstadt-98-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J16 | 🏟️ | SpVgg Greuther F
+ ürth 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261220-sv-darmstadt-98-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T123000Z
+DTEND:20261220T141500Z
+SUMMARY:SV Darmstadt 98 - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270117-vfl-osnabruck-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J17 | ✈️ | VfL Osnabrück 
+ 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Stadion 
+ an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270117-vfl-osnabruck-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T123000Z
+DTEND:20270117T141500Z
+SUMMARY:VfL Osnabrück - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270124-holstein-kiel-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J18 | ✈️ | Holstein Kiel 🇩
+ 🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Holstein
+ -Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270124-holstein-kiel-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T123000Z
+DTEND:20270124T141500Z
+SUMMARY:Holstein Kiel - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-sv-darmstadt-98-sg-dynamo-dresden-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J19 | 🏟️ | SG Dynamo Dresden
+  🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-sv-darmstadt-98-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:SV Darmstadt 98 - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-hannover-96-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J20 | ✈️ | Hannover 96 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: HDI Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-hannover-96-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Hannover 96 - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-sv-darmstadt-98-fc-kaiserslautern-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J21 | 🏟️ | FC Kaiserslautern
+  🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-sv-darmstadt-98-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:SV Darmstadt 98 - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-arminia-bielefeld-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J22 | ✈️ | Arminia Bielefeld 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: SchücoA
+ rena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-arminia-bielefeld-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Arminia Bielefeld - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-sv-darmstadt-98-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J23 | 🏟️ | VFL Wolfsburg 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-sv-darmstadt-98-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:SV Darmstadt 98 - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-energie-cottbus-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J24 | ✈️ | Energie Cottbus 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Stadion 
+ Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-energie-cottbus-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Energie Cottbus - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-sv-darmstadt-98-karlsruher-sc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J25 | 🏟️ | Karlsruher SC 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-sv-darmstadt-98-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:SV Darmstadt 98 - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-fc-st-pauli-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J26 | ✈️ | FC St. Pauli 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-fc-st-pauli-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:FC St. Pauli - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-1-fc-magdeburg-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J27 | ✈️ | 1.FC Magdeburg 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: MDCC-Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-1-fc-magdeburg-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:1.FC Magdeburg - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-sv-darmstadt-98-fc-nurnberg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J28 | 🏟️ | FC Nürnberg 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-sv-darmstadt-98-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:SV Darmstadt 98 - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-1-fc-heidenheim-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J29 | ✈️ | 1.FC Heidenheim 
+ 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Voith-Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-1-fc-heidenheim-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:1.FC Heidenheim - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-sv-darmstadt-98-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J30 | 🏟️ | VFL Bochum 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-sv-darmstadt-98-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:SV Darmstadt 98 - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-eintracht-braunschweig-sv-darmstadt-98-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J31 | ✈️ | Eintracht Braunsch
+ weig 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-eintracht-braunschweig-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:Eintracht Braunschweig - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-sv-darmstadt-98-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J32 | 🏟️ | Hertha BSC 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-sv-darmstadt-98-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:SV Darmstadt 98 - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-spvgg-greuther-furth-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J33 | ✈️ | SpVgg Greuther Fü
+ rth 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-spvgg-greuther-furth-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:SpVgg Greuther Fürth - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-sv-darmstadt-98-vfl-osnabruck-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:SV DARMSTADT 98 | 2. Bundesliga | J34 | 🏟️ | VfL Osnabrück 
+ 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-sv-darmstadt-98-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:SV Darmstadt 98 - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+END:VCALENDAR

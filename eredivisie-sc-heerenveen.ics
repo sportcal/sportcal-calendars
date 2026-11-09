@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:sc Heerenveen · Eredivisie
+BEGIN:VEVENT
+UID:eredivisie-20261121-fc-groningen-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SC HEERENVEEN | Eredivisie | J13 | ✈️ | FC Groningen 🇳🇱
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Eredivisie\nEstadi: Euroborg\, 
+ Boumaboulevard 41\, Groningen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261121-fc-groningen-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T200000Z
+DTEND:20261121T214500Z
+SUMMARY:FC Groningen - sc Heerenveen
+DESCRIPTION:Eredivisie
+LOCATION:Euroborg\, Boumaboulevard 41\, Groningen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261129-fortuna-sittard-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:SC HEERENVEEN | Eredivisie | J14 | ✈️ | Fortuna Sittard 🇳
+ 🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Fortuna Sit
+ tard Stadion\, Milaanstraat\, Sittard
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261129-fortuna-sittard-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Fortuna Sittard - sc Heerenveen
+DESCRIPTION:Eredivisie
+LOCATION:Fortuna Sittard Stadion\, Milaanstraat\, Sittard
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261206-sc-heerenveen-sc-cambuur-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:SC HEERENVEEN | Eredivisie | J15 | 🏟️ | SC Cambuur 🇳🇱
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Eredivisie\nEstadi: Abe Lenstra
+  Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261206-sc-heerenveen-sc-cambuur@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T111500Z
+DTEND:20261206T130000Z
+SUMMARY:sc Heerenveen - SC Cambuur
+DESCRIPTION:Eredivisie
+LOCATION:Abe Lenstra Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261212-sc-heerenveen-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:SC HEERENVEEN | Eredivisie | J16 | 🏟️ | Go Ahead Eagles 🇳
+ 🇱
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · Eredivisie\nEstadi: Abe Lenstra
+  Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261212-sc-heerenveen-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T174500Z
+DTEND:20261212T193000Z
+SUMMARY:sc Heerenveen - Go Ahead Eagles
+DESCRIPTION:Eredivisie
+LOCATION:Abe Lenstra Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261219-fc-utrecht-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:SC HEERENVEEN | Eredivisie | J17 | ✈️ | FC Utrecht 🇳🇱
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Eredivisie\nEstadi: Stadion Gal
+ genwaard\, Herculesplein 241\, Utrecht
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261219-fc-utrecht-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T200000Z
+DTEND:20261219T214500Z
+SUMMARY:FC Utrecht - sc Heerenveen
+DESCRIPTION:Eredivisie
+LOCATION:Stadion Galgenwaard\, Herculesplein 241\, Utrecht
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270109-az-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:SC HEERENVEEN | Eredivisie | J18 | ✈️ | AZ 🇳🇱
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Eredivisie\nEstadi: AFAS Stadio
+ n\, Stadionweg 1\, Alkmaar
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270109-az-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270109T200000Z
+DTEND:20270109T214500Z
+SUMMARY:AZ - sc Heerenveen
+DESCRIPTION:Eredivisie
+LOCATION:AFAS Stadion\, Stadionweg 1\, Alkmaar
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270115-sc-heerenveen-sparta-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:SC HEERENVEEN | Eredivisie | J19 | 🏟️ | Sparta 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eredivisie\nEstadi: Abe Lenstra
+  Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270115-sc-heerenveen-sparta@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270115T190000Z
+DTEND:20270115T204500Z
+SUMMARY:sc Heerenveen - Sparta
+DESCRIPTION:Eredivisie
+LOCATION:Abe Lenstra Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270123-fc-twente-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:SC HEERENVEEN | Eredivisie | J20 | ✈️ | FC Twente 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eredivisie\nEstadi: De Grolsch 
+ Veste\, Colosseum 65\, Enschede
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270123-fc-twente-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:FC Twente - sc Heerenveen
+DESCRIPTION:Eredivisie
+LOCATION:De Grolsch Veste\, Colosseum 65\, Enschede
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270131-sc-heerenveen-ajax-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SC HEERENVEEN | Eredivisie | J21 | 🏟️ | Ajax 🇳🇱
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Eredivisie\nEstadi: Abe Lenstra
+  Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270131-sc-heerenveen-ajax@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T111500Z
+DTEND:20270131T130000Z
+SUMMARY:sc Heerenveen - Ajax
+DESCRIPTION:Eredivisie
+LOCATION:Abe Lenstra Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270213-telstar-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:SC HEERENVEEN | Eredivisie | J22 | ✈️ | Telstar 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270213-telstar-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Telstar - sc Heerenveen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270220-sc-heerenveen-willem-ii-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:SC HEERENVEEN | Eredivisie | J23 | 🏟️ | Willem II 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270220-sc-heerenveen-willem-ii@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:sc Heerenveen - Willem II · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270227-excelsior-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:SC HEERENVEEN | Eredivisie | J24 | ✈️ | Excelsior 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270227-excelsior-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Excelsior - sc Heerenveen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270306-feyenoord-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:SC HEERENVEEN | Eredivisie | J25 | ✈️ | Feyenoord 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270306-feyenoord-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Feyenoord - sc Heerenveen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270313-sc-heerenveen-fortuna-sittard-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:SC HEERENVEEN | Eredivisie | J26 | 🏟️ | Fortuna Sittard 🇳
+ 🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270313-sc-heerenveen-fortuna-sittard@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:sc Heerenveen - Fortuna Sittard · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270320-pec-zwolle-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SC HEERENVEEN | Eredivisie | J27 | ✈️ | PEC Zwolle 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270320-pec-zwolle-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:PEC Zwolle - sc Heerenveen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270403-sc-heerenveen-fc-groningen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:SC HEERENVEEN | Eredivisie | J28 | 🏟️ | FC Groningen 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270403-sc-heerenveen-fc-groningen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:sc Heerenveen - FC Groningen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270410-n-e-c-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:SC HEERENVEEN | Eredivisie | J29 | ✈️ | N.E.C. 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270410-n-e-c-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:N.E.C. - sc Heerenveen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270424-sc-heerenveen-ado-den-haag-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:SC HEERENVEEN | Eredivisie | J30 | 🏟️ | ADO Den Haag 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270424-sc-heerenveen-ado-den-haag@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:sc Heerenveen - ADO Den Haag · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270501-sc-heerenveen-fc-utrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:SC HEERENVEEN | Eredivisie | J31 | 🏟️ | FC Utrecht 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270501-sc-heerenveen-fc-utrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:sc Heerenveen - FC Utrecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270508-sc-cambuur-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SC HEERENVEEN | Eredivisie | J32 | ✈️ | SC Cambuur 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270508-sc-cambuur-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SC Cambuur - sc Heerenveen · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270516-go-ahead-eagles-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:SC HEERENVEEN | Eredivisie | J33 | ✈️ | Go Ahead Eagles 🇳
+ 🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: De Adelaars
+ horst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270516-go-ahead-eagles-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T123000Z
+DTEND:20270516T141500Z
+SUMMARY:Go Ahead Eagles - sc Heerenveen
+DESCRIPTION:Eredivisie
+LOCATION:De Adelaarshorst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270523-sc-heerenveen-psv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:SC HEERENVEEN | Eredivisie | J34 | 🏟️ | PSV 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Abe Lenstra
+  Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270523-sc-heerenveen-psv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T123000Z
+DTEND:20270523T141500Z
+SUMMARY:sc Heerenveen - PSV
+DESCRIPTION:Eredivisie
+LOCATION:Abe Lenstra Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+END:VCALENDAR

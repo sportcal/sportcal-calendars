@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Johor Darul Ta'zim · AFC CL
+BEGIN:VEVENT
+UID:afccl-20261124-ratchaburi-johor-darul-ta-zim-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:JOHOR DARUL TA'ZIM | AFC CL | J5 | ✈️ | Ratchaburi
+DESCRIPTION:Inici: 13:15 (Europe/Madrid) · AFC Champions League\nEstadi: D
+ ragon Solar Park
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20261124-ratchaburi-johor-darul-ta-zim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261124T121500Z
+DTEND:20261124T140000Z
+SUMMARY:Ratchaburi - Johor Darul Ta'zim
+DESCRIPTION:AFC Champions League
+LOCATION:Dragon Solar Park
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20261201-johor-darul-ta-zim-daejeon-citizen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:JOHOR DARUL TA'ZIM | AFC CL | J6 | 🏟️ | Daejeon Citizen
+DESCRIPTION:Inici: 13:15 (Europe/Madrid) · AFC Champions League\nEstadi: S
+ ultan Ibrahim
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20261201-johor-darul-ta-zim-daejeon-citizen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261201T121500Z
+DTEND:20261201T140000Z
+SUMMARY:Johor Darul Ta'zim - Daejeon Citizen
+DESCRIPTION:AFC Champions League
+LOCATION:Sultan Ibrahim
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20270209-newcastle-jets-fc-johor-darul-ta-zim-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:JOHOR DARUL TA'ZIM | AFC CL | J7 | ✈️ | Newcastle Jets FC
+DESCRIPTION:Inici: 08:45 (Europe/Madrid) · AFC Champions League\nEstadi: M
+ cDonald Jones
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20270209-newcastle-jets-fc-johor-darul-ta-zim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270209T074500Z
+DTEND:20270209T093000Z
+SUMMARY:Newcastle Jets FC - Johor Darul Ta'zim
+DESCRIPTION:AFC Champions League
+LOCATION:McDonald Jones
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20270216-johor-darul-ta-zim-cong-an-nhan-dan-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:JOHOR DARUL TA'ZIM | AFC CL | J8 | 🏟️ | Công An Nhân Dân
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · AFC Champions League\nEstadi: S
+ ultan Ibrahim
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20270216-johor-darul-ta-zim-cong-an-nhan-dan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270216T100000Z
+DTEND:20270216T114500Z
+SUMMARY:Johor Darul Ta'zim - Công An Nhân Dân
+DESCRIPTION:AFC Champions League
+LOCATION:Sultan Ibrahim
+END:VEVENT
+END:VCALENDAR

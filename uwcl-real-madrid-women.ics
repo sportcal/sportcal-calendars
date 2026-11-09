@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Real Madrid Women · UWCL
+BEGIN:VEVENT
+UID:uwcl-20261110-real-madrid-women-paris-fc-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:REAL MADRID WOMEN | UWCL | J3 | 🏟️ | Paris FC Women
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · UEFA Women's Champions League\n
+ Estadi: Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:uwcl-20261110-real-madrid-women-paris-fc-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261110T174500Z
+DTEND:20261110T193000Z
+SUMMARY:Real Madrid Women - Paris FC Women
+DESCRIPTION:UEFA Women's Champions League
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:uwcl-20261118-real-madrid-women-internazionale-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:REAL MADRID WOMEN | UWCL | 🏟️ | Internazionale Women
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · UEFA Women's Champions League\n
+ Estadi: Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:uwcl-20261118-real-madrid-women-internazionale-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261118T174500Z
+DTEND:20261118T193000Z
+SUMMARY:Real Madrid Women - Internazionale Women
+DESCRIPTION:UEFA Women's Champions League
+LOCATION:Alfredo Di Stéfano
+END:VEVENT
+BEGIN:VEVENT
+UID:uwcl-20261216-roma-women-real-madrid-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:REAL MADRID WOMEN | UWCL | J6 | ✈️ | Roma Women
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Women's Champions League\n
+ Estadi: Stadio Tre Fontane
+END:VEVENT
+BEGIN:VEVENT
+UID:uwcl-20261216-roma-women-real-madrid-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261216T200000Z
+DTEND:20261216T214500Z
+SUMMARY:Roma Women - Real Madrid Women
+DESCRIPTION:UEFA Women's Champions League
+LOCATION:Stadio Tre Fontane
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manchester United Women · WSL
+BEGIN:VEVENT
+UID:wsl-20261114-manchester-united-women-crystal-palace-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J10 | 🏟️ | Crystal Palace Wome
+ n 🇬🇧
+DESCRIPTION:Inici: 13:45 (Europe/Madrid) · Women's Super League\nEstadi: L
+ eigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20261114-manchester-united-women-crystal-palace-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T124500Z
+DTEND:20261114T143000Z
+SUMMARY:Manchester United Women - Crystal Palace Women
+DESCRIPTION:Women's Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20261122-birmingham-city-women-manchester-united-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J11 | ✈️ | Birmingham City Wome
+ n 🇬🇧
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Women's Super League\nEstadi: S
+ t. Andrew's
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20261122-birmingham-city-women-manchester-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T120000Z
+DTEND:20261122T134500Z
+SUMMARY:Birmingham City Women - Manchester United Women
+DESCRIPTION:Women's Super League
+LOCATION:St. Andrew's
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20261213-manchester-united-women-brighton-hove-albion-women-dia@spo
+ rtcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J12 | 🏟️ | Brighton & Hove Alb
+ ion Women 🇬🇧
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Women's Super League\nEstadi: L
+ eigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20261213-manchester-united-women-brighton-hove-albion-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T120000Z
+DTEND:20261213T134500Z
+SUMMARY:Manchester United Women - Brighton & Hove Albion Women
+DESCRIPTION:Women's Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20261220-manchester-united-women-tottenham-hotspur-women-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J13 | 🏟️ | Tottenham Hotspur W
+ omen 🇬🇧
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Women's Super League\nEstadi: L
+ eigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20261220-manchester-united-women-tottenham-hotspur-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T143000Z
+DTEND:20261220T161500Z
+SUMMARY:Manchester United Women - Tottenham Hotspur Women
+DESCRIPTION:Women's Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270110-crystal-palace-women-manchester-united-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J14 | ✈️ | Crystal Palace Women
+  🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Super League\nEstadi: V
+ BS Community
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270110-crystal-palace-women-manchester-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Crystal Palace Women - Manchester United Women
+DESCRIPTION:Women's Super League
+LOCATION:VBS Community
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270120-west-ham-united-women-manchester-united-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J15 | ✈️ | West Ham United Wome
+ n 🇬🇧
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Women's Super League\nEstadi: V
+ ictoria Road
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270120-west-ham-united-women-manchester-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270120T190000Z
+DTEND:20270120T204500Z
+SUMMARY:West Ham United Women - Manchester United Women
+DESCRIPTION:Women's Super League
+LOCATION:Victoria Road
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270124-manchester-united-women-everton-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J16 | 🏟️ | Everton Women 🇬
+ 🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Women's Super League\nEstadi: L
+ eigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270124-manchester-united-women-everton-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T130000Z
+DTEND:20270124T144500Z
+SUMMARY:Manchester United Women - Everton Women
+DESCRIPTION:Women's Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270131-manchester-united-women-london-city-lionesses-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J17 | 🏟️ | London City Lioness
+ es 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Women's Super League\nEstadi: L
+ eigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270131-manchester-united-women-london-city-lionesses@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T130000Z
+DTEND:20270131T144500Z
+SUMMARY:Manchester United Women - London City Lionesses
+DESCRIPTION:Women's Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270207-tottenham-hotspur-women-manchester-united-women-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J18 | ✈️ | Tottenham Hotspur Wo
+ men 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Super League\nEstadi: T
+ ottenham Hotspur
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270207-tottenham-hotspur-women-manchester-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Tottenham Hotspur Women - Manchester United Women
+DESCRIPTION:Women's Super League
+LOCATION:Tottenham Hotspur
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270214-manchester-city-women-manchester-united-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J19 | ✈️ | Manchester City Wome
+ n 🇬🇧
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Women's Super League\nEstadi: E
+ tihad
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270214-manchester-city-women-manchester-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T143000Z
+DTEND:20270214T161500Z
+SUMMARY:Manchester City Women - Manchester United Women
+DESCRIPTION:Women's Super League
+LOCATION:Etihad
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270314-manchester-united-women-charlton-athletic-women-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J20 | 🏟️ | Charlton Athletic W
+ omen 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Women's Super League\nEstadi: L
+ eigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270314-manchester-united-women-charlton-athletic-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:Manchester United Women - Charlton Athletic Women
+DESCRIPTION:Women's Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270317-liverpool-women-manchester-united-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J21 | ✈️ | Liverpool Women 🇬
+ 🇧
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Women's Super League\nEstadi: S
+ t Helens
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270317-liverpool-women-manchester-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270317T190000Z
+DTEND:20270317T204500Z
+SUMMARY:Liverpool Women - Manchester United Women
+DESCRIPTION:Women's Super League
+LOCATION:St Helens
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270328-manchester-united-women-aston-villa-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J22 | 🏟️ | Aston Villa Women 
+ 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Women's Super League\nEstadi: L
+ eigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270328-manchester-united-women-aston-villa-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T120000Z
+DTEND:20270328T134500Z
+SUMMARY:Manchester United Women - Aston Villa Women
+DESCRIPTION:Women's Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270404-chelsea-women-manchester-united-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J23 | ✈️ | Chelsea Women 🇬
+ 🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Super League\nEstadi: S
+ tamford Bridge
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270404-chelsea-women-manchester-united-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Chelsea Women - Manchester United Women
+DESCRIPTION:Women's Super League
+LOCATION:Stamford Bridge
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270502-manchester-united-women-birmingham-city-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J24 | 🏟️ | Birmingham City Wom
+ en 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Women's Super League\nEstadi: L
+ eigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270502-manchester-united-women-birmingham-city-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:Manchester United Women - Birmingham City Women
+DESCRIPTION:Women's Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270509-manchester-united-women-arsenal-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J25 | 🏟️ | Arsenal Women 🇬
+ 🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Women's Super League\nEstadi: O
+ ld Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270509-manchester-united-women-arsenal-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:Manchester United Women - Arsenal Women
+DESCRIPTION:Women's Super League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270522-brighton-hove-albion-women-manchester-united-women-dia@spo
+ rtcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:MANCHESTER UNITED WOMEN | WSL | J26 | ✈️ | Brighton & Hove Albi
+ on Women 🇬🇧
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Women's Super League\nEstadi: B
+ roadfield
+END:VEVENT
+BEGIN:VEVENT
+UID:wsl-20270522-brighton-hove-albion-women-manchester-united-women@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270522T180000Z
+DTEND:20270522T194500Z
+SUMMARY:Brighton & Hove Albion Women - Manchester United Women
+DESCRIPTION:Women's Super League
+LOCATION:Broadfield
+END:VEVENT
+END:VCALENDAR

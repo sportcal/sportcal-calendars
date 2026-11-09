@@ -1,0 +1,309 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PFC CSKA Moskou · Premier Liga
+BEGIN:VEVENT
+UID:premjerliga-20261121-pfc-cska-moskou-akhmat-grozny-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J15 | 🏟️ | Akhmat Grozny 🇷
+ 🇺
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Russian Premier Liga\nEstadi: V
+ EB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261121-pfc-cska-moskou-akhmat-grozny@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T164500Z
+DTEND:20261121T183000Z
+SUMMARY:PFC CSKA Moskou - Akhmat Grozny
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261128-pfc-cska-moskou-zenit-st-petersburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J16 | 🏟️ | Zenit St Petersbur
+ g 🇷🇺
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Russian Premier Liga\nEstadi: V
+ EB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261128-pfc-cska-moskou-zenit-st-petersburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T133000Z
+DTEND:20261128T151500Z
+SUMMARY:PFC CSKA Moskou - Zenit St Petersburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261205-rodina-moscow-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J17 | ✈️ | Rodina Moscow 🇷
+ 🇺
+DESCRIPTION:Inici: 13:15 (Europe/Madrid) · Russian Premier Liga\nEstadi: A
+ rena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20261205-rodina-moscow-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T121500Z
+DTEND:20261205T140000Z
+SUMMARY:Rodina Moscow - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Arena Khimki
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-fc-rostov-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J18 | ✈️ | FC Rostov 🇷🇺
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: R
+ ostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270228-fc-rostov-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270228T000000Z
+DTEND:20270228T014500Z
+SUMMARY:FC Rostov - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Rostov Arena\, Rostov-on-Don
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-lokomotiv-moscow-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J19 | ✈️ | Lokomotiv Moscow 
+ 🇷🇺
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: R
+ ZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270307-lokomotiv-moscow-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T200000Z
+DTEND:20270307T214500Z
+SUMMARY:Lokomotiv Moscow - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:RZD Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-fakel-voronezh-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J20 | ✈️ | Fakel Voronezh 🇷
+ 🇺
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: S
+ tadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270314-fakel-voronezh-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T180000Z
+DTEND:20270314T194500Z
+SUMMARY:Fakel Voronezh - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Stadion Fakel
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-pfc-cska-moskou-fc-orenburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J21 | 🏟️ | FC Orenburg 🇷
+ 🇺
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: V
+ EB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270321-pfc-cska-moskou-fc-orenburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T180000Z
+DTEND:20270321T194500Z
+SUMMARY:PFC CSKA Moskou - FC Orenburg
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-pfc-cska-moskou-fc-krasnodar-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J22 | 🏟️ | FC Krasnodar 🇷
+ 🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: V
+ EB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270404-pfc-cska-moskou-fc-krasnodar@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T180000Z
+DTEND:20270404T194500Z
+SUMMARY:PFC CSKA Moskou - FC Krasnodar
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-baltika-kaliningrad-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J23 | ✈️ | Baltika Kaliningrad
+  🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ aliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270411-baltika-kaliningrad-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T180000Z
+DTEND:20270411T194500Z
+SUMMARY:Baltika Kaliningrad - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kaliningrad
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-fc-spartak-moskou-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J24 | ✈️ | FC Spartak Moskou 
+ 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: L
+ ukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270418-fc-spartak-moskou-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270418T180000Z
+DTEND:20270418T194500Z
+SUMMARY:FC Spartak Moskou - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Lukoil Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-pfc-cska-moskou-dinamo-moscow-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J25 | 🏟️ | Dinamo Moscow 🇷
+ 🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: V
+ EB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270425-pfc-cska-moskou-dinamo-moscow@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T180000Z
+DTEND:20270425T194500Z
+SUMMARY:PFC CSKA Moskou - Dinamo Moscow
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-krylia-sovetov-samara-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J26 | ✈️ | Krylia Sovetov Sama
+ ra 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: S
+ amara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270502-krylia-sovetov-samara-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T180000Z
+DTEND:20270502T194500Z
+SUMMARY:Krylia Sovetov Samara - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Samara Arena\, Samara
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-pfc-cska-moskou-akron-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J27 | 🏟️ | Akron 🇷🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: V
+ EB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270509-pfc-cska-moskou-akron@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T180000Z
+DTEND:20270509T194500Z
+SUMMARY:PFC CSKA Moskou - Akron
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-rubin-kazan-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J28 | ✈️ | Rubin Kazan 🇷
+ 🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: K
+ azan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270516-rubin-kazan-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:Rubin Kazan - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Kazan Arena\, Kazan
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-pfc-cska-moskou-makhachkala-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J29 | 🏟️ | Makhachkala 🇷
+ 🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: V
+ EB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270523-pfc-cska-moskou-makhachkala@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:PFC CSKA Moskou - Makhachkala
+DESCRIPTION:Russian Premier Liga
+LOCATION:VEB Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-akhmat-grozny-pfc-cska-moskou-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:PFC CSKA MOSKOU | Premier Liga | J30 | ✈️ | Akhmat Grozny 🇷
+ 🇺
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Russian Premier Liga\nEstadi: A
+ khmat-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premjerliga-20270529-akhmat-grozny-pfc-cska-moskou@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:Akhmat Grozny - PFC CSKA Moskou
+DESCRIPTION:Russian Premier Liga
+LOCATION:Akhmat-Arena
+END:VEVENT
+END:VCALENDAR

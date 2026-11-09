@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC St. Pauli · 2. Bundesliga
+BEGIN:VEVENT
+UID:bundesliga2-20261121-fc-st-pauli-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J12 | 🏟️ | VFL Bochum 🇩🇪
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261121-fc-st-pauli-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T193000Z
+DTEND:20261121T211500Z
+SUMMARY:FC St. Pauli - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261128-sg-dynamo-dresden-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J13 | ✈️ | SG Dynamo Dresden 
+ 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Rudolf H
+ arbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261128-sg-dynamo-dresden-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T120000Z
+DTEND:20261128T134500Z
+SUMMARY:SG Dynamo Dresden - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-fc-st-pauli-1-fc-heidenheim-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J14 | 🏟️ | 1.FC Heidenheim 🇩
+ 🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-fc-st-pauli-1-fc-heidenheim@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T123000Z
+DTEND:20261206T141500Z
+SUMMARY:FC St. Pauli - 1.FC Heidenheim
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-vfl-osnabruck-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J15 | ✈️ | VfL Osnabrück 🇩
+ 🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Stadion 
+ an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-vfl-osnabruck-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:VfL Osnabrück - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-fc-st-pauli-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J16 | 🏟️ | Hertha BSC 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-fc-st-pauli-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:FC St. Pauli - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-eintracht-braunschweig-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J17 | ✈️ | Eintracht Braunschwei
+ g 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-eintracht-braunschweig-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T120000Z
+DTEND:20270116T134500Z
+SUMMARY:Eintracht Braunschweig - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270124-spvgg-greuther-furth-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J18 | ✈️ | SpVgg Greuther Fürth
+  🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270124-spvgg-greuther-furth-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T123000Z
+DTEND:20270124T141500Z
+SUMMARY:SpVgg Greuther Fürth - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-fc-st-pauli-holstein-kiel-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J19 | 🏟️ | Holstein Kiel 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-fc-st-pauli-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:FC St. Pauli - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-fc-kaiserslautern-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J20 | ✈️ | FC Kaiserslautern 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Fritz-Wa
+ lter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-fc-kaiserslautern-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:FC Kaiserslautern - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-fc-st-pauli-arminia-bielefeld-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J21 | 🏟️ | Arminia Bielefeld 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-fc-st-pauli-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:FC St. Pauli - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-vfl-wolfsburg-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J22 | ✈️ | VFL Wolfsburg 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-vfl-wolfsburg-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:VFL Wolfsburg - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-fc-st-pauli-energie-cottbus-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J23 | 🏟️ | Energie Cottbus 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-fc-st-pauli-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:FC St. Pauli - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-karlsruher-sc-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J24 | ✈️ | Karlsruher SC 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: BBBank W
+ ildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-karlsruher-sc-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Karlsruher SC - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-fc-st-pauli-hannover-96-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J25 | 🏟️ | Hannover 96 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-fc-st-pauli-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:FC St. Pauli - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-fc-st-pauli-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J26 | 🏟️ | SV Darmstadt 98 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-fc-st-pauli-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:FC St. Pauli - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-fc-nurnberg-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J27 | ✈️ | FC Nürnberg 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Max-Morl
+ ock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-fc-nurnberg-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:FC Nürnberg - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-fc-st-pauli-1-fc-magdeburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J28 | 🏟️ | 1.FC Magdeburg 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-fc-st-pauli-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:FC St. Pauli - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-vfl-bochum-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J29 | ✈️ | VFL Bochum 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Vonovia 
+ Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-vfl-bochum-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:VFL Bochum - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Vonovia Ruhrstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-fc-st-pauli-sg-dynamo-dresden-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J30 | 🏟️ | SG Dynamo Dresden 
+ 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-fc-st-pauli-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:FC St. Pauli - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-1-fc-heidenheim-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J31 | ✈️ | 1.FC Heidenheim 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Voith-Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-1-fc-heidenheim-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:1.FC Heidenheim - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-fc-st-pauli-vfl-osnabruck-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J32 | 🏟️ | VfL Osnabrück 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-fc-st-pauli-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:FC St. Pauli - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-hertha-bsc-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J33 | ✈️ | Hertha BSC 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-hertha-bsc-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:Hertha BSC - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-fc-st-pauli-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:FC ST. PAULI | 2. Bundesliga | J34 | 🏟️ | Eintracht Braunschwe
+ ig 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-fc-st-pauli-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:FC St. Pauli - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+END:VCALENDAR

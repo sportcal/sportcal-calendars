@@ -1,0 +1,442 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VFL Wolfsburg · 2. Bundesliga
+BEGIN:VEVENT
+UID:bundesliga2-20261121-vfl-wolfsburg-holstein-kiel-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J12 | 🏟️ | Holstein Kiel 🇩
+ 🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261121-vfl-wolfsburg-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T120000Z
+DTEND:20261121T134500Z
+SUMMARY:VFL Wolfsburg - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261129-eintracht-braunschweig-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J13 | ✈️ | Eintracht Braunschwe
+ ig 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Eintrach
+ t-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261129-eintracht-braunschweig-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:Eintracht Braunschweig - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Eintracht-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-vfl-wolfsburg-1-fc-magdeburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J14 | 🏟️ | 1.FC Magdeburg 🇩
+ 🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261206-vfl-wolfsburg-1-fc-magdeburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T123000Z
+DTEND:20261206T141500Z
+SUMMARY:VFL Wolfsburg - 1.FC Magdeburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-spvgg-greuther-furth-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J15 | ✈️ | SpVgg Greuther Fürt
+ h 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261213-spvgg-greuther-furth-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:SpVgg Greuther Fürth - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-vfl-wolfsburg-arminia-bielefeld-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J16 | 🏟️ | Arminia Bielefeld 
+ 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-vfl-wolfsburg-arminia-bielefeld@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:VFL Wolfsburg - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270117-sg-dynamo-dresden-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J17 | ✈️ | SG Dynamo Dresden 
+ 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Rudolf H
+ arbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270117-sg-dynamo-dresden-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T123000Z
+DTEND:20270117T141500Z
+SUMMARY:SG Dynamo Dresden - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Rudolf Harbig
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-fc-kaiserslautern-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J18 | ✈️ | FC Kaiserslautern 
+ 🇩🇪
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Fritz-Wa
+ lter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-fc-kaiserslautern-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T193000Z
+DTEND:20270123T211500Z
+SUMMARY:FC Kaiserslautern - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Fritz-Walter Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-vfl-wolfsburg-hannover-96-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J19 | 🏟️ | Hannover 96 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-vfl-wolfsburg-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:VFL Wolfsburg - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-vfl-wolfsburg-karlsruher-sc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J20 | 🏟️ | Karlsruher SC 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-vfl-wolfsburg-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:VFL Wolfsburg - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-energie-cottbus-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J21 | ✈️ | Energie Cottbus 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Stadion 
+ Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-energie-cottbus-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Energie Cottbus - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-vfl-wolfsburg-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J22 | 🏟️ | FC St. Pauli 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-vfl-wolfsburg-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:VFL Wolfsburg - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-sv-darmstadt-98-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J23 | ✈️ | SV Darmstadt 98 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-sv-darmstadt-98-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:SV Darmstadt 98 - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-vfl-wolfsburg-fc-nurnberg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J24 | 🏟️ | FC Nürnberg 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-vfl-wolfsburg-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:VFL Wolfsburg - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-1-fc-heidenheim-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J25 | ✈️ | 1.FC Heidenheim 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Voith-Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-1-fc-heidenheim-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:1.FC Heidenheim - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-vfl-wolfsburg-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J26 | 🏟️ | VFL Bochum 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-vfl-wolfsburg-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:VFL Wolfsburg - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-vfl-osnabruck-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J27 | ✈️ | VfL Osnabrück 🇩
+ 🇪
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Stadion 
+ an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-vfl-osnabruck-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:VfL Osnabrück - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion an der Bremer Brücke'
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-vfl-wolfsburg-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J28 | 🏟️ | Hertha BSC 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-vfl-wolfsburg-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:VFL Wolfsburg - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-holstein-kiel-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J29 | ✈️ | Holstein Kiel 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Holstein
+ -Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-holstein-kiel-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:Holstein Kiel - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:Holstein-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-vfl-wolfsburg-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J30 | 🏟️ | Eintracht Braunschw
+ eig 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-vfl-wolfsburg-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:VFL Wolfsburg - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-1-fc-magdeburg-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J31 | ✈️ | 1.FC Magdeburg 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: MDCC-Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-1-fc-magdeburg-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:1.FC Magdeburg - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-vfl-wolfsburg-spvgg-greuther-furth-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J32 | 🏟️ | SpVgg Greuther Für
+ th 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-vfl-wolfsburg-spvgg-greuther-furth@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:VFL Wolfsburg - SpVgg Greuther Fürth
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-arminia-bielefeld-vfl-wolfsburg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J33 | ✈️ | Arminia Bielefeld 
+ 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: SchücoA
+ rena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-arminia-bielefeld-vfl-wolfsburg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:Arminia Bielefeld - VFL Wolfsburg
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-vfl-wolfsburg-sg-dynamo-dresden-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:VFL WOLFSBURG | 2. Bundesliga | J34 | 🏟️ | SG Dynamo Dresden 
+ 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-vfl-wolfsburg-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:VFL Wolfsburg - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+END:VCALENDAR

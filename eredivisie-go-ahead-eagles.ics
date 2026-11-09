@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Go Ahead Eagles · Eredivisie
+BEGIN:VEVENT
+UID:eredivisie-20261122-go-ahead-eagles-fortuna-sittard-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J13 | 🏟️ | Fortuna Sittard 🇳
+ 🇱
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Eredivisie\nEstadi: De Adelaars
+ horst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261122-go-ahead-eagles-fortuna-sittard@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T154500Z
+DTEND:20261122T173000Z
+SUMMARY:Go Ahead Eagles - Fortuna Sittard
+DESCRIPTION:Eredivisie
+LOCATION:De Adelaarshorst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261128-psv-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J14 | ✈️ | PSV 🇳🇱
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · Eredivisie\nEstadi: Philips Sta
+ dion\, Frederiklaan 10\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261128-psv-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T174500Z
+DTEND:20261128T193000Z
+SUMMARY:PSV - Go Ahead Eagles
+DESCRIPTION:Eredivisie
+LOCATION:Philips Stadion\, Frederiklaan 10\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261206-go-ahead-eagles-fc-twente-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J15 | 🏟️ | FC Twente 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: De Adelaars
+ horst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261206-go-ahead-eagles-fc-twente@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Go Ahead Eagles - FC Twente
+DESCRIPTION:Eredivisie
+LOCATION:De Adelaarshorst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261212-sc-heerenveen-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J16 | ✈️ | sc Heerenveen 🇳
+ 🇱
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · Eredivisie\nEstadi: Abe Lenstra
+  Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261212-sc-heerenveen-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T174500Z
+DTEND:20261212T193000Z
+SUMMARY:sc Heerenveen - Go Ahead Eagles
+DESCRIPTION:Eredivisie
+LOCATION:Abe Lenstra Stadion\, Abe Lenstra Boulevard 23Q\, Heerenveen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261220-go-ahead-eagles-ajax-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J17 | 🏟️ | Ajax 🇳🇱
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Eredivisie\nEstadi: De Adelaars
+ horst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20261220-go-ahead-eagles-ajax@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T154500Z
+DTEND:20261220T173000Z
+SUMMARY:Go Ahead Eagles - Ajax
+DESCRIPTION:Eredivisie
+LOCATION:De Adelaarshorst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270110-fc-groningen-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J18 | ✈️ | FC Groningen 🇳🇱
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Eredivisie\nEstadi: Euroborg\, 
+ Boumaboulevard 41\, Groningen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270110-fc-groningen-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270110T154500Z
+DTEND:20270110T173000Z
+SUMMARY:FC Groningen - Go Ahead Eagles
+DESCRIPTION:Eredivisie
+LOCATION:Euroborg\, Boumaboulevard 41\, Groningen
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270117-go-ahead-eagles-az-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J19 | 🏟️ | AZ 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: De Adelaars
+ horst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270117-go-ahead-eagles-az@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Go Ahead Eagles - AZ
+DESCRIPTION:Eredivisie
+LOCATION:De Adelaarshorst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270124-go-ahead-eagles-sc-cambuur-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J20 | 🏟️ | SC Cambuur 🇳🇱
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Eredivisie\nEstadi: De Adelaars
+ horst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270124-go-ahead-eagles-sc-cambuur@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T111500Z
+DTEND:20270124T130000Z
+SUMMARY:Go Ahead Eagles - SC Cambuur
+DESCRIPTION:Eredivisie
+LOCATION:De Adelaarshorst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270130-ado-den-haag-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J21 | ✈️ | ADO Den Haag 🇳🇱
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · Eredivisie\nEstadi: Cars Jeans 
+ Stadion\, Haags Kwartier 55\, Den Haag
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270130-ado-den-haag-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T174500Z
+DTEND:20270130T193000Z
+SUMMARY:ADO Den Haag - Go Ahead Eagles
+DESCRIPTION:Eredivisie
+LOCATION:Cars Jeans Stadion\, Haags Kwartier 55\, Den Haag
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270213-go-ahead-eagles-pec-zwolle-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J22 | 🏟️ | PEC Zwolle 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270213-go-ahead-eagles-pec-zwolle@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Go Ahead Eagles - PEC Zwolle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270220-ajax-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J23 | ✈️ | Ajax 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270220-ajax-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Ajax - Go Ahead Eagles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270227-telstar-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J24 | ✈️ | Telstar 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270227-telstar-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Telstar - Go Ahead Eagles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270306-go-ahead-eagles-excelsior-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J25 | 🏟️ | Excelsior 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270306-go-ahead-eagles-excelsior@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Go Ahead Eagles - Excelsior · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270313-go-ahead-eagles-feyenoord-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J26 | 🏟️ | Feyenoord 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270313-go-ahead-eagles-feyenoord@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Go Ahead Eagles - Feyenoord · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270320-fc-twente-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J27 | ✈️ | FC Twente 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270320-fc-twente-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:FC Twente - Go Ahead Eagles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270403-go-ahead-eagles-n-e-c-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J28 | 🏟️ | N.E.C. 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270403-go-ahead-eagles-n-e-c@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Go Ahead Eagles - N.E.C. · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270410-sparta-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J29 | ✈️ | Sparta 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270410-sparta-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Sparta - Go Ahead Eagles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270424-go-ahead-eagles-fc-utrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J30 | 🏟️ | FC Utrecht 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270424-go-ahead-eagles-fc-utrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Go Ahead Eagles - FC Utrecht · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270501-go-ahead-eagles-psv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J31 | 🏟️ | PSV 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270501-go-ahead-eagles-psv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Go Ahead Eagles - PSV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270508-fortuna-sittard-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J32 | ✈️ | Fortuna Sittard 🇳
+ 🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270508-fortuna-sittard-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Fortuna Sittard - Go Ahead Eagles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270516-go-ahead-eagles-sc-heerenveen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J33 | 🏟️ | sc Heerenveen 🇳
+ 🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: De Adelaars
+ horst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270516-go-ahead-eagles-sc-heerenveen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270516T123000Z
+DTEND:20270516T141500Z
+SUMMARY:Go Ahead Eagles - sc Heerenveen
+DESCRIPTION:Eredivisie
+LOCATION:De Adelaarshorst\, Vetkampstraat 1\, Deventer
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270523-willem-ii-go-ahead-eagles-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:GO AHEAD EAGLES | Eredivisie | J34 | ✈️ | Willem II 🇳🇱
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Eredivisie\nEstadi: Koning Will
+ em II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+BEGIN:VEVENT
+UID:eredivisie-20270523-willem-ii-go-ahead-eagles@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T123000Z
+DTEND:20270523T141500Z
+SUMMARY:Willem II - Go Ahead Eagles
+DESCRIPTION:Eredivisie
+LOCATION:Koning Willem II Stadion\, Goirleseweg 34\, Tilburg
+END:VEVENT
+END:VCALENDAR

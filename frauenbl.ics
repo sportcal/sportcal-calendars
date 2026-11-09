@@ -1,0 +1,1268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Frauen-Bundesliga
+BEGIN:VEVENT
+UID:frauenbl-dia-20261109-j9@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:FRAUEN-BUNDESLIGA | J9
+DESCRIPTION:18:00 1.FC Köln Frauen - RB Leipzig Frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261113-j10@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:FRAUEN-BUNDESLIGA | J10
+DESCRIPTION:18:30 Hamburger SV Frauen - 1. FSV Mainz 05 Frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261114-j10@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:FRAUEN-BUNDESLIGA | J10
+DESCRIPTION:12:00 1899 Hoffenheim Frauen - SC Freiburg Frauen\n14:00 Werder
+  Bremen Frauen - 1. FC Union Berlin Frauen\n17:55 VFL Wolfsburg Frauen - B
+ ayern Munchen Frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261115-j10@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:FRAUEN-BUNDESLIGA | J10
+DESCRIPTION:16:00 RB Leipzig Frauen - Eintracht Frankfurt Frauen\n16:00 Nü
+ rnberg Frauen - 1.FC Köln Frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261116-j10@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:FRAUEN-BUNDESLIGA | J10
+DESCRIPTION:18:00 VfB Stuttgart Frauen - Bayer Leverkusen Frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261120-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:FRAUEN-BUNDESLIGA | J11
+DESCRIPTION:18:30 1. FC Union Berlin Frauen - Bayer Leverkusen Frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261121-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:FRAUEN-BUNDESLIGA | J11
+DESCRIPTION:12:00 Eintracht Frankfurt Frauen - Hamburger SV Frauen\n14:00 1
+ .FC Köln Frauen - Werder Bremen Frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261122-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:FRAUEN-BUNDESLIGA | J11
+DESCRIPTION:14:00 SC Freiburg Frauen - VfB Stuttgart Frauen\n16:00 RB Leipz
+ ig Frauen - VFL Wolfsburg Frauen\n18:30 1. FSV Mainz 05 Frauen - Nürnberg
+  Frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261123-j11@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:FRAUEN-BUNDESLIGA | J11
+DESCRIPTION:18:00 Bayern Munchen Frauen - 1899 Hoffenheim Frauen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261213-j12@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FRAUEN-BUNDESLIGA | J12
+DESCRIPTION:01:00 1. FC Union Berlin Frauen - 1. FSV Mainz 05 Frauen\n01:00
+  Werder Bremen Frauen - Eintracht Frankfurt Frauen\n01:00 VfB Stuttgart Fr
+ auen - RB Leipzig Frauen\n01:00 Bayern Munchen Frauen - Nürnberg Frauen\n
+ 01:00 SC Freiburg Frauen - VFL Wolfsburg Frauen\n01:00 Bayer Leverkusen Fr
+ auen - 1.FC Köln Frauen\n01:00 1899 Hoffenheim Frauen - Hamburger SV Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20261220-j13@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:FRAUEN-BUNDESLIGA | J13
+DESCRIPTION:01:00 RB Leipzig Frauen - 1899 Hoffenheim Frauen\n01:00 1. FSV 
+ Mainz 05 Frauen - Bayer Leverkusen Frauen\n01:00 Nürnberg Frauen - Werder
+  Bremen Frauen\n01:00 Hamburger SV Frauen - Bayern Munchen Frauen\n01:00 E
+ intracht Frankfurt Frauen - SC Freiburg Frauen\n01:00 VFL Wolfsburg Frauen
+  - 1. FC Union Berlin Frauen\n01:00 1.FC Köln Frauen - VfB Stuttgart Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270117-j14@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:FRAUEN-BUNDESLIGA | J14
+DESCRIPTION:01:00 VFL Wolfsburg Frauen - Nürnberg Frauen\n01:00 Bayer Leve
+ rkusen Frauen - RB Leipzig Frauen\n01:00 Werder Bremen Frauen - 1. FSV Mai
+ nz 05 Frauen\n01:00 Bayern Munchen Frauen - 1. FC Union Berlin Frauen\n01:
+ 00 1.FC Köln Frauen - Eintracht Frankfurt Frauen\n01:00 VfB Stuttgart Fra
+ uen - 1899 Hoffenheim Frauen\n01:00 SC Freiburg Frauen - Hamburger SV Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270124-j15@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:FRAUEN-BUNDESLIGA | J15
+DESCRIPTION:01:00 1. FSV Mainz 05 Frauen - Bayern Munchen Frauen\n01:00 RB 
+ Leipzig Frauen - Werder Bremen Frauen\n01:00 Hamburger SV Frauen - VfB Stu
+ ttgart Frauen\n01:00 1. FC Union Berlin Frauen - SC Freiburg Frauen\n01:00
+  Nürnberg Frauen - Eintracht Frankfurt Frauen\n01:00 VFL Wolfsburg Frauen
+  - Bayer Leverkusen Frauen\n01:00 1899 Hoffenheim Frauen - 1.FC Köln Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270131-j16@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:FRAUEN-BUNDESLIGA | J16
+DESCRIPTION:01:00 VfB Stuttgart Frauen - Nürnberg Frauen\n01:00 RB Leipzig
+  Frauen - Hamburger SV Frauen\n01:00 Bayer Leverkusen Frauen - 1899 Hoffen
+ heim Frauen\n01:00 Werder Bremen Frauen - VFL Wolfsburg Frauen\n01:00 Eint
+ racht Frankfurt Frauen - 1. FC Union Berlin Frauen\n01:00 SC Freiburg Frau
+ en - Bayern Munchen Frauen\n01:00 1.FC Köln Frauen - 1. FSV Mainz 05 Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270207-j17@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:FRAUEN-BUNDESLIGA | J17
+DESCRIPTION:01:00 Hamburger SV Frauen - Werder Bremen Frauen\n01:00 Bayern 
+ Munchen Frauen - Bayer Leverkusen Frauen\n01:00 1. FSV Mainz 05 Frauen - S
+ C Freiburg Frauen\n01:00 1. FC Union Berlin Frauen - 1.FC Köln Frauen\n01
+ :00 VFL Wolfsburg Frauen - VfB Stuttgart Frauen\n01:00 Nürnberg Frauen - 
+ RB Leipzig Frauen\n01:00 1899 Hoffenheim Frauen - Eintracht Frankfurt Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270214-j18@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:FRAUEN-BUNDESLIGA | J18
+DESCRIPTION:01:00 1.FC Köln Frauen - Bayern Munchen Frauen\n01:00 RB Leipz
+ ig Frauen - 1. FC Union Berlin Frauen\n01:00 Eintracht Frankfurt Frauen - 
+ 1. FSV Mainz 05 Frauen\n01:00 VFL Wolfsburg Frauen - 1899 Hoffenheim Fraue
+ n\n01:00 Nürnberg Frauen - Hamburger SV Frauen\n01:00 VfB Stuttgart Fraue
+ n - Werder Bremen Frauen\n01:00 Bayer Leverkusen Frauen - SC Freiburg Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270221-j19@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:FRAUEN-BUNDESLIGA | J19
+DESCRIPTION:01:00 Bayern Munchen Frauen - Eintracht Frankfurt Frauen\n01:00
+  1. FC Union Berlin Frauen - VfB Stuttgart Frauen\n01:00 SC Freiburg Fraue
+ n - 1.FC Köln Frauen\n01:00 Werder Bremen Frauen - Bayer Leverkusen Fraue
+ n\n01:00 1899 Hoffenheim Frauen - Nürnberg Frauen\n01:00 Hamburger SV Fra
+ uen - VFL Wolfsburg Frauen\n01:00 1. FSV Mainz 05 Frauen - RB Leipzig Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270314-j20@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:FRAUEN-BUNDESLIGA | J20
+DESCRIPTION:01:00 Nürnberg Frauen - 1. FC Union Berlin Frauen\n01:00 Eintr
+ acht Frankfurt Frauen - Bayer Leverkusen Frauen\n01:00 VFL Wolfsburg Fraue
+ n - 1. FSV Mainz 05 Frauen\n01:00 Hamburger SV Frauen - 1.FC Köln Frauen\
+ n01:00 VfB Stuttgart Frauen - Bayern Munchen Frauen\n01:00 1899 Hoffenheim
+  Frauen - Werder Bremen Frauen\n01:00 RB Leipzig Frauen - SC Freiburg Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270321-j21@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:FRAUEN-BUNDESLIGA | J21
+DESCRIPTION:01:00 1. FC Union Berlin Frauen - Hamburger SV Frauen\n01:00 1.
+ FC Köln Frauen - VFL Wolfsburg Frauen\n01:00 Bayer Leverkusen Frauen - N
+ ürnberg Frauen\n01:00 SC Freiburg Frauen - Werder Bremen Frauen\n01:00 Ba
+ yern Munchen Frauen - RB Leipzig Frauen\n01:00 Eintracht Frankfurt Frauen 
+ - VfB Stuttgart Frauen\n01:00 1. FSV Mainz 05 Frauen - 1899 Hoffenheim Fra
+ uen
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270328-j22@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:FRAUEN-BUNDESLIGA | J22
+DESCRIPTION:01:00 RB Leipzig Frauen - 1.FC Köln Frauen\n01:00 Hamburger SV
+  Frauen - Bayer Leverkusen Frauen\n01:00 VfB Stuttgart Frauen - 1. FSV Mai
+ nz 05 Frauen\n01:00 VFL Wolfsburg Frauen - Eintracht Frankfurt Frauen\n01:
+ 00 Nürnberg Frauen - SC Freiburg Frauen\n01:00 1899 Hoffenheim Frauen - 1
+ . FC Union Berlin Frauen\n01:00 Werder Bremen Frauen - Bayern Munchen Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270411-j23@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:FRAUEN-BUNDESLIGA | J23
+DESCRIPTION:02:00 Bayer Leverkusen Frauen - VfB Stuttgart Frauen\n02:00 SC 
+ Freiburg Frauen - 1899 Hoffenheim Frauen\n02:00 1. FSV Mainz 05 Frauen - H
+ amburger SV Frauen\n02:00 Bayern Munchen Frauen - VFL Wolfsburg Frauen\n02
+ :00 Eintracht Frankfurt Frauen - RB Leipzig Frauen\n02:00 1.FC Köln Fraue
+ n - Nürnberg Frauen\n02:00 1. FC Union Berlin Frauen - Werder Bremen Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270502-j24@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:FRAUEN-BUNDESLIGA | J24
+DESCRIPTION:02:00 Hamburger SV Frauen - Eintracht Frankfurt Frauen\n02:00 V
+ fB Stuttgart Frauen - SC Freiburg Frauen\n02:00 Nürnberg Frauen - 1. FSV 
+ Mainz 05 Frauen\n02:00 Werder Bremen Frauen - 1.FC Köln Frauen\n02:00 189
+ 9 Hoffenheim Frauen - Bayern Munchen Frauen\n02:00 VFL Wolfsburg Frauen - 
+ RB Leipzig Frauen\n02:00 Bayer Leverkusen Frauen - 1. FC Union Berlin Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270509-j25@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:FRAUEN-BUNDESLIGA | J25
+DESCRIPTION:02:00 1.FC Köln Frauen - Bayer Leverkusen Frauen\n02:00 Nürnb
+ erg Frauen - Bayern Munchen Frauen\n02:00 1. FSV Mainz 05 Frauen - 1. FC U
+ nion Berlin Frauen\n02:00 Eintracht Frankfurt Frauen - Werder Bremen Fraue
+ n\n02:00 Hamburger SV Frauen - 1899 Hoffenheim Frauen\n02:00 RB Leipzig Fr
+ auen - VfB Stuttgart Frauen\n02:00 VFL Wolfsburg Frauen - SC Freiburg Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-dia-20270523-j26@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:FRAUEN-BUNDESLIGA | J26
+DESCRIPTION:02:00 1. FC Union Berlin Frauen - VFL Wolfsburg Frauen\n02:00 W
+ erder Bremen Frauen - Nürnberg Frauen\n02:00 1899 Hoffenheim Frauen - RB 
+ Leipzig Frauen\n02:00 SC Freiburg Frauen - Eintracht Frankfurt Frauen\n02:
+ 00 Bayer Leverkusen Frauen - 1. FSV Mainz 05 Frauen\n02:00 Bayern Munchen 
+ Frauen - Hamburger SV Frauen\n02:00 VfB Stuttgart Frauen - 1.FC Köln Frau
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261109-1-fc-koln-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261109T170000Z
+DTEND:20261109T184500Z
+SUMMARY:1.FC Köln Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261113-hamburger-sv-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261113T173000Z
+DTEND:20261113T191500Z
+SUMMARY:Hamburger SV Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261114-1899-hoffenheim-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T110000Z
+DTEND:20261114T124500Z
+SUMMARY:1899 Hoffenheim Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261114-werder-bremen-frauen-1-fc-union-berlin-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T130000Z
+DTEND:20261114T144500Z
+SUMMARY:Werder Bremen Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261114-vfl-wolfsburg-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T165500Z
+DTEND:20261114T184000Z
+SUMMARY:VFL Wolfsburg Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261115-rb-leipzig-frauen-eintracht-frankfurt-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T150000Z
+DTEND:20261115T164500Z
+SUMMARY:RB Leipzig Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261115-nurnberg-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261115T150000Z
+DTEND:20261115T164500Z
+SUMMARY:Nürnberg Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261116-vfb-stuttgart-frauen-bayer-leverkusen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261116T170000Z
+DTEND:20261116T184500Z
+SUMMARY:VfB Stuttgart Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261120-1-fc-union-berlin-frauen-bayer-leverkusen-frauen@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261120T173000Z
+DTEND:20261120T191500Z
+SUMMARY:1. FC Union Berlin Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261121-eintracht-frankfurt-frauen-hamburger-sv-frauen@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T110000Z
+DTEND:20261121T124500Z
+SUMMARY:Eintracht Frankfurt Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261121-1-fc-koln-frauen-werder-bremen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261121T130000Z
+DTEND:20261121T144500Z
+SUMMARY:1.FC Köln Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261122-sc-freiburg-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:SC Freiburg Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261122-rb-leipzig-frauen-vfl-wolfsburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T150000Z
+DTEND:20261122T164500Z
+SUMMARY:RB Leipzig Frauen - VFL Wolfsburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261122-1-fsv-mainz-05-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T173000Z
+DTEND:20261122T191500Z
+SUMMARY:1. FSV Mainz 05 Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261123-bayern-munchen-frauen-1899-hoffenheim-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261123T170000Z
+DTEND:20261123T184500Z
+SUMMARY:Bayern Munchen Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-1-fc-union-berlin-frauen-1-fsv-mainz-05-frauen@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:1. FC Union Berlin Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-werder-bremen-frauen-eintracht-frankfurt-frauen@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:Werder Bremen Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-vfb-stuttgart-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:VfB Stuttgart Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-bayern-munchen-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:Bayern Munchen Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-sc-freiburg-frauen-vfl-wolfsburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:SC Freiburg Frauen - VFL Wolfsburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-bayer-leverkusen-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:Bayer Leverkusen Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261213-1899-hoffenheim-frauen-hamburger-sv-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:1899 Hoffenheim Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-rb-leipzig-frauen-1899-hoffenheim-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:RB Leipzig Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-1-fsv-mainz-05-frauen-bayer-leverkusen-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-nurnberg-frauen-werder-bremen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:Nürnberg Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-hamburger-sv-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:Hamburger SV Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-eintracht-frankfurt-frauen-sc-freiburg-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:Eintracht Frankfurt Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-vfl-wolfsburg-frauen-1-fc-union-berlin-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:VFL Wolfsburg Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20261220-1-fc-koln-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T014500Z
+SUMMARY:1.FC Köln Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-vfl-wolfsburg-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:VFL Wolfsburg Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-bayer-leverkusen-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:Bayer Leverkusen Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-werder-bremen-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:Werder Bremen Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-bayern-munchen-frauen-1-fc-union-berlin-frauen@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:Bayern Munchen Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-1-fc-koln-frauen-eintracht-frankfurt-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:1.FC Köln Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-vfb-stuttgart-frauen-1899-hoffenheim-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:VfB Stuttgart Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270117-sc-freiburg-frauen-hamburger-sv-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:SC Freiburg Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-1-fsv-mainz-05-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-rb-leipzig-frauen-werder-bremen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:RB Leipzig Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-hamburger-sv-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:Hamburger SV Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-1-fc-union-berlin-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:1. FC Union Berlin Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-nurnberg-frauen-eintracht-frankfurt-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:Nürnberg Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-vfl-wolfsburg-frauen-bayer-leverkusen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:VFL Wolfsburg Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270124-1899-hoffenheim-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:1899 Hoffenheim Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-vfb-stuttgart-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:VfB Stuttgart Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-rb-leipzig-frauen-hamburger-sv-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:RB Leipzig Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-bayer-leverkusen-frauen-1899-hoffenheim-frauen@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:Bayer Leverkusen Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-werder-bremen-frauen-vfl-wolfsburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:Werder Bremen Frauen - VFL Wolfsburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-eintracht-frankfurt-frauen-1-fc-union-berlin-frauen@s
+ portcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:Eintracht Frankfurt Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-sc-freiburg-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:SC Freiburg Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270131-1-fc-koln-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:1.FC Köln Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-hamburger-sv-frauen-werder-bremen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:Hamburger SV Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-bayern-munchen-frauen-bayer-leverkusen-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:Bayern Munchen Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-1-fsv-mainz-05-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-1-fc-union-berlin-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:1. FC Union Berlin Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-vfl-wolfsburg-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:VFL Wolfsburg Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-nurnberg-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:Nürnberg Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270207-1899-hoffenheim-frauen-eintracht-frankfurt-frauen@spo
+ rtcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T014500Z
+SUMMARY:1899 Hoffenheim Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-1-fc-koln-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:1.FC Köln Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-rb-leipzig-frauen-1-fc-union-berlin-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:RB Leipzig Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-eintracht-frankfurt-frauen-1-fsv-mainz-05-frauen@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:Eintracht Frankfurt Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-vfl-wolfsburg-frauen-1899-hoffenheim-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:VFL Wolfsburg Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-nurnberg-frauen-hamburger-sv-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:Nürnberg Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-vfb-stuttgart-frauen-werder-bremen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:VfB Stuttgart Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270214-bayer-leverkusen-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:Bayer Leverkusen Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-bayern-munchen-frauen-eintracht-frankfurt-frauen@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:Bayern Munchen Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-1-fc-union-berlin-frauen-vfb-stuttgart-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:1. FC Union Berlin Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-sc-freiburg-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:SC Freiburg Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-werder-bremen-frauen-bayer-leverkusen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:Werder Bremen Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-1899-hoffenheim-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:1899 Hoffenheim Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-hamburger-sv-frauen-vfl-wolfsburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:Hamburger SV Frauen - VFL Wolfsburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270221-1-fsv-mainz-05-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-nurnberg-frauen-1-fc-union-berlin-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:Nürnberg Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-eintracht-frankfurt-frauen-bayer-leverkusen-frauen@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:Eintracht Frankfurt Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-vfl-wolfsburg-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:VFL Wolfsburg Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-hamburger-sv-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:Hamburger SV Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-vfb-stuttgart-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:VfB Stuttgart Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-1899-hoffenheim-frauen-werder-bremen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:1899 Hoffenheim Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270314-rb-leipzig-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T014500Z
+SUMMARY:RB Leipzig Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-1-fc-union-berlin-frauen-hamburger-sv-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:1. FC Union Berlin Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-1-fc-koln-frauen-vfl-wolfsburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:1.FC Köln Frauen - VFL Wolfsburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-bayer-leverkusen-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:Bayer Leverkusen Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-sc-freiburg-frauen-werder-bremen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:SC Freiburg Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-bayern-munchen-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:Bayern Munchen Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-eintracht-frankfurt-frauen-vfb-stuttgart-frauen@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:Eintracht Frankfurt Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270321-1-fsv-mainz-05-frauen-1899-hoffenheim-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-rb-leipzig-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:RB Leipzig Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-hamburger-sv-frauen-bayer-leverkusen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:Hamburger SV Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-vfb-stuttgart-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:VfB Stuttgart Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-vfl-wolfsburg-frauen-eintracht-frankfurt-frauen@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:VFL Wolfsburg Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-nurnberg-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:Nürnberg Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-1899-hoffenheim-frauen-1-fc-union-berlin-frauen@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:1899 Hoffenheim Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270328-werder-bremen-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270328T000000Z
+DTEND:20270328T014500Z
+SUMMARY:Werder Bremen Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-bayer-leverkusen-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:Bayer Leverkusen Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-sc-freiburg-frauen-1899-hoffenheim-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:SC Freiburg Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-1-fsv-mainz-05-frauen-hamburger-sv-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-bayern-munchen-frauen-vfl-wolfsburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:Bayern Munchen Frauen - VFL Wolfsburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-eintracht-frankfurt-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:Eintracht Frankfurt Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-1-fc-koln-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:1.FC Köln Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270411-1-fc-union-berlin-frauen-werder-bremen-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T014500Z
+SUMMARY:1. FC Union Berlin Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-hamburger-sv-frauen-eintracht-frankfurt-frauen@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:Hamburger SV Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-vfb-stuttgart-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:VfB Stuttgart Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-nurnberg-frauen-1-fsv-mainz-05-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:Nürnberg Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-werder-bremen-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:Werder Bremen Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-1899-hoffenheim-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:1899 Hoffenheim Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-vfl-wolfsburg-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:VFL Wolfsburg Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270502-bayer-leverkusen-frauen-1-fc-union-berlin-frauen@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T014500Z
+SUMMARY:Bayer Leverkusen Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-1-fc-koln-frauen-bayer-leverkusen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:1.FC Köln Frauen - Bayer Leverkusen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-nurnberg-frauen-bayern-munchen-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:Nürnberg Frauen - Bayern Munchen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-1-fsv-mainz-05-frauen-1-fc-union-berlin-frauen@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:1. FSV Mainz 05 Frauen - 1. FC Union Berlin Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-eintracht-frankfurt-frauen-werder-bremen-frauen@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:Eintracht Frankfurt Frauen - Werder Bremen Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-hamburger-sv-frauen-1899-hoffenheim-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:Hamburger SV Frauen - 1899 Hoffenheim Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-rb-leipzig-frauen-vfb-stuttgart-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:RB Leipzig Frauen - VfB Stuttgart Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270509-vfl-wolfsburg-frauen-sc-freiburg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T014500Z
+SUMMARY:VFL Wolfsburg Frauen - SC Freiburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-1-fc-union-berlin-frauen-vfl-wolfsburg-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:1. FC Union Berlin Frauen - VFL Wolfsburg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-werder-bremen-frauen-nurnberg-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:Werder Bremen Frauen - Nürnberg Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-1899-hoffenheim-frauen-rb-leipzig-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:1899 Hoffenheim Frauen - RB Leipzig Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-sc-freiburg-frauen-eintracht-frankfurt-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:SC Freiburg Frauen - Eintracht Frankfurt Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-bayer-leverkusen-frauen-1-fsv-mainz-05-frauen@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:Bayer Leverkusen Frauen - 1. FSV Mainz 05 Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-bayern-munchen-frauen-hamburger-sv-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:Bayern Munchen Frauen - Hamburger SV Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+UID:frauenbl-20270523-vfb-stuttgart-frauen-1-fc-koln-frauen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T014500Z
+SUMMARY:VfB Stuttgart Frauen - 1.FC Köln Frauen
+DESCRIPTION:Frauen-Bundesliga
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,292 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Olympique Lyon Women · Première Ligue
+BEGIN:VEVENT
+UID:premiereliguef-20261114-olympique-lyon-women-saint-malo-women-dia@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J9 | 🏟️ | Saint-Malo 
+ Women 🇫🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Première Ligue\nEstadi: Groupa
+ ma
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20261114-olympique-lyon-women-saint-malo-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Olympique Lyon Women - Saint-Malo Women
+DESCRIPTION:Première Ligue
+LOCATION:Groupama
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20261122-olympique-lyon-women-strasbourg-feminines-dia@s
+ portcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J10 | 🏟️ | Strasbourg
+  Féminines 🇫🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Première Ligue\nEstadi: Groupa
+ ma
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20261122-olympique-lyon-women-strasbourg-feminines@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Olympique Lyon Women - Strasbourg Féminines
+DESCRIPTION:Première Ligue
+LOCATION:Groupama
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20261212-fc-nantes-feminines-olympique-lyon-women-dia@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J11 | ✈️ | FC Nantes F
+ éminines 🇫🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Première Ligue\nEstadi: Stade 
+ Marcel-Saupin
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20261212-fc-nantes-feminines-olympique-lyon-women@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T160000Z
+DTEND:20261212T174500Z
+SUMMARY:FC Nantes Féminines - Olympique Lyon Women
+DESCRIPTION:Première Ligue
+LOCATION:Stade Marcel-Saupin
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20261219-olympique-lyon-women-fleury-91-women-dia@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J12 | 🏟️ | Fleury 91 
+ Women 🇫🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Première Ligue\nEstadi: Groupa
+ ma
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20261219-olympique-lyon-women-fleury-91-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T160000Z
+DTEND:20261219T174500Z
+SUMMARY:Olympique Lyon Women - Fleury 91 Women
+DESCRIPTION:Première Ligue
+LOCATION:Groupama
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270116-paris-fc-women-olympique-lyon-women-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J13 | ✈️ | Paris FC Wo
+ men 🇫🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Première Ligue\nEstadi: Stade 
+ Sébastien Charléty
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270116-paris-fc-women-olympique-lyon-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T160000Z
+DTEND:20270116T174500Z
+SUMMARY:Paris FC Women - Olympique Lyon Women
+DESCRIPTION:Première Ligue
+LOCATION:Stade Sébastien Charléty
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270123-olympique-lyon-women-le-havre-women-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J14 | 🏟️ | Le Havre W
+ omen 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Première Ligue\nEstadi: Groupa
+ ma
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270123-olympique-lyon-women-le-havre-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T200000Z
+DTEND:20270123T214500Z
+SUMMARY:Olympique Lyon Women - Le Havre Women
+DESCRIPTION:Première Ligue
+LOCATION:Groupama
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270206-olympique-marseille-women-olympique-lyon-women-
+ dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J15 | ✈️ | Olympique M
+ arseille Women 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Première Ligue\nEstadi: Stade 
+ Francis-Turcan
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270206-olympique-marseille-women-olympique-lyon-women@
+ sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T200000Z
+DTEND:20270206T214500Z
+SUMMARY:Olympique Marseille Women - Olympique Lyon Women
+DESCRIPTION:Première Ligue
+LOCATION:Stade Francis-Turcan
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270220-olympique-lyon-women-paris-saint-germain-women-
+ dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J16 | 🏟️ | Paris Sain
+ t-Germain Women 🇫🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Première Ligue\nEstadi: Groupa
+ ma
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270220-olympique-lyon-women-paris-saint-germain-women@
+ sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Olympique Lyon Women - Paris Saint-Germain Women
+DESCRIPTION:Première Ligue
+LOCATION:Groupama
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270313-toulouse-women-olympique-lyon-women-dia@sportca
+ l
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J17 | ✈️ | Toulouse Wo
+ men 🇫🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Première Ligue\nEstadi: Parc d
+ es Sports Stadium A1
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270313-toulouse-women-olympique-lyon-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Toulouse Women - Olympique Lyon Women
+DESCRIPTION:Première Ligue
+LOCATION:Parc des Sports Stadium A1
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270320-strasbourg-feminines-olympique-lyon-women-dia@s
+ portcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J18 | ✈️ | Strasbourg 
+ Féminines 🇫🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Première Ligue\nEstadi: Stade 
+ de la Meinau
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270320-strasbourg-feminines-olympique-lyon-women@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Strasbourg Féminines - Olympique Lyon Women
+DESCRIPTION:Première Ligue
+LOCATION:Stade de la Meinau
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270327-olympique-lyon-women-fc-nantes-feminines-dia@sp
+ ortcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J19 | 🏟️ | FC Nantes 
+ Féminines 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Première Ligue\nEstadi: Groupa
+ ma
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270327-olympique-lyon-women-fc-nantes-feminines@sportc
+ al
+DTSTAMP:20261109T205321Z
+DTSTART:20270327T180000Z
+DTEND:20270327T194500Z
+SUMMARY:Olympique Lyon Women - FC Nantes Féminines
+DESCRIPTION:Première Ligue
+LOCATION:Groupama
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270407-olympique-lyon-women-lens-women-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J20 | 🏟️ | Lens Women
+  🇫🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Première Ligue\nEstadi: Groupa
+ ma
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270407-olympique-lyon-women-lens-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270407T150000Z
+DTEND:20270407T164500Z
+SUMMARY:Olympique Lyon Women - Lens Women
+DESCRIPTION:Première Ligue
+LOCATION:Groupama
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270501-saint-malo-women-olympique-lyon-women-dia@sport
+ cal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J21 | ✈️ | Saint-Malo 
+ Women 🇫🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Première Ligue\nEstadi: Stade 
+ de Marville
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270501-saint-malo-women-olympique-lyon-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:Saint-Malo Women - Olympique Lyon Women
+DESCRIPTION:Première Ligue
+LOCATION:Stade de Marville
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270504-olympique-lyon-women-montpellier-women-dia@spor
+ tcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:OLYMPIQUE LYON WOMEN | Première Ligue | J22 | 🏟️ | Montpellie
+ r Women 🇫🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Première Ligue\nEstadi: Groupa
+ ma
+END:VEVENT
+BEGIN:VEVENT
+UID:premiereliguef-20270504-olympique-lyon-women-montpellier-women@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270504T150000Z
+DTEND:20270504T164500Z
+SUMMARY:Olympique Lyon Women - Montpellier Women
+DESCRIPTION:Première Ligue
+LOCATION:Groupama
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,449 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:De Graafschap · Eerste Divisie
+BEGIN:VEVENT
+UID:eerstedivisie-20261114-de-graafschap-top-oss-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J15 | 🏟️ | TOP Oss 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261114-de-graafschap-top-oss@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:De Graafschap - TOP Oss
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261120-de-graafschap-mvv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J16 | 🏟️ | MVV 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261120-de-graafschap-mvv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261120T190000Z
+DTEND:20261120T204500Z
+SUMMARY:De Graafschap - MVV
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261129-roda-jc-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J17 | ✈️ | Roda JC 🇳🇱
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Eerste Divisie\nEstadi: Parksta
+ d Limburg Stadion\, Roda J.C. Ring 1\, Kerkrade
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261129-roda-jc-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261129T154500Z
+DTEND:20261129T173000Z
+SUMMARY:Roda JC - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:Parkstad Limburg Stadion\, Roda J.C. Ring 1\, Kerkrade
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261207-jong-psv-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J18 | ✈️ | Jong PSV 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: PSV Cam
+ pus De Herdgang
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261207-jong-psv-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261207T190000Z
+DTEND:20261207T204500Z
+SUMMARY:Jong PSV - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:PSV Campus De Herdgang
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261211-de-graafschap-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J19 | 🏟️ | FC Dordrecht 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261211-de-graafschap-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261211T190000Z
+DTEND:20261211T204500Z
+SUMMARY:De Graafschap - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261218-de-graafschap-heracles-almelo-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J20 | 🏟️ | Heracles Almelo 
+ 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261218-de-graafschap-heracles-almelo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261218T190000Z
+DTEND:20261218T204500Z
+SUMMARY:De Graafschap - Heracles Almelo
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270108-fc-den-bosch-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J21 | ✈️ | FC Den Bosch 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Stadion
+  De Vliert
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270108-fc-den-bosch-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270108T190000Z
+DTEND:20270108T204500Z
+SUMMARY:FC Den Bosch - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:Stadion De Vliert
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270115-de-graafschap-fc-eindhoven-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J22 | 🏟️ | FC Eindhoven 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270115-de-graafschap-fc-eindhoven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270115T190000Z
+DTEND:20270115T204500Z
+SUMMARY:De Graafschap - FC Eindhoven
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270125-jong-fc-utrecht-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J23 | ✈️ | Jong FC Utrecht 
+ 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Sportco
+ mplex Zoudenbalch
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270125-jong-fc-utrecht-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270125T190000Z
+DTEND:20270125T204500Z
+SUMMARY:Jong FC Utrecht - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:Sportcomplex Zoudenbalch
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270129-de-graafschap-helmond-sport-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J24 | 🏟️ | Helmond Sport 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270129-de-graafschap-helmond-sport@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270129T190000Z
+DTEND:20270129T204500Z
+SUMMARY:De Graafschap - Helmond Sport
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270205-rkc-waalwijk-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J25 | ✈️ | RKC Waalwijk 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Mandema
+ kers Stadion\, Akkerlaan 2\, Waalwijk
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270205-rkc-waalwijk-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270205T190000Z
+DTEND:20270205T204500Z
+SUMMARY:RKC Waalwijk - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:Mandemakers Stadion\, Akkerlaan 2\, Waalwijk
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270212-de-graafschap-fc-emmen-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J26 | 🏟️ | FC Emmen 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270212-de-graafschap-fc-emmen@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270212T190000Z
+DTEND:20270212T204500Z
+SUMMARY:De Graafschap - FC Emmen
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270219-fc-dordrecht-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J27 | ✈️ | FC Dordrecht 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270219-fc-dordrecht-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270219T190000Z
+DTEND:20270219T204500Z
+SUMMARY:FC Dordrecht - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270226-de-graafschap-jong-ajax-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J28 | 🏟️ | Jong Ajax 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270226-de-graafschap-jong-ajax@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270226T190000Z
+DTEND:20270226T204500Z
+SUMMARY:De Graafschap - Jong Ajax
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270307-almere-city-fc-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J29 | ✈️ | Almere City FC 🇳
+ 🇱
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Eerste Divisie\nEstadi: Yanmar 
+ Stadion\, Competitieweg 20\, Almere
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270307-almere-city-fc-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270307T154500Z
+DTEND:20270307T173000Z
+SUMMARY:Almere City FC - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:Yanmar Stadion\, Competitieweg 20\, Almere
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270312-de-graafschap-fc-volendam-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J30 | 🏟️ | FC Volendam 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270312-de-graafschap-fc-volendam@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270312T190000Z
+DTEND:20270312T204500Z
+SUMMARY:De Graafschap - FC Volendam
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270320-mvv-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J31 | ✈️ | MVV 🇳🇱
+DESCRIPTION:Inici: 16:30 (Europe/Madrid) · Eerste Divisie\nEstadi: De Geus
+ selt\, Stadionplein 32\, Maastricht
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270320-mvv-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T153000Z
+DTEND:20270320T171500Z
+SUMMARY:MVV - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:De Geusselt\, Stadionplein 32\, Maastricht
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270404-de-graafschap-roda-jc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J32 | 🏟️ | Roda JC 🇳🇱
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270404-de-graafschap-roda-jc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270404T144500Z
+DTEND:20270404T163000Z
+SUMMARY:De Graafschap - Roda JC
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270409-de-graafschap-vvv-venlo-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J33 | 🏟️ | VVV-Venlo 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270409-de-graafschap-vvv-venlo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270409T180000Z
+DTEND:20270409T194500Z
+SUMMARY:De Graafschap - VVV-Venlo
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270419-jong-az-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J34 | ✈️ | Jong AZ 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: AFAS Tr
+ ainingscomplex
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270419-jong-az-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270419T180000Z
+DTEND:20270419T194500Z
+SUMMARY:Jong AZ - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:AFAS Trainingscomplex
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270425-de-graafschap-vitesse-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J35 | 🏟️ | Vitesse 🇳🇱
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270425-de-graafschap-vitesse@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270425T101500Z
+DTEND:20270425T120000Z
+SUMMARY:De Graafschap - Vitesse
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270430-top-oss-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J36 | ✈️ | TOP Oss 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Frans H
+ eesen Stadion\, Mondriaanlaan 4\, Oss
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270430-top-oss-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270430T180000Z
+DTEND:20270430T194500Z
+SUMMARY:TOP Oss - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:Frans Heesen Stadion\, Mondriaanlaan 4\, Oss
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270507-de-graafschap-jong-psv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J37 | 🏟️ | Jong PSV 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270507-de-graafschap-jong-psv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270507T180000Z
+DTEND:20270507T194500Z
+SUMMARY:De Graafschap - Jong PSV
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270514-nac-breda-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:DE GRAAFSCHAP | Eerste Divisie | J38 | ✈️ | NAC Breda 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Rat Ver
+ legh Stadion\, Stadionstraat 23\, Breda
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270514-nac-breda-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270514T180000Z
+DTEND:20270514T194500Z
+SUMMARY:NAC Breda - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:Rat Verlegh Stadion\, Stadionstraat 23\, Breda
+END:VEVENT
+END:VCALENDAR

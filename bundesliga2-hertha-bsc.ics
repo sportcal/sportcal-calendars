@@ -1,0 +1,432 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hertha BSC · 2. Bundesliga
+BEGIN:VEVENT
+UID:bundesliga2-20261122-energie-cottbus-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:HERTHA BSC | 2. Bundesliga | J12 | ✈️ | Energie Cottbus 🇩
+ 🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Stadion 
+ Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261122-energie-cottbus-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261122T123000Z
+DTEND:20261122T141500Z
+SUMMARY:Energie Cottbus - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Stadion Der Freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261128-hertha-bsc-karlsruher-sc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:HERTHA BSC | 2. Bundesliga | J13 | 🏟️ | Karlsruher SC 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261128-hertha-bsc-karlsruher-sc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261128T120000Z
+DTEND:20261128T134500Z
+SUMMARY:Hertha BSC - Karlsruher SC
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-hannover-96-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:HERTHA BSC | 2. Bundesliga | J14 | ✈️ | Hannover 96 🇩🇪
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: HDI Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261205-hannover-96-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261205T193000Z
+DTEND:20261205T211500Z
+SUMMARY:Hannover 96 - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:HDI Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-hertha-bsc-sv-darmstadt-98-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:HERTHA BSC | 2. Bundesliga | J15 | 🏟️ | SV Darmstadt 98 🇩
+ 🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261212-hertha-bsc-sv-darmstadt-98@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:Hertha BSC - SV Darmstadt 98
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-fc-st-pauli-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:HERTHA BSC | 2. Bundesliga | J16 | ✈️ | FC St. Pauli 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Millernt
+ or-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20261219-fc-st-pauli-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:FC St. Pauli - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Millerntor-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-hertha-bsc-fc-nurnberg-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:HERTHA BSC | 2. Bundesliga | J17 | 🏟️ | FC Nürnberg 🇩🇪
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270116-hertha-bsc-fc-nurnberg@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270116T193000Z
+DTEND:20270116T211500Z
+SUMMARY:Hertha BSC - FC Nürnberg
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-hertha-bsc-vfl-bochum-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:HERTHA BSC | 2. Bundesliga | J18 | 🏟️ | VFL Bochum 🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270123-hertha-bsc-vfl-bochum@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270123T120000Z
+DTEND:20270123T134500Z
+SUMMARY:Hertha BSC - VFL Bochum
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-1-fc-heidenheim-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:HERTHA BSC | 2. Bundesliga | J19 | ✈️ | 1.FC Heidenheim 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Voith-Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270130-1-fc-heidenheim-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:1.FC Heidenheim - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Voith-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-hertha-bsc-eintracht-braunschweig-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:HERTHA BSC | 2. Bundesliga | J20 | 🏟️ | Eintracht Braunschweig
+  🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270206-hertha-bsc-eintracht-braunschweig@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Hertha BSC - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-1-fc-magdeburg-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:HERTHA BSC | 2. Bundesliga | J21 | ✈️ | 1.FC Magdeburg 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: MDCC-Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270213-1-fc-magdeburg-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:1.FC Magdeburg - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:MDCC-Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-hertha-bsc-vfl-osnabruck-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:HERTHA BSC | 2. Bundesliga | J22 | 🏟️ | VfL Osnabrück 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270220-hertha-bsc-vfl-osnabruck@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Hertha BSC - VfL Osnabrück
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-hertha-bsc-sg-dynamo-dresden-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:HERTHA BSC | 2. Bundesliga | J23 | 🏟️ | SG Dynamo Dresden 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270227-hertha-bsc-sg-dynamo-dresden@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Hertha BSC - SG Dynamo Dresden
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-spvgg-greuther-furth-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:HERTHA BSC | 2. Bundesliga | J24 | ✈️ | SpVgg Greuther Fürth 
+ 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Sportpar
+ k Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270303-spvgg-greuther-furth-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:SpVgg Greuther Fürth - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Sportpark Ronhof - Thomas Sommer
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-hertha-bsc-holstein-kiel-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:HERTHA BSC | 2. Bundesliga | J25 | 🏟️ | Holstein Kiel 🇩🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270306-hertha-bsc-holstein-kiel@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:Hertha BSC - Holstein Kiel
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-arminia-bielefeld-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:HERTHA BSC | 2. Bundesliga | J26 | ✈️ | Arminia Bielefeld 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: SchücoA
+ rena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270313-arminia-bielefeld-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270313T000000Z
+DTEND:20270313T014500Z
+SUMMARY:Arminia Bielefeld - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:SchücoArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-hertha-bsc-fc-kaiserslautern-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:HERTHA BSC | 2. Bundesliga | J27 | 🏟️ | FC Kaiserslautern 🇩
+ 🇪
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270320-hertha-bsc-fc-kaiserslautern@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270320T000000Z
+DTEND:20270320T014500Z
+SUMMARY:Hertha BSC - FC Kaiserslautern
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-vfl-wolfsburg-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:HERTHA BSC | 2. Bundesliga | J28 | ✈️ | VFL Wolfsburg 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Volkswag
+ en Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270403-vfl-wolfsburg-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270403T000000Z
+DTEND:20270403T014500Z
+SUMMARY:VFL Wolfsburg - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Volkswagen Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-hertha-bsc-energie-cottbus-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:HERTHA BSC | 2. Bundesliga | J29 | 🏟️ | Energie Cottbus 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270410-hertha-bsc-energie-cottbus@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270410T000000Z
+DTEND:20270410T014500Z
+SUMMARY:Hertha BSC - Energie Cottbus
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-karlsruher-sc-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:HERTHA BSC | 2. Bundesliga | J30 | ✈️ | Karlsruher SC 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: BBBank W
+ ildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270417-karlsruher-sc-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270417T000000Z
+DTEND:20270417T014500Z
+SUMMARY:Karlsruher SC - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:BBBank Wildpark
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-hertha-bsc-hannover-96-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:HERTHA BSC | 2. Bundesliga | J31 | 🏟️ | Hannover 96 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270424-hertha-bsc-hannover-96@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270424T000000Z
+DTEND:20270424T014500Z
+SUMMARY:Hertha BSC - Hannover 96
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-sv-darmstadt-98-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:HERTHA BSC | 2. Bundesliga | J32 | ✈️ | SV Darmstadt 98 🇩
+ 🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Merck-St
+ adion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270508-sv-darmstadt-98-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270508T000000Z
+DTEND:20270508T014500Z
+SUMMARY:SV Darmstadt 98 - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Merck-Stadion am Böllenfalltor
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-hertha-bsc-fc-st-pauli-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:HERTHA BSC | 2. Bundesliga | J33 | 🏟️ | FC St. Pauli 🇩🇪
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Olympic 
+ Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270515-hertha-bsc-fc-st-pauli@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270515T000000Z
+DTEND:20270515T014500Z
+SUMMARY:Hertha BSC - FC St. Pauli
+DESCRIPTION:2. Bundesliga
+LOCATION:Olympic Stadium Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-fc-nurnberg-hertha-bsc-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:HERTHA BSC | 2. Bundesliga | J34 | ✈️ | FC Nürnberg 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · 2. Bundesliga\nEstadi: Max-Morl
+ ock-Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga2-20270523-fc-nurnberg-hertha-bsc@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270523T180000Z
+DTEND:20270523T194500Z
+SUMMARY:FC Nürnberg - Hertha BSC
+DESCRIPTION:2. Bundesliga
+LOCATION:Max-Morlock-Stadion
+END:VEVENT
+END:VCALENDAR

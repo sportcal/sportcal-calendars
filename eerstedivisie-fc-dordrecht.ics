@@ -1,0 +1,451 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Dordrecht · Eerste Divisie
+BEGIN:VEVENT
+UID:eerstedivisie-20261114-fc-dordrecht-heracles-almelo-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:FC DORDRECHT | Eerste Divisie | J15 | 🏟️ | Heracles Almelo 
+ 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261114-fc-dordrecht-heracles-almelo@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:FC Dordrecht - Heracles Almelo
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261120-helmond-sport-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:FC DORDRECHT | Eerste Divisie | J16 | ✈️ | Helmond Sport 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: GS Staa
+ lwerken Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261120-helmond-sport-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261120T190000Z
+DTEND:20261120T204500Z
+SUMMARY:Helmond Sport - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:GS Staalwerken Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261127-fc-dordrecht-vitesse-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:FC DORDRECHT | Eerste Divisie | J17 | 🏟️ | Vitesse 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261127-fc-dordrecht-vitesse@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:FC Dordrecht - Vitesse
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261204-mvv-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:FC DORDRECHT | Eerste Divisie | J18 | ✈️ | MVV 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Geus
+ selt\, Stadionplein 32\, Maastricht
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261204-mvv-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261204T190000Z
+DTEND:20261204T204500Z
+SUMMARY:MVV - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:De Geusselt\, Stadionplein 32\, Maastricht
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261211-de-graafschap-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:FC DORDRECHT | Eerste Divisie | J19 | ✈️ | De Graafschap 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Vijv
+ erberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261211-de-graafschap-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261211T190000Z
+DTEND:20261211T204500Z
+SUMMARY:De Graafschap - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:De Vijverberg
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261218-fc-dordrecht-fc-den-bosch-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:FC DORDRECHT | Eerste Divisie | J20 | 🏟️ | FC Den Bosch 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20261218-fc-dordrecht-fc-den-bosch@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261218T190000Z
+DTEND:20261218T204500Z
+SUMMARY:FC Dordrecht - FC Den Bosch
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270111-jong-ajax-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:FC DORDRECHT | Eerste Divisie | J21 | ✈️ | Jong Ajax 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Sportpa
+ rk De Toekomst
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270111-jong-ajax-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270111T190000Z
+DTEND:20270111T204500Z
+SUMMARY:Jong Ajax - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:Sportpark De Toekomst
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270115-fc-dordrecht-jong-fc-utrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:FC DORDRECHT | Eerste Divisie | J22 | 🏟️ | Jong FC Utrecht 
+ 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270115-fc-dordrecht-jong-fc-utrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270115T190000Z
+DTEND:20270115T204500Z
+SUMMARY:FC Dordrecht - Jong FC Utrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270122-roda-jc-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:FC DORDRECHT | Eerste Divisie | J23 | ✈️ | Roda JC 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Parksta
+ d Limburg Stadion\, Roda J.C. Ring 1\, Kerkrade
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270122-roda-jc-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270122T190000Z
+DTEND:20270122T204500Z
+SUMMARY:Roda JC - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:Parkstad Limburg Stadion\, Roda J.C. Ring 1\, Kerkrade
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270129-vvv-venlo-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:FC DORDRECHT | Eerste Divisie | J24 | ✈️ | VVV-Venlo 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Covebo 
+ Stadium - De Koel
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270129-vvv-venlo-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270129T190000Z
+DTEND:20270129T204500Z
+SUMMARY:VVV-Venlo - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:Covebo Stadium - De Koel
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270205-fc-dordrecht-mvv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:FC DORDRECHT | Eerste Divisie | J25 | 🏟️ | MVV 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270205-fc-dordrecht-mvv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270205T190000Z
+DTEND:20270205T204500Z
+SUMMARY:FC Dordrecht - MVV
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270212-nac-breda-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:FC DORDRECHT | Eerste Divisie | J26 | ✈️ | NAC Breda 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Rat Ver
+ legh Stadion\, Stadionstraat 23\, Breda
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270212-nac-breda-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270212T190000Z
+DTEND:20270212T204500Z
+SUMMARY:NAC Breda - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:Rat Verlegh Stadion\, Stadionstraat 23\, Breda
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270219-fc-dordrecht-de-graafschap-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:FC DORDRECHT | Eerste Divisie | J27 | 🏟️ | De Graafschap 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270219-fc-dordrecht-de-graafschap@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270219T190000Z
+DTEND:20270219T204500Z
+SUMMARY:FC Dordrecht - De Graafschap
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270226-fc-dordrecht-top-oss-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:FC DORDRECHT | Eerste Divisie | J28 | 🏟️ | TOP Oss 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270226-fc-dordrecht-top-oss@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270226T190000Z
+DTEND:20270226T204500Z
+SUMMARY:FC Dordrecht - TOP Oss
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270305-fc-emmen-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:FC DORDRECHT | Eerste Divisie | J29 | ✈️ | FC Emmen 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: De Oude
+  Meerdijk\, Stadionplein 1\, Emmen
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270305-fc-emmen-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270305T190000Z
+DTEND:20270305T204500Z
+SUMMARY:FC Emmen - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:De Oude Meerdijk\, Stadionplein 1\, Emmen
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270312-fc-dordrecht-fc-eindhoven-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:FC DORDRECHT | Eerste Divisie | J30 | 🏟️ | FC Eindhoven 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270312-fc-dordrecht-fc-eindhoven@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270312T190000Z
+DTEND:20270312T204500Z
+SUMMARY:FC Dordrecht - FC Eindhoven
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270319-almere-city-fc-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:FC DORDRECHT | Eerste Divisie | J31 | ✈️ | Almere City FC 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Yanmar 
+ Stadion\, Competitieweg 20\, Almere
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270319-almere-city-fc-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270319T190000Z
+DTEND:20270319T204500Z
+SUMMARY:Almere City FC - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:Yanmar Stadion\, Competitieweg 20\, Almere
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270402-fc-dordrecht-fc-volendam-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:FC DORDRECHT | Eerste Divisie | J32 | 🏟️ | FC Volendam 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270402-fc-dordrecht-fc-volendam@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270402T180000Z
+DTEND:20270402T194500Z
+SUMMARY:FC Dordrecht - FC Volendam
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270409-fc-dordrecht-helmond-sport-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:FC DORDRECHT | Eerste Divisie | J33 | 🏟️ | Helmond Sport 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270409-fc-dordrecht-helmond-sport@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270409T180000Z
+DTEND:20270409T194500Z
+SUMMARY:FC Dordrecht - Helmond Sport
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270416-vitesse-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:FC DORDRECHT | Eerste Divisie | J34 | ✈️ | Vitesse 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: GelreDo
+ me\, Batavierenweg 25\, Arnhem
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270416-vitesse-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270416T180000Z
+DTEND:20270416T194500Z
+SUMMARY:Vitesse - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:GelreDome\, Batavierenweg 25\, Arnhem
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270423-fc-dordrecht-jong-psv-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:FC DORDRECHT | Eerste Divisie | J35 | 🏟️ | Jong PSV 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270423-fc-dordrecht-jong-psv@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270423T180000Z
+DTEND:20270423T194500Z
+SUMMARY:FC Dordrecht - Jong PSV
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270503-jong-az-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:FC DORDRECHT | Eerste Divisie | J36 | ✈️ | Jong AZ 🇳🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: AFAS Tr
+ ainingscomplex
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270503-jong-az-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270503T180000Z
+DTEND:20270503T194500Z
+SUMMARY:Jong AZ - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:AFAS Trainingscomplex
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270507-heracles-almelo-fc-dordrecht-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:FC DORDRECHT | Eerste Divisie | J37 | ✈️ | Heracles Almelo 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: Erve As
+ ito\, van Riemsdijkplein 1\, Almelo
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270507-heracles-almelo-fc-dordrecht@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270507T180000Z
+DTEND:20270507T194500Z
+SUMMARY:Heracles Almelo - FC Dordrecht
+DESCRIPTION:Eerste Divisie
+LOCATION:Erve Asito\, van Riemsdijkplein 1\, Almelo
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270514-fc-dordrecht-rkc-waalwijk-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:FC DORDRECHT | Eerste Divisie | J38 | 🏟️ | RKC Waalwijk 🇳
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Eerste Divisie\nEstadi: M-Score
+ s Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:eerstedivisie-20270514-fc-dordrecht-rkc-waalwijk@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270514T180000Z
+DTEND:20270514T194500Z
+SUMMARY:FC Dordrecht - RKC Waalwijk
+DESCRIPTION:Eerste Divisie
+LOCATION:M-Scores Stadion
+END:VEVENT
+END:VCALENDAR

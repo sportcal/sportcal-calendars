@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kashiwa Reysol · AFC CL
+BEGIN:VEVENT
+UID:afccl-20261124-newcastle-jets-fc-kashiwa-reysol-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:KASHIWA REYSOL | AFC CL | J5 | ✈️ | Newcastle Jets FC
+DESCRIPTION:Inici: 08:45 (Europe/Madrid) · AFC Champions League\nEstadi: C
+ entral Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20261124-newcastle-jets-fc-kashiwa-reysol@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261124T074500Z
+DTEND:20261124T093000Z
+SUMMARY:Newcastle Jets FC - Kashiwa Reysol
+DESCRIPTION:AFC Champions League
+LOCATION:Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20261201-kashiwa-reysol-cong-an-nhan-dan-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:KASHIWA REYSOL | AFC CL | J6 | 🏟️ | Công An Nhân Dân
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · AFC Champions League\nEstadi: S
+ ankyo Frontier Kashiwa
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20261201-kashiwa-reysol-cong-an-nhan-dan@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20261201T100000Z
+DTEND:20261201T114500Z
+SUMMARY:Kashiwa Reysol - Công An Nhân Dân
+DESCRIPTION:AFC Champions League
+LOCATION:Sankyo Frontier Kashiwa
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20270210-kashiwa-reysol-buriram-united-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:KASHIWA REYSOL | AFC CL | J7 | 🏟️ | Buriram United
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · AFC Champions League\nEstadi: S
+ ankyo Frontier Kashiwa
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20270210-kashiwa-reysol-buriram-united@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270210T100000Z
+DTEND:20270210T114500Z
+SUMMARY:Kashiwa Reysol - Buriram United
+DESCRIPTION:AFC Champions League
+LOCATION:Sankyo Frontier Kashiwa
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20270216-pohang-steelers-kashiwa-reysol-dia@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:KASHIWA REYSOL | AFC CL | J8 | ✈️ | Pohang Steelers
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · AFC Champions League\nEstadi: S
+ teelyard
+END:VEVENT
+BEGIN:VEVENT
+UID:afccl-20270216-pohang-steelers-kashiwa-reysol@sportcal
+DTSTAMP:20261109T205321Z
+DTSTART:20270216T100000Z
+DTEND:20270216T114500Z
+SUMMARY:Pohang Steelers - Kashiwa Reysol
+DESCRIPTION:AFC Champions League
+LOCATION:Steelyard
+END:VEVENT
+END:VCALENDAR
