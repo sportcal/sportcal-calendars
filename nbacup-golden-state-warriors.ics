@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Golden State Warriors · NBA Cup
+BEGIN:VEVENT
+UID:nbacup-20261114-san-antonio-spurs-golden-state-warriors-dia@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:GOLDEN STATE WARRIORS | NBA Cup | ✈️ | San Antonio Spurs 🇺
+ 🇸
+DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NBA Cup\nEstadi: Frost Bank Cen
+ ter\, San Antonio\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261114-san-antonio-spurs-golden-state-warriors@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261114T023000Z
+DTEND:20261114T041500Z
+SUMMARY:San Antonio Spurs - Golden State Warriors
+DESCRIPTION:NBA Cup
+LOCATION:Frost Bank Center\, San Antonio\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261126-golden-state-warriors-sacramento-kings-dia@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:GOLDEN STATE WARRIORS | NBA Cup | 🏟️ | Sacramento Kings 🇺
+ 🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NBA Cup\nEstadi: Chase Center\,
+  San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261126-golden-state-warriors-sacramento-kings@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261126T030000Z
+DTEND:20261126T044500Z
+SUMMARY:Golden State Warriors - Sacramento Kings
+DESCRIPTION:NBA Cup
+LOCATION:Chase Center\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261128-portland-trail-blazers-golden-state-warriors-dia@sportc
+ al
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:GOLDEN STATE WARRIORS | NBA Cup | ✈️ | Portland Trail Blazers 
+ 🇺🇸
+DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NBA Cup\nEstadi: Moda Center\, 
+ Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261128-portland-trail-blazers-golden-state-warriors@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261128T023000Z
+DTEND:20261128T041500Z
+SUMMARY:Portland Trail Blazers - Golden State Warriors
+DESCRIPTION:NBA Cup
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+END:VCALENDAR

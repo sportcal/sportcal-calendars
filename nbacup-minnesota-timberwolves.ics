@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Minnesota Timberwolves · NBA Cup
+BEGIN:VEVENT
+UID:nbacup-20261126-oklahoma-city-thunder-minnesota-timberwolves-dia@sportc
+ al
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:MINNESOTA TIMBERWOLVES | NBA Cup | ✈️ | Oklahoma City Thunder 
+ 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NBA Cup\nEstadi: Paycom Center\
+ , Oklahoma City\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261126-oklahoma-city-thunder-minnesota-timberwolves@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261126T003000Z
+DTEND:20261126T021500Z
+SUMMARY:Oklahoma City Thunder - Minnesota Timberwolves
+DESCRIPTION:NBA Cup
+LOCATION:Paycom Center\, Oklahoma City\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261128-minnesota-timberwolves-memphis-grizzlies-dia@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:MINNESOTA TIMBERWOLVES | NBA Cup | 🏟️ | Memphis Grizzlies 🇺
+ 🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NBA Cup\nEstadi: Target Center\
+ , Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261128-minnesota-timberwolves-memphis-grizzlies@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261128T013000Z
+DTEND:20261128T031500Z
+SUMMARY:Minnesota Timberwolves - Memphis Grizzlies
+DESCRIPTION:NBA Cup
+LOCATION:Target Center\, Minneapolis\, MN
+END:VEVENT
+END:VCALENDAR

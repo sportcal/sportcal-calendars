@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philadelphia 76ers · NBA Cup
+BEGIN:VEVENT
+UID:nbacup-20261125-philadelphia-76ers-miami-heat-dia@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:PHILADELPHIA 76ERS | NBA Cup | 🏟️ | Miami Heat 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NBA Cup\nEstadi: Xfinity Mobile
+  Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261125-philadelphia-76ers-miami-heat@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261125T220000Z
+DTEND:20261125T234500Z
+SUMMARY:Philadelphia 76ers - Miami Heat
+DESCRIPTION:NBA Cup
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261128-indiana-pacers-philadelphia-76ers-dia@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:PHILADELPHIA 76ERS | NBA Cup | ✈️ | Indiana Pacers 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NBA Cup\nEstadi: Gainbridge Fie
+ ldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261128-indiana-pacers-philadelphia-76ers@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261128T003000Z
+DTEND:20261128T021500Z
+SUMMARY:Indiana Pacers - Philadelphia 76ers
+DESCRIPTION:NBA Cup
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+END:VCALENDAR

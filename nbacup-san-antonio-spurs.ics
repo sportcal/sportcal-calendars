@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:San Antonio Spurs · NBA Cup
+BEGIN:VEVENT
+UID:nbacup-20261114-san-antonio-spurs-golden-state-warriors-dia@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:SAN ANTONIO SPURS | NBA Cup | 🏟️ | Golden State Warriors 🇺
+ 🇸
+DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NBA Cup\nEstadi: Frost Bank Cen
+ ter\, San Antonio\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261114-san-antonio-spurs-golden-state-warriors@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261114T023000Z
+DTEND:20261114T041500Z
+SUMMARY:San Antonio Spurs - Golden State Warriors
+DESCRIPTION:NBA Cup
+LOCATION:Frost Bank Center\, San Antonio\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261126-portland-trail-blazers-san-antonio-spurs-dia@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:SAN ANTONIO SPURS | NBA Cup | ✈️ | Portland Trail Blazers 🇺
+ 🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NBA Cup\nEstadi: Moda Center\, 
+ Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261126-portland-trail-blazers-san-antonio-spurs@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261126T030000Z
+DTEND:20261126T044500Z
+SUMMARY:Portland Trail Blazers - San Antonio Spurs
+DESCRIPTION:NBA Cup
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261128-san-antonio-spurs-los-angeles-lakers-dia@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:SAN ANTONIO SPURS | NBA Cup | 🏟️ | Los Angeles Lakers 🇺🇸
+DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NBA Cup\nEstadi: Frost Bank Cen
+ ter\, San Antonio\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261128-san-antonio-spurs-los-angeles-lakers@sportcal
+DTSTAMP:20261109T233123Z
+DTSTART:20261128T023000Z
+DTEND:20261128T041500Z
+SUMMARY:San Antonio Spurs - Los Angeles Lakers
+DESCRIPTION:NBA Cup
+LOCATION:Frost Bank Center\, San Antonio\, TX
+END:VEVENT
+END:VCALENDAR
