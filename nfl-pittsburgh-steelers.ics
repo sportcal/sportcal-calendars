@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pittsburgh Steelers · NFL
+BEGIN:VEVENT
+UID:nfl-20261116-cincinnati-bengals-pittsburgh-steelers-dia@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:PITTSBURGH STEELERS | NFL | J10 | ✈️ | Cincinnati Bengals 🇺
+ 🇸
+DESCRIPTION:Inici: 02:20 (Europe/Madrid) · NFL\nEstadi: Paycor
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261116-cincinnati-bengals-pittsburgh-steelers@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART:20261116T012000Z
+DTEND:20261116T030500Z
+SUMMARY:Cincinnati Bengals - Pittsburgh Steelers
+DESCRIPTION:NFL
+LOCATION:Paycor
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261122-philadelphia-eagles-pittsburgh-steelers-dia@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:PITTSBURGH STEELERS | NFL | J11 | ✈️ | Philadelphia Eagles 🇺
+ 🇸
+DESCRIPTION:Inici: 22:25 (Europe/Madrid) · NFL\nEstadi: Lincoln Financial 
+ Field
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261122-philadelphia-eagles-pittsburgh-steelers@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART:20261122T212500Z
+DTEND:20261122T231000Z
+SUMMARY:Philadelphia Eagles - Pittsburgh Steelers
+DESCRIPTION:NFL
+LOCATION:Lincoln Financial Field
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261127-pittsburgh-steelers-denver-broncos-dia@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:PITTSBURGH STEELERS | NFL | J12 | 🏟️ | Denver Broncos 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NFL\nEstadi: Acrisure
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261127-pittsburgh-steelers-denver-broncos@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART:20261127T200000Z
+DTEND:20261127T214500Z
+SUMMARY:Pittsburgh Steelers - Denver Broncos
+DESCRIPTION:NFL
+LOCATION:Acrisure
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261207-pittsburgh-steelers-houston-texans-dia@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:PITTSBURGH STEELERS | NFL | J13 | 🏟️ | Houston Texans 🇺🇸
+DESCRIPTION:Inici: 02:20 (Europe/Madrid) · NFL\nEstadi: Acrisure
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261207-pittsburgh-steelers-houston-texans@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART:20261207T012000Z
+DTEND:20261207T030500Z
+SUMMARY:Pittsburgh Steelers - Houston Texans
+DESCRIPTION:NFL
+LOCATION:Acrisure
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261215-jacksonville-jaguars-pittsburgh-steelers-dia@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:PITTSBURGH STEELERS | NFL | J14 | ✈️ | Jacksonville Jaguars 
+ 🇺🇸
+DESCRIPTION:Inici: 02:15 (Europe/Madrid) · NFL\nEstadi: EverBank
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261215-jacksonville-jaguars-pittsburgh-steelers@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART:20261215T011500Z
+DTEND:20261215T030000Z
+SUMMARY:Jacksonville Jaguars - Pittsburgh Steelers
+DESCRIPTION:NFL
+LOCATION:EverBank
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261220-pittsburgh-steelers-baltimore-ravens-dia@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:PITTSBURGH STEELERS | NFL | J15 | 🏟️ | Baltimore Ravens 🇺
+ 🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NFL\nEstadi: Acrisure
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261220-pittsburgh-steelers-baltimore-ravens@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART:20261220T180000Z
+DTEND:20261220T194500Z
+SUMMARY:Pittsburgh Steelers - Baltimore Ravens
+DESCRIPTION:NFL
+LOCATION:Acrisure
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261227-pittsburgh-steelers-carolina-panthers-dia@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:PITTSBURGH STEELERS | NFL | J16 | 🏟️ | Carolina Panthers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · NFL
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20261227-pittsburgh-steelers-carolina-panthers@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Pittsburgh Steelers - Carolina Panthers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NFL
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20270103-tennessee-titans-pittsburgh-steelers-dia@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:PITTSBURGH STEELERS | NFL | J17 | ✈️ | Tennessee Titans 🇺
+ 🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NFL\nEstadi: Nissan
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20270103-tennessee-titans-pittsburgh-steelers@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART:20270103T180000Z
+DTEND:20270103T194500Z
+SUMMARY:Tennessee Titans - Pittsburgh Steelers
+DESCRIPTION:NFL
+LOCATION:Nissan
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20270110-baltimore-ravens-pittsburgh-steelers-dia@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:PITTSBURGH STEELERS | NFL | J18 | ✈️ | Baltimore Ravens 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · NFL
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-20270110-baltimore-ravens-pittsburgh-steelers@sportcal
+DTSTAMP:20261109T023600Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Baltimore Ravens - Pittsburgh Steelers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NFL
+END:VEVENT
+END:VCALENDAR
