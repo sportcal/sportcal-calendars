@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Squash
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Squash — Men's and Women's Round of 16 (4 Matches)
+DESCRIPTION:Men's and Women's Round of 16 (4 Matches)\; Women's Kayak Four 
+ 500m Final A\; Men's Kayak Four 500m Final A · Comcast Squash Center at U
+ niversal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T023000Z
+DTEND:20280716T061500Z
+SUMMARY:Squash — Men's and Women's Round of 16 (4 Matches)
+DESCRIPTION:Men's and Women's Round of 16 (4 Matches)\; Women's Kayak Four 
+ 500m Final A\; Men's Kayak Four 500m Final A · Comcast Squash Center at U
+ niversal Studios · Sessió SQU01
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Squash — Men's and Women's Round of 16 (4 Matches)
+DESCRIPTION:Men's and Women's Round of 16 (4 Matches) · Comcast Squash Cen
+ ter at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T023000Z
+DTEND:20280717T061500Z
+SUMMARY:Squash — Men's and Women's Round of 16 (4 Matches)
+DESCRIPTION:Men's and Women's Round of 16 (4 Matches) · Comcast Squash Cen
+ ter at Universal Studios · Sessió SQU02
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Squash — Men's and Women's Round of 16 (4 Matches)
+DESCRIPTION:Men's and Women's Round of 16 (4 Matches) · Comcast Squash Cen
+ ter at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T023000Z
+DTEND:20280718T061500Z
+SUMMARY:Squash — Men's and Women's Round of 16 (4 Matches)
+DESCRIPTION:Men's and Women's Round of 16 (4 Matches) · Comcast Squash Cen
+ ter at Universal Studios · Sessió SQU03
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Squash — Men's and Women's Round of 16 (4 Matches)
+DESCRIPTION:Men's and Women's Round of 16 (4 Matches) · Comcast Squash Cen
+ ter at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T023000Z
+DTEND:20280719T061500Z
+SUMMARY:Squash — Men's and Women's Round of 16 (4 Matches)
+DESCRIPTION:Men's and Women's Round of 16 (4 Matches) · Comcast Squash Cen
+ ter at Universal Studios · Sessió SQU04
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Squash — Men's and Women's Quarterfinal (4 Matches)
+DESCRIPTION:Men's and Women's Quarterfinal (4 Matches) · Comcast Squash Ce
+ nter at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T023000Z
+DTEND:20280720T061500Z
+SUMMARY:Squash — Men's and Women's Quarterfinal (4 Matches)
+DESCRIPTION:Men's and Women's Quarterfinal (4 Matches) · Comcast Squash Ce
+ nter at Universal Studios · Sessió SQU05
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Squash — Men's and Women's Quarterfinal (4 Matches)
+DESCRIPTION:Men's and Women's Quarterfinal (4 Matches) · Comcast Squash Ce
+ nter at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T023000Z
+DTEND:20280721T061500Z
+SUMMARY:Squash — Men's and Women's Quarterfinal (4 Matches)
+DESCRIPTION:Men's and Women's Quarterfinal (4 Matches) · Comcast Squash Ce
+ nter at Universal Studios · Sessió SQU06
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Squash — Women's Semifinal (2 Matches)
+DESCRIPTION:Women's Semifinal (2 Matches) · Comcast Squash Center at Unive
+ rsal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T033000Z
+DTEND:20280722T061500Z
+SUMMARY:Squash — Women's Semifinal (2 Matches)
+DESCRIPTION:Women's Semifinal (2 Matches) · Comcast Squash Center at Unive
+ rsal Studios · Sessió SQU07
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Squash — Men's Semifinal (2 Matches)
+DESCRIPTION:Men's Semifinal (2 Matches) · Comcast Squash Center at Univers
+ al Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T033000Z
+DTEND:20280723T061500Z
+SUMMARY:Squash — Men's Semifinal (2 Matches)
+DESCRIPTION:Men's Semifinal (2 Matches) · Comcast Squash Center at Univers
+ al Studios · Sessió SQU08
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Squash — Women's Gold Medal Match
+DESCRIPTION:Women's Gold Medal Match\; Women's Bronze Medal Match · Comcas
+ t Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T033000Z
+DTEND:20280724T063000Z
+SUMMARY:Squash — Women's Gold Medal Match
+DESCRIPTION:Women's Gold Medal Match\; Women's Bronze Medal Match · Comcas
+ t Squash Center at Universal Studios · Sessió SQU09
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Squash — Men's Gold Medal Match
+DESCRIPTION:Men's Gold Medal Match\; Men's Bronze Medal Match · Comcast Sq
+ uash Center at Universal Studios
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-squ10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T033000Z
+DTEND:20280725T063000Z
+SUMMARY:Squash — Men's Gold Medal Match
+DESCRIPTION:Men's Gold Medal Match\; Men's Bronze Medal Match · Comcast Sq
+ uash Center at Universal Studios · Sessió SQU10
+LOCATION:Comcast Squash Center at Universal Studios
+END:VEVENT
+END:VCALENDAR

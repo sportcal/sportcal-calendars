@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Fencing
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Fencing — Women's Épée Individual Table of 16
+DESCRIPTION:Women's Épée Individual Table of 16\; Men's Sabre Individual 
+ Table of 32\; Men's Sabre Individual Table of 64\; Women's Épée Individu
+ al Table of 32\; Men's Sabre Individual Table of 16\; Women's Épée Indiv
+ idual Table of 8\; Men's Sabre Individual Table of 8 · LA Convention Cent
+ er Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T160000Z
+DTEND:20280715T232000Z
+SUMMARY:Fencing — Women's Épée Individual Table of 16
+DESCRIPTION:Women's Épée Individual Table of 16\; Men's Sabre Individual 
+ Table of 32\; Men's Sabre Individual Table of 64\; Women's Épée Individu
+ al Table of 32\; Men's Sabre Individual Table of 16\; Women's Épée Indiv
+ idual Table of 8\; Men's Sabre Individual Table of 8 · LA Convention Cent
+ er Hall 1 · Sessió FEN01
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Fencing — Men's Sabre Individual Bronze Medal Bout
+DESCRIPTION:Men's Sabre Individual Bronze Medal Bout\; Women's Épée Indiv
+ idual Bronze Medal Bout\; Women's Épée Individual Semifinal\; Men's Sabr
+ e Individual Semifinal\; Women's Épée Individual Gold Medal Bout\; Men's
+  Sabre Individual Gold Medal Bout · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T013000Z
+DTEND:20280716T053500Z
+SUMMARY:Fencing — Men's Sabre Individual Bronze Medal Bout
+DESCRIPTION:Men's Sabre Individual Bronze Medal Bout\; Women's Épée Indiv
+ idual Bronze Medal Bout\; Women's Épée Individual Semifinal\; Men's Sabr
+ e Individual Semifinal\; Women's Épée Individual Gold Medal Bout\; Men's
+  Sabre Individual Gold Medal Bout · LA Convention Center Hall 1 · Sessi
+ ó FEN02
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Fencing — Men's Épée Individual Table of 16
+DESCRIPTION:Men's Épée Individual Table of 16\; Women's Foil Individual T
+ able of 32\; Men's Épée Individual Table of 64\; Women's Foil Individual
+  Table of 64\; Men's Épée Individual Table of 32\; Women's Foil Individu
+ al Table of 16\; Men's Épée Individual Table of 8\; Women's Foil Individ
+ ual Table of 8 · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T160000Z
+DTEND:20280717T000000Z
+SUMMARY:Fencing — Men's Épée Individual Table of 16
+DESCRIPTION:Men's Épée Individual Table of 16\; Women's Foil Individual T
+ able of 32\; Men's Épée Individual Table of 64\; Women's Foil Individual
+  Table of 64\; Men's Épée Individual Table of 32\; Women's Foil Individu
+ al Table of 16\; Men's Épée Individual Table of 8\; Women's Foil Individ
+ ual Table of 8 · LA Convention Center Hall 1 · Sessió FEN03
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Fencing — Women's Foil Individual Bronze Medal Bout
+DESCRIPTION:Women's Foil Individual Bronze Medal Bout\; Men's Épée Indivi
+ dual Bronze Medal Bout\; Men's Épée Individual Semifinal\; Women's Foil 
+ Individual Semifinal\; Men's Épée Individual Gold Medal Bout\; Women's F
+ oil Individual Gold Medal Bout · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T013000Z
+DTEND:20280717T055500Z
+SUMMARY:Fencing — Women's Foil Individual Bronze Medal Bout
+DESCRIPTION:Women's Foil Individual Bronze Medal Bout\; Men's Épée Indivi
+ dual Bronze Medal Bout\; Men's Épée Individual Semifinal\; Women's Foil 
+ Individual Semifinal\; Men's Épée Individual Gold Medal Bout\; Women's F
+ oil Individual Gold Medal Bout · LA Convention Center Hall 1 · Sessió F
+ EN04
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Fencing — Women's Sabre Individual Table of 16
+DESCRIPTION:Women's Sabre Individual Table of 16\; Men's Foil Individual Ta
+ ble of 32\; Women's Sabre Individual Table of 64\; Men's Foil Individual T
+ able of 64\; Women's Sabre Individual Table of 32\; Men's Foil Individual 
+ Table of 16\; Women's Sabre Individual Table of 8\; Men's Foil Individual 
+ Table of 8 · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T160000Z
+DTEND:20280717T232000Z
+SUMMARY:Fencing — Women's Sabre Individual Table of 16
+DESCRIPTION:Women's Sabre Individual Table of 16\; Men's Foil Individual Ta
+ ble of 32\; Women's Sabre Individual Table of 64\; Men's Foil Individual T
+ able of 64\; Women's Sabre Individual Table of 32\; Men's Foil Individual 
+ Table of 16\; Women's Sabre Individual Table of 8\; Men's Foil Individual 
+ Table of 8 · LA Convention Center Hall 1 · Sessió FEN05
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Fencing — Men's Foil Individual Bronze Medal Bout
+DESCRIPTION:Men's Foil Individual Bronze Medal Bout\; Women's Sabre Individ
+ ual Bronze Medal Bout\; Women's Sabre Individual Semifinal\; Men's Foil In
+ dividual Semifinal\; Women's Sabre Individual Gold Medal Bout\; Men's Foil
+  Individual Gold Medal Bout · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T013000Z
+DTEND:20280718T054000Z
+SUMMARY:Fencing — Men's Foil Individual Bronze Medal Bout
+DESCRIPTION:Men's Foil Individual Bronze Medal Bout\; Women's Sabre Individ
+ ual Bronze Medal Bout\; Women's Sabre Individual Semifinal\; Men's Foil In
+ dividual Semifinal\; Women's Sabre Individual Gold Medal Bout\; Men's Foil
+  Individual Gold Medal Bout · LA Convention Center Hall 1 · Sessió FEN0
+ 6
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Fencing — Women's Épée Team Semifinal
+DESCRIPTION:Women's Épée Team Semifinal\; Women's Épée Team Table of 8\
+ ; Women's Épée Team Classification 5-8\; Women's Épée Team Placement 7
+ -8\; Women's Épée Team Placement 5-6 · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T160000Z
+DTEND:20280718T213000Z
+SUMMARY:Fencing — Women's Épée Team Semifinal
+DESCRIPTION:Women's Épée Team Semifinal\; Women's Épée Team Table of 8\
+ ; Women's Épée Team Classification 5-8\; Women's Épée Team Placement 7
+ -8\; Women's Épée Team Placement 5-6 · LA Convention Center Hall 1 · S
+ essió FEN07
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Fencing — Women's Épée Team Gold Medal Match
+DESCRIPTION:Women's Épée Team Gold Medal Match\; Women's Épée Team Bron
+ ze Medal Match · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T003000Z
+DTEND:20280719T031000Z
+SUMMARY:Fencing — Women's Épée Team Gold Medal Match
+DESCRIPTION:Women's Épée Team Gold Medal Match\; Women's Épée Team Bron
+ ze Medal Match · LA Convention Center Hall 1 · Sessió FEN08
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Fencing — Men's Sabre Team Semifinal
+DESCRIPTION:Men's Sabre Team Semifinal\; Men's Sabre Team Table of 8\; Men'
+ s Sabre Team Classification 5-8\; Men's Sabre Team Placement 7-8 · LA Con
+ vention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T160000Z
+DTEND:20280719T204000Z
+SUMMARY:Fencing — Men's Sabre Team Semifinal
+DESCRIPTION:Men's Sabre Team Semifinal\; Men's Sabre Team Table of 8\; Men'
+ s Sabre Team Classification 5-8\; Men's Sabre Team Placement 7-8 · LA Con
+ vention Center Hall 1 · Sessió FEN09
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Fencing — Men's Sabre Team Gold Medal Match
+DESCRIPTION:Men's Sabre Team Gold Medal Match\; Men's Sabre Team Bronze Med
+ al Match\; Men's Sabre Team Placement 5-6\; Men's Épée Team Table of 8 
+ · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T003000Z
+DTEND:20280720T025000Z
+SUMMARY:Fencing — Men's Sabre Team Gold Medal Match
+DESCRIPTION:Men's Sabre Team Gold Medal Match\; Men's Sabre Team Bronze Med
+ al Match\; Men's Sabre Team Placement 5-6\; Men's Épée Team Table of 8 
+ · LA Convention Center Hall 1 · Sessió FEN10
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Fencing — Men's Épée Team Semifinal
+DESCRIPTION:Men's Épée Team Semifinal\; Men's Épée Team Classification 
+ 5-8\; Men's Épée Team Placement 7-8 · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T160000Z
+DTEND:20280720T212000Z
+SUMMARY:Fencing — Men's Épée Team Semifinal
+DESCRIPTION:Men's Épée Team Semifinal\; Men's Épée Team Classification 
+ 5-8\; Men's Épée Team Placement 7-8 · LA Convention Center Hall 1 · Se
+ ssió FEN11
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Fencing — Men's Épée Team Gold Medal Match
+DESCRIPTION:Men's Épée Team Gold Medal Match\; Men's Épée Team Bronze M
+ edal Match\; Men's Épée Team Placement 5-6 · LA Convention Center Hall 
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T013000Z
+DTEND:20280721T041000Z
+SUMMARY:Fencing — Men's Épée Team Gold Medal Match
+DESCRIPTION:Men's Épée Team Gold Medal Match\; Men's Épée Team Bronze M
+ edal Match\; Men's Épée Team Placement 5-6 · LA Convention Center Hall 
+ 1 · Sessió FEN12
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Fencing — Women's Foil Team Semifinal
+DESCRIPTION:Women's Foil Team Semifinal\; Women's Foil Team Table of 8\; Wo
+ men's Foil Team Classification 5-8\; Women's Foil Team Placement 7-8 · LA
+  Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T160000Z
+DTEND:20280721T212000Z
+SUMMARY:Fencing — Women's Foil Team Semifinal
+DESCRIPTION:Women's Foil Team Semifinal\; Women's Foil Team Table of 8\; Wo
+ men's Foil Team Classification 5-8\; Women's Foil Team Placement 7-8 · LA
+  Convention Center Hall 1 · Sessió FEN13
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Fencing — Women's Foil Team Gold Medal Match
+DESCRIPTION:Women's Foil Team Gold Medal Match\; Women's Foil Team Bronze M
+ edal Match\; Women's Foil Team Placement 5-6\; Men's Foil Team Table of 8 
+ · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T013000Z
+DTEND:20280722T041000Z
+SUMMARY:Fencing — Women's Foil Team Gold Medal Match
+DESCRIPTION:Women's Foil Team Gold Medal Match\; Women's Foil Team Bronze M
+ edal Match\; Women's Foil Team Placement 5-6\; Men's Foil Team Table of 8 
+ · LA Convention Center Hall 1 · Sessió FEN14
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Fencing — Men's Foil Team Semifinal
+DESCRIPTION:Men's Foil Team Semifinal\; Men's Foil Team Classification 5-8\
+ ; Men's Foil Team Placement 7-8 · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T163000Z
+DTEND:20280722T215000Z
+SUMMARY:Fencing — Men's Foil Team Semifinal
+DESCRIPTION:Men's Foil Team Semifinal\; Men's Foil Team Classification 5-8\
+ ; Men's Foil Team Placement 7-8 · LA Convention Center Hall 1 · Sessió 
+ FEN15
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Fencing — Men's Foil Team Gold Medal Match
+DESCRIPTION:Men's Foil Team Gold Medal Match\; Men's Foil Team Bronze Medal
+  Match\; Men's Foil Team Placement 5-6\; Women's Sabre Team Table of 8 · 
+ LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T013000Z
+DTEND:20280723T041000Z
+SUMMARY:Fencing — Men's Foil Team Gold Medal Match
+DESCRIPTION:Men's Foil Team Gold Medal Match\; Men's Foil Team Bronze Medal
+  Match\; Men's Foil Team Placement 5-6\; Women's Sabre Team Table of 8 · 
+ LA Convention Center Hall 1 · Sessió FEN16
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Fencing — Women's Sabre Team Semifinal
+DESCRIPTION:Women's Sabre Team Semifinal\; Women's Sabre Team Classificatio
+ n 5-8\; Women's Sabre Team Placement 7-8 · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T163000Z
+DTEND:20280723T211000Z
+SUMMARY:Fencing — Women's Sabre Team Semifinal
+DESCRIPTION:Women's Sabre Team Semifinal\; Women's Sabre Team Classificatio
+ n 5-8\; Women's Sabre Team Placement 7-8 · LA Convention Center Hall 1 ·
+  Sessió FEN17
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen18-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Fencing — Women's Sabre Team Gold Medal Match
+DESCRIPTION:Women's Sabre Team Gold Medal Match\; Women's Sabre Team Bronze
+  Medal Match\; Women's Sabre Team Placement 5-6 · LA Convention Center Ha
+ ll 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-fen18@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T013000Z
+DTEND:20280724T035000Z
+SUMMARY:Fencing — Women's Sabre Team Gold Medal Match
+DESCRIPTION:Women's Sabre Team Gold Medal Match\; Women's Sabre Team Bronze
+  Medal Match\; Women's Sabre Team Placement 5-6 · LA Convention Center Ha
+ ll 1 · Sessió FEN18
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+END:VCALENDAR

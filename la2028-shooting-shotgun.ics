@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Shooting (Shotgun)
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Shooting (Shotgun) — Women's Skeet Qualification - Day 1
+DESCRIPTION:Women's Skeet Qualification - Day 1\; Men's Skeet Qualification
+  - Day 1\; Women's 25m Pistol Final · Whittier Narrows Clay Shooting Cent
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T163000Z
+DTEND:20280717T213000Z
+SUMMARY:Shooting (Shotgun) — Women's Skeet Qualification - Day 1
+DESCRIPTION:Women's Skeet Qualification - Day 1\; Men's Skeet Qualification
+  - Day 1\; Women's 25m Pistol Final · Whittier Narrows Clay Shooting Cent
+ er · Sessió SHO03
+LOCATION:Whittier Narrows Clay Shooting Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Shooting (Shotgun) — Women's Skeet Final
+DESCRIPTION:Women's Skeet Final\; Men's Skeet Qualification - Day 2\; Women
+ 's Skeet Qualification - Day 2 · Whittier Narrows Clay Shooting Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T163000Z
+DTEND:20280719T001500Z
+SUMMARY:Shooting (Shotgun) — Women's Skeet Final
+DESCRIPTION:Women's Skeet Final\; Men's Skeet Qualification - Day 2\; Women
+ 's Skeet Qualification - Day 2 · Whittier Narrows Clay Shooting Center ·
+  Sessió SHO05
+LOCATION:Whittier Narrows Clay Shooting Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Shooting (Shotgun) — Men's Trap Qualification - Day 1
+DESCRIPTION:Men's Trap Qualification - Day 1\; Women's Trap Qualification -
+  Day 1\; Men's Skeet Final · Whittier Narrows Clay Shooting Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T163000Z
+DTEND:20280721T213000Z
+SUMMARY:Shooting (Shotgun) — Men's Trap Qualification - Day 1
+DESCRIPTION:Men's Trap Qualification - Day 1\; Women's Trap Qualification -
+  Day 1\; Men's Skeet Final · Whittier Narrows Clay Shooting Center · Ses
+ sió SHO08
+LOCATION:Whittier Narrows Clay Shooting Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Shooting (Shotgun) — Women's Trap Final
+DESCRIPTION:Women's Trap Final\; Men's Trap Qualification - Day 2\; Women's
+  Trap Qualification - Day 2 · Whittier Narrows Clay Shooting Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T163000Z
+DTEND:20280723T001500Z
+SUMMARY:Shooting (Shotgun) — Women's Trap Final
+DESCRIPTION:Women's Trap Final\; Men's Trap Qualification - Day 2\; Women's
+  Trap Qualification - Day 2 · Whittier Narrows Clay Shooting Center · Se
+ ssió SHO10
+LOCATION:Whittier Narrows Clay Shooting Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Shooting (Shotgun) — Mixed Team Trap Final
+DESCRIPTION:Mixed Team Trap Final\; Mixed Team Trap Qualification\; Men's T
+ rap Final · Whittier Narrows Clay Shooting Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T163000Z
+DTEND:20280724T234500Z
+SUMMARY:Shooting (Shotgun) — Mixed Team Trap Final
+DESCRIPTION:Mixed Team Trap Final\; Mixed Team Trap Qualification\; Men's T
+ rap Final · Whittier Narrows Clay Shooting Center · Sessió SHO12
+LOCATION:Whittier Narrows Clay Shooting Center
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Cycling Road (Road Race)
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-crd02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Cycling Road (Road Race) — Women's Road Race
+DESCRIPTION:Women's Road Race · Venice Beach Boardwalk (Start) / Griffith 
+ Observatory (Finish)
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-crd02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T183000Z
+DTEND:20280722T231500Z
+SUMMARY:Cycling Road (Road Race) — Women's Road Race
+DESCRIPTION:Women's Road Race · Venice Beach Boardwalk (Start) / Griffith 
+ Observatory (Finish) · Sessió CRD02
+LOCATION:Venice Beach Boardwalk (Start) / Griffith Observatory (Finish)
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-crd03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Cycling Road (Road Race) — Men's Road Race
+DESCRIPTION:Men's Road Race · Venice Beach Boardwalk (Start) / Griffith Ob
+ servatory (Finish)
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-crd03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T160000Z
+DTEND:20280723T231500Z
+SUMMARY:Cycling Road (Road Race) — Men's Road Race
+DESCRIPTION:Men's Road Race · Venice Beach Boardwalk (Start) / Griffith Ob
+ servatory (Finish) · Sessió CRD03
+LOCATION:Venice Beach Boardwalk (Start) / Griffith Observatory (Finish)
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Sailing (Windsurfing & Kite)
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Sailing (Windsurfing & Kite) — Women's Kite Qualification Series 
+ - Day 1
+DESCRIPTION:Women's Kite Qualification Series - Day 1\; Men's Kite Qualific
+ ation Series - Day 1\; Men's Gold Medal Match · Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T210000Z
+DTEND:20280717T030000Z
+SUMMARY:Sailing (Windsurfing & Kite) — Women's Kite Qualification Series 
+ - Day 1
+DESCRIPTION:Women's Kite Qualification Series - Day 1\; Men's Kite Qualific
+ ation Series - Day 1\; Men's Gold Medal Match · Belmont Shore · Sessió 
+ SAL01
+LOCATION:Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Sailing (Windsurfing & Kite) — Men's Kite Qualification Series - 
+ Day 2
+DESCRIPTION:Men's Kite Qualification Series - Day 2\; Women's Windsurfing Q
+ ualification Series - Day 1\; Men's Windsurfing Qualification Series - Day
+  1\; Women's Kite Qualification Series - Day 2 · Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T210000Z
+DTEND:20280718T030000Z
+SUMMARY:Sailing (Windsurfing & Kite) — Men's Kite Qualification Series - 
+ Day 2
+DESCRIPTION:Men's Kite Qualification Series - Day 2\; Women's Windsurfing Q
+ ualification Series - Day 1\; Men's Windsurfing Qualification Series - Day
+  1\; Women's Kite Qualification Series - Day 2 · Belmont Shore · Sessió
+  SAL02
+LOCATION:Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Sailing (Windsurfing & Kite) — Men's Kite Qualification Series - 
+ Day 3
+DESCRIPTION:Men's Kite Qualification Series - Day 3\; Women's Windsurfing Q
+ ualification Series - Day 2\; Men's Windsurfing Qualification Series - Day
+  2\; Women's Kite Qualification Series - Day 3 · Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T210000Z
+DTEND:20280719T030000Z
+SUMMARY:Sailing (Windsurfing & Kite) — Men's Kite Qualification Series - 
+ Day 3
+DESCRIPTION:Men's Kite Qualification Series - Day 3\; Women's Windsurfing Q
+ ualification Series - Day 2\; Men's Windsurfing Qualification Series - Day
+  2\; Women's Kite Qualification Series - Day 3 · Belmont Shore · Sessió
+  SAL03
+LOCATION:Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Sailing (Windsurfing & Kite) — Men's Kite Finals
+DESCRIPTION:Men's Kite Finals\; Women's Windsurfing Qualification Series - 
+ Day 3\; Men's Windsurfing Qualification Series - Day 3 · Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T210000Z
+DTEND:20280720T030000Z
+SUMMARY:Sailing (Windsurfing & Kite) — Men's Kite Finals
+DESCRIPTION:Men's Kite Finals\; Women's Windsurfing Qualification Series - 
+ Day 3\; Men's Windsurfing Qualification Series - Day 3 · Belmont Shore ·
+  Sessió SAL04
+LOCATION:Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Sailing (Windsurfing & Kite) — Women's Windsurfing Finals
+DESCRIPTION:Women's Windsurfing Finals\; Men's Windsurfing Finals\; Women's
+  Kite Finals · Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T210000Z
+DTEND:20280721T000000Z
+SUMMARY:Sailing (Windsurfing & Kite) — Women's Windsurfing Finals
+DESCRIPTION:Women's Windsurfing Finals\; Men's Windsurfing Finals\; Women's
+  Kite Finals · Belmont Shore · Sessió SAL05
+LOCATION:Belmont Shore
+END:VEVENT
+END:VCALENDAR

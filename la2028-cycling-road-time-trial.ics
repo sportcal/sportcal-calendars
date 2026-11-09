@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Cycling Road (Time Trial)
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-crd01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Cycling Road (Time Trial) — Women's Individual Time Trial
+DESCRIPTION:Women's Individual Time Trial\; Men's Individual Time Trial · 
+ LA Zoo (Start) / Griffith Observatory (Finish)
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-crd01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T173000Z
+DTEND:20280719T213500Z
+SUMMARY:Cycling Road (Time Trial) — Women's Individual Time Trial
+DESCRIPTION:Women's Individual Time Trial\; Men's Individual Time Trial · 
+ LA Zoo (Start) / Griffith Observatory (Finish) · Sessió CRD01
+LOCATION:LA Zoo (Start) / Griffith Observatory (Finish)
+END:VEVENT
+END:VCALENDAR

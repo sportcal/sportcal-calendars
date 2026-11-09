@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Rhythmic Gymnastics
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Rhythmic Gymnastics — Individual All-Around Qualification - 1 of 
+ 2
+DESCRIPTION:Individual All-Around Qualification - 1 of 2 · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T193000Z
+DTEND:20280727T224500Z
+SUMMARY:Rhythmic Gymnastics — Individual All-Around Qualification - 1 of 
+ 2
+DESCRIPTION:Individual All-Around Qualification - 1 of 2 · Galen Center ·
+  Sessió GRY01
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Rhythmic Gymnastics — Individual All-Around Qualification - 2 of 
+ 2
+DESCRIPTION:Individual All-Around Qualification - 2 of 2 · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T003000Z
+DTEND:20280728T034500Z
+SUMMARY:Rhythmic Gymnastics — Individual All-Around Qualification - 2 of 
+ 2
+DESCRIPTION:Individual All-Around Qualification - 2 of 2 · Galen Center ·
+  Sessió GRY02
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Rhythmic Gymnastics — Group All-Around Qualification
+DESCRIPTION:Group All-Around Qualification · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T200000Z
+DTEND:20280728T224500Z
+SUMMARY:Rhythmic Gymnastics — Group All-Around Qualification
+DESCRIPTION:Group All-Around Qualification · Galen Center · Sessió GRY03
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Rhythmic Gymnastics — Individual All-Around Final
+DESCRIPTION:Individual All-Around Final · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T010000Z
+DTEND:20280729T034500Z
+SUMMARY:Rhythmic Gymnastics — Individual All-Around Final
+DESCRIPTION:Individual All-Around Final · Galen Center · Sessió GRY04
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Rhythmic Gymnastics — Group All-Around Final
+DESCRIPTION:Group All-Around Final · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-gry05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T200000Z
+DTEND:20280729T214500Z
+SUMMARY:Rhythmic Gymnastics — Group All-Around Final
+DESCRIPTION:Group All-Around Final · Galen Center · Sessió GRY05
+LOCATION:Galen Center
+END:VEVENT
+END:VCALENDAR

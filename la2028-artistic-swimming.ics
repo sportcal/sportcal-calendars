@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Artistic Swimming
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Artistic Swimming — Women's Duet Technical
+DESCRIPTION:Women's Duet Technical · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T180000Z
+DTEND:20280725T200000Z
+SUMMARY:Artistic Swimming — Women's Duet Technical
+DESCRIPTION:Women's Duet Technical · Long Beach Aquatics Center · Sessió
+  SWA01
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Artistic Swimming — Women's Duet Free
+DESCRIPTION:Women's Duet Free · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T180000Z
+DTEND:20280726T201500Z
+SUMMARY:Artistic Swimming — Women's Duet Free
+DESCRIPTION:Women's Duet Free · Long Beach Aquatics Center · Sessió SWA0
+ 2
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Artistic Swimming — Open Team Technical
+DESCRIPTION:Open Team Technical · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T180000Z
+DTEND:20280727T193000Z
+SUMMARY:Artistic Swimming — Open Team Technical
+DESCRIPTION:Open Team Technical · Long Beach Aquatics Center · Sessió SW
+ A03
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Artistic Swimming — Open Team Free
+DESCRIPTION:Open Team Free · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T180000Z
+DTEND:20280728T193000Z
+SUMMARY:Artistic Swimming — Open Team Free
+DESCRIPTION:Open Team Free · Long Beach Aquatics Center · Sessió SWA04
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Artistic Swimming — Open Team Acrobatic
+DESCRIPTION:Open Team Acrobatic\; Women's 100m Preliminary\; Men's 100m Pre
+ liminary · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swa05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T174500Z
+DTEND:20280729T193000Z
+SUMMARY:Artistic Swimming — Open Team Acrobatic
+DESCRIPTION:Open Team Acrobatic\; Women's 100m Preliminary\; Men's 100m Pre
+ liminary · Long Beach Aquatics Center · Sessió SWA05
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+END:VCALENDAR

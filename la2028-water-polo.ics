@@ -1,0 +1,520 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Water Polo
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280712T170000Z
+DTEND:20280712T200000Z
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO01
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280712T213000Z
+DTEND:20280713T003000Z
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO02
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280713T020000Z
+DTEND:20280713T050000Z
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO03
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280713T170000Z
+DTEND:20280713T200000Z
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO04
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280713T213000Z
+DTEND:20280714T003000Z
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO05
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280714T020000Z
+DTEND:20280714T050000Z
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO06
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T170000Z
+DTEND:20280715T200000Z
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO07
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T213000Z
+DTEND:20280716T003000Z
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO08
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T020000Z
+DTEND:20280716T050000Z
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO09
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T170000Z
+DTEND:20280716T200000Z
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO10
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T213000Z
+DTEND:20280717T003000Z
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO11
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T020000Z
+DTEND:20280717T050000Z
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO12
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T170000Z
+DTEND:20280717T200000Z
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO13
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T213000Z
+DTEND:20280718T003000Z
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO14
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T020000Z
+DTEND:20280718T050000Z
+SUMMARY:Water Polo — Men's Preliminary (2 Matches)
+DESCRIPTION:Men's Preliminary (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO15
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T170000Z
+DTEND:20280718T200000Z
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO16
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T213000Z
+DTEND:20280719T003000Z
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO17
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo18-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo18@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T020000Z
+DTEND:20280719T050000Z
+SUMMARY:Water Polo — Women's Preliminary (2 Matches)
+DESCRIPTION:Women's Preliminary (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO18
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo19-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Water Polo — Men's Quarterfinal (2 Matches)
+DESCRIPTION:Men's Quarterfinal (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo19@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T183000Z
+DTEND:20280719T213000Z
+SUMMARY:Water Polo — Men's Quarterfinal (2 Matches)
+DESCRIPTION:Men's Quarterfinal (2 Matches) · Long Beach Aquatics Center ·
+  Sessió WPO19
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo20-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Water Polo — Men's Quarterfinal (2 Matches)
+DESCRIPTION:Men's Quarterfinal (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo20@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T000000Z
+DTEND:20280720T030000Z
+SUMMARY:Water Polo — Men's Quarterfinal (2 Matches)
+DESCRIPTION:Men's Quarterfinal (2 Matches) · Long Beach Aquatics Center ·
+  Sessió WPO20
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo21-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Water Polo — Women's Quarterfinal (2 Matches)
+DESCRIPTION:Women's Quarterfinal (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo21@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T183000Z
+DTEND:20280720T213000Z
+SUMMARY:Water Polo — Women's Quarterfinal (2 Matches)
+DESCRIPTION:Women's Quarterfinal (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO21
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo22-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Water Polo — Women's Quarterfinal (2 Matches)
+DESCRIPTION:Women's Quarterfinal (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo22@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T000000Z
+DTEND:20280721T030000Z
+SUMMARY:Water Polo — Women's Quarterfinal (2 Matches)
+DESCRIPTION:Women's Quarterfinal (2 Matches) · Long Beach Aquatics Center 
+ · Sessió WPO22
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo23-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Water Polo — Men's Semifinal (2 Matches)
+DESCRIPTION:Men's Semifinal (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo23@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T183000Z
+DTEND:20280721T213000Z
+SUMMARY:Water Polo — Men's Semifinal (2 Matches)
+DESCRIPTION:Men's Semifinal (2 Matches) · Long Beach Aquatics Center · Se
+ ssió WPO23
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo24-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Water Polo — Women's Semifinal (2 Matches)
+DESCRIPTION:Women's Semifinal (2 Matches) · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo24@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T000000Z
+DTEND:20280722T030000Z
+SUMMARY:Water Polo — Women's Semifinal (2 Matches)
+DESCRIPTION:Women's Semifinal (2 Matches) · Long Beach Aquatics Center · 
+ Sessió WPO24
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo25-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Water Polo — Men's Bronze Medal Match
+DESCRIPTION:Men's Bronze Medal Match · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo25@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T183000Z
+DTEND:20280722T200000Z
+SUMMARY:Water Polo — Men's Bronze Medal Match
+DESCRIPTION:Men's Bronze Medal Match · Long Beach Aquatics Center · Sessi
+ ó WPO25
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo26-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Water Polo — Men's Gold Medal Match
+DESCRIPTION:Men's Gold Medal Match · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo26@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T220000Z
+DTEND:20280723T000000Z
+SUMMARY:Water Polo — Men's Gold Medal Match
+DESCRIPTION:Men's Gold Medal Match · Long Beach Aquatics Center · Sessió
+  WPO26
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo27-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Water Polo — Women's Bronze Medal Match
+DESCRIPTION:Women's Bronze Medal Match · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo27@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T183000Z
+DTEND:20280723T200000Z
+SUMMARY:Water Polo — Women's Bronze Medal Match
+DESCRIPTION:Women's Bronze Medal Match · Long Beach Aquatics Center · Ses
+ sió WPO27
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo28-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Water Polo — Women's Gold Medal Match
+DESCRIPTION:Women's Gold Medal Match · Long Beach Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wpo28@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T220000Z
+DTEND:20280724T000000Z
+SUMMARY:Water Polo — Women's Gold Medal Match
+DESCRIPTION:Women's Gold Medal Match · Long Beach Aquatics Center · Sessi
+ ó WPO28
+LOCATION:Long Beach Aquatics Center
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · BMX Racing
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bmx01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:BMX Racing — Men's Last Chance
+DESCRIPTION:Men's Last Chance\; Women's Quarterfinal\; Men's Quarterfinal\;
+  Women's Last Chance · Valley Complex 4
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bmx01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T173000Z
+DTEND:20280715T195000Z
+SUMMARY:BMX Racing — Men's Last Chance
+DESCRIPTION:Men's Last Chance\; Women's Quarterfinal\; Men's Quarterfinal\;
+  Women's Last Chance · Valley Complex 4 · Sessió BMX01
+LOCATION:Valley Complex 4
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bmx02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:BMX Racing — Men's Final
+DESCRIPTION:Men's Final\; Women's Semifinal\; Men's Semifinal\; Women's Fin
+ al · Valley Complex 4
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bmx02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T173000Z
+DTEND:20280716T200000Z
+SUMMARY:BMX Racing — Men's Final
+DESCRIPTION:Men's Final\; Women's Semifinal\; Men's Semifinal\; Women's Fin
+ al · Valley Complex 4 · Sessió BMX02
+LOCATION:Valley Complex 4
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Surfing
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-srf01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Surfing — Women's Round 1
+DESCRIPTION:Women's Round 1\; Men's Round 1 · Trestles State Beach
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-srf01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T143000Z
+DTEND:20280716T000000Z
+SUMMARY:Surfing — Women's Round 1
+DESCRIPTION:Women's Round 1\; Men's Round 1 · Trestles State Beach · Sess
+ ió SRF01
+LOCATION:Trestles State Beach
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-srf02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Surfing — Women's Round 2
+DESCRIPTION:Women's Round 2\; Men's Round 2 · Trestles State Beach
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-srf02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T143000Z
+DTEND:20280717T000000Z
+SUMMARY:Surfing — Women's Round 2
+DESCRIPTION:Women's Round 2\; Men's Round 2 · Trestles State Beach · Sess
+ ió SRF02
+LOCATION:Trestles State Beach
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-srf03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Surfing — Women's Round 3
+DESCRIPTION:Women's Round 3\; Men's Round 3\; Men's Quarterfinal · Trestle
+ s State Beach
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-srf03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T143000Z
+DTEND:20280718T000000Z
+SUMMARY:Surfing — Women's Round 3
+DESCRIPTION:Women's Round 3\; Men's Round 3\; Men's Quarterfinal · Trestle
+ s State Beach · Sessió SRF03
+LOCATION:Trestles State Beach
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-srf04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Surfing — Men's Bronze Medal Match
+DESCRIPTION:Men's Bronze Medal Match\; Women's Semifinal\; Women's Quarterf
+ inal\; Men's Semifinal\; Women's Bronze Medal Match\; Men's Gold Medal Mat
+ ch\; Women's Gold Medal Match · Trestles State Beach
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-srf04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T143000Z
+DTEND:20280719T010000Z
+SUMMARY:Surfing — Men's Bronze Medal Match
+DESCRIPTION:Men's Bronze Medal Match\; Women's Semifinal\; Women's Quarterf
+ inal\; Men's Semifinal\; Women's Bronze Medal Match\; Men's Gold Medal Mat
+ ch\; Women's Gold Medal Match · Trestles State Beach · Sessió SRF04
+LOCATION:Trestles State Beach
+END:VEVENT
+END:VCALENDAR

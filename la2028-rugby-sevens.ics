@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Rugby Sevens
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru701-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:Rugby Sevens — Women's Pool Play (6 Matches)
+DESCRIPTION:Women's Pool Play (6 Matches) · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru701@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280712T170000Z
+DTEND:20280712T200000Z
+SUMMARY:Rugby Sevens — Women's Pool Play (6 Matches)
+DESCRIPTION:Women's Pool Play (6 Matches) · Carson Stadium · Sessió RU70
+ 1
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru702-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:Rugby Sevens — Women's Pool Play (6 Matches)
+DESCRIPTION:Women's Pool Play (6 Matches) · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru702@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280712T230000Z
+DTEND:20280713T020000Z
+SUMMARY:Rugby Sevens — Women's Pool Play (6 Matches)
+DESCRIPTION:Women's Pool Play (6 Matches) · Carson Stadium · Sessió RU70
+ 2
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru703-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:Rugby Sevens — Women's Pool Play (6 Matches)
+DESCRIPTION:Women's Pool Play (6 Matches) · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru703@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280713T170000Z
+DTEND:20280713T200000Z
+SUMMARY:Rugby Sevens — Women's Pool Play (6 Matches)
+DESCRIPTION:Women's Pool Play (6 Matches) · Carson Stadium · Sessió RU70
+ 3
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru704-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:Rugby Sevens — Women's Quarterfinal (4 Matches)
+DESCRIPTION:Women's Quarterfinal (4 Matches)\; Women's Classification 9-12 
+ (2 Matches) · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru704@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280713T230000Z
+DTEND:20280714T020000Z
+SUMMARY:Rugby Sevens — Women's Quarterfinal (4 Matches)
+DESCRIPTION:Women's Quarterfinal (4 Matches)\; Women's Classification 9-12 
+ (2 Matches) · Carson Stadium · Sessió RU704
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru705-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Rugby Sevens — Women's Placing 9-10
+DESCRIPTION:Women's Placing 9-10\; Women's Placing 11-12\; Women's Classifi
+ cation 5-8\; Women's Semifinal (2 Matches) · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru705@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T200000Z
+DTEND:20280715T230000Z
+SUMMARY:Rugby Sevens — Women's Placing 9-10
+DESCRIPTION:Women's Placing 9-10\; Women's Placing 11-12\; Women's Classifi
+ cation 5-8\; Women's Semifinal (2 Matches) · Carson Stadium · Sessió RU
+ 705
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru706-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Rugby Sevens — Women's Bronze Medal Match
+DESCRIPTION:Women's Bronze Medal Match\; Women's Placing 5-6\; Women's Plac
+ ing 7-8 · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru706@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T020000Z
+DTEND:20280716T043000Z
+SUMMARY:Rugby Sevens — Women's Bronze Medal Match
+DESCRIPTION:Women's Bronze Medal Match\; Women's Placing 5-6\; Women's Plac
+ ing 7-8 · Carson Stadium · Sessió RU706
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru707-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Rugby Sevens — Men's Pool Play (6 Matches)
+DESCRIPTION:Men's Pool Play (6 Matches)\; Women's Gold Medal Match · Carso
+ n Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru707@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T170000Z
+DTEND:20280716T200000Z
+SUMMARY:Rugby Sevens — Men's Pool Play (6 Matches)
+DESCRIPTION:Men's Pool Play (6 Matches)\; Women's Gold Medal Match · Carso
+ n Stadium · Sessió RU707
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru708-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Rugby Sevens — Men's Pool Play (6 Matches)
+DESCRIPTION:Men's Pool Play (6 Matches) · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru708@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T230000Z
+DTEND:20280717T020000Z
+SUMMARY:Rugby Sevens — Men's Pool Play (6 Matches)
+DESCRIPTION:Men's Pool Play (6 Matches) · Carson Stadium · Sessió RU708
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru709-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Rugby Sevens — Men's Pool Play (6 Matches)
+DESCRIPTION:Men's Pool Play (6 Matches) · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru709@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T170000Z
+DTEND:20280717T200000Z
+SUMMARY:Rugby Sevens — Men's Pool Play (6 Matches)
+DESCRIPTION:Men's Pool Play (6 Matches) · Carson Stadium · Sessió RU709
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru710-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Rugby Sevens — Men's Quarterfinal (4 Matches)
+DESCRIPTION:Men's Quarterfinal (4 Matches)\; Men's Classification 9-12 (2 M
+ atches) · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru710@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T230000Z
+DTEND:20280718T020000Z
+SUMMARY:Rugby Sevens — Men's Quarterfinal (4 Matches)
+DESCRIPTION:Men's Quarterfinal (4 Matches)\; Men's Classification 9-12 (2 M
+ atches) · Carson Stadium · Sessió RU710
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru711-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Rugby Sevens — Men's Placing 9-10
+DESCRIPTION:Men's Placing 9-10\; Men's Placing 11-12\; Men's Classification
+  5-8\; Men's Semifinal (2 Matches) · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru711@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T200000Z
+DTEND:20280718T230000Z
+SUMMARY:Rugby Sevens — Men's Placing 9-10
+DESCRIPTION:Men's Placing 9-10\; Men's Placing 11-12\; Men's Classification
+  5-8\; Men's Semifinal (2 Matches) · Carson Stadium · Sessió RU711
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru712-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Rugby Sevens — Men's Bronze Medal Match
+DESCRIPTION:Men's Bronze Medal Match\; Men's Placing 5-6\; Men's Placing 7-
+ 8 · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ru712@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T020000Z
+DTEND:20280719T043000Z
+SUMMARY:Rugby Sevens — Men's Bronze Medal Match
+DESCRIPTION:Men's Bronze Medal Match\; Men's Placing 5-6\; Men's Placing 7-
+ 8 · Carson Stadium · Sessió RU712
+LOCATION:Carson Stadium
+END:VEVENT
+END:VCALENDAR

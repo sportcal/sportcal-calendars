@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Rowing Coastal Beach Sprints
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-rcb01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Rowing Coastal Beach Sprints — Men's Solo Time Trial 2
+DESCRIPTION:Men's Solo Time Trial 2\; Women's Solo Time Trial 2\; Women's S
+ olo Time Trial 1\; Men's Solo Time Trial 1\; Women's Solo Last 16 · Belmo
+ nt Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-rcb01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T153000Z
+DTEND:20280724T191500Z
+SUMMARY:Rowing Coastal Beach Sprints — Men's Solo Time Trial 2
+DESCRIPTION:Men's Solo Time Trial 2\; Women's Solo Time Trial 2\; Women's S
+ olo Time Trial 1\; Men's Solo Time Trial 1\; Women's Solo Last 16 · Belmo
+ nt Shore · Sessió RCB01
+LOCATION:Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-rcb02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Rowing Coastal Beach Sprints — Men's Solo Final 8
+DESCRIPTION:Men's Solo Final 8\; Women's Solo Final 8\; Men's Solo Last 16 
+ · Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-rcb02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T213000Z
+DTEND:20280724T235000Z
+SUMMARY:Rowing Coastal Beach Sprints — Men's Solo Final 8
+DESCRIPTION:Men's Solo Final 8\; Women's Solo Final 8\; Men's Solo Last 16 
+ · Belmont Shore · Sessió RCB02
+LOCATION:Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-rcb03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Rowing Coastal Beach Sprints — Mixed Double Sculls Time Trial 2
+DESCRIPTION:Mixed Double Sculls Time Trial 2\; Mixed Double Sculls Time Tri
+ al 1\; Mixed Double Sculls Last 16 · Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-rcb03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T170000Z
+DTEND:20280725T185000Z
+SUMMARY:Rowing Coastal Beach Sprints — Mixed Double Sculls Time Trial 2
+DESCRIPTION:Mixed Double Sculls Time Trial 2\; Mixed Double Sculls Time Tri
+ al 1\; Mixed Double Sculls Last 16 · Belmont Shore · Sessió RCB03
+LOCATION:Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-rcb04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Rowing Coastal Beach Sprints — Mixed Double Sculls Final 8
+DESCRIPTION:Mixed Double Sculls Final 8 · Belmont Shore
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-rcb04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T210000Z
+DTEND:20280725T222000Z
+SUMMARY:Rowing Coastal Beach Sprints — Mixed Double Sculls Final 8
+DESCRIPTION:Mixed Double Sculls Final 8 · Belmont Shore · Sessió RCB04
+LOCATION:Belmont Shore
+END:VEVENT
+END:VCALENDAR

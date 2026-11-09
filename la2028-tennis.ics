@@ -1,0 +1,773 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Tennis
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Tennis — Mixed Doubles Round 1 (3 Matches)
+DESCRIPTION:Mixed Doubles Round 1 (3 Matches)\; Women's +67kg Gold Medal Co
+ ntest · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T180000Z
+DTEND:20280719T233000Z
+SUMMARY:Tennis — Mixed Doubles Round 1 (3 Matches)
+DESCRIPTION:Mixed Doubles Round 1 (3 Matches)\; Women's +67kg Gold Medal Co
+ ntest · Carson Center Court · Sessió TEN01
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Tennis — Mixed Doubles Round 1 (3 Matches)
+DESCRIPTION:Mixed Doubles Round 1 (3 Matches) · Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T180000Z
+DTEND:20280719T233000Z
+SUMMARY:Tennis — Mixed Doubles Round 1 (3 Matches)
+DESCRIPTION:Mixed Doubles Round 1 (3 Matches) · Carson Court 1 · Sessió 
+ TEN02
+LOCATION:Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Tennis — Mixed Doubles Round 1 (2 Matches)
+DESCRIPTION:Mixed Doubles Round 1 (2 Matches) · Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T180000Z
+DTEND:20280719T233000Z
+SUMMARY:Tennis — Mixed Doubles Round 1 (2 Matches)
+DESCRIPTION:Mixed Doubles Round 1 (2 Matches) · Carson Court 2 · Sessió 
+ TEN03
+LOCATION:Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Tennis — Mixed Doubles Quarterfinal (2 Matches)
+DESCRIPTION:Mixed Doubles Quarterfinal (2 Matches) · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T013000Z
+DTEND:20280720T063000Z
+SUMMARY:Tennis — Mixed Doubles Quarterfinal (2 Matches)
+DESCRIPTION:Mixed Doubles Quarterfinal (2 Matches) · Carson Center Court 
+ · Sessió TEN04
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Tennis — Mixed Doubles Quarterfinal (2 Matches)
+DESCRIPTION:Mixed Doubles Quarterfinal (2 Matches) · Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T013000Z
+DTEND:20280720T063000Z
+SUMMARY:Tennis — Mixed Doubles Quarterfinal (2 Matches)
+DESCRIPTION:Mixed Doubles Quarterfinal (2 Matches) · Carson Court 1 · Ses
+ sió TEN05
+LOCATION:Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Tennis — Mixed Doubles Semifinal (2 Matches)
+DESCRIPTION:Mixed Doubles Semifinal (2 Matches) · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T180000Z
+DTEND:20280720T233000Z
+SUMMARY:Tennis — Mixed Doubles Semifinal (2 Matches)
+DESCRIPTION:Mixed Doubles Semifinal (2 Matches) · Carson Center Court · S
+ essió TEN06
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T180000Z
+DTEND:20280721T030000Z
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Court 1 · Sessi
+ ó TEN07
+LOCATION:Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T180000Z
+DTEND:20280721T030000Z
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Court 2 · Sessi
+ ó TEN08
+LOCATION:Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Courts 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T180000Z
+DTEND:20280721T030000Z
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Courts 3-10 · S
+ essió TEN09
+LOCATION:Carson Courts 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Tennis — Mixed Doubles Gold Medal Match
+DESCRIPTION:Mixed Doubles Gold Medal Match\; Mixed Doubles Bronze Medal Mat
+ ch · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T013000Z
+DTEND:20280720T070000Z
+SUMMARY:Tennis — Mixed Doubles Gold Medal Match
+DESCRIPTION:Mixed Doubles Gold Medal Match\; Mixed Doubles Bronze Medal Mat
+ ch · Carson Center Court · Sessió TEN10
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T180000Z
+DTEND:20280721T233000Z
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Center Court · 
+ Sessió TEN11
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 1 · Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T180000Z
+DTEND:20280722T030000Z
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 1 · Carson Court 1 · Sessió TEN12
+LOCATION:Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 1 · Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T180000Z
+DTEND:20280722T030000Z
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 1 · Carson Court 2 · Sessió TEN13
+LOCATION:Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 1 · Carson Courts 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T180000Z
+DTEND:20280722T030000Z
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 1 · Carson Courts 3-10 · Sessió TEN14
+LOCATION:Carson Courts 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T013000Z
+DTEND:20280722T063000Z
+SUMMARY:Tennis — Men's and/or Women's Singles Round 1
+DESCRIPTION:Men's and/or Women's Singles Round 1 · Carson Center Court · 
+ Sessió TEN15
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Tennis — Men's and/or Women's Singles Round 2
+DESCRIPTION:Men's and/or Women's Singles Round 2 · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T180000Z
+DTEND:20280722T233000Z
+SUMMARY:Tennis — Men's and/or Women's Singles Round 2
+DESCRIPTION:Men's and/or Women's Singles Round 2 · Carson Center Court · 
+ Sessió TEN16
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 2 · Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T180000Z
+DTEND:20280723T030000Z
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 2 · Carson Court 1 · Sessió TEN17
+LOCATION:Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten18-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 2 · Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten18@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T180000Z
+DTEND:20280723T030000Z
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 2 · Carson Court 2 · Sessió TEN18
+LOCATION:Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten19-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 2 · Carson Courts 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten19@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T180000Z
+DTEND:20280723T030000Z
+SUMMARY:Tennis — Men's and/or Women's Doubles Round 1
+DESCRIPTION:Men's and/or Women's Doubles Round 1\; Men's and/or Women's Sin
+ gles Round 2 · Carson Courts 3-10 · Sessió TEN19
+LOCATION:Carson Courts 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten20-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Tennis — Men's and/or Women's Singles Round 2
+DESCRIPTION:Men's and/or Women's Singles Round 2 · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten20@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T013000Z
+DTEND:20280723T063000Z
+SUMMARY:Tennis — Men's and/or Women's Singles Round 2
+DESCRIPTION:Men's and/or Women's Singles Round 2 · Carson Center Court · 
+ Sessió TEN20
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten21-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Tennis — Men's Singles Round 2 and/or Women's Singles Round 3
+DESCRIPTION:Men's Singles Round 2 and/or Women's Singles Round 3 · Carson 
+ Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten21@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T180000Z
+DTEND:20280723T233000Z
+SUMMARY:Tennis — Men's Singles Round 2 and/or Women's Singles Round 3
+DESCRIPTION:Men's Singles Round 2 and/or Women's Singles Round 3 · Carson 
+ Center Court · Sessió TEN21
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten22-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Tennis — Women's Singles Round 3
+DESCRIPTION:Women's Singles Round 3\; Men's Singles Round 2\; Men's and/or 
+ Women's Doubles Round 2 · Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten22@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T180000Z
+DTEND:20280724T030000Z
+SUMMARY:Tennis — Women's Singles Round 3
+DESCRIPTION:Women's Singles Round 3\; Men's Singles Round 2\; Men's and/or 
+ Women's Doubles Round 2 · Carson Court 1 · Sessió TEN22
+LOCATION:Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten23-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Tennis — Women's Singles Round 3
+DESCRIPTION:Women's Singles Round 3\; Men's Singles Round 2\; Men's and/or 
+ Women's Doubles Round 2 · Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten23@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T180000Z
+DTEND:20280724T030000Z
+SUMMARY:Tennis — Women's Singles Round 3
+DESCRIPTION:Women's Singles Round 3\; Men's Singles Round 2\; Men's and/or 
+ Women's Doubles Round 2 · Carson Court 2 · Sessió TEN23
+LOCATION:Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten24-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Tennis — Women's Singles Round 3
+DESCRIPTION:Women's Singles Round 3\; Men's Singles Round 2 · Carson Court
+ s 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten24@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T180000Z
+DTEND:20280724T030000Z
+SUMMARY:Tennis — Women's Singles Round 3
+DESCRIPTION:Women's Singles Round 3\; Men's Singles Round 2 · Carson Court
+ s 3-10 · Sessió TEN24
+LOCATION:Carson Courts 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten25-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Tennis — Men's Singles Round 2 and/or Women's Singles Round 3
+DESCRIPTION:Men's Singles Round 2 and/or Women's Singles Round 3\; Men's an
+ d/or Women's Doubles Round 2 · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten25@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T013000Z
+DTEND:20280724T063000Z
+SUMMARY:Tennis — Men's Singles Round 2 and/or Women's Singles Round 3
+DESCRIPTION:Men's Singles Round 2 and/or Women's Singles Round 3\; Men's an
+ d/or Women's Doubles Round 2 · Carson Center Court · Sessió TEN25
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten26-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Tennis — Men's Singles Round 3 and/or Women's Singles Quarterfina
+ l
+DESCRIPTION:Men's Singles Round 3 and/or Women's Singles Quarterfinal · Ca
+ rson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten26@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T180000Z
+DTEND:20280724T233000Z
+SUMMARY:Tennis — Men's Singles Round 3 and/or Women's Singles Quarterfina
+ l
+DESCRIPTION:Men's Singles Round 3 and/or Women's Singles Quarterfinal · Ca
+ rson Center Court · Sessió TEN26
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten27-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Tennis — Men's Doubles Quarterfinal and/or
+DESCRIPTION:Men's Doubles Quarterfinal and/or\; Women's Singles Quarterfina
+ l and/or\; Men's Singles Round 3 and/or\; Women's Doubles Round 2 · Carso
+ n Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten27@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T180000Z
+DTEND:20280725T030000Z
+SUMMARY:Tennis — Men's Doubles Quarterfinal and/or
+DESCRIPTION:Men's Doubles Quarterfinal and/or\; Women's Singles Quarterfina
+ l and/or\; Men's Singles Round 3 and/or\; Women's Doubles Round 2 · Carso
+ n Court 1 · Sessió TEN27
+LOCATION:Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten28-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Tennis — Men's Doubles Quarterfinal and/or
+DESCRIPTION:Men's Doubles Quarterfinal and/or\; Women's Singles Quarterfina
+ l and/or\; Men's Singles Round 3 and/or\; Women's Doubles Round 2 · Carso
+ n Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten28@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T180000Z
+DTEND:20280725T030000Z
+SUMMARY:Tennis — Men's Doubles Quarterfinal and/or
+DESCRIPTION:Men's Doubles Quarterfinal and/or\; Women's Singles Quarterfina
+ l and/or\; Men's Singles Round 3 and/or\; Women's Doubles Round 2 · Carso
+ n Court 2 · Sessió TEN28
+LOCATION:Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten29-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Tennis — Men's Doubles Quarterfinal and/or
+DESCRIPTION:Men's Doubles Quarterfinal and/or\; Women's Singles Quarterfina
+ l and/or\; Men's Singles Round 3 and/or · Carson Courts 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten29@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T180000Z
+DTEND:20280725T030000Z
+SUMMARY:Tennis — Men's Doubles Quarterfinal and/or
+DESCRIPTION:Men's Doubles Quarterfinal and/or\; Women's Singles Quarterfina
+ l and/or\; Men's Singles Round 3 and/or · Carson Courts 3-10 · Sessió T
+ EN29
+LOCATION:Carson Courts 3-10
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten30-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Tennis — Men's Singles Round 3 and/or Women's Singles Quarterfina
+ l
+DESCRIPTION:Men's Singles Round 3 and/or Women's Singles Quarterfinal\; Wom
+ en's Doubles Round 2 · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten30@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T013000Z
+DTEND:20280725T063000Z
+SUMMARY:Tennis — Men's Singles Round 3 and/or Women's Singles Quarterfina
+ l
+DESCRIPTION:Men's Singles Round 3 and/or Women's Singles Quarterfinal\; Wom
+ en's Doubles Round 2 · Carson Center Court · Sessió TEN30
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten31-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Tennis — Women's Singles Semifinal
+DESCRIPTION:Women's Singles Semifinal\; Men's Singles Quarterfinal · Carso
+ n Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten31@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T180000Z
+DTEND:20280725T233000Z
+SUMMARY:Tennis — Women's Singles Semifinal
+DESCRIPTION:Women's Singles Semifinal\; Men's Singles Quarterfinal · Carso
+ n Center Court · Sessió TEN31
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten32-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Tennis — Men's Singles Quarterfinal
+DESCRIPTION:Men's Singles Quarterfinal\; Men's Doubles Semifinal\; Women's 
+ Doubles Quarterfinal · Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten32@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T180000Z
+DTEND:20280726T030000Z
+SUMMARY:Tennis — Men's Singles Quarterfinal
+DESCRIPTION:Men's Singles Quarterfinal\; Men's Doubles Semifinal\; Women's 
+ Doubles Quarterfinal · Carson Court 1 · Sessió TEN32
+LOCATION:Carson Court 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten33-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Tennis — Men's Singles Quarterfinal
+DESCRIPTION:Men's Singles Quarterfinal\; Men's Doubles Semifinal\; Women's 
+ Doubles Quarterfinal · Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten33@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T180000Z
+DTEND:20280726T030000Z
+SUMMARY:Tennis — Men's Singles Quarterfinal
+DESCRIPTION:Men's Singles Quarterfinal\; Men's Doubles Semifinal\; Women's 
+ Doubles Quarterfinal · Carson Court 2 · Sessió TEN33
+LOCATION:Carson Court 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten35-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Tennis — Women's Singles Semifinal
+DESCRIPTION:Women's Singles Semifinal\; Men's Singles Quarterfinal · Carso
+ n Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten35@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T013000Z
+DTEND:20280726T063000Z
+SUMMARY:Tennis — Women's Singles Semifinal
+DESCRIPTION:Women's Singles Semifinal\; Men's Singles Quarterfinal · Carso
+ n Center Court · Sessió TEN35
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten36-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Tennis — Men's Singles Semifinal and/or Women's Doubles Semifinal
+DESCRIPTION:Men's Singles Semifinal and/or Women's Doubles Semifinal · Car
+ son Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten36@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T180000Z
+DTEND:20280726T233000Z
+SUMMARY:Tennis — Men's Singles Semifinal and/or Women's Doubles Semifinal
+DESCRIPTION:Men's Singles Semifinal and/or Women's Doubles Semifinal · Car
+ son Center Court · Sessió TEN36
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten37-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Tennis — Men's Singles Semifinal and/or Women's Doubles Semifinal
+DESCRIPTION:Men's Singles Semifinal and/or Women's Doubles Semifinal · Car
+ son Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten37@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T013000Z
+DTEND:20280727T063000Z
+SUMMARY:Tennis — Men's Singles Semifinal and/or Women's Doubles Semifinal
+DESCRIPTION:Men's Singles Semifinal and/or Women's Doubles Semifinal · Car
+ son Center Court · Sessió TEN37
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten38-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Tennis — Women's Singles Gold Medal Match
+DESCRIPTION:Women's Singles Gold Medal Match\; Women's Singles Bronze Medal
+  Match · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten38@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T180000Z
+DTEND:20280727T233000Z
+SUMMARY:Tennis — Women's Singles Gold Medal Match
+DESCRIPTION:Women's Singles Gold Medal Match\; Women's Singles Bronze Medal
+  Match · Carson Center Court · Sessió TEN38
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten39-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Tennis — Men's Doubles Gold Medal Match
+DESCRIPTION:Men's Doubles Gold Medal Match\; Men's Doubles Bronze Medal Mat
+ ch · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten39@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T013000Z
+DTEND:20280727T070000Z
+SUMMARY:Tennis — Men's Doubles Gold Medal Match
+DESCRIPTION:Men's Doubles Gold Medal Match\; Men's Doubles Bronze Medal Mat
+ ch · Carson Center Court · Sessió TEN39
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten40-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Tennis — Men's Singles Gold Medal Match
+DESCRIPTION:Men's Singles Gold Medal Match\; Men's Singles Bronze Medal Mat
+ ch · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten40@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T180000Z
+DTEND:20280728T233000Z
+SUMMARY:Tennis — Men's Singles Gold Medal Match
+DESCRIPTION:Men's Singles Gold Medal Match\; Men's Singles Bronze Medal Mat
+ ch · Carson Center Court · Sessió TEN40
+LOCATION:Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten41-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Tennis — Women's Doubles Gold Medal Match
+DESCRIPTION:Women's Doubles Gold Medal Match\; Women's Doubles Bronze Medal
+  Match · Carson Center Court
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ten41@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T013000Z
+DTEND:20280728T070000Z
+SUMMARY:Tennis — Women's Doubles Gold Medal Match
+DESCRIPTION:Women's Doubles Gold Medal Match\; Women's Doubles Bronze Medal
+  Match · Carson Center Court · Sessió TEN41
+LOCATION:Carson Center Court
+END:VEVENT
+END:VCALENDAR

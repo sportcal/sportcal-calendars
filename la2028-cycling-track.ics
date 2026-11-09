@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Cycling Track
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Cycling Track — Women's Team Sprint Qualifying
+DESCRIPTION:Women's Team Sprint Qualifying\; Men's Team Sprint Qualifying 
+ · Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T160000Z
+DTEND:20280725T170000Z
+SUMMARY:Cycling Track — Women's Team Sprint Qualifying
+DESCRIPTION:Women's Team Sprint Qualifying\; Men's Team Sprint Qualifying 
+ · Carson Velodrome · Sessió CTR01
+LOCATION:Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Cycling Track — Men's Team Pursuit Qualifying
+DESCRIPTION:Men's Team Pursuit Qualifying\; Men's Team Sprint First Round\;
+  Women's Team Sprint First Round\; Men's Team Sprint Final\; Women's Team 
+ Sprint Final · Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T190000Z
+DTEND:20280725T220000Z
+SUMMARY:Cycling Track — Men's Team Pursuit Qualifying
+DESCRIPTION:Men's Team Pursuit Qualifying\; Men's Team Sprint First Round\;
+  Women's Team Sprint First Round\; Men's Team Sprint Final\; Women's Team 
+ Sprint Final · Carson Velodrome · Sessió CTR02
+LOCATION:Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Cycling Track — Women's Keirin First Round
+DESCRIPTION:Women's Keirin First Round\; Women's Team Pursuit Qualifying\; 
+ Men's Team Pursuit First Round\; Men's Sprint Qualifying\; Women's Keirin 
+ Repechage · Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T154500Z
+DTEND:20280726T191500Z
+SUMMARY:Cycling Track — Women's Keirin First Round
+DESCRIPTION:Women's Keirin First Round\; Women's Team Pursuit Qualifying\; 
+ Men's Team Pursuit First Round\; Men's Sprint Qualifying\; Women's Keirin 
+ Repechage · Carson Velodrome · Sessió CTR03
+LOCATION:Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Cycling Track — Women's Keirin Quarterfinal
+DESCRIPTION:Women's Keirin Quarterfinal\; Men's Sprint 1/32 Final Repechage
+ \; Men's Sprint 1/32 Final\; Men's Team Pursuit Final\; Men's Sprint 1/16 
+ Final\; Men's Sprint 1/16 Final Repechage\; Women's Team Pursuit First Rou
+ nd\; Men's Omnium Scratch Race 1/4 · Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T204500Z
+DTEND:20280726T234500Z
+SUMMARY:Cycling Track — Women's Keirin Quarterfinal
+DESCRIPTION:Women's Keirin Quarterfinal\; Men's Sprint 1/32 Final Repechage
+ \; Men's Sprint 1/32 Final\; Men's Team Pursuit Final\; Men's Sprint 1/16 
+ Final\; Men's Sprint 1/16 Final Repechage\; Women's Team Pursuit First Rou
+ nd\; Men's Omnium Scratch Race 1/4 · Carson Velodrome · Sessió CTR04
+LOCATION:Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Cycling Track — Men's Omnium Elimination Race 3/4
+DESCRIPTION:Men's Omnium Elimination Race 3/4\; Men's Sprint 1/8 Final\; Me
+ n's Omnium Tempo Race 2/4\; Men's Sprint 1/8 Final Repechage\; Women's Kei
+ rin Semifinal\; Men's Sprint Quarterfinal Race 1\; Women's Keirin Final 7-
+ 12\; Women's Keirin Final 1-6\; Men's Sprint Quarterfinal Race 2\; Women's
+  Team Pursuit Final\; Men's Sprint Quarterfinal Decider\; Men's Omnium Poi
+ nts Race 4/4\; Men's Sprint Final for Places 5-8 · Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T180000Z
+DTEND:20280727T230500Z
+SUMMARY:Cycling Track — Men's Omnium Elimination Race 3/4
+DESCRIPTION:Men's Omnium Elimination Race 3/4\; Men's Sprint 1/8 Final\; Me
+ n's Omnium Tempo Race 2/4\; Men's Sprint 1/8 Final Repechage\; Women's Kei
+ rin Semifinal\; Men's Sprint Quarterfinal Race 1\; Women's Keirin Final 7-
+ 12\; Women's Keirin Final 1-6\; Men's Sprint Quarterfinal Race 2\; Women's
+  Team Pursuit Final\; Men's Sprint Quarterfinal Decider\; Men's Omnium Poi
+ nts Race 4/4\; Men's Sprint Final for Places 5-8 · Carson Velodrome · Se
+ ssió CTR05
+LOCATION:Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Cycling Track — Men's Sprint Semifinal Race 2
+DESCRIPTION:Men's Sprint Semifinal Race 2\; Women's Sprint 1/32 Final\; Wom
+ en's Sprint Qualifying\; Men's Sprint Semifinal Race 1\; Women's Sprint 1/
+ 32 Final Repechage\; Men's Sprint Semifinal Decider · Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T160000Z
+DTEND:20280728T182000Z
+SUMMARY:Cycling Track — Men's Sprint Semifinal Race 2
+DESCRIPTION:Men's Sprint Semifinal Race 2\; Women's Sprint 1/32 Final\; Wom
+ en's Sprint Qualifying\; Men's Sprint Semifinal Race 1\; Women's Sprint 1/
+ 32 Final Repechage\; Men's Sprint Semifinal Decider · Carson Velodrome ·
+  Sessió CTR06
+LOCATION:Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Cycling Track — Women's Sprint 1/16 Final
+DESCRIPTION:Women's Sprint 1/16 Final\; Men's Sprint Final Race 2\; Men's S
+ print Final Race 1\; Women's Madison Final\; Men's Sprint Final Decider\; 
+ Women's Sprint 1/16 Final Repechage · Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T200000Z
+DTEND:20280728T221500Z
+SUMMARY:Cycling Track — Women's Sprint 1/16 Final
+DESCRIPTION:Women's Sprint 1/16 Final\; Men's Sprint Final Race 2\; Men's S
+ print Final Race 1\; Women's Madison Final\; Men's Sprint Final Decider\; 
+ Women's Sprint 1/16 Final Repechage · Carson Velodrome · Sessió CTR07
+LOCATION:Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Cycling Track — Women's Sprint Quarterfinal Race 1
+DESCRIPTION:Women's Sprint Quarterfinal Race 1\; Women's Sprint 1/8 Final\;
+  Men's Keirin First Round\; Women's Sprint 1/8 Final Repechage\; Men's Mad
+ ison Final\; Men's Keirin Repechage\; Women's Sprint Quarterfinal Race 2\;
+  Women's Sprint Quarterfinal Decider\; Women's Sprint Final for Places 5-8
+ \; Women's Omnium Scratch Race 1/4 · Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T180000Z
+DTEND:20280729T213500Z
+SUMMARY:Cycling Track — Women's Sprint Quarterfinal Race 1
+DESCRIPTION:Women's Sprint Quarterfinal Race 1\; Women's Sprint 1/8 Final\;
+  Men's Keirin First Round\; Women's Sprint 1/8 Final Repechage\; Men's Mad
+ ison Final\; Men's Keirin Repechage\; Women's Sprint Quarterfinal Race 2\;
+  Women's Sprint Quarterfinal Decider\; Women's Sprint Final for Places 5-8
+ \; Women's Omnium Scratch Race 1/4 · Carson Velodrome · Sessió CTR08
+LOCATION:Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280731
+SUMMARY:Cycling Track — Women's Sprint Final Race 1
+DESCRIPTION:Women's Sprint Final Race 1\; Men's Keirin Semifinal\; Women's 
+ Sprint Semifinal Race 1\; Men's Keirin Quarterfinal\; Women's Sprint Semif
+ inal Race 2\; Women's Omnium Tempo Race 2/4\; Women's Sprint Semifinal Dec
+ ider\; Women's Omnium Elimination Race 3/4\; Women's Sprint Final Race 2\;
+  Men's Keirin Final 7-12 · Carson Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ctr09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T154500Z
+DTEND:20280730T193500Z
+SUMMARY:Cycling Track — Women's Sprint Final Race 1
+DESCRIPTION:Women's Sprint Final Race 1\; Men's Keirin Semifinal\; Women's 
+ Sprint Semifinal Race 1\; Men's Keirin Quarterfinal\; Women's Sprint Semif
+ inal Race 2\; Women's Omnium Tempo Race 2/4\; Women's Sprint Semifinal Dec
+ ider\; Women's Omnium Elimination Race 3/4\; Women's Sprint Final Race 2\;
+  Men's Keirin Final 7-12 · Carson Velodrome · Sessió CTR09
+LOCATION:Carson Velodrome
+END:VEVENT
+END:VCALENDAR

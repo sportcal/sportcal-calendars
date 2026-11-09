@@ -1,0 +1,755 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Beach Volleyball
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T160000Z
+DTEND:20280715T190000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV01
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T210000Z
+DTEND:20280716T010000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV02
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T030000Z
+DTEND:20280716T060000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV03
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T160000Z
+DTEND:20280716T190000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV04
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T210000Z
+DTEND:20280717T010000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV05
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T030000Z
+DTEND:20280717T060000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV06
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T160000Z
+DTEND:20280717T190000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV07
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T210000Z
+DTEND:20280718T010000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV08
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T030000Z
+DTEND:20280718T060000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV09
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T160000Z
+DTEND:20280718T190000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV10
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T210000Z
+DTEND:20280719T010000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV11
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T030000Z
+DTEND:20280719T060000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV12
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T160000Z
+DTEND:20280719T190000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV13
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T210000Z
+DTEND:20280720T010000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV14
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T030000Z
+DTEND:20280720T060000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV15
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T160000Z
+DTEND:20280720T190000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV16
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T210000Z
+DTEND:20280721T010000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV17
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv18-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv18@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T030000Z
+DTEND:20280721T060000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV18
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv19-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv19@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T160000Z
+DTEND:20280721T190000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV19
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv20-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv20@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T210000Z
+DTEND:20280722T010000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV20
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv21-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv21@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T030000Z
+DTEND:20280722T060000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (3 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (3 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV21
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv22-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (2 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (2 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv22@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T160000Z
+DTEND:20280722T180000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (2 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (2 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV22
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv23-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv23@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T020000Z
+DTEND:20280723T060000Z
+SUMMARY:Beach Volleyball — Men's and/or Women's Preliminaries (4 Matches)
+DESCRIPTION:Men's and/or Women's Preliminaries (4 Matches) · Alamitos Beac
+ h Stadium · Sessió VBV23
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv24-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv24@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T160000Z
+DTEND:20280723T180000Z
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium · Sessió VBV24
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv25-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv25@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T200000Z
+DTEND:20280723T220000Z
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium · Sessió VBV25
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv26-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv26@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T000000Z
+DTEND:20280724T020000Z
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium · Sessió VBV26
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv27-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv27@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T040000Z
+DTEND:20280724T060000Z
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium · Sessió VBV27
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv28-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv28@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T160000Z
+DTEND:20280724T180000Z
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium · Sessió VBV28
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv29-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv29@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T200000Z
+DTEND:20280724T220000Z
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium · Sessió VBV29
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv30-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv30@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T000000Z
+DTEND:20280725T020000Z
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium · Sessió VBV30
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv31-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv31@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T040000Z
+DTEND:20280725T060000Z
+SUMMARY:Beach Volleyball — Men's or Women's Round of 16 (2 Matches)
+DESCRIPTION:Men's or Women's Round of 16 (2 Matches) · Alamitos Beach Stad
+ ium · Sessió VBV31
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv32-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Beach Volleyball — Women's Quarterfinal
+DESCRIPTION:Women's Quarterfinal\; Men's Quarterfinal · Alamitos Beach Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv32@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T200000Z
+DTEND:20280725T220000Z
+SUMMARY:Beach Volleyball — Women's Quarterfinal
+DESCRIPTION:Women's Quarterfinal\; Men's Quarterfinal · Alamitos Beach Sta
+ dium · Sessió VBV32
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv33-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Beach Volleyball — Women's Quarterfinal
+DESCRIPTION:Women's Quarterfinal\; Men's Quarterfinal · Alamitos Beach Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv33@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T030000Z
+DTEND:20280726T050000Z
+SUMMARY:Beach Volleyball — Women's Quarterfinal
+DESCRIPTION:Women's Quarterfinal\; Men's Quarterfinal · Alamitos Beach Sta
+ dium · Sessió VBV33
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv34-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Beach Volleyball — Women's Quarterfinal
+DESCRIPTION:Women's Quarterfinal\; Men's Quarterfinal · Alamitos Beach Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv34@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T200000Z
+DTEND:20280726T220000Z
+SUMMARY:Beach Volleyball — Women's Quarterfinal
+DESCRIPTION:Women's Quarterfinal\; Men's Quarterfinal · Alamitos Beach Sta
+ dium · Sessió VBV34
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv35-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Beach Volleyball — Women's Quarterfinal
+DESCRIPTION:Women's Quarterfinal\; Men's Quarterfinal · Alamitos Beach Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv35@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T030000Z
+DTEND:20280727T050000Z
+SUMMARY:Beach Volleyball — Women's Quarterfinal
+DESCRIPTION:Women's Quarterfinal\; Men's Quarterfinal · Alamitos Beach Sta
+ dium · Sessió VBV35
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv36-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Beach Volleyball — Women's Semifinal
+DESCRIPTION:Women's Semifinal\; Men's Semifinal · Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv36@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T200000Z
+DTEND:20280727T220000Z
+SUMMARY:Beach Volleyball — Women's Semifinal
+DESCRIPTION:Women's Semifinal\; Men's Semifinal · Alamitos Beach Stadium 
+ · Sessió VBV36
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv37-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Beach Volleyball — Women's Semifinal
+DESCRIPTION:Women's Semifinal\; Men's Semifinal · Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv37@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T030000Z
+DTEND:20280728T050000Z
+SUMMARY:Beach Volleyball — Women's Semifinal
+DESCRIPTION:Women's Semifinal\; Men's Semifinal · Alamitos Beach Stadium 
+ · Sessió VBV37
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv38-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Beach Volleyball — Women's Gold Medal Match
+DESCRIPTION:Women's Gold Medal Match\; Women's Bronze Medal Match · Alamit
+ os Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv38@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T223000Z
+DTEND:20280729T013000Z
+SUMMARY:Beach Volleyball — Women's Gold Medal Match
+DESCRIPTION:Women's Gold Medal Match\; Women's Bronze Medal Match · Alamit
+ os Beach Stadium · Sessió VBV38
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv39-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Beach Volleyball — Men's Gold Medal match
+DESCRIPTION:Men's Gold Medal match\; Men's Bronze Medal Match · Alamitos B
+ each Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-vbv39@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T020000Z
+DTEND:20280730T050000Z
+SUMMARY:Beach Volleyball — Men's Gold Medal match
+DESCRIPTION:Men's Gold Medal match\; Men's Bronze Medal Match · Alamitos B
+ each Stadium · Sessió VBV39
+LOCATION:Alamitos Beach Stadium
+END:VEVENT
+END:VCALENDAR

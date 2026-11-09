@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Diving
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Diving — Women's 3m Springboard Preliminary
+DESCRIPTION:Women's 3m Springboard Preliminary\; Men's Keirin Final 1-6\; W
+ omen's Sprint Final Decider\; Women's Omnium Points Race 4/4 · Rose Bowl 
+ Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T170000Z
+DTEND:20280716T193000Z
+SUMMARY:Diving — Women's 3m Springboard Preliminary
+DESCRIPTION:Women's 3m Springboard Preliminary\; Men's Keirin Final 1-6\; W
+ omen's Sprint Final Decider\; Women's Omnium Points Race 4/4 · Rose Bowl 
+ Aquatics Center · Sessió DIV01
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Diving — Women's 3m Springboard Semifinal
+DESCRIPTION:Women's 3m Springboard Semifinal · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T170000Z
+DTEND:20280717T190000Z
+SUMMARY:Diving — Women's 3m Springboard Semifinal
+DESCRIPTION:Women's 3m Springboard Semifinal · Rose Bowl Aquatics Center 
+ · Sessió DIV02
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Diving — Women's 3m Springboard Final
+DESCRIPTION:Women's 3m Springboard Final · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T223000Z
+DTEND:20280717T234500Z
+SUMMARY:Diving — Women's 3m Springboard Final
+DESCRIPTION:Women's 3m Springboard Final · Rose Bowl Aquatics Center · Se
+ ssió DIV03
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Diving — Men's 3m Springboard Preliminary
+DESCRIPTION:Men's 3m Springboard Preliminary · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T170000Z
+DTEND:20280718T193000Z
+SUMMARY:Diving — Men's 3m Springboard Preliminary
+DESCRIPTION:Men's 3m Springboard Preliminary · Rose Bowl Aquatics Center 
+ · Sessió DIV04
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Diving — Men's 3m Springboard Semifinal
+DESCRIPTION:Men's 3m Springboard Semifinal · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T223000Z
+DTEND:20280719T003000Z
+SUMMARY:Diving — Men's 3m Springboard Semifinal
+DESCRIPTION:Men's 3m Springboard Semifinal · Rose Bowl Aquatics Center · 
+ Sessió DIV05
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Diving — Men's 3m Springboard Final
+DESCRIPTION:Men's 3m Springboard Final · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T223000Z
+DTEND:20280719T234500Z
+SUMMARY:Diving — Men's 3m Springboard Final
+DESCRIPTION:Men's 3m Springboard Final · Rose Bowl Aquatics Center · Sess
+ ió DIV06
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Diving — Women's 10m Platform Preliminary
+DESCRIPTION:Women's 10m Platform Preliminary · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T170000Z
+DTEND:20280720T193000Z
+SUMMARY:Diving — Women's 10m Platform Preliminary
+DESCRIPTION:Women's 10m Platform Preliminary · Rose Bowl Aquatics Center 
+ · Sessió DIV07
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Diving — Women's 10m Platform Semifinal
+DESCRIPTION:Women's 10m Platform Semifinal · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T223000Z
+DTEND:20280721T003000Z
+SUMMARY:Diving — Women's 10m Platform Semifinal
+DESCRIPTION:Women's 10m Platform Semifinal · Rose Bowl Aquatics Center · 
+ Sessió DIV08
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Diving — Men's 10m Platform Preliminary
+DESCRIPTION:Men's 10m Platform Preliminary · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T170000Z
+DTEND:20280721T193000Z
+SUMMARY:Diving — Men's 10m Platform Preliminary
+DESCRIPTION:Men's 10m Platform Preliminary · Rose Bowl Aquatics Center · 
+ Sessió DIV09
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Diving — Women's 10m Platform Final
+DESCRIPTION:Women's 10m Platform Final · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T223000Z
+DTEND:20280721T234500Z
+SUMMARY:Diving — Women's 10m Platform Final
+DESCRIPTION:Women's 10m Platform Final · Rose Bowl Aquatics Center · Sess
+ ió DIV10
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Diving — Men's 10m Platform Semifinal
+DESCRIPTION:Men's 10m Platform Semifinal · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T170000Z
+DTEND:20280722T190000Z
+SUMMARY:Diving — Men's 10m Platform Semifinal
+DESCRIPTION:Men's 10m Platform Semifinal · Rose Bowl Aquatics Center · Se
+ ssió DIV11
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Diving — Men's 10m Platform Final
+DESCRIPTION:Men's 10m Platform Final · Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T223000Z
+DTEND:20280722T234500Z
+SUMMARY:Diving — Men's 10m Platform Final
+DESCRIPTION:Men's 10m Platform Final · Rose Bowl Aquatics Center · Sessi
+ ó DIV12
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Diving — Women's Synchronized 3m Springboard Final
+DESCRIPTION:Women's Synchronized 3m Springboard Final · Rose Bowl Aquatics
+  Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T183000Z
+DTEND:20280725T193000Z
+SUMMARY:Diving — Women's Synchronized 3m Springboard Final
+DESCRIPTION:Women's Synchronized 3m Springboard Final · Rose Bowl Aquatics
+  Center · Sessió DIV13
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Diving — Men's Synchronized 3m Springboard Final
+DESCRIPTION:Men's Synchronized 3m Springboard Final · Rose Bowl Aquatics C
+ enter
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T210000Z
+DTEND:20280726T220000Z
+SUMMARY:Diving — Men's Synchronized 3m Springboard Final
+DESCRIPTION:Men's Synchronized 3m Springboard Final · Rose Bowl Aquatics C
+ enter · Sessió DIV14
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Diving — Women's Synchronized 10m Platform Final
+DESCRIPTION:Women's Synchronized 10m Platform Final · Rose Bowl Aquatics C
+ enter
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T210000Z
+DTEND:20280727T220000Z
+SUMMARY:Diving — Women's Synchronized 10m Platform Final
+DESCRIPTION:Women's Synchronized 10m Platform Final · Rose Bowl Aquatics C
+ enter · Sessió DIV15
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Diving — Men's Synchronized 10m Platform Final
+DESCRIPTION:Men's Synchronized 10m Platform Final · Rose Bowl Aquatics Cen
+ ter
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-div16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T230000Z
+DTEND:20280729T000000Z
+SUMMARY:Diving — Men's Synchronized 10m Platform Final
+DESCRIPTION:Men's Synchronized 10m Platform Final · Rose Bowl Aquatics Cen
+ ter · Sessió DIV16
+LOCATION:Rose Bowl Aquatics Center
+END:VEVENT
+END:VCALENDAR

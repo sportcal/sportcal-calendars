@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Sailing (Dinghy\, Skiff & Multihull)
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Women's Dinghy Qualificati
+ on Series - Day 1
+DESCRIPTION:Women's Dinghy Qualification Series - Day 1\; Men's Dinghy Qual
+ ification Series - Day 1 · Port of Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T210000Z
+DTEND:20280724T030000Z
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Women's Dinghy Qualificati
+ on Series - Day 1
+DESCRIPTION:Women's Dinghy Qualification Series - Day 1\; Men's Dinghy Qual
+ ification Series - Day 1 · Port of Los Angeles · Sessió SAL06
+LOCATION:Port of Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Mixed Dinghy Qualification
+  Series - Day 1
+DESCRIPTION:Mixed Dinghy Qualification Series - Day 1\; Women's Dinghy Qual
+ ification Series - Day 2\; Men's Dinghy Qualification Series - Day 2\; Mix
+ ed Multihull Qualification Series - Day 1 · Port of Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T210000Z
+DTEND:20280725T030000Z
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Mixed Dinghy Qualification
+  Series - Day 1
+DESCRIPTION:Mixed Dinghy Qualification Series - Day 1\; Women's Dinghy Qual
+ ification Series - Day 2\; Men's Dinghy Qualification Series - Day 2\; Mix
+ ed Multihull Qualification Series - Day 1 · Port of Los Angeles · Sessi
+ ó SAL07
+LOCATION:Port of Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Women's Skiff Qualificatio
+ n Series - Day 1
+DESCRIPTION:Women's Skiff Qualification Series - Day 1\; Men's Skiff Qualif
+ ication Series - Day 1\; Men's Dinghy Qualification Series - Day 3\; Women
+ 's Dinghy Qualification Series - Day 3\; Mixed Dinghy Qualification Series
+  - Day 2\; Mixed Multihull Qualification Series - Day 2 · Port of Los Ang
+ eles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T210000Z
+DTEND:20280726T030000Z
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Women's Skiff Qualificatio
+ n Series - Day 1
+DESCRIPTION:Women's Skiff Qualification Series - Day 1\; Men's Skiff Qualif
+ ication Series - Day 1\; Men's Dinghy Qualification Series - Day 3\; Women
+ 's Dinghy Qualification Series - Day 3\; Mixed Dinghy Qualification Series
+  - Day 2\; Mixed Multihull Qualification Series - Day 2 · Port of Los Ang
+ eles · Sessió SAL08
+LOCATION:Port of Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Women's Skiff Qualificatio
+ n Series - Day 2
+DESCRIPTION:Women's Skiff Qualification Series - Day 2\; Men's Skiff Qualif
+ ication Series - Day 2\; Men's Dinghy Finals\; Women's Dinghy Finals\; Mix
+ ed Dinghy Qualification Series - Day 3 · Port of Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T210000Z
+DTEND:20280727T030000Z
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Women's Skiff Qualificatio
+ n Series - Day 2
+DESCRIPTION:Women's Skiff Qualification Series - Day 2\; Men's Skiff Qualif
+ ication Series - Day 2\; Men's Dinghy Finals\; Women's Dinghy Finals\; Mix
+ ed Dinghy Qualification Series - Day 3 · Port of Los Angeles · Sessió S
+ AL09
+LOCATION:Port of Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Mixed Dinghy Finals
+DESCRIPTION:Mixed Dinghy Finals\; Women's Skiff Qualification Series - Day 
+ 3\; Mixed Multihull Qualification Series - Day 3\; Men's Skiff Qualificati
+ on Series - Day 3\; Mixed Multihull Finals · Port of Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T210000Z
+DTEND:20280728T030000Z
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Mixed Dinghy Finals
+DESCRIPTION:Mixed Dinghy Finals\; Women's Skiff Qualification Series - Day 
+ 3\; Mixed Multihull Qualification Series - Day 3\; Men's Skiff Qualificati
+ on Series - Day 3\; Mixed Multihull Finals · Port of Los Angeles · Sessi
+ ó SAL10
+LOCATION:Port of Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Women's Skiff Finals
+DESCRIPTION:Women's Skiff Finals\; Men's Skiff Finals · Port of Los Angele
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sal11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T210000Z
+DTEND:20280729T000000Z
+SUMMARY:Sailing (Dinghy\, Skiff & Multihull) — Women's Skiff Finals
+DESCRIPTION:Women's Skiff Finals\; Men's Skiff Finals · Port of Los Angele
+ s · Sessió SAL11
+LOCATION:Port of Los Angeles
+END:VEVENT
+END:VCALENDAR

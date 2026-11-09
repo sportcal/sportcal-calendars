@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Slalom Paddle
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280715
+SUMMARY:Slalom Paddle — Women's Kayak Single Heats - 1st and 2nd Run
+DESCRIPTION:Women's Kayak Single Heats - 1st and 2nd Run\; Men's Kayak Sing
+ le Heats - 1st and 2nd Run · OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280715
+SUMMARY:Slalom Paddle — Women's Kayak Single Heats - 1st and 2nd Run · T
+ BD
+DESCRIPTION:Hora pendent de confirmació · Women's Kayak Single Heats - 1s
+ t and 2nd Run\; Men's Kayak Single Heats - 1st and 2nd Run · OKC Whitewat
+ er Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Slalom Paddle — Women's Kayak Single Final
+DESCRIPTION:Women's Kayak Single Final\; Women's Kayak Single Semifinal · 
+ OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Slalom Paddle — Women's Kayak Single Final · TBD
+DESCRIPTION:Hora pendent de confirmació · Women's Kayak Single Final\; Wo
+ men's Kayak Single Semifinal · OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Slalom Paddle — Men's Kayak Single Final
+DESCRIPTION:Men's Kayak Single Final\; Men's Kayak Single Semifinal · OKC 
+ Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Slalom Paddle — Men's Kayak Single Final · TBD
+DESCRIPTION:Hora pendent de confirmació · Men's Kayak Single Final\; Men'
+ s Kayak Single Semifinal · OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Slalom Paddle — Women's Canoe Single Heats - 1st and 2nd Run
+DESCRIPTION:Women's Canoe Single Heats - 1st and 2nd Run\; Men's Canoe Sing
+ le Heats - 1st and 2nd Run · OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Slalom Paddle — Women's Canoe Single Heats - 1st and 2nd Run · T
+ BD
+DESCRIPTION:Hora pendent de confirmació · Women's Canoe Single Heats - 1s
+ t and 2nd Run\; Men's Canoe Single Heats - 1st and 2nd Run · OKC Whitewat
+ er Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Slalom Paddle — Women's Canoe Single Final
+DESCRIPTION:Women's Canoe Single Final\; Women's Canoe Single Semifinal · 
+ OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Slalom Paddle — Women's Canoe Single Final · TBD
+DESCRIPTION:Hora pendent de confirmació · Women's Canoe Single Final\; Wo
+ men's Canoe Single Semifinal · OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Slalom Paddle — Men's Canoe Single Final
+DESCRIPTION:Men's Canoe Single Final\; Men's Canoe Single Semifinal · OKC 
+ Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Slalom Paddle — Men's Canoe Single Final · TBD
+DESCRIPTION:Hora pendent de confirmació · Men's Canoe Single Final\; Men'
+ s Canoe Single Semifinal · OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Slalom Paddle — Women's Kayak Cross Repechage
+DESCRIPTION:Women's Kayak Cross Repechage\; Men's Kayak Cross Round 1\; Wom
+ en's Kayak Cross Round 1\; Men's Kayak Cross Repechage · OKC Whitewater C
+ enter
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Slalom Paddle — Women's Kayak Cross Repechage · TBD
+DESCRIPTION:Hora pendent de confirmació · Women's Kayak Cross Repechage\;
+  Men's Kayak Cross Round 1\; Women's Kayak Cross Round 1\; Men's Kayak Cro
+ ss Repechage · OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Slalom Paddle — Women's Kayak Cross Heats
+DESCRIPTION:Women's Kayak Cross Heats\; Men's Kayak Cross Heats\; Women's K
+ ayak Cross Quarterfinal · OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Slalom Paddle — Women's Kayak Cross Heats · TBD
+DESCRIPTION:Hora pendent de confirmació · Women's Kayak Cross Heats\; Men
+ 's Kayak Cross Heats\; Women's Kayak Cross Quarterfinal · OKC Whitewater 
+ Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Slalom Paddle — Men's Kayak Cross Semifinal
+DESCRIPTION:Men's Kayak Cross Semifinal\; Women's Kayak Cross Semifinal\; M
+ en's Kayak Cross Quarterfinal\; Women's Kayak Cross Final\; Men's Kayak Cr
+ oss Final · OKC Whitewater Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csl09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Slalom Paddle — Men's Kayak Cross Semifinal · TBD
+DESCRIPTION:Hora pendent de confirmació · Men's Kayak Cross Semifinal\; W
+ omen's Kayak Cross Semifinal\; Men's Kayak Cross Quarterfinal\; Women's Ka
+ yak Cross Final\; Men's Kayak Cross Final · OKC Whitewater Center
+END:VEVENT
+END:VCALENDAR

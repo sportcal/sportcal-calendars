@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Lacrosse
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T183000Z
+DTEND:20280724T220000Z
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium · 
+ Sessió LAC01
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T013000Z
+DTEND:20280725T050000Z
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium 
+ · Sessió LAC02
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T183000Z
+DTEND:20280725T220000Z
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium · 
+ Sessió LAC03
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T013000Z
+DTEND:20280726T050000Z
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium 
+ · Sessió LAC04
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T183000Z
+DTEND:20280726T220000Z
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium · 
+ Sessió LAC05
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T013000Z
+DTEND:20280727T050000Z
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium 
+ · Sessió LAC06
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T183000Z
+DTEND:20280727T220000Z
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium · 
+ Sessió LAC07
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T013000Z
+DTEND:20280728T050000Z
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium 
+ · Sessió LAC08
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T183000Z
+DTEND:20280728T220000Z
+SUMMARY:Lacrosse — Men's Qualifying Round (3 Games)
+DESCRIPTION:Men's Qualifying Round (3 Games) · Exposition Park Stadium · 
+ Sessió LAC09
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T013000Z
+DTEND:20280729T050000Z
+SUMMARY:Lacrosse — Women's Qualifying Round (3 Games)
+DESCRIPTION:Women's Qualifying Round (3 Games) · Exposition Park Stadium 
+ · Sessió LAC10
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Lacrosse — Men's Gold Medal Game
+DESCRIPTION:Men's Gold Medal Game\; Men's Bronze Medal Game · Exposition P
+ ark Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T203000Z
+DTEND:20280729T231500Z
+SUMMARY:Lacrosse — Men's Gold Medal Game
+DESCRIPTION:Men's Gold Medal Game\; Men's Bronze Medal Game · Exposition P
+ ark Stadium · Sessió LAC11
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Lacrosse — Women's Gold Medal Game
+DESCRIPTION:Women's Gold Medal Game\; Women's Bronze Medal Game · Expositi
+ on Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-lac12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T033000Z
+DTEND:20280730T061500Z
+SUMMARY:Lacrosse — Women's Gold Medal Game
+DESCRIPTION:Women's Gold Medal Game\; Women's Bronze Medal Game · Expositi
+ on Park Stadium · Sessió LAC12
+LOCATION:Exposition Park Stadium
+END:VEVENT
+END:VCALENDAR

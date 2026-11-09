@@ -1,0 +1,356 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Judo
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Judo — Men's -60kg Elimination Rounds
+DESCRIPTION:Men's -60kg Elimination Rounds\; Women's -48kg Elimination Roun
+ ds\; Women's -48kg Repechage Contests · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T170000Z
+DTEND:20280715T210000Z
+SUMMARY:Judo — Men's -60kg Elimination Rounds
+DESCRIPTION:Men's -60kg Elimination Rounds\; Women's -48kg Elimination Roun
+ ds\; Women's -48kg Repechage Contests · LA Convention Center Hall 2 · Se
+ ssió JUD01
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Judo — Women's -48kg Bronze Contests
+DESCRIPTION:Women's -48kg Bronze Contests\; Men's -60kg Semifinal Contests\
+ ; Women's -48kg Semifinal Contests\; Men's -60kg Repechage Contests\; Wome
+ n's -48kg Final · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T230000Z
+DTEND:20280716T020000Z
+SUMMARY:Judo — Women's -48kg Bronze Contests
+DESCRIPTION:Women's -48kg Bronze Contests\; Men's -60kg Semifinal Contests\
+ ; Women's -48kg Semifinal Contests\; Men's -60kg Repechage Contests\; Wome
+ n's -48kg Final · LA Convention Center Hall 2 · Sessió JUD02
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Judo — Women's -52kg Elimination Rounds
+DESCRIPTION:Women's -52kg Elimination Rounds\; Men's -66kg Elimination Roun
+ ds\; Men's -60kg Bronze Contests\; Men's -60kg Final\; Men's -66kg Repecha
+ ge Contests · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T170000Z
+DTEND:20280716T210000Z
+SUMMARY:Judo — Women's -52kg Elimination Rounds
+DESCRIPTION:Women's -52kg Elimination Rounds\; Men's -66kg Elimination Roun
+ ds\; Men's -60kg Bronze Contests\; Men's -60kg Final\; Men's -66kg Repecha
+ ge Contests · LA Convention Center Hall 2 · Sessió JUD03
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Judo — Men's -66kg Bronze Contests
+DESCRIPTION:Men's -66kg Bronze Contests\; Women's -52kg Semifinal Contests\
+ ; Men's -66kg Semifinal Contests\; Women's -52kg Repechage Contests\; Men'
+ s -66kg Final\; Women's -52kg Bronze Contests\; Women's -52kg Final · LA 
+ Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T230000Z
+DTEND:20280717T020000Z
+SUMMARY:Judo — Men's -66kg Bronze Contests
+DESCRIPTION:Men's -66kg Bronze Contests\; Women's -52kg Semifinal Contests\
+ ; Men's -66kg Semifinal Contests\; Women's -52kg Repechage Contests\; Men'
+ s -66kg Final\; Women's -52kg Bronze Contests\; Women's -52kg Final · LA 
+ Convention Center Hall 2 · Sessió JUD04
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Judo — Men's -73kg Elimination Rounds
+DESCRIPTION:Men's -73kg Elimination Rounds\; Women's -57kg Elimination Roun
+ ds\; Women's -57kg Repechage Contests · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T170000Z
+DTEND:20280717T210000Z
+SUMMARY:Judo — Men's -73kg Elimination Rounds
+DESCRIPTION:Men's -73kg Elimination Rounds\; Women's -57kg Elimination Roun
+ ds\; Women's -57kg Repechage Contests · LA Convention Center Hall 2 · Se
+ ssió JUD05
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Judo — Women's -57kg Bronze Contests
+DESCRIPTION:Women's -57kg Bronze Contests\; Men's -73kg Semifinal Contests\
+ ; Women's -57kg Semifinal Contests\; Men's -73kg Repechage Contests\; Wome
+ n's -57kg Final · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T230000Z
+DTEND:20280718T020000Z
+SUMMARY:Judo — Women's -57kg Bronze Contests
+DESCRIPTION:Women's -57kg Bronze Contests\; Men's -73kg Semifinal Contests\
+ ; Women's -57kg Semifinal Contests\; Men's -73kg Repechage Contests\; Wome
+ n's -57kg Final · LA Convention Center Hall 2 · Sessió JUD06
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Judo — Women's -63kg Elimination Rounds
+DESCRIPTION:Women's -63kg Elimination Rounds\; Men's -81kg Elimination Roun
+ ds\; Men's -73kg Bronze Contests\; Men's -73kg Final\; Men's -81kg Repecha
+ ge Contests · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T170000Z
+DTEND:20280718T210000Z
+SUMMARY:Judo — Women's -63kg Elimination Rounds
+DESCRIPTION:Women's -63kg Elimination Rounds\; Men's -81kg Elimination Roun
+ ds\; Men's -73kg Bronze Contests\; Men's -73kg Final\; Men's -81kg Repecha
+ ge Contests · LA Convention Center Hall 2 · Sessió JUD07
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Judo — Men's -81kg Bronze Contests
+DESCRIPTION:Men's -81kg Bronze Contests\; Women's -63kg Semifinal Contests\
+ ; Men's -81kg Semifinal Contests\; Women's -63kg Repechage Contests\; Men'
+ s -81kg Final\; Women's -63kg Bronze Contests · LA Convention Center Hall
+  2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T230000Z
+DTEND:20280719T020000Z
+SUMMARY:Judo — Men's -81kg Bronze Contests
+DESCRIPTION:Men's -81kg Bronze Contests\; Women's -63kg Semifinal Contests\
+ ; Men's -81kg Semifinal Contests\; Women's -63kg Repechage Contests\; Men'
+ s -81kg Final\; Women's -63kg Bronze Contests · LA Convention Center Hall
+  2 · Sessió JUD08
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Judo — Men's -90kg Elimination Rounds
+DESCRIPTION:Men's -90kg Elimination Rounds\; Women's -70kg Elimination Roun
+ ds\; Women's -63kg Final\; Women's -70kg Repechage Contests · LA Conventi
+ on Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T170000Z
+DTEND:20280719T210000Z
+SUMMARY:Judo — Men's -90kg Elimination Rounds
+DESCRIPTION:Men's -90kg Elimination Rounds\; Women's -70kg Elimination Roun
+ ds\; Women's -63kg Final\; Women's -70kg Repechage Contests · LA Conventi
+ on Center Hall 2 · Sessió JUD09
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Judo — Women's -70kg Bronze Contests
+DESCRIPTION:Women's -70kg Bronze Contests\; Men's -90kg Semifinal Contests\
+ ; Women's -70kg Semifinal Contests\; Men's -90kg Repechage Contests\; Wome
+ n's -70kg Final\; Men's -90kg Bronze Contests · LA Convention Center Hall
+  2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T230000Z
+DTEND:20280720T020000Z
+SUMMARY:Judo — Women's -70kg Bronze Contests
+DESCRIPTION:Women's -70kg Bronze Contests\; Men's -90kg Semifinal Contests\
+ ; Women's -70kg Semifinal Contests\; Men's -90kg Repechage Contests\; Wome
+ n's -70kg Final\; Men's -90kg Bronze Contests · LA Convention Center Hall
+  2 · Sessió JUD10
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Judo — Women's -78kg Elimination Rounds
+DESCRIPTION:Women's -78kg Elimination Rounds\; Men's -100kg Elimination Rou
+ nds\; Men's -90kg Final\; Men's -100kg Repechage Contests · LA Convention
+  Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T170000Z
+DTEND:20280720T210000Z
+SUMMARY:Judo — Women's -78kg Elimination Rounds
+DESCRIPTION:Women's -78kg Elimination Rounds\; Men's -100kg Elimination Rou
+ nds\; Men's -90kg Final\; Men's -100kg Repechage Contests · LA Convention
+  Center Hall 2 · Sessió JUD11
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Judo — Men's -100kg Bronze Contests
+DESCRIPTION:Men's -100kg Bronze Contests\; Women's -78kg Semifinal Contests
+ \; Men's -100kg Semifinal Contests\; Women's -78kg Repechage Contests\; Me
+ n's -100kg Final · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T230000Z
+DTEND:20280721T020000Z
+SUMMARY:Judo — Men's -100kg Bronze Contests
+DESCRIPTION:Men's -100kg Bronze Contests\; Women's -78kg Semifinal Contests
+ \; Men's -100kg Semifinal Contests\; Women's -78kg Repechage Contests\; Me
+ n's -100kg Final · LA Convention Center Hall 2 · Sessió JUD12
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Judo — Men's +100kg Elimination Rounds
+DESCRIPTION:Men's +100kg Elimination Rounds\; Women's +78kg Elimination Rou
+ nds\; Women's -78kg Bronze Contests\; Women's -78kg Final\; Women's +78kg 
+ Repechage Contests · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T170000Z
+DTEND:20280721T210000Z
+SUMMARY:Judo — Men's +100kg Elimination Rounds
+DESCRIPTION:Men's +100kg Elimination Rounds\; Women's +78kg Elimination Rou
+ nds\; Women's -78kg Bronze Contests\; Women's -78kg Final\; Women's +78kg 
+ Repechage Contests · LA Convention Center Hall 2 · Sessió JUD13
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Judo — Women's +78kg Bronze Contests
+DESCRIPTION:Women's +78kg Bronze Contests\; Men's +100kg Semifinal Contests
+ \; Women's +78kg Semifinal Contests\; Men's +100kg Repechage Contests\; Wo
+ men's +78kg Final\; Men's +100kg Bronze Contests · LA Convention Center H
+ all 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T230000Z
+DTEND:20280722T020000Z
+SUMMARY:Judo — Women's +78kg Bronze Contests
+DESCRIPTION:Women's +78kg Bronze Contests\; Men's +100kg Semifinal Contests
+ \; Women's +78kg Semifinal Contests\; Men's +100kg Repechage Contests\; Wo
+ men's +78kg Final\; Men's +100kg Bronze Contests · LA Convention Center H
+ all 2 · Sessió JUD14
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Judo — Mixed Team Repechage Contests
+DESCRIPTION:Mixed Team Repechage Contests\; Men's +100kg Final\; Mixed Team
+  Elimination Round\; Mixed Team Semifinal Contests · LA Convention Center
+  Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T150000Z
+DTEND:20280722T210000Z
+SUMMARY:Judo — Mixed Team Repechage Contests
+DESCRIPTION:Mixed Team Repechage Contests\; Men's +100kg Final\; Mixed Team
+  Elimination Round\; Mixed Team Semifinal Contests · LA Convention Center
+  Hall 2 · Sessió JUD15
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Judo — Mixed Team Final
+DESCRIPTION:Mixed Team Final\; Mixed Team Bronze Contests · LA Convention 
+ Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-jud16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T230000Z
+DTEND:20280723T020000Z
+SUMMARY:Judo — Mixed Team Final
+DESCRIPTION:Mixed Team Final\; Mixed Team Bronze Contests · LA Convention 
+ Center Hall 2 · Sessió JUD16
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+END:VCALENDAR

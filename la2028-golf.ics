@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Golf
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Golf — Men's Individual Stroke Play Round 1
+DESCRIPTION:Men's Individual Stroke Play Round 1 · Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T160000Z
+DTEND:20280720T010000Z
+SUMMARY:Golf — Men's Individual Stroke Play Round 1
+DESCRIPTION:Men's Individual Stroke Play Round 1 · Riviera Country Club ·
+  Sessió GLF01
+LOCATION:Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Golf — Men's Individual Stroke Play Round 2
+DESCRIPTION:Men's Individual Stroke Play Round 2 · Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T160000Z
+DTEND:20280721T010000Z
+SUMMARY:Golf — Men's Individual Stroke Play Round 2
+DESCRIPTION:Men's Individual Stroke Play Round 2 · Riviera Country Club ·
+  Sessió GLF02
+LOCATION:Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Golf — Men's Individual Stroke Play Round 3
+DESCRIPTION:Men's Individual Stroke Play Round 3 · Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T160000Z
+DTEND:20280722T010000Z
+SUMMARY:Golf — Men's Individual Stroke Play Round 3
+DESCRIPTION:Men's Individual Stroke Play Round 3 · Riviera Country Club ·
+  Sessió GLF03
+LOCATION:Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Golf — Men's Individual Stroke Play Round 4
+DESCRIPTION:Men's Individual Stroke Play Round 4 · Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T160000Z
+DTEND:20280723T013000Z
+SUMMARY:Golf — Men's Individual Stroke Play Round 4
+DESCRIPTION:Men's Individual Stroke Play Round 4 · Riviera Country Club ·
+  Sessió GLF04
+LOCATION:Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Golf — Mixed Team Preliminary Round - Four-Ball (Best Ball)
+DESCRIPTION:Mixed Team Preliminary Round - Four-Ball (Best Ball) · Riviera
+  Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T170000Z
+DTEND:20280723T235500Z
+SUMMARY:Golf — Mixed Team Preliminary Round - Four-Ball (Best Ball)
+DESCRIPTION:Mixed Team Preliminary Round - Four-Ball (Best Ball) · Riviera
+  Country Club · Sessió GLF05
+LOCATION:Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Golf — Mixed Team Final Round - Foursomes (Alternate Shot)
+DESCRIPTION:Mixed Team Final Round - Foursomes (Alternate Shot) · Riviera 
+ Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T150000Z
+DTEND:20280724T210000Z
+SUMMARY:Golf — Mixed Team Final Round - Foursomes (Alternate Shot)
+DESCRIPTION:Mixed Team Final Round - Foursomes (Alternate Shot) · Riviera 
+ Country Club · Sessió GLF06
+LOCATION:Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Golf — Women's Individual Stroke Play Round 1
+DESCRIPTION:Women's Individual Stroke Play Round 1 · Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T160000Z
+DTEND:20280727T010000Z
+SUMMARY:Golf — Women's Individual Stroke Play Round 1
+DESCRIPTION:Women's Individual Stroke Play Round 1 · Riviera Country Club 
+ · Sessió GLF07
+LOCATION:Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Golf — Women's Individual Stroke Play Round 2
+DESCRIPTION:Women's Individual Stroke Play Round 2 · Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T160000Z
+DTEND:20280728T010000Z
+SUMMARY:Golf — Women's Individual Stroke Play Round 2
+DESCRIPTION:Women's Individual Stroke Play Round 2 · Riviera Country Club 
+ · Sessió GLF08
+LOCATION:Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Golf — Women's Individual Stroke Play Round 3
+DESCRIPTION:Women's Individual Stroke Play Round 3 · Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T160000Z
+DTEND:20280729T010000Z
+SUMMARY:Golf — Women's Individual Stroke Play Round 3
+DESCRIPTION:Women's Individual Stroke Play Round 3 · Riviera Country Club 
+ · Sessió GLF09
+LOCATION:Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Golf — Women's Individual Stroke Play Round 4
+DESCRIPTION:Women's Individual Stroke Play Round 4 · Riviera Country Club
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-glf10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T160000Z
+DTEND:20280730T013000Z
+SUMMARY:Golf — Women's Individual Stroke Play Round 4
+DESCRIPTION:Women's Individual Stroke Play Round 4 · Riviera Country Club 
+ · Sessió GLF10
+LOCATION:Riviera Country Club
+END:VEVENT
+END:VCALENDAR

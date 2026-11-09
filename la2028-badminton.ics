@@ -1,0 +1,530 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Badminton
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Singles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T150000Z
+DTEND:20280715T191500Z
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Singles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center · Sessió BDM01
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Doubles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T210000Z
+DTEND:20280715T233500Z
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Doubles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center · Sessió BDM02
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Badminton — Men's Singles Group Play Stage
+DESCRIPTION:Men's Singles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Doubles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T013000Z
+DTEND:20280716T060500Z
+SUMMARY:Badminton — Men's Singles Group Play Stage
+DESCRIPTION:Men's Singles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Doubles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center · Sessió BDM03
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T150000Z
+DTEND:20280716T182500Z
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center · Sessió BDM04
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T210000Z
+DTEND:20280716T233500Z
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center · Sessió BDM05
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T010000Z
+DTEND:20280717T060500Z
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center · Sessió BDM06
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T150000Z
+DTEND:20280717T182500Z
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center · Sessió BDM07
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T210000Z
+DTEND:20280717T233500Z
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center · Sessió BDM08
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T020000Z
+DTEND:20280718T060500Z
+SUMMARY:Badminton — Mixed Doubles Group Play Stage
+DESCRIPTION:Mixed Doubles Group Play Stage\; Men's Doubles Group Play Stage
+ \; Women's Doubles Group Play Stage\; Men's Singles Group Play Stage\; Wom
+ en's Singles Group Play Stage · Galen Center · Sessió BDM09
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Badminton — Men's Singles Group Play Stage
+DESCRIPTION:Men's Singles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Doubles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T150000Z
+DTEND:20280718T182500Z
+SUMMARY:Badminton — Men's Singles Group Play Stage
+DESCRIPTION:Men's Singles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Doubles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center · Sessió BDM10
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Badminton — Women's Doubles Group Play Stage
+DESCRIPTION:Women's Doubles Group Play Stage\; Men's Doubles Group Play Sta
+ ge\; Women's Singles Group Play Stage · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T210000Z
+DTEND:20280718T233500Z
+SUMMARY:Badminton — Women's Doubles Group Play Stage
+DESCRIPTION:Women's Doubles Group Play Stage\; Men's Doubles Group Play Sta
+ ge\; Women's Singles Group Play Stage · Galen Center · Sessió BDM11
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Badminton — Men's Singles Group Play Stage
+DESCRIPTION:Men's Singles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Doubles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T020000Z
+DTEND:20280719T060500Z
+SUMMARY:Badminton — Men's Singles Group Play Stage
+DESCRIPTION:Men's Singles Group Play Stage\; Women's Doubles Group Play Sta
+ ge\; Men's Doubles Group Play Stage\; Women's Singles Group Play Stage · 
+ Galen Center · Sessió BDM12
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Badminton — Men's Singles Group Play Stage
+DESCRIPTION:Men's Singles Group Play Stage\; Mixed Doubles Quarterfinal\; W
+ omen's Singles Group Play Stage · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T150000Z
+DTEND:20280719T184500Z
+SUMMARY:Badminton — Men's Singles Group Play Stage
+DESCRIPTION:Men's Singles Group Play Stage\; Mixed Doubles Quarterfinal\; W
+ omen's Singles Group Play Stage · Galen Center · Sessió BDM13
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Badminton — Women's Singles Group Play Stage
+DESCRIPTION:Women's Singles Group Play Stage\; Men's Singles Group Play Sta
+ ge · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T210000Z
+DTEND:20280719T233500Z
+SUMMARY:Badminton — Women's Singles Group Play Stage
+DESCRIPTION:Women's Singles Group Play Stage\; Men's Singles Group Play Sta
+ ge · Galen Center · Sessió BDM14
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Badminton — Women's Singles Group Play Stage
+DESCRIPTION:Women's Singles Group Play Stage\; Men's Singles Group Play Sta
+ ge · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T020000Z
+DTEND:20280720T060500Z
+SUMMARY:Badminton — Women's Singles Group Play Stage
+DESCRIPTION:Women's Singles Group Play Stage\; Men's Singles Group Play Sta
+ ge · Galen Center · Sessió BDM15
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Badminton — Women's Doubles Quarterfinal
+DESCRIPTION:Women's Doubles Quarterfinal\; Mixed Doubles Semifinal\; Women'
+ s Singles Round of 16 · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T150000Z
+DTEND:20280720T192500Z
+SUMMARY:Badminton — Women's Doubles Quarterfinal
+DESCRIPTION:Women's Doubles Quarterfinal\; Mixed Doubles Semifinal\; Women'
+ s Singles Round of 16 · Galen Center · Sessió BDM16
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Badminton — Women's Singles Round of 16
+DESCRIPTION:Women's Singles Round of 16\; Men's Singles Round of 16 · Gale
+ n Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T210000Z
+DTEND:20280721T002500Z
+SUMMARY:Badminton — Women's Singles Round of 16
+DESCRIPTION:Women's Singles Round of 16\; Men's Singles Round of 16 · Gale
+ n Center · Sessió BDM17
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm18-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Badminton — Men's Singles Round of 16
+DESCRIPTION:Men's Singles Round of 16\; Men's Doubles Quarterfinal · Galen
+  Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm18@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T030000Z
+DTEND:20280721T062500Z
+SUMMARY:Badminton — Men's Singles Round of 16
+DESCRIPTION:Men's Singles Round of 16\; Men's Doubles Quarterfinal · Galen
+  Center · Sessió BDM18
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm19-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Badminton — Mixed Doubles Bronze Medal Match
+DESCRIPTION:Mixed Doubles Bronze Medal Match\; Mixed Doubles Gold Medal Mat
+ ch\; Women's Doubles Semifinal · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm19@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T150000Z
+DTEND:20280721T200500Z
+SUMMARY:Badminton — Mixed Doubles Bronze Medal Match
+DESCRIPTION:Mixed Doubles Bronze Medal Match\; Mixed Doubles Gold Medal Mat
+ ch\; Women's Doubles Semifinal · Galen Center · Sessió BDM19
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm20-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Badminton — Men's Doubles Semifinal
+DESCRIPTION:Men's Doubles Semifinal\; Men's Singles Quarterfinal · Galen C
+ enter
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm20@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T230000Z
+DTEND:20280722T060500Z
+SUMMARY:Badminton — Men's Doubles Semifinal
+DESCRIPTION:Men's Doubles Semifinal\; Men's Singles Quarterfinal · Galen C
+ enter · Sessió BDM20
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm21-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Badminton — Women's Doubles Bronze Medal Match
+DESCRIPTION:Women's Doubles Bronze Medal Match\; Women's Doubles Gold Medal
+  Match · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm21@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T150000Z
+DTEND:20280722T174500Z
+SUMMARY:Badminton — Women's Doubles Bronze Medal Match
+DESCRIPTION:Women's Doubles Bronze Medal Match\; Women's Doubles Gold Medal
+  Match · Galen Center · Sessió BDM21
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm22-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Badminton — Women's Singles Quarterfinal
+DESCRIPTION:Women's Singles Quarterfinal · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm22@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T013000Z
+DTEND:20280723T061500Z
+SUMMARY:Badminton — Women's Singles Quarterfinal
+DESCRIPTION:Women's Singles Quarterfinal · Galen Center · Sessió BDM22
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm23-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Badminton — Men's Singles Semifinal
+DESCRIPTION:Men's Singles Semifinal\; Men's Doubles Gold Medal Match · Gal
+ en Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm23@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T150000Z
+DTEND:20280723T183500Z
+SUMMARY:Badminton — Men's Singles Semifinal
+DESCRIPTION:Men's Singles Semifinal\; Men's Doubles Gold Medal Match · Gal
+ en Center · Sessió BDM23
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm24-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Badminton — Men's Doubles Bronze Medal Match
+DESCRIPTION:Men's Doubles Bronze Medal Match\; Women's Singles Semifinal ·
+  Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm24@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T023000Z
+DTEND:20280724T062500Z
+SUMMARY:Badminton — Men's Doubles Bronze Medal Match
+DESCRIPTION:Men's Doubles Bronze Medal Match\; Women's Singles Semifinal ·
+  Galen Center · Sessió BDM24
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm25-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Badminton — Men's Singles Bronze Medal Match
+DESCRIPTION:Men's Singles Bronze Medal Match\; Men's Singles Gold Medal Mat
+ ch · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm25@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T150000Z
+DTEND:20280724T174500Z
+SUMMARY:Badminton — Men's Singles Bronze Medal Match
+DESCRIPTION:Men's Singles Bronze Medal Match\; Men's Singles Gold Medal Mat
+ ch · Galen Center · Sessió BDM25
+LOCATION:Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm26-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Badminton — Women's Singles Gold Medal Match
+DESCRIPTION:Women's Singles Gold Medal Match\; Women's Singles Bronze Medal
+  Match · Galen Center
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bdm26@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T033000Z
+DTEND:20280725T061500Z
+SUMMARY:Badminton — Women's Singles Gold Medal Match
+DESCRIPTION:Women's Singles Gold Medal Match\; Women's Singles Bronze Medal
+  Match · Galen Center · Sessió BDM26
+LOCATION:Galen Center
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Swimming
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Swimming — Men's 100m Breaststroke Heats
+DESCRIPTION:Men's 100m Breaststroke Heats\; Women's 50m Backstroke Heats\; 
+ Women's 100m Butterfly Heats\; Men's 400m Freestyle Heats\; Men's 50m Butt
+ erfly Heats\; Women's 400m Freestyle Heats\; Women's 4x100m Freestyle Rela
+ y Heats\; Men's 4x100m Freestyle Relay Heats · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T163000Z
+DTEND:20280722T183000Z
+SUMMARY:Swimming — Men's 100m Breaststroke Heats
+DESCRIPTION:Men's 100m Breaststroke Heats\; Women's 50m Backstroke Heats\; 
+ Women's 100m Butterfly Heats\; Men's 400m Freestyle Heats\; Men's 50m Butt
+ erfly Heats\; Women's 400m Freestyle Heats\; Women's 4x100m Freestyle Rela
+ y Heats\; Men's 4x100m Freestyle Relay Heats · 2028 Stadium · Sessió SW
+ M01
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Swimming — Men's 100m Breaststroke Semifinal
+DESCRIPTION:Men's 100m Breaststroke Semifinal\; Women's 400m Freestyle Fina
+ l\; Men's 400m Freestyle Final\; Women's 100m Butterfly Semifinal\; Men's 
+ 50m Butterfly Semifinal\; Women's 50m Backstroke Semifinal\; Men's 4x100m 
+ Freestyle Relay Final · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T010000Z
+DTEND:20280723T030000Z
+SUMMARY:Swimming — Men's 100m Breaststroke Semifinal
+DESCRIPTION:Men's 100m Breaststroke Semifinal\; Women's 400m Freestyle Fina
+ l\; Men's 400m Freestyle Final\; Women's 100m Butterfly Semifinal\; Men's 
+ 50m Butterfly Semifinal\; Women's 50m Backstroke Semifinal\; Men's 4x100m 
+ Freestyle Relay Final · 2028 Stadium · Sessió SWM02
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Swimming — Women's 100m Freestyle Heats
+DESCRIPTION:Women's 100m Freestyle Heats\; Men's 100m Backstroke Heats\; Wo
+ men's 4x100m Freestyle Relay Final\; Women's 100m Breaststroke Heats\; Men
+ 's 400m Individual Medley Heats\; Women's 100m Butterfly Final · 2028 Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T163000Z
+DTEND:20280723T183000Z
+SUMMARY:Swimming — Women's 100m Freestyle Heats
+DESCRIPTION:Women's 100m Freestyle Heats\; Men's 100m Backstroke Heats\; Wo
+ men's 4x100m Freestyle Relay Final\; Women's 100m Breaststroke Heats\; Men
+ 's 400m Individual Medley Heats\; Women's 100m Butterfly Final · 2028 Sta
+ dium · Sessió SWM03
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Swimming — Men's 100m Backstroke Semifinal
+DESCRIPTION:Men's 100m Backstroke Semifinal\; Men's 400m Individual Medley 
+ Final\; Men's 50m Butterfly Final\; Women's 100m Breaststroke Semifinal\; 
+ Women's 100m Freestyle Semifinal\; Men's 100m Breaststroke Final\; Women's
+  50m Backstroke Final · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T010000Z
+DTEND:20280724T030000Z
+SUMMARY:Swimming — Men's 100m Backstroke Semifinal
+DESCRIPTION:Men's 100m Backstroke Semifinal\; Men's 400m Individual Medley 
+ Final\; Men's 50m Butterfly Final\; Women's 100m Breaststroke Semifinal\; 
+ Women's 100m Freestyle Semifinal\; Men's 100m Breaststroke Final\; Women's
+  50m Backstroke Final · 2028 Stadium · Sessió SWM04
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Swimming — Men's 50m Breaststroke Heats
+DESCRIPTION:Men's 50m Breaststroke Heats\; Women's 100m Backstroke Heats\; 
+ Women's 400m Individual Medley Heats\; Men's 200m Freestyle Heats\; Men's 
+ 200m Butterfly Heats\; Men's 1500m Freestyle Heats · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T163000Z
+DTEND:20280724T183000Z
+SUMMARY:Swimming — Men's 50m Breaststroke Heats
+DESCRIPTION:Men's 50m Breaststroke Heats\; Women's 100m Backstroke Heats\; 
+ Women's 400m Individual Medley Heats\; Men's 200m Freestyle Heats\; Men's 
+ 200m Butterfly Heats\; Men's 1500m Freestyle Heats · 2028 Stadium · Sess
+ ió SWM05
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Swimming — Women's 100m Breaststroke Final
+DESCRIPTION:Women's 100m Breaststroke Final\; Men's 100m Backstroke Final\;
+  Women's 100m Freestyle Final\; Men's 200m Freestyle Semifinal\; Women's 1
+ 00m Backstroke Semifinal\; Men's 50m Breaststroke Semifinal\; Men's 200m B
+ utterfly Semifinal · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T010000Z
+DTEND:20280725T030000Z
+SUMMARY:Swimming — Women's 100m Breaststroke Final
+DESCRIPTION:Women's 100m Breaststroke Final\; Men's 100m Backstroke Final\;
+  Women's 100m Freestyle Final\; Men's 200m Freestyle Semifinal\; Women's 1
+ 00m Backstroke Semifinal\; Men's 50m Breaststroke Semifinal\; Men's 200m B
+ utterfly Semifinal · 2028 Stadium · Sessió SWM06
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Swimming — Women's 200m Breaststroke Heats
+DESCRIPTION:Women's 200m Breaststroke Heats\; Men's 50m Freestyle Heats\; W
+ omen's 400m Individual Medley Final\; Women's 200m Freestyle Heats\; Women
+ 's 1500m Freestyle Heats\; Women's 200m Breaststroke Semifinal · 2028 Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T163000Z
+DTEND:20280725T183000Z
+SUMMARY:Swimming — Women's 200m Breaststroke Heats
+DESCRIPTION:Women's 200m Breaststroke Heats\; Men's 50m Freestyle Heats\; W
+ omen's 400m Individual Medley Final\; Women's 200m Freestyle Heats\; Women
+ 's 1500m Freestyle Heats\; Women's 200m Breaststroke Semifinal · 2028 Sta
+ dium · Sessió SWM07
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Swimming — Women's 200m Freestyle Semifinal
+DESCRIPTION:Women's 200m Freestyle Semifinal\; Men's 1500m Freestyle Final\
+ ; Men's 200m Freestyle Final\; Men's 50m Breaststroke Final\; Men's 200m B
+ utterfly Final\; Men's 50m Freestyle Semifinal · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T010000Z
+DTEND:20280726T030000Z
+SUMMARY:Swimming — Women's 200m Freestyle Semifinal
+DESCRIPTION:Women's 200m Freestyle Semifinal\; Men's 1500m Freestyle Final\
+ ; Men's 200m Freestyle Final\; Men's 50m Breaststroke Final\; Men's 200m B
+ utterfly Final\; Men's 50m Freestyle Semifinal · 2028 Stadium · Sessió 
+ SWM08
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Swimming — Men's 200m Backstroke Heats
+DESCRIPTION:Men's 200m Backstroke Heats\; Women's 50m Butterfly Heats\; Wom
+ en's 100m Backstroke Final\; Men's 200m Individual Medley Heats\; Men's 4x
+ 200m Freestyle Relay Heats\; Men's 200m Individual Medley Semifinal · 202
+ 8 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T163000Z
+DTEND:20280726T183000Z
+SUMMARY:Swimming — Men's 200m Backstroke Heats
+DESCRIPTION:Men's 200m Backstroke Heats\; Women's 50m Butterfly Heats\; Wom
+ en's 100m Backstroke Final\; Men's 200m Individual Medley Heats\; Men's 4x
+ 200m Freestyle Relay Heats\; Men's 200m Individual Medley Semifinal · 202
+ 8 Stadium · Sessió SWM09
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Swimming — Women's 200m Breaststroke Final
+DESCRIPTION:Women's 200m Breaststroke Final\; Women's 50m Butterfly Semifin
+ al\; Women's 200m Freestyle Final\; Men's 50m Freestyle Final\; Men's 200m
+  Backstroke Semifinal\; Women's 1500m Freestyle Final · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T010000Z
+DTEND:20280727T030000Z
+SUMMARY:Swimming — Women's 200m Breaststroke Final
+DESCRIPTION:Women's 200m Breaststroke Final\; Women's 50m Butterfly Semifin
+ al\; Women's 200m Freestyle Final\; Men's 50m Freestyle Final\; Men's 200m
+  Backstroke Semifinal\; Women's 1500m Freestyle Final · 2028 Stadium · S
+ essió SWM10
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Swimming — Men's 100m Freestyle Heats
+DESCRIPTION:Men's 100m Freestyle Heats\; Men's 4x200m Freestyle Relay Final
+ \; Women's 200m Individual Medley Heats\; Men's 200m Breaststroke Heats\; 
+ Women's 200m Backstroke Heats\; Women's 4x200m Freestyle Relay Heats · 20
+ 28 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T163000Z
+DTEND:20280727T183000Z
+SUMMARY:Swimming — Men's 100m Freestyle Heats
+DESCRIPTION:Men's 100m Freestyle Heats\; Men's 4x200m Freestyle Relay Final
+ \; Women's 200m Individual Medley Heats\; Men's 200m Breaststroke Heats\; 
+ Women's 200m Backstroke Heats\; Women's 4x200m Freestyle Relay Heats · 20
+ 28 Stadium · Sessió SWM11
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Swimming — Men's 100m Freestyle Semifinal
+DESCRIPTION:Men's 100m Freestyle Semifinal\; Women's 50m Butterfly Final\; 
+ Women's 200m Individual Medley Semifinal\; Men's 200m Backstroke Final\; M
+ en's 200m Breaststroke Semifinal\; Women's 200m Backstroke Semifinal\; Men
+ 's 200m Individual Medley Final · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T010000Z
+DTEND:20280728T030000Z
+SUMMARY:Swimming — Men's 100m Freestyle Semifinal
+DESCRIPTION:Men's 100m Freestyle Semifinal\; Women's 50m Butterfly Final\; 
+ Women's 200m Individual Medley Semifinal\; Men's 200m Backstroke Final\; M
+ en's 200m Breaststroke Semifinal\; Women's 200m Backstroke Semifinal\; Men
+ 's 200m Individual Medley Final · 2028 Stadium · Sessió SWM12
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Swimming — Women's 50m Breaststroke Heats
+DESCRIPTION:Women's 50m Breaststroke Heats\; Women's 4x200m Freestyle Relay
+  Final\; Men's 100m Butterfly Heats\; Men's 50m Backstroke Heats\; Men's 8
+ 00m Freestyle Heats\; 4x100m Mixed Medley Relay Heats · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T163000Z
+DTEND:20280728T183000Z
+SUMMARY:Swimming — Women's 50m Breaststroke Heats
+DESCRIPTION:Women's 50m Breaststroke Heats\; Women's 4x200m Freestyle Relay
+  Final\; Men's 100m Butterfly Heats\; Men's 50m Backstroke Heats\; Men's 8
+ 00m Freestyle Heats\; 4x100m Mixed Medley Relay Heats · 2028 Stadium · S
+ essió SWM13
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Swimming — Women's 50m Breaststroke Semifinal
+DESCRIPTION:Women's 50m Breaststroke Semifinal\; Men's 100m Butterfly Semif
+ inal\; Women's 200m Backstroke Final\; Men's 200m Breaststroke Final\; Men
+ 's 50m Backstroke Semifinal\; Women's 200m Individual Medley Final\; Men's
+  100m Freestyle Final · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T010000Z
+DTEND:20280729T030000Z
+SUMMARY:Swimming — Women's 50m Breaststroke Semifinal
+DESCRIPTION:Women's 50m Breaststroke Semifinal\; Men's 100m Butterfly Semif
+ inal\; Women's 200m Backstroke Final\; Men's 200m Breaststroke Final\; Men
+ 's 50m Backstroke Semifinal\; Women's 200m Individual Medley Final\; Men's
+  100m Freestyle Final · 2028 Stadium · Sessió SWM14
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Swimming — Women's 800m Freestyle Heats
+DESCRIPTION:Women's 800m Freestyle Heats\; Women's 50m Freestyle Heats\; Wo
+ men's 200m Butterfly Heats\; Men's 4x100m Medley Relay Heats\; Women's 4x1
+ 00m Medley Relay Heats · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T163000Z
+DTEND:20280729T183000Z
+SUMMARY:Swimming — Women's 800m Freestyle Heats
+DESCRIPTION:Women's 800m Freestyle Heats\; Women's 50m Freestyle Heats\; Wo
+ men's 200m Butterfly Heats\; Men's 4x100m Medley Relay Heats\; Women's 4x1
+ 00m Medley Relay Heats · 2028 Stadium · Sessió SWM15
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Swimming — Women's 50m Breaststroke Final
+DESCRIPTION:Women's 50m Breaststroke Final\; Women's 50m Freestyle Semifina
+ l\; Men's 100m Butterfly Final\; Men's 50m Backstroke Final\; Men's 800m F
+ reestyle Final\; Women's 200m Butterfly Semifinal\; 4x100m Mixed Medley Re
+ lay Final · 2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T010000Z
+DTEND:20280730T030000Z
+SUMMARY:Swimming — Women's 50m Breaststroke Final
+DESCRIPTION:Women's 50m Breaststroke Final\; Women's 50m Freestyle Semifina
+ l\; Men's 100m Butterfly Final\; Men's 50m Backstroke Final\; Men's 800m F
+ reestyle Final\; Women's 200m Butterfly Semifinal\; 4x100m Mixed Medley Re
+ lay Final · 2028 Stadium · Sessió SWM16
+LOCATION:2028 Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280731
+SUMMARY:Swimming — Women's 800m Freestyle Final
+DESCRIPTION:Women's 800m Freestyle Final\; Women's 50m Freestyle Final\; Wo
+ men's 200m Butterfly Final\; Men's 4x100m Medley Relay Final · 2028 Stadi
+ um
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-swm17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T220000Z
+DTEND:20280730T233000Z
+SUMMARY:Swimming — Women's 800m Freestyle Final
+DESCRIPTION:Women's 800m Freestyle Final\; Women's 50m Freestyle Final\; Wo
+ men's 200m Butterfly Final\; Men's 4x100m Medley Relay Final · 2028 Stadi
+ um · Sessió SWM17
+LOCATION:2028 Stadium
+END:VEVENT
+END:VCALENDAR

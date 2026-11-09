@@ -1,0 +1,492 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Boxing
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Boxing — Men's 55kg Round of 32
+DESCRIPTION:Men's 55kg Round of 32\; Women's 65kg Round of 32\; Women's 54k
+ g Round of 32\; Women's 60kg Round of 32\; Men's 65kg Round of 32\; Men's 
+ +90kg Round of 16 · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T190000Z
+DTEND:20280715T213500Z
+SUMMARY:Boxing — Men's 55kg Round of 32
+DESCRIPTION:Men's 55kg Round of 32\; Women's 65kg Round of 32\; Women's 54k
+ g Round of 32\; Women's 60kg Round of 32\; Men's 65kg Round of 32\; Men's 
+ +90kg Round of 16 · Peacock Theater · Sessió BOX01
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Boxing — Men's 55kg Round of 32
+DESCRIPTION:Men's 55kg Round of 32\; Women's 65kg Round of 32\; Women's 54k
+ g Round of 32\; Women's 60kg Round of 32\; Men's 65kg Round of 32\; Men's 
+ +90kg Round of 16 · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T020000Z
+DTEND:20280716T043500Z
+SUMMARY:Boxing — Men's 55kg Round of 32
+DESCRIPTION:Men's 55kg Round of 32\; Women's 65kg Round of 32\; Women's 54k
+ g Round of 32\; Women's 60kg Round of 32\; Men's 65kg Round of 32\; Men's 
+ +90kg Round of 16 · Peacock Theater · Sessió BOX02
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Boxing — Men's 60kg Round of 32
+DESCRIPTION:Men's 60kg Round of 32\; Women's 51kg Round of 32\; Women's 70k
+ g Round of 16\; Men's 70kg Round of 32\; Men's 90kg Round of 16 · Peacock
+  Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T190000Z
+DTEND:20280716T221000Z
+SUMMARY:Boxing — Men's 60kg Round of 32
+DESCRIPTION:Men's 60kg Round of 32\; Women's 51kg Round of 32\; Women's 70k
+ g Round of 16\; Men's 70kg Round of 32\; Men's 90kg Round of 16 · Peacock
+  Theater · Sessió BOX03
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Boxing — Men's 60kg Round of 32
+DESCRIPTION:Men's 60kg Round of 32\; Women's 51kg Round of 32\; Women's 70k
+ g Round of 16\; Men's 70kg Round of 32 · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T020000Z
+DTEND:20280717T051000Z
+SUMMARY:Boxing — Men's 60kg Round of 32
+DESCRIPTION:Men's 60kg Round of 32\; Women's 51kg Round of 32\; Women's 70k
+ g Round of 16\; Men's 70kg Round of 32 · Peacock Theater · Sessió BOX04
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Boxing — Men's 55kg Round of 16
+DESCRIPTION:Men's 55kg Round of 16\; Men's 90kg Round of 16\; Women's 60kg 
+ Round of 16\; Men's 65kg Round of 16 · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T190000Z
+DTEND:20280717T221000Z
+SUMMARY:Boxing — Men's 55kg Round of 16
+DESCRIPTION:Men's 55kg Round of 16\; Men's 90kg Round of 16\; Women's 60kg 
+ Round of 16\; Men's 65kg Round of 16 · Peacock Theater · Sessió BOX05
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Boxing — Men's 55kg Round of 16
+DESCRIPTION:Men's 55kg Round of 16\; Women's 60kg Round of 16\; Men's 65kg 
+ Round of 16 · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T020000Z
+DTEND:20280718T051000Z
+SUMMARY:Boxing — Men's 55kg Round of 16
+DESCRIPTION:Men's 55kg Round of 16\; Women's 60kg Round of 16\; Men's 65kg 
+ Round of 16 · Peacock Theater · Sessió BOX06
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Boxing — Men's 80kg Round of 16
+DESCRIPTION:Men's 80kg Round of 16\; Women's 57kg Round of 32\; Women's 54k
+ g Round of 16\; Men's +90kg Quarterfinal · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T190000Z
+DTEND:20280718T221000Z
+SUMMARY:Boxing — Men's 80kg Round of 16
+DESCRIPTION:Men's 80kg Round of 16\; Women's 57kg Round of 32\; Women's 54k
+ g Round of 16\; Men's +90kg Quarterfinal · Peacock Theater · Sessió BOX
+ 07
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Boxing — Men's 80kg Round of 16
+DESCRIPTION:Men's 80kg Round of 16\; Women's 57kg Round of 32\; Women's 54k
+ g Round of 16\; Men's +90kg Quarterfinal · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T020000Z
+DTEND:20280719T051000Z
+SUMMARY:Boxing — Men's 80kg Round of 16
+DESCRIPTION:Men's 80kg Round of 16\; Women's 57kg Round of 32\; Women's 54k
+ g Round of 16\; Men's +90kg Quarterfinal · Peacock Theater · Sessió BOX
+ 08
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Boxing — Men's 60kg Round of 16
+DESCRIPTION:Men's 60kg Round of 16\; Women's 70kg Quarterfinal\; Women's 60
+ kg Quarterfinal\; Men's 70kg Round of 16 · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T190000Z
+DTEND:20280719T221000Z
+SUMMARY:Boxing — Men's 60kg Round of 16
+DESCRIPTION:Men's 60kg Round of 16\; Women's 70kg Quarterfinal\; Women's 60
+ kg Quarterfinal\; Men's 70kg Round of 16 · Peacock Theater · Sessió BOX
+ 09
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Boxing — Men's 60kg Round of 16
+DESCRIPTION:Men's 60kg Round of 16\; Women's 70kg Quarterfinal\; Women's 60
+ kg Quarterfinal\; Men's 70kg Round of 16 · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T020000Z
+DTEND:20280720T051000Z
+SUMMARY:Boxing — Men's 60kg Round of 16
+DESCRIPTION:Men's 60kg Round of 16\; Women's 70kg Quarterfinal\; Women's 60
+ kg Quarterfinal\; Men's 70kg Round of 16 · Peacock Theater · Sessió BOX
+ 10
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Boxing — Men's 65kg Quarterfinal
+DESCRIPTION:Men's 65kg Quarterfinal\; Women's 65kg Round of 16\; Women's 51
+ kg Round of 16\; Men's 90kg Quarterfinal · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T190000Z
+DTEND:20280720T221000Z
+SUMMARY:Boxing — Men's 65kg Quarterfinal
+DESCRIPTION:Men's 65kg Quarterfinal\; Women's 65kg Round of 16\; Women's 51
+ kg Round of 16\; Men's 90kg Quarterfinal · Peacock Theater · Sessió BOX
+ 11
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Boxing — Men's 65kg Quarterfinal
+DESCRIPTION:Men's 65kg Quarterfinal\; Women's 65kg Round of 16\; Women's 51
+ kg Round of 16\; Men's 90kg Quarterfinal · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T020000Z
+DTEND:20280721T051000Z
+SUMMARY:Boxing — Men's 65kg Quarterfinal
+DESCRIPTION:Men's 65kg Quarterfinal\; Women's 65kg Round of 16\; Women's 51
+ kg Round of 16\; Men's 90kg Quarterfinal · Peacock Theater · Sessió BOX
+ 12
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Boxing — Men's 55kg Quarterfinal
+DESCRIPTION:Men's 55kg Quarterfinal\; Women's 75kg Round of 16\; Women's 57
+ kg Round of 16\; Men's 80kg Quarterfinal · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T190000Z
+DTEND:20280721T221000Z
+SUMMARY:Boxing — Men's 55kg Quarterfinal
+DESCRIPTION:Men's 55kg Quarterfinal\; Women's 75kg Round of 16\; Women's 57
+ kg Round of 16\; Men's 80kg Quarterfinal · Peacock Theater · Sessió BOX
+ 13
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Boxing — Men's 55kg Quarterfinal
+DESCRIPTION:Men's 55kg Quarterfinal\; Women's 75kg Round of 16\; Women's 57
+ kg Round of 16\; Men's 80kg Quarterfinal · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T020000Z
+DTEND:20280722T051000Z
+SUMMARY:Boxing — Men's 55kg Quarterfinal
+DESCRIPTION:Men's 55kg Quarterfinal\; Women's 75kg Round of 16\; Women's 57
+ kg Round of 16\; Men's 80kg Quarterfinal · Peacock Theater · Sessió BOX
+ 14
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Boxing — Women's 70kg Semifinal
+DESCRIPTION:Women's 70kg Semifinal\; Women's 51kg Quarterfinal\; Women's 54
+ kg Quarterfinal\; Women's 65kg Quarterfinal\; Men's 60kg Quarterfinal\; Me
+ n's 70kg Quarterfinal\; Men's +90kg Semifinal · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T190000Z
+DTEND:20280722T221000Z
+SUMMARY:Boxing — Women's 70kg Semifinal
+DESCRIPTION:Women's 70kg Semifinal\; Women's 51kg Quarterfinal\; Women's 54
+ kg Quarterfinal\; Women's 65kg Quarterfinal\; Men's 60kg Quarterfinal\; Me
+ n's 70kg Quarterfinal\; Men's +90kg Semifinal · Peacock Theater · Sessi
+ ó BOX15
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Boxing — Women's 70kg Semifinal
+DESCRIPTION:Women's 70kg Semifinal\; Women's 51kg Quarterfinal\; Women's 54
+ kg Quarterfinal\; Women's 65kg Quarterfinal\; Men's 60kg Quarterfinal\; Me
+ n's 70kg Quarterfinal\; Men's +90kg Semifinal · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T020000Z
+DTEND:20280723T051000Z
+SUMMARY:Boxing — Women's 70kg Semifinal
+DESCRIPTION:Women's 70kg Semifinal\; Women's 51kg Quarterfinal\; Women's 54
+ kg Quarterfinal\; Women's 65kg Quarterfinal\; Men's 60kg Quarterfinal\; Me
+ n's 70kg Quarterfinal\; Men's +90kg Semifinal · Peacock Theater · Sessi
+ ó BOX16
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Boxing — Women's 75kg Quarterfinal
+DESCRIPTION:Women's 75kg Quarterfinal\; Women's 57kg Quarterfinal\; Men's 5
+ 5kg Semifinal · Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T190000Z
+DTEND:20280723T213500Z
+SUMMARY:Boxing — Women's 75kg Quarterfinal
+DESCRIPTION:Women's 75kg Quarterfinal\; Women's 57kg Quarterfinal\; Men's 5
+ 5kg Semifinal · Peacock Theater · Sessió BOX17
+LOCATION:Peacock Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box18-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Boxing — Women's 70kg Final
+DESCRIPTION:Women's 70kg Final\; Women's 65kg Semifinal\; Women's 51kg Semi
+ final\; Men's 90kg Semifinal · DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box18@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T190000Z
+DTEND:20280727T211000Z
+SUMMARY:Boxing — Women's 70kg Final
+DESCRIPTION:Women's 70kg Final\; Women's 65kg Semifinal\; Women's 51kg Semi
+ final\; Men's 90kg Semifinal · DTLA Arena · Sessió BOX18
+LOCATION:DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box19-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Boxing — Men's 70kg Semifinal
+DESCRIPTION:Men's 70kg Semifinal\; Men's 55kg Final\; Women's 54kg Semifina
+ l\; Men's 80kg Semifinal · DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box19@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T010000Z
+DTEND:20280728T031000Z
+SUMMARY:Boxing — Men's 70kg Semifinal
+DESCRIPTION:Men's 70kg Semifinal\; Men's 55kg Final\; Women's 54kg Semifina
+ l\; Men's 80kg Semifinal · DTLA Arena · Sessió BOX19
+LOCATION:DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box20-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Boxing — Men's 60kg Semifinal
+DESCRIPTION:Men's 60kg Semifinal\; Women's 60kg Semifinal\; Men's +90kg Fin
+ al · DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box20@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T190000Z
+DTEND:20280728T203000Z
+SUMMARY:Boxing — Men's 60kg Semifinal
+DESCRIPTION:Men's 60kg Semifinal\; Women's 60kg Semifinal\; Men's +90kg Fin
+ al · DTLA Arena · Sessió BOX20
+LOCATION:DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box21-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Boxing — Women's 75kg Semifinal
+DESCRIPTION:Women's 75kg Semifinal\; Women's 51kg Final\; Men's 65kg Semifi
+ nal · DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box21@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T010000Z
+DTEND:20280729T024000Z
+SUMMARY:Boxing — Women's 75kg Semifinal
+DESCRIPTION:Women's 75kg Semifinal\; Women's 51kg Final\; Men's 65kg Semifi
+ nal · DTLA Arena · Sessió BOX21
+LOCATION:DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box22-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Boxing — Women's 65kg Final
+DESCRIPTION:Women's 65kg Final\; Women's 57kg Semifinal\; Men's 90kg Final 
+ · DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box22@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T190000Z
+DTEND:20280729T203000Z
+SUMMARY:Boxing — Women's 65kg Final
+DESCRIPTION:Women's 65kg Final\; Women's 57kg Semifinal\; Men's 90kg Final 
+ · DTLA Arena · Sessió BOX22
+LOCATION:DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box23-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Boxing — Men's 60kg Final
+DESCRIPTION:Men's 60kg Final\; Women's 60kg Final\; Women's 54kg Final\; Me
+ n's 80kg Final · DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box23@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T010000Z
+DTEND:20280730T030000Z
+SUMMARY:Boxing — Men's 60kg Final
+DESCRIPTION:Men's 60kg Final\; Women's 60kg Final\; Women's 54kg Final\; Me
+ n's 80kg Final · DTLA Arena · Sessió BOX23
+LOCATION:DTLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box24-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280731
+SUMMARY:Boxing — Men's 65kg Final
+DESCRIPTION:Men's 65kg Final\; Women's 75kg Final\; Women's 57kg Final · D
+ TLA Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-box24@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T190000Z
+DTEND:20280730T210000Z
+SUMMARY:Boxing — Men's 65kg Final
+DESCRIPTION:Men's 65kg Final\; Women's 75kg Final\; Women's 57kg Final · D
+ TLA Arena · Sessió BOX24
+LOCATION:DTLA Arena
+END:VEVENT
+END:VCALENDAR

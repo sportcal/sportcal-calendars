@@ -1,0 +1,350 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Wrestling
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Wrestling — Men's Greco-Roman 60kg Quarterfinal
+DESCRIPTION:Men's Greco-Roman 60kg Quarterfinal\; Men's Greco-Roman 130kg R
+ ound of 16\; Women's Freestyle 50kg Round of 16\; Women's Freestyle 50kg Q
+ uarterfinal · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T180000Z
+DTEND:20280724T200000Z
+SUMMARY:Wrestling — Men's Greco-Roman 60kg Quarterfinal
+DESCRIPTION:Men's Greco-Roman 60kg Quarterfinal\; Men's Greco-Roman 130kg R
+ ound of 16\; Women's Freestyle 50kg Round of 16\; Women's Freestyle 50kg Q
+ uarterfinal · LA Convention Center Hall 2 · Sessió WRE01
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Wrestling — Men's Greco-Roman 130kg Semifinal
+DESCRIPTION:Men's Greco-Roman 130kg Semifinal\; Men's Greco-Roman 130kg Qua
+ rterfinal\; Men's Greco-Roman 60kg Semifinal\; Women's Freestyle 50kg Semi
+ final\; Men's Greco-Roman 60kg Repechage · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T020000Z
+DTEND:20280725T030000Z
+SUMMARY:Wrestling — Men's Greco-Roman 130kg Semifinal
+DESCRIPTION:Men's Greco-Roman 130kg Semifinal\; Men's Greco-Roman 130kg Qua
+ rterfinal\; Men's Greco-Roman 60kg Semifinal\; Women's Freestyle 50kg Semi
+ final\; Men's Greco-Roman 60kg Repechage · LA Convention Center Hall 2 ·
+  Sessió WRE02
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Wrestling — Women's Freestyle 53kg Round of 16
+DESCRIPTION:Women's Freestyle 53kg Round of 16\; Women's Freestyle 50kg Rep
+ echage\; Men's Greco-Roman 130kg Repechage\; Men's Greco-Roman 77kg Round 
+ of 16\; Men's Greco-Roman 97kg Round of 16\; Men's Greco-Roman 77kg Quarte
+ rfinal\; Women's Freestyle 53kg Quarterfinal\; Men's Greco-Roman 97kg Quar
+ terfinal · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T180000Z
+DTEND:20280725T203000Z
+SUMMARY:Wrestling — Women's Freestyle 53kg Round of 16
+DESCRIPTION:Women's Freestyle 53kg Round of 16\; Women's Freestyle 50kg Rep
+ echage\; Men's Greco-Roman 130kg Repechage\; Men's Greco-Roman 77kg Round 
+ of 16\; Men's Greco-Roman 97kg Round of 16\; Men's Greco-Roman 77kg Quarte
+ rfinal\; Women's Freestyle 53kg Quarterfinal\; Men's Greco-Roman 97kg Quar
+ terfinal · LA Convention Center Hall 2 · Sessió WRE03
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Wrestling — Men's Greco-Roman 60kg Gold Medal Match
+DESCRIPTION:Men's Greco-Roman 60kg Gold Medal Match\; Men's Greco-Roman 77k
+ g Semifinal\; Men's Greco-Roman 97kg Semifinal\; Women's Freestyle 53kg Se
+ mifinal\; Men's Greco-Roman 60kg Bronze Medal Match\; Men's Greco-Roman 13
+ 0kg Bronze Medal Match\; Men's Greco-Roman 130kg Gold Medal Match\; Women'
+ s Freestyle 50kg Bronze Medal Match\; Women's Freestyle 50kg Gold Medal Ma
+ tch · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T020000Z
+DTEND:20280726T053000Z
+SUMMARY:Wrestling — Men's Greco-Roman 60kg Gold Medal Match
+DESCRIPTION:Men's Greco-Roman 60kg Gold Medal Match\; Men's Greco-Roman 77k
+ g Semifinal\; Men's Greco-Roman 97kg Semifinal\; Women's Freestyle 53kg Se
+ mifinal\; Men's Greco-Roman 60kg Bronze Medal Match\; Men's Greco-Roman 13
+ 0kg Bronze Medal Match\; Men's Greco-Roman 130kg Gold Medal Match\; Women'
+ s Freestyle 50kg Bronze Medal Match\; Women's Freestyle 50kg Gold Medal Ma
+ tch · LA Convention Center Hall 2 · Sessió WRE04
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Wrestling — Women's Freestyle 57kg Round of 16
+DESCRIPTION:Women's Freestyle 57kg Round of 16\; Men's Greco-Roman 77kg Rep
+ echage\; Women's Freestyle 53kg Repechage\; Men's Greco-Roman 97kg Repecha
+ ge\; Men's Greco-Roman 67kg Round of 16\; Men's Greco-Roman 87kg Round of 
+ 16\; Men's Greco-Roman 67kg Quarterfinal\; Women's Freestyle 57kg Quarterf
+ inal\; Men's Greco-Roman 87kg Quarterfinal · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T180000Z
+DTEND:20280726T203000Z
+SUMMARY:Wrestling — Women's Freestyle 57kg Round of 16
+DESCRIPTION:Women's Freestyle 57kg Round of 16\; Men's Greco-Roman 77kg Rep
+ echage\; Women's Freestyle 53kg Repechage\; Men's Greco-Roman 97kg Repecha
+ ge\; Men's Greco-Roman 67kg Round of 16\; Men's Greco-Roman 87kg Round of 
+ 16\; Men's Greco-Roman 67kg Quarterfinal\; Women's Freestyle 57kg Quarterf
+ inal\; Men's Greco-Roman 87kg Quarterfinal · LA Convention Center Hall 2 
+ · Sessió WRE05
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Wrestling — Men's Greco-Roman 77kg Gold Medal Match
+DESCRIPTION:Men's Greco-Roman 77kg Gold Medal Match\; Men's Greco-Roman 67k
+ g Semifinal\; Men's Greco-Roman 87kg Semifinal\; Women's Freestyle 57kg Se
+ mifinal\; Men's Greco-Roman 77kg Bronze Medal Match\; Men's Greco-Roman 97
+ kg Bronze Medal Match\; Men's Greco-Roman 97kg Gold Medal Match\; Women's 
+ Freestyle 53kg Bronze Medal Match\; Women's Freestyle 53kg Gold Medal Matc
+ h · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T020000Z
+DTEND:20280727T053000Z
+SUMMARY:Wrestling — Men's Greco-Roman 77kg Gold Medal Match
+DESCRIPTION:Men's Greco-Roman 77kg Gold Medal Match\; Men's Greco-Roman 67k
+ g Semifinal\; Men's Greco-Roman 87kg Semifinal\; Women's Freestyle 57kg Se
+ mifinal\; Men's Greco-Roman 77kg Bronze Medal Match\; Men's Greco-Roman 97
+ kg Bronze Medal Match\; Men's Greco-Roman 97kg Gold Medal Match\; Women's 
+ Freestyle 53kg Bronze Medal Match\; Women's Freestyle 53kg Gold Medal Matc
+ h · LA Convention Center Hall 2 · Sessió WRE06
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Wrestling — Women's Freestyle 62kg Round of 16
+DESCRIPTION:Women's Freestyle 62kg Round of 16\; Men's Greco-Roman 67kg Rep
+ echage\; Women's Freestyle 57kg Repechage\; Men's Greco-Roman 87kg Repecha
+ ge\; Men's Freestyle 57kg Round of 16\; Men's Freestyle 86kg Round of 16\;
+  Men's Freestyle 57kg Quarterfinal\; Women's Freestyle 62kg Quarterfinal\;
+  Men's Freestyle 86kg Quarterfinal · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T180000Z
+DTEND:20280727T203000Z
+SUMMARY:Wrestling — Women's Freestyle 62kg Round of 16
+DESCRIPTION:Women's Freestyle 62kg Round of 16\; Men's Greco-Roman 67kg Rep
+ echage\; Women's Freestyle 57kg Repechage\; Men's Greco-Roman 87kg Repecha
+ ge\; Men's Freestyle 57kg Round of 16\; Men's Freestyle 86kg Round of 16\;
+  Men's Freestyle 57kg Quarterfinal\; Women's Freestyle 62kg Quarterfinal\;
+  Men's Freestyle 86kg Quarterfinal · LA Convention Center Hall 2 · Sessi
+ ó WRE07
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Wrestling — Men's Greco-Roman 67kg Gold Medal Match
+DESCRIPTION:Men's Greco-Roman 67kg Gold Medal Match\; Men's Freestyle 57kg 
+ Semifinal\; Men's Freestyle 86kg Semifinal\; Women's Freestyle 62kg Semifi
+ nal\; Men's Greco-Roman 67kg Bronze Medal Match\; Men's Greco-Roman 87kg B
+ ronze Medal Match\; Men's Greco-Roman 87kg Gold Medal Match\; Women's Free
+ style 57kg Bronze Medal Match\; Women's Freestyle 57kg Gold Medal Match ·
+  LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T020000Z
+DTEND:20280728T053000Z
+SUMMARY:Wrestling — Men's Greco-Roman 67kg Gold Medal Match
+DESCRIPTION:Men's Greco-Roman 67kg Gold Medal Match\; Men's Freestyle 57kg 
+ Semifinal\; Men's Freestyle 86kg Semifinal\; Women's Freestyle 62kg Semifi
+ nal\; Men's Greco-Roman 67kg Bronze Medal Match\; Men's Greco-Roman 87kg B
+ ronze Medal Match\; Men's Greco-Roman 87kg Gold Medal Match\; Women's Free
+ style 57kg Bronze Medal Match\; Women's Freestyle 57kg Gold Medal Match ·
+  LA Convention Center Hall 2 · Sessió WRE08
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Wrestling — Women's Freestyle 68kg Round of 16
+DESCRIPTION:Women's Freestyle 68kg Round of 16\; Men's Freestyle 57kg Repec
+ hage\; Women's Freestyle 62kg Repechage\; Men's Freestyle 86kg Repechage\;
+  Men's Freestyle 74kg Round of 16\; Men's Freestyle 125kg Round of 16\; Me
+ n's Freestyle 74kg Quarterfinal\; Women's Freestyle 68kg Quarterfinal\; Me
+ n's Freestyle 125kg Quarterfinal · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T180000Z
+DTEND:20280728T203000Z
+SUMMARY:Wrestling — Women's Freestyle 68kg Round of 16
+DESCRIPTION:Women's Freestyle 68kg Round of 16\; Men's Freestyle 57kg Repec
+ hage\; Women's Freestyle 62kg Repechage\; Men's Freestyle 86kg Repechage\;
+  Men's Freestyle 74kg Round of 16\; Men's Freestyle 125kg Round of 16\; Me
+ n's Freestyle 74kg Quarterfinal\; Women's Freestyle 68kg Quarterfinal\; Me
+ n's Freestyle 125kg Quarterfinal · LA Convention Center Hall 2 · Sessió
+  WRE09
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Wrestling — Men's Freestyle 57kg Gold Medal Match
+DESCRIPTION:Men's Freestyle 57kg Gold Medal Match\; Men's Freestyle 74kg Se
+ mifinal\; Men's Freestyle 125kg Semifinal\; Women's Freestyle 68kg Semifin
+ al\; Men's Freestyle 57kg Bronze Medal Match\; Men's Freestyle 86kg Bronze
+  Medal Match\; Men's Freestyle 86kg Gold Medal Match\; Women's Freestyle 6
+ 2kg Bronze Medal Match\; Women's Freestyle 62kg Gold Medal Match · LA Con
+ vention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T020000Z
+DTEND:20280729T053000Z
+SUMMARY:Wrestling — Men's Freestyle 57kg Gold Medal Match
+DESCRIPTION:Men's Freestyle 57kg Gold Medal Match\; Men's Freestyle 74kg Se
+ mifinal\; Men's Freestyle 125kg Semifinal\; Women's Freestyle 68kg Semifin
+ al\; Men's Freestyle 57kg Bronze Medal Match\; Men's Freestyle 86kg Bronze
+  Medal Match\; Men's Freestyle 86kg Gold Medal Match\; Women's Freestyle 6
+ 2kg Bronze Medal Match\; Women's Freestyle 62kg Gold Medal Match · LA Con
+ vention Center Hall 2 · Sessió WRE10
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Wrestling — Women's Freestyle 76kg Round of 16
+DESCRIPTION:Women's Freestyle 76kg Round of 16\; Men's Freestyle 74kg Repec
+ hage\; Women's Freestyle 68kg Repechage\; Men's Freestyle 125kg Repechage\
+ ; Men's Freestyle 65kg Round of 16\; Men's Freestyle 97kg Round of 16\; Me
+ n's Freestyle 65kg Quarterfinal\; Women's Freestyle 76kg Quarterfinal\; Me
+ n's Freestyle 97kg Quarterfinal · LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T180000Z
+DTEND:20280729T203000Z
+SUMMARY:Wrestling — Women's Freestyle 76kg Round of 16
+DESCRIPTION:Women's Freestyle 76kg Round of 16\; Men's Freestyle 74kg Repec
+ hage\; Women's Freestyle 68kg Repechage\; Men's Freestyle 125kg Repechage\
+ ; Men's Freestyle 65kg Round of 16\; Men's Freestyle 97kg Round of 16\; Me
+ n's Freestyle 65kg Quarterfinal\; Women's Freestyle 76kg Quarterfinal\; Me
+ n's Freestyle 97kg Quarterfinal · LA Convention Center Hall 2 · Sessió 
+ WRE11
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Wrestling — Men's Freestyle 74kg Gold Medal Match
+DESCRIPTION:Men's Freestyle 74kg Gold Medal Match\; Men's Freestyle 65kg Se
+ mifinal\; Men's Freestyle 97kg Semifinal\; Women's Freestyle 76kg Semifina
+ l\; Men's Freestyle 74kg Bronze Medal Match\; Men's Freestyle 125kg Bronze
+  Medal Match\; Men's Freestyle 125kg Gold Medal Match\; Women's Freestyle 
+ 68kg Bronze Medal Match\; Women's Freestyle 68kg Gold Medal Match · LA Co
+ nvention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T020000Z
+DTEND:20280730T053000Z
+SUMMARY:Wrestling — Men's Freestyle 74kg Gold Medal Match
+DESCRIPTION:Men's Freestyle 74kg Gold Medal Match\; Men's Freestyle 65kg Se
+ mifinal\; Men's Freestyle 97kg Semifinal\; Women's Freestyle 76kg Semifina
+ l\; Men's Freestyle 74kg Bronze Medal Match\; Men's Freestyle 125kg Bronze
+  Medal Match\; Men's Freestyle 125kg Gold Medal Match\; Women's Freestyle 
+ 68kg Bronze Medal Match\; Women's Freestyle 68kg Gold Medal Match · LA Co
+ nvention Center Hall 2 · Sessió WRE12
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280731
+SUMMARY:Wrestling — Men's Freestyle 65kg Gold Medal Match
+DESCRIPTION:Men's Freestyle 65kg Gold Medal Match\; Men's Freestyle 65kg Re
+ pechage\; Women's Freestyle 76kg Repechage\; Men's Freestyle 97kg Repechag
+ e\; Men's Freestyle 65kg Bronze Medal Match\; Men's Freestyle 97kg Bronze 
+ Medal Match\; Men's Freestyle 97kg Gold Medal Match\; Women's Freestyle 76
+ kg Bronze Medal Match\; Women's Freestyle 76kg Gold Medal Match · LA Conv
+ ention Center Hall 2
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-wre13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T180000Z
+DTEND:20280730T211500Z
+SUMMARY:Wrestling — Men's Freestyle 65kg Gold Medal Match
+DESCRIPTION:Men's Freestyle 65kg Gold Medal Match\; Men's Freestyle 65kg Re
+ pechage\; Women's Freestyle 76kg Repechage\; Men's Freestyle 97kg Repechag
+ e\; Men's Freestyle 65kg Bronze Medal Match\; Men's Freestyle 97kg Bronze 
+ Medal Match\; Men's Freestyle 97kg Gold Medal Match\; Women's Freestyle 76
+ kg Bronze Medal Match\; Women's Freestyle 76kg Gold Medal Match · LA Conv
+ ention Center Hall 2 · Sessió WRE13
+LOCATION:LA Convention Center Hall 2
+END:VEVENT
+END:VCALENDAR

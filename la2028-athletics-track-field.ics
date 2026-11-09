@@ -1,0 +1,410 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Athletics (Track & Field)
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Athletics (Track & Field) — Men's Pole Vault Qualification A and 
+ B
+DESCRIPTION:Men's Pole Vault Qualification A and B\; Women's Shot Put Quali
+ fication A and B\; Women's 5000m Round 1\; Women's 800m Round 1\; Women's 
+ Hammer Throw Qualification A and B\; Women's 100m Round 1\; Men's 100m Rou
+ nd 1 · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T160000Z
+DTEND:20280715T203000Z
+SUMMARY:Athletics (Track & Field) — Men's Pole Vault Qualification A and 
+ B
+DESCRIPTION:Men's Pole Vault Qualification A and B\; Women's Shot Put Quali
+ fication A and B\; Women's 5000m Round 1\; Women's 800m Round 1\; Women's 
+ Hammer Throw Qualification A and B\; Women's 100m Round 1\; Men's 100m Rou
+ nd 1 · LA Memorial Coliseum · Sessió ATH01
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Athletics (Track & Field) — Women's 100m Semifinal
+DESCRIPTION:Women's 100m Semifinal\; Men's 400m Hurdles Round 1\; Men's Hig
+ h Jump Qualification A and B\; Men's Discus Throw Qualification A and B\; 
+ Women's Triple Jump Qualification A and B\; Women's 400m Hurdles Round 1\;
+  Women's Shot Put Final\; Men's 10\,000m Final\; Women's 100m Final · LA 
+ Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T000000Z
+DTEND:20280716T031500Z
+SUMMARY:Athletics (Track & Field) — Women's 100m Semifinal
+DESCRIPTION:Women's 100m Semifinal\; Men's 400m Hurdles Round 1\; Men's Hig
+ h Jump Qualification A and B\; Men's Discus Throw Qualification A and B\; 
+ Women's Triple Jump Qualification A and B\; Women's 400m Hurdles Round 1\;
+  Women's Shot Put Final\; Men's 10\,000m Final\; Women's 100m Final · LA 
+ Memorial Coliseum · Sessió ATH02
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Athletics (Track & Field) — Women's 800m Repechage
+DESCRIPTION:Women's 800m Repechage\; Men's Decathlon Long Jump A and B\; Me
+ n's Decathlon 100m Heats\; Women's Discus Throw Qualification A and B\; Me
+ n's Shot Put Qualification A and B\; Mixed 4x400m Relay Round 1\; Men's Lo
+ ng Jump Qualification A and B\; Men's Decathlon Shot Put A and B · LA Mem
+ orial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T160000Z
+DTEND:20280716T190000Z
+SUMMARY:Athletics (Track & Field) — Women's 800m Repechage
+DESCRIPTION:Women's 800m Repechage\; Men's Decathlon Long Jump A and B\; Me
+ n's Decathlon 100m Heats\; Women's Discus Throw Qualification A and B\; Me
+ n's Shot Put Qualification A and B\; Mixed 4x400m Relay Round 1\; Men's Lo
+ ng Jump Qualification A and B\; Men's Decathlon Shot Put A and B · LA Mem
+ orial Coliseum · Sessió ATH03
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Athletics (Track & Field) — Women's Hammer Throw Final
+DESCRIPTION:Women's Hammer Throw Final\; Men's 100m Semifinal\; Men's Decat
+ hlon High Jump A and B\; Men's Shot Put Final\; Men's 1500m Round 1\; Mixe
+ d 4x400m Relay Final\; Men's Decathlon 400m Heats\; Men's 100m Final · LA
+  Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T221500Z
+DTEND:20280717T015500Z
+SUMMARY:Athletics (Track & Field) — Women's Hammer Throw Final
+DESCRIPTION:Women's Hammer Throw Final\; Men's 100m Semifinal\; Men's Decat
+ hlon High Jump A and B\; Men's Shot Put Final\; Men's 1500m Round 1\; Mixe
+ d 4x400m Relay Final\; Men's Decathlon 400m Heats\; Men's 100m Final · LA
+  Memorial Coliseum · Sessió ATH04
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Athletics (Track & Field) — Women's Triple Jump Final
+DESCRIPTION:Women's Triple Jump Final\; Men's 400m Round 1\; Men's Decathlo
+ n 110m Hurdles Heats\; Women's 3000m Steeplechase Round 1\; Men's Decathlo
+ n Discus Throw A and B\; Men's 400m Hurdles Repechage\; Men's Decathlon Po
+ le Vault A and B\; Women's 400m Hurdles Repechage · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T160000Z
+DTEND:20280717T210000Z
+SUMMARY:Athletics (Track & Field) — Women's Triple Jump Final
+DESCRIPTION:Women's Triple Jump Final\; Men's 400m Round 1\; Men's Decathlo
+ n 110m Hurdles Heats\; Women's 3000m Steeplechase Round 1\; Men's Decathlo
+ n Discus Throw A and B\; Men's 400m Hurdles Repechage\; Men's Decathlon Po
+ le Vault A and B\; Women's 400m Hurdles Repechage · LA Memorial Coliseum 
+ · Sessió ATH05
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Athletics (Track & Field) — Men's 1500m Repechage
+DESCRIPTION:Men's 1500m Repechage\; Men's Pole Vault Final\; Men's Decathlo
+ n Javelin Throw A and B\; Mixed 4x100m Relay Round 1\; Women's 800m Semifi
+ nal\; Mixed 4x100m Relay Final\; Men's Decathlon 1500m Final · LA Memoria
+ l Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T233000Z
+DTEND:20280718T023000Z
+SUMMARY:Athletics (Track & Field) — Men's 1500m Repechage
+DESCRIPTION:Men's 1500m Repechage\; Men's Pole Vault Final\; Men's Decathlo
+ n Javelin Throw A and B\; Mixed 4x100m Relay Round 1\; Women's 800m Semifi
+ nal\; Mixed 4x100m Relay Final\; Men's Decathlon 1500m Final · LA Memoria
+ l Coliseum · Sessió ATH06
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Athletics (Track & Field) — Women's 400m Round 1
+DESCRIPTION:Women's 400m Round 1\; Women's Pole Vault Qualification A and B
+ \; Men's 3000m Steeplechase Round 1\; Men's Triple Jump Qualification A an
+ d B\; Men's 110m Hurdles Round 1 · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T163000Z
+DTEND:20280718T191000Z
+SUMMARY:Athletics (Track & Field) — Women's 400m Round 1
+DESCRIPTION:Women's 400m Round 1\; Women's Pole Vault Qualification A and B
+ \; Men's 3000m Steeplechase Round 1\; Men's Triple Jump Qualification A an
+ d B\; Men's 110m Hurdles Round 1 · LA Memorial Coliseum · Sessió ATH07
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Athletics (Track & Field) — Men's 400m Hurdles Semifinal
+DESCRIPTION:Men's 400m Hurdles Semifinal\; Women's 5000m Final\; Men's 200m
+  Round 1\; Men's High Jump Final\; Men's Discus Throw Final\; Men's 1500m 
+ Semifinal\; Women's 400m Hurdles Semifinal\; Women's 800m Final · LA Memo
+ rial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T225000Z
+DTEND:20280719T015000Z
+SUMMARY:Athletics (Track & Field) — Men's 400m Hurdles Semifinal
+DESCRIPTION:Men's 400m Hurdles Semifinal\; Women's 5000m Final\; Men's 200m
+  Round 1\; Men's High Jump Final\; Men's Discus Throw Final\; Men's 1500m 
+ Semifinal\; Women's 400m Hurdles Semifinal\; Women's 800m Final · LA Memo
+ rial Coliseum · Sessió ATH08
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Athletics (Track & Field) — Women's Long Jump Qualification A and
+  B
+DESCRIPTION:Women's Long Jump Qualification A and B\; Men's 400m Repechage\
+ ; Men's Hammer Throw Qualification A and B\; Women's 400m Repechage\; Men'
+ s 200m Repechage\; Women's 3000m Steeplechase Final · LA Memorial Coliseu
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T163500Z
+DTEND:20280719T190000Z
+SUMMARY:Athletics (Track & Field) — Women's Long Jump Qualification A and
+  B
+DESCRIPTION:Women's Long Jump Qualification A and B\; Men's 400m Repechage\
+ ; Men's Hammer Throw Qualification A and B\; Women's 400m Repechage\; Men'
+ s 200m Repechage\; Women's 3000m Steeplechase Final · LA Memorial Coliseu
+ m · Sessió ATH09
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Athletics (Track & Field) — Men's Long Jump Final
+DESCRIPTION:Men's Long Jump Final\; Men's 110m Hurdles Repechage\; Women's 
+ Discus Throw Final\; Women's 1500m Round 1\; Women's 200m Round 1\; Men's 
+ 1500m Final\; Men's 400m Hurdles Final · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T230000Z
+DTEND:20280720T014000Z
+SUMMARY:Athletics (Track & Field) — Men's Long Jump Final
+DESCRIPTION:Men's Long Jump Final\; Men's 110m Hurdles Repechage\; Women's 
+ Discus Throw Final\; Women's 1500m Round 1\; Women's 200m Round 1\; Men's 
+ 1500m Final\; Men's 400m Hurdles Final · LA Memorial Coliseum · Sessió 
+ ATH10
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Athletics (Track & Field) — Men's 800m Round 1
+DESCRIPTION:Men's 800m Round 1\; Women's Javelin Throw Qualification A and 
+ B\; Women's High Jump Qualification A and B\; Women's 200m Repechage\; Men
+ 's 3000m Steeplechase Final · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T163000Z
+DTEND:20280720T190000Z
+SUMMARY:Athletics (Track & Field) — Men's 800m Round 1
+DESCRIPTION:Men's 800m Round 1\; Women's Javelin Throw Qualification A and 
+ B\; Women's High Jump Qualification A and B\; Women's 200m Repechage\; Men
+ 's 3000m Steeplechase Final · LA Memorial Coliseum · Sessió ATH11
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Athletics (Track & Field) — Men's 400m Semifinal
+DESCRIPTION:Men's 400m Semifinal\; Women's 400m Semifinal\; Women's Pole Va
+ ult Final\; Women's 1500m Repechage\; Men's Hammer Throw Final\; Men's 110
+ m Hurdles Semifinal\; Men's 200m Semifinal\; Women's 400m Hurdles Final ·
+  LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T223000Z
+DTEND:20280721T013000Z
+SUMMARY:Athletics (Track & Field) — Men's 400m Semifinal
+DESCRIPTION:Men's 400m Semifinal\; Women's 400m Semifinal\; Women's Pole Va
+ ult Final\; Women's 1500m Repechage\; Men's Hammer Throw Final\; Men's 110
+ m Hurdles Semifinal\; Men's 200m Semifinal\; Women's 400m Hurdles Final ·
+  LA Memorial Coliseum · Sessió ATH12
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Athletics (Track & Field) — Women's 100m Hurdles Round 1
+DESCRIPTION:Women's 100m Hurdles Round 1\; Women's Heptathlon High Jump A a
+ nd B\; Women's Heptathlon 100m Hurdles Heats\; Men's 5000m Round 1\; Men's
+  Triple Jump Final\; Men's 800m Repechage · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T163500Z
+DTEND:20280721T192500Z
+SUMMARY:Athletics (Track & Field) — Women's 100m Hurdles Round 1
+DESCRIPTION:Women's 100m Hurdles Round 1\; Women's Heptathlon High Jump A a
+ nd B\; Women's Heptathlon 100m Hurdles Heats\; Men's 5000m Round 1\; Men's
+  Triple Jump Final\; Men's 800m Repechage · LA Memorial Coliseum · Sessi
+ ó ATH13
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Athletics (Track & Field) — Women's Heptathlon 200m Heats
+DESCRIPTION:Women's Heptathlon 200m Heats\; Women's 200m Semifinal\; Women'
+ s Heptathlon Shot Put A and B\; Men's Javelin Throw Qualification A and B\
+ ; Women's 1500m Semifinal\; Women's 10\,000m Final\; Men's 110m Hurdles Fi
+ nal\; Men's 200m Final · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T231500Z
+DTEND:20280722T022000Z
+SUMMARY:Athletics (Track & Field) — Women's Heptathlon 200m Heats
+DESCRIPTION:Women's Heptathlon 200m Heats\; Women's 200m Semifinal\; Women'
+ s Heptathlon Shot Put A and B\; Men's Javelin Throw Qualification A and B\
+ ; Women's 1500m Semifinal\; Women's 10\,000m Final\; Men's 110m Hurdles Fi
+ nal\; Men's 200m Final · LA Memorial Coliseum · Sessió ATH14
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Athletics (Track & Field) — Men's 4x100m Relay Round 1
+DESCRIPTION:Men's 4x100m Relay Round 1\; Women's Long Jump Final\; Women's 
+ Heptathlon Long Jump A and B\; Women's 100m Hurdles Repechage\; Women's He
+ ptathlon Javelin Throw A and B\; Men's 800m Semifinal\; Women's 400m Final
+ \; Men's 400m Final\; Women's Heptathlon 800m Final\; Women's 200m Final 
+ · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T210500Z
+DTEND:20280723T011500Z
+SUMMARY:Athletics (Track & Field) — Men's 4x100m Relay Round 1
+DESCRIPTION:Men's 4x100m Relay Round 1\; Women's Long Jump Final\; Women's 
+ Heptathlon Long Jump A and B\; Women's 100m Hurdles Repechage\; Women's He
+ ptathlon Javelin Throw A and B\; Men's 800m Semifinal\; Women's 400m Final
+ \; Men's 400m Final\; Women's Heptathlon 800m Final\; Women's 200m Final 
+ · LA Memorial Coliseum · Sessió ATH15
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Athletics (Track & Field) — Women's 4x100m Relay Round 1
+DESCRIPTION:Women's 4x100m Relay Round 1\; Women's 4x400m Relay Round 1\; W
+ omen's High Jump Final\; Men's 4x400m Relay Round 1\; Women's Javelin Thro
+ w Final\; Women's 100m Hurdles Semifinal\; Men's 800m Final\; Women's 1500
+ m Final · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T224000Z
+DTEND:20280724T011500Z
+SUMMARY:Athletics (Track & Field) — Women's 4x100m Relay Round 1
+DESCRIPTION:Women's 4x100m Relay Round 1\; Women's 4x400m Relay Round 1\; W
+ omen's High Jump Final\; Men's 4x400m Relay Round 1\; Women's Javelin Thro
+ w Final\; Women's 100m Hurdles Semifinal\; Men's 800m Final\; Women's 1500
+ m Final · LA Memorial Coliseum · Sessió ATH16
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Athletics (Track & Field) — Women's 100m Hurdles Final
+DESCRIPTION:Women's 100m Hurdles Final\; Men's 5000m Final\; Men's 4x100m R
+ elay Final\; Men's Javelin Throw Final\; Women's 4x100m Relay Final\; Men'
+ s 4x400m Relay Final · LA Memorial Coliseum
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T232500Z
+DTEND:20280725T011500Z
+SUMMARY:Athletics (Track & Field) — Women's 100m Hurdles Final
+DESCRIPTION:Women's 100m Hurdles Final\; Men's 5000m Final\; Men's 4x100m R
+ elay Final\; Men's Javelin Throw Final\; Women's 4x100m Relay Final\; Men'
+ s 4x400m Relay Final · LA Memorial Coliseum · Sessió ATH17
+LOCATION:LA Memorial Coliseum
+END:VEVENT
+END:VCALENDAR

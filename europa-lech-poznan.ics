@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lech Poznań · Europa League
+BEGIN:VEVENT
+UID:europa-20261126-union-saint-gilloise-lech-poznan-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:LECH POZNAŃ | Europa League | J5 | ✈️ | Union Saint-Gilloise 
+ 🇧🇪
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · UEFA Europa League\nEstadi: Kin
+ g Power at Den Dreef Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20261126-union-saint-gilloise-lech-poznan@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261126T174500Z
+DTEND:20261126T193000Z
+SUMMARY:Union Saint-Gilloise - Lech Poznań
+DESCRIPTION:UEFA Europa League
+LOCATION:King Power at Den Dreef Stadion
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20261210-lech-poznan-ferencvarosi-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:LECH POZNAŃ | Europa League | J6 | 🏟️ | Ferencvarosi 🇭🇺
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Europa League\nEstadi: Mun
+ icipal Stadium-Poznan
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20261210-lech-poznan-ferencvarosi@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261210T200000Z
+DTEND:20261210T214500Z
+SUMMARY:Lech Poznań - Ferencvarosi
+DESCRIPTION:UEFA Europa League
+LOCATION:Municipal Stadium-Poznan
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270121-lech-poznan-torreense-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:LECH POZNAŃ | Europa League | J7 | 🏟️ | Torreense 🇵🇹
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Europa League\nEstadi: Mun
+ icipal Stadium-Poznan
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270121-lech-poznan-torreense@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270121T200000Z
+DTEND:20270121T214500Z
+SUMMARY:Lech Poznań - Torreense
+DESCRIPTION:UEFA Europa League
+LOCATION:Municipal Stadium-Poznan
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270128-ofi-lech-poznan-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:LECH POZNAŃ | Europa League | J8 | ✈️ | OFI 🇬🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Europa League\nEstadi: Pan
+ kritio
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270128-ofi-lech-poznan@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270128T200000Z
+DTEND:20270128T214500Z
+SUMMARY:OFI - Lech Poznań
+DESCRIPTION:UEFA Europa League
+LOCATION:Pankritio
+END:VEVENT
+END:VCALENDAR

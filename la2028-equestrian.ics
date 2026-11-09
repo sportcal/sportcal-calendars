@@ -1,0 +1,328 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Equestrian
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Equestrian — Eventing Dressage Team & Individual - Day 1\, Sessio
+ n 1
+DESCRIPTION:Eventing Dressage Team & Individual - Day 1\, Session 1 · Sant
+ a Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T160000Z
+DTEND:20280715T183000Z
+SUMMARY:Equestrian — Eventing Dressage Team & Individual - Day 1\, Sessio
+ n 1
+DESCRIPTION:Eventing Dressage Team & Individual - Day 1\, Session 1 · Sant
+ a Anita Park · Sessió EQU01
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Equestrian — Eventing Dressage Team & Individual - Day 1\, Sessio
+ n 2
+DESCRIPTION:Eventing Dressage Team & Individual - Day 1\, Session 2 · Sant
+ a Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T233000Z
+DTEND:20280716T020000Z
+SUMMARY:Equestrian — Eventing Dressage Team & Individual - Day 1\, Sessio
+ n 2
+DESCRIPTION:Eventing Dressage Team & Individual - Day 1\, Session 2 · Sant
+ a Anita Park · Sessió EQU02
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Equestrian — Eventing Dressage Team & Individual - Day 2\, Sessio
+ n 1
+DESCRIPTION:Eventing Dressage Team & Individual - Day 2\, Session 1 · Sant
+ a Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T160000Z
+DTEND:20280716T183000Z
+SUMMARY:Equestrian — Eventing Dressage Team & Individual - Day 2\, Sessio
+ n 1
+DESCRIPTION:Eventing Dressage Team & Individual - Day 2\, Session 1 · Sant
+ a Anita Park · Sessió EQU03
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Equestrian — Eventing Cross Country Team & Individual
+DESCRIPTION:Eventing Cross Country Team & Individual · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T150000Z
+DTEND:20280717T183000Z
+SUMMARY:Equestrian — Eventing Cross Country Team & Individual
+DESCRIPTION:Eventing Cross Country Team & Individual · Santa Anita Park ·
+  Sessió EQU04
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Equestrian — Eventing Jumping Individual Final
+DESCRIPTION:Eventing Jumping Individual Final\; Eventing Jumping Team Final
+  · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T233000Z
+DTEND:20280719T050000Z
+SUMMARY:Equestrian — Eventing Jumping Individual Final
+DESCRIPTION:Eventing Jumping Individual Final\; Eventing Jumping Team Final
+  · Santa Anita Park · Sessió EQU05
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Equestrian — Dressage Grand Prix Team & Individual Qualifier - Da
+ y 1\, Session 1
+DESCRIPTION:Dressage Grand Prix Team & Individual Qualifier - Day 1\, Sessi
+ on 1 · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T160000Z
+DTEND:20280720T184500Z
+SUMMARY:Equestrian — Dressage Grand Prix Team & Individual Qualifier - Da
+ y 1\, Session 1
+DESCRIPTION:Dressage Grand Prix Team & Individual Qualifier - Day 1\, Sessi
+ on 1 · Santa Anita Park · Sessió EQU06
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Equestrian — Dressage Grand Prix Team & Individual Qualifier - Da
+ y 1\, Session 2
+DESCRIPTION:Dressage Grand Prix Team & Individual Qualifier - Day 1\, Sessi
+ on 2 · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T231500Z
+DTEND:20280721T020000Z
+SUMMARY:Equestrian — Dressage Grand Prix Team & Individual Qualifier - Da
+ y 1\, Session 2
+DESCRIPTION:Dressage Grand Prix Team & Individual Qualifier - Day 1\, Sessi
+ on 2 · Santa Anita Park · Sessió EQU07
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Equestrian — Dressage Grand Prix Team & Individual Qualifier - Da
+ y 2\, Session 1
+DESCRIPTION:Dressage Grand Prix Team & Individual Qualifier - Day 2\, Sessi
+ on 1 · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T160000Z
+DTEND:20280721T184500Z
+SUMMARY:Equestrian — Dressage Grand Prix Team & Individual Qualifier - Da
+ y 2\, Session 1
+DESCRIPTION:Dressage Grand Prix Team & Individual Qualifier - Day 2\, Sessi
+ on 1 · Santa Anita Park · Sessió EQU08
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Equestrian — Dressage Grand Prix Team & Individual Qualifier - Da
+ y 2\, Session 2
+DESCRIPTION:Dressage Grand Prix Team & Individual Qualifier - Day 2\, Sessi
+ on 2 · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T231500Z
+DTEND:20280722T020000Z
+SUMMARY:Equestrian — Dressage Grand Prix Team & Individual Qualifier - Da
+ y 2\, Session 2
+DESCRIPTION:Dressage Grand Prix Team & Individual Qualifier - Day 2\, Sessi
+ on 2 · Santa Anita Park · Sessió EQU09
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Equestrian — Dressage Grand Prix Special Team Final - Session 1
+DESCRIPTION:Dressage Grand Prix Special Team Final - Session 1 · Santa Ani
+ ta Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T160000Z
+DTEND:20280722T184500Z
+SUMMARY:Equestrian — Dressage Grand Prix Special Team Final - Session 1
+DESCRIPTION:Dressage Grand Prix Special Team Final - Session 1 · Santa Ani
+ ta Park · Sessió EQU10
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Equestrian — Dressage Grand Prix Special Team Final - Session 2
+DESCRIPTION:Dressage Grand Prix Special Team Final - Session 2 · Santa Ani
+ ta Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T231500Z
+DTEND:20280723T020000Z
+SUMMARY:Equestrian — Dressage Grand Prix Special Team Final - Session 2
+DESCRIPTION:Dressage Grand Prix Special Team Final - Session 2 · Santa Ani
+ ta Park · Sessió EQU11
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Equestrian — Dressage Grand Prix Freestyle Individual Final
+DESCRIPTION:Dressage Grand Prix Freestyle Individual Final · Santa Anita P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T153000Z
+DTEND:20280724T190000Z
+SUMMARY:Equestrian — Dressage Grand Prix Freestyle Individual Final
+DESCRIPTION:Dressage Grand Prix Freestyle Individual Final · Santa Anita P
+ ark · Sessió EQU12
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Equestrian — Jumping Team Qualifier
+DESCRIPTION:Jumping Team Qualifier · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T160000Z
+DTEND:20280725T190000Z
+SUMMARY:Equestrian — Jumping Team Qualifier
+DESCRIPTION:Jumping Team Qualifier · Santa Anita Park · Sessió EQU13
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Equestrian — Jumping Team Final
+DESCRIPTION:Jumping Team Final · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T160000Z
+DTEND:20280726T181000Z
+SUMMARY:Equestrian — Jumping Team Final
+DESCRIPTION:Jumping Team Final · Santa Anita Park · Sessió EQU14
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Equestrian — Jumping Individual Qualifier
+DESCRIPTION:Jumping Individual Qualifier · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T150000Z
+DTEND:20280728T190000Z
+SUMMARY:Equestrian — Jumping Individual Qualifier
+DESCRIPTION:Jumping Individual Qualifier · Santa Anita Park · Sessió EQU
+ 15
+LOCATION:Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Equestrian — Jumping Individual Final
+DESCRIPTION:Jumping Individual Final\; Women's Épée Individual Table of 6
+ 4 · Santa Anita Park
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-equ16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T160000Z
+DTEND:20280729T180000Z
+SUMMARY:Equestrian — Jumping Individual Final
+DESCRIPTION:Jumping Individual Final\; Women's Épée Individual Table of 6
+ 4 · Santa Anita Park · Sessió EQU16
+LOCATION:Santa Anita Park
+END:VEVENT
+END:VCALENDAR

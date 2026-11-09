@@ -1,0 +1,717 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Table Tennis
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Table Tennis — Women's Singles Round of 64
+DESCRIPTION:Women's Singles Round of 64\; Women's 4x100m Medley Relay Final
+ \; Men's Singles Round of 64\; Mixed Doubles Round of 16 · LA Convention 
+ Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T170000Z
+DTEND:20280715T200000Z
+SUMMARY:Table Tennis — Women's Singles Round of 64
+DESCRIPTION:Women's Singles Round of 64\; Women's 4x100m Medley Relay Final
+ \; Men's Singles Round of 64\; Mixed Doubles Round of 16 · LA Convention 
+ Center Hall 3 · Sessió TTE01
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Table Tennis — Women's Doubles Round of 16
+DESCRIPTION:Women's Doubles Round of 16\; Men's Doubles Round of 16 · LA C
+ onvention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T213000Z
+DTEND:20280716T003000Z
+SUMMARY:Table Tennis — Women's Doubles Round of 16
+DESCRIPTION:Women's Doubles Round of 16\; Men's Doubles Round of 16 · LA C
+ onvention Center Hall 3 · Sessió TTE02
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Table Tennis — Women's Singles Round of 64
+DESCRIPTION:Women's Singles Round of 64\; Men's Singles Round of 64 · LA C
+ onvention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T023000Z
+DTEND:20280716T053000Z
+SUMMARY:Table Tennis — Women's Singles Round of 64
+DESCRIPTION:Women's Singles Round of 64\; Men's Singles Round of 64 · LA C
+ onvention Center Hall 3 · Sessió TTE03
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Table Tennis — Men's Singles Round of 64
+DESCRIPTION:Men's Singles Round of 64\; Mixed Doubles Quarterfinal\; Women'
+ s Singles Round of 64 · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T170000Z
+DTEND:20280716T200000Z
+SUMMARY:Table Tennis — Men's Singles Round of 64
+DESCRIPTION:Men's Singles Round of 64\; Mixed Doubles Quarterfinal\; Women'
+ s Singles Round of 64 · LA Convention Center Hall 3 · Sessió TTE04
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Table Tennis — Women's Singles Round of 64
+DESCRIPTION:Women's Singles Round of 64\; Men's Singles Round of 64 · LA C
+ onvention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T223000Z
+DTEND:20280717T013000Z
+SUMMARY:Table Tennis — Women's Singles Round of 64
+DESCRIPTION:Women's Singles Round of 64\; Men's Singles Round of 64 · LA C
+ onvention Center Hall 3 · Sessió TTE05
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Table Tennis — Men's Singles Round of 64
+DESCRIPTION:Men's Singles Round of 64\; Mixed Doubles Semifinal\; Women's S
+ ingles Round of 64 · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T031500Z
+DTEND:20280717T061500Z
+SUMMARY:Table Tennis — Men's Singles Round of 64
+DESCRIPTION:Men's Singles Round of 64\; Mixed Doubles Semifinal\; Women's S
+ ingles Round of 64 · LA Convention Center Hall 3 · Sessió TTE06
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Table Tennis — Men's Singles Round of 64
+DESCRIPTION:Men's Singles Round of 64\; Women's Doubles Quarterfinal\; Men'
+ s Doubles Quarterfinal\; Women's Singles Round of 64 · LA Convention Cent
+ er Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T170000Z
+DTEND:20280717T200000Z
+SUMMARY:Table Tennis — Men's Singles Round of 64
+DESCRIPTION:Men's Singles Round of 64\; Women's Doubles Quarterfinal\; Men'
+ s Doubles Quarterfinal\; Women's Singles Round of 64 · LA Convention Cent
+ er Hall 3 · Sessió TTE07
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Table Tennis — Women's Singles Round of 64
+DESCRIPTION:Women's Singles Round of 64\; Men's Singles Round of 64 · LA C
+ onvention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T220000Z
+DTEND:20280718T010000Z
+SUMMARY:Table Tennis — Women's Singles Round of 64
+DESCRIPTION:Women's Singles Round of 64\; Men's Singles Round of 64 · LA C
+ onvention Center Hall 3 · Sessió TTE08
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Table Tennis — Mixed Doubles Gold Medal Match
+DESCRIPTION:Mixed Doubles Gold Medal Match\; Mixed Doubles Bronze Medal Mat
+ ch · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T040000Z
+DTEND:20280718T061500Z
+SUMMARY:Table Tennis — Mixed Doubles Gold Medal Match
+DESCRIPTION:Mixed Doubles Gold Medal Match\; Mixed Doubles Bronze Medal Mat
+ ch · LA Convention Center Hall 3 · Sessió TTE09
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Table Tennis — Men's Singles Round of 32
+DESCRIPTION:Men's Singles Round of 32\; Men's Doubles Semifinal\; Women's S
+ ingles Round of 32 · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T170000Z
+DTEND:20280718T200000Z
+SUMMARY:Table Tennis — Men's Singles Round of 32
+DESCRIPTION:Men's Singles Round of 32\; Men's Doubles Semifinal\; Women's S
+ ingles Round of 32 · LA Convention Center Hall 3 · Sessió TTE10
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Table Tennis — Women's Singles Round of 32
+DESCRIPTION:Women's Singles Round of 32\; Men's Singles Round of 32 · LA C
+ onvention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T220000Z
+DTEND:20280719T010000Z
+SUMMARY:Table Tennis — Women's Singles Round of 32
+DESCRIPTION:Women's Singles Round of 32\; Men's Singles Round of 32 · LA C
+ onvention Center Hall 3 · Sessió TTE11
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Table Tennis — Men's Doubles Gold Medal Match
+DESCRIPTION:Men's Doubles Gold Medal Match\; Men's Doubles Bronze Medal Mat
+ ch · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T040000Z
+DTEND:20280719T061500Z
+SUMMARY:Table Tennis — Men's Doubles Gold Medal Match
+DESCRIPTION:Men's Doubles Gold Medal Match\; Men's Doubles Bronze Medal Mat
+ ch · LA Convention Center Hall 3 · Sessió TTE12
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Table Tennis — Men's Singles Round of 32
+DESCRIPTION:Men's Singles Round of 32\; Women's Doubles Semifinal\; Women's
+  Singles Round of 32 · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T170000Z
+DTEND:20280719T200000Z
+SUMMARY:Table Tennis — Men's Singles Round of 32
+DESCRIPTION:Men's Singles Round of 32\; Women's Doubles Semifinal\; Women's
+  Singles Round of 32 · LA Convention Center Hall 3 · Sessió TTE13
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Table Tennis — Women's Singles Round of 32
+DESCRIPTION:Women's Singles Round of 32\; Men's Singles Round of 32 · LA C
+ onvention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T220000Z
+DTEND:20280720T010000Z
+SUMMARY:Table Tennis — Women's Singles Round of 32
+DESCRIPTION:Women's Singles Round of 32\; Men's Singles Round of 32 · LA C
+ onvention Center Hall 3 · Sessió TTE14
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Table Tennis — Women's Doubles Gold Medal Match
+DESCRIPTION:Women's Doubles Gold Medal Match\; Women's Doubles Bronze Medal
+  Match · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T040000Z
+DTEND:20280720T061500Z
+SUMMARY:Table Tennis — Women's Doubles Gold Medal Match
+DESCRIPTION:Women's Doubles Gold Medal Match\; Women's Doubles Bronze Medal
+  Match · LA Convention Center Hall 3 · Sessió TTE15
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Table Tennis — Women's Singles Round of 16
+DESCRIPTION:Women's Singles Round of 16\; Men's Singles Round of 16 · LA C
+ onvention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T170000Z
+DTEND:20280720T200000Z
+SUMMARY:Table Tennis — Women's Singles Round of 16
+DESCRIPTION:Women's Singles Round of 16\; Men's Singles Round of 16 · LA C
+ onvention Center Hall 3 · Sessió TTE16
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Table Tennis — Women's Singles Round of 16
+DESCRIPTION:Women's Singles Round of 16\; Men's Singles Round of 16 · LA C
+ onvention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T220000Z
+DTEND:20280721T010000Z
+SUMMARY:Table Tennis — Women's Singles Round of 16
+DESCRIPTION:Women's Singles Round of 16\; Men's Singles Round of 16 · LA C
+ onvention Center Hall 3 · Sessió TTE17
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte18-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Table Tennis — Women's Singles Round of 16
+DESCRIPTION:Women's Singles Round of 16\; Men's Singles Round of 16 · LA C
+ onvention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte18@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T030000Z
+DTEND:20280721T050000Z
+SUMMARY:Table Tennis — Women's Singles Round of 16
+DESCRIPTION:Women's Singles Round of 16\; Men's Singles Round of 16 · LA C
+ onvention Center Hall 3 · Sessió TTE18
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte19-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Table Tennis — Women's Singles Quarterfinal
+DESCRIPTION:Women's Singles Quarterfinal\; Men's Singles Quarterfinal · LA
+  Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte19@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T170000Z
+DTEND:20280721T200000Z
+SUMMARY:Table Tennis — Women's Singles Quarterfinal
+DESCRIPTION:Women's Singles Quarterfinal\; Men's Singles Quarterfinal · LA
+  Convention Center Hall 3 · Sessió TTE19
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte20-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Table Tennis — Women's Singles Quarterfinal
+DESCRIPTION:Women's Singles Quarterfinal\; Men's Singles Quarterfinal · LA
+  Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte20@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T220000Z
+DTEND:20280722T010000Z
+SUMMARY:Table Tennis — Women's Singles Quarterfinal
+DESCRIPTION:Women's Singles Quarterfinal\; Men's Singles Quarterfinal · LA
+  Convention Center Hall 3 · Sessió TTE20
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte21-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Table Tennis — Women's Singles Quarterfinal
+DESCRIPTION:Women's Singles Quarterfinal\; Men's Singles Quarterfinal · LA
+  Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte21@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T040000Z
+DTEND:20280722T060000Z
+SUMMARY:Table Tennis — Women's Singles Quarterfinal
+DESCRIPTION:Women's Singles Quarterfinal\; Men's Singles Quarterfinal · LA
+  Convention Center Hall 3 · Sessió TTE21
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte22-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Table Tennis — Women's Singles Semifinal
+DESCRIPTION:Women's Singles Semifinal · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte22@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T210000Z
+DTEND:20280722T230000Z
+SUMMARY:Table Tennis — Women's Singles Semifinal
+DESCRIPTION:Women's Singles Semifinal · LA Convention Center Hall 3 · Ses
+ sió TTE22
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte23-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Table Tennis — Women's Singles Gold Medal Match
+DESCRIPTION:Women's Singles Gold Medal Match\; Women's Singles Bronze Medal
+  Match · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte23@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T040000Z
+DTEND:20280723T061500Z
+SUMMARY:Table Tennis — Women's Singles Gold Medal Match
+DESCRIPTION:Women's Singles Gold Medal Match\; Women's Singles Bronze Medal
+  Match · LA Convention Center Hall 3 · Sessió TTE23
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte24-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Table Tennis — Men's Singles Semifinal
+DESCRIPTION:Men's Singles Semifinal · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte24@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T210000Z
+DTEND:20280723T230000Z
+SUMMARY:Table Tennis — Men's Singles Semifinal
+DESCRIPTION:Men's Singles Semifinal · LA Convention Center Hall 3 · Sessi
+ ó TTE24
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte25-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Table Tennis — Men's Singles Gold Medal Match
+DESCRIPTION:Men's Singles Gold Medal Match\; Men's Singles Bronze Medal Mat
+ ch · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte25@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T040000Z
+DTEND:20280724T061500Z
+SUMMARY:Table Tennis — Men's Singles Gold Medal Match
+DESCRIPTION:Men's Singles Gold Medal Match\; Men's Singles Bronze Medal Mat
+ ch · LA Convention Center Hall 3 · Sessió TTE25
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte26-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Table Tennis — Mixed Team Groups 1 and 2 Round 1
+DESCRIPTION:Mixed Team Groups 1 and 2 Round 1 · LA Convention Center Hall 
+ 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte26@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T170000Z
+DTEND:20280724T220000Z
+SUMMARY:Table Tennis — Mixed Team Groups 1 and 2 Round 1
+DESCRIPTION:Mixed Team Groups 1 and 2 Round 1 · LA Convention Center Hall 
+ 3 · Sessió TTE26
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte27-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Table Tennis — Mixed Team Groups 3 and 4 Round 1
+DESCRIPTION:Mixed Team Groups 3 and 4 Round 1 · LA Convention Center Hall 
+ 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte27@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T000000Z
+DTEND:20280725T050000Z
+SUMMARY:Table Tennis — Mixed Team Groups 3 and 4 Round 1
+DESCRIPTION:Mixed Team Groups 3 and 4 Round 1 · LA Convention Center Hall 
+ 3 · Sessió TTE27
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte28-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Table Tennis — Mixed Team Groups 1 and 2 Round 2
+DESCRIPTION:Mixed Team Groups 1 and 2 Round 2 · LA Convention Center Hall 
+ 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte28@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T170000Z
+DTEND:20280725T220000Z
+SUMMARY:Table Tennis — Mixed Team Groups 1 and 2 Round 2
+DESCRIPTION:Mixed Team Groups 1 and 2 Round 2 · LA Convention Center Hall 
+ 3 · Sessió TTE28
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte29-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Table Tennis — Mixed Team Groups 3 and 4 Round 2
+DESCRIPTION:Mixed Team Groups 3 and 4 Round 2 · LA Convention Center Hall 
+ 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte29@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T000000Z
+DTEND:20280726T050000Z
+SUMMARY:Table Tennis — Mixed Team Groups 3 and 4 Round 2
+DESCRIPTION:Mixed Team Groups 3 and 4 Round 2 · LA Convention Center Hall 
+ 3 · Sessió TTE29
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte30-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Table Tennis — Mixed Team Groups 1 and 2 Round 3
+DESCRIPTION:Mixed Team Groups 1 and 2 Round 3 · LA Convention Center Hall 
+ 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte30@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T170000Z
+DTEND:20280726T220000Z
+SUMMARY:Table Tennis — Mixed Team Groups 1 and 2 Round 3
+DESCRIPTION:Mixed Team Groups 1 and 2 Round 3 · LA Convention Center Hall 
+ 3 · Sessió TTE30
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte31-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Table Tennis — Mixed Team Groups 3 and 4 Round 3
+DESCRIPTION:Mixed Team Groups 3 and 4 Round 3 · LA Convention Center Hall 
+ 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte31@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T000000Z
+DTEND:20280727T050000Z
+SUMMARY:Table Tennis — Mixed Team Groups 3 and 4 Round 3
+DESCRIPTION:Mixed Team Groups 3 and 4 Round 3 · LA Convention Center Hall 
+ 3 · Sessió TTE31
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte32-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Table Tennis — Mixed Team Quarterfinal (2 Matches)
+DESCRIPTION:Mixed Team Quarterfinal (2 Matches) · LA Convention Center Hal
+ l 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte32@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T170000Z
+DTEND:20280727T220000Z
+SUMMARY:Table Tennis — Mixed Team Quarterfinal (2 Matches)
+DESCRIPTION:Mixed Team Quarterfinal (2 Matches) · LA Convention Center Hal
+ l 3 · Sessió TTE32
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte33-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Table Tennis — Mixed Team Quarterfinal (2 Matches)
+DESCRIPTION:Mixed Team Quarterfinal (2 Matches) · LA Convention Center Hal
+ l 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte33@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T000000Z
+DTEND:20280728T050000Z
+SUMMARY:Table Tennis — Mixed Team Quarterfinal (2 Matches)
+DESCRIPTION:Mixed Team Quarterfinal (2 Matches) · LA Convention Center Hal
+ l 3 · Sessió TTE33
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte34-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Table Tennis — Mixed Team Semifinal
+DESCRIPTION:Mixed Team Semifinal · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte34@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T193000Z
+DTEND:20280728T220000Z
+SUMMARY:Table Tennis — Mixed Team Semifinal
+DESCRIPTION:Mixed Team Semifinal · LA Convention Center Hall 3 · Sessió 
+ TTE34
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte35-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Table Tennis — Mixed Team Semifinal
+DESCRIPTION:Mixed Team Semifinal · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte35@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T030000Z
+DTEND:20280729T053000Z
+SUMMARY:Table Tennis — Mixed Team Semifinal
+DESCRIPTION:Mixed Team Semifinal · LA Convention Center Hall 3 · Sessió 
+ TTE35
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte36-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Table Tennis — Mixed Team Bronze Medal Match
+DESCRIPTION:Mixed Team Bronze Medal Match · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte36@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T193000Z
+DTEND:20280729T220000Z
+SUMMARY:Table Tennis — Mixed Team Bronze Medal Match
+DESCRIPTION:Mixed Team Bronze Medal Match · LA Convention Center Hall 3 ·
+  Sessió TTE36
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte37-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Table Tennis — Mixed Team Gold Medal Match
+DESCRIPTION:Mixed Team Gold Medal Match · LA Convention Center Hall 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tte37@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T030000Z
+DTEND:20280730T054500Z
+SUMMARY:Table Tennis — Mixed Team Gold Medal Match
+DESCRIPTION:Mixed Team Gold Medal Match · LA Convention Center Hall 3 · S
+ essió TTE37
+LOCATION:LA Convention Center Hall 3
+END:VEVENT
+END:VCALENDAR

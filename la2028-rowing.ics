@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Rowing
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Rowing — Women's Single Sculls Heats
+DESCRIPTION:Women's Single Sculls Heats\; Men's Double Sculls Heats\; Men's
+  Pair Heats · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T230000Z
+DTEND:20280716T002500Z
+SUMMARY:Rowing — Women's Single Sculls Heats
+DESCRIPTION:Women's Single Sculls Heats\; Men's Double Sculls Heats\; Men's
+  Pair Heats · Marine Stadium · Sessió ROW01
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Rowing — Men's Single Sculls Heats
+DESCRIPTION:Men's Single Sculls Heats\; Women's Double Sculls Heats\; Women
+ 's Pair Heats\; Men's Double Sculls Semifinal\; Men's Pair Semifinal\; Wom
+ en's Single Sculls Quarterfinal · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T160000Z
+DTEND:20280716T175500Z
+SUMMARY:Rowing — Men's Single Sculls Heats
+DESCRIPTION:Men's Single Sculls Heats\; Women's Double Sculls Heats\; Women
+ 's Pair Heats\; Men's Double Sculls Semifinal\; Men's Pair Semifinal\; Wom
+ en's Single Sculls Quarterfinal · Marine Stadium · Sessió ROW02
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Rowing — Men's Pair Final C
+DESCRIPTION:Men's Pair Final C\; Women's Double Sculls Semifinal\; Women's 
+ Pair Semifinal\; Men's Double Sculls Final C\; Men's Double Sculls Final B
+ \; Men's Pair Final B\; Men's Double Sculls Final A\; Men's Pair Final A 
+ · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T160000Z
+DTEND:20280717T181500Z
+SUMMARY:Rowing — Men's Pair Final C
+DESCRIPTION:Men's Pair Final C\; Women's Double Sculls Semifinal\; Women's 
+ Pair Semifinal\; Men's Double Sculls Final C\; Men's Double Sculls Final B
+ \; Men's Pair Final B\; Men's Double Sculls Final A\; Men's Pair Final A 
+ · Marine Stadium · Sessió ROW03
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Rowing — Women's Pair Final C
+DESCRIPTION:Women's Pair Final C\; Men's Quadruple Sculls Heats\; Men's Fou
+ r Heats\; Men's Single Sculls Quarterfinal\; Women's Double Sculls Final C
+ \; Women's Double Sculls Final B\; Women's Pair Final B\; Women's Double S
+ culls Final A\; Women's Pair Final A · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T160000Z
+DTEND:20280718T181500Z
+SUMMARY:Rowing — Women's Pair Final C
+DESCRIPTION:Women's Pair Final C\; Men's Quadruple Sculls Heats\; Men's Fou
+ r Heats\; Men's Single Sculls Quarterfinal\; Women's Double Sculls Final C
+ \; Women's Double Sculls Final B\; Women's Pair Final B\; Women's Double S
+ culls Final A\; Women's Pair Final A · Marine Stadium · Sessió ROW04
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Rowing — Women's Four Heats
+DESCRIPTION:Women's Four Heats\; Women's Single Sculls Final F\; Women's Si
+ ngle Sculls Final E\; Women's Single Sculls Semifinal\; Women's Quadruple 
+ Sculls Heats\; Men's Quadruple Sculls Final B\; Men's Four Final B\; Men's
+  Quadruple Sculls Final A\; Men's Four Final A · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T160000Z
+DTEND:20280719T175500Z
+SUMMARY:Rowing — Women's Four Heats
+DESCRIPTION:Women's Four Heats\; Women's Single Sculls Final F\; Women's Si
+ ngle Sculls Final E\; Women's Single Sculls Semifinal\; Women's Quadruple 
+ Sculls Heats\; Men's Quadruple Sculls Final B\; Men's Four Final B\; Men's
+  Quadruple Sculls Final A\; Men's Four Final A · Marine Stadium · Sessi
+ ó ROW05
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Rowing — Women's Quadruple Sculls Final B
+DESCRIPTION:Women's Quadruple Sculls Final B\; Men's Eight Heats\; Men's Si
+ ngle Sculls Final F\; Men's Single Sculls Final E\; Men's Single Sculls Se
+ mifinal\; Women's Four Final B\; Women's Quadruple Sculls Final A\; Women'
+ s Four Final A · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T163000Z
+DTEND:20280720T181500Z
+SUMMARY:Rowing — Women's Quadruple Sculls Final B
+DESCRIPTION:Women's Quadruple Sculls Final B\; Men's Eight Heats\; Men's Si
+ ngle Sculls Final F\; Men's Single Sculls Final E\; Men's Single Sculls Se
+ mifinal\; Women's Four Final B\; Women's Quadruple Sculls Final A\; Women'
+ s Four Final A · Marine Stadium · Sessió ROW06
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Rowing — Men's Eight Final B
+DESCRIPTION:Men's Eight Final B\; Women's Single Sculls Final D\; Women's S
+ ingle Sculls Final C\; Women's Single Sculls Final B\; Women's Eight Heats
+ \; Men's Eight Final A\; Women's Single Sculls Final A · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T170000Z
+DTEND:20280721T183000Z
+SUMMARY:Rowing — Men's Eight Final B
+DESCRIPTION:Men's Eight Final B\; Women's Single Sculls Final D\; Women's S
+ ingle Sculls Final C\; Women's Single Sculls Final B\; Women's Eight Heats
+ \; Men's Eight Final A\; Women's Single Sculls Final A · Marine Stadium 
+ · Sessió ROW07
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Rowing — Women's Eight Final B
+DESCRIPTION:Women's Eight Final B\; Men's Single Sculls Final B\; Men's Sin
+ gle Sculls Final D\; Men's Single Sculls Final C\; Women's Eight Final A\;
+  Men's Single Sculls Final A · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-row08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T173000Z
+DTEND:20280722T185000Z
+SUMMARY:Rowing — Women's Eight Final B
+DESCRIPTION:Women's Eight Final B\; Men's Single Sculls Final B\; Men's Sin
+ gle Sculls Final D\; Men's Single Sculls Final C\; Women's Eight Final A\;
+  Men's Single Sculls Final A · Marine Stadium · Sessió ROW08
+LOCATION:Marine Stadium
+END:VEVENT
+END:VCALENDAR

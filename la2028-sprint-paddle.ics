@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Sprint Paddle
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Sprint Paddle — Men's Kayak Double 500m Quarterfinal
+DESCRIPTION:Men's Kayak Double 500m Quarterfinal\; Women's Canoe Single 200
+ m Heats\; Men's Kayak Double 500m Heats\; Women's Kayak Double 500m Heats\
+ ; Men's Canoe Single 1000m Heats\; Women's Kayak Double 500m Quarterfinal\
+ ; Men's Canoe Single 1000m Quarterfinal\; Women's Canoe Single 200m Quarte
+ rfinal · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T160000Z
+DTEND:20280725T193000Z
+SUMMARY:Sprint Paddle — Men's Kayak Double 500m Quarterfinal
+DESCRIPTION:Men's Kayak Double 500m Quarterfinal\; Women's Canoe Single 200
+ m Heats\; Men's Kayak Double 500m Heats\; Women's Kayak Double 500m Heats\
+ ; Men's Canoe Single 1000m Heats\; Women's Kayak Double 500m Quarterfinal\
+ ; Men's Canoe Single 1000m Quarterfinal\; Women's Canoe Single 200m Quarte
+ rfinal · Marine Stadium · Sessió CSP01
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Sprint Paddle — Women's Kayak Double 500m Final B
+DESCRIPTION:Women's Kayak Double 500m Final B\; Men's Kayak Double 500m Sem
+ ifinal\; Women's Kayak Double 500m Semifinal\; Men's Canoe Single 1000m Se
+ mifinal\; Men's Kayak Double 500m Final B\; Men's Kayak Double 500m Final 
+ A\; Women's Kayak Double 500m Final A\; Men's Canoe Single 1000m Final B\;
+  Men's Canoe Single 1000m Final A · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T160000Z
+DTEND:20280726T194000Z
+SUMMARY:Sprint Paddle — Women's Kayak Double 500m Final B
+DESCRIPTION:Women's Kayak Double 500m Final B\; Men's Kayak Double 500m Sem
+ ifinal\; Women's Kayak Double 500m Semifinal\; Men's Canoe Single 1000m Se
+ mifinal\; Men's Kayak Double 500m Final B\; Men's Kayak Double 500m Final 
+ A\; Women's Kayak Double 500m Final A\; Men's Canoe Single 1000m Final B\;
+  Men's Canoe Single 1000m Final A · Marine Stadium · Sessió CSP02
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Sprint Paddle — Men's Kayak Four 500m Quarterfinal
+DESCRIPTION:Men's Kayak Four 500m Quarterfinal\; Women's Kayak Single 500m 
+ Heats\; Men's Kayak Four 500m Heats\; Women's Kayak Four 500m Heats\; Wome
+ n's Canoe Double 500m Heats\; Men's Canoe Double 500m Heats\; Men's Kayak 
+ Single 1000m Heats\; Men's Canoe Double 500m Quarterfinal\; Women's Canoe 
+ Double 500m Quarterfinal\; Women's Kayak Four 500m Quarterfinal\; Men's Ka
+ yak Single 1000m Quarterfinal\; Women's Kayak Single 500m Quarterfinal · 
+ Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T160000Z
+DTEND:20280727T203000Z
+SUMMARY:Sprint Paddle — Men's Kayak Four 500m Quarterfinal
+DESCRIPTION:Men's Kayak Four 500m Quarterfinal\; Women's Kayak Single 500m 
+ Heats\; Men's Kayak Four 500m Heats\; Women's Kayak Four 500m Heats\; Wome
+ n's Canoe Double 500m Heats\; Men's Canoe Double 500m Heats\; Men's Kayak 
+ Single 1000m Heats\; Men's Canoe Double 500m Quarterfinal\; Women's Canoe 
+ Double 500m Quarterfinal\; Women's Kayak Four 500m Quarterfinal\; Men's Ka
+ yak Single 1000m Quarterfinal\; Women's Kayak Single 500m Quarterfinal · 
+ Marine Stadium · Sessió CSP03
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Sprint Paddle — Women's Canoe Double 500m Final B
+DESCRIPTION:Women's Canoe Double 500m Final B\; Women's Kayak Single 500m F
+ inal B\; Women's Kayak Single 500m Semifinal\; Women's Canoe Double 500m S
+ emifinal\; Men's Kayak Single 1000m Semifinal\; Women's Kayak Single 500m 
+ Final C\; Women's Kayak Single 500m Final A\; Women's Canoe Double 500m Fi
+ nal A\; Men's Kayak Single 1000m Final B\; Men's Kayak Single 1000m Final 
+ A · Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T160000Z
+DTEND:20280728T194000Z
+SUMMARY:Sprint Paddle — Women's Canoe Double 500m Final B
+DESCRIPTION:Women's Canoe Double 500m Final B\; Women's Kayak Single 500m F
+ inal B\; Women's Kayak Single 500m Semifinal\; Women's Canoe Double 500m S
+ emifinal\; Men's Kayak Single 1000m Semifinal\; Women's Kayak Single 500m 
+ Final C\; Women's Kayak Single 500m Final A\; Women's Canoe Double 500m Fi
+ nal A\; Men's Kayak Single 1000m Final B\; Men's Kayak Single 1000m Final 
+ A · Marine Stadium · Sessió CSP04
+LOCATION:Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Sprint Paddle — Men's Canoe Double 500m Final B
+DESCRIPTION:Men's Canoe Double 500m Final B\; Women's Canoe Single 200m Fin
+ al B\; Women's Canoe Single 200m Semifinal\; Men's Canoe Double 500m Semif
+ inal\; Women's Kayak Four 500m Semifinal\; Men's Kayak Four 500m Semifinal
+ \; Women's Canoe Single 200m Final A\; Men's Canoe Double 500m Final A · 
+ Marine Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-csp05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T160000Z
+DTEND:20280729T195500Z
+SUMMARY:Sprint Paddle — Men's Canoe Double 500m Final B
+DESCRIPTION:Men's Canoe Double 500m Final B\; Women's Canoe Single 200m Fin
+ al B\; Women's Canoe Single 200m Semifinal\; Men's Canoe Double 500m Semif
+ inal\; Women's Kayak Four 500m Semifinal\; Men's Kayak Four 500m Semifinal
+ \; Women's Canoe Single 200m Final A\; Men's Canoe Double 500m Final A · 
+ Marine Stadium · Sessió CSP05
+LOCATION:Marine Stadium
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Celta de Vigo · Europa League
+BEGIN:VEVENT
+UID:europa-20261126-celta-de-vigo-afc-bournemouth-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:CELTA DE VIGO | Europa League | J5 | 🏟️ | AFC Bournemouth 🇬
+ 🇧
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · UEFA Europa League\nEstadi: Bal
+ aidos
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20261126-celta-de-vigo-afc-bournemouth@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261126T174500Z
+DTEND:20261126T193000Z
+SUMMARY:Celta de Vigo - AFC Bournemouth
+DESCRIPTION:UEFA Europa League
+LOCATION:Balaidos
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20261210-olympique-marseille-celta-de-vigo-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:CELTA DE VIGO | Europa League | J6 | ✈️ | Olympique Marseille 
+ 🇫🇷
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · UEFA Europa League\nEstadi: Sta
+ de Vélodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20261210-olympique-marseille-celta-de-vigo@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261210T174500Z
+DTEND:20261210T193000Z
+SUMMARY:Olympique Marseille - Celta de Vigo
+DESCRIPTION:UEFA Europa League
+LOCATION:Stade Vélodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270121-beer-sheva-celta-de-vigo-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:CELTA DE VIGO | Europa League | J7 | ✈️ | Beer Sheva 🇮🇱
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Europa League\nEstadi: Giu
+ lesti
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270121-beer-sheva-celta-de-vigo@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270121T200000Z
+DTEND:20270121T214500Z
+SUMMARY:Beer Sheva - Celta de Vigo
+DESCRIPTION:UEFA Europa League
+LOCATION:Giulesti
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270128-celta-de-vigo-lillestrom-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:CELTA DE VIGO | Europa League | J8 | 🏟️ | Lillestrom 🇳🇴
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Europa League\nEstadi: Bal
+ aidos
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270128-celta-de-vigo-lillestrom@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270128T200000Z
+DTEND:20270128T214500Z
+SUMMARY:Celta de Vigo - Lillestrom
+DESCRIPTION:UEFA Europa League
+LOCATION:Balaidos
+END:VEVENT
+END:VCALENDAR

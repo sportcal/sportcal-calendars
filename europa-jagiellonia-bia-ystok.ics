@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jagiellonia Białystok · Europa League
+BEGIN:VEVENT
+UID:europa-20261126-sunderland-jagiellonia-bia-ystok-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:JAGIELLONIA BIAŁYSTOK | Europa League | J5 | ✈️ | Sunderland 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Europa League\nEstadi: Sta
+ dium of Light
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20261126-sunderland-jagiellonia-bia-ystok@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261126T200000Z
+DTEND:20261126T214500Z
+SUMMARY:Sunderland - Jagiellonia Białystok
+DESCRIPTION:UEFA Europa League
+LOCATION:Stadium of Light
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20261210-jagiellonia-bia-ystok-crystal-palace-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:JAGIELLONIA BIAŁYSTOK | Europa League | J6 | 🏟️ | Crystal Pal
+ ace 🇬🇧
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · UEFA Europa League\nEstadi: Sta
+ dion Miejski Bialystok
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20261210-jagiellonia-bia-ystok-crystal-palace@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261210T174500Z
+DTEND:20261210T193000Z
+SUMMARY:Jagiellonia Białystok - Crystal Palace
+DESCRIPTION:UEFA Europa League
+LOCATION:Stadion Miejski Bialystok
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270121-jagiellonia-bia-ystok-olympique-lyonnais-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:JAGIELLONIA BIAŁYSTOK | Europa League | J7 | 🏟️ | Olympique L
+ yonnais 🇫🇷
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · UEFA Europa League\nEstadi: Sta
+ dion Miejski Bialystok
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270121-jagiellonia-bia-ystok-olympique-lyonnais@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270121T174500Z
+DTEND:20270121T193000Z
+SUMMARY:Jagiellonia Białystok - Olympique Lyonnais
+DESCRIPTION:UEFA Europa League
+LOCATION:Stadion Miejski Bialystok
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270128-fc-viktoria-plzen-jagiellonia-bia-ystok-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:JAGIELLONIA BIAŁYSTOK | Europa League | J8 | ✈️ | FC Viktoria 
+ Plzen 🇨🇿
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Europa League\nEstadi: Doo
+ san Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:europa-20270128-fc-viktoria-plzen-jagiellonia-bia-ystok@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270128T200000Z
+DTEND:20270128T214500Z
+SUMMARY:FC Viktoria Plzen - Jagiellonia Białystok
+DESCRIPTION:UEFA Europa League
+LOCATION:Doosan Arena
+END:VEVENT
+END:VCALENDAR

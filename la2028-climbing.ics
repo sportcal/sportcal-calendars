@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Climbing
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Climbing — Men's Boulder Semifinal
+DESCRIPTION:Men's Boulder Semifinal\; Men's 70kg Final · Long Beach Climbi
+ ng Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T163000Z
+DTEND:20280724T184000Z
+SUMMARY:Climbing — Men's Boulder Semifinal
+DESCRIPTION:Men's Boulder Semifinal\; Men's 70kg Final · Long Beach Climbi
+ ng Theater · Sessió CLB01
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Climbing — Women's Speed Qualification
+DESCRIPTION:Women's Speed Qualification\; Men's Speed Qualification · Long
+  Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T204500Z
+DTEND:20280724T222500Z
+SUMMARY:Climbing — Women's Speed Qualification
+DESCRIPTION:Women's Speed Qualification\; Men's Speed Qualification · Long
+  Beach Climbing Theater · Sessió CLB02
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Climbing — Women's Boulder Semifinal
+DESCRIPTION:Women's Boulder Semifinal · Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T161500Z
+DTEND:20280725T182500Z
+SUMMARY:Climbing — Women's Boulder Semifinal
+DESCRIPTION:Women's Boulder Semifinal · Long Beach Climbing Theater · Ses
+ sió CLB03
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Climbing — Men's Lead Semifinal
+DESCRIPTION:Men's Lead Semifinal\; Men's Speed Quarterfinal · Long Beach C
+ limbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T014500Z
+DTEND:20280726T030000Z
+SUMMARY:Climbing — Men's Lead Semifinal
+DESCRIPTION:Men's Lead Semifinal\; Men's Speed Quarterfinal · Long Beach C
+ limbing Theater · Sessió CLB04
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Climbing — Women's Speed Semifinal
+DESCRIPTION:Women's Speed Semifinal\; Men's Speed Semifinal\; Women's Speed
+  Quarterfinal\; Men's Speed Final · Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T160000Z
+DTEND:20280726T173000Z
+SUMMARY:Climbing — Women's Speed Semifinal
+DESCRIPTION:Women's Speed Semifinal\; Men's Speed Semifinal\; Women's Speed
+  Quarterfinal\; Men's Speed Final · Long Beach Climbing Theater · Sessi
+ ó CLB05
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Climbing — Women's Lead Semifinal
+DESCRIPTION:Women's Lead Semifinal\; Women's Speed Final · Long Beach Clim
+ bing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T014500Z
+DTEND:20280727T030000Z
+SUMMARY:Climbing — Women's Lead Semifinal
+DESCRIPTION:Women's Lead Semifinal\; Women's Speed Final · Long Beach Clim
+ bing Theater · Sessió CLB06
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Climbing — Men's Boulder Final
+DESCRIPTION:Men's Boulder Final · Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T160000Z
+DTEND:20280727T175500Z
+SUMMARY:Climbing — Men's Boulder Final
+DESCRIPTION:Men's Boulder Final · Long Beach Climbing Theater · Sessió C
+ LB07
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Climbing — Women's Boulder Final
+DESCRIPTION:Women's Boulder Final · Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T160000Z
+DTEND:20280728T175500Z
+SUMMARY:Climbing — Women's Boulder Final
+DESCRIPTION:Women's Boulder Final · Long Beach Climbing Theater · Sessió
+  CLB08
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Climbing — Men's Lead Final
+DESCRIPTION:Men's Lead Final · Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T204500Z
+DTEND:20280728T220000Z
+SUMMARY:Climbing — Men's Lead Final
+DESCRIPTION:Men's Lead Final · Long Beach Climbing Theater · Sessió CLB0
+ 9
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Climbing — Women's Lead Final
+DESCRIPTION:Women's Lead Final · Long Beach Climbing Theater
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-clb10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T163000Z
+DTEND:20280729T174500Z
+SUMMARY:Climbing — Women's Lead Final
+DESCRIPTION:Women's Lead Final · Long Beach Climbing Theater · Sessió CL
+ B10
+LOCATION:Long Beach Climbing Theater
+END:VEVENT
+END:VCALENDAR

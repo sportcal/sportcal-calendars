@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · 3x3 Basketball
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk301-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk301@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T210000Z
+DTEND:20280716T230000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK301
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk302-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk302@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T003000Z
+DTEND:20280717T023000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK302
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk303-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk303@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T040000Z
+DTEND:20280717T060000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK303
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk304-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk304@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T210000Z
+DTEND:20280717T230000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK304
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk305-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk305@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T003000Z
+DTEND:20280718T023000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK305
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk306-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk306@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T040000Z
+DTEND:20280718T060000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK306
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk307-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk307@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T210000Z
+DTEND:20280718T230000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK307
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk308-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk308@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T003000Z
+DTEND:20280719T023000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK308
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk309-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk309@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T040000Z
+DTEND:20280719T060000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK309
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk310-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk310@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T210000Z
+DTEND:20280719T230000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK310
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk311-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk311@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T003000Z
+DTEND:20280720T023000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK311
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk312-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk312@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T040000Z
+DTEND:20280720T060000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK312
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk313-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk313@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T210000Z
+DTEND:20280720T230000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK313
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk314-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk314@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T003000Z
+DTEND:20280721T023000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK314
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk315-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk315@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T040000Z
+DTEND:20280721T060000Z
+SUMMARY:3x3 Basketball — Women's Pool Round (2 Games)
+DESCRIPTION:Women's Pool Round (2 Games)\; Men's Pool Round (2 Games) · Va
+ lley Complex 3 · Sessió BK315
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk316-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:3x3 Basketball — Women's Play-In (2 Games)
+DESCRIPTION:Women's Play-In (2 Games)\; Men's Play-In (2 Games) · Valley C
+ omplex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk316@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T210000Z
+DTEND:20280721T230000Z
+SUMMARY:3x3 Basketball — Women's Play-In (2 Games)
+DESCRIPTION:Women's Play-In (2 Games)\; Men's Play-In (2 Games) · Valley C
+ omplex 3 · Sessió BK316
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk317-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:3x3 Basketball — Women's Quarterfinal (2 Games)
+DESCRIPTION:Women's Quarterfinal (2 Games)\; Men's Quarterfinal (2 Games) 
+ · Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk317@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T003000Z
+DTEND:20280722T023000Z
+SUMMARY:3x3 Basketball — Women's Quarterfinal (2 Games)
+DESCRIPTION:Women's Quarterfinal (2 Games)\; Men's Quarterfinal (2 Games) 
+ · Valley Complex 3 · Sessió BK317
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk318-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:3x3 Basketball — Women's Quarterfinal (2 Games)
+DESCRIPTION:Women's Quarterfinal (2 Games)\; Men's Quarterfinal (2 Games) 
+ · Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk318@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T040000Z
+DTEND:20280722T060000Z
+SUMMARY:3x3 Basketball — Women's Quarterfinal (2 Games)
+DESCRIPTION:Women's Quarterfinal (2 Games)\; Men's Quarterfinal (2 Games) 
+ · Valley Complex 3 · Sessió BK318
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk319-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:3x3 Basketball — Women's Semifinal (2 Games)
+DESCRIPTION:Women's Semifinal (2 Games)\; Men's Semifinal (2 Games) · Vall
+ ey Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk319@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T000000Z
+DTEND:20280723T020000Z
+SUMMARY:3x3 Basketball — Women's Semifinal (2 Games)
+DESCRIPTION:Women's Semifinal (2 Games)\; Men's Semifinal (2 Games) · Vall
+ ey Complex 3 · Sessió BK319
+LOCATION:Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk320-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:3x3 Basketball — Men's Gold Medal Game
+DESCRIPTION:Men's Gold Medal Game\; Women's Bronze Medal Game\; Men's Bronz
+ e Medal Game\; Women's Gold Medal Game · Valley Complex 3
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-bk320@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T040000Z
+DTEND:20280723T063000Z
+SUMMARY:3x3 Basketball — Men's Gold Medal Game
+DESCRIPTION:Men's Gold Medal Game\; Women's Bronze Medal Game\; Men's Bronz
+ e Medal Game\; Women's Gold Medal Game · Valley Complex 3 · Sessió BK32
+ 0
+LOCATION:Valley Complex 3
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Athletics (Marathon)
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath19-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Athletics (Marathon) — Women's Marathon
+DESCRIPTION:Women's Marathon · Venice Beach Boardwalk - Start
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath19@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T141500Z
+DTEND:20280729T171500Z
+SUMMARY:Athletics (Marathon) — Women's Marathon
+DESCRIPTION:Women's Marathon · Venice Beach Boardwalk - Start · Sessió A
+ TH19
+LOCATION:Venice Beach Boardwalk - Start
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath20-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280731
+SUMMARY:Athletics (Marathon) — Men's Marathon
+DESCRIPTION:Men's Marathon\; Men's Doubles Group Play Stage · Venice Beach
+  Boardwalk - Start
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ath20@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T141500Z
+DTEND:20280730T171500Z
+SUMMARY:Athletics (Marathon) — Men's Marathon
+DESCRIPTION:Men's Marathon\; Men's Doubles Group Play Stage · Venice Beach
+  Boardwalk - Start · Sessió ATH20
+LOCATION:Venice Beach Boardwalk - Start
+END:VEVENT
+END:VCALENDAR

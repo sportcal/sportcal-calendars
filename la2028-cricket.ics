@@ -1,0 +1,520 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Cricket
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280712T160000Z
+DTEND:20280712T193000Z
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT01
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280713T010000Z
+DTEND:20280713T043000Z
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT02
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280713T160000Z
+DTEND:20280713T193000Z
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT03
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280714T010000Z
+DTEND:20280714T043000Z
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT04
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T160000Z
+DTEND:20280715T193000Z
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT05
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T010000Z
+DTEND:20280716T043000Z
+SUMMARY:Cricket — Women's Group Stage First Round
+DESCRIPTION:Women's Group Stage First Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT06
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T160000Z
+DTEND:20280716T193000Z
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+  · Sessió CKT07
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T010000Z
+DTEND:20280717T043000Z
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+  · Sessió CKT08
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T160000Z
+DTEND:20280717T193000Z
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+  · Sessió CKT09
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T010000Z
+DTEND:20280718T043000Z
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+  · Sessió CKT10
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T160000Z
+DTEND:20280718T193000Z
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+  · Sessió CKT11
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T010000Z
+DTEND:20280719T043000Z
+SUMMARY:Cricket — Women's Group Stage Second Round
+DESCRIPTION:Women's Group Stage Second Round · Fairgrounds Cricket Stadium
+  · Sessió CKT12
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Cricket — Women's Bronze Medal Match
+DESCRIPTION:Women's Bronze Medal Match · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T160000Z
+DTEND:20280719T193000Z
+SUMMARY:Cricket — Women's Bronze Medal Match
+DESCRIPTION:Women's Bronze Medal Match · Fairgrounds Cricket Stadium · Se
+ ssió CKT13
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Cricket — Women's Gold Medal Match
+DESCRIPTION:Women's Gold Medal Match · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T160000Z
+DTEND:20280720T200000Z
+SUMMARY:Cricket — Women's Gold Medal Match
+DESCRIPTION:Women's Gold Medal Match · Fairgrounds Cricket Stadium · Sess
+ ió CKT14
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T160000Z
+DTEND:20280722T193000Z
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium ·
+  Sessió CKT15
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T010000Z
+DTEND:20280723T043000Z
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium ·
+  Sessió CKT16
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T160000Z
+DTEND:20280723T193000Z
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium ·
+  Sessió CKT17
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt18-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt18@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T010000Z
+DTEND:20280724T043000Z
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium ·
+  Sessió CKT18
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt19-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt19@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T160000Z
+DTEND:20280724T193000Z
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium ·
+  Sessió CKT19
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt20-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt20@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T010000Z
+DTEND:20280725T043000Z
+SUMMARY:Cricket — Men's Group Stage First Round
+DESCRIPTION:Men's Group Stage First Round · Fairgrounds Cricket Stadium ·
+  Sessió CKT20
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt21-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt21@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T160000Z
+DTEND:20280725T193000Z
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT21
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt22-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt22@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T010000Z
+DTEND:20280726T043000Z
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT22
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt23-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt23@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T160000Z
+DTEND:20280726T193000Z
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT23
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt24-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt24@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T010000Z
+DTEND:20280727T043000Z
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT24
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt25-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt25@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T160000Z
+DTEND:20280727T193000Z
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT25
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt26-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt26@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T010000Z
+DTEND:20280728T043000Z
+SUMMARY:Cricket — Men's Group Stage Second Round
+DESCRIPTION:Men's Group Stage Second Round · Fairgrounds Cricket Stadium 
+ · Sessió CKT26
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt27-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Cricket — Men's Bronze Medal Match
+DESCRIPTION:Men's Bronze Medal Match · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt27@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T160000Z
+DTEND:20280728T193000Z
+SUMMARY:Cricket — Men's Bronze Medal Match
+DESCRIPTION:Men's Bronze Medal Match · Fairgrounds Cricket Stadium · Sess
+ ió CKT27
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt28-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Cricket — Men's Gold Medal Match
+DESCRIPTION:Men's Gold Medal Match · Fairgrounds Cricket Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ckt28@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T160000Z
+DTEND:20280729T200000Z
+SUMMARY:Cricket — Men's Gold Medal Match
+DESCRIPTION:Men's Gold Medal Match · Fairgrounds Cricket Stadium · Sessi
+ ó CKT28
+LOCATION:Fairgrounds Cricket Stadium
+END:VEVENT
+END:VCALENDAR

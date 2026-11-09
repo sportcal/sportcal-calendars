@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Flag Football
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T210000Z
+DTEND:20280716T001500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB01
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T020000Z
+DTEND:20280716T051500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB02
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T210000Z
+DTEND:20280717T001500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB03
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T020000Z
+DTEND:20280717T051500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB04
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T210000Z
+DTEND:20280718T001500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB05
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T020000Z
+DTEND:20280718T051500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB06
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280718T210000Z
+DTEND:20280719T001500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB07
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T020000Z
+DTEND:20280719T051500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB08
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T210000Z
+DTEND:20280720T001500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB09
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T020000Z
+DTEND:20280720T051500Z
+SUMMARY:Flag Football — Men's and Women's Preliminaries (3 Games)
+DESCRIPTION:Men's and Women's Preliminaries (3 Games) · Exposition Park St
+ adium · Sessió FFB10
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Flag Football — Men's Semifinal (2 Games)
+DESCRIPTION:Men's Semifinal (2 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T210000Z
+DTEND:20280720T231000Z
+SUMMARY:Flag Football — Men's Semifinal (2 Games)
+DESCRIPTION:Men's Semifinal (2 Games) · Exposition Park Stadium · Sessió
+  FFB11
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Flag Football — Women's Semifinal (2 Games)
+DESCRIPTION:Women's Semifinal (2 Games) · Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280721T203000Z
+DTEND:20280721T224000Z
+SUMMARY:Flag Football — Women's Semifinal (2 Games)
+DESCRIPTION:Women's Semifinal (2 Games) · Exposition Park Stadium · Sessi
+ ó FFB12
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Flag Football — Men's Gold Medal Game
+DESCRIPTION:Men's Gold Medal Game\; Men's Bronze Medal Game · Exposition P
+ ark Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T003000Z
+DTEND:20280722T034000Z
+SUMMARY:Flag Football — Men's Gold Medal Game
+DESCRIPTION:Men's Gold Medal Game\; Men's Bronze Medal Game · Exposition P
+ ark Stadium · Sessió FFB13
+LOCATION:Exposition Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Flag Football — Women's Gold Medal Game
+DESCRIPTION:Women's Gold Medal Game\; Women's Bronze Medal Game · Expositi
+ on Park Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-ffb14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T193000Z
+DTEND:20280722T224000Z
+SUMMARY:Flag Football — Women's Gold Medal Game
+DESCRIPTION:Women's Gold Medal Game\; Women's Bronze Medal Game · Expositi
+ on Park Stadium · Sessió FFB14
+LOCATION:Exposition Park Stadium
+END:VEVENT
+END:VCALENDAR

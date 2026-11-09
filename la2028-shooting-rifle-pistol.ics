@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Shooting (Rifle & Pistol)
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Shooting (Rifle & Pistol) — Women's 10m Air Rifle Final
+DESCRIPTION:Women's 10m Air Rifle Final\; Men's 10m Air Rifle Qualification
+ \; Women's 10m Air Rifle Qualification\; Men's 10m Air Rifle Final · Long
+  Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280715T204500Z
+DTEND:20280716T040000Z
+SUMMARY:Shooting (Rifle & Pistol) — Women's 10m Air Rifle Final
+DESCRIPTION:Women's 10m Air Rifle Final\; Men's 10m Air Rifle Qualification
+ \; Women's 10m Air Rifle Qualification\; Men's 10m Air Rifle Final · Long
+  Beach Target Shooting Hall · Sessió SHO01
+LOCATION:Long Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280717
+SUMMARY:Shooting (Rifle & Pistol) — Men's 10m Air Pistol Final
+DESCRIPTION:Men's 10m Air Pistol Final\; Women's 10m Air Pistol Qualificati
+ on\; Men's 10m Air Pistol Qualification\; Women's 10m Air Pistol Final · 
+ Long Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280716T204500Z
+DTEND:20280717T040000Z
+SUMMARY:Shooting (Rifle & Pistol) — Men's 10m Air Pistol Final
+DESCRIPTION:Men's 10m Air Pistol Final\; Women's 10m Air Pistol Qualificati
+ on\; Men's 10m Air Pistol Qualification\; Women's 10m Air Pistol Final · 
+ Long Beach Target Shooting Hall · Sessió SHO02
+LOCATION:Long Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Shooting (Rifle & Pistol) — Mixed Team 10m Air Rifle Final
+DESCRIPTION:Mixed Team 10m Air Rifle Final\; Mixed Team 10m Air Pistol Qual
+ ification\; Mixed Team 10m Air Rifle Qualification · Long Beach Target Sh
+ ooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280717T220000Z
+DTEND:20280718T040000Z
+SUMMARY:Shooting (Rifle & Pistol) — Mixed Team 10m Air Rifle Final
+DESCRIPTION:Mixed Team 10m Air Rifle Final\; Mixed Team 10m Air Pistol Qual
+ ification\; Mixed Team 10m Air Rifle Qualification · Long Beach Target Sh
+ ooting Hall · Sessió SHO04
+LOCATION:Long Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Shooting (Rifle & Pistol) — Men's 50m Rifle 3 Positions Final
+DESCRIPTION:Men's 50m Rifle 3 Positions Final\; Men's 50m Rifle 3 Positions
+  Qualification\; Mixed Team 10m Air Pistol Final · Long Beach Target Shoo
+ ting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T163000Z
+DTEND:20280719T210000Z
+SUMMARY:Shooting (Rifle & Pistol) — Men's 50m Rifle 3 Positions Final
+DESCRIPTION:Men's 50m Rifle 3 Positions Final\; Men's 50m Rifle 3 Positions
+  Qualification\; Mixed Team 10m Air Pistol Final · Long Beach Target Shoo
+ ting Hall · Sessió SHO06
+LOCATION:Long Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Shooting (Rifle & Pistol) — Women's 50m Rifle 3 Positions Final
+DESCRIPTION:Women's 50m Rifle 3 Positions Final\; Women's 50m Rifle 3 Posit
+ ions Qualification · Long Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T163000Z
+DTEND:20280720T210000Z
+SUMMARY:Shooting (Rifle & Pistol) — Women's 50m Rifle 3 Positions Final
+DESCRIPTION:Women's 50m Rifle 3 Positions Final\; Women's 50m Rifle 3 Posit
+ ions Qualification · Long Beach Target Shooting Hall · Sessió SHO07
+LOCATION:Long Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Shooting (Rifle & Pistol) — Women's 25m Pistol Qualification Prec
+ ision Stage
+DESCRIPTION:Women's 25m Pistol Qualification Precision Stage\; Men's 25m Ra
+ pid Fire Pistol Stage 1 · Long Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T163000Z
+DTEND:20280723T003000Z
+SUMMARY:Shooting (Rifle & Pistol) — Women's 25m Pistol Qualification Prec
+ ision Stage
+DESCRIPTION:Women's 25m Pistol Qualification Precision Stage\; Men's 25m Ra
+ pid Fire Pistol Stage 1 · Long Beach Target Shooting Hall · Sessió SHO0
+ 9
+LOCATION:Long Beach Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Shooting (Rifle & Pistol) — Men's 25m Rapid Fire Pistol Final
+DESCRIPTION:Men's 25m Rapid Fire Pistol Final\; Women's 25m Pistol Qualific
+ ation Rapid Fire Stage\; Men's 25m Rapid Fire Pistol Stage 2 · Long Beach
+  Target Shooting Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-sho11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T163000Z
+DTEND:20280724T040000Z
+SUMMARY:Shooting (Rifle & Pistol) — Men's 25m Rapid Fire Pistol Final
+DESCRIPTION:Men's 25m Rapid Fire Pistol Final\; Women's 25m Pistol Qualific
+ ation Rapid Fire Stage\; Men's 25m Rapid Fire Pistol Stage 2 · Long Beach
+  Target Shooting Hall · Sessió SHO11
+LOCATION:Long Beach Target Shooting Hall
+END:VEVENT
+END:VCALENDAR

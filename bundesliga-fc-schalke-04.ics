@@ -1,0 +1,467 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Schalke 04 · Bundesliga
+BEGIN:VEVENT
+UID:bundesliga-20261121-fc-schalke-04-vfb-stuttgart-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:FC SCHALKE 04 | Bundesliga | J10 | 🏟️ | VfB Stuttgart 🇩🇪
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20261121-fc-schalke-04-vfb-stuttgart@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261121T173000Z
+DTEND:20261121T191500Z
+SUMMARY:FC Schalke 04 - VfB Stuttgart
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20261128-sc-paderborn-07-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:FC SCHALKE 04 | Bundesliga | J11 | ✈️ | SC Paderborn 07 🇩
+ 🇪
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Bundesliga\nEstadi: Home Deluxe
+  Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20261128-sc-paderborn-07-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261128T143000Z
+DTEND:20261128T161500Z
+SUMMARY:SC Paderborn 07 - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:Home Deluxe Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20261206-fc-schalke-04-borussia-dortmund-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:FC SCHALKE 04 | Bundesliga | J12 | 🏟️ | Borussia Dortmund 🇩
+ 🇪
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20261206-fc-schalke-04-borussia-dortmund@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261206T143000Z
+DTEND:20261206T161500Z
+SUMMARY:FC Schalke 04 - Borussia Dortmund
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20261211-hamburger-sv-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:FC SCHALKE 04 | Bundesliga | J13 | ✈️ | Hamburger SV 🇩🇪
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Bundesliga\nEstadi: Volksparkst
+ adion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20261211-hamburger-sv-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261211T193000Z
+DTEND:20261211T211500Z
+SUMMARY:Hamburger SV - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:Volksparkstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20261220-fc-schalke-04-borussia-monchengladbach-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:FC SCHALKE 04 | Bundesliga | J14 | 🏟️ | Borussia Mönchengladb
+ ach 🇩🇪
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20261220-fc-schalke-04-borussia-monchengladbach@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261220T183000Z
+DTEND:20261220T201500Z
+SUMMARY:FC Schalke 04 - Borussia Mönchengladbach
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270109-eintracht-frankfurt-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:FC SCHALKE 04 | Bundesliga | J15 | ✈️ | Eintracht Frankfurt 
+ 🇩🇪
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Bundesliga\nEstadi: Deutsche Ba
+ nk Park
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270109-eintracht-frankfurt-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270109T143000Z
+DTEND:20270109T161500Z
+SUMMARY:Eintracht Frankfurt - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:Deutsche Bank Park
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270114-fc-schalke-04-werder-bremen-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:FC SCHALKE 04 | Bundesliga | J16 | 🏟️ | Werder Bremen 🇩🇪
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270114-fc-schalke-04-werder-bremen@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270114T193000Z
+DTEND:20270114T211500Z
+SUMMARY:FC Schalke 04 - Werder Bremen
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270117-bayer-leverkusen-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:FC SCHALKE 04 | Bundesliga | J17 | ✈️ | Bayer Leverkusen 🇩
+ 🇪
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Bundesliga\nEstadi: BayArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270117-bayer-leverkusen-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270117T163000Z
+DTEND:20270117T181500Z
+SUMMARY:Bayer Leverkusen - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:BayArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270123-fc-schalke-04-fc-augsburg-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:FC SCHALKE 04 | Bundesliga | J18 | 🏟️ | FC Augsburg 🇩🇪
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270123-fc-schalke-04-fc-augsburg@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270123T143000Z
+DTEND:20270123T161500Z
+SUMMARY:FC Schalke 04 - FC Augsburg
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270130-bayern-munchen-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:FC SCHALKE 04 | Bundesliga | J19 | ✈️ | Bayern München 🇩
+ 🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Bundesliga\nEstadi: Allianz Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270130-bayern-munchen-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270130T200000Z
+DTEND:20270130T214500Z
+SUMMARY:Bayern München - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:Allianz Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270206-fc-schalke-04-1-fc-union-berlin-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:FC SCHALKE 04 | Bundesliga | J20 | 🏟️ | 1. FC Union Berlin 
+ 🇩🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270206-fc-schalke-04-1-fc-union-berlin@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270206T200000Z
+DTEND:20270206T214500Z
+SUMMARY:FC Schalke 04 - 1. FC Union Berlin
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270213-sv-elversberg-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:FC SCHALKE 04 | Bundesliga | J21 | ✈️ | SV Elversberg 🇩🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Bundesliga\nEstadi: URSAPHARM-A
+ rena an der Kaiserlinde
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270213-sv-elversberg-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270213T200000Z
+DTEND:20270213T214500Z
+SUMMARY:SV Elversberg - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:URSAPHARM-Arena an der Kaiserlinde
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270220-fc-schalke-04-sc-freiburg-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:FC SCHALKE 04 | Bundesliga | J22 | 🏟️ | SC Freiburg 🇩🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270220-fc-schalke-04-sc-freiburg@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270220T200000Z
+DTEND:20270220T214500Z
+SUMMARY:FC Schalke 04 - SC Freiburg
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270227-fsv-mainz-05-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:FC SCHALKE 04 | Bundesliga | J23 | ✈️ | FSV Mainz 05 🇩🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Bundesliga\nEstadi: MEWA ARENA
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270227-fsv-mainz-05-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270227T200000Z
+DTEND:20270227T214500Z
+SUMMARY:FSV Mainz 05 - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:MEWA ARENA
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270303-fc-schalke-04-1-fc-koln-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:FC SCHALKE 04 | Bundesliga | J24 | 🏟️ | 1.FC Köln 🇩🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270303-fc-schalke-04-1-fc-koln@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270303T200000Z
+DTEND:20270303T214500Z
+SUMMARY:FC Schalke 04 - 1.FC Köln
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270306-rb-leipzig-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:FC SCHALKE 04 | Bundesliga | J25 | ✈️ | RB Leipzig 🇩🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Bundesliga\nEstadi: Red Bull Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270306-rb-leipzig-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270306T200000Z
+DTEND:20270306T214500Z
+SUMMARY:RB Leipzig - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:Red Bull Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270313-fc-schalke-04-1899-hoffenheim-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:FC SCHALKE 04 | Bundesliga | J26 | 🏟️ | 1899 Hoffenheim 🇩
+ 🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270313-fc-schalke-04-1899-hoffenheim@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270313T200000Z
+DTEND:20270313T214500Z
+SUMMARY:FC Schalke 04 - 1899 Hoffenheim
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270320-vfb-stuttgart-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:FC SCHALKE 04 | Bundesliga | J27 | ✈️ | VfB Stuttgart 🇩🇪
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Bundesliga\nEstadi: MHPArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270320-vfb-stuttgart-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:VfB Stuttgart - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:MHPArena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270403-fc-schalke-04-sc-paderborn-07-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:FC SCHALKE 04 | Bundesliga | J28 | 🏟️ | SC Paderborn 07 🇩
+ 🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270403-fc-schalke-04-sc-paderborn-07@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:FC Schalke 04 - SC Paderborn 07
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270410-borussia-dortmund-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:FC SCHALKE 04 | Bundesliga | J29 | ✈️ | Borussia Dortmund 🇩
+ 🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Bundesliga\nEstadi: SIGNAL IDUN
+ A PARK
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270410-borussia-dortmund-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Borussia Dortmund - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:SIGNAL IDUNA PARK
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270417-fc-schalke-04-hamburger-sv-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:FC SCHALKE 04 | Bundesliga | J30 | 🏟️ | Hamburger SV 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270417-fc-schalke-04-hamburger-sv@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:FC Schalke 04 - Hamburger SV
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270424-borussia-monchengladbach-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:FC SCHALKE 04 | Bundesliga | J31 | ✈️ | Borussia Mönchengladba
+ ch 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Bundesliga\nEstadi: BORUSSIA-PA
+ RK
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270424-borussia-monchengladbach-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270424T180000Z
+DTEND:20270424T194500Z
+SUMMARY:Borussia Mönchengladbach - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:BORUSSIA-PARK
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270508-fc-schalke-04-eintracht-frankfurt-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:FC SCHALKE 04 | Bundesliga | J32 | 🏟️ | Eintracht Frankfurt 
+ 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270508-fc-schalke-04-eintracht-frankfurt@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270508T180000Z
+DTEND:20270508T194500Z
+SUMMARY:FC Schalke 04 - Eintracht Frankfurt
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270515-werder-bremen-fc-schalke-04-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:FC SCHALKE 04 | Bundesliga | J33 | ✈️ | Werder Bremen 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Bundesliga\nEstadi: Weserstadio
+ n
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270515-werder-bremen-fc-schalke-04@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270515T180000Z
+DTEND:20270515T194500Z
+SUMMARY:Werder Bremen - FC Schalke 04
+DESCRIPTION:Bundesliga
+LOCATION:Weserstadion
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270522-fc-schalke-04-bayer-leverkusen-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:FC SCHALKE 04 | Bundesliga | J34 | 🏟️ | Bayer Leverkusen 🇩
+ 🇪
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Bundesliga\nEstadi: Veltins Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-20270522-fc-schalke-04-bayer-leverkusen@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270522T133000Z
+DTEND:20270522T151500Z
+SUMMARY:FC Schalke 04 - Bayer Leverkusen
+DESCRIPTION:Bundesliga
+LOCATION:Veltins Arena
+END:VEVENT
+END:VCALENDAR

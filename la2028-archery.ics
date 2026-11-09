@@ -1,0 +1,360 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Archery
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280719
+DTEND;VALUE=DATE:20280720
+SUMMARY:Archery — Women's Compound Qualification Round
+DESCRIPTION:Women's Compound Qualification Round\; Not Ticketed\; Men's Rec
+ urve Qualification Round · N/A
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280719T230000Z
+DTEND:20280720T020000Z
+SUMMARY:Archery — Women's Compound Qualification Round
+DESCRIPTION:Women's Compound Qualification Round\; Not Ticketed\; Men's Rec
+ urve Qualification Round · N/A · Sessió ARC01
+LOCATION:N/A
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Archery — Men's Compound Qualification Round
+DESCRIPTION:Men's Compound Qualification Round\; Not Ticketed\; Women's Rec
+ urve Qualification Round · N/A
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280720T163000Z
+DTEND:20280720T190000Z
+SUMMARY:Archery — Men's Compound Qualification Round
+DESCRIPTION:Men's Compound Qualification Round\; Not Ticketed\; Women's Rec
+ urve Qualification Round · N/A · Sessió ARC02
+LOCATION:N/A
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:Archery — Compound Mixed Team Semifinal
+DESCRIPTION:Compound Mixed Team Semifinal\; Compound Mixed Team 1/8 Elimina
+ tion Round\; Compound Mixed Team Quarterfinal\; Compound Mixed Team Bronze
+  Medal Match · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T023000Z
+DTEND:20280722T061500Z
+SUMMARY:Archery — Compound Mixed Team Semifinal
+DESCRIPTION:Compound Mixed Team Semifinal\; Compound Mixed Team 1/8 Elimina
+ tion Round\; Compound Mixed Team Quarterfinal\; Compound Mixed Team Bronze
+  Medal Match · Carson Stadium · Sessió ARC03
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Archery — Recurve Women's Individual 1/32 Elimination Round
+DESCRIPTION:Recurve Women's Individual 1/32 Elimination Round\; Recurve Men
+ 's Individual 1/32 Elimination Round\; Compound Mixed Team Gold Medal Matc
+ h · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280722T163000Z
+DTEND:20280722T193500Z
+SUMMARY:Archery — Recurve Women's Individual 1/32 Elimination Round
+DESCRIPTION:Recurve Women's Individual 1/32 Elimination Round\; Recurve Men
+ 's Individual 1/32 Elimination Round\; Compound Mixed Team Gold Medal Matc
+ h · Carson Stadium · Sessió ARC04
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Archery — Recurve Men's Individual 1/16 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/16 Elimination Round\; Recurve Women
+ 's Individual 1/32 Elimination Round\; Recurve Men's Individual 1/32 Elimi
+ nation Round\; Recurve Women's Individual 1/16 Elimination Round · Carson
+  Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T030000Z
+DTEND:20280723T053500Z
+SUMMARY:Archery — Recurve Men's Individual 1/16 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/16 Elimination Round\; Recurve Women
+ 's Individual 1/32 Elimination Round\; Recurve Men's Individual 1/32 Elimi
+ nation Round\; Recurve Women's Individual 1/16 Elimination Round · Carson
+  Stadium · Sessió ARC05
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Archery — Recurve Men's Individual 1/16 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/16 Elimination Round\; Recurve Women
+ 's Individual 1/32 Elimination Round\; Recurve Men's Individual 1/32 Elimi
+ nation Round\; Recurve Women's Individual 1/16 Elimination Round · Carson
+  Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280723T163000Z
+DTEND:20280723T193500Z
+SUMMARY:Archery — Recurve Men's Individual 1/16 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/16 Elimination Round\; Recurve Women
+ 's Individual 1/32 Elimination Round\; Recurve Men's Individual 1/32 Elimi
+ nation Round\; Recurve Women's Individual 1/16 Elimination Round · Carson
+  Stadium · Sessió ARC06
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Archery — Recurve Men's Individual 1/16 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/16 Elimination Round\; Recurve Women
+ 's Individual 1/32 Elimination Round\; Recurve Men's Individual 1/32 Elimi
+ nation Round · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T030000Z
+DTEND:20280724T053500Z
+SUMMARY:Archery — Recurve Men's Individual 1/16 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/16 Elimination Round\; Recurve Women
+ 's Individual 1/32 Elimination Round\; Recurve Men's Individual 1/32 Elimi
+ nation Round · Carson Stadium · Sessió ARC07
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Archery — Recurve Women's Individual 1/32 Elimination Round
+DESCRIPTION:Recurve Women's Individual 1/32 Elimination Round\; Recurve Wom
+ en's Individual 1/16 Elimination Round · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280724T173000Z
+DTEND:20280724T194000Z
+SUMMARY:Archery — Recurve Women's Individual 1/32 Elimination Round
+DESCRIPTION:Recurve Women's Individual 1/32 Elimination Round\; Recurve Wom
+ en's Individual 1/16 Elimination Round · Carson Stadium · Sessió ARC08
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:Archery — Recurve Men's Team Bronze Medal Match
+DESCRIPTION:Recurve Men's Team Bronze Medal Match\; Recurve Men's Team Semi
+ final\; Recurve Men's Team Quarterfinal · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T023000Z
+DTEND:20280725T061000Z
+SUMMARY:Archery — Recurve Men's Team Bronze Medal Match
+DESCRIPTION:Recurve Men's Team Bronze Medal Match\; Recurve Men's Team Semi
+ final\; Recurve Men's Team Quarterfinal · Carson Stadium · Sessió ARC09
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Archery — Recurve Men's Individual 1/16 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/16 Elimination Round\; Recurve Men's
+  Individual 1/32 Elimination Round\; Recurve Men's Team Gold Medal Match 
+ · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280725T173000Z
+DTEND:20280725T194000Z
+SUMMARY:Archery — Recurve Men's Individual 1/16 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/16 Elimination Round\; Recurve Men's
+  Individual 1/32 Elimination Round\; Recurve Men's Team Gold Medal Match 
+ · Carson Stadium · Sessió ARC10
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Archery — Recurve Women's Team Bronze Medal Match
+DESCRIPTION:Recurve Women's Team Bronze Medal Match\; Recurve Women's Team 
+ Semifinal\; Recurve Women's Team Quarterfinal · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T023000Z
+DTEND:20280726T061000Z
+SUMMARY:Archery — Recurve Women's Team Bronze Medal Match
+DESCRIPTION:Recurve Women's Team Bronze Medal Match\; Recurve Women's Team 
+ Semifinal\; Recurve Women's Team Quarterfinal · Carson Stadium · Sessió
+  ARC11
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Archery — Recurve Mixed team 1/8 Elimination Round
+DESCRIPTION:Recurve Mixed team 1/8 Elimination Round\; Recurve Women's Team
+  Gold Medal Match · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T173000Z
+DTEND:20280726T200500Z
+SUMMARY:Archery — Recurve Mixed team 1/8 Elimination Round
+DESCRIPTION:Recurve Mixed team 1/8 Elimination Round\; Recurve Women's Team
+  Gold Medal Match · Carson Stadium · Sessió ARC12
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc13-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Archery — Recurve Mixed Team Bronze Medal Match
+DESCRIPTION:Recurve Mixed Team Bronze Medal Match\; Recurve Mixed Team Semi
+ final\; Recurve Mixed Team Quarterfinal · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc13@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T030000Z
+DTEND:20280727T061000Z
+SUMMARY:Archery — Recurve Mixed Team Bronze Medal Match
+DESCRIPTION:Recurve Mixed Team Bronze Medal Match\; Recurve Mixed Team Semi
+ final\; Recurve Mixed Team Quarterfinal · Carson Stadium · Sessió ARC13
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc14-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Archery — Recurve Men's Individual 1/8 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/8 Elimination Round\; Recurve Mixed 
+ Team Gold Medal Match · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc14@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T173000Z
+DTEND:20280727T191500Z
+SUMMARY:Archery — Recurve Men's Individual 1/8 Elimination Round
+DESCRIPTION:Recurve Men's Individual 1/8 Elimination Round\; Recurve Mixed 
+ Team Gold Medal Match · Carson Stadium · Sessió ARC14
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc15-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Archery — Recurve Men's Individual Bronze Medal Match
+DESCRIPTION:Recurve Men's Individual Bronze Medal Match\; Recurve Men's Ind
+ ividual Semifinal\; Recurve Men's Individual Quarterfinal · Carson Stadiu
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc15@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T033000Z
+DTEND:20280728T055000Z
+SUMMARY:Archery — Recurve Men's Individual Bronze Medal Match
+DESCRIPTION:Recurve Men's Individual Bronze Medal Match\; Recurve Men's Ind
+ ividual Semifinal\; Recurve Men's Individual Quarterfinal · Carson Stadiu
+ m · Sessió ARC15
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc16-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Archery — Recurve Women's Individual 1/8 Elimination Round
+DESCRIPTION:Recurve Women's Individual 1/8 Elimination Round\; Recurve Men'
+ s Individual Gold Medal Match · Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc16@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T163000Z
+DTEND:20280728T181500Z
+SUMMARY:Archery — Recurve Women's Individual 1/8 Elimination Round
+DESCRIPTION:Recurve Women's Individual 1/8 Elimination Round\; Recurve Men'
+ s Individual Gold Medal Match · Carson Stadium · Sessió ARC16
+LOCATION:Carson Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc17-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Archery — Recurve Women's Individual Bronze Medal Match
+DESCRIPTION:Recurve Women's Individual Bronze Medal Match\; Recurve Women's
+  Individual Semifinal\; Recurve Women's Individual Quarterfinal · Carson 
+ Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-arc17@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T033000Z
+DTEND:20280729T055000Z
+SUMMARY:Archery — Recurve Women's Individual Bronze Medal Match
+DESCRIPTION:Recurve Women's Individual Bronze Medal Match\; Recurve Women's
+  Individual Semifinal\; Recurve Women's Individual Quarterfinal · Carson 
+ Stadium · Sessió ARC17
+LOCATION:Carson Stadium
+END:VEVENT
+END:VCALENDAR

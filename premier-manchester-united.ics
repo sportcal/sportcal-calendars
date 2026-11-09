@@ -1,0 +1,537 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manchester United · Premier League
+BEGIN:VEVENT
+UID:premier-20261122-liverpool-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:MANCHESTER UNITED | Premier League | J11 | ✈️ | Liverpool 🇬
+ 🇧
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Premier League\nEstadi: Anfield
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261122-liverpool-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261122T163000Z
+DTEND:20261122T181500Z
+SUMMARY:Liverpool - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Anfield
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261128-manchester-united-brentford-fc-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:MANCHESTER UNITED | Premier League | J12 | 🏟️ | Brentford FC 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261128-manchester-united-brentford-fc@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261128T150000Z
+DTEND:20261128T164500Z
+SUMMARY:Manchester United - Brentford FC
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261202-newcastle-united-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:MANCHESTER UNITED | Premier League | J13 | ✈️ | Newcastle Unite
+ d 🇬🇧
+DESCRIPTION:Inici: 21:15 (Europe/Madrid) · Premier League\nEstadi: St. Jam
+ es' Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261202-newcastle-united-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261202T201500Z
+DTEND:20261202T220000Z
+SUMMARY:Newcastle United - Manchester United
+DESCRIPTION:Premier League
+LOCATION:St. James' Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261205-manchester-united-coventry-city-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:MANCHESTER UNITED | Premier League | J14 | 🏟️ | Coventry City 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261205-manchester-united-coventry-city@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Manchester United - Coventry City
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261213-crystal-palace-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:MANCHESTER UNITED | Premier League | J15 | ✈️ | Crystal Palace 
+ 🇬🇧
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Premier League\nEstadi: Selhurs
+ t Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261213-crystal-palace-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261213T190000Z
+DTEND:20261213T204500Z
+SUMMARY:Crystal Palace - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Selhurst Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261220-arsenal-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:MANCHESTER UNITED | Premier League | J16 | ✈️ | Arsenal 🇬
+ 🇧
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Premier League\nEstadi: Emirate
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261220-arsenal-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261220T163000Z
+DTEND:20261220T181500Z
+SUMMARY:Arsenal - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Emirates
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261227-manchester-united-nottingham-forest-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:MANCHESTER UNITED | Premier League | J17 | 🏟️ | Nottingham For
+ est 🇬🇧
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261227-manchester-united-nottingham-forest@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261227T163000Z
+DTEND:20261227T181500Z
+SUMMARY:Manchester United - Nottingham Forest
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261230-manchester-united-sunderland-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:MANCHESTER UNITED | Premier League | J18 | 🏟️ | Sunderland 
+ 🇬🇧
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20261230-manchester-united-sunderland@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20261230T193000Z
+DTEND:20261230T211500Z
+SUMMARY:Manchester United - Sunderland
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270102-brighton-hove-albion-fc-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:MANCHESTER UNITED | Premier League | J19 | ✈️ | Brighton & Hove
+  Albion FC 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Premier League\nEstadi: America
+ n Express
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270102-brighton-hove-albion-fc-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270102T123000Z
+DTEND:20270102T141500Z
+SUMMARY:Brighton & Hove Albion FC - Manchester United
+DESCRIPTION:Premier League
+LOCATION:American Express
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270107-manchester-united-newcastle-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:MANCHESTER UNITED | Premier League | J20 | 🏟️ | Newcastle Unit
+ ed 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270107-manchester-united-newcastle-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270107T200000Z
+DTEND:20270107T214500Z
+SUMMARY:Manchester United - Newcastle United
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270116-aston-villa-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:MANCHESTER UNITED | Premier League | J21 | ✈️ | Aston Villa 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Villa P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270116-aston-villa-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270116T150000Z
+DTEND:20270116T164500Z
+SUMMARY:Aston Villa - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Villa Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270123-manchester-united-liverpool-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:MANCHESTER UNITED | Premier League | J22 | 🏟️ | Liverpool 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270123-manchester-united-liverpool@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270123T150000Z
+DTEND:20270123T164500Z
+SUMMARY:Manchester United - Liverpool
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270130-brentford-fc-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:MANCHESTER UNITED | Premier League | J23 | ✈️ | Brentford FC 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Gtech C
+ ommunity
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270130-brentford-fc-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270130T150000Z
+DTEND:20270130T164500Z
+SUMMARY:Brentford FC - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Gtech Community
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270206-manchester-united-chelsea-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:MANCHESTER UNITED | Premier League | J24 | 🏟️ | Chelsea 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270206-manchester-united-chelsea@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270206T150000Z
+DTEND:20270206T164500Z
+SUMMARY:Manchester United - Chelsea
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270210-manchester-united-brighton-hove-albion-fc-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:MANCHESTER UNITED | Premier League | J25 | 🏟️ | Brighton & Hov
+ e Albion FC 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270210-manchester-united-brighton-hove-albion-fc@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270210T200000Z
+DTEND:20270210T214500Z
+SUMMARY:Manchester United - Brighton & Hove Albion FC
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270220-nottingham-forest-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:MANCHESTER UNITED | Premier League | J26 | ✈️ | Nottingham Fore
+ st 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: The Cit
+ y Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270220-nottingham-forest-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270220T150000Z
+DTEND:20270220T164500Z
+SUMMARY:Nottingham Forest - Manchester United
+DESCRIPTION:Premier League
+LOCATION:The City Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270227-manchester-united-arsenal-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:MANCHESTER UNITED | Premier League | J27 | 🏟️ | Arsenal 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270227-manchester-united-arsenal@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270227T150000Z
+DTEND:20270227T164500Z
+SUMMARY:Manchester United - Arsenal
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270303-sunderland-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:MANCHESTER UNITED | Premier League | J28 | ✈️ | Sunderland 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Premier League\nEstadi: Stadium
+  of Light
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270303-sunderland-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270303T200000Z
+DTEND:20270303T214500Z
+SUMMARY:Sunderland - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Stadium of Light
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270313-manchester-united-everton-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:MANCHESTER UNITED | Premier League | J29 | 🏟️ | Everton 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270313-manchester-united-everton@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270313T150000Z
+DTEND:20270313T164500Z
+SUMMARY:Manchester United - Everton
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270320-manchester-city-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:MANCHESTER UNITED | Premier League | J30 | ✈️ | Manchester City
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Etihad
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270320-manchester-city-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270320T150000Z
+DTEND:20270320T164500Z
+SUMMARY:Manchester City - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Etihad
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270410-manchester-united-hull-city-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:MANCHESTER UNITED | Premier League | J31 | 🏟️ | Hull City 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270410-manchester-united-hull-city@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270410T140000Z
+DTEND:20270410T154500Z
+SUMMARY:Manchester United - Hull City
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270417-ipswich-town-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:MANCHESTER UNITED | Premier League | J32 | ✈️ | Ipswich Town 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Portman
+  Road
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270417-ipswich-town-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270417T140000Z
+DTEND:20270417T154500Z
+SUMMARY:Ipswich Town - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Portman Road
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270424-manchester-united-crystal-palace-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:MANCHESTER UNITED | Premier League | J33 | 🏟️ | Crystal Palace
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270424-manchester-united-crystal-palace@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270424T140000Z
+DTEND:20270424T154500Z
+SUMMARY:Manchester United - Crystal Palace
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270501-coventry-city-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:MANCHESTER UNITED | Premier League | J34 | ✈️ | Coventry City 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Coventr
+ y Building Society Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270501-coventry-city-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270501T140000Z
+DTEND:20270501T154500Z
+SUMMARY:Coventry City - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Coventry Building Society Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270508-afc-bournemouth-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:MANCHESTER UNITED | Premier League | J35 | ✈️ | AFC Bournemouth
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Vitalit
+ y
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270508-afc-bournemouth-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270508T140000Z
+DTEND:20270508T154500Z
+SUMMARY:AFC Bournemouth - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Vitality
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270515-manchester-united-leeds-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:MANCHESTER UNITED | Premier League | J36 | 🏟️ | Leeds United 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270515-manchester-united-leeds-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270515T140000Z
+DTEND:20270515T154500Z
+SUMMARY:Manchester United - Leeds United
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270523-tottenham-hotspur-manchester-united-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:MANCHESTER UNITED | Premier League | J37 | ✈️ | Tottenham Hotsp
+ ur 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premier League\nEstadi: Tottenh
+ am Hotspur
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270523-tottenham-hotspur-manchester-united@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270523T140000Z
+DTEND:20270523T154500Z
+SUMMARY:Tottenham Hotspur - Manchester United
+DESCRIPTION:Premier League
+LOCATION:Tottenham Hotspur
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270530-manchester-united-fulham-dia@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:MANCHESTER UNITED | Premier League | J38 | 🏟️ | Fulham 🇬
+ 🇧
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Premier League\nEstadi: Old Tra
+ fford
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-20270530-manchester-united-fulham@sportcal
+DTSTAMP:20261109T012733Z
+DTSTART:20270530T150000Z
+DTEND:20270530T164500Z
+SUMMARY:Manchester United - Fulham
+DESCRIPTION:Premier League
+LOCATION:Old Trafford
+END:VEVENT
+END:VCALENDAR

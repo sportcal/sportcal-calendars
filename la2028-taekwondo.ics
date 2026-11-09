@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//LA28//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles 2028 · Taekwondo
+BEGIN:VEVENT
+UID:la2028-jocs@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280731
+SUMMARY:Los Angeles 2028 — Jocs Olímpics
+DESCRIPTION:Jocs Olímpics d’estiu · Los Angeles · 14–30 de juliol de
+  2028
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw01-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Taekwondo — Women's -49kg Round of 16
+DESCRIPTION:Women's -49kg Round of 16\; Men's -58kg Round of 32\; Women's -
+ 49kg Round of 32\; Men's -58kg Round of 16 · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw01@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T160000Z
+DTEND:20280726T200000Z
+SUMMARY:Taekwondo — Women's -49kg Round of 16
+DESCRIPTION:Women's -49kg Round of 16\; Men's -58kg Round of 32\; Women's -
+ 49kg Round of 32\; Men's -58kg Round of 16 · LA Convention Center Hall 1 
+ · Sessió TKW01
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw02-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Taekwondo — Women's -49kg Semifinal
+DESCRIPTION:Women's -49kg Semifinal\; Men's -58kg Quarterfinal\; Women's -4
+ 9kg Quarterfinal\; Men's -58kg Semifinal · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw02@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280726T220000Z
+DTEND:20280727T010000Z
+SUMMARY:Taekwondo — Women's -49kg Semifinal
+DESCRIPTION:Women's -49kg Semifinal\; Men's -58kg Quarterfinal\; Women's -4
+ 9kg Quarterfinal\; Men's -58kg Semifinal · LA Convention Center Hall 1 ·
+  Sessió TKW02
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw03-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Taekwondo — Men's -58kg Bronze Medal Contests
+DESCRIPTION:Men's -58kg Bronze Medal Contests\; Women's -49kg Bronze Medal 
+ Contests\; Women's -49kg Repechage\; Men's -58kg Repechage\; Women's -49kg
+  Gold Medal Contest\; Men's -58kg Gold Medal Contest · LA Convention Cent
+ er Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw03@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T023000Z
+DTEND:20280727T060000Z
+SUMMARY:Taekwondo — Men's -58kg Bronze Medal Contests
+DESCRIPTION:Men's -58kg Bronze Medal Contests\; Women's -49kg Bronze Medal 
+ Contests\; Women's -49kg Repechage\; Men's -58kg Repechage\; Women's -49kg
+  Gold Medal Contest\; Men's -58kg Gold Medal Contest · LA Convention Cent
+ er Hall 1 · Sessió TKW03
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw04-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Taekwondo — Men's -68kg Round of 16
+DESCRIPTION:Men's -68kg Round of 16\; Women's -57kg Round of 32\; Men's -68
+ kg Round of 32\; Women's -57kg Round of 16 · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw04@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T160000Z
+DTEND:20280727T200000Z
+SUMMARY:Taekwondo — Men's -68kg Round of 16
+DESCRIPTION:Men's -68kg Round of 16\; Women's -57kg Round of 32\; Men's -68
+ kg Round of 32\; Women's -57kg Round of 16 · LA Convention Center Hall 1 
+ · Sessió TKW04
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw05-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Taekwondo — Men's -68kg Semifinal
+DESCRIPTION:Men's -68kg Semifinal\; Women's -57kg Quarterfinal\; Men's -68k
+ g Quarterfinal\; Women's -57kg Semifinal · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw05@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280727T220000Z
+DTEND:20280728T010000Z
+SUMMARY:Taekwondo — Men's -68kg Semifinal
+DESCRIPTION:Men's -68kg Semifinal\; Women's -57kg Quarterfinal\; Men's -68k
+ g Quarterfinal\; Women's -57kg Semifinal · LA Convention Center Hall 1 ·
+  Sessió TKW05
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw06-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:Taekwondo — Women's -57kg Bronze Medal Contests
+DESCRIPTION:Women's -57kg Bronze Medal Contests\; Men's -68kg Bronze Medal 
+ Contests\; Men's -68kg Repechage\; Women's -57kg Repechage\; Men's -68kg G
+ old Medal Contest\; Women's -57kg Gold Medal Contest · LA Convention Cent
+ er Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw06@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T023000Z
+DTEND:20280728T060000Z
+SUMMARY:Taekwondo — Women's -57kg Bronze Medal Contests
+DESCRIPTION:Women's -57kg Bronze Medal Contests\; Men's -68kg Bronze Medal 
+ Contests\; Men's -68kg Repechage\; Women's -57kg Repechage\; Men's -68kg G
+ old Medal Contest\; Women's -57kg Gold Medal Contest · LA Convention Cent
+ er Hall 1 · Sessió TKW06
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw07-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Taekwondo — Women's -67kg Round of 16
+DESCRIPTION:Women's -67kg Round of 16\; Men's -80kg Round of 32\; Women's -
+ 67kg Round of 32\; Men's -80kg Round of 16 · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw07@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T160000Z
+DTEND:20280728T200000Z
+SUMMARY:Taekwondo — Women's -67kg Round of 16
+DESCRIPTION:Women's -67kg Round of 16\; Men's -80kg Round of 32\; Women's -
+ 67kg Round of 32\; Men's -80kg Round of 16 · LA Convention Center Hall 1 
+ · Sessió TKW07
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw08-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Taekwondo — Women's -67kg Semifinal
+DESCRIPTION:Women's -67kg Semifinal\; Men's -80kg Quarterfinal\; Women's -6
+ 7kg Quarterfinal\; Men's -80kg Semifinal · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw08@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280728T220000Z
+DTEND:20280729T010000Z
+SUMMARY:Taekwondo — Women's -67kg Semifinal
+DESCRIPTION:Women's -67kg Semifinal\; Men's -80kg Quarterfinal\; Women's -6
+ 7kg Quarterfinal\; Men's -80kg Semifinal · LA Convention Center Hall 1 ·
+  Sessió TKW08
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw09-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
+SUMMARY:Taekwondo — Men's -80kg Bronze Medal Contests
+DESCRIPTION:Men's -80kg Bronze Medal Contests\; Women's -67kg Bronze Medal 
+ Contests\; Women's -67kg Repechage\; Men's -80kg Repechage\; Women's -67kg
+  Gold Medal Contest · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw09@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T023000Z
+DTEND:20280729T060000Z
+SUMMARY:Taekwondo — Men's -80kg Bronze Medal Contests
+DESCRIPTION:Men's -80kg Bronze Medal Contests\; Women's -67kg Bronze Medal 
+ Contests\; Women's -67kg Repechage\; Men's -80kg Repechage\; Women's -67kg
+  Gold Medal Contest · LA Convention Center Hall 1 · Sessió TKW09
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw10-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Taekwondo — Men's +80kg Round of 16
+DESCRIPTION:Men's +80kg Round of 16\; Men's -80kg Gold Medal Contest\; Men'
+ s +80kg Round of 32\; Women's +67kg Round of 16 · LA Convention Center Ha
+ ll 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw10@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T160000Z
+DTEND:20280729T200000Z
+SUMMARY:Taekwondo — Men's +80kg Round of 16
+DESCRIPTION:Men's +80kg Round of 16\; Men's -80kg Gold Medal Contest\; Men'
+ s +80kg Round of 32\; Women's +67kg Round of 16 · LA Convention Center Ha
+ ll 1 · Sessió TKW10
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw11-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Taekwondo — Men's +80kg Semifinal
+DESCRIPTION:Men's +80kg Semifinal\; Women's +67kg Quarterfinal\; Men's +80k
+ g Quarterfinal\; Women's +67kg Semifinal · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw11@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280729T220000Z
+DTEND:20280730T010000Z
+SUMMARY:Taekwondo — Men's +80kg Semifinal
+DESCRIPTION:Men's +80kg Semifinal\; Women's +67kg Quarterfinal\; Men's +80k
+ g Quarterfinal\; Women's +67kg Semifinal · LA Convention Center Hall 1 ·
+  Sessió TKW11
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw12-dia@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Taekwondo — Women's +67kg Bronze Medal Contests
+DESCRIPTION:Women's +67kg Bronze Medal Contests\; Men's +80kg Bronze Medal 
+ Contests\; Men's +80kg Repechage\; Women's +67kg Repechage\; Men's +80kg G
+ old Medal Contest · LA Convention Center Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:la2028-tkw12@sportcal
+DTSTAMP:20261109T014500Z
+DTSTART:20280730T023000Z
+DTEND:20280730T060000Z
+SUMMARY:Taekwondo — Women's +67kg Bronze Medal Contests
+DESCRIPTION:Women's +67kg Bronze Medal Contests\; Men's +80kg Bronze Medal 
+ Contests\; Men's +80kg Repechage\; Women's +67kg Repechage\; Men's +80kg G
+ old Medal Contest · LA Convention Center Hall 1 · Sessió TKW12
+LOCATION:LA Convention Center Hall 1
+END:VEVENT
+END:VCALENDAR
