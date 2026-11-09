@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portugal (Women) · WWC Qual.
+BEGIN:VEVENT
+UID:wwcqual-20261201-portugal-women-iceland-women-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:PORTUGAL (WOMEN) | WWC Qual. | J1 | 🏟️ | Iceland (Women)
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Women's World Cup Qualification
+  (UEFA)
+END:VEVENT
+BEGIN:VEVENT
+UID:wwcqual-20261201-portugal-women-iceland-women@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261201T170000Z
+DTEND:20261201T184500Z
+SUMMARY:Portugal (Women) - Iceland (Women)
+DESCRIPTION:Women's World Cup Qualification (UEFA)
+END:VEVENT
+BEGIN:VEVENT
+UID:wwcqual-20261205-iceland-women-portugal-women-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:PORTUGAL (WOMEN) | WWC Qual. | J2 | ✈️ | Iceland (Women)
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's World Cup Qualification
+  (UEFA)
+END:VEVENT
+BEGIN:VEVENT
+UID:wwcqual-20261205-iceland-women-portugal-women@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261205T140000Z
+DTEND:20261205T154500Z
+SUMMARY:Iceland (Women) - Portugal (Women)
+DESCRIPTION:Women's World Cup Qualification (UEFA)
+END:VEVENT
+END:VCALENDAR

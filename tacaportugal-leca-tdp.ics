@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Leça [TdP] · Taça de Portugal
+BEGIN:VEVENT
+UID:tacaportugal-20261122-uniao-de-leiria-leca-tdp-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:LEÇA [TDP] | Taça de Portugal | ✈️ | União de Leiria 🇵
+ 🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Taça de Portugal\nEstadi: Est
+ ádio Dr. Magalhaes Pessoa
+END:VEVENT
+BEGIN:VEVENT
+UID:tacaportugal-20261122-uniao-de-leiria-leca-tdp@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261122T193000Z
+DTEND:20261122T211500Z
+SUMMARY:União de Leiria - Leça [TdP]
+DESCRIPTION:Taça de Portugal
+LOCATION:Estádio Dr. Magalhaes Pessoa
+END:VEVENT
+END:VCALENDAR

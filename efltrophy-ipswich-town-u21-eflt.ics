@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ipswich Town U21 [EFLT] · EFL Trophy
+BEGIN:VEVENT
+UID:efltrophy-20261110-colchester-united-fc-ipswich-town-u21-eflt-dia@sport
+ cal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:IPSWICH TOWN U21 [EFLT] | EFL Trophy | ✈️ | Colchester United F
+ C 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EFL Trophy\nEstadi: JobServe Co
+ mmunity
+END:VEVENT
+BEGIN:VEVENT
+UID:efltrophy-20261110-colchester-united-fc-ipswich-town-u21-eflt@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261110T194500Z
+DTEND:20261110T213000Z
+SUMMARY:Colchester United FC - Ipswich Town U21 [EFLT]
+DESCRIPTION:EFL Trophy
+LOCATION:JobServe Community
+END:VEVENT
+END:VCALENDAR

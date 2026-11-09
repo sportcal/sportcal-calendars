@@ -1,0 +1,608 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kidderminster Harriers · National League
+BEGIN:VEVENT
+UID:nationalleague-20261114-kidderminster-harriers-fc-halifax-town-dia@spor
+ tcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J17 | 🏟️ | FC Halif
+ ax Town 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261114-kidderminster-harriers-fc-halifax-town@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261114T150000Z
+DTEND:20261114T164500Z
+SUMMARY:Kidderminster Harriers - FC Halifax Town
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261121-kidderminster-harriers-afc-fylde-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J18 | 🏟️ | AFC Fyld
+ e 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261121-kidderminster-harriers-afc-fylde@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Kidderminster Harriers - AFC Fylde
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261125-harrogate-town-kidderminster-harriers-dia@sport
+ cal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J19 | ✈️ | Harrogate
+  Town 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Enviro
+ Vent
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261125-harrogate-town-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261125T194500Z
+DTEND:20261125T213000Z
+SUMMARY:Harrogate Town - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:EnviroVent
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261128-boston-united-kidderminster-harriers-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J20 | ✈️ | Boston Un
+ ited 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261128-boston-united-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261128T150000Z
+DTEND:20261128T164500Z
+SUMMARY:Boston United - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261205-kidderminster-harriers-scunthorpe-united-fc-dia
+ @sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J21 | 🏟️ | Scunthor
+ pe United FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261205-kidderminster-harriers-scunthorpe-united-fc@spo
+ rtcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Kidderminster Harriers - Scunthorpe United FC
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261208-kidderminster-harriers-carlisle-united-dia@spor
+ tcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J22 | 🏟️ | Carlisle
+  United 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261208-kidderminster-harriers-carlisle-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261208T194500Z
+DTEND:20261208T213000Z
+SUMMARY:Kidderminster Harriers - Carlisle United
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261219-sutton-united-fc-kidderminster-harriers-dia@spo
+ rtcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J23 | ✈️ | Sutton Un
+ ited FC 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · National League\nEstadi: VBS Co
+ mmunity
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261219-sutton-united-fc-kidderminster-harriers@sportca
+ l
+DTSTAMP:20261109T211345Z
+DTSTART:20261219T123000Z
+DTEND:20261219T141500Z
+SUMMARY:Sutton United FC - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:VBS Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261226-kidderminster-harriers-forest-green-rovers-fc-d
+ ia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J24 | 🏟️ | Forest G
+ reen Rovers FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261226-kidderminster-harriers-forest-green-rovers-fc@s
+ portcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261226T150000Z
+DTEND:20261226T164500Z
+SUMMARY:Kidderminster Harriers - Forest Green Rovers FC
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261228-tamworth-kidderminster-harriers-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J25 | ✈️ | Tamworth 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: The La
+ mb Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261228-tamworth-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261228T150000Z
+DTEND:20261228T164500Z
+SUMMARY:Tamworth - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:The Lamb Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270102-worthing-kidderminster-harriers-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J26 | ✈️ | Worthing 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Sussex
+  Transport Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270102-worthing-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270102T150000Z
+DTEND:20270102T164500Z
+SUMMARY:Worthing - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:Sussex Transport Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270109-kidderminster-harriers-altrincham-fc-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J27 | 🏟️ | Altrinch
+ am FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270109-kidderminster-harriers-altrincham-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270109T150000Z
+DTEND:20270109T164500Z
+SUMMARY:Kidderminster Harriers - Altrincham FC
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270122-eastleigh-fc-kidderminster-harriers-dia@sportca
+ l
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J28 | ✈️ | Eastleigh
+  FC 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Silver
+ lake
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270122-eastleigh-fc-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270122T194500Z
+DTEND:20270122T213000Z
+SUMMARY:Eastleigh FC - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:Silverlake
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270126-kidderminster-harriers-harrogate-town-dia@sport
+ cal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J29 | 🏟️ | Harrogat
+ e Town 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270126-kidderminster-harriers-harrogate-town@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270126T194500Z
+DTEND:20270126T213000Z
+SUMMARY:Kidderminster Harriers - Harrogate Town
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270130-kidderminster-harriers-hornchurch-fc-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J30 | 🏟️ | Hornchur
+ ch FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270130-kidderminster-harriers-hornchurch-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270130T150000Z
+DTEND:20270130T164500Z
+SUMMARY:Kidderminster Harriers - Hornchurch FC
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270206-afc-fylde-kidderminster-harriers-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J31 | ✈️ | AFC Fylde
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Mill F
+ arm Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270206-afc-fylde-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270206T150000Z
+DTEND:20270206T164500Z
+SUMMARY:AFC Fylde - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:Mill Farm Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270213-yeovil-town-fc-kidderminster-harriers-dia@sport
+ cal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J32 | ✈️ | Yeovil To
+ wn FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Huish 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270213-yeovil-town-fc-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270213T150000Z
+DTEND:20270213T164500Z
+SUMMARY:Yeovil Town FC - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:Huish Park
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270216-kidderminster-harriers-boreham-wood-fc-dia@spor
+ tcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J33 | 🏟️ | Boreham 
+ Wood FC 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270216-kidderminster-harriers-boreham-wood-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270216T194500Z
+DTEND:20270216T213000Z
+SUMMARY:Kidderminster Harriers - Boreham Wood FC
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270220-kidderminster-harriers-woking-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J34 | 🏟️ | Woking F
+ C 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270220-kidderminster-harriers-woking-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270220T150000Z
+DTEND:20270220T164500Z
+SUMMARY:Kidderminster Harriers - Woking FC
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270223-gateshead-fc-kidderminster-harriers-dia@sportca
+ l
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J35 | ✈️ | Gateshead
+  FC 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Gatesh
+ ead International
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270223-gateshead-fc-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270223T194500Z
+DTEND:20270223T213000Z
+SUMMARY:Gateshead FC - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:Gateshead International
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270227-aldershot-town-fc-kidderminster-harriers-dia@sp
+ ortcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J36 | ✈️ | Aldershot
+  Town FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: The EB
+ B
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270227-aldershot-town-fc-kidderminster-harriers@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART:20270227T150000Z
+DTEND:20270227T164500Z
+SUMMARY:Aldershot Town FC - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:The EBB
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270306-kidderminster-harriers-southend-united-dia@spor
+ tcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J37 | 🏟️ | Southend
+  United 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270306-kidderminster-harriers-southend-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270306T150000Z
+DTEND:20270306T164500Z
+SUMMARY:Kidderminster Harriers - Southend United
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270309-barrow-afc-kidderminster-harriers-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J38 | ✈️ | Barrow AF
+ C 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: SO Leg
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270309-barrow-afc-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270309T194500Z
+DTEND:20270309T213000Z
+SUMMARY:Barrow AFC - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:SO Legal
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270313-kidderminster-harriers-wealdstone-fc-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J39 | 🏟️ | Wealdsto
+ ne FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270313-kidderminster-harriers-wealdstone-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270313T150000Z
+DTEND:20270313T164500Z
+SUMMARY:Kidderminster Harriers - Wealdstone FC
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270320-hartlepool-united-fc-kidderminster-harriers-dia
+ @sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J40 | ✈️ | Hartlepoo
+ l United FC 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · National League\nEstadi: The Su
+ it Direct
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270320-hartlepool-united-fc-kidderminster-harriers@spo
+ rtcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270320T123000Z
+DTEND:20270320T141500Z
+SUMMARY:Hartlepool United FC - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:The Suit Direct
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270326-kidderminster-harriers-tamworth-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J41 | 🏟️ | Tamworth
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270326-kidderminster-harriers-tamworth@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270326T150000Z
+DTEND:20270326T164500Z
+SUMMARY:Kidderminster Harriers - Tamworth
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270329-forest-green-rovers-fc-kidderminster-harriers-d
+ ia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J42 | ✈️ | Forest Gr
+ een Rovers FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: The Bo
+ lt New Lawn
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270329-forest-green-rovers-fc-kidderminster-harriers@s
+ portcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270329T140000Z
+DTEND:20270329T154500Z
+SUMMARY:Forest Green Rovers FC - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:The Bolt New Lawn
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270403-kidderminster-harriers-solihull-moors-fc-dia@sp
+ ortcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J43 | 🏟️ | Solihull
+  Moors FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270403-kidderminster-harriers-solihull-moors-fc@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART:20270403T140000Z
+DTEND:20270403T154500Z
+SUMMARY:Kidderminster Harriers - Solihull Moors FC
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270410-fc-halifax-town-kidderminster-harriers-dia@spor
+ tcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J44 | ✈️ | FC Halifa
+ x Town 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: The MB
+ i Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270410-fc-halifax-town-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270410T140000Z
+DTEND:20270410T154500Z
+SUMMARY:FC Halifax Town - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:The MBi Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270417-scunthorpe-united-fc-kidderminster-harriers-dia
+ @sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J45 | ✈️ | Scunthorp
+ e United FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Attis 
+ Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270417-scunthorpe-united-fc-kidderminster-harriers@spo
+ rtcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270417T140000Z
+DTEND:20270417T154500Z
+SUMMARY:Scunthorpe United FC - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:Attis Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270424-kidderminster-harriers-boston-united-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:KIDDERMINSTER HARRIERS | National League | J46 | 🏟️ | Boston U
+ nited 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270424-kidderminster-harriers-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270424T113000Z
+DTEND:20270424T131500Z
+SUMMARY:Kidderminster Harriers - Boston United
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+END:VCALENDAR

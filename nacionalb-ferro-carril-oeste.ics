@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ferro Carril Oeste · Primera Nacional
+BEGIN:VEVENT
+UID:nacionalb-20261116-ferro-carril-oeste-gimnasia-y-tiro-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:FERRO CARRIL OESTE | Primera Nacional | J37 | 🏟️ | Gimnasia y 
+ Tiro 🇦🇷
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Primera Nacional\nEstadi: Estad
+ io Arquitecto Ricardo Etcheverri
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261116-ferro-carril-oeste-gimnasia-y-tiro@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261115T230000Z
+DTEND:20261116T004500Z
+SUMMARY:Ferro Carril Oeste - Gimnasia y Tiro
+DESCRIPTION:Primera Nacional
+LOCATION:Estadio Arquitecto Ricardo Etcheverri
+END:VEVENT
+END:VCALENDAR

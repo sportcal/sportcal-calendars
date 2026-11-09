@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lusitânia Lourosa [TdP] · Taça de Portugal
+BEGIN:VEVENT
+UID:tacaportugal-20261122-vitoria-de-sernache-lusitania-lourosa-tdp-dia@spo
+ rtcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:LUSITÂNIA LOUROSA [TDP] | Taça de Portugal | ✈️ | Vitória de
+  Sernache 🇵🇹
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Taça de Portugal\nEstadi: Est
+ ádio Municipal D. Nuno Álvares Pereira
+END:VEVENT
+BEGIN:VEVENT
+UID:tacaportugal-20261122-vitoria-de-sernache-lusitania-lourosa-tdp@sportca
+ l
+DTSTAMP:20261109T211345Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Vitória de Sernache - Lusitânia Lourosa [TdP]
+DESCRIPTION:Taça de Portugal
+LOCATION:Estádio Municipal D. Nuno Álvares Pereira
+END:VEVENT
+END:VCALENDAR

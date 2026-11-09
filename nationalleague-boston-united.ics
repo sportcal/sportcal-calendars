@@ -1,0 +1,575 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston United · National League
+BEGIN:VEVENT
+UID:nationalleague-20261114-carlisle-united-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:BOSTON UNITED | National League | J17 | ✈️ | Carlisle United 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Brunto
+ n Park
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261114-carlisle-united-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261114T150000Z
+DTEND:20261114T164500Z
+SUMMARY:Carlisle United - Boston United
+DESCRIPTION:National League
+LOCATION:Brunton Park
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261121-sutton-united-fc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:BOSTON UNITED | National League | J18 | ✈️ | Sutton United FC 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: VBS Co
+ mmunity
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261121-sutton-united-fc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Sutton United FC - Boston United
+DESCRIPTION:National League
+LOCATION:VBS Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261124-boston-united-barrow-afc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:BOSTON UNITED | National League | J19 | 🏟️ | Barrow AFC 🇬
+ 🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261124-boston-united-barrow-afc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261124T194500Z
+DTEND:20261124T213000Z
+SUMMARY:Boston United - Barrow AFC
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261128-boston-united-kidderminster-harriers-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:BOSTON UNITED | National League | J20 | 🏟️ | Kidderminster Har
+ riers 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261128-boston-united-kidderminster-harriers@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261128T150000Z
+DTEND:20261128T164500Z
+SUMMARY:Boston United - Kidderminster Harriers
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261205-worthing-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:BOSTON UNITED | National League | J21 | ✈️ | Worthing 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Sussex
+  Transport Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261205-worthing-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Worthing - Boston United
+DESCRIPTION:National League
+LOCATION:Sussex Transport Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261208-southend-united-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:BOSTON UNITED | National League | J22 | ✈️ | Southend United 
+ 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Roots 
+ Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261208-southend-united-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261208T194500Z
+DTEND:20261208T213000Z
+SUMMARY:Southend United - Boston United
+DESCRIPTION:National League
+LOCATION:Roots Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261219-boston-united-yeovil-town-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:BOSTON UNITED | National League | J23 | 🏟️ | Yeovil Town FC 
+ 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261219-boston-united-yeovil-town-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261219T123000Z
+DTEND:20261219T141500Z
+SUMMARY:Boston United - Yeovil Town FC
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261226-hartlepool-united-fc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:BOSTON UNITED | National League | J24 | ✈️ | Hartlepool United 
+ FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: The Su
+ it Direct
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261226-hartlepool-united-fc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261226T150000Z
+DTEND:20261226T164500Z
+SUMMARY:Hartlepool United FC - Boston United
+DESCRIPTION:National League
+LOCATION:The Suit Direct
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261229-boston-united-harrogate-town-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:BOSTON UNITED | National League | J25 | 🏟️ | Harrogate Town 
+ 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20261229-boston-united-harrogate-town@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261229T194500Z
+DTEND:20261229T213000Z
+SUMMARY:Boston United - Harrogate Town
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270102-boston-united-eastleigh-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:BOSTON UNITED | National League | J26 | 🏟️ | Eastleigh FC 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270102-boston-united-eastleigh-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270102T150000Z
+DTEND:20270102T164500Z
+SUMMARY:Boston United - Eastleigh FC
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270109-gateshead-fc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:BOSTON UNITED | National League | J27 | ✈️ | Gateshead FC 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Gatesh
+ ead International
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270109-gateshead-fc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270109T150000Z
+DTEND:20270109T164500Z
+SUMMARY:Gateshead FC - Boston United
+DESCRIPTION:National League
+LOCATION:Gateshead International
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270123-boston-united-solihull-moors-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:BOSTON UNITED | National League | J28 | 🏟️ | Solihull Moors FC
+  🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270123-boston-united-solihull-moors-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270123T123000Z
+DTEND:20270123T141500Z
+SUMMARY:Boston United - Solihull Moors FC
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270126-barrow-afc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:BOSTON UNITED | National League | J29 | ✈️ | Barrow AFC 🇬
+ 🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: SO Leg
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270126-barrow-afc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270126T194500Z
+DTEND:20270126T213000Z
+SUMMARY:Barrow AFC - Boston United
+DESCRIPTION:National League
+LOCATION:SO Legal
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270130-aldershot-town-fc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:BOSTON UNITED | National League | J30 | ✈️ | Aldershot Town FC 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: The EB
+ B
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270130-aldershot-town-fc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270130T150000Z
+DTEND:20270130T164500Z
+SUMMARY:Aldershot Town FC - Boston United
+DESCRIPTION:National League
+LOCATION:The EBB
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270206-boston-united-sutton-united-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:BOSTON UNITED | National League | J31 | 🏟️ | Sutton United FC 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270206-boston-united-sutton-united-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270206T150000Z
+DTEND:20270206T164500Z
+SUMMARY:Boston United - Sutton United FC
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270213-afc-fylde-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:BOSTON UNITED | National League | J32 | ✈️ | AFC Fylde 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Mill F
+ arm Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270213-afc-fylde-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270213T150000Z
+DTEND:20270213T164500Z
+SUMMARY:AFC Fylde - Boston United
+DESCRIPTION:National League
+LOCATION:Mill Farm Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270216-boston-united-fc-halifax-town-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:BOSTON UNITED | National League | J33 | 🏟️ | FC Halifax Town 
+ 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270216-boston-united-fc-halifax-town@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270216T194500Z
+DTEND:20270216T213000Z
+SUMMARY:Boston United - FC Halifax Town
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270220-boston-united-forest-green-rovers-fc-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:BOSTON UNITED | National League | J34 | 🏟️ | Forest Green Rove
+ rs FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270220-boston-united-forest-green-rovers-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270220T150000Z
+DTEND:20270220T164500Z
+SUMMARY:Boston United - Forest Green Rovers FC
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270224-woking-fc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:BOSTON UNITED | National League | J35 | ✈️ | Woking FC 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: The La
+ ithwaite Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270224-woking-fc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270224T194500Z
+DTEND:20270224T213000Z
+SUMMARY:Woking FC - Boston United
+DESCRIPTION:National League
+LOCATION:The Laithwaite Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270227-altrincham-fc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:BOSTON UNITED | National League | J36 | ✈️ | Altrincham FC 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: J. Dav
+ idson
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270227-altrincham-fc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270227T150000Z
+DTEND:20270227T164500Z
+SUMMARY:Altrincham FC - Boston United
+DESCRIPTION:National League
+LOCATION:J. Davidson
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270306-boston-united-boreham-wood-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:BOSTON UNITED | National League | J37 | 🏟️ | Boreham Wood FC 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270306-boston-united-boreham-wood-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270306T150000Z
+DTEND:20270306T164500Z
+SUMMARY:Boston United - Boreham Wood FC
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270309-hornchurch-fc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:BOSTON UNITED | National League | J38 | ✈️ | Hornchurch FC 🇬
+ 🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · National League\nEstadi: Hornch
+ urch
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270309-hornchurch-fc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270309T194500Z
+DTEND:20270309T213000Z
+SUMMARY:Hornchurch FC - Boston United
+DESCRIPTION:National League
+LOCATION:Hornchurch
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270313-boston-united-tamworth-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:BOSTON UNITED | National League | J39 | 🏟️ | Tamworth 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270313-boston-united-tamworth@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270313T150000Z
+DTEND:20270313T164500Z
+SUMMARY:Boston United - Tamworth
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270320-wealdstone-fc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:BOSTON UNITED | National League | J40 | ✈️ | Wealdstone FC 🇬
+ 🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · National League\nEstadi: Grosve
+ nor Vale
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270320-wealdstone-fc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270320T123000Z
+DTEND:20270320T141500Z
+SUMMARY:Wealdstone FC - Boston United
+DESCRIPTION:National League
+LOCATION:Grosvenor Vale
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270326-harrogate-town-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:BOSTON UNITED | National League | J41 | ✈️ | Harrogate Town 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Enviro
+ Vent
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270326-harrogate-town-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270326T150000Z
+DTEND:20270326T164500Z
+SUMMARY:Harrogate Town - Boston United
+DESCRIPTION:National League
+LOCATION:EnviroVent
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270329-boston-united-hartlepool-united-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:BOSTON UNITED | National League | J42 | 🏟️ | Hartlepool United
+  FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270329-boston-united-hartlepool-united-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270329T140000Z
+DTEND:20270329T154500Z
+SUMMARY:Boston United - Hartlepool United FC
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270403-scunthorpe-united-fc-boston-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:BOSTON UNITED | National League | J43 | ✈️ | Scunthorpe United 
+ FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Attis 
+ Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270403-scunthorpe-united-fc-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270403T140000Z
+DTEND:20270403T154500Z
+SUMMARY:Scunthorpe United FC - Boston United
+DESCRIPTION:National League
+LOCATION:Attis Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270410-boston-united-carlisle-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:BOSTON UNITED | National League | J44 | 🏟️ | Carlisle United 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270410-boston-united-carlisle-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270410T140000Z
+DTEND:20270410T154500Z
+SUMMARY:Boston United - Carlisle United
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270417-boston-united-worthing-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:BOSTON UNITED | National League | J45 | 🏟️ | Worthing 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · National League\nEstadi: Jakema
+ ns Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270417-boston-united-worthing@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270417T140000Z
+DTEND:20270417T154500Z
+SUMMARY:Boston United - Worthing
+DESCRIPTION:National League
+LOCATION:Jakemans Community
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270424-kidderminster-harriers-boston-united-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:BOSTON UNITED | National League | J46 | ✈️ | Kidderminster Harr
+ iers 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · National League\nEstadi: Aggbor
+ ough
+END:VEVENT
+BEGIN:VEVENT
+UID:nationalleague-20270424-kidderminster-harriers-boston-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270424T113000Z
+DTEND:20270424T131500Z
+SUMMARY:Kidderminster Harriers - Boston United
+DESCRIPTION:National League
+LOCATION:Aggborough
+END:VEVENT
+END:VCALENDAR

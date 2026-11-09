@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Academica [TdP] · Taça de Portugal
+BEGIN:VEVENT
+UID:tacaportugal-20261122-sanjoanense-academica-tdp-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ACADEMICA [TDP] | Taça de Portugal | ✈️ | Sanjoanense 🇵🇹
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Taça de Portugal\nEstadi: Esta
+ dio Conde Dias Garcia
+END:VEVENT
+BEGIN:VEVENT
+UID:tacaportugal-20261122-sanjoanense-academica-tdp@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261122T110000Z
+DTEND:20261122T124500Z
+SUMMARY:Sanjoanense - Academica [TdP]
+DESCRIPTION:Taça de Portugal
+LOCATION:Estadio Conde Dias Garcia
+END:VEVENT
+END:VCALENDAR

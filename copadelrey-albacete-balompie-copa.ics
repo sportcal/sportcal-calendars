@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Albacete Balompie [Copa] · Copa del Rey
+BEGIN:VEVENT
+UID:copadelrey-20261112-calvo-sotelo-albacete-balompie-copa-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:ALBACETE BALOMPIE [COPA] | Copa del Rey | ✈️ | Calvo Sotelo 
+ 🇪🇸
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Copa del Rey
+END:VEVENT
+BEGIN:VEVENT
+UID:copadelrey-20261112-calvo-sotelo-albacete-balompie-copa@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261112T173000Z
+DTEND:20261112T191500Z
+SUMMARY:Calvo Sotelo - Albacete Balompie [Copa]
+DESCRIPTION:Copa del Rey
+END:VEVENT
+END:VCALENDAR

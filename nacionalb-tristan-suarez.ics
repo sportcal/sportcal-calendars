@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tristán Suárez · Primera Nacional
+BEGIN:VEVENT
+UID:nacionalb-20261115-godoy-cruz-tristan-suarez-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:TRISTÁN SUÁREZ | Primera Nacional | J37 | ✈️ | Godoy Cruz 
+ 🇦🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Primera Nacional\nEstadi: El Gi
+ gante de Alberdi
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261115-godoy-cruz-tristan-suarez@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261115T200000Z
+DTEND:20261115T214500Z
+SUMMARY:Godoy Cruz - Tristán Suárez
+DESCRIPTION:Primera Nacional
+LOCATION:El Gigante de Alberdi
+END:VEVENT
+END:VCALENDAR

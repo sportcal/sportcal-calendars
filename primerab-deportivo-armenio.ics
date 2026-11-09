@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deportivo Armenio · Primera B
+BEGIN:VEVENT
+UID:primerab-20261114-deportivo-armenio-sportivo-italiano-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:DEPORTIVO ARMENIO | Primera B | J43 | 🏟️ | Sportivo Italiano 
+ 🇦🇷
+DESCRIPTION:Hora pendent de confirmació · Primera B
+END:VEVENT
+BEGIN:VEVENT
+UID:primerab-20261114-deportivo-armenio-sportivo-italiano@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Deportivo Armenio - Sportivo Italiano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primera B
+END:VEVENT
+BEGIN:VEVENT
+UID:primerab-20261121-sportivo-italiano-deportivo-armenio-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:DEPORTIVO ARMENIO | Primera B | J44 | ✈️ | Sportivo Italiano 
+ 🇦🇷
+DESCRIPTION:Hora pendent de confirmació · Primera B
+END:VEVENT
+BEGIN:VEVENT
+UID:primerab-20261121-sportivo-italiano-deportivo-armenio@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Sportivo Italiano - Deportivo Armenio · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primera B
+END:VEVENT
+END:VCALENDAR

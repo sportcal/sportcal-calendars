@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fátima [TdP] · Taça de Portugal
+BEGIN:VEVENT
+UID:tacaportugal-20261122-farense-fatima-tdp-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:FÁTIMA [TDP] | Taça de Portugal | ✈️ | Farense 🇵🇹
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Taça de Portugal\nEstadi: Est
+ ádio de São Luís
+END:VEVENT
+BEGIN:VEVENT
+UID:tacaportugal-20261122-farense-fatima-tdp@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261122T150000Z
+DTEND:20261122T164500Z
+SUMMARY:Farense - Fátima [TdP]
+DESCRIPTION:Taça de Portugal
+LOCATION:Estádio de São Luís
+END:VEVENT
+END:VCALENDAR

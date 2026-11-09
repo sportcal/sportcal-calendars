@@ -1,0 +1,627 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sheffield Wednesday · League One
+BEGIN:VEVENT
+UID:leagueone-20261114-sheffield-wednesday-plymouth-argyle-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J14 | 🏟️ | Plymouth Argyle 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261114-sheffield-wednesday-plymouth-argyle@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261114T150000Z
+DTEND:20261114T164500Z
+SUMMARY:Sheffield Wednesday - Plymouth Argyle
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261120-barnsley-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J15 | ✈️ | Barnsley 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · League One\nEstadi: Oakwell
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261120-barnsley-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261120T200000Z
+DTEND:20261120T214500Z
+SUMMARY:Barnsley - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Oakwell
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261124-stevenage-fc-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J16 | ✈️ | Stevenage FC 🇬
+ 🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · League One\nEstadi: Lamex
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261124-stevenage-fc-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261124T194500Z
+DTEND:20261124T213000Z
+SUMMARY:Stevenage FC - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Lamex
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261128-sheffield-wednesday-reading-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J17 | 🏟️ | Reading FC 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261128-sheffield-wednesday-reading-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261128T150000Z
+DTEND:20261128T164500Z
+SUMMARY:Sheffield Wednesday - Reading FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261201-oxford-united-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J18 | ✈️ | Oxford United 
+ 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · League One\nEstadi: The Kassam
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261201-oxford-united-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261201T194500Z
+DTEND:20261201T213000Z
+SUMMARY:Oxford United - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:The Kassam
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261210-leicester-city-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J19 | ✈️ | Leicester City 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · League One\nEstadi: King Power
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261210-leicester-city-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261210T200000Z
+DTEND:20261210T214500Z
+SUMMARY:Leicester City - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:King Power
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261219-sheffield-wednesday-luton-town-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J20 | 🏟️ | Luton Town 🇬
+ 🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261219-sheffield-wednesday-luton-town@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261219T123000Z
+DTEND:20261219T141500Z
+SUMMARY:Sheffield Wednesday - Luton Town
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261226-burton-albion-fc-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J21 | ✈️ | Burton Albion FC 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Pirelli
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261226-burton-albion-fc-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261226T150000Z
+DTEND:20261226T164500Z
+SUMMARY:Burton Albion FC - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Pirelli
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261229-sheffield-wednesday-mansfield-town-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J22 | 🏟️ | Mansfield Town F
+ C 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20261229-sheffield-wednesday-mansfield-town-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20261229T194500Z
+DTEND:20261229T213000Z
+SUMMARY:Sheffield Wednesday - Mansfield Town FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270101-sheffield-wednesday-huddersfield-town-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J23 | 🏟️ | Huddersfield Tow
+ n 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270101-sheffield-wednesday-huddersfield-town@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270101T150000Z
+DTEND:20270101T164500Z
+SUMMARY:Sheffield Wednesday - Huddersfield Town
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270109-luton-town-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J24 | ✈️ | Luton Town 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Kenilworth 
+ Road
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270109-luton-town-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270109T150000Z
+DTEND:20270109T164500Z
+SUMMARY:Luton Town - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Kenilworth Road
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270116-afc-wimbledon-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J25 | ✈️ | AFC Wimbledon 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: The Cherry 
+ Red Records
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270116-afc-wimbledon-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270116T150000Z
+DTEND:20270116T164500Z
+SUMMARY:AFC Wimbledon - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:The Cherry Red Records
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270119-sheffield-wednesday-notts-county-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J26 | 🏟️ | Notts County FC 
+ 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270119-sheffield-wednesday-notts-county-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270119T194500Z
+DTEND:20270119T213000Z
+SUMMARY:Sheffield Wednesday - Notts County FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270123-sheffield-wednesday-doncaster-rovers-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J27 | 🏟️ | Doncaster Rovers
+  FC 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270123-sheffield-wednesday-doncaster-rovers-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270123T123000Z
+DTEND:20270123T141500Z
+SUMMARY:Sheffield Wednesday - Doncaster Rovers FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270130-blackpool-fc-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J28 | ✈️ | Blackpool FC 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Bloomfield 
+ Road
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270130-blackpool-fc-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270130T150000Z
+DTEND:20270130T164500Z
+SUMMARY:Blackpool FC - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Bloomfield Road
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270206-bromley-fc-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J29 | ✈️ | Bromley FC 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: RELOC8 EM C
+ ommunity
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270206-bromley-fc-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270206T150000Z
+DTEND:20270206T164500Z
+SUMMARY:Bromley FC - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:RELOC8 EM Community
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270209-sheffield-wednesday-wycombe-wanderers-fc-dia@sportca
+ l
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J30 | 🏟️ | Wycombe Wanderer
+ s FC 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270209-sheffield-wednesday-wycombe-wanderers-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270209T194500Z
+DTEND:20270209T213000Z
+SUMMARY:Sheffield Wednesday - Wycombe Wanderers FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270213-sheffield-wednesday-peterborough-united-fc-dia@sport
+ cal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J31 | 🏟️ | Peterborough Uni
+ ted FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270213-sheffield-wednesday-peterborough-united-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270213T150000Z
+DTEND:20270213T164500Z
+SUMMARY:Sheffield Wednesday - Peterborough United FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270220-wigan-athletic-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J32 | ✈️ | Wigan Athletic 
+ 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · League One\nEstadi: DW
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270220-wigan-athletic-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270220T123000Z
+DTEND:20270220T141500Z
+SUMMARY:Wigan Athletic - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:DW
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270227-plymouth-argyle-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J33 | ✈️ | Plymouth Argyle 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Home Park
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270227-plymouth-argyle-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270227T150000Z
+DTEND:20270227T164500Z
+SUMMARY:Plymouth Argyle - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Home Park
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270306-sheffield-wednesday-leyton-orient-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J34 | 🏟️ | Leyton Orient FC
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270306-sheffield-wednesday-leyton-orient-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270306T150000Z
+DTEND:20270306T164500Z
+SUMMARY:Sheffield Wednesday - Leyton Orient FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270313-bradford-city-fc-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J35 | ✈️ | Bradford City FC 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Valley Para
+ de
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270313-bradford-city-fc-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270313T150000Z
+DTEND:20270313T164500Z
+SUMMARY:Bradford City FC - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Valley Parade
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270320-sheffield-wednesday-barnsley-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J36 | 🏟️ | Barnsley 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270320-sheffield-wednesday-barnsley@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270320T150000Z
+DTEND:20270320T164500Z
+SUMMARY:Sheffield Wednesday - Barnsley
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270326-milton-keynes-dons-fc-sheffield-wednesday-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J37 | ✈️ | Milton Keynes Don
+ s FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Stadium MK
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270326-milton-keynes-dons-fc-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270326T150000Z
+DTEND:20270326T164500Z
+SUMMARY:Milton Keynes Dons FC - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Stadium MK
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270329-sheffield-wednesday-burton-albion-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J38 | 🏟️ | Burton Albion FC
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270329-sheffield-wednesday-burton-albion-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270329T140000Z
+DTEND:20270329T154500Z
+SUMMARY:Sheffield Wednesday - Burton Albion FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270403-mansfield-town-fc-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J39 | ✈️ | Mansfield Town FC
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: One Call
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270403-mansfield-town-fc-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270403T140000Z
+DTEND:20270403T154500Z
+SUMMARY:Mansfield Town FC - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:One Call
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270410-sheffield-wednesday-leicester-city-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J40 | 🏟️ | Leicester City 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270410-sheffield-wednesday-leicester-city@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270410T140000Z
+DTEND:20270410T154500Z
+SUMMARY:Sheffield Wednesday - Leicester City
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270413-sheffield-wednesday-stevenage-fc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J41 | 🏟️ | Stevenage FC 
+ 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270413-sheffield-wednesday-stevenage-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270413T184500Z
+DTEND:20270413T203000Z
+SUMMARY:Sheffield Wednesday - Stevenage FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270417-stockport-county-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J42 | ✈️ | Stockport County 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Edgeley Par
+ k
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270417-stockport-county-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270417T140000Z
+DTEND:20270417T154500Z
+SUMMARY:Stockport County - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Edgeley Park
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270424-sheffield-wednesday-milton-keynes-dons-fc-dia@sportc
+ al
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J43 | 🏟️ | Milton Keynes Do
+ ns FC 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270424-sheffield-wednesday-milton-keynes-dons-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270424T140000Z
+DTEND:20270424T154500Z
+SUMMARY:Sheffield Wednesday - Milton Keynes Dons FC
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270427-cambridge-united-fc-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J44 | ✈️ | Cambridge United 
+ FC 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · League One\nEstadi: Cledara Abb
+ ey
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270427-cambridge-united-fc-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270427T184500Z
+DTEND:20270427T203000Z
+SUMMARY:Cambridge United FC - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Cledara Abbey
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270501-reading-fc-sheffield-wednesday-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J45 | ✈️ | Reading FC 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · League One\nEstadi: Madejski
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270501-reading-fc-sheffield-wednesday@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270501T140000Z
+DTEND:20270501T154500Z
+SUMMARY:Reading FC - Sheffield Wednesday
+DESCRIPTION:League One
+LOCATION:Madejski
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270508-sheffield-wednesday-oxford-united-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SHEFFIELD WEDNESDAY | League One | J46 | 🏟️ | Oxford United 
+ 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · League One\nEstadi: Hillsboroug
+ h
+END:VEVENT
+BEGIN:VEVENT
+UID:leagueone-20270508-sheffield-wednesday-oxford-united@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART:20270508T113000Z
+DTEND:20270508T131500Z
+SUMMARY:Sheffield Wednesday - Oxford United
+DESCRIPTION:League One
+LOCATION:Hillsborough
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,519 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CAF Confederation Cup
+BEGIN:VEVENT
+UID:cafconfed-dia-20261127-j5@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:CAF CONFEDERATION CUP | J5
+DESCRIPTION:TBD CS Sfaxien - Black Bulls Maputo\nTBD USM Alger - AS Real Ba
+ mako\nTBD Azam FC - Al Ahli Tripoli\nTBD FAR Rabat - Durban City\nTBD Al A
+ hly - Primeiro de Agosto\nTBD AS Maniema Union - Singida Black Stars\nTBD 
+ Raja Casablanca - ASKO Kara\nTBD ... - Red Arrows
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-dia-20261204-j6@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:CAF CONFEDERATION CUP | J6
+DESCRIPTION:TBD AS Real Bamako - CS Sfaxien\nTBD Black Bulls Maputo - USM A
+ lger\nTBD Durban City - Azam FC\nTBD Al Ahli Tripoli - FAR Rabat\nTBD Prim
+ eiro de Agosto - Raja Casablanca\nTBD Red Arrows - AS Maniema Union\nTBD A
+ SKO Kara - Al Ahly\nTBD Singida Black Stars - ...
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-dia-20261218-j5@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:CAF CONFEDERATION CUP | J5
+DESCRIPTION:TBD FAR Rabat - Azam FC\nTBD Al Ahly - Raja Casablanca
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-dia-20261218-j7@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:CAF CONFEDERATION CUP
+DESCRIPTION:TBD AS Real Bamako - Black Bulls Maputo\nTBD Primeiro de Agosto
+  - ASKO Kara\nTBD ... - AS Maniema Union\nTBD USM Alger - CS Sfaxien\nTBD 
+ Red Arrows - Singida Black Stars\nTBD Durban City - Al Ahli Tripoli
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-dia-20270108-j6@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:CAF CONFEDERATION CUP | J6
+DESCRIPTION:TBD Azam FC - FAR Rabat\nTBD Raja Casablanca - Al Ahly
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-dia-20270108-j8@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:CAF CONFEDERATION CUP
+DESCRIPTION:TBD Black Bulls Maputo - AS Real Bamako\nTBD CS Sfaxien - USM A
+ lger\nTBD Al Ahli Tripoli - Durban City\nTBD ASKO Kara - Primeiro de Agost
+ o\nTBD Singida Black Stars - Red Arrows\nTBD AS Maniema Union - ...
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-dia-20270115-j9@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:CAF CONFEDERATION CUP
+DESCRIPTION:TBD Black Bulls Maputo - CS Sfaxien\nTBD Durban City - FAR Raba
+ t\nTBD ASKO Kara - Raja Casablanca\nTBD AS Real Bamako - USM Alger\nTBD Si
+ ngida Black Stars - AS Maniema Union\nTBD Al Ahli Tripoli - Azam FC\nTBD P
+ rimeiro de Agosto - Al Ahly\nTBD Red Arrows - ...
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-dia-20270127-j10@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:CAF CONFEDERATION CUP
+DESCRIPTION:TBD AS Maniema Union - Red Arrows\nTBD Azam FC - Durban City\nT
+ BD Raja Casablanca - Primeiro de Agosto\nTBD Al Ahly - ASKO Kara\nTBD CS S
+ faxien - AS Real Bamako\nTBD USM Alger - Black Bulls Maputo\nTBD FAR Rabat
+  - Al Ahli Tripoli\nTBD ... - Singida Black Stars
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127-cs-sfaxien-black-bulls-maputo@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:CS Sfaxien - Black Bulls Maputo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127-usm-alger-as-real-bamako@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:USM Alger - AS Real Bamako · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127-azam-fc-al-ahli-tripoli@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Azam FC - Al Ahli Tripoli · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127-far-rabat-durban-city@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:FAR Rabat - Durban City · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127-al-ahly-primeiro-de-agosto@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Al Ahly - Primeiro de Agosto · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127-as-maniema-union-singida-black-stars@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:AS Maniema Union - Singida Black Stars · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127-raja-casablanca-asko-kara@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Raja Casablanca - ASKO Kara · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127--red-arrows@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:... - Red Arrows · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261204-as-real-bamako-cs-sfaxien@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:AS Real Bamako - CS Sfaxien · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261204-black-bulls-maputo-usm-alger@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Black Bulls Maputo - USM Alger · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261204-durban-city-azam-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Durban City - Azam FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261204-al-ahli-tripoli-far-rabat@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Al Ahli Tripoli - FAR Rabat · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261204-primeiro-de-agosto-raja-casablanca@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Primeiro de Agosto - Raja Casablanca · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261204-red-arrows-as-maniema-union@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Red Arrows - AS Maniema Union · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261204-asko-kara-al-ahly@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:ASKO Kara - Al Ahly · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261204-singida-black-stars-@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Singida Black Stars - ... · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261218-as-real-bamako-black-bulls-maputo@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:AS Real Bamako - Black Bulls Maputo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261218-far-rabat-azam-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:FAR Rabat - Azam FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261218-al-ahly-raja-casablanca@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Al Ahly - Raja Casablanca · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261218-primeiro-de-agosto-asko-kara@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Primeiro de Agosto - ASKO Kara · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261218--as-maniema-union@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:... - AS Maniema Union · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261218-usm-alger-cs-sfaxien@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:USM Alger - CS Sfaxien · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261218-red-arrows-singida-black-stars@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Red Arrows - Singida Black Stars · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261218-durban-city-al-ahli-tripoli@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Durban City - Al Ahli Tripoli · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270108-black-bulls-maputo-as-real-bamako@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Black Bulls Maputo - AS Real Bamako · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270108-cs-sfaxien-usm-alger@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:CS Sfaxien - USM Alger · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270108-azam-fc-far-rabat@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Azam FC - FAR Rabat · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270108-al-ahli-tripoli-durban-city@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Al Ahli Tripoli - Durban City · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270108-asko-kara-primeiro-de-agosto@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:ASKO Kara - Primeiro de Agosto · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270108-singida-black-stars-red-arrows@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Singida Black Stars - Red Arrows · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270108-raja-casablanca-al-ahly@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Raja Casablanca - Al Ahly · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270108-as-maniema-union-@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:AS Maniema Union - ... · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270115-black-bulls-maputo-cs-sfaxien@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Black Bulls Maputo - CS Sfaxien · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270115-durban-city-far-rabat@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Durban City - FAR Rabat · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270115-asko-kara-raja-casablanca@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:ASKO Kara - Raja Casablanca · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270115-as-real-bamako-usm-alger@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:AS Real Bamako - USM Alger · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270115-singida-black-stars-as-maniema-union@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Singida Black Stars - AS Maniema Union · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270115-al-ahli-tripoli-azam-fc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Al Ahli Tripoli - Azam FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270115-primeiro-de-agosto-al-ahly@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Primeiro de Agosto - Al Ahly · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270115-red-arrows-@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Red Arrows - ... · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270127-as-maniema-union-red-arrows@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:AS Maniema Union - Red Arrows · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270127-azam-fc-durban-city@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Azam FC - Durban City · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270127-raja-casablanca-primeiro-de-agosto@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Raja Casablanca - Primeiro de Agosto · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270127-al-ahly-asko-kara@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Al Ahly - ASKO Kara · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270127-cs-sfaxien-as-real-bamako@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:CS Sfaxien - AS Real Bamako · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270127-usm-alger-black-bulls-maputo@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:USM Alger - Black Bulls Maputo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270127-far-rabat-al-ahli-tripoli@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:FAR Rabat - Al Ahli Tripoli · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20270127--singida-black-stars@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:... - Singida Black Stars · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CAF Confederation Cup
+END:VEVENT
+END:VCALENDAR

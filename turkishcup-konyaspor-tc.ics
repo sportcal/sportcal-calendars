@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Konyaspor [TC] · Turkish Cup
+BEGIN:VEVENT
+UID:turkishcup-20261201-karabuk-idman-yurdu-konyaspor-tc-dia@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:KONYASPOR [TC] | Turkish Cup | ✈️ | Karabük İdman Yurdu 🇹
+ 🇷
+DESCRIPTION:Hora pendent de confirmació · Turkish Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:turkishcup-20261201-karabuk-idman-yurdu-konyaspor-tc@sportcal
+DTSTAMP:20261109T211345Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Karabük İdman Yurdu - Konyaspor [TC] · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Turkish Cup
+END:VEVENT
+END:VCALENDAR
