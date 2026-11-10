@@ -6,17 +6,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:Primera B
 BEGIN:VEVENT
 UID:primerab-dia-20261114-j43@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:PRIMERA B | J43
-DESCRIPTION:TBD Villa Dálmine - Deportivo Camioneros\nTBD Real Pilar - Tal
- leres Remedios\nTBD Deportivo Armenio - Sportivo Italiano\nTBD Comunicacio
- nes - Arsenal de Sarandí
+DESCRIPTION:19:30 Villa Dálmine - Deportivo Camioneros\n19:30 Deportivo Ar
+ menio - Sportivo Italiano\n22:00 Comunicaciones - Arsenal de Sarandí\n23:
+ 00 Real Pilar - Talleres Remedios
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-dia-20261121-j44@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:PRIMERA B | J44
@@ -26,43 +26,43 @@ DESCRIPTION:TBD Arsenal de Sarandí - Comunicaciones\nTBD Deportivo Camione
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261114-villa-dalmine-deportivo-camioneros@sportcal
-DTSTAMP:20261109T233123Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Villa Dálmine - Deportivo Camioneros · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
-END:VEVENT
-BEGIN:VEVENT
-UID:primerab-20261114-real-pilar-talleres-remedios@sportcal
-DTSTAMP:20261109T233123Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Real Pilar - Talleres Remedios · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
+DTSTAMP:20261110T074958Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Villa Dálmine - Deportivo Camioneros
+DESCRIPTION:Primera B
+LOCATION:Estadio Villa Dálmine
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261114-deportivo-armenio-sportivo-italiano@sportcal
-DTSTAMP:20261109T233123Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Deportivo Armenio - Sportivo Italiano · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
+DTSTAMP:20261110T074958Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Deportivo Armenio - Sportivo Italiano
+DESCRIPTION:Primera B
+LOCATION:Estadio Armenia
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261114-comunicaciones-arsenal-de-sarandi@sportcal
-DTSTAMP:20261109T233123Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Comunicaciones - Arsenal de Sarandí · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
+DTSTAMP:20261110T074958Z
+DTSTART:20261114T210000Z
+DTEND:20261114T224500Z
+SUMMARY:Comunicaciones - Arsenal de Sarandí
+DESCRIPTION:Primera B
+LOCATION:Alfredo Ramos
+END:VEVENT
+BEGIN:VEVENT
+UID:primerab-20261114-real-pilar-talleres-remedios@sportcal
+DTSTAMP:20261110T074958Z
+DTSTART:20261114T220000Z
+DTEND:20261114T234500Z
+SUMMARY:Real Pilar - Talleres Remedios
+DESCRIPTION:Primera B
+LOCATION:Estadio Municipal de Pilar Carlos Barraza
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-arsenal-de-sarandi-comunicaciones@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Arsenal de Sarandí - Comunicaciones · TBD
@@ -71,7 +71,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-deportivo-camioneros-villa-dalmine@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Deportivo Camioneros - Villa Dálmine · TBD
@@ -80,7 +80,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-talleres-remedios-real-pilar@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Talleres Remedios - Real Pilar · TBD
@@ -89,7 +89,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-sportivo-italiano-deportivo-armenio@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Sportivo Italiano - Deportivo Armenio · TBD

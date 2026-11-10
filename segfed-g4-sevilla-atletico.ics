@@ -5,19 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sevilla Atlético · Segunda Fed. G4
 BEGIN:VEVENT
-UID:segfed-g4-20261122-cd-estepona-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+UID:segfed-g4-20261121-cd-estepona-sevilla-atletico-dia@sportcal
+DTSTAMP:20261110T074958Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J12 | ✈️ | CD Estepona 
  🇪🇸
 DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
-UID:segfed-g4-20261122-cd-estepona-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+UID:segfed-g4-20261121-cd-estepona-sevilla-atletico@sportcal
+DTSTAMP:20261110T074958Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
 SUMMARY:CD Estepona - Sevilla Atlético · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Segunda Federación Grupo 4
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261125-sevilla-atletico-rc-recreativo-de-huelva-dia@sportca
  l
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J12 | 🏟️ | RC Recreativo
@@ -34,7 +34,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261125-sevilla-atletico-rc-recreativo-de-huelva@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Sevilla Atlético - RC Recreativo de Huelva · TBD
@@ -43,7 +43,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261129-sevilla-atletico-cd-don-benito-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J13 | 🏟️ | CD Don Benito
@@ -52,7 +52,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261129-sevilla-atletico-cd-don-benito@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Sevilla Atlético - CD Don Benito · TBD
@@ -61,7 +61,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261206-cd-ciudad-de-lucena-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J14 | ✈️ | CD Ciudad de L
@@ -70,7 +70,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261206-cd-ciudad-de-lucena-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:CD Ciudad de Lucena - Sevilla Atlético · TBD
@@ -79,7 +79,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261213-sevilla-atletico-xerez-cd-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J15 | 🏟️ | Xerez CD 🇪
@@ -88,7 +88,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261213-sevilla-atletico-xerez-cd@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Sevilla Atlético - Xerez CD · TBD
@@ -97,7 +97,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261220-betis-deportivo-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J16 | ✈️ | Betis Deportiv
@@ -106,7 +106,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20261220-betis-deportivo-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Betis Deportivo - Sevilla Atlético · TBD
@@ -115,7 +115,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270110-ud-las-palmas-atletico-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J17 | ✈️ | UD Las Palmas 
@@ -124,7 +124,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270110-ud-las-palmas-atletico-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:UD Las Palmas Atlético - Sevilla Atlético · TBD
@@ -133,7 +133,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270117-sevilla-atletico-cd-linares-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J18 | 🏟️ | CD Linares 
@@ -142,7 +142,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270117-sevilla-atletico-cd-linares@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Sevilla Atlético - CD Linares · TBD
@@ -151,7 +151,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270124-puente-genil-fc-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J19 | ✈️ | Puente Genil F
@@ -160,7 +160,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270124-puente-genil-fc-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Puente Genil FC - Sevilla Atlético · TBD
@@ -169,7 +169,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270131-sevilla-atletico-ca-antoniano-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J20 | 🏟️ | CA Antoniano 
@@ -178,7 +178,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270131-sevilla-atletico-ca-antoniano@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Sevilla Atlético - CA Antoniano · TBD
@@ -187,7 +187,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270206-cd-tenerife-b-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J21 | ✈️ | CD Tenerife B 
@@ -196,7 +196,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270206-cd-tenerife-b-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:CD Tenerife B - Sevilla Atlético · TBD
@@ -205,7 +205,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270214-sevilla-atletico-cd-ciudad-de-lucena-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J22 | 🏟️ | CD Ciudad de 
@@ -214,7 +214,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270214-sevilla-atletico-cd-ciudad-de-lucena@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Sevilla Atlético - CD Ciudad de Lucena · TBD
@@ -223,7 +223,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270221-atletico-sanluqueno-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J23 | ✈️ | Atlético Sanl
@@ -232,7 +232,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270221-atletico-sanluqueno-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Atlético Sanluqueño - Sevilla Atlético · TBD
@@ -241,7 +241,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270228-sevilla-atletico-cd-estepona-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J24 | 🏟️ | CD Estepona 
@@ -250,7 +250,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270228-sevilla-atletico-cd-estepona@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Sevilla Atlético - CD Estepona · TBD
@@ -259,7 +259,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270307-xerez-cd-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J25 | ✈️ | Xerez CD 🇪
@@ -268,7 +268,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270307-xerez-cd-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Xerez CD - Sevilla Atlético · TBD
@@ -277,7 +277,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270314-sevilla-atletico-ud-tamaraceite-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J26 | 🏟️ | UD Tamaraceit
@@ -286,7 +286,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270314-sevilla-atletico-ud-tamaraceite@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Sevilla Atlético - UD Tamaraceite · TBD
@@ -295,7 +295,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270321-marbella-fc-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J27 | ✈️ | Marbella FC 
@@ -304,7 +304,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270321-marbella-fc-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Marbella FC - Sevilla Atlético · TBD
@@ -313,7 +313,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270328-sevilla-atletico-betis-deportivo-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J28 | 🏟️ | Betis Deporti
@@ -322,7 +322,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270328-sevilla-atletico-betis-deportivo@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Sevilla Atlético - Betis Deportivo · TBD
@@ -331,7 +331,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270404-cd-don-benito-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J29 | ✈️ | CD Don Benito 
@@ -340,7 +340,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270404-cd-don-benito-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:CD Don Benito - Sevilla Atlético · TBD
@@ -349,7 +349,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270411-sevilla-atletico-cp-mijas-las-lagunas-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J30 | 🏟️ | CP Mijas-Las 
@@ -358,7 +358,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270411-sevilla-atletico-cp-mijas-las-lagunas@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Sevilla Atlético - CP Mijas-Las Lagunas · TBD
@@ -367,7 +367,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270418-sevilla-atletico-ud-las-palmas-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J31 | 🏟️ | UD Las Palmas
@@ -376,7 +376,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270418-sevilla-atletico-ud-las-palmas-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Sevilla Atlético - UD Las Palmas Atlético · TBD
@@ -385,7 +385,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270425-cd-badajoz-sevilla-atletico-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J32 | ✈️ | CD Badajoz 
@@ -394,7 +394,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270425-cd-badajoz-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:CD Badajoz - Sevilla Atlético · TBD
@@ -403,7 +403,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270502-sevilla-atletico-club-atletico-central-dia@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J33 | 🏟️ | Club Atlétic
@@ -412,7 +412,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270502-sevilla-atletico-club-atletico-central@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Sevilla Atlético - Club Atlético Central · TBD
@@ -422,7 +422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270509-rc-recreativo-de-huelva-sevilla-atletico-dia@sportca
  l
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:SEVILLA ATLÉTICO | Segunda Fed. G4 | J34 | ✈️ | RC Recreativo 
@@ -431,7 +431,7 @@ DESCRIPTION:Hora pendent de confirmació · Segunda Federación Grupo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g4-20270509-rc-recreativo-de-huelva-sevilla-atletico@sportcal
-DTSTAMP:20261109T233123Z
+DTSTAMP:20261110T074958Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:RC Recreativo de Huelva - Sevilla Atlético · TBD
