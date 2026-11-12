@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deportivo Pereira · Primera A
+BEGIN:VEVENT
+UID:colombia-20261114-deportivo-pereira-america-de-cali-dia@sportcal
+DTSTAMP:20261112T075343Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:DEPORTIVO PEREIRA | Primera A | J19 | 🏟️ | América de Cali 
+ 🇨🇴
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · Categoría Primera A
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia-20261114-deportivo-pereira-america-de-cali@sportcal
+DTSTAMP:20261112T075343Z
+DTSTART:20261114T203000Z
+DTEND:20261114T221500Z
+SUMMARY:Deportivo Pereira - América de Cali
+DESCRIPTION:Categoría Primera A
+END:VEVENT
+END:VCALENDAR

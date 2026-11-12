@@ -5,19 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Independiente Medellín · Primera A
 BEGIN:VEVENT
-UID:colombia-20261112-rionegro-independiente-medellin-dia@sportcal
-DTSTAMP:20261111T075251Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
+UID:colombia-20261114-rionegro-independiente-medellin-dia@sportcal
+DTSTAMP:20261112T075343Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
 SUMMARY:INDEPENDIENTE MEDELLÍN | Primera A | J19 | ✈️ | Rionegro 🇨
  🇴
-DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Categoría Primera A
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · Categoría Primera A
 END:VEVENT
 BEGIN:VEVENT
-UID:colombia-20261112-rionegro-independiente-medellin@sportcal
-DTSTAMP:20261111T075251Z
-DTSTART:20261112T000000Z
-DTEND:20261112T014500Z
+UID:colombia-20261114-rionegro-independiente-medellin@sportcal
+DTSTAMP:20261112T075343Z
+DTSTART:20261114T203000Z
+DTEND:20261114T221500Z
 SUMMARY:Rionegro - Independiente Medellín
 DESCRIPTION:Categoría Primera A
 END:VEVENT
