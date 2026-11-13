@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Newcastle Red Bulls · Premiership
 BEGIN:VEVENT
 UID:premiership-20261205-gloucester-newcastle-red-bulls-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J6 | ✈️ | Gloucester 🇬
@@ -16,7 +16,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: King
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261205-gloucester-newcastle-red-bulls@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
 SUMMARY:Gloucester - Newcastle Red Bulls
@@ -25,7 +25,7 @@ LOCATION:Kingsholm
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261218-newcastle-red-bulls-bath-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J7 | 🏟️ | Bath 🇬🇧
@@ -34,7 +34,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Premiership Rugby\nEstadi: King
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261218-newcastle-red-bulls-bath@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261218T194500Z
 DTEND:20261218T213000Z
 SUMMARY:Newcastle Red Bulls - Bath
@@ -43,7 +43,7 @@ LOCATION:Kingston Park
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261226-bristol-bears-newcastle-red-bulls-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J8 | ✈️ | Bristol Bears 
@@ -53,7 +53,7 @@ DESCRIPTION:Inici: 16:05 (Europe/Madrid) · Premiership Rugby\nEstadi: Asht
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261226-bristol-bears-newcastle-red-bulls@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261226T150500Z
 DTEND:20261226T165000Z
 SUMMARY:Bristol Bears - Newcastle Red Bulls
@@ -62,7 +62,7 @@ LOCATION:Ashton Gate
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270102-newcastle-red-bulls-harlequins-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J9 | 🏟️ | Harlequins 🇬
@@ -72,7 +72,7 @@ DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Premiership Rugby\nEstadi: King
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270102-newcastle-red-bulls-harlequins@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20270102T173000Z
 DTEND:20270102T191500Z
 SUMMARY:Newcastle Red Bulls - Harlequins
@@ -81,7 +81,7 @@ LOCATION:Kingston Park
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270123-newcastle-red-bulls-saracens-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J10 | 🏟️ | Saracens 🇬
@@ -91,7 +91,7 @@ DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Premiership Rugby\nEstadi: King
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270123-newcastle-red-bulls-saracens@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20270123T173000Z
 DTEND:20270123T191500Z
 SUMMARY:Newcastle Red Bulls - Saracens
@@ -100,7 +100,7 @@ LOCATION:Kingston Park
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270320-leicester-tigers-newcastle-red-bulls-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J11 | ✈️ | Leicester Tigers
@@ -109,7 +109,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270320-leicester-tigers-newcastle-red-bulls@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Leicester Tigers - Newcastle Red Bulls · TBD
@@ -118,7 +118,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270327-newcastle-red-bulls-bristol-bears-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J12 | 🏟️ | Bristol Bears 
@@ -127,7 +127,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270327-newcastle-red-bulls-bristol-bears@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:Newcastle Red Bulls - Bristol Bears · TBD
@@ -136,7 +136,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270417-bath-newcastle-red-bulls-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J13 | ✈️ | Bath 🇬🇧
@@ -144,7 +144,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270417-bath-newcastle-red-bulls@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Bath - Newcastle Red Bulls · TBD
@@ -153,7 +153,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270424-newcastle-red-bulls-exeter-chiefs-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J14 | 🏟️ | Exeter Chiefs 
@@ -162,7 +162,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270424-newcastle-red-bulls-exeter-chiefs@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Newcastle Red Bulls - Exeter Chiefs · TBD
@@ -171,7 +171,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270508-harlequins-newcastle-red-bulls-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J15 | ✈️ | Harlequins 🇬
@@ -180,7 +180,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270508-harlequins-newcastle-red-bulls@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Harlequins - Newcastle Red Bulls · TBD
@@ -189,7 +189,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270515-newcastle-red-bulls-gloucester-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J16 | 🏟️ | Gloucester 🇬
@@ -198,7 +198,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270515-newcastle-red-bulls-gloucester@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Newcastle Red Bulls - Gloucester · TBD
@@ -208,7 +208,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270529-newcastle-red-bulls-northampton-saints-dia@sportca
  l
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J17 | 🏟️ | Northampton Sai
@@ -217,7 +217,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270529-newcastle-red-bulls-northampton-saints@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:Newcastle Red Bulls - Northampton Saints · TBD
@@ -226,7 +226,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270605-sale-sharks-newcastle-red-bulls-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:NEWCASTLE RED BULLS | Premiership | J18 | ✈️ | Sale Sharks 🇬
@@ -236,7 +236,7 @@ DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270605-sale-sharks-newcastle-red-bulls@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20270605T130000Z
 DTEND:20270605T144500Z
 SUMMARY:Sale Sharks - Newcastle Red Bulls

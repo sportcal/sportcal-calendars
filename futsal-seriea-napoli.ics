@@ -5,25 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Napoli · Serie A Futsal
 BEGIN:VEVENT
-UID:futsal-seriea-20261113-napoli-came-treviso-dia@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:NAPOLI | Serie A Futsal | J8 | 🏟️ | CAME Treviso 🇮🇹
-DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-seriea-20261113-napoli-came-treviso@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Napoli - CAME Treviso · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Serie A (Futsal)
-END:VEVENT
-BEGIN:VEVENT
 UID:futsal-seriea-20261121-active-network-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:NAPOLI | Serie A Futsal | J9 | ✈️ | Active Network 🇮🇹
@@ -31,7 +14,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261121-active-network-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Active Network - Napoli · TBD
@@ -40,7 +23,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261127-napoli-sandro-abate-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:NAPOLI | Serie A Futsal | J10 | 🏟️ | Sandro Abate 🇮🇹
@@ -48,7 +31,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261127-napoli-sandro-abate@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Napoli - Sandro Abate · TBD
@@ -57,7 +40,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261204-giovinazzo-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:NAPOLI | Serie A Futsal | J11 | ✈️ | Giovinazzo 🇮🇹
@@ -65,7 +48,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261204-giovinazzo-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Giovinazzo - Napoli · TBD
@@ -74,7 +57,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261211-napoli-feldi-eboli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:NAPOLI | Serie A Futsal | J12 | 🏟️ | Feldi Eboli 🇮🇹
@@ -82,7 +65,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261211-napoli-feldi-eboli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Napoli - Feldi Eboli · TBD
@@ -91,7 +74,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261218-meta-catania-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:NAPOLI | Serie A Futsal | J13 | ✈️ | Meta Catania 🇮🇹
@@ -99,7 +82,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261218-meta-catania-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Meta Catania - Napoli · TBD
@@ -108,7 +91,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270108-petrarca-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:NAPOLI | Serie A Futsal | J14 | ✈️ | Petrarca 🇮🇹
@@ -116,7 +99,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270108-petrarca-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Petrarca - Napoli · TBD
@@ -125,7 +108,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270112-napoli-fortitudo-pomezia-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:NAPOLI | Serie A Futsal | J15 | 🏟️ | Fortitudo Pomezia 🇮
@@ -134,7 +117,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270112-napoli-fortitudo-pomezia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Napoli - Fortitudo Pomezia · TBD
@@ -143,7 +126,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270115-capurso-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:NAPOLI | Serie A Futsal | J16 | ✈️ | Capurso 🇮🇹
@@ -151,7 +134,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270115-capurso-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Capurso - Napoli · TBD
@@ -160,7 +143,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270122-napoli-benevento-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:NAPOLI | Serie A Futsal | J17 | 🏟️ | Benevento 🇮🇹
@@ -168,7 +151,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270122-napoli-benevento@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Napoli - Benevento · TBD
@@ -177,7 +160,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270130-l84-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:NAPOLI | Serie A Futsal | J18 | ✈️ | L84 🇮🇹
@@ -185,7 +168,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270130-l84-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:L84 - Napoli · TBD
@@ -194,7 +177,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270206-sala-consilina-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:NAPOLI | Serie A Futsal | J19 | ✈️ | Sala Consilina 🇮🇹
@@ -202,7 +185,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270206-sala-consilina-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Sala Consilina - Napoli · TBD
@@ -211,7 +194,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270212-napoli-roma-1927-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:NAPOLI | Serie A Futsal | J20 | 🏟️ | Roma 1927 🇮🇹
@@ -219,7 +202,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270212-napoli-roma-1927@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:Napoli - Roma 1927 · TBD
@@ -228,7 +211,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270219-came-treviso-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:NAPOLI | Serie A Futsal | J21 | ✈️ | CAME Treviso 🇮🇹
@@ -236,7 +219,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270219-came-treviso-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:CAME Treviso - Napoli · TBD
@@ -245,7 +228,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270305-napoli-active-network-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:NAPOLI | Serie A Futsal | J22 | 🏟️ | Active Network 🇮🇹
@@ -253,7 +236,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270305-napoli-active-network@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Napoli - Active Network · TBD
@@ -262,7 +245,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270312-sandro-abate-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:NAPOLI | Serie A Futsal | J23 | ✈️ | Sandro Abate 🇮🇹
@@ -270,7 +253,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270312-sandro-abate-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:Sandro Abate - Napoli · TBD
@@ -279,7 +262,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270320-napoli-giovinazzo-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:NAPOLI | Serie A Futsal | J24 | 🏟️ | Giovinazzo 🇮🇹
@@ -287,7 +270,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270320-napoli-giovinazzo@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Napoli - Giovinazzo · TBD
@@ -296,7 +279,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270406-feldi-eboli-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:NAPOLI | Serie A Futsal | J25 | ✈️ | Feldi Eboli 🇮🇹
@@ -304,7 +287,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270406-feldi-eboli-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:Feldi Eboli - Napoli · TBD
@@ -313,7 +296,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270409-napoli-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:NAPOLI | Serie A Futsal | J26 | 🏟️ | Meta Catania 🇮🇹
@@ -321,7 +304,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270409-napoli-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Napoli - Meta Catania · TBD

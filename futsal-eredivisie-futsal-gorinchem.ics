@@ -5,27 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Futsal Gorinchem · Eredivisie Futsal
 BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-fck-de-hommel-futsal-gorinchem-dia@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:FUTSAL GORINCHEM | Eredivisie Futsal | J10 | ✈️ | FCK/De Hommel
-  🇳🇱
-DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-fck-de-hommel-futsal-gorinchem@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:FCK/De Hommel - Futsal Gorinchem · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-futsal-amsterdam-futsal-gorinchem-dia@sportc
  al
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:FUTSAL GORINCHEM | Eredivisie Futsal | J11 | ✈️ | Futsal Amster
@@ -34,7 +16,7 @@ DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-futsal-amsterdam-futsal-gorinchem@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Futsal Amsterdam - Futsal Gorinchem · TBD
@@ -43,7 +25,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-futsal-gorinchem-fc-eindhoven-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:FUTSAL GORINCHEM | Eredivisie Futsal | J12 | 🏟️ | FC Eindhoven
@@ -52,7 +34,7 @@ DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-futsal-gorinchem-fc-eindhoven@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Futsal Gorinchem - FC Eindhoven · TBD
@@ -61,7 +43,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-hzv-futsal-gorinchem-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:FUTSAL GORINCHEM | Eredivisie Futsal | J13 | ✈️ | HZV 🇳🇱
@@ -69,7 +51,7 @@ DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-hzv-futsal-gorinchem@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:HZV - Futsal Gorinchem · TBD

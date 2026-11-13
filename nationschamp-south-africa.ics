@@ -5,26 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:South Africa · Nations Champ
 BEGIN:VEVENT
-UID:nationschamp-20261113-france-south-africa-dia@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:SOUTH AFRICA | Nations Champ | J5 | ✈️ | France
-DESCRIPTION:Inici: 21:10 (Europe/Madrid) · Nations Championship\nEstadi: S
- tade de France\, Saint-Denis\, Reunion
-END:VEVENT
-BEGIN:VEVENT
-UID:nationschamp-20261113-france-south-africa@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T201000Z
-DTEND:20261113T215500Z
-SUMMARY:France - South Africa
-DESCRIPTION:Nations Championship
-LOCATION:Stade de France\, Saint-Denis\, Reunion
-END:VEVENT
-BEGIN:VEVENT
 UID:nationschamp-20261121-ireland-south-africa-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:SOUTH AFRICA | Nations Champ | J6 | ✈️ | Ireland
@@ -33,7 +15,7 @@ DESCRIPTION:Inici: 17:40 (Europe/Madrid) · Nations Championship\nEstadi: A
 END:VEVENT
 BEGIN:VEVENT
 UID:nationschamp-20261121-ireland-south-africa@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261121T164000Z
 DTEND:20261121T182500Z
 SUMMARY:Ireland - South Africa

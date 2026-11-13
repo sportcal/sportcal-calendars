@@ -5,27 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Tigers Roermond · Eredivisie Futsal
 BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-tigers-roermond-hv-hoorn-dia@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:TIGERS ROERMOND | Eredivisie Futsal | J10 | 🏟️ | HV Hoorn 🇳
- 🇱
-DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-tigers-roermond-hv-hoorn@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Tigers Roermond - HV Hoorn · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-tigers-roermond-groene-ster-vlissingen-dia@s
  portcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:TIGERS ROERMOND | Eredivisie Futsal | J11 | 🏟️ | Groene Ster V
@@ -35,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-tigers-roermond-groene-ster-vlissingen@sport
  cal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Tigers Roermond - Groene Ster Vlissingen · TBD
@@ -45,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-futsal-team-bergen-op-zoom-tigers-roermond-d
  ia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:TIGERS ROERMOND | Eredivisie Futsal | J12 | ✈️ | Futsal Team Be
@@ -55,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-futsal-team-bergen-op-zoom-tigers-roermond@s
  portcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Futsal Team Bergen op Zoom - Tigers Roermond · TBD
@@ -64,7 +46,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-tigers-roermond-zvv-eindhoven-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:TIGERS ROERMOND | Eredivisie Futsal | J13 | 🏟️ | ZVV Eindhoven
@@ -73,7 +55,7 @@ DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-tigers-roermond-zvv-eindhoven@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Tigers Roermond - ZVV Eindhoven · TBD

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Grand Prix Cycliste de Montréal · WorldTour
 BEGIN:VEVENT
 UID:worldtourall-20270912-grand-prix-cycliste-de-montreal-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 SUMMARY:WORLDTOUR | Grand Prix Cycliste de Montréal
@@ -15,7 +15,7 @@ DESCRIPTION:Grand Prix Cycliste de Montréal\nMontréal CAN · WorldTour
 END:VEVENT
 BEGIN:VEVENT
 UID:worldtourall-20270912-grand-prix-cycliste-de-montreal@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 SUMMARY:Grand Prix Cycliste de Montréal · TBD

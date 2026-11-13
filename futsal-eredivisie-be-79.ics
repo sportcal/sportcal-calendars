@@ -5,26 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Be '79 · Eredivisie Futsal
 BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-be-79-futsal-groningen-dia@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:BE '79 | Eredivisie Futsal | J10 | 🏟️ | Futsal Groningen 🇳
- 🇱
-DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-be-79-futsal-groningen@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Be '79 - Futsal Groningen · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-be-79-hv-hoorn-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:BE '79 | Eredivisie Futsal | J11 | 🏟️ | HV Hoorn 🇳🇱
@@ -32,7 +14,7 @@ DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-be-79-hv-hoorn@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Be '79 - HV Hoorn · TBD
@@ -41,7 +23,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-zvv-eindhoven-be-79-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:BE '79 | Eredivisie Futsal | J12 | ✈️ | ZVV Eindhoven 🇳🇱
@@ -49,7 +31,7 @@ DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-zvv-eindhoven-be-79@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:ZVV Eindhoven - Be '79 · TBD
@@ -58,7 +40,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-be-79-fck-de-hommel-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:BE '79 | Eredivisie Futsal | J13 | 🏟️ | FCK/De Hommel 🇳🇱
@@ -66,7 +48,7 @@ DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-be-79-fck-de-hommel@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Be '79 - FCK/De Hommel · TBD

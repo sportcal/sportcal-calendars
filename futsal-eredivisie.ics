@@ -5,19 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eredivisie (Futsal)
 BEGIN:VEVENT
-UID:futsal-eredivisie-dia-20261113-j10@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:EREDIVISIE FUTSAL | J10
-DESCRIPTION:TBD Futsal Amsterdam - FC Eindhoven\nTBD HZV - Groene Ster Vlis
- singen\nTBD Tigers Roermond - HV Hoorn\nTBD FCK/De Hommel - Futsal Gorinch
- em\nTBD ZVV Eindhoven - RKAV Volendam\nTBD Be '79 - Futsal Groningen\nTBD 
- Futsal Team Bergen op Zoom - ZVV Kroeven/Laboral BV
-END:VEVENT
-BEGIN:VEVENT
 UID:futsal-eredivisie-dia-20261120-j11@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:EREDIVISIE FUTSAL | J11
@@ -28,7 +17,7 @@ DESCRIPTION:TBD Futsal Amsterdam - Futsal Gorinchem\nTBD HZV - Futsal Team
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-dia-20261204-j12@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:EREDIVISIE FUTSAL | J12
@@ -39,7 +28,7 @@ DESCRIPTION:TBD RKAV Volendam - ZVV Kroeven/Laboral BV\nTBD HV Hoorn - Futs
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-dia-20261211-j13@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:EREDIVISIE FUTSAL | J13
@@ -49,72 +38,8 @@ DESCRIPTION:TBD Futsal Amsterdam - RKAV Volendam\nTBD HZV - Futsal Gorinche
  r Vlissingen\nTBD ZVV Kroeven/Laboral BV - HV Hoorn
 END:VEVENT
 BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-futsal-amsterdam-fc-eindhoven@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Futsal Amsterdam - FC Eindhoven · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-hzv-groene-ster-vlissingen@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:HZV - Groene Ster Vlissingen · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-tigers-roermond-hv-hoorn@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Tigers Roermond - HV Hoorn · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-fck-de-hommel-futsal-gorinchem@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:FCK/De Hommel - Futsal Gorinchem · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-zvv-eindhoven-rkav-volendam@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:ZVV Eindhoven - RKAV Volendam · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-be-79-futsal-groningen@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Be '79 - Futsal Groningen · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-eredivisie-20261113-futsal-team-bergen-op-zoom-zvv-kroeven-labor
- al-bv@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Futsal Team Bergen op Zoom - ZVV Kroeven/Laboral BV · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Eredivisie (Futsal)
-END:VEVENT
-BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-futsal-amsterdam-futsal-gorinchem@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Futsal Amsterdam - Futsal Gorinchem · TBD
@@ -123,7 +48,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-hzv-futsal-team-bergen-op-zoom@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:HZV - Futsal Team Bergen op Zoom · TBD
@@ -133,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-tigers-roermond-groene-ster-vlissingen@sport
  cal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Tigers Roermond - Groene Ster Vlissingen · TBD
@@ -142,7 +67,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-fc-eindhoven-zvv-kroeven-laboral-bv@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:FC Eindhoven - ZVV Kroeven/Laboral BV · TBD
@@ -151,7 +76,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-fck-de-hommel-zvv-eindhoven@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:FCK/De Hommel - ZVV Eindhoven · TBD
@@ -160,7 +85,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-be-79-hv-hoorn@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Be '79 - HV Hoorn · TBD
@@ -169,7 +94,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261120-futsal-groningen-rkav-volendam@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Futsal Groningen - RKAV Volendam · TBD
@@ -179,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-rkav-volendam-zvv-kroeven-laboral-bv@sportca
  l
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:RKAV Volendam - ZVV Kroeven/Laboral BV · TBD
@@ -188,7 +113,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-hv-hoorn-futsal-groningen@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:HV Hoorn - Futsal Groningen · TBD
@@ -198,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-groene-ster-vlissingen-futsal-amsterdam@spor
  tcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Groene Ster Vlissingen - Futsal Amsterdam · TBD
@@ -207,7 +132,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-fck-de-hommel-hzv@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:FCK/De Hommel - HZV · TBD
@@ -216,7 +141,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-futsal-gorinchem-fc-eindhoven@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Futsal Gorinchem - FC Eindhoven · TBD
@@ -225,7 +150,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-zvv-eindhoven-be-79@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:ZVV Eindhoven - Be '79 · TBD
@@ -235,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261204-futsal-team-bergen-op-zoom-tigers-roermond@s
  portcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Futsal Team Bergen op Zoom - Tigers Roermond · TBD
@@ -244,7 +169,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-futsal-amsterdam-rkav-volendam@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Futsal Amsterdam - RKAV Volendam · TBD
@@ -253,7 +178,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-hzv-futsal-gorinchem@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:HZV - Futsal Gorinchem · TBD
@@ -262,7 +187,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-tigers-roermond-zvv-eindhoven@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Tigers Roermond - ZVV Eindhoven · TBD
@@ -272,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-fc-eindhoven-futsal-team-bergen-op-zoom@spor
  tcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:FC Eindhoven - Futsal Team Bergen op Zoom · TBD
@@ -281,7 +206,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-be-79-fck-de-hommel@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Be '79 - FCK/De Hommel · TBD
@@ -291,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-futsal-groningen-groene-ster-vlissingen@spor
  tcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Futsal Groningen - Groene Ster Vlissingen · TBD
@@ -300,7 +225,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-eredivisie-20261211-zvv-kroeven-laboral-bv-hv-hoorn@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:ZVV Kroeven/Laboral BV - HV Hoorn · TBD

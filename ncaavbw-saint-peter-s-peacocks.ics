@@ -5,27 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Saint Peter's Peacocks · NCAA WVB
 BEGIN:VEVENT
-UID:ncaavbw-20261113-iona-gaels-saint-peter-s-peacocks-dia@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:SAINT PETER'S PEACOCKS | NCAA WVB | J1 | ✈️ | Iona Gaels 🇺
- 🇸
-DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women Volleybal
- l\nEstadi: Hynes Athletics Center\, New Rochelle\, New York
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261113-iona-gaels-saint-peter-s-peacocks@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T220000Z
-DTEND:20261113T234500Z
-SUMMARY:Iona Gaels - Saint Peter's Peacocks
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Hynes Athletics Center\, New Rochelle\, New York
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaavbw-20261114-manhattan-jaspers-saint-peter-s-peacocks-dia@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:SAINT PETER'S PEACOCKS | NCAA WVB | J1 | ✈️ | Manhattan Jaspers
@@ -35,7 +16,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Volleybal
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261114-manhattan-jaspers-saint-peter-s-peacocks@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261114T190000Z
 DTEND:20261114T204500Z
 SUMMARY:Manhattan Jaspers - Saint Peter's Peacocks

@@ -5,20 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NCAA Division I Women Soccer
 BEGIN:VEVENT
-UID:ncaasoccerw-dia-20261113-j1@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:NCAA DIVISION I WOMEN SOCCER | J1
-DESCRIPTION:18:00 Liberty Lady Flames - Western Kentucky Lady Toppers\n18:3
- 0 Northern Colorado Bears - Northern Arizona Lumberjacks\n21:30 Weber Stat
- e Wildcats - Idaho Vandals\n22:00 Florida Gulf Coast Eagles - Lipscomb Bis
- ons\n22:00 Jackson State Tigers - Alabama A&M Bulldogs\n23:00 Samford Bull
- dogs - Tennessee Tech Golden Eagles
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261114-j1@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J1
@@ -31,7 +19,7 @@ DESCRIPTION:00:00 Purdue Boilermakers - Michigan State Spartans\n01:00 Alco
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261115-j1@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J1
@@ -53,7 +41,7 @@ DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261120-j7@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J7
@@ -71,7 +59,7 @@ DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261127-j71@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J71
@@ -84,7 +72,7 @@ DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261130-j103@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J103
@@ -94,7 +82,7 @@ DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261205-j119@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J119
@@ -103,7 +91,7 @@ DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261210-j127@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J127
@@ -111,7 +99,7 @@ DESCRIPTION:Partits per determinar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261213-j131@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J131
@@ -119,73 +107,16 @@ DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261230-j2@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J2
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerw-20261113-liberty-lady-flames-western-kentucky-lady-toppers@
- sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T170000Z
-DTEND:20261113T184500Z
-SUMMARY:Liberty Lady Flames - Western Kentucky Lady Toppers
-DESCRIPTION:NCAA Division I Women Soccer
-LOCATION:Stuart & Suzanne Grant Stadium\, Newark
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerw-20261113-northern-colorado-bears-northern-arizona-lumberjac
- ks@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T173000Z
-DTEND:20261113T191500Z
-SUMMARY:Northern Colorado Bears - Northern Arizona Lumberjacks
-DESCRIPTION:NCAA Division I Women Soccer
-LOCATION:South Campus Stadium\, Missoula
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerw-20261113-weber-state-wildcats-idaho-vandals@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T203000Z
-DTEND:20261113T221500Z
-SUMMARY:Weber State Wildcats - Idaho Vandals
-DESCRIPTION:NCAA Division I Women Soccer
-LOCATION:South Campus Stadium\, Missoula
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerw-20261113-florida-gulf-coast-eagles-lipscomb-bisons@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T210000Z
-DTEND:20261113T224500Z
-SUMMARY:Florida Gulf Coast Eagles - Lipscomb Bisons
-DESCRIPTION:NCAA Division I Women Soccer
-LOCATION:Pickering Field at the FGCU Soccer Complex\, Fort Myers
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerw-20261113-jackson-state-tigers-alabama-a-m-bulldogs@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T210000Z
-DTEND:20261113T224500Z
-SUMMARY:Jackson State Tigers - Alabama A&M Bulldogs
-DESCRIPTION:NCAA Division I Women Soccer
-LOCATION:PVAMU Soccer Complex\, Prairie View
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerw-20261113-samford-bulldogs-tennessee-tech-golden-eagles@spor
- tcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T220000Z
-DTEND:20261113T234500Z
-SUMMARY:Samford Bulldogs - Tennessee Tech Golden Eagles
-DESCRIPTION:NCAA Division I Women Soccer
-LOCATION:Samford Track/Soccer Complex\, Birmingham\, Alabama
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaasoccerw-20261114-purdue-boilermakers-michigan-state-spartans@sportc
  al
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261113T230000Z
 DTEND:20261114T004500Z
 SUMMARY:Purdue Boilermakers - Michigan State Spartans
@@ -195,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261114-alcorn-state-lady-braves-southern-lady-jaguars@spo
  rtcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261114T000000Z
 DTEND:20261114T014500Z
 SUMMARY:Alcorn State Lady Braves - Southern Lady Jaguars
@@ -205,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261114-western-michigan-broncos-umass-minutewomen@sportca
  l
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261114T003000Z
 DTEND:20261114T021500Z
 SUMMARY:Western Michigan Broncos - UMass Minutewomen
@@ -215,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261114-east-tennessee-state-buccaneers-mercer-bears@sport
  cal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261114T010000Z
 DTEND:20261114T024500Z
 SUMMARY:East Tennessee State Buccaneers - Mercer Bears
@@ -224,7 +155,7 @@ LOCATION:Samford Track/Soccer Complex\, Birmingham\, Alabama
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261114-binghamton-bearcats-bryant-bulldogs@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261114T180000Z
 DTEND:20261114T194500Z
 SUMMARY:Binghamton Bearcats - Bryant Bulldogs
@@ -233,7 +164,7 @@ LOCATION:Bearcats Sports Complex\, Binghamton\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261114-unc-wilmington-seahawks-towson-tigers@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261114T180000Z
 DTEND:20261114T194500Z
 SUMMARY:UNC Wilmington Seahawks - Towson Tigers
@@ -243,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261114-milwaukee-panthers-iu-indianapolis-jaguars@sportca
  l
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261114T190000Z
 DTEND:20261114T204500Z
 SUMMARY:Milwaukee Panthers - IU Indianapolis Jaguars
@@ -252,7 +183,7 @@ LOCATION:Engelmann Stadium\, Milwaukee
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261114-wyoming-cowgirls-air-force-falcons@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261114T210000Z
 DTEND:20261114T224500Z
 SUMMARY:Wyoming Cowgirls - Air Force Falcons
@@ -262,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-oral-roberts-golden-eagles-north-dakota-state-biso
  n@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Oral Roberts Golden Eagles - North Dakota State Bison · TBD
@@ -271,7 +202,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-seattle-u-redhawks-santa-clara-broncos@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261114T230000Z
 DTEND:20261115T004500Z
 SUMMARY:Seattle U Redhawks - Santa Clara Broncos
@@ -280,7 +211,7 @@ LOCATION:Sullivan Field\, Los Angeles\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-memphis-tigers-uab-blazers@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T000000Z
 DTEND:20261115T014500Z
 SUMMARY:Memphis Tigers - UAB Blazers
@@ -290,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-utah-valley-wolverines-uc-san-diego-tritons@sportc
  al
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T000000Z
 DTEND:20261115T014500Z
 SUMMARY:Utah Valley Wolverines - UC San Diego Tritons
@@ -299,7 +230,7 @@ LOCATION:UCCU Stadium\, Orem
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-xavier-musketeers-villanova-wildcats@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T000000Z
 DTEND:20261115T014500Z
 SUMMARY:Xavier Musketeers - Villanova Wildcats
@@ -308,7 +239,7 @@ LOCATION:Maryland SoccerPlex\, Boyds\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-utah-state-aggies-boise-state-broncos@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T003000Z
 DTEND:20261115T021500Z
 SUMMARY:Utah State Aggies - Boise State Broncos
@@ -317,7 +248,7 @@ LOCATION:Chuck & Gloria Bell Soccer Field\, Logan
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-byu-cougars-baylor-bears@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T010000Z
 DTEND:20261115T024500Z
 SUMMARY:BYU Cougars - Baylor Bears
@@ -327,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-eastern-kentucky-colonels-abilene-christian-wildca
  ts@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T010000Z
 DTEND:20261115T024500Z
 SUMMARY:Eastern Kentucky Colonels - Abilene Christian Wildcats
@@ -337,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-old-dominion-monarchs-south-alabama-jaguars@sportc
  al
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T010000Z
 DTEND:20261115T024500Z
 SUMMARY:Old Dominion Monarchs - South Alabama Jaguars
@@ -347,7 +278,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-north-carolina-tar-heels-virginia-cavaliers@sportc
  al
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T170000Z
 DTEND:20261115T184500Z
 SUMMARY:North Carolina Tar Heels - Virginia Cavaliers
@@ -357,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-central-connecticut-blue-devils-fairleigh-dickinso
  n-knights@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T180000Z
 DTEND:20261115T194500Z
 SUMMARY:Central Connecticut Blue Devils - Fairleigh Dickinson Knights
@@ -366,7 +297,7 @@ LOCATION:CCSU Soccer Field\, New Britain
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-columbia-lions-brown-bears@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T180000Z
 DTEND:20261115T194500Z
 SUMMARY:Columbia Lions - Brown Bears
@@ -376,7 +307,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-navy-midshipmen-boston-university-terriers@sportca
  l
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T180000Z
 DTEND:20261115T194500Z
 SUMMARY:Navy Midshipmen - Boston University Terriers
@@ -385,7 +316,7 @@ LOCATION:Glenn Warner Soccer Facility\, Annapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-quinnipiac-bobcats-fairfield-stags@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T180000Z
 DTEND:20261115T194500Z
 SUMMARY:Quinnipiac Bobcats - Fairfield Stags
@@ -394,7 +325,7 @@ LOCATION:Quinnipiac Soccer & Lacrosse Stadium\, Hamden\, Connecticut
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-saint-louis-billikens-dayton-flyers@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T180000Z
 DTEND:20261115T194500Z
 SUMMARY:Saint Louis Billikens - Dayton Flyers
@@ -404,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-unc-asheville-bulldogs-radford-highlanders@sportca
  l
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T180000Z
 DTEND:20261115T194500Z
 SUMMARY:UNC Asheville Bulldogs - Radford Highlanders
@@ -413,7 +344,7 @@ LOCATION:Greenwood Soccer Field\, Asheville\, North Carolina
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-drake-bulldogs-southern-illinois-salukis@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T190000Z
 DTEND:20261115T204500Z
 SUMMARY:Drake Bulldogs - Southern Illinois Salukis
@@ -423,7 +354,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-lamar-lady-cardinals-northwestern-state-lady-demon
  s@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T190000Z
 DTEND:20261115T204500Z
 SUMMARY:Lamar Lady Cardinals - Northwestern State Lady Demons
@@ -432,7 +363,7 @@ LOCATION:Lion Soccer Field\, Commerce
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-south-carolina-gamecocks-texas-longhorns@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T193000Z
 DTEND:20261115T211500Z
 SUMMARY:South Carolina Gamecocks - Texas Longhorns
@@ -442,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261115-ut-martin-skyhawks-southern-indiana-screaming-eagl
  es@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART:20261115T200000Z
 DTEND:20261115T214500Z
 SUMMARY:UT Martin Skyhawks - Southern Indiana Screaming Eagles

@@ -1,0 +1,381 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Formula E
+BEGIN:VEVENT
+UID:fewc-20270116-mexico-city-e-prix-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:FORMULA E | Mexico City E-Prix
+DESCRIPTION:Mexico City E-Prix\nAutódromo Hermanos Rodríguez\, Mexico Cit
+ y · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270116-mexico-city-e-prix@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Mexico City E-Prix · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270206-austin-e-prix-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:FORMULA E | Austin E-Prix
+DESCRIPTION:Austin E-Prix\nCircuit of the Americas\, Austin · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270206-austin-e-prix@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Austin E-Prix · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270220-miami-e-prix-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:FORMULA E | Miami E-Prix
+DESCRIPTION:Miami E-Prix\nMiami International Autodrome\, Miami · Formula 
+ E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270220-miami-e-prix@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Miami E-Prix · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270313-sao-paulo-e-prix-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:FORMULA E | São Paulo E-Prix
+DESCRIPTION:São Paulo E-Prix\nSão Paulo Street Circuit\, São Paulo · Fo
+ rmula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270313-sao-paulo-e-prix@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:São Paulo E-Prix · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270403-sanya-e-prix-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:FORMULA E | Sanya E-Prix
+DESCRIPTION:Sanya E-Prix\nSanya Street Circuit\, Sanya · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270403-sanya-e-prix@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Sanya E-Prix · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270416-jeddah-e-prix-race-1-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:FORMULA E | Jeddah E-Prix - Race 1
+DESCRIPTION:Jeddah E-Prix - Race 1\nJeddah Corniche Circuit\, Jeddah · For
+ mula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270416-jeddah-e-prix-race-1@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Jeddah E-Prix - Race 1 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270417-jeddah-e-prix-race-2-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:FORMULA E | Jeddah E-Prix - Race 2
+DESCRIPTION:Jeddah E-Prix - Race 2\nJeddah Corniche Circuit\, Jeddah · For
+ mula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270417-jeddah-e-prix-race-2@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Jeddah E-Prix - Race 2 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270501-monaco-e-prix-race-1-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:FORMULA E | Monaco E-Prix - Race 1
+DESCRIPTION:Monaco E-Prix - Race 1\nCircuit de Monaco\, Monte Carlo · Form
+ ula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270501-monaco-e-prix-race-1@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Monaco E-Prix - Race 1 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270502-monaco-e-prix-race-2-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:FORMULA E | Monaco E-Prix - Race 2
+DESCRIPTION:Monaco E-Prix - Race 2\nCircuit de Monaco\, Monte Carlo · Form
+ ula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270502-monaco-e-prix-race-2@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Monaco E-Prix - Race 2 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270508-berlin-e-prix-race-1-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:FORMULA E | Berlin E-Prix - Race 1
+DESCRIPTION:Berlin E-Prix - Race 1\nTempelhof Airport Street Circuit\, Berl
+ in · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270508-berlin-e-prix-race-1@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Berlin E-Prix - Race 1 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270509-berlin-e-prix-race-2-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:FORMULA E | Berlin E-Prix - Race 2
+DESCRIPTION:Berlin E-Prix - Race 2\nTempelhof Airport Street Circuit\, Berl
+ in · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270509-berlin-e-prix-race-2@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Berlin E-Prix - Race 2 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270529-london-e-prix-race-1-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:FORMULA E | London E-Prix - Race 1
+DESCRIPTION:London E-Prix - Race 1\nBrands Hatch\, London · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270529-london-e-prix-race-1@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:London E-Prix - Race 1 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270530-london-e-prix-race-2-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:FORMULA E | London E-Prix - Race 2
+DESCRIPTION:London E-Prix - Race 2\nBrands Hatch\, London · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270530-london-e-prix-race-2@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:London E-Prix - Race 2 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270618-zandvoort-e-prix-race-1-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:FORMULA E | Zandvoort E-Prix - Race 1
+DESCRIPTION:Zandvoort E-Prix - Race 1\nCircuit Zandvoort\, Zandvoort · For
+ mula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270618-zandvoort-e-prix-race-1@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Zandvoort E-Prix - Race 1 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270619-zandvoort-e-prix-race-2-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:FORMULA E | Zandvoort E-Prix - Race 2
+DESCRIPTION:Zandvoort E-Prix - Race 2\nCircuit Zandvoort\, Zandvoort · For
+ mula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270619-zandvoort-e-prix-race-2@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Zandvoort E-Prix - Race 2 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270626-madrid-e-prix-race-1-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:FORMULA E | Madrid E-Prix - Race 1
+DESCRIPTION:Madrid E-Prix - Race 1\nCircuito del Jarama\, Madrid · Formula
+  E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270626-madrid-e-prix-race-1@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Madrid E-Prix - Race 1 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270627-madrid-e-prix-race-2-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:FORMULA E | Madrid E-Prix - Race 2
+DESCRIPTION:Madrid E-Prix - Race 2\nCircuito del Jarama\, Madrid · Formula
+  E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270627-madrid-e-prix-race-2@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Madrid E-Prix - Race 2 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270710-shanghai-e-prix-race-1-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:FORMULA E | Shanghai E-Prix - Race 1
+DESCRIPTION:Shanghai E-Prix - Race 1\nShanghai International Circuit\, Shan
+ ghai · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270710-shanghai-e-prix-race-1@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Shanghai E-Prix - Race 1 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270711-shanghai-e-prix-race-2-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:FORMULA E | Shanghai E-Prix - Race 2
+DESCRIPTION:Shanghai E-Prix - Race 2\nShanghai International Circuit\, Shan
+ ghai · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270711-shanghai-e-prix-race-2@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Shanghai E-Prix - Race 2 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270724-tokyo-e-prix-race-1-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:FORMULA E | Tokyo E-Prix - Race 1
+DESCRIPTION:Tokyo E-Prix - Race 1\nTokyo Street Circuit\, Tokyo · Formula 
+ E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270724-tokyo-e-prix-race-1@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Tokyo E-Prix - Race 1 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270725-tokyo-e-prix-race-2-dia@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:FORMULA E | Tokyo E-Prix - Race 2
+DESCRIPTION:Tokyo E-Prix - Race 2\nTokyo Street Circuit\, Tokyo · Formula 
+ E
+END:VEVENT
+BEGIN:VEVENT
+UID:fewc-20270725-tokyo-e-prix-race-2@sportcal
+DTSTAMP:20261113T230656Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Tokyo E-Prix - Race 2 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Formula E
+END:VEVENT
+END:VCALENDAR

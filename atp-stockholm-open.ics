@@ -5,65 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Stockholm Open · ATP
 BEGIN:VEVENT
-UID:atp-stockholm-open-dia-20261113-stockholm-open-semifinal@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:ATP | Stockholm Open | Semifinal
-DESCRIPTION:11:30 Mens Doubles — Adam Pavlasek / Patrik Rikl - Nikola Mek
- tic / Edouard Roger-Vasselin\n14:00 Mens Singles — Thiago Agustin Tirant
- e - Alejandro Tabilo\n17:00 Mens Singles — Lorenzo Musetti - Taylor Frit
- z\n18:30 Mens Doubles — Constantin Frantzén / Bart Stevens - Erik Greve
- lius / Adam Heinonen
-END:VEVENT
-BEGIN:VEVENT
 UID:atp-stockholm-open-dia-20261114-stockholm-open-final@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:ATP | Stockholm Open | Final
 DESCRIPTION:Partits per determinar (2)
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-148-2026-186559@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T103000Z
-DTEND:20261113T130000Z
-SUMMARY:Adam Pavlasek / Patrik Rikl - Nikola Mektic / Edouard Roger-Vasseli
- n
-DESCRIPTION:Stockholm Open — Semifinal — Mens Doubles · Stockholm Open
-  · ATP
-LOCATION:Stockholm\, Sweden (Center Court)
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-148-2026-186546@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T130000Z
-DTEND:20261113T153000Z
-SUMMARY:Thiago Agustin Tirante - Alejandro Tabilo
-DESCRIPTION:Stockholm Open — Semifinal — Mens Singles · Stockholm Open
-  · ATP
-LOCATION:Stockholm\, Sweden (Center Court)
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-148-2026-186547@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T160000Z
-DTEND:20261113T183000Z
-SUMMARY:Lorenzo Musetti - Taylor Fritz
-DESCRIPTION:Stockholm Open — Semifinal — Mens Singles · Stockholm Open
-  · ATP
-LOCATION:Stockholm\, Sweden (Center Court)
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-148-2026-186557@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T173000Z
-DTEND:20261113T200000Z
-SUMMARY:Constantin Frantzén / Bart Stevens - Erik Grevelius / Adam Heinone
- n
-DESCRIPTION:Stockholm Open — Semifinal — Mens Doubles · Stockholm Open
-  · ATP
-LOCATION:Stockholm\, Sweden (Center Court)
 END:VEVENT
 END:VCALENDAR

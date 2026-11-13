@@ -5,66 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DIRECTV Open Presentado por Compesar · WTA
 BEGIN:VEVENT
-UID:wta-directv-open-presentado-por-compesar-dia-20261113-directv-open-pres
- entado-por-compesar-semifinal@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:WTA | DIRECTV Open Presentado por Compesar | Semifinal
-DESCRIPTION:16:00 Womens Singles — Elizabeth Mandlik - Laura Samson\n17:0
- 0 Womens Doubles — Rasheeda McAdoo / Anna Rogers - Veronika Erjavec / Zh
- ibek Kulambayeva\n17:30 Womens Singles — Bianca Andreescu - Polona Herco
- g\n19:00 Womens Doubles — Laura Samson / Tamara Zidansek - Carole Monnet
-  / Laura Pigossi
-END:VEVENT
-BEGIN:VEVENT
 UID:wta-directv-open-presentado-por-compesar-dia-20261114-directv-open-pres
  entado-por-compesar-final@sportcal
-DTSTAMP:20261113T133901Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:WTA | DIRECTV Open Presentado por Compesar | Final
 DESCRIPTION:Partits per determinar (2)
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-1084-2026-186773@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T150000Z
-DTEND:20261113T173000Z
-SUMMARY:Elizabeth Mandlik - Laura Samson
-DESCRIPTION:DIRECTV Open Presentado por Compesar — Semifinal — Womens S
- ingles · DIRECTV Open Presentado por Compesar · WTA
-LOCATION:Sopo\, Colombia (Main Court)
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-1084-2026-186781@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T160000Z
-DTEND:20261113T183000Z
-SUMMARY:Rasheeda McAdoo / Anna Rogers - Veronika Erjavec / Zhibek Kulambaye
- va
-DESCRIPTION:DIRECTV Open Presentado por Compesar — Semifinal — Womens D
- oubles · DIRECTV Open Presentado por Compesar · WTA
-LOCATION:Sopo\, Colombia (Court 1)
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-1084-2026-186774@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T163000Z
-DTEND:20261113T190000Z
-SUMMARY:Bianca Andreescu - Polona Hercog
-DESCRIPTION:DIRECTV Open Presentado por Compesar — Semifinal — Womens S
- ingles · DIRECTV Open Presentado por Compesar · WTA
-LOCATION:Sopo\, Colombia (Main Court)
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-1084-2026-186775@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T180000Z
-DTEND:20261113T203000Z
-SUMMARY:Laura Samson / Tamara Zidansek - Carole Monnet / Laura Pigossi
-DESCRIPTION:DIRECTV Open Presentado por Compesar — Semifinal — Womens D
- oubles · DIRECTV Open Presentado por Compesar · WTA
-LOCATION:Sopo\, Colombia (Court 1)
 END:VEVENT
 END:VCALENDAR

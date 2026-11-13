@@ -5,25 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Meta Catania · Serie A Futsal
 BEGIN:VEVENT
-UID:futsal-seriea-20261113-capurso-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:META CATANIA | Serie A Futsal | J8 | ✈️ | Capurso 🇮🇹
-DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-seriea-20261113-capurso-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Capurso - Meta Catania · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Serie A (Futsal)
-END:VEVENT
-BEGIN:VEVENT
 UID:futsal-seriea-20261120-meta-catania-petrarca-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:META CATANIA | Serie A Futsal | J9 | 🏟️ | Petrarca 🇮🇹
@@ -31,7 +14,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261120-meta-catania-petrarca@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Meta Catania - Petrarca · TBD
@@ -40,7 +23,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261127-benevento-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:META CATANIA | Serie A Futsal | J10 | ✈️ | Benevento 🇮🇹
@@ -48,7 +31,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261127-benevento-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Benevento - Meta Catania · TBD
@@ -57,7 +40,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261204-meta-catania-l84-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:META CATANIA | Serie A Futsal | J11 | 🏟️ | L84 🇮🇹
@@ -65,7 +48,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261204-meta-catania-l84@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Meta Catania - L84 · TBD
@@ -74,7 +57,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261211-sala-consilina-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:META CATANIA | Serie A Futsal | J12 | ✈️ | Sala Consilina 🇮
@@ -83,7 +66,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261211-sala-consilina-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Sala Consilina - Meta Catania · TBD
@@ -92,7 +75,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261218-meta-catania-napoli-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:META CATANIA | Serie A Futsal | J13 | 🏟️ | Napoli 🇮🇹
@@ -100,7 +83,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261218-meta-catania-napoli@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Meta Catania - Napoli · TBD
@@ -109,7 +92,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270108-meta-catania-came-treviso-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:META CATANIA | Serie A Futsal | J14 | 🏟️ | CAME Treviso 🇮
@@ -118,7 +101,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270108-meta-catania-came-treviso@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Meta Catania - CAME Treviso · TBD
@@ -127,7 +110,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270112-active-network-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:META CATANIA | Serie A Futsal | J15 | ✈️ | Active Network 🇮
@@ -136,7 +119,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270112-active-network-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Active Network - Meta Catania · TBD
@@ -145,7 +128,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270115-meta-catania-giovinazzo-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:META CATANIA | Serie A Futsal | J16 | 🏟️ | Giovinazzo 🇮🇹
@@ -153,7 +136,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270115-meta-catania-giovinazzo@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Meta Catania - Giovinazzo · TBD
@@ -162,7 +145,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270123-roma-1927-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:META CATANIA | Serie A Futsal | J17 | ✈️ | Roma 1927 🇮🇹
@@ -170,7 +153,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270123-roma-1927-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Roma 1927 - Meta Catania · TBD
@@ -179,7 +162,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270129-meta-catania-sandro-abate-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:META CATANIA | Serie A Futsal | J18 | 🏟️ | Sandro Abate 🇮
@@ -188,7 +171,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270129-meta-catania-sandro-abate@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Meta Catania - Sandro Abate · TBD
@@ -197,7 +180,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270205-meta-catania-fortitudo-pomezia-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:META CATANIA | Serie A Futsal | J19 | 🏟️ | Fortitudo Pomezia 
@@ -206,7 +189,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270205-meta-catania-fortitudo-pomezia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Meta Catania - Fortitudo Pomezia · TBD
@@ -215,7 +198,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270213-feldi-eboli-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:META CATANIA | Serie A Futsal | J20 | ✈️ | Feldi Eboli 🇮🇹
@@ -223,7 +206,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270213-feldi-eboli-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Feldi Eboli - Meta Catania · TBD
@@ -232,7 +215,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270219-meta-catania-capurso-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:META CATANIA | Serie A Futsal | J21 | 🏟️ | Capurso 🇮🇹
@@ -240,7 +223,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270219-meta-catania-capurso@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:Meta Catania - Capurso · TBD
@@ -249,7 +232,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270305-petrarca-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:META CATANIA | Serie A Futsal | J22 | ✈️ | Petrarca 🇮🇹
@@ -257,7 +240,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270305-petrarca-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Petrarca - Meta Catania · TBD
@@ -266,7 +249,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270313-meta-catania-benevento-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:META CATANIA | Serie A Futsal | J23 | 🏟️ | Benevento 🇮🇹
@@ -274,7 +257,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270313-meta-catania-benevento@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Meta Catania - Benevento · TBD
@@ -283,7 +266,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270319-l84-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:META CATANIA | Serie A Futsal | J24 | ✈️ | L84 🇮🇹
@@ -291,7 +274,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270319-l84-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:L84 - Meta Catania · TBD
@@ -300,7 +283,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270406-meta-catania-sala-consilina-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:META CATANIA | Serie A Futsal | J25 | 🏟️ | Sala Consilina 🇮
@@ -309,7 +292,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270406-meta-catania-sala-consilina@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:Meta Catania - Sala Consilina · TBD
@@ -318,7 +301,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270409-napoli-meta-catania-dia@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:META CATANIA | Serie A Futsal | J26 | ✈️ | Napoli 🇮🇹
@@ -326,7 +309,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270409-napoli-meta-catania@sportcal
-DTSTAMP:20261113T143027Z
+DTSTAMP:20261113T230656Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Napoli - Meta Catania · TBD
