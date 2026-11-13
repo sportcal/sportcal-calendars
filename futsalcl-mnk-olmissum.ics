@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MNK Olmissum · Futsal CL
+BEGIN:VEVENT
+UID:futsalcl-20261123-mnk-olmissum-barca-dia@sportcal
+DTSTAMP:20261113T134934Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:MNK OLMISSUM | Futsal CL | R16 1st leg | 🏟️ | Barça 🇪🇸
+DESCRIPTION:Hora pendent de confirmació · UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261123-mnk-olmissum-barca@sportcal
+DTSTAMP:20261113T134934Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:MNK Olmissum - Barça · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261204-barca-mnk-olmissum-dia@sportcal
+DTSTAMP:20261113T134934Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:MNK OLMISSUM | Futsal CL | R16 2nd leg | ✈️ | Barça 🇪🇸
+DESCRIPTION:Hora pendent de confirmació · UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261204-barca-mnk-olmissum@sportcal
+DTSTAMP:20261113T134934Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Barça - MNK Olmissum · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · UEFA Futsal Champions League
+END:VEVENT
+END:VCALENDAR

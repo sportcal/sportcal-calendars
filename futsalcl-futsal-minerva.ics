@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Futsal Minerva · Futsal CL
+BEGIN:VEVENT
+UID:futsalcl-20261123-futsal-minerva-stalitsa-minsk-dia@sportcal
+DTSTAMP:20261113T134934Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:FUTSAL MINERVA | Futsal CL | R16 1st leg | 🏟️ | Stalitsa Minsk
+  🇧🇾
+DESCRIPTION:Hora pendent de confirmació · UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261123-futsal-minerva-stalitsa-minsk@sportcal
+DTSTAMP:20261113T134934Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Futsal Minerva - Stalitsa Minsk · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261204-stalitsa-minsk-futsal-minerva-dia@sportcal
+DTSTAMP:20261113T134934Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:FUTSAL MINERVA | Futsal CL | R16 2nd leg | ✈️ | Stalitsa Minsk 
+ 🇧🇾
+DESCRIPTION:Hora pendent de confirmació · UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261204-stalitsa-minsk-futsal-minerva@sportcal
+DTSTAMP:20261113T134934Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Stalitsa Minsk - Futsal Minerva · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · UEFA Futsal Champions League
+END:VEVENT
+END:VCALENDAR
