@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CD Águila · Primera División
+BEGIN:VEVENT
+UID:elsalvadorpd-20261116-cd-inca-cd-aguila-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:CD ÁGUILA | Primera División | J1 | ✈️ | CD Inca 🇸🇻
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Primera División\nEstadi: Esta
+ dio Anna Mercedes Campos\, Sonsonate
+END:VEVENT
+BEGIN:VEVENT
+UID:elsalvadorpd-20261116-cd-inca-cd-aguila@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261116T000000Z
+DTEND:20261116T014500Z
+SUMMARY:CD Inca - CD Águila
+DESCRIPTION:Primera División
+LOCATION:Estadio Anna Mercedes Campos\, Sonsonate
+END:VEVENT
+BEGIN:VEVENT
+UID:elsalvadorpd-20261121-cd-aguila-cd-platense-municipal-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CD ÁGUILA | Primera División | J2 | 🏟️ | CD Platense Municip
+ al 🇸🇻
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:elsalvadorpd-20261121-cd-aguila-cd-platense-municipal@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261121T213000Z
+DTEND:20261121T231500Z
+SUMMARY:CD Águila - CD Platense Municipal
+DESCRIPTION:Primera División
+END:VEVENT
+END:VCALENDAR

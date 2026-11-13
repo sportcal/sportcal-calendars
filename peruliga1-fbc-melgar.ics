@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FBC Melgar · Liga 1
+BEGIN:VEVENT
+UID:peruliga1-20261118-alianza-atletico-fbc-melgar-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:FBC MELGAR | Liga 1 | J1 | ✈️ | Alianza Atlético 🇵🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga 1\nEstadi: Estadio Campeon
+ es del '36\, Sullana
+END:VEVENT
+BEGIN:VEVENT
+UID:peruliga1-20261118-alianza-atletico-fbc-melgar@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261118T200000Z
+DTEND:20261118T214500Z
+SUMMARY:Alianza Atlético - FBC Melgar
+DESCRIPTION:Liga 1
+LOCATION:Estadio Campeones del '36\, Sullana
+END:VEVENT
+END:VCALENDAR

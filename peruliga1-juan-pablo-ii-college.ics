@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Juan Pablo II College · Liga 1
+BEGIN:VEVENT
+UID:peruliga1-20261115-juan-pablo-ii-college-deportivo-garcilaso-dia@sportc
+ al
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:JUAN PABLO II COLLEGE | Liga 1 | J1 | 🏟️ | Deportivo Garcilaso
+  🇵🇪
+DESCRIPTION:Inici: 21:15 (Europe/Madrid) · Liga 1\nEstadi: Complejo Deport
+ ivo Juan Pablo II\, Chongoyape
+END:VEVENT
+BEGIN:VEVENT
+UID:peruliga1-20261115-juan-pablo-ii-college-deportivo-garcilaso@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261115T201500Z
+DTEND:20261115T220000Z
+SUMMARY:Juan Pablo II College - Deportivo Garcilaso
+DESCRIPTION:Liga 1
+LOCATION:Complejo Deportivo Juan Pablo II\, Chongoyape
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Strongest · División Profesional
+BEGIN:VEVENT
+UID:boliviadp-20261122-the-strongest-blooming-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:THE STRONGEST | División Profesional | J1 | 🏟️ | Blooming 
+ 🇧🇴
+DESCRIPTION:Inici: 22:15 (Europe/Madrid) · División Profesional\nEstadi: 
+ Estadio Hernando Siles\, La Paz
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261122-the-strongest-blooming@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261122T211500Z
+DTEND:20261122T230000Z
+SUMMARY:The Strongest - Blooming
+DESCRIPTION:División Profesional
+LOCATION:Estadio Hernando Siles\, La Paz
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261129-aurora-the-strongest-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:THE STRONGEST | División Profesional | J2 | ✈️ | Aurora 🇧
+ 🇴
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · División Profesional\nEstadi: 
+ Estadio Félix Capriles\, Cochabamba
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261129-aurora-the-strongest@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261129T190000Z
+DTEND:20261129T204500Z
+SUMMARY:Aurora - The Strongest
+DESCRIPTION:División Profesional
+LOCATION:Estadio Félix Capriles\, Cochabamba
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261202-the-strongest-nacional-potosi-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:THE STRONGEST | División Profesional | J3 | 🏟️ | Nacional Pot
+ osí 🇧🇴
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · División Profesional\nEstadi: 
+ Estadio Hernando Siles\, La Paz
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261202-the-strongest-nacional-potosi@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261202T223000Z
+DTEND:20261203T001500Z
+SUMMARY:The Strongest - Nacional Potosí
+DESCRIPTION:División Profesional
+LOCATION:Estadio Hernando Siles\, La Paz
+END:VEVENT
+END:VCALENDAR

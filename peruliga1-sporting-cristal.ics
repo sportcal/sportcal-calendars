@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Cristal · Liga 1
+BEGIN:VEVENT
+UID:peruliga1-20261122-sporting-cristal-cienciano-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SPORTING CRISTAL | Liga 1 | J1 | 🏟️ | Cienciano 🇵🇪
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga 1\nEstadi: Estadio Alberto
+  Gallardo\, San Martin de Porres
+END:VEVENT
+BEGIN:VEVENT
+UID:peruliga1-20261122-sporting-cristal-cienciano@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261122T200000Z
+DTEND:20261122T214500Z
+SUMMARY:Sporting Cristal - Cienciano
+DESCRIPTION:Liga 1
+LOCATION:Estadio Alberto Gallardo\, San Martin de Porres
+END:VEVENT
+END:VCALENDAR

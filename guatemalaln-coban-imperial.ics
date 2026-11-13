@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cobán Imperial · Liga Nacional
+BEGIN:VEVENT
+UID:guatemalaln-20261115-comunicaciones-coban-imperial-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:COBÁN IMPERIAL | Liga Nacional | J1 | ✈️ | Comunicaciones 🇬
+ 🇹
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Liga Nacional\nEstadi: Estadio 
+ Cementos Progreso\, Estadio Cementos Progreso
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261115-comunicaciones-coban-imperial@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261114T230000Z
+DTEND:20261115T004500Z
+SUMMARY:Comunicaciones - Cobán Imperial
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Cementos Progreso\, Estadio Cementos Progreso
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261122-coban-imperial-deportivo-san-pedro-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:COBÁN IMPERIAL | Liga Nacional | J2 | 🏟️ | Deportivo San Pedr
+ o 🇬🇹
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Liga Nacional\nEstadi: Estadio 
+ Verapaz Jose Angel Rossi\, Cobán
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261122-coban-imperial-deportivo-san-pedro@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261122T210000Z
+DTEND:20261122T224500Z
+SUMMARY:Cobán Imperial - Deportivo San Pedro
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Verapaz Jose Angel Rossi\, Cobán
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261128-aurora-fc-coban-imperial-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:COBÁN IMPERIAL | Liga Nacional | J3 | ✈️ | Aurora FC 🇬🇹
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Liga Nacional\nEstadi: Estadio 
+ Guillermo Slowing\, Amatitlán
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261128-aurora-fc-coban-imperial@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T210000Z
+DTEND:20261128T224500Z
+SUMMARY:Aurora FC - Cobán Imperial
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Guillermo Slowing\, Amatitlán
+END:VEVENT
+END:VCALENDAR

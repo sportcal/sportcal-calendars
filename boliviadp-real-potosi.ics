@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Real Potosí · División Profesional
+BEGIN:VEVENT
+UID:boliviadp-20261122-real-potosi-bolivar-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:REAL POTOSÍ | División Profesional | J1 | 🏟️ | Bolívar 🇧
+ 🇴
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · División Profesional\nEstadi: 
+ Estadio Víctor Agustín Ugarte\, Potosí
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261122-real-potosi-bolivar@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261122T190000Z
+DTEND:20261122T204500Z
+SUMMARY:Real Potosí - Bolívar
+DESCRIPTION:División Profesional
+LOCATION:Estadio Víctor Agustín Ugarte\, Potosí
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261128-gv-san-jose-real-potosi-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:REAL POTOSÍ | División Profesional | J2 | ✈️ | GV San José 
+ 🇧🇴
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · División Profesional\nEstadi: 
+ Estadio Jesús Bermúdez\, Oruro
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261128-gv-san-jose-real-potosi@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:GV San José - Real Potosí
+DESCRIPTION:División Profesional
+LOCATION:Estadio Jesús Bermúdez\, Oruro
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261202-real-potosi-universitario-de-vinto-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:REAL POTOSÍ | División Profesional | J3 | 🏟️ | Universitario
+  de Vinto 🇧🇴
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · División Profesional\nEstadi: 
+ Estadio Víctor Agustín Ugarte\, Potosí
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261202-real-potosi-universitario-de-vinto@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261201T233000Z
+DTEND:20261202T011500Z
+SUMMARY:Real Potosí - Universitario de Vinto
+DESCRIPTION:División Profesional
+LOCATION:Estadio Víctor Agustín Ugarte\, Potosí
+END:VEVENT
+END:VCALENDAR

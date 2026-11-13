@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlético Independiente · Liga Nacional
+BEGIN:VEVENT
+UID:hondurasln-20261121-genesis-fc-atletico-independiente-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ATLÉTICO INDEPENDIENTE | Liga Nacional | J1 | ✈️ | Génesis FC
+  🇭🇳
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Liga Nacional
+END:VEVENT
+BEGIN:VEVENT
+UID:hondurasln-20261121-genesis-fc-atletico-independiente@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261121T210000Z
+DTEND:20261121T224500Z
+SUMMARY:Génesis FC - Atlético Independiente
+DESCRIPTION:Liga Nacional
+END:VEVENT
+BEGIN:VEVENT
+UID:hondurasln-20261128-atletico-independiente-platense-fc-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ATLÉTICO INDEPENDIENTE | Liga Nacional | J2 | 🏟️ | Platense F
+ C 🇭🇳
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga Nacional
+END:VEVENT
+BEGIN:VEVENT
+UID:hondurasln-20261128-atletico-independiente-platense-fc@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T200000Z
+DTEND:20261128T214500Z
+SUMMARY:Atlético Independiente - Platense FC
+DESCRIPTION:Liga Nacional
+END:VEVENT
+END:VCALENDAR

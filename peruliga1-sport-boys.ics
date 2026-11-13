@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sport Boys · Liga 1
+BEGIN:VEVENT
+UID:peruliga1-20261115-comerciantes-unidos-sport-boys-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SPORT BOYS | Liga 1 | J1 | ✈️ | Comerciantes Unidos 🇵🇪
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Liga 1\nEstadi: Juan Maldonado 
+ Gamarra\, Cutervo\, Cajamarca
+END:VEVENT
+BEGIN:VEVENT
+UID:peruliga1-20261115-comerciantes-unidos-sport-boys@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261115T180000Z
+DTEND:20261115T194500Z
+SUMMARY:Comerciantes Unidos - Sport Boys
+DESCRIPTION:Liga 1
+LOCATION:Juan Maldonado Gamarra\, Cutervo\, Cajamarca
+END:VEVENT
+END:VCALENDAR

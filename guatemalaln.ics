@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Liga Nacional
+BEGIN:VEVENT
+UID:guatemalaln-dia-20261115-j1@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:LIGA NACIONAL | J1
+DESCRIPTION:00:00 Comunicaciones - Cobán Imperial\n02:00 Malacateco - CSD 
+ Municipal\n22:00 Deportivo San Pedro - Marquense\n22:00 Xelajú MC - Guast
+ atoya
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-dia-20261116-j1@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:LIGA NACIONAL | J1
+DESCRIPTION:00:05 CD Suchitepéquez - Antigua GFC
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-dia-20261121-j2@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:LIGA NACIONAL | J2
+DESCRIPTION:20:00 Xelajú MC - CD Suchitepéquez\n22:00 Deportivo Mixco - M
+ alacateco
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-dia-20261122-j2@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:LIGA NACIONAL | J2
+DESCRIPTION:02:00 Guastatoya - Comunicaciones\n22:00 Cobán Imperial - Depo
+ rtivo San Pedro
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-dia-20261123-j2@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:LIGA NACIONAL | J2
+DESCRIPTION:00:05 CSD Municipal - Antigua GFC\n02:10 Marquense - Aurora FC
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-dia-20261126-j3@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:LIGA NACIONAL | J3
+DESCRIPTION:03:00 CSD Municipal - Aurora FC
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-dia-20261128-j3@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:LIGA NACIONAL | J3
+DESCRIPTION:22:00 Antigua GFC - Deportivo Mixco\n22:00 Aurora FC - Cobán I
+ mperial\n22:00 Malacateco - Marquense\n22:00 Comunicaciones - Xelajú MC\n
+ 22:00 Deportivo San Pedro - Guastatoya\n22:00 CD Suchitepéquez - CSD Muni
+ cipal
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261115-comunicaciones-coban-imperial@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261114T230000Z
+DTEND:20261115T004500Z
+SUMMARY:Comunicaciones - Cobán Imperial
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Cementos Progreso\, Estadio Cementos Progreso
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261115-malacateco-csd-municipal@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261115T010000Z
+DTEND:20261115T024500Z
+SUMMARY:Malacateco - CSD Municipal
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Municipal Santa Lucía\, Malacatán
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261115-deportivo-san-pedro-marquense@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261115T210000Z
+DTEND:20261115T224500Z
+SUMMARY:Deportivo San Pedro - Marquense
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Municipal de San Pedro Sacatepéquez\, San Pedro Sacatepé
+ quez
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261115-xelaju-mc-guastatoya@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261115T210000Z
+DTEND:20261115T224500Z
+SUMMARY:Xelajú MC - Guastatoya
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Mario Camposeco\, Quetzaltenango
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261116-cd-suchitepequez-antigua-gfc@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261115T230500Z
+DTEND:20261116T005000Z
+SUMMARY:CD Suchitepéquez - Antigua GFC
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Carlos Salazar Hijo\, Suchitepéquez
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261121-xelaju-mc-cd-suchitepequez@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Xelajú MC - CD Suchitepéquez
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Mario Camposeco\, Quetzaltenango
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261121-deportivo-mixco-malacateco@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261121T210000Z
+DTEND:20261121T224500Z
+SUMMARY:Deportivo Mixco - Malacateco
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Santo Domingo de Guzmán\, Mixco
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261122-guastatoya-comunicaciones@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261122T010000Z
+DTEND:20261122T024500Z
+SUMMARY:Guastatoya - Comunicaciones
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio David Cordón Hichos\, Guastatoya
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261122-coban-imperial-deportivo-san-pedro@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261122T210000Z
+DTEND:20261122T224500Z
+SUMMARY:Cobán Imperial - Deportivo San Pedro
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Verapaz Jose Angel Rossi\, Cobán
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261123-csd-municipal-antigua-gfc@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261122T230500Z
+DTEND:20261123T005000Z
+SUMMARY:CSD Municipal - Antigua GFC
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261123-marquense-aurora-fc@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261123T011000Z
+DTEND:20261123T025500Z
+SUMMARY:Marquense - Aurora FC
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Marquesa de la Ensenada\, San Marcos
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261126-csd-municipal-aurora-fc@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261126T020000Z
+DTEND:20261126T034500Z
+SUMMARY:CSD Municipal - Aurora FC
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261128-antigua-gfc-deportivo-mixco@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T210000Z
+DTEND:20261128T224500Z
+SUMMARY:Antigua GFC - Deportivo Mixco
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Pensativo\, Antigua Guatemala
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261128-aurora-fc-coban-imperial@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T210000Z
+DTEND:20261128T224500Z
+SUMMARY:Aurora FC - Cobán Imperial
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Guillermo Slowing\, Amatitlán
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261128-malacateco-marquense@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T210000Z
+DTEND:20261128T224500Z
+SUMMARY:Malacateco - Marquense
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Municipal Santa Lucía\, Malacatán
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261128-comunicaciones-xelaju-mc@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T210000Z
+DTEND:20261128T224500Z
+SUMMARY:Comunicaciones - Xelajú MC
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Cementos Progreso\, Estadio Cementos Progreso
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261128-deportivo-san-pedro-guastatoya@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T210000Z
+DTEND:20261128T224500Z
+SUMMARY:Deportivo San Pedro - Guastatoya
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Municipal de San Pedro Sacatepéquez\, San Pedro Sacatepé
+ quez
+END:VEVENT
+BEGIN:VEVENT
+UID:guatemalaln-20261128-cd-suchitepequez-csd-municipal@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T210000Z
+DTEND:20261128T224500Z
+SUMMARY:CD Suchitepéquez - CSD Municipal
+DESCRIPTION:Liga Nacional
+LOCATION:Estadio Carlos Salazar Hijo\, Suchitepéquez
+END:VEVENT
+END:VCALENDAR

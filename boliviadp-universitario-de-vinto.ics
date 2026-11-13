@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Universitario de Vinto · División Profesional
+BEGIN:VEVENT
+UID:boliviadp-20261123-universitario-de-vinto-gv-san-jose-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:UNIVERSITARIO DE VINTO | División Profesional | J1 | 🏟️ | GV 
+ San José 🇧🇴
+DESCRIPTION:Inici: 22:15 (Europe/Madrid) · División Profesional\nEstadi: 
+ Estadio Félix Capriles\, Cochabamba
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261123-universitario-de-vinto-gv-san-jose@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261123T211500Z
+DTEND:20261123T230000Z
+SUMMARY:Universitario de Vinto - GV San José
+DESCRIPTION:División Profesional
+LOCATION:Estadio Félix Capriles\, Cochabamba
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261128-guabira-universitario-de-vinto-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:UNIVERSITARIO DE VINTO | División Profesional | J2 | ✈️ | Guab
+ irá 🇧🇴
+DESCRIPTION:Inici: 22:15 (Europe/Madrid) · División Profesional\nEstadi: 
+ Estadio Gilberto Parada\, Montero
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261128-guabira-universitario-de-vinto@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261128T211500Z
+DTEND:20261128T230000Z
+SUMMARY:Guabirá - Universitario de Vinto
+DESCRIPTION:División Profesional
+LOCATION:Estadio Gilberto Parada\, Montero
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261202-real-potosi-universitario-de-vinto-dia@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:UNIVERSITARIO DE VINTO | División Profesional | J3 | ✈️ | Real
+  Potosí 🇧🇴
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · División Profesional\nEstadi: 
+ Estadio Víctor Agustín Ugarte\, Potosí
+END:VEVENT
+BEGIN:VEVENT
+UID:boliviadp-20261202-real-potosi-universitario-de-vinto@sportcal
+DTSTAMP:20261113T061037Z
+DTSTART:20261201T233000Z
+DTEND:20261202T011500Z
+SUMMARY:Real Potosí - Universitario de Vinto
+DESCRIPTION:División Profesional
+LOCATION:Estadio Víctor Agustín Ugarte\, Potosí
+END:VEVENT
+END:VCALENDAR
