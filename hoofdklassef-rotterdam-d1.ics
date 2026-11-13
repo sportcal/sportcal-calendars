@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rotterdam D1 · Hoofdklasse F
+BEGIN:VEVENT
+UID:hoofdklassef-20261115-bloemendaal-d1-rotterdam-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J10 | ✈️ | Bloemendaal D1 🇳
+ 🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Spor
+ tpark Aelbertsbergweg
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20261115-bloemendaal-d1-rotterdam-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261115T114500Z
+DTEND:20261115T133000Z
+SUMMARY:Bloemendaal D1 - Rotterdam D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Sportpark Aelbertsbergweg
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20261122-rotterdam-d1-amsterdam-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J11 | 🏟️ | Amsterdam D1 🇳
+ 🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Spor
+ tpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20261122-rotterdam-d1-amsterdam-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261122T114500Z
+DTEND:20261122T133000Z
+SUMMARY:Rotterdam D1 - Amsterdam D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Sportpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20261129-rotterdam-d1-victoria-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J12 | 🏟️ | Victoria D1 🇳🇱
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Spor
+ tpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20261129-rotterdam-d1-victoria-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Rotterdam D1 - Victoria D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Sportpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270314-schc-d1-rotterdam-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J13 | ✈️ | SCHC D1 🇳🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Spor
+ tpark Kees Boekelaan (SCHC)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270314-schc-d1-rotterdam-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270314T114500Z
+DTEND:20270314T133000Z
+SUMMARY:SCHC D1 - Rotterdam D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Sportpark Kees Boekelaan (SCHC)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270321-hgc-d1-rotterdam-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J14 | ✈️ | HGC D1 🇳🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Rogg
+ ewoning (HGC)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270321-hgc-d1-rotterdam-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270321T114500Z
+DTEND:20270321T133000Z
+SUMMARY:HGC D1 - Rotterdam D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Roggewoning (HGC)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270404-oranje-rood-d1-rotterdam-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J15 | ✈️ | Oranje-Rood D1 🇳
+ 🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Genn
+ eper Parken (Oranje-Rood)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270404-oranje-rood-d1-rotterdam-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270404T104500Z
+DTEND:20270404T123000Z
+SUMMARY:Oranje-Rood D1 - Rotterdam D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Genneper Parken (Oranje-Rood)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270411-kampong-d1-rotterdam-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J16 | ✈️ | Kampong D1 🇳🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Laan
+  van Maarschalkerweerd (Kampong)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270411-kampong-d1-rotterdam-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270411T104500Z
+DTEND:20270411T123000Z
+SUMMARY:Kampong D1 - Rotterdam D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Laan van Maarschalkerweerd (Kampong)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270415-rotterdam-d1-hurley-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J17 | 🏟️ | Hurley D1 🇳🇱
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Spor
+ tpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270415-rotterdam-d1-hurley-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270415T183000Z
+DTEND:20270415T201500Z
+SUMMARY:Rotterdam D1 - Hurley D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Sportpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270418-pinoke-d1-rotterdam-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J18 | ✈️ | Pinoké D1 🇳🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Amst
+ erdamse Bos (Pinoké)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270418-pinoke-d1-rotterdam-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270418T104500Z
+DTEND:20270418T123000Z
+SUMMARY:Pinoké D1 - Rotterdam D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Amsterdamse Bos (Pinoké)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270425-rotterdam-d1-den-bosch-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J19 | 🏟️ | Den Bosch D1 🇳
+ 🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Spor
+ tpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270425-rotterdam-d1-den-bosch-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270425T104500Z
+DTEND:20270425T123000Z
+SUMMARY:Rotterdam D1 - Den Bosch D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Sportpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270429-hdm-d1-rotterdam-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J20 | ✈️ | HDM D1 🇳🇱
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Spor
+ tcomplex Groenendaal
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270429-hdm-d1-rotterdam-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270429T183000Z
+DTEND:20270429T201500Z
+SUMMARY:HDM D1 - Rotterdam D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Sportcomplex Groenendaal
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270502-rotterdam-d1-bloemendaal-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J21 | 🏟️ | Bloemendaal D1 🇳
+ 🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Spor
+ tpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270502-rotterdam-d1-bloemendaal-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270502T104500Z
+DTEND:20270502T123000Z
+SUMMARY:Rotterdam D1 - Bloemendaal D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Sportpark Hazelaarweg (Rotterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270509-amsterdam-d1-rotterdam-d1-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:ROTTERDAM D1 | Hoofdklasse F | J22 | ✈️ | Amsterdam D1 🇳🇱
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Hoofdklasse Women\nEstadi: Amst
+ erdamse Bos (Amsterdam)
+END:VEVENT
+BEGIN:VEVENT
+UID:hoofdklassef-20270509-amsterdam-d1-rotterdam-d1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20270509T104500Z
+DTEND:20270509T123000Z
+SUMMARY:Amsterdam D1 - Rotterdam D1
+DESCRIPTION:Hoofdklasse Women
+LOCATION:Amsterdamse Bos (Amsterdam)
+END:VEVENT
+END:VCALENDAR

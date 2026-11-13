@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oregon State Beavers · NCAA MS
+BEGIN:VEVENT
+UID:ncaasoccerm-20261115-oregon-state-beavers-san-diego-state-aztecs-dia@sp
+ ortcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:OREGON STATE BEAVERS | NCAA MS | J1 | 🏟️ | San Diego State Azt
+ ecs 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Men Soccer\nEst
+ adi: Paul Lorenz Field\, Corvallis
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261115-oregon-state-beavers-san-diego-state-aztecs@sportc
+ al
+DTSTAMP:20261113T123057Z
+DTSTART:20261115T020000Z
+DTEND:20261115T034500Z
+SUMMARY:Oregon State Beavers - San Diego State Aztecs
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Paul Lorenz Field\, Corvallis
+END:VEVENT
+END:VCALENDAR

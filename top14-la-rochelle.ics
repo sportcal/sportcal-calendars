@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:La Rochelle · Top 14
+BEGIN:VEVENT
+UID:top14-20261128-la-rochelle-perpignan-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:LA ROCHELLE | Top 14 | J1 | 🏟️ | Perpignan 🇫🇷
+DESCRIPTION:Inici: 16:35 (Europe/Madrid) · Top 14\nEstadi: Stade Marcel-De
+ flandre\, La Rochelle\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261128-la-rochelle-perpignan@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261128T153500Z
+DTEND:20261128T172000Z
+SUMMARY:La Rochelle - Perpignan
+DESCRIPTION:Top 14
+LOCATION:Stade Marcel-Deflandre\, La Rochelle\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-montpellier-la-rochelle-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:LA ROCHELLE | Top 14 | J2 | ✈️ | Montpellier 🇫🇷
+DESCRIPTION:Inici: 16:35 (Europe/Madrid) · Top 14\nEstadi: Septeo Stadium\
+ , Montpellier\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-montpellier-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261205T153500Z
+DTEND:20261205T172000Z
+SUMMARY:Montpellier - La Rochelle
+DESCRIPTION:Top 14
+LOCATION:Septeo Stadium\, Montpellier\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-la-rochelle-castres-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:LA ROCHELLE | Top 14 | J3 | 🏟️ | Castres 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-la-rochelle-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:La Rochelle - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-vannes-la-rochelle-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:LA ROCHELLE | Top 14 | J4 | ✈️ | Vannes 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-vannes-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Vannes - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-la-rochelle-pau-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:LA ROCHELLE | Top 14 | J5 | 🏟️ | Pau 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-la-rochelle-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:La Rochelle - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-toulouse-la-rochelle-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:LA ROCHELLE | Top 14 | J6 | ✈️ | Toulouse 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-toulouse-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Toulouse - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-la-rochelle-toulon-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:LA ROCHELLE | Top 14 | J7 | 🏟️ | Toulon 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-la-rochelle-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:La Rochelle - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-bayonne-la-rochelle-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:LA ROCHELLE | Top 14 | J8 | ✈️ | Bayonne 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-bayonne-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Bayonne - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-la-rochelle-stade-francais-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:LA ROCHELLE | Top 14 | J9 | 🏟️ | Stade Français 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-la-rochelle-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:La Rochelle - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-castres-la-rochelle-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:LA ROCHELLE | Top 14 | J10 | ✈️ | Castres 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-castres-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Castres - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-perpignan-la-rochelle-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:LA ROCHELLE | Top 14 | J11 | ✈️ | Perpignan 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-perpignan-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Perpignan - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-la-rochelle-vannes-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:LA ROCHELLE | Top 14 | J12 | 🏟️ | Vannes 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-la-rochelle-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:La Rochelle - Vannes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-bordeaux-begles-la-rochelle-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:LA ROCHELLE | Top 14 | J13 | ✈️ | Bordeaux Bègles 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-bordeaux-begles-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Bordeaux Bègles - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-racing-92-la-rochelle-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:LA ROCHELLE | Top 14 | J14 | ✈️ | Racing 92 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-racing-92-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Racing 92 - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-la-rochelle-lyon-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:LA ROCHELLE | Top 14 | J15 | 🏟️ | Lyon 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-la-rochelle-lyon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:La Rochelle - Lyon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-clermont-la-rochelle-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:LA ROCHELLE | Top 14 | J16 | ✈️ | Clermont 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-clermont-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Clermont - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-la-rochelle-montpellier-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:LA ROCHELLE | Top 14 | J17 | 🏟️ | Montpellier 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-la-rochelle-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:La Rochelle - Montpellier · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+END:VCALENDAR

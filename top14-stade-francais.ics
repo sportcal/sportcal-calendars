@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stade Français · Top 14
+BEGIN:VEVENT
+UID:top14-20261128-stade-francais-vannes-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:STADE FRANÇAIS | Top 14 | J1 | 🏟️ | Vannes 🇫🇷
+DESCRIPTION:Inici: 16:35 (Europe/Madrid) · Top 14\nEstadi: Stade Jean Boui
+ n\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261128-stade-francais-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261128T153500Z
+DTEND:20261128T172000Z
+SUMMARY:Stade Français - Vannes
+DESCRIPTION:Top 14
+LOCATION:Stade Jean Bouin\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-pau-stade-francais-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:STADE FRANÇAIS | Top 14 | J2 | ✈️ | Pau 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Top 14\nEstadi: Stade du Hameau
+ \, Pau\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-pau-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261205T200000Z
+DTEND:20261205T214500Z
+SUMMARY:Pau - Stade Français
+DESCRIPTION:Top 14
+LOCATION:Stade du Hameau\, Pau\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-stade-francais-toulouse-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:STADE FRANÇAIS | Top 14 | J3 | 🏟️ | Toulouse 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Top 14\nEstadi: Stade de France
+ \, Saint-Denis\, Reunion
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-stade-francais-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261219T200000Z
+DTEND:20261219T214500Z
+SUMMARY:Stade Français - Toulouse
+DESCRIPTION:Top 14
+LOCATION:Stade de France\, Saint-Denis\, Reunion
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-racing-92-stade-francais-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:STADE FRANÇAIS | Top 14 | J4 | ✈️ | Racing 92 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-racing-92-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Racing 92 - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-stade-francais-castres-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:STADE FRANÇAIS | Top 14 | J5 | 🏟️ | Castres 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-stade-francais-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Stade Français - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-montpellier-stade-francais-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:STADE FRANÇAIS | Top 14 | J6 | ✈️ | Montpellier 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-montpellier-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Montpellier - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-perpignan-stade-francais-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:STADE FRANÇAIS | Top 14 | J7 | ✈️ | Perpignan 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-perpignan-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Perpignan - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-stade-francais-bordeaux-begles-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:STADE FRANÇAIS | Top 14 | J8 | 🏟️ | Bordeaux Bègles 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-stade-francais-bordeaux-begles@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Stade Français - Bordeaux Bègles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-la-rochelle-stade-francais-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:STADE FRANÇAIS | Top 14 | J9 | ✈️ | La Rochelle 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-la-rochelle-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:La Rochelle - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-stade-francais-pau-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:STADE FRANÇAIS | Top 14 | J10 | 🏟️ | Pau 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-stade-francais-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Stade Français - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-vannes-stade-francais-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:STADE FRANÇAIS | Top 14 | J11 | ✈️ | Vannes 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-vannes-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Vannes - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-stade-francais-clermont-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:STADE FRANÇAIS | Top 14 | J12 | 🏟️ | Clermont 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-stade-francais-clermont@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Stade Français - Clermont · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-stade-francais-racing-92-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:STADE FRANÇAIS | Top 14 | J13 | 🏟️ | Racing 92 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-stade-francais-racing-92@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Stade Français - Racing 92 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-lyon-stade-francais-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:STADE FRANÇAIS | Top 14 | J14 | ✈️ | Lyon 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-lyon-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Lyon - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-stade-francais-toulon-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:STADE FRANÇAIS | Top 14 | J15 | 🏟️ | Toulon 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-stade-francais-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Stade Français - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-toulouse-stade-francais-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:STADE FRANÇAIS | Top 14 | J16 | ✈️ | Toulouse 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-toulouse-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Toulouse - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-stade-francais-bayonne-dia@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:STADE FRANÇAIS | Top 14 | J17 | 🏟️ | Bayonne 🇫🇷
+DESCRIPTION:Hora pendent de confirmació · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-stade-francais-bayonne@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Stade Français - Bayonne · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+END:VCALENDAR

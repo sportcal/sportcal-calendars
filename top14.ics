@@ -1,0 +1,1264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Top 14
+BEGIN:VEVENT
+UID:top14-dia-20261128-j1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:TOP 14 | J1
+DESCRIPTION:14:30 Bordeaux Bègles - Montpellier\n16:35 Bayonne - Castres\n
+ 16:35 La Rochelle - Perpignan\n16:35 Racing 92 - Pau\n16:35 Stade Françai
+ s - Vannes\n21:00 Lyon - Toulouse
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20261129-j1@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:TOP 14 | J1
+DESCRIPTION:21:05 Clermont - Toulon
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20261205-j2@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:TOP 14 | J2
+DESCRIPTION:14:30 Toulouse - Racing 92\n16:35 Castres - Lyon\n16:35 Montpel
+ lier - La Rochelle\n16:35 Perpignan - Clermont\n16:35 Vannes - Bayonne\n21
+ :00 Pau - Stade Français
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20261206-j2@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:TOP 14 | J2
+DESCRIPTION:21:05 Toulon - Bordeaux Bègles
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20261219-j3@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:TOP 14 | J3
+DESCRIPTION:TBD Bayonne - Perpignan\nTBD Bordeaux Bègles - Pau\nTBD Clermo
+ nt - Montpellier\nTBD La Rochelle - Castres\nTBD Lyon - Toulon\nTBD Racing
+  92 - Vannes\n21:00 Stade Français - Toulouse
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20261226-j4@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:TOP 14 | J4
+DESCRIPTION:TBD Castres - Bordeaux Bègles\nTBD Montpellier - Bayonne\nTBD 
+ Pau - Clermont\nTBD Perpignan - Lyon\nTBD Racing 92 - Stade Français\nTBD
+  Toulouse - Toulon\nTBD Vannes - La Rochelle
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270102-j5@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:TOP 14 | J5
+DESCRIPTION:TBD Bayonne - Toulouse\nTBD Bordeaux Bègles - Perpignan\nTBD C
+ lermont - Vannes\nTBD La Rochelle - Pau\nTBD Lyon - Racing 92\nTBD Stade F
+ rançais - Castres\nTBD Toulon - Montpellier
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270123-j6@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:TOP 14 | J6
+DESCRIPTION:TBD Castres - Clermont\nTBD Montpellier - Stade Français\nTBD 
+ Pau - Lyon\nTBD Racing 92 - Bordeaux Bègles\nTBD Toulouse - La Rochelle\n
+ TBD Toulon - Bayonne\nTBD Vannes - Perpignan
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270130-j7@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:TOP 14 | J7
+DESCRIPTION:TBD Bordeaux Bègles - Vannes\nTBD Clermont - Toulouse\nTBD La 
+ Rochelle - Toulon\nTBD Lyon - Bayonne\nTBD Pau - Montpellier\nTBD Perpigna
+ n - Stade Français\nTBD Racing 92 - Castres
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270220-j8@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:TOP 14 | J8
+DESCRIPTION:TBD Bayonne - La Rochelle\nTBD Montpellier - Racing 92\nTBD Per
+ pignan - Pau\nTBD Stade Français - Bordeaux Bègles\nTBD Toulouse - Lyon\
+ nTBD Toulon - Clermont\nTBD Vannes - Castres
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270227-j9@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:TOP 14 | J9
+DESCRIPTION:TBD Bordeaux Bègles - Toulon\nTBD Castres - Perpignan\nTBD Cle
+ rmont - Bayonne\nTBD La Rochelle - Stade Français\nTBD Lyon - Montpellier
+ \nTBD Pau - Vannes\nTBD Racing 92 - Toulouse
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270320-j10@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:TOP 14 | J10
+DESCRIPTION:TBD Bayonne - Bordeaux Bègles\nTBD Castres - La Rochelle\nTBD 
+ Montpellier - Clermont\nTBD Perpignan - Racing 92\nTBD Stade Français - P
+ au\nTBD Toulouse - Vannes\nTBD Toulon - Lyon
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270327-j11@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:TOP 14 | J11
+DESCRIPTION:TBD Bayonne - Montpellier\nTBD Bordeaux Bègles - Toulouse\nTBD
+  Clermont - Pau\nTBD Lyon - Castres\nTBD Perpignan - La Rochelle\nTBD Raci
+ ng 92 - Toulon\nTBD Vannes - Stade Français
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270417-j12@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:TOP 14 | J12
+DESCRIPTION:TBD Castres - Bayonne\nTBD La Rochelle - Vannes\nTBD Lyon - Per
+ pignan\nTBD Montpellier - Bordeaux Bègles\nTBD Pau - Racing 92\nTBD Stade
+  Français - Clermont\nTBD Toulon - Toulouse
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270424-j13@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:TOP 14 | J13
+DESCRIPTION:TBD Bayonne - Pau\nTBD Bordeaux Bègles - La Rochelle\nTBD Cler
+ mont - Lyon\nTBD Perpignan - Montpellier\nTBD Stade Français - Racing 92\
+ nTBD Toulouse - Castres\nTBD Vannes - Toulon
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270508-j14@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:TOP 14 | J14
+DESCRIPTION:TBD Bayonne - Vannes\nTBD Clermont - Perpignan\nTBD Lyon - Stad
+ e Français\nTBD Montpellier - Toulouse\nTBD Pau - Bordeaux Bègles\nTBD R
+ acing 92 - La Rochelle\nTBD Toulon - Castres
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270515-j15@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:TOP 14 | J15
+DESCRIPTION:TBD Bordeaux Bègles - Clermont\nTBD Castres - Montpellier\nTBD
+  La Rochelle - Lyon\nTBD Perpignan - Bayonne\nTBD Stade Français - Toulon
+ \nTBD Toulouse - Pau\nTBD Vannes - Racing 92
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270529-j16@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:TOP 14 | J16
+DESCRIPTION:TBD Bayonne - Racing 92\nTBD Castres - Pau\nTBD Clermont - La R
+ ochelle\nTBD Lyon - Bordeaux Bègles\nTBD Montpellier - Vannes\nTBD Toulou
+ se - Stade Français\nTBD Toulon - Perpignan
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-dia-20270605-j17@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:TOP 14 | J17
+DESCRIPTION:TBD Bordeaux Bègles - Castres\nTBD La Rochelle - Montpellier\n
+ TBD Pau - Toulon\nTBD Perpignan - Toulouse\nTBD Racing 92 - Clermont\nTBD 
+ Stade Français - Bayonne\nTBD Vannes - Lyon
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261128-bordeaux-begles-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261128T133000Z
+DTEND:20261128T151500Z
+SUMMARY:Bordeaux Bègles - Montpellier
+DESCRIPTION:Top 14
+LOCATION:Stade Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261128-bayonne-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261128T153500Z
+DTEND:20261128T172000Z
+SUMMARY:Bayonne - Castres
+DESCRIPTION:Top 14
+LOCATION:Stade Jean Dauger\, Bayonne\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261128-la-rochelle-perpignan@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261128T153500Z
+DTEND:20261128T172000Z
+SUMMARY:La Rochelle - Perpignan
+DESCRIPTION:Top 14
+LOCATION:Stade Marcel-Deflandre\, La Rochelle\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261128-racing-92-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261128T153500Z
+DTEND:20261128T172000Z
+SUMMARY:Racing 92 - Pau
+DESCRIPTION:Top 14
+LOCATION:Paris La Defense Arena\, Nanterre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261128-stade-francais-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261128T153500Z
+DTEND:20261128T172000Z
+SUMMARY:Stade Français - Vannes
+DESCRIPTION:Top 14
+LOCATION:Stade Jean Bouin\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261128-lyon-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261128T200000Z
+DTEND:20261128T214500Z
+SUMMARY:Lyon - Toulouse
+DESCRIPTION:Top 14
+LOCATION:Matmut Stadium de Gerland\, Lyon\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261129-clermont-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261129T200500Z
+DTEND:20261129T215000Z
+SUMMARY:Clermont - Toulon
+DESCRIPTION:Top 14
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-toulouse-racing-92@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261205T133000Z
+DTEND:20261205T151500Z
+SUMMARY:Toulouse - Racing 92
+DESCRIPTION:Top 14
+LOCATION:Stade Ernest-Wallon\, Toulouse\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-castres-lyon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261205T153500Z
+DTEND:20261205T172000Z
+SUMMARY:Castres - Lyon
+DESCRIPTION:Top 14
+LOCATION:Stade Pierre Fabre\, Castres\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-montpellier-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261205T153500Z
+DTEND:20261205T172000Z
+SUMMARY:Montpellier - La Rochelle
+DESCRIPTION:Top 14
+LOCATION:Septeo Stadium\, Montpellier\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-perpignan-clermont@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261205T153500Z
+DTEND:20261205T172000Z
+SUMMARY:Perpignan - Clermont
+DESCRIPTION:Top 14
+LOCATION:Stade Aime Giral\, Perpignan\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-vannes-bayonne@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261205T153500Z
+DTEND:20261205T172000Z
+SUMMARY:Vannes - Bayonne
+DESCRIPTION:Top 14
+LOCATION:Stade de la Rabine\, Vannes\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261205-pau-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261205T200000Z
+DTEND:20261205T214500Z
+SUMMARY:Pau - Stade Français
+DESCRIPTION:Top 14
+LOCATION:Stade du Hameau\, Pau\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261206-toulon-bordeaux-begles@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261206T200500Z
+DTEND:20261206T215000Z
+SUMMARY:Toulon - Bordeaux Bègles
+DESCRIPTION:Top 14
+LOCATION:Stade Mayol\, Toulon\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-bayonne-perpignan@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Bayonne - Perpignan · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-bordeaux-begles-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Bordeaux Bègles - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-clermont-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Clermont - Montpellier · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-la-rochelle-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:La Rochelle - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-lyon-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Lyon - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-racing-92-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Racing 92 - Vannes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261219-stade-francais-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART:20261219T200000Z
+DTEND:20261219T214500Z
+SUMMARY:Stade Français - Toulouse
+DESCRIPTION:Top 14
+LOCATION:Stade de France\, Saint-Denis\, Reunion
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-castres-bordeaux-begles@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Castres - Bordeaux Bègles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-montpellier-bayonne@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Montpellier - Bayonne · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-pau-clermont@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Pau - Clermont · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-perpignan-lyon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Perpignan - Lyon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-racing-92-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Racing 92 - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-toulouse-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Toulouse - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20261226-vannes-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Vannes - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-bayonne-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Bayonne - Toulouse · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-bordeaux-begles-perpignan@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Bordeaux Bègles - Perpignan · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-clermont-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Clermont - Vannes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-la-rochelle-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:La Rochelle - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-lyon-racing-92@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Lyon - Racing 92 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-stade-francais-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Stade Français - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270102-toulon-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Toulon - Montpellier · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-castres-clermont@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Castres - Clermont · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-montpellier-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Montpellier - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-pau-lyon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Pau - Lyon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-racing-92-bordeaux-begles@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Racing 92 - Bordeaux Bègles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-toulouse-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Toulouse - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-toulon-bayonne@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Toulon - Bayonne · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270123-vannes-perpignan@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Vannes - Perpignan · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-bordeaux-begles-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Bordeaux Bègles - Vannes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-clermont-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Clermont - Toulouse · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-la-rochelle-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:La Rochelle - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-lyon-bayonne@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Lyon - Bayonne · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-pau-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Pau - Montpellier · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-perpignan-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Perpignan - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270130-racing-92-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Racing 92 - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-bayonne-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Bayonne - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-montpellier-racing-92@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Montpellier - Racing 92 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-perpignan-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Perpignan - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-stade-francais-bordeaux-begles@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Stade Français - Bordeaux Bègles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-toulouse-lyon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Toulouse - Lyon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-toulon-clermont@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Toulon - Clermont · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270220-vannes-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Vannes - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-bordeaux-begles-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Bordeaux Bègles - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-castres-perpignan@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Castres - Perpignan · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-clermont-bayonne@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Clermont - Bayonne · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-la-rochelle-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:La Rochelle - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-lyon-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Lyon - Montpellier · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-pau-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Pau - Vannes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270227-racing-92-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Racing 92 - Toulouse · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-bayonne-bordeaux-begles@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Bayonne - Bordeaux Bègles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-castres-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Castres - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-montpellier-clermont@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Montpellier - Clermont · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-perpignan-racing-92@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Perpignan - Racing 92 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-stade-francais-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Stade Français - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-toulouse-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Toulouse - Vannes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270320-toulon-lyon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Toulon - Lyon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-bayonne-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Bayonne - Montpellier · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-bordeaux-begles-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Bordeaux Bègles - Toulouse · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-clermont-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Clermont - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-lyon-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Lyon - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-perpignan-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Perpignan - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-racing-92-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Racing 92 - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270327-vannes-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Vannes - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-castres-bayonne@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Castres - Bayonne · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-la-rochelle-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:La Rochelle - Vannes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-lyon-perpignan@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Lyon - Perpignan · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-montpellier-bordeaux-begles@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Montpellier - Bordeaux Bègles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-pau-racing-92@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Pau - Racing 92 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-stade-francais-clermont@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Stade Français - Clermont · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270417-toulon-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Toulon - Toulouse · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-bayonne-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Bayonne - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-bordeaux-begles-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Bordeaux Bègles - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-clermont-lyon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Clermont - Lyon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-perpignan-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Perpignan - Montpellier · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-stade-francais-racing-92@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Stade Français - Racing 92 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-toulouse-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Toulouse - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270424-vannes-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Vannes - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-bayonne-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Bayonne - Vannes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-clermont-perpignan@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Clermont - Perpignan · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-lyon-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Lyon - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-montpellier-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Montpellier - Toulouse · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-pau-bordeaux-begles@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Pau - Bordeaux Bègles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-racing-92-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Racing 92 - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270508-toulon-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Toulon - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-bordeaux-begles-clermont@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Bordeaux Bègles - Clermont · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-castres-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Castres - Montpellier · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-la-rochelle-lyon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:La Rochelle - Lyon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-perpignan-bayonne@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Perpignan - Bayonne · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-stade-francais-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Stade Français - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-toulouse-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Toulouse - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270515-vannes-racing-92@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Vannes - Racing 92 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-bayonne-racing-92@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Bayonne - Racing 92 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-castres-pau@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Castres - Pau · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-clermont-la-rochelle@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Clermont - La Rochelle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-lyon-bordeaux-begles@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Lyon - Bordeaux Bègles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-montpellier-vannes@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Montpellier - Vannes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-toulouse-stade-francais@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Toulouse - Stade Français · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270529-toulon-perpignan@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Toulon - Perpignan · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-bordeaux-begles-castres@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Bordeaux Bègles - Castres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-la-rochelle-montpellier@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:La Rochelle - Montpellier · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-pau-toulon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Pau - Toulon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-perpignan-toulouse@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Perpignan - Toulouse · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-racing-92-clermont@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Racing 92 - Clermont · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-stade-francais-bayonne@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Stade Français - Bayonne · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-20270605-vannes-lyon@sportcal
+DTSTAMP:20261113T123057Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Vannes - Lyon · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Top 14
+END:VEVENT
+END:VCALENDAR
