@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ZVV Eindhoven · Eredivisie Futsal
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261113-zvv-eindhoven-rkav-volendam-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ZVV EINDHOVEN | Eredivisie Futsal | J10 | 🏟️ | RKAV Volendam 
+ 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261113-zvv-eindhoven-rkav-volendam@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ZVV Eindhoven - RKAV Volendam · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261120-fck-de-hommel-zvv-eindhoven-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:ZVV EINDHOVEN | Eredivisie Futsal | J11 | ✈️ | FCK/De Hommel 
+ 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261120-fck-de-hommel-zvv-eindhoven@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:FCK/De Hommel - ZVV Eindhoven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261204-zvv-eindhoven-be-79-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:ZVV EINDHOVEN | Eredivisie Futsal | J12 | 🏟️ | Be '79 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261204-zvv-eindhoven-be-79@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:ZVV Eindhoven - Be '79 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261211-tigers-roermond-zvv-eindhoven-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:ZVV EINDHOVEN | Eredivisie Futsal | J13 | ✈️ | Tigers Roermond 
+ 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261211-tigers-roermond-zvv-eindhoven@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Tigers Roermond - ZVV Eindhoven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+END:VCALENDAR

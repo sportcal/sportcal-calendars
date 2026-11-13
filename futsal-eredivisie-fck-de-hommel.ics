@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FCK/De Hommel · Eredivisie Futsal
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261113-fck-de-hommel-futsal-gorinchem-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:FCK/DE HOMMEL | Eredivisie Futsal | J10 | 🏟️ | Futsal Gorinche
+ m 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261113-fck-de-hommel-futsal-gorinchem@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:FCK/De Hommel - Futsal Gorinchem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261120-fck-de-hommel-zvv-eindhoven-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:FCK/DE HOMMEL | Eredivisie Futsal | J11 | 🏟️ | ZVV Eindhoven 
+ 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261120-fck-de-hommel-zvv-eindhoven@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:FCK/De Hommel - ZVV Eindhoven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261204-fck-de-hommel-hzv-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:FCK/DE HOMMEL | Eredivisie Futsal | J12 | 🏟️ | HZV 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261204-fck-de-hommel-hzv@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:FCK/De Hommel - HZV · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261211-be-79-fck-de-hommel-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:FCK/DE HOMMEL | Eredivisie Futsal | J13 | ✈️ | Be '79 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261211-be-79-fck-de-hommel@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Be '79 - FCK/De Hommel · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Futsal Amsterdam · Eredivisie Futsal
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261113-futsal-amsterdam-fc-eindhoven-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:FUTSAL AMSTERDAM | Eredivisie Futsal | J10 | 🏟️ | FC Eindhoven
+  🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261113-futsal-amsterdam-fc-eindhoven@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Futsal Amsterdam - FC Eindhoven · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261120-futsal-amsterdam-futsal-gorinchem-dia@sportc
+ al
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:FUTSAL AMSTERDAM | Eredivisie Futsal | J11 | 🏟️ | Futsal Gorin
+ chem 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261120-futsal-amsterdam-futsal-gorinchem@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Futsal Amsterdam - Futsal Gorinchem · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261204-groene-ster-vlissingen-futsal-amsterdam-dia@
+ sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:FUTSAL AMSTERDAM | Eredivisie Futsal | J12 | ✈️ | Groene Ster V
+ lissingen 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261204-groene-ster-vlissingen-futsal-amsterdam@spor
+ tcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Groene Ster Vlissingen - Futsal Amsterdam · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261211-futsal-amsterdam-rkav-volendam-dia@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:FUTSAL AMSTERDAM | Eredivisie Futsal | J13 | 🏟️ | RKAV Volenda
+ m 🇳🇱
+DESCRIPTION:Hora pendent de confirmació · Eredivisie (Futsal)
+END:VEVENT
+BEGIN:VEVENT
+UID:futsal-eredivisie-20261211-futsal-amsterdam-rkav-volendam@sportcal
+DTSTAMP:20261113T143027Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Futsal Amsterdam - RKAV Volendam · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Eredivisie (Futsal)
+END:VEVENT
+END:VCALENDAR
