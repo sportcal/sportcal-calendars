@@ -1,0 +1,710 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NASCAR Cup Series
+BEGIN:VEVENT
+UID:cupseries-20270213-wheatley-vodka-clash-non-points-exhibition-dia@sport
+ cal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:NASCAR | Wheatley Vodka Clash (non-points exhibition)
+DESCRIPTION:Wheatley Vodka Clash (non-points exhibition)\nDaytona Internati
+ onal Speedway\, Daytona Beach · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270213-wheatley-vodka-clash-non-points-exhibition@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Wheatley Vodka Clash (non-points exhibition) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270218-the-duel-at-daytona-non-points-qualifying-races-dia@
+ sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:NASCAR | The Duel at Daytona (non-points qualifying races)
+DESCRIPTION:The Duel at Daytona (non-points qualifying races)\nDaytona Inte
+ rnational Speedway\, Daytona Beach · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270218-the-duel-at-daytona-non-points-qualifying-races@spor
+ tcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:The Duel at Daytona (non-points qualifying races) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270221-daytona-500-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:NASCAR | Daytona 500
+DESCRIPTION:Daytona 500\nDaytona International Speedway\, Daytona Beach · 
+ NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270221-daytona-500@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Daytona 500 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270228-autotrader-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:NASCAR | Autotrader 400
+DESCRIPTION:Autotrader 400\nEchoPark Speedway\, Hampton · NASCAR Cup Serie
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270228-autotrader-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Autotrader 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270307-duramax-grand-prix-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:NASCAR | DuraMAX Grand Prix
+DESCRIPTION:DuraMAX Grand Prix\nCircuit of the Americas\, Austin · NASCAR 
+ Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270307-duramax-grand-prix@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:DuraMAX Grand Prix · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270314-straight-talk-wireless-500-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:NASCAR | Straight Talk Wireless 500
+DESCRIPTION:Straight Talk Wireless 500\nPhoenix Raceway\, Avondale · NASCA
+ R Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270314-straight-talk-wireless-500@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Straight Talk Wireless 500 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270321-pennzoil-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:NASCAR | Pennzoil 400
+DESCRIPTION:Pennzoil 400\nLas Vegas Motor Speedway\, Las Vegas · NASCAR Cu
+ p Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270321-pennzoil-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Pennzoil 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270404-goodyear-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:NASCAR | Goodyear 400
+DESCRIPTION:Goodyear 400\nDarlington Raceway\, Darlington · NASCAR Cup Ser
+ ies
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270404-goodyear-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Goodyear 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270411-food-city-500-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:NASCAR | Food City 500
+DESCRIPTION:Food City 500\nBristol Motor Speedway\, Bristol · NASCAR Cup S
+ eries
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270411-food-city-500@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Food City 500 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270418-cook-out-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:NASCAR | Cook Out 400
+DESCRIPTION:Cook Out 400\nMartinsville Speedway\, Ridgeway · NASCAR Cup Se
+ ries
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270418-cook-out-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Cook Out 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270425-jack-link-s-500-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:NASCAR | Jack Link's 500
+DESCRIPTION:Jack Link's 500\nTalladega Superspeedway\, Lincoln · NASCAR Cu
+ p Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270425-jack-link-s-500@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Jack Link's 500 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270502-wurth-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:NASCAR | Würth 400
+DESCRIPTION:Würth 400\nTexas Motor Speedway\, Fort Worth · NASCAR Cup Ser
+ ies
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270502-wurth-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Würth 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270509-adventhealth-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:NASCAR | AdventHealth 400
+DESCRIPTION:AdventHealth 400\nKansas Speedway\, Kansas City · NASCAR Cup S
+ eries
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270509-adventhealth-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:AdventHealth 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270516-ecosave-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:NASCAR | Ecosave 400
+DESCRIPTION:Ecosave 400\nDover Motor Speedway\, Dover · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270516-ecosave-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Ecosave 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270523-nascar-all-star-race-non-points-exhibition-dia@sport
+ cal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:NASCAR | NASCAR All-Star Race (non-points exhibition)
+DESCRIPTION:NASCAR All-Star Race (non-points exhibition)\nNorth Wilkesboro 
+ Speedway\, North Wilkesboro · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270523-nascar-all-star-race-non-points-exhibition@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:NASCAR All-Star Race (non-points exhibition) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270530-coca-cola-600-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:NASCAR | Coca-Cola 600
+DESCRIPTION:Coca-Cola 600\nCharlotte Motor Speedway\, Concord · NASCAR Cup
+  Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270530-coca-cola-600@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Coca-Cola 600 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270606-cracker-barrel-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:NASCAR | Cracker Barrel 400
+DESCRIPTION:Cracker Barrel 400\nNashville Superspeedway\, Lebanon · NASCAR
+  Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270606-cracker-barrel-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Cracker Barrel 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270613-the-great-american-getaway-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:NASCAR | The Great American Getaway 400
+DESCRIPTION:The Great American Getaway 400\nPocono Raceway\, Blakeslee · N
+ ASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270613-the-great-american-getaway-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:The Great American Getaway 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270620-firekeepers-casino-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:NASCAR | FireKeepers Casino 400
+DESCRIPTION:FireKeepers Casino 400\nMichigan International Speedway\, Brook
+ lyn · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270620-firekeepers-casino-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:FireKeepers Casino 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270627-eero-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:NASCAR | eero 400
+DESCRIPTION:eero 400\nChicagoland Speedway\, Joliet · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270627-eero-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:eero 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270704-iowa-corn-350-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:NASCAR | Iowa Corn 350
+DESCRIPTION:Iowa Corn 350\nIowa Speedway\, Newton · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270704-iowa-corn-350@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Iowa Corn 350 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270711-toyota-save-mart-350-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:NASCAR | Toyota/Save Mart 350
+DESCRIPTION:Toyota/Save Mart 350\nSonoma Raceway\, Sonoma · NASCAR Cup Ser
+ ies
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270711-toyota-save-mart-350@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Toyota/Save Mart 350 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270718-dollar-tree-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:NASCAR | Dollar Tree 400
+DESCRIPTION:Dollar Tree 400\nEchoPark Speedway\, Hampton · NASCAR Cup Seri
+ es
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270718-dollar-tree-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Dollar Tree 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270725-brickyard-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:NASCAR | Brickyard 400
+DESCRIPTION:Brickyard 400\nIndianapolis Motor Speedway\, Speedway · NASCAR
+  Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270725-brickyard-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Brickyard 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270801-anduril-250-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:NASCAR | Anduril 250
+DESCRIPTION:Anduril 250\nCoronado Street Course\, San Diego · NASCAR Cup S
+ eries
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270801-anduril-250@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Anduril 250 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270814-bass-pro-shops-night-race-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:NASCAR | Bass Pro Shops Night Race
+DESCRIPTION:Bass Pro Shops Night Race\nBristol Motor Speedway\, Bristol · 
+ NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270814-bass-pro-shops-night-race@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Bass Pro Shops Night Race · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270822-enjoy-illinois-300-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:NASCAR | Enjoy Illinois 300
+DESCRIPTION:Enjoy Illinois 300\nWorld Wide Technology Raceway\, Madison · 
+ NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270822-enjoy-illinois-300@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Enjoy Illinois 300 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270828-coke-zero-sugar-400-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:NASCAR | Coke Zero Sugar 400
+DESCRIPTION:Coke Zero Sugar 400\nDaytona International Speedway\, Daytona B
+ each · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270828-coke-zero-sugar-400@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Coke Zero Sugar 400 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270905-cook-out-southern-500-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:NASCAR | Cook Out Southern 500
+DESCRIPTION:Cook Out Southern 500\nDarlington Raceway\, Darlington · NASCA
+ R Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270905-cook-out-southern-500@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Cook Out Southern 500 · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270911-cook-out-400-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:NASCAR | Cook Out 400 (Chase)
+DESCRIPTION:Cook Out 400 (Chase)\nRichmond Raceway\, Richmond · NASCAR Cup
+  Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270911-cook-out-400-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Cook Out 400 (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270919-go-bowling-at-the-glen-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:NASCAR | Go Bowling at The Glen (Chase)
+DESCRIPTION:Go Bowling at The Glen (Chase)\nWatkins Glen International\, Wa
+ tkins Glen · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270919-go-bowling-at-the-glen-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Go Bowling at The Glen (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270926-dollar-tree-301-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:NASCAR | Dollar Tree 301 (Chase)
+DESCRIPTION:Dollar Tree 301 (Chase)\nNew Hampshire Motor Speedway\, Loudon 
+ · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20270926-dollar-tree-301-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Dollar Tree 301 (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271003-hollywood-casino-400-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:NASCAR | Hollywood Casino 400 (Chase)
+DESCRIPTION:Hollywood Casino 400 (Chase)\nKansas Speedway\, Kansas City · 
+ NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271003-hollywood-casino-400-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:Hollywood Casino 400 (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271010-south-point-400-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:NASCAR | South Point 400 (Chase)
+DESCRIPTION:South Point 400 (Chase)\nLas Vegas Motor Speedway\, Las Vegas 
+ · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271010-south-point-400-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:South Point 400 (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271017-bank-of-america-400-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:NASCAR | Bank of America 400 (Chase)
+DESCRIPTION:Bank of America 400 (Chase)\nCharlotte Motor Speedway\, Concord
+  · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271017-bank-of-america-400-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Bank of America 400 (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271024-freeway-insurance-500-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:NASCAR | Freeway Insurance 500 (Chase)
+DESCRIPTION:Freeway Insurance 500 (Chase)\nPhoenix Raceway\, Avondale · NA
+ SCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271024-freeway-insurance-500-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:Freeway Insurance 500 (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271031-yellawood-500-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:NASCAR | YellaWood 500 (Chase)
+DESCRIPTION:YellaWood 500 (Chase)\nTalladega Superspeedway\, Lincoln · NAS
+ CAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271031-yellawood-500-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:YellaWood 500 (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271107-xfinity-500-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:NASCAR | Xfinity 500 (Chase)
+DESCRIPTION:Xfinity 500 (Chase)\nMartinsville Speedway\, Ridgeway · NASCAR
+  Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271107-xfinity-500-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:Xfinity 500 (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271114-season-finale-400-chase-dia@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:NASCAR | Season Finale 400 (Chase)
+DESCRIPTION:Season Finale 400 (Chase)\nHomestead–Miami Speedway\, Homeste
+ ad · NASCAR Cup Series
+END:VEVENT
+BEGIN:VEVENT
+UID:cupseries-20271114-season-finale-400-chase@sportcal
+DTSTAMP:20261113T141342Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:Season Finale 400 (Chase) · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NASCAR Cup Series
+END:VEVENT
+END:VCALENDAR
