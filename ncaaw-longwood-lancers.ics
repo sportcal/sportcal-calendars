@@ -1,0 +1,486 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Longwood Lancers · NCAA W
+BEGIN:VEVENT
+UID:ncaaw-20261117-longwood-lancers-emory-henry-wasps-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:LONGWOOD LANCERS | NCAA W | J1 | 🏟️ | Emory & Henry Wasps 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261117-longwood-lancers-emory-henry-wasps@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261117T000000Z
+DTEND:20261117T014500Z
+SUMMARY:Longwood Lancers - Emory & Henry Wasps
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261120-troy-trojans-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:LONGWOOD LANCERS | NCAA W | J2 | ✈️ | Troy Trojans 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Trojan Arena\, Troy\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261120-troy-trojans-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261120T000000Z
+DTEND:20261120T014500Z
+SUMMARY:Troy Trojans - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Trojan Arena\, Troy\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261124-longwood-lancers-george-mason-patriots-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:LONGWOOD LANCERS | NCAA W | J9 | 🏟️ | George Mason Patriots 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261124-longwood-lancers-george-mason-patriots@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T190000Z
+DTEND:20261124T204500Z
+SUMMARY:Longwood Lancers - George Mason Patriots
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261128-william-mary-tribe-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:LONGWOOD LANCERS | NCAA W | J4 | ✈️ | William & Mary Tribe 🇺
+ 🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Kaplan Arena\, Williamsburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261128-william-mary-tribe-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:William & Mary Tribe - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Kaplan Arena\, Williamsburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261203-unc-greensboro-spartans-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:LONGWOOD LANCERS | NCAA W | J5 | ✈️ | UNC Greensboro Spartans 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Bodford Arena\, Greensboro\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261203-unc-greensboro-spartans-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261203T000000Z
+DTEND:20261203T014500Z
+SUMMARY:UNC Greensboro Spartans - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Bodford Arena\, Greensboro\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261205-longwood-lancers-furman-paladins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:LONGWOOD LANCERS | NCAA W | J8 | 🏟️ | Furman Paladins 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261205-longwood-lancers-furman-paladins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Longwood Lancers - Furman Paladins
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261216-south-florida-bulls-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:LONGWOOD LANCERS | NCAA W | J7 | ✈️ | South Florida Bulls 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Yuengling Center\, Tampa\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261216-south-florida-bulls-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261216T000000Z
+DTEND:20261216T014500Z
+SUMMARY:South Florida Bulls - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Yuengling Center\, Tampa\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261220-stetson-hatters-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:LONGWOOD LANCERS | NCAA W | J55 | ✈️ | Stetson Hatters 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261220-stetson-hatters-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261220T190000Z
+DTEND:20261220T204500Z
+SUMMARY:Stetson Hatters - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-bethune-cookman-wildcats-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:LONGWOOD LANCERS | NCAA W | J9 | ✈️ | Bethune-Cookman Wildcats 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-bethune-cookman-wildcats-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261221T190000Z
+DTEND:20261221T204500Z
+SUMMARY:Bethune-Cookman Wildcats - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261230-longwood-lancers-presbyterian-blue-hose-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:LONGWOOD LANCERS | NCAA W | J10 | 🏟️ | Presbyterian Blue Hose 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261230-longwood-lancers-presbyterian-blue-hose@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261230T190000Z
+DTEND:20261230T204500Z
+SUMMARY:Longwood Lancers - Presbyterian Blue Hose
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270106-longwood-lancers-gardner-webb-runnin-bulldogs-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:LONGWOOD LANCERS | NCAA W | J11 | 🏟️ | Gardner-Webb Runnin' Bu
+ lldogs 🇺🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270106-longwood-lancers-gardner-webb-runnin-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270106T160000Z
+DTEND:20270106T174500Z
+SUMMARY:Longwood Lancers - Gardner-Webb Runnin' Bulldogs
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270109-charleston-southern-buccaneers-longwood-lancers-dia@spor
+ tcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:LONGWOOD LANCERS | NCAA W | J15 | ✈️ | Charleston Southern Bucc
+ aneers 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Buccaneer Fieldhouse\, Charleston\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270109-charleston-southern-buccaneers-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Charleston Southern Buccaneers - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Buccaneer Fieldhouse\, Charleston\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270114-longwood-lancers-radford-highlanders-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:LONGWOOD LANCERS | NCAA W | J14 | 🏟️ | Radford Highlanders 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270114-longwood-lancers-radford-highlanders@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270114T000000Z
+DTEND:20270114T014500Z
+SUMMARY:Longwood Lancers - Radford Highlanders
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270116-winthrop-eagles-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:LONGWOOD LANCERS | NCAA W | J14 | ✈️ | Winthrop Eagles 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Winthrop Coliseum\, Rock Hill\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270116-winthrop-eagles-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Winthrop Eagles - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Winthrop Coliseum\, Rock Hill\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270121-high-point-panthers-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:LONGWOOD LANCERS | NCAA W | J16 | ✈️ | High Point Panthers 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Qubein Center\, High Point\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270121-high-point-panthers-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270121T000000Z
+DTEND:20270121T014500Z
+SUMMARY:High Point Panthers - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Qubein Center\, High Point\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270123-longwood-lancers-unc-asheville-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:LONGWOOD LANCERS | NCAA W | J16 | 🏟️ | UNC Asheville Bulldogs 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270123-longwood-lancers-unc-asheville-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Longwood Lancers - UNC Asheville Bulldogs
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270128-south-carolina-upstate-spartans-longwood-lancers-dia@spo
+ rtcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:LONGWOOD LANCERS | NCAA W | J19 | ✈️ | South Carolina Upstate S
+ partans 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ G.B. Hodge Center\, Spartanburg\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270128-south-carolina-upstate-spartans-longwood-lancers@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART:20270127T233000Z
+DTEND:20270128T011500Z
+SUMMARY:South Carolina Upstate Spartans - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:G.B. Hodge Center\, Spartanburg\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270130-longwood-lancers-charleston-southern-buccaneers-dia@spor
+ tcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:LONGWOOD LANCERS | NCAA W | J18 | 🏟️ | Charleston Southern Buc
+ caneers 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270130-longwood-lancers-charleston-southern-buccaneers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Longwood Lancers - Charleston Southern Buccaneers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270206-longwood-lancers-winthrop-eagles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:LONGWOOD LANCERS | NCAA W | J21 | 🏟️ | Winthrop Eagles 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270206-longwood-lancers-winthrop-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:Longwood Lancers - Winthrop Eagles
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270211-unc-asheville-bulldogs-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:LONGWOOD LANCERS | NCAA W | J21 | ✈️ | UNC Asheville Bulldogs 
+ 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Kimmel Arena\, Asheville\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270211-unc-asheville-bulldogs-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270210T233000Z
+DTEND:20270211T011500Z
+SUMMARY:UNC Asheville Bulldogs - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Kimmel Arena\, Asheville\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-presbyterian-blue-hose-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:LONGWOOD LANCERS | NCAA W | J21 | ✈️ | Presbyterian Blue Hose 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Templeton Center\, Clinton\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-presbyterian-blue-hose-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Presbyterian Blue Hose - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Templeton Center\, Clinton\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270218-longwood-lancers-south-carolina-upstate-spartans-dia@spo
+ rtcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:LONGWOOD LANCERS | NCAA W | J25 | 🏟️ | South Carolina Upstate 
+ Spartans 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270218-longwood-lancers-south-carolina-upstate-spartans@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART:20270218T000000Z
+DTEND:20270218T014500Z
+SUMMARY:Longwood Lancers - South Carolina Upstate Spartans
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270220-longwood-lancers-high-point-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:LONGWOOD LANCERS | NCAA W | J22 | 🏟️ | High Point Panthers 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270220-longwood-lancers-high-point-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Longwood Lancers - High Point Panthers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Joan Perry Brock Center\, Farmville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270225-radford-highlanders-longwood-lancers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:LONGWOOD LANCERS | NCAA W | J25 | ✈️ | Radford Highlanders 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ The Dedmon Center\, Radford\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270225-radford-highlanders-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270225T000000Z
+DTEND:20270225T014500Z
+SUMMARY:Radford Highlanders - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:The Dedmon Center\, Radford\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-gardner-webb-runnin-bulldogs-longwood-lancers-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:LONGWOOD LANCERS | NCAA W | J27 | ✈️ | Gardner-Webb Runnin' Bul
+ ldogs 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Paul Porter Arena\, Boiling Springs\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-gardner-webb-runnin-bulldogs-longwood-lancers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Gardner-Webb Runnin' Bulldogs - Longwood Lancers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Paul Porter Arena\, Boiling Springs\, NC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,556 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cincinnati Bearcats · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261115-dayton-flyers-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:CINCINNATI BEARCATS | NCAA | J1 | ✈️ | Dayton Flyers 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: UD Are
+ na\, Dayton\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261115-dayton-flyers-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261115T003000Z
+DTEND:20261115T021500Z
+SUMMARY:Dayton Flyers - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:UD Arena\, Dayton\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-cincinnati-bearcats-youngstown-state-penguins-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:CINCINNATI BEARCATS | NCAA | J2 | 🏟️ | Youngstown State Pengui
+ ns 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-cincinnati-bearcats-youngstown-state-penguins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T003000Z
+DTEND:20261119T021500Z
+SUMMARY:Cincinnati Bearcats - Youngstown State Penguins
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261122-cincinnati-bearcats-umass-lowell-river-hawks-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:CINCINNATI BEARCATS | NCAA | J25 | 🏟️ | UMass Lowell River Haw
+ ks 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261122-cincinnati-bearcats-umass-lowell-river-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261122T190000Z
+DTEND:20261122T204500Z
+SUMMARY:Cincinnati Bearcats - UMass Lowell River Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261126-cincinnati-bearcats-georgia-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:CINCINNATI BEARCATS | NCAA | J4 | 🏟️ | Georgia Bulldogs 🇺
+ 🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · NCAA Division I\nEstadi: State 
+ Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261126-cincinnati-bearcats-georgia-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261126T160000Z
+DTEND:20261126T174500Z
+SUMMARY:Cincinnati Bearcats - Georgia Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:State Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261127-boston-college-eagles-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:CINCINNATI BEARCATS | NCAA | J5 | ✈️ | Boston College Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: State 
+ Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261127-boston-college-eagles-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261127T213000Z
+DTEND:20261127T231500Z
+SUMMARY:Boston College Eagles - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:State Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-cincinnati-bearcats-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:CINCINNATI BEARCATS | NCAA | J4 | 🏟️ | Monmouth Hawks 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-cincinnati-bearcats-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261203T000000Z
+DTEND:20261203T014500Z
+SUMMARY:Cincinnati Bearcats - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-cincinnati-bearcats-xavier-musketeers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:CINCINNATI BEARCATS | NCAA | J7 | 🏟️ | Xavier Musketeers 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-cincinnati-bearcats-xavier-musketeers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261206T010000Z
+DTEND:20261206T024500Z
+SUMMARY:Cincinnati Bearcats - Xavier Musketeers
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261215-cincinnati-bearcats-stetson-hatters-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:CINCINNATI BEARCATS | NCAA | J8 | 🏟️ | Stetson Hatters 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261215-cincinnati-bearcats-stetson-hatters@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261215T000000Z
+DTEND:20261215T014500Z
+SUMMARY:Cincinnati Bearcats - Stetson Hatters
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-cincinnati-bearcats-clemson-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:CINCINNATI BEARCATS | NCAA | J9 | 🏟️ | Clemson Tigers 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Herita
+ ge Bank Center\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-cincinnati-bearcats-clemson-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261220T020000Z
+DTEND:20261220T034500Z
+SUMMARY:Cincinnati Bearcats - Clemson Tigers
+DESCRIPTION:NCAA Division I
+LOCATION:Heritage Bank Center\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-cincinnati-bearcats-marist-red-foxes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:CINCINNATI BEARCATS | NCAA | J11 | 🏟️ | Marist Red Foxes 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-cincinnati-bearcats-marist-red-foxes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261223T000000Z
+DTEND:20261223T014500Z
+SUMMARY:Cincinnati Bearcats - Marist Red Foxes
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261229-cincinnati-bearcats-bethune-cookman-wildcats-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:CINCINNATI BEARCATS | NCAA | J11 | 🏟️ | Bethune-Cookman Wildca
+ ts 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261229-cincinnati-bearcats-bethune-cookman-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261229T220000Z
+DTEND:20261229T234500Z
+SUMMARY:Cincinnati Bearcats - Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-cincinnati-bearcats-texas-tech-red-raiders-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:CINCINNATI BEARCATS | NCAA | J11 | 🏟️ | Texas Tech Red Raiders
+  🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-cincinnati-bearcats-texas-tech-red-raiders@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270102T170000Z
+DTEND:20270102T184500Z
+SUMMARY:Cincinnati Bearcats - Texas Tech Red Raiders
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-byu-cougars-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:CINCINNATI BEARCATS | NCAA | J14 | ✈️ | BYU Cougars 🇺🇸
+DESCRIPTION:Inici: 04:30 (Europe/Madrid) · NCAA Division I\nEstadi: Marrio
+ tt Center\, Provo\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-byu-cougars-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270107T033000Z
+DTEND:20270107T051500Z
+SUMMARY:BYU Cougars - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:Marriott Center\, Provo\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-utah-utes-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:CINCINNATI BEARCATS | NCAA | J14 | ✈️ | Utah Utes 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Jon M.
+  Huntsman Center\, Salt Lake City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-utah-utes-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270110T000000Z
+DTEND:20270110T014500Z
+SUMMARY:Utah Utes - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-cincinnati-bearcats-tcu-horned-frogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:CINCINNATI BEARCATS | NCAA | J15 | 🏟️ | TCU Horned Frogs 🇺
+ 🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-cincinnati-bearcats-tcu-horned-frogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270112T233000Z
+DTEND:20270113T011500Z
+SUMMARY:Cincinnati Bearcats - TCU Horned Frogs
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-west-virginia-mountaineers-cincinnati-bearcats-dia@sport
+ cal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:CINCINNATI BEARCATS | NCAA | J14 | ✈️ | West Virginia Mountaine
+ ers 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hope C
+ oliseum\, Morgantown\, WV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-west-virginia-mountaineers-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:West Virginia Mountaineers - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:Hope Coliseum\, Morgantown\, WV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270120-cincinnati-bearcats-kansas-jayhawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:CINCINNATI BEARCATS | NCAA | J15 | 🏟️ | Kansas Jayhawks 🇺
+ 🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270120-cincinnati-bearcats-kansas-jayhawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270120T013000Z
+DTEND:20270120T031500Z
+SUMMARY:Cincinnati Bearcats - Kansas Jayhawks
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-colorado-buffaloes-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:CINCINNATI BEARCATS | NCAA | J16 | ✈️ | Colorado Buffaloes 🇺
+ 🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: CU Eve
+ nts Center\, Boulder\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-colorado-buffaloes-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T200000Z
+DTEND:20270123T214500Z
+SUMMARY:Colorado Buffaloes - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:CU Events Center\, Boulder\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-cincinnati-bearcats-arizona-state-sun-devils-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:CINCINNATI BEARCATS | NCAA | J18 | 🏟️ | Arizona State Sun Devi
+ ls 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-cincinnati-bearcats-arizona-state-sun-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:Cincinnati Bearcats - Arizona State Sun Devils
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270203-cincinnati-bearcats-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:CINCINNATI BEARCATS | NCAA | J20 | 🏟️ | Arizona Wildcats 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270203-cincinnati-bearcats-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270203T000000Z
+DTEND:20270203T014500Z
+SUMMARY:Cincinnati Bearcats - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-oklahoma-state-cowboys-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:CINCINNATI BEARCATS | NCAA | J21 | ✈️ | Oklahoma State Cowboys 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Gallag
+ her-Iba Arena\, Stillwater\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-oklahoma-state-cowboys-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:Oklahoma State Cowboys - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-baylor-bears-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:CINCINNATI BEARCATS | NCAA | J23 | ✈️ | Baylor Bears 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Foster
+  Pavilion\, Waco\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-baylor-bears-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270210T020000Z
+DTEND:20270210T034500Z
+SUMMARY:Baylor Bears - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:Foster Pavilion\, Waco\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-cincinnati-bearcats-ucf-knights-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:CINCINNATI BEARCATS | NCAA | J22 | 🏟️ | UCF Knights 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-cincinnati-bearcats-ucf-knights@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Cincinnati Bearcats - UCF Knights
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-iowa-state-cyclones-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:CINCINNATI BEARCATS | NCAA | J23 | ✈️ | Iowa State Cyclones 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hilton
+  Coliseum\, Ames\, IA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-iowa-state-cyclones-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270217T010000Z
+DTEND:20270217T024500Z
+SUMMARY:Iowa State Cyclones - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:Hilton Coliseum\, Ames\, IA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-cincinnati-bearcats-kansas-state-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:CINCINNATI BEARCATS | NCAA | J25 | 🏟️ | Kansas State Wildcats 
+ 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-cincinnati-bearcats-kansas-state-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T233000Z
+DTEND:20270221T011500Z
+SUMMARY:Cincinnati Bearcats - Kansas State Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-cincinnati-bearcats-west-virginia-mountaineers-dia@sport
+ cal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:CINCINNATI BEARCATS | NCAA | J28 | 🏟️ | West Virginia Mountain
+ eers 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-cincinnati-bearcats-west-virginia-mountaineers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270224T233000Z
+DTEND:20270225T011500Z
+SUMMARY:Cincinnati Bearcats - West Virginia Mountaineers
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-texas-tech-red-raiders-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:CINCINNATI BEARCATS | NCAA | J27 | ✈️ | Texas Tech Red Raiders 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-texas-tech-red-raiders-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Texas Tech Red Raiders - Cincinnati Bearcats · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-cincinnati-bearcats-houston-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:CINCINNATI BEARCATS | NCAA | J28 | 🏟️ | Houston Cougars 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-cincinnati-bearcats-houston-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Cincinnati Bearcats - Houston Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-kansas-state-wildcats-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:CINCINNATI BEARCATS | NCAA | J29 | ✈️ | Kansas State Wildcats 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Bramla
+ ge Coliseum\, Manhattan\, KS
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-kansas-state-wildcats-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270306T220000Z
+DTEND:20270306T234500Z
+SUMMARY:Kansas State Wildcats - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:Bramlage Coliseum\, Manhattan\, KS
+END:VEVENT
+END:VCALENDAR

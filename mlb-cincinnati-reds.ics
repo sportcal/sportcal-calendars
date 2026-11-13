@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Reds · MLB
 BEGIN:VEVENT
 UID:mlb-20270331-cincinnati-reds-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:CINCINNATI REDS | MLB | J1 | 🏟️ | Pittsburgh Pirates 🇺🇸
@@ -15,7 +15,7 @@ DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-cincinnati-reds-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270330T224000Z
 DTEND:20270331T002500Z
 SUMMARY:Cincinnati Reds - Pittsburgh Pirates
@@ -24,7 +24,7 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-cincinnati-reds-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:CINCINNATI REDS | MLB | J1 | 🏟️ | Pittsburgh Pirates 🇺🇸
@@ -33,7 +33,7 @@ DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-cincinnati-reds-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270331T164000Z
 DTEND:20270331T182500Z
 SUMMARY:Cincinnati Reds - Pittsburgh Pirates
@@ -41,8 +41,59 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270401-boston-red-sox-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:CINCINNATI REDS | MLB | J3 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270401-boston-red-sox-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Boston Red Sox - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-boston-red-sox-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:CINCINNATI REDS | MLB | J4 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-boston-red-sox-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Boston Red Sox - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-boston-red-sox-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:CINCINNATI REDS | MLB | J5 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-boston-red-sox-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Boston Red Sox - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270406-new-york-mets-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:CINCINNATI REDS | MLB | J6 | ✈️ | New York Mets 🇺🇸
@@ -51,7 +102,7 @@ DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270406-new-york-mets-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270405T231000Z
 DTEND:20270406T005500Z
 SUMMARY:New York Mets - Cincinnati Reds
@@ -60,7 +111,24 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-new-york-mets-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:CINCINNATI REDS | MLB | J7 | ✈️ | New York Mets 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270407-new-york-mets-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:New York Mets - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270407-new-york-mets-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:CINCINNATI REDS | MLB | J7 | ✈️ | New York Mets 🇺🇸
@@ -69,7 +137,7 @@ DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-new-york-mets-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270406T231000Z
 DTEND:20270407T005500Z
 SUMMARY:New York Mets - Cincinnati Reds
@@ -77,17 +145,34 @@ DESCRIPTION:MLB
 LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270408-new-york-mets-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:CINCINNATI REDS | MLB | J9 | ✈️ | New York Mets 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270408-new-york-mets-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:New York Mets - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270410-cincinnati-reds-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-SUMMARY:CINCINNATI REDS | MLB | J9 | 🏟️ | Minnesota Twins 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J10 | 🏟️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-cincinnati-reds-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270409T224000Z
 DTEND:20270410T002500Z
 SUMMARY:Cincinnati Reds - Minnesota Twins
@@ -96,7 +181,7 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-cincinnati-reds-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:CINCINNATI REDS | MLB | J11 | 🏟️ | Minnesota Twins 🇺🇸
@@ -105,7 +190,7 @@ DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-cincinnati-reds-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270410T224000Z
 DTEND:20270411T002500Z
 SUMMARY:Cincinnati Reds - Minnesota Twins
@@ -114,7 +199,7 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-cincinnati-reds-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:CINCINNATI REDS | MLB | J11 | 🏟️ | Minnesota Twins 🇺🇸
@@ -123,7 +208,7 @@ DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-cincinnati-reds-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270411T174000Z
 DTEND:20270411T192500Z
 SUMMARY:Cincinnati Reds - Minnesota Twins
@@ -132,16 +217,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270414-cincinnati-reds-texas-rangers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
-SUMMARY:CINCINNATI REDS | MLB | J8 | 🏟️ | Texas Rangers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J13 | 🏟️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270414-cincinnati-reds-texas-rangers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270413T224000Z
 DTEND:20270414T002500Z
 SUMMARY:Cincinnati Reds - Texas Rangers
@@ -150,16 +235,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-cincinnati-reds-texas-rangers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:CINCINNATI REDS | MLB | J9 | 🏟️ | Texas Rangers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J14 | 🏟️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-cincinnati-reds-texas-rangers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270414T224000Z
 DTEND:20270415T002500Z
 SUMMARY:Cincinnati Reds - Texas Rangers
@@ -168,16 +253,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-cincinnati-reds-texas-rangers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:CINCINNATI REDS | MLB | J9 | 🏟️ | Texas Rangers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J14 | 🏟️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-cincinnati-reds-texas-rangers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270415T164000Z
 DTEND:20270415T182500Z
 SUMMARY:Cincinnati Reds - Texas Rangers
@@ -185,18 +270,120 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270416-pittsburgh-pirates-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:CINCINNATI REDS | MLB | J16 | ✈️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270416-pittsburgh-pirates-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Pittsburgh Pirates - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-pittsburgh-pirates-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:CINCINNATI REDS | MLB | J17 | ✈️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-pittsburgh-pirates-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Pittsburgh Pirates - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-pittsburgh-pirates-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:CINCINNATI REDS | MLB | J18 | ✈️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-pittsburgh-pirates-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Pittsburgh Pirates - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270419-miami-marlins-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:CINCINNATI REDS | MLB | J18 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270419-miami-marlins-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Miami Marlins - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270420-miami-marlins-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:CINCINNATI REDS | MLB | J19 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270420-miami-marlins-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Miami Marlins - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-miami-marlins-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:CINCINNATI REDS | MLB | J20 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-miami-marlins-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Miami Marlins - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270424-cincinnati-reds-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:CINCINNATI REDS | MLB | J16 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:CINCINNATI REDS | MLB | J22 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-cincinnati-reds-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270423T224000Z
 DTEND:20270424T002500Z
 SUMMARY:Cincinnati Reds - San Francisco Giants
@@ -205,17 +392,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-cincinnati-reds-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:CINCINNATI REDS | MLB | J17 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:CINCINNATI REDS | MLB | J23 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-cincinnati-reds-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270424T224000Z
 DTEND:20270425T002500Z
 SUMMARY:Cincinnati Reds - San Francisco Giants
@@ -224,17 +411,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-cincinnati-reds-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:CINCINNATI REDS | MLB | J17 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:CINCINNATI REDS | MLB | J23 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-cincinnati-reds-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270425T174000Z
 DTEND:20270425T192500Z
 SUMMARY:Cincinnati Reds - San Francisco Giants
@@ -243,16 +430,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270427-cincinnati-reds-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
-SUMMARY:CINCINNATI REDS | MLB | J19 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J25 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270427-cincinnati-reds-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270426T224000Z
 DTEND:20270427T002500Z
 SUMMARY:Cincinnati Reds - Miami Marlins
@@ -261,16 +448,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-cincinnati-reds-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-SUMMARY:CINCINNATI REDS | MLB | J19 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J26 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-cincinnati-reds-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270427T224000Z
 DTEND:20270428T002500Z
 SUMMARY:Cincinnati Reds - Miami Marlins
@@ -279,16 +466,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-cincinnati-reds-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-SUMMARY:CINCINNATI REDS | MLB | J19 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J26 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 23:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-cincinnati-reds-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270428T214000Z
 DTEND:20270428T232500Z
 SUMMARY:Cincinnati Reds - Miami Marlins
@@ -297,16 +484,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270501-milwaukee-brewers-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-SUMMARY:CINCINNATI REDS | MLB | J23 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J28 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270501-milwaukee-brewers-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270430T234000Z
 DTEND:20270501T012500Z
 SUMMARY:Milwaukee Brewers - Cincinnati Reds
@@ -315,16 +502,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-milwaukee-brewers-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-SUMMARY:CINCINNATI REDS | MLB | J24 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J29 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-milwaukee-brewers-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270501T231000Z
 DTEND:20270502T005500Z
 SUMMARY:Milwaukee Brewers - Cincinnati Reds
@@ -333,16 +520,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-milwaukee-brewers-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-SUMMARY:CINCINNATI REDS | MLB | J24 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J29 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-milwaukee-brewers-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270502T181000Z
 DTEND:20270502T195500Z
 SUMMARY:Milwaukee Brewers - Cincinnati Reds
@@ -351,16 +538,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270504-kansas-city-royals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-SUMMARY:CINCINNATI REDS | MLB | J23 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J31 | ✈️ | Kansas City Royals 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270504-kansas-city-royals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270503T234000Z
 DTEND:20270504T012500Z
 SUMMARY:Kansas City Royals - Cincinnati Reds
@@ -369,16 +556,16 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-kansas-city-royals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-SUMMARY:CINCINNATI REDS | MLB | J24 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J32 | ✈️ | Kansas City Royals 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-kansas-city-royals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270504T234000Z
 DTEND:20270505T012500Z
 SUMMARY:Kansas City Royals - Cincinnati Reds
@@ -387,16 +574,16 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-kansas-city-royals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-SUMMARY:CINCINNATI REDS | MLB | J24 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J32 | ✈️ | Kansas City Royals 🇺🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-kansas-city-royals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270505T181000Z
 DTEND:20270505T195500Z
 SUMMARY:Kansas City Royals - Cincinnati Reds
@@ -405,16 +592,16 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-cincinnati-reds-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-SUMMARY:CINCINNATI REDS | MLB | J25 | 🏟️ | Colorado Rockies 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J34 | 🏟️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-cincinnati-reds-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270506T224000Z
 DTEND:20270507T002500Z
 SUMMARY:Cincinnati Reds - Colorado Rockies
@@ -423,16 +610,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-cincinnati-reds-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:CINCINNATI REDS | MLB | J24 | 🏟️ | Colorado Rockies 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J35 | 🏟️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-cincinnati-reds-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270507T224000Z
 DTEND:20270508T002500Z
 SUMMARY:Cincinnati Reds - Colorado Rockies
@@ -441,16 +628,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-cincinnati-reds-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:CINCINNATI REDS | MLB | J28 | 🏟️ | Colorado Rockies 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J36 | 🏟️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-cincinnati-reds-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270508T224000Z
 DTEND:20270509T002500Z
 SUMMARY:Cincinnati Reds - Colorado Rockies
@@ -459,16 +646,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-cincinnati-reds-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:CINCINNATI REDS | MLB | J28 | 🏟️ | Colorado Rockies 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J36 | 🏟️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-cincinnati-reds-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270509T174000Z
 DTEND:20270509T192500Z
 SUMMARY:Cincinnati Reds - Colorado Rockies
@@ -477,17 +664,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-cincinnati-reds-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
-SUMMARY:CINCINNATI REDS | MLB | J29 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:CINCINNATI REDS | MLB | J38 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-cincinnati-reds-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270511T224000Z
 DTEND:20270512T002500Z
 SUMMARY:Cincinnati Reds - Arizona Diamondbacks
@@ -496,17 +683,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-cincinnati-reds-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:CINCINNATI REDS | MLB | J30 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:CINCINNATI REDS | MLB | J39 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-cincinnati-reds-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270512T224000Z
 DTEND:20270513T002500Z
 SUMMARY:Cincinnati Reds - Arizona Diamondbacks
@@ -515,17 +702,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-cincinnati-reds-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:CINCINNATI REDS | MLB | J30 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:CINCINNATI REDS | MLB | J39 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-cincinnati-reds-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270513T164000Z
 DTEND:20270513T182500Z
 SUMMARY:Cincinnati Reds - Arizona Diamondbacks
@@ -534,16 +721,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-san-diego-padres-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-SUMMARY:CINCINNATI REDS | MLB | J32 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J42 | ✈️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-san-diego-padres-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270515T014000Z
 DTEND:20270515T032500Z
 SUMMARY:San Diego Padres - Cincinnati Reds
@@ -552,16 +739,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-diego-padres-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:CINCINNATI REDS | MLB | J33 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J43 | ✈️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-diego-padres-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270516T004000Z
 DTEND:20270516T022500Z
 SUMMARY:San Diego Padres - Cincinnati Reds
@@ -570,16 +757,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-diego-padres-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:CINCINNATI REDS | MLB | J33 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J43 | ✈️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-diego-padres-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270516T201000Z
 DTEND:20270516T215500Z
 SUMMARY:San Diego Padres - Cincinnati Reds
@@ -587,17 +774,68 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270517-los-angeles-dodgers-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:CINCINNATI REDS | MLB | J44 | ✈️ | Los Angeles Dodgers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270517-los-angeles-dodgers-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Los Angeles Dodgers - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270518-los-angeles-dodgers-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:CINCINNATI REDS | MLB | J45 | ✈️ | Los Angeles Dodgers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270518-los-angeles-dodgers-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Los Angeles Dodgers - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270519-los-angeles-dodgers-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:CINCINNATI REDS | MLB | J46 | ✈️ | Los Angeles Dodgers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270519-los-angeles-dodgers-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Los Angeles Dodgers - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270522-cincinnati-reds-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-SUMMARY:CINCINNATI REDS | MLB | J36 | 🏟️ | Toronto Blue Jays 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J47 | 🏟️ | Toronto Blue Jays 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-cincinnati-reds-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270521T224000Z
 DTEND:20270522T002500Z
 SUMMARY:Cincinnati Reds - Toronto Blue Jays
@@ -606,16 +844,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-cincinnati-reds-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-SUMMARY:CINCINNATI REDS | MLB | J36 | 🏟️ | Toronto Blue Jays 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J47 | 🏟️ | Toronto Blue Jays 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-cincinnati-reds-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270522T201000Z
 DTEND:20270522T215500Z
 SUMMARY:Cincinnati Reds - Toronto Blue Jays
@@ -624,16 +862,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-cincinnati-reds-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-SUMMARY:CINCINNATI REDS | MLB | J37 | 🏟️ | Toronto Blue Jays 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J49 | 🏟️ | Toronto Blue Jays 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-cincinnati-reds-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270523T174000Z
 DTEND:20270523T192500Z
 SUMMARY:Cincinnati Reds - Toronto Blue Jays
@@ -642,16 +880,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270526-cincinnati-reds-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
-SUMMARY:CINCINNATI REDS | MLB | J36 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J52 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270526-cincinnati-reds-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270525T224000Z
 DTEND:20270526T002500Z
 SUMMARY:Cincinnati Reds - Milwaukee Brewers
@@ -660,16 +898,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-cincinnati-reds-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
-SUMMARY:CINCINNATI REDS | MLB | J37 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J53 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-cincinnati-reds-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270526T224000Z
 DTEND:20270527T002500Z
 SUMMARY:Cincinnati Reds - Milwaukee Brewers
@@ -678,16 +916,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-cincinnati-reds-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
-SUMMARY:CINCINNATI REDS | MLB | J37 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J53 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-cincinnati-reds-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270527T164000Z
 DTEND:20270527T182500Z
 SUMMARY:Cincinnati Reds - Milwaukee Brewers
@@ -695,17 +933,176 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270528-san-francisco-giants-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:CINCINNATI REDS | MLB | J52 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270528-san-francisco-giants-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:San Francisco Giants - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-san-francisco-giants-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:CINCINNATI REDS | MLB | J53 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-san-francisco-giants-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:San Francisco Giants - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270530-san-francisco-giants-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:CINCINNATI REDS | MLB | J54 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270530-san-francisco-giants-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:San Francisco Giants - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270531-arizona-diamondbacks-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:CINCINNATI REDS | MLB | J56 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270531-arizona-diamondbacks-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Arizona Diamondbacks - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-arizona-diamondbacks-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:CINCINNATI REDS | MLB | J57 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-arizona-diamondbacks-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Arizona Diamondbacks - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-arizona-diamondbacks-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:CINCINNATI REDS | MLB | J58 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-arizona-diamondbacks-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Arizona Diamondbacks - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270603-athletics-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:CINCINNATI REDS | MLB | J59 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270603-athletics-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Athletics - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270604-athletics-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:CINCINNATI REDS | MLB | J60 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270604-athletics-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Athletics - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-athletics-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:CINCINNATI REDS | MLB | J61 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-athletics-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Athletics - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270608-cincinnati-reds-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
-SUMMARY:CINCINNATI REDS | MLB | J48 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J64 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270608-cincinnati-reds-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270607T231000Z
 DTEND:20270608T005500Z
 SUMMARY:Cincinnati Reds - Chicago Cubs
@@ -714,16 +1111,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-cincinnati-reds-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
-SUMMARY:CINCINNATI REDS | MLB | J51 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J65 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-cincinnati-reds-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270608T231000Z
 DTEND:20270609T005500Z
 SUMMARY:Cincinnati Reds - Chicago Cubs
@@ -732,16 +1129,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-cincinnati-reds-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
-SUMMARY:CINCINNATI REDS | MLB | J51 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J65 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-cincinnati-reds-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270609T164000Z
 DTEND:20270609T182500Z
 SUMMARY:Cincinnati Reds - Chicago Cubs
@@ -750,16 +1147,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-cincinnati-reds-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-SUMMARY:CINCINNATI REDS | MLB | J51 | 🏟️ | Seattle Mariners 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J65 | 🏟️ | Seattle Mariners 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-cincinnati-reds-seattle-mariners@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270611T231000Z
 DTEND:20270612T005500Z
 SUMMARY:Cincinnati Reds - Seattle Mariners
@@ -768,16 +1165,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-cincinnati-reds-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-SUMMARY:CINCINNATI REDS | MLB | J51 | 🏟️ | Seattle Mariners 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J65 | 🏟️ | Seattle Mariners 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-cincinnati-reds-seattle-mariners@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270612T201000Z
 DTEND:20270612T215500Z
 SUMMARY:Cincinnati Reds - Seattle Mariners
@@ -786,16 +1183,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-cincinnati-reds-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
-SUMMARY:CINCINNATI REDS | MLB | J53 | 🏟️ | Seattle Mariners 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J67 | 🏟️ | Seattle Mariners 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-cincinnati-reds-seattle-mariners@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270613T174000Z
 DTEND:20270613T192500Z
 SUMMARY:Cincinnati Reds - Seattle Mariners
@@ -803,17 +1200,85 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270614-chicago-cubs-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:CINCINNATI REDS | MLB | J68 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270614-chicago-cubs-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Chicago Cubs - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-chicago-cubs-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:CINCINNATI REDS | MLB | J69 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-chicago-cubs-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Chicago Cubs - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270616-chicago-cubs-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:CINCINNATI REDS | MLB | J70 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270616-chicago-cubs-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Chicago Cubs - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270619-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-SUMMARY:CINCINNATI REDS | MLB | J56 | ✈️ | St. Louis Cardinals 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J73 | ✈️ | St. Louis Cardinals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-st-louis-cardinals-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:St. Louis Cardinals - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-st-louis-cardinals-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:CINCINNATI REDS | MLB | J73 | ✈️ | St. Louis Cardinals 🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270619T001500Z
 DTEND:20270619T020000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -822,16 +1287,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-SUMMARY:CINCINNATI REDS | MLB | J58 | ✈️ | St. Louis Cardinals 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J74 | ✈️ | St. Louis Cardinals 🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270620T181500Z
 DTEND:20270620T200000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -840,16 +1305,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-los-angeles-angels-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
-SUMMARY:CINCINNATI REDS | MLB | J59 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J76 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-los-angeles-angels-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270621T223800Z
 DTEND:20270622T002300Z
 SUMMARY:Los Angeles Angels - Cincinnati Reds
@@ -858,16 +1323,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-los-angeles-angels-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-SUMMARY:CINCINNATI REDS | MLB | J60 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J77 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-los-angeles-angels-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270622T223800Z
 DTEND:20270623T002300Z
 SUMMARY:Los Angeles Angels - Cincinnati Reds
@@ -876,16 +1341,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-los-angeles-angels-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-SUMMARY:CINCINNATI REDS | MLB | J60 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J77 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 22:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-los-angeles-angels-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270623T200700Z
 DTEND:20270623T215200Z
 SUMMARY:Los Angeles Angels - Cincinnati Reds
@@ -894,16 +1359,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270626-cincinnati-reds-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
-SUMMARY:CINCINNATI REDS | MLB | J55 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J79 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270626-cincinnati-reds-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270625T231000Z
 DTEND:20270626T005500Z
 SUMMARY:Cincinnati Reds - Atlanta Braves
@@ -912,16 +1377,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270626-cincinnati-reds-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
-SUMMARY:CINCINNATI REDS | MLB | J55 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J79 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270626-cincinnati-reds-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270626T201000Z
 DTEND:20270626T215500Z
 SUMMARY:Cincinnati Reds - Atlanta Braves
@@ -930,16 +1395,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-cincinnati-reds-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
-SUMMARY:CINCINNATI REDS | MLB | J61 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J80 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-cincinnati-reds-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270627T174000Z
 DTEND:20270627T192500Z
 SUMMARY:Cincinnati Reds - Atlanta Braves
@@ -948,16 +1413,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270630-cincinnati-reds-chicago-white-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:CINCINNATI REDS | MLB | J65 | 🏟️ | Chicago White Sox 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J83 | 🏟️ | Chicago White Sox 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270630-cincinnati-reds-chicago-white-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270629T231000Z
 DTEND:20270630T005500Z
 SUMMARY:Cincinnati Reds - Chicago White Sox
@@ -966,16 +1431,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-cincinnati-reds-chicago-white-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-SUMMARY:CINCINNATI REDS | MLB | J66 | 🏟️ | Chicago White Sox 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J85 | 🏟️ | Chicago White Sox 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-cincinnati-reds-chicago-white-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270630T231000Z
 DTEND:20270701T005500Z
 SUMMARY:Cincinnati Reds - Chicago White Sox
@@ -984,16 +1449,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270702-cincinnati-reds-chicago-white-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
-SUMMARY:CINCINNATI REDS | MLB | J65 | 🏟️ | Chicago White Sox 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J84 | 🏟️ | Chicago White Sox 🇺🇸
 DESCRIPTION:Inici: 00:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270702-cincinnati-reds-chicago-white-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270701T221000Z
 DTEND:20270701T235500Z
 SUMMARY:Cincinnati Reds - Chicago White Sox
@@ -1002,16 +1467,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-cincinnati-reds-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
-SUMMARY:CINCINNATI REDS | MLB | J60 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J85 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-cincinnati-reds-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270702T231000Z
 DTEND:20270703T005500Z
 SUMMARY:Cincinnati Reds - Milwaukee Brewers
@@ -1020,16 +1485,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-cincinnati-reds-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:CINCINNATI REDS | MLB | J66 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J86 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-cincinnati-reds-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270703T231000Z
 DTEND:20270704T005500Z
 SUMMARY:Cincinnati Reds - Milwaukee Brewers
@@ -1038,16 +1503,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-cincinnati-reds-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:CINCINNATI REDS | MLB | J66 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J86 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-cincinnati-reds-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T174000Z
 DTEND:20270704T192500Z
 SUMMARY:Cincinnati Reds - Milwaukee Brewers
@@ -1056,16 +1521,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270705-cincinnati-reds-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
-SUMMARY:CINCINNATI REDS | MLB | J66 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J87 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270705-cincinnati-reds-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270705T164000Z
 DTEND:20270705T182500Z
 SUMMARY:Cincinnati Reds - Milwaukee Brewers
@@ -1073,17 +1538,68 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270706-houston-astros-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:CINCINNATI REDS | MLB | J88 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270706-houston-astros-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Houston Astros - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-houston-astros-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:CINCINNATI REDS | MLB | J89 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-houston-astros-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Houston Astros - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-houston-astros-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:CINCINNATI REDS | MLB | J90 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-houston-astros-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Houston Astros - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270710-atlanta-braves-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:CINCINNATI REDS | MLB | J63 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J90 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-atlanta-braves-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270709T231500Z
 DTEND:20270710T010000Z
 SUMMARY:Atlanta Braves - Cincinnati Reds
@@ -1092,16 +1608,16 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-atlanta-braves-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:CINCINNATI REDS | MLB | J63 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J90 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-atlanta-braves-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270710T201000Z
 DTEND:20270710T215500Z
 SUMMARY:Atlanta Braves - Cincinnati Reds
@@ -1110,16 +1626,16 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-atlanta-braves-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:CINCINNATI REDS | MLB | J68 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J92 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-atlanta-braves-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270711T173500Z
 DTEND:20270711T192000Z
 SUMMARY:Atlanta Braves - Cincinnati Reds
@@ -1128,17 +1644,17 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-cincinnati-reds-cleveland-guardians-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
-SUMMARY:CINCINNATI REDS | MLB | J62 | 🏟️ | Cleveland Guardians 🇺
+SUMMARY:CINCINNATI REDS | MLB | J94 | 🏟️ | Cleveland Guardians 🇺
  🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-cincinnati-reds-cleveland-guardians@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270716T231000Z
 DTEND:20270717T005500Z
 SUMMARY:Cincinnati Reds - Cleveland Guardians
@@ -1147,17 +1663,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-cincinnati-reds-cleveland-guardians-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-SUMMARY:CINCINNATI REDS | MLB | J63 | 🏟️ | Cleveland Guardians 🇺
+SUMMARY:CINCINNATI REDS | MLB | J95 | 🏟️ | Cleveland Guardians 🇺
  🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-cincinnati-reds-cleveland-guardians@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270717T231000Z
 DTEND:20270718T005500Z
 SUMMARY:Cincinnati Reds - Cleveland Guardians
@@ -1166,17 +1682,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-cincinnati-reds-cleveland-guardians-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-SUMMARY:CINCINNATI REDS | MLB | J63 | 🏟️ | Cleveland Guardians 🇺
+SUMMARY:CINCINNATI REDS | MLB | J95 | 🏟️ | Cleveland Guardians 🇺
  🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-cincinnati-reds-cleveland-guardians@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270718T174000Z
 DTEND:20270718T192500Z
 SUMMARY:Cincinnati Reds - Cleveland Guardians
@@ -1185,16 +1701,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270720-cincinnati-reds-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
-SUMMARY:CINCINNATI REDS | MLB | J73 | 🏟️ | Tampa Bay Rays 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J98 | 🏟️ | Tampa Bay Rays 🇺🇸
 DESCRIPTION:Inici: 00:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270720-cincinnati-reds-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270719T221000Z
 DTEND:20270719T235500Z
 SUMMARY:Cincinnati Reds - Tampa Bay Rays
@@ -1203,16 +1719,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-cincinnati-reds-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-SUMMARY:CINCINNATI REDS | MLB | J74 | 🏟️ | Tampa Bay Rays 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J99 | 🏟️ | Tampa Bay Rays 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-cincinnati-reds-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270720T231000Z
 DTEND:20270721T005500Z
 SUMMARY:Cincinnati Reds - Tampa Bay Rays
@@ -1221,16 +1737,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-cincinnati-reds-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-SUMMARY:CINCINNATI REDS | MLB | J74 | 🏟️ | Tampa Bay Rays 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J99 | 🏟️ | Tampa Bay Rays 🇺🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-cincinnati-reds-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270721T164000Z
 DTEND:20270721T182500Z
 SUMMARY:Cincinnati Reds - Tampa Bay Rays
@@ -1238,17 +1754,69 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270723-detroit-tigers-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:CINCINNATI REDS | MLB | J99 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-detroit-tigers-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Detroit Tigers - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-detroit-tigers-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:CINCINNATI REDS | MLB | J100 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-detroit-tigers-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Detroit Tigers - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-detroit-tigers-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:CINCINNATI REDS | MLB | J101 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-detroit-tigers-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Detroit Tigers - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270727-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
-SUMMARY:CINCINNATI REDS | MLB | J79 | ✈️ | St. Louis Cardinals 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J104 | ✈️ | St. Louis Cardinals 🇺
+ 🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270727-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270726T234500Z
 DTEND:20270727T013000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -1257,16 +1825,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:CINCINNATI REDS | MLB | J80 | ✈️ | St. Louis Cardinals 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J105 | ✈️ | St. Louis Cardinals 🇺
+ 🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270727T234500Z
 DTEND:20270728T013000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -1275,16 +1844,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-SUMMARY:CINCINNATI REDS | MLB | J81 | ✈️ | St. Louis Cardinals 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J106 | ✈️ | St. Louis Cardinals 🇺
+ 🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270728T234500Z
 DTEND:20270729T013000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -1293,16 +1863,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-SUMMARY:CINCINNATI REDS | MLB | J81 | ✈️ | St. Louis Cardinals 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J106 | ✈️ | St. Louis Cardinals 🇺
+ 🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270729T181500Z
 DTEND:20270729T200000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -1311,17 +1882,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-cincinnati-reds-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
-SUMMARY:CINCINNATI REDS | MLB | J82 | 🏟️ | Washington Nationals 🇺
+SUMMARY:CINCINNATI REDS | MLB | J106 | 🏟️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-cincinnati-reds-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270730T231000Z
 DTEND:20270731T005500Z
 SUMMARY:Cincinnati Reds - Washington Nationals
@@ -1330,17 +1901,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-cincinnati-reds-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-SUMMARY:CINCINNATI REDS | MLB | J82 | 🏟️ | Washington Nationals 🇺
+SUMMARY:CINCINNATI REDS | MLB | J107 | 🏟️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-cincinnati-reds-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270731T231000Z
 DTEND:20270801T005500Z
 SUMMARY:Cincinnati Reds - Washington Nationals
@@ -1349,17 +1920,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-cincinnati-reds-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-SUMMARY:CINCINNATI REDS | MLB | J82 | 🏟️ | Washington Nationals 🇺
+SUMMARY:CINCINNATI REDS | MLB | J107 | 🏟️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-cincinnati-reds-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270801T174000Z
 DTEND:20270801T192500Z
 SUMMARY:Cincinnati Reds - Washington Nationals
@@ -1368,16 +1939,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-cincinnati-reds-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
-SUMMARY:CINCINNATI REDS | MLB | J83 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J110 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-cincinnati-reds-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270802T224000Z
 DTEND:20270803T002500Z
 SUMMARY:Cincinnati Reds - New York Mets
@@ -1386,16 +1957,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-cincinnati-reds-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-SUMMARY:CINCINNATI REDS | MLB | J84 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J111 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-cincinnati-reds-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270803T224000Z
 DTEND:20270804T002500Z
 SUMMARY:Cincinnati Reds - New York Mets
@@ -1404,16 +1975,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-cincinnati-reds-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
-SUMMARY:CINCINNATI REDS | MLB | J85 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J112 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-cincinnati-reds-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270804T224000Z
 DTEND:20270805T002500Z
 SUMMARY:Cincinnati Reds - New York Mets
@@ -1422,16 +1993,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-milwaukee-brewers-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-SUMMARY:CINCINNATI REDS | MLB | J85 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J114 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-milwaukee-brewers-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270806T234000Z
 DTEND:20270807T012500Z
 SUMMARY:Milwaukee Brewers - Cincinnati Reds
@@ -1440,16 +2011,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-milwaukee-brewers-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:CINCINNATI REDS | MLB | J85 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J115 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-milwaukee-brewers-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270807T231000Z
 DTEND:20270808T005500Z
 SUMMARY:Milwaukee Brewers - Cincinnati Reds
@@ -1458,16 +2029,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-milwaukee-brewers-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:CINCINNATI REDS | MLB | J85 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J115 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-milwaukee-brewers-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270808T181000Z
 DTEND:20270808T195500Z
 SUMMARY:Milwaukee Brewers - Cincinnati Reds
@@ -1475,17 +2046,68 @@ DESCRIPTION:MLB
 LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270809-pittsburgh-pirates-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:CINCINNATI REDS | MLB | J116 | ✈️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270809-pittsburgh-pirates-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Pittsburgh Pirates - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270810-pittsburgh-pirates-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:CINCINNATI REDS | MLB | J116 | ✈️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270810-pittsburgh-pirates-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Pittsburgh Pirates - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270811-pittsburgh-pirates-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:CINCINNATI REDS | MLB | J117 | ✈️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270811-pittsburgh-pirates-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Pittsburgh Pirates - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270814-cincinnati-reds-new-york-yankees-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
-SUMMARY:CINCINNATI REDS | MLB | J89 | 🏟️ | New York Yankees 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J120 | 🏟️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-cincinnati-reds-new-york-yankees@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270813T224000Z
 DTEND:20270814T002500Z
 SUMMARY:Cincinnati Reds - New York Yankees
@@ -1494,16 +2116,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-cincinnati-reds-new-york-yankees-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-SUMMARY:CINCINNATI REDS | MLB | J90 | 🏟️ | New York Yankees 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J121 | 🏟️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-cincinnati-reds-new-york-yankees@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270814T224000Z
 DTEND:20270815T002500Z
 SUMMARY:Cincinnati Reds - New York Yankees
@@ -1512,16 +2134,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-cincinnati-reds-new-york-yankees-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-SUMMARY:CINCINNATI REDS | MLB | J90 | 🏟️ | New York Yankees 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J121 | 🏟️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-cincinnati-reds-new-york-yankees@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270815T174000Z
 DTEND:20270815T192500Z
 SUMMARY:Cincinnati Reds - New York Yankees
@@ -1530,16 +2152,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270817-cincinnati-reds-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
-SUMMARY:CINCINNATI REDS | MLB | J92 | 🏟️ | Pittsburgh Pirates 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J122 | 🏟️ | Pittsburgh Pirates 🇺
+ 🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270817-cincinnati-reds-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270816T224000Z
 DTEND:20270817T002500Z
 SUMMARY:Cincinnati Reds - Pittsburgh Pirates
@@ -1548,16 +2171,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-cincinnati-reds-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
-SUMMARY:CINCINNATI REDS | MLB | J93 | 🏟️ | Pittsburgh Pirates 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J123 | 🏟️ | Pittsburgh Pirates 🇺
+ 🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-cincinnati-reds-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270817T224000Z
 DTEND:20270818T002500Z
 SUMMARY:Cincinnati Reds - Pittsburgh Pirates
@@ -1566,16 +2190,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-cincinnati-reds-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
-SUMMARY:CINCINNATI REDS | MLB | J94 | 🏟️ | Pittsburgh Pirates 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J125 | 🏟️ | Pittsburgh Pirates 🇺
+ 🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-cincinnati-reds-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270818T224000Z
 DTEND:20270819T002500Z
 SUMMARY:Cincinnati Reds - Pittsburgh Pirates
@@ -1584,16 +2209,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-cincinnati-reds-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
-SUMMARY:CINCINNATI REDS | MLB | J94 | 🏟️ | Pittsburgh Pirates 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J125 | 🏟️ | Pittsburgh Pirates 🇺
+ 🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-cincinnati-reds-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270819T164000Z
 DTEND:20270819T182500Z
 SUMMARY:Cincinnati Reds - Pittsburgh Pirates
@@ -1602,17 +2228,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-philadelphia-phillies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
-SUMMARY:CINCINNATI REDS | MLB | J89 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:CINCINNATI REDS | MLB | J125 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-philadelphia-phillies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270820T224000Z
 DTEND:20270821T002500Z
 SUMMARY:Philadelphia Phillies - Cincinnati Reds
@@ -1621,17 +2247,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-philadelphia-phillies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:CINCINNATI REDS | MLB | J90 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:CINCINNATI REDS | MLB | J126 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-philadelphia-phillies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270821T220500Z
 DTEND:20270821T235000Z
 SUMMARY:Philadelphia Phillies - Cincinnati Reds
@@ -1640,17 +2266,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-philadelphia-phillies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:CINCINNATI REDS | MLB | J90 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:CINCINNATI REDS | MLB | J126 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-philadelphia-phillies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270822T173500Z
 DTEND:20270822T192000Z
 SUMMARY:Philadelphia Phillies - Cincinnati Reds
@@ -1659,17 +2285,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270824-cincinnati-reds-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
-SUMMARY:CINCINNATI REDS | MLB | J92 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:CINCINNATI REDS | MLB | J128 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270824-cincinnati-reds-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270823T224000Z
 DTEND:20270824T002500Z
 SUMMARY:Cincinnati Reds - Los Angeles Dodgers
@@ -1678,17 +2304,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-cincinnati-reds-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-SUMMARY:CINCINNATI REDS | MLB | J93 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:CINCINNATI REDS | MLB | J129 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-cincinnati-reds-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270824T224000Z
 DTEND:20270825T002500Z
 SUMMARY:Cincinnati Reds - Los Angeles Dodgers
@@ -1697,17 +2323,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-cincinnati-reds-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-SUMMARY:CINCINNATI REDS | MLB | J93 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:CINCINNATI REDS | MLB | J129 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-cincinnati-reds-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270825T164000Z
 DTEND:20270825T182500Z
 SUMMARY:Cincinnati Reds - Los Angeles Dodgers
@@ -1716,16 +2342,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-cincinnati-reds-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
-SUMMARY:CINCINNATI REDS | MLB | J97 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J131 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-cincinnati-reds-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270827T224000Z
 DTEND:20270828T002500Z
 SUMMARY:Cincinnati Reds - San Diego Padres
@@ -1734,16 +2360,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-cincinnati-reds-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
-SUMMARY:CINCINNATI REDS | MLB | J97 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J131 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-cincinnati-reds-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270828T201000Z
 DTEND:20270828T215500Z
 SUMMARY:Cincinnati Reds - San Diego Padres
@@ -1752,16 +2378,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270829-cincinnati-reds-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
-SUMMARY:CINCINNATI REDS | MLB | J97 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J133 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270829-cincinnati-reds-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270829T174000Z
 DTEND:20270829T192500Z
 SUMMARY:Cincinnati Reds - San Diego Padres
@@ -1770,17 +2396,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270831-washington-nationals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
-SUMMARY:CINCINNATI REDS | MLB | J97 | ✈️ | Washington Nationals 🇺
+SUMMARY:CINCINNATI REDS | MLB | J134 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270831-washington-nationals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270830T224500Z
 DTEND:20270831T003000Z
 SUMMARY:Washington Nationals - Cincinnati Reds
@@ -1789,17 +2415,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-washington-nationals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
-SUMMARY:CINCINNATI REDS | MLB | J98 | ✈️ | Washington Nationals 🇺
+SUMMARY:CINCINNATI REDS | MLB | J135 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-washington-nationals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270831T224500Z
 DTEND:20270901T003000Z
 SUMMARY:Washington Nationals - Cincinnati Reds
@@ -1808,17 +2434,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-washington-nationals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
-SUMMARY:CINCINNATI REDS | MLB | J98 | ✈️ | Washington Nationals 🇺
+SUMMARY:CINCINNATI REDS | MLB | J135 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-washington-nationals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270901T170500Z
 DTEND:20270901T185000Z
 SUMMARY:Washington Nationals - Cincinnati Reds
@@ -1827,16 +2453,16 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-cincinnati-reds-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-SUMMARY:CINCINNATI REDS | MLB | J101 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J137 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-cincinnati-reds-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270903T224000Z
 DTEND:20270904T002500Z
 SUMMARY:Cincinnati Reds - Chicago Cubs
@@ -1845,16 +2471,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-cincinnati-reds-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:CINCINNATI REDS | MLB | J102 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J138 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 00:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-cincinnati-reds-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270904T221000Z
 DTEND:20270904T235500Z
 SUMMARY:Cincinnati Reds - Chicago Cubs
@@ -1863,16 +2489,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-cincinnati-reds-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:CINCINNATI REDS | MLB | J102 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J138 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 18:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-cincinnati-reds-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270905T161000Z
 DTEND:20270905T175500Z
 SUMMARY:Cincinnati Reds - Chicago Cubs
@@ -1881,16 +2507,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-colorado-rockies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
-SUMMARY:CINCINNATI REDS | MLB | J103 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J140 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-colorado-rockies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270906T201000Z
 DTEND:20270906T215500Z
 SUMMARY:Colorado Rockies - Cincinnati Reds
@@ -1899,16 +2525,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-colorado-rockies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-SUMMARY:CINCINNATI REDS | MLB | J104 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J142 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-colorado-rockies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270908T004000Z
 DTEND:20270908T022500Z
 SUMMARY:Colorado Rockies - Cincinnati Reds
@@ -1916,17 +2542,34 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-20270909-colorado-rockies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+UID:mlb-20270909-chicago-cubs-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
-SUMMARY:CINCINNATI REDS | MLB | J107 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J143 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270909-chicago-cubs-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Chicago Cubs - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270909-colorado-rockies-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:CINCINNATI REDS | MLB | J143 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-colorado-rockies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270909T004000Z
 DTEND:20270909T022500Z
 SUMMARY:Colorado Rockies - Cincinnati Reds
@@ -1934,18 +2577,69 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270910-chicago-cubs-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:CINCINNATI REDS | MLB | J144 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-chicago-cubs-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Chicago Cubs - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-chicago-cubs-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:CINCINNATI REDS | MLB | J145 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-chicago-cubs-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Chicago Cubs - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-chicago-cubs-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:CINCINNATI REDS | MLB | J146 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-chicago-cubs-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Chicago Cubs - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270915-cincinnati-reds-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
-SUMMARY:CINCINNATI REDS | MLB | J112 | 🏟️ | Philadelphia Phillies 🇺
+SUMMARY:CINCINNATI REDS | MLB | J147 | 🏟️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270915-cincinnati-reds-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270914T224000Z
 DTEND:20270915T002500Z
 SUMMARY:Cincinnati Reds - Philadelphia Phillies
@@ -1954,17 +2648,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270916-cincinnati-reds-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
-SUMMARY:CINCINNATI REDS | MLB | J112 | 🏟️ | Philadelphia Phillies 🇺
+SUMMARY:CINCINNATI REDS | MLB | J148 | 🏟️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270916-cincinnati-reds-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270915T224000Z
 DTEND:20270916T002500Z
 SUMMARY:Cincinnati Reds - Philadelphia Phillies
@@ -1973,17 +2667,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270917-cincinnati-reds-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
-SUMMARY:CINCINNATI REDS | MLB | J114 | 🏟️ | Philadelphia Phillies 🇺
+SUMMARY:CINCINNATI REDS | MLB | J149 | 🏟️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270917-cincinnati-reds-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270916T231500Z
 DTEND:20270917T010000Z
 SUMMARY:Cincinnati Reds - Philadelphia Phillies
@@ -1992,17 +2686,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270918-cincinnati-reds-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-SUMMARY:CINCINNATI REDS | MLB | J112 | 🏟️ | St. Louis Cardinals 🇺
+SUMMARY:CINCINNATI REDS | MLB | J150 | 🏟️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270918-cincinnati-reds-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270917T224000Z
 DTEND:20270918T002500Z
 SUMMARY:Cincinnati Reds - St. Louis Cardinals
@@ -2011,17 +2705,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-cincinnati-reds-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-SUMMARY:CINCINNATI REDS | MLB | J112 | 🏟️ | St. Louis Cardinals 🇺
+SUMMARY:CINCINNATI REDS | MLB | J151 | 🏟️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-cincinnati-reds-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270918T224000Z
 DTEND:20270919T002500Z
 SUMMARY:Cincinnati Reds - St. Louis Cardinals
@@ -2030,17 +2724,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-cincinnati-reds-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-SUMMARY:CINCINNATI REDS | MLB | J112 | 🏟️ | St. Louis Cardinals 🇺
+SUMMARY:CINCINNATI REDS | MLB | J151 | 🏟️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-cincinnati-reds-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270919T174000Z
 DTEND:20270919T192500Z
 SUMMARY:Cincinnati Reds - St. Louis Cardinals
@@ -2049,16 +2743,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-baltimore-orioles-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
-SUMMARY:CINCINNATI REDS | MLB | J113 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J153 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-baltimore-orioles-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270921T223500Z
 DTEND:20270922T002000Z
 SUMMARY:Baltimore Orioles - Cincinnati Reds
@@ -2067,16 +2761,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-baltimore-orioles-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
-SUMMARY:CINCINNATI REDS | MLB | J116 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J154 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-baltimore-orioles-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270922T223500Z
 DTEND:20270923T002000Z
 SUMMARY:Baltimore Orioles - Cincinnati Reds
@@ -2085,20 +2779,74 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-baltimore-orioles-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
-SUMMARY:CINCINNATI REDS | MLB | J116 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:CINCINNATI REDS | MLB | J154 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-baltimore-orioles-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270923T173500Z
 DTEND:20270923T192000Z
 SUMMARY:Baltimore Orioles - Cincinnati Reds
 DESCRIPTION:MLB
 LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-cleveland-guardians-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:CINCINNATI REDS | MLB | J156 | ✈️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-cleveland-guardians-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Cleveland Guardians - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-cleveland-guardians-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:CINCINNATI REDS | MLB | J157 | ✈️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-cleveland-guardians-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Cleveland Guardians - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-cleveland-guardians-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:CINCINNATI REDS | MLB | J158 | ✈️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-cleveland-guardians-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Cleveland Guardians - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
 END:VEVENT
 END:VCALENDAR

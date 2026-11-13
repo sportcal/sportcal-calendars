@@ -1,0 +1,508 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arizona Wildcats · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261114-auburn-tigers-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:ARIZONA WILDCATS | NCAA | J1 | ✈️ | Auburn Tigers 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Nevill
+ e Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261114-auburn-tigers-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T020000Z
+DTEND:20261114T034500Z
+SUMMARY:Auburn Tigers - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-arizona-wildcats-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:ARIZONA WILDCATS | NCAA | J2 | 🏟️ | UConn Huskies 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-arizona-wildcats-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T020000Z
+DTEND:20261119T034500Z
+SUMMARY:Arizona Wildcats - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-arizona-wildcats-colorado-state-rams-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:ARIZONA WILDCATS | NCAA | J3 | 🏟️ | Colorado State Rams 🇺
+ 🇸
+DESCRIPTION:Inici: 05:30 (Europe/Madrid) · NCAA Division I\nEstadi: Lahain
+ a Civic Center\, Maui\, HI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-arizona-wildcats-colorado-state-rams@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T043000Z
+DTEND:20261124T061500Z
+SUMMARY:Arizona Wildcats - Colorado State Rams
+DESCRIPTION:NCAA Division I
+LOCATION:Lahaina Civic Center\, Maui\, HI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261202-arizona-wildcats-lsu-new-orleans-privateers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:ARIZONA WILDCATS | NCAA | J6 | 🏟️ | LSU New Orleans Privateers
+  🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261202-arizona-wildcats-lsu-new-orleans-privateers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261202T020000Z
+DTEND:20261202T034500Z
+SUMMARY:Arizona Wildcats - LSU New Orleans Privateers
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-st-john-s-red-storm-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:ARIZONA WILDCATS | NCAA | J5 | ✈️ | St. John's Red Storm 🇺
+ 🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Madiso
+ n Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-st-john-s-red-storm-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:St. John's Red Storm - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Madison Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-arizona-wildcats-tennessee-tech-golden-eagles-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:ARIZONA WILDCATS | NCAA | J9 | 🏟️ | Tennessee Tech Golden Eagl
+ es 🇺🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-arizona-wildcats-tennessee-tech-golden-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261212T193000Z
+DTEND:20261212T211500Z
+SUMMARY:Arizona Wildcats - Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-arizona-wildcats-arkansas-razorbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:ARIZONA WILDCATS | NCAA | J9 | 🏟️ | Arkansas Razorbacks 🇺
+ 🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Mortga
+ ge Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-arizona-wildcats-arkansas-razorbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T233000Z
+DTEND:20261220T011500Z
+SUMMARY:Arizona Wildcats - Arkansas Razorbacks
+DESCRIPTION:NCAA Division I
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-arizona-wildcats-northern-illinois-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:ARIZONA WILDCATS | NCAA | J117 | 🏟️ | Northern Illinois Huskie
+ s 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-arizona-wildcats-northern-illinois-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261222T020000Z
+DTEND:20261222T034500Z
+SUMMARY:Arizona Wildcats - Northern Illinois Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261229-arizona-wildcats-incarnate-word-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:ARIZONA WILDCATS | NCAA | J11 | 🏟️ | Incarnate Word Cardinals 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261229-arizona-wildcats-incarnate-word-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261229T020000Z
+DTEND:20261229T034500Z
+SUMMARY:Arizona Wildcats - Incarnate Word Cardinals
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-iowa-state-cyclones-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:ARIZONA WILDCATS | NCAA | J10 | ✈️ | Iowa State Cyclones 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hilton
+  Coliseum\, Ames\, IA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-iowa-state-cyclones-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270103T010000Z
+DTEND:20270103T024500Z
+SUMMARY:Iowa State Cyclones - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Hilton Coliseum\, Ames\, IA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-arizona-wildcats-ucf-knights-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:ARIZONA WILDCATS | NCAA | J14 | 🏟️ | UCF Knights 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-arizona-wildcats-ucf-knights@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270107T020000Z
+DTEND:20270107T034500Z
+SUMMARY:Arizona Wildcats - UCF Knights
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-kansas-state-wildcats-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:ARIZONA WILDCATS | NCAA | J12 | ✈️ | Kansas State Wildcats 🇺
+ 🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Bramla
+ ge Coliseum\, Manhattan\, KS
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-kansas-state-wildcats-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T170000Z
+DTEND:20270109T184500Z
+SUMMARY:Kansas State Wildcats - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Bramlage Coliseum\, Manhattan\, KS
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-arizona-wildcats-byu-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:ARIZONA WILDCATS | NCAA | J15 | 🏟️ | BYU Cougars 🇺🇸
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-arizona-wildcats-byu-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270113T040000Z
+DTEND:20270113T054500Z
+SUMMARY:Arizona Wildcats - BYU Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-arizona-wildcats-arizona-state-sun-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:ARIZONA WILDCATS | NCAA | J16 | 🏟️ | Arizona State Sun Devils 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-arizona-wildcats-arizona-state-sun-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T230000Z
+DTEND:20270117T004500Z
+SUMMARY:Arizona Wildcats - Arizona State Sun Devils
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-texas-tech-red-raiders-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:ARIZONA WILDCATS | NCAA | J15 | ✈️ | Texas Tech Red Raiders 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: United
+  Supermarkets Arena\, Lubbock\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-texas-tech-red-raiders-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T010000Z
+DTEND:20270123T024500Z
+SUMMARY:Texas Tech Red Raiders - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:United Supermarkets Arena\, Lubbock\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-arizona-wildcats-utah-utes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:ARIZONA WILDCATS | NCAA | J19 | 🏟️ | Utah Utes 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-arizona-wildcats-utah-utes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270127T030000Z
+DTEND:20270127T044500Z
+SUMMARY:Arizona Wildcats - Utah Utes
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-west-virginia-mountaineers-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:ARIZONA WILDCATS | NCAA | J18 | ✈️ | West Virginia Mountaineers
+  🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hope C
+ oliseum\, Morgantown\, WV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-west-virginia-mountaineers-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270131T010000Z
+DTEND:20270131T024500Z
+SUMMARY:West Virginia Mountaineers - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Hope Coliseum\, Morgantown\, WV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270203-cincinnati-bearcats-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:ARIZONA WILDCATS | NCAA | J20 | ✈️ | Cincinnati Bearcats 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270203-cincinnati-bearcats-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270203T000000Z
+DTEND:20270203T014500Z
+SUMMARY:Cincinnati Bearcats - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-arizona-wildcats-houston-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:ARIZONA WILDCATS | NCAA | J19 | 🏟️ | Houston Cougars 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-arizona-wildcats-houston-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Arizona Wildcats - Houston Cougars · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270209-arizona-wildcats-tcu-horned-frogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:ARIZONA WILDCATS | NCAA | J20 | 🏟️ | TCU Horned Frogs 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270209-arizona-wildcats-tcu-horned-frogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270209T020000Z
+DTEND:20270209T034500Z
+SUMMARY:Arizona Wildcats - TCU Horned Frogs
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-arizona-state-sun-devils-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:ARIZONA WILDCATS | NCAA | J21 | ✈️ | Arizona State Sun Devils 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Desert
+  Financial Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-arizona-state-sun-devils-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270214T010000Z
+DTEND:20270214T024500Z
+SUMMARY:Arizona State Sun Devils - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Desert Financial Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-oklahoma-state-cowboys-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:ARIZONA WILDCATS | NCAA | J23 | ✈️ | Oklahoma State Cowboys 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Gallag
+ her-Iba Arena\, Stillwater\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-oklahoma-state-cowboys-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270217T020000Z
+DTEND:20270217T034500Z
+SUMMARY:Oklahoma State Cowboys - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-arizona-wildcats-kansas-jayhawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:ARIZONA WILDCATS | NCAA | J23 | 🏟️ | Kansas Jayhawks 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-arizona-wildcats-kansas-jayhawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Arizona Wildcats - Kansas Jayhawks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270223-byu-cougars-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:ARIZONA WILDCATS | NCAA | J27 | ✈️ | BYU Cougars 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Marrio
+ tt Center\, Provo\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270223-byu-cougars-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270223T020000Z
+DTEND:20270223T034500Z
+SUMMARY:BYU Cougars - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Marriott Center\, Provo\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-arizona-wildcats-baylor-bears-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:ARIZONA WILDCATS | NCAA | J25 | 🏟️ | Baylor Bears 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-arizona-wildcats-baylor-bears@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Arizona Wildcats - Baylor Bears
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270304-arizona-wildcats-colorado-buffaloes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:ARIZONA WILDCATS | NCAA | J28 | 🏟️ | Colorado Buffaloes 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270304-arizona-wildcats-colorado-buffaloes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270304T020000Z
+DTEND:20270304T034500Z
+SUMMARY:Arizona Wildcats - Colorado Buffaloes
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270307-houston-cougars-arizona-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:ARIZONA WILDCATS | NCAA | J27 | ✈️ | Houston Cougars 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: Fertit
+ ta Center\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270307-houston-cougars-arizona-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270307T013000Z
+DTEND:20270307T031500Z
+SUMMARY:Houston Cougars - Arizona Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Fertitta Center\, Houston\, TX
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,490 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:San Diego State Aztecs · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261115-san-diego-state-aztecs-new-mexico-state-aggies-dia@sport
+ cal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J1 | 🏟️ | New Mexico State Agg
+ ies 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: Frontw
+ ave Arena\, Oceanside\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261115-san-diego-state-aztecs-new-mexico-state-aggies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261115T210000Z
+DTEND:20261115T224500Z
+SUMMARY:San Diego State Aztecs - New Mexico State Aggies
+DESCRIPTION:NCAA Division I
+LOCATION:Frontwave Arena\, Oceanside\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-san-diego-state-aztecs-texas-southern-tigers-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J2 | 🏟️ | Texas Southern Tiger
+ s 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-san-diego-state-aztecs-texas-southern-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T030000Z
+DTEND:20261119T044500Z
+SUMMARY:San Diego State Aztecs - Texas Southern Tigers
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-iowa-state-cyclones-san-diego-state-aztecs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J4 | ✈️ | Iowa State Cyclones 
+ 🇺🇸
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Michel
+ ob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-iowa-state-cyclones-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T223000Z
+DTEND:20261125T001500Z
+SUMMARY:Iowa State Cyclones - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-san-diego-state-aztecs-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J111 | 🏟️ | UNLV Rebels 🇺
+ 🇸
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-san-diego-state-aztecs-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T213000Z
+DTEND:20261205T231500Z
+SUMMARY:San Diego State Aztecs - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-san-diego-state-aztecs-montana-state-bobcats-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J9 | 🏟️ | Montana State Bobcat
+ s 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-san-diego-state-aztecs-montana-state-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261212T030000Z
+DTEND:20261212T044500Z
+SUMMARY:San Diego State Aztecs - Montana State Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-san-diego-state-aztecs-byu-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J9 | 🏟️ | BYU Cougars 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Acrisu
+ re Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-san-diego-state-aztecs-byu-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261220T030000Z
+DTEND:20261220T044500Z
+SUMMARY:San Diego State Aztecs - BYU Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:Acrisure Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-san-diego-state-aztecs-long-island-university-sharks-dia
+ @sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J11 | 🏟️ | Long Island Univers
+ ity Sharks 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-san-diego-state-aztecs-long-island-university-sharks@spo
+ rtcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261222T230000Z
+DTEND:20261223T004500Z
+SUMMARY:San Diego State Aztecs - Long Island University Sharks
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-ucla-bruins-san-diego-state-aztecs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J10 | ✈️ | UCLA Bruins 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Pauley
+  Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-ucla-bruins-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261230T030000Z
+DTEND:20261230T044500Z
+SUMMARY:UCLA Bruins - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:Pauley Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-san-diego-state-aztecs-life-pacific-warriors-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J10 | 🏟️ | Life Pacific Warrio
+ rs 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-san-diego-state-aztecs-life-pacific-warriors@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261231T220000Z
+DTEND:20261231T234500Z
+SUMMARY:San Diego State Aztecs - Life Pacific Warriors
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-oregon-state-beavers-san-diego-state-aztecs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J14 | ✈️ | Oregon State Beavers
+  🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Gill C
+ oliseum\, Corvallis\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-oregon-state-beavers-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270107T030000Z
+DTEND:20270107T044500Z
+SUMMARY:Oregon State Beavers - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:Gill Coliseum\, Corvallis\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-san-diego-state-aztecs-fresno-state-bulldogs-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J14 | 🏟️ | Fresno State Bulldo
+ gs 🇺🇸
+DESCRIPTION:Inici: 04:30 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-san-diego-state-aztecs-fresno-state-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270110T033000Z
+DTEND:20270110T051500Z
+SUMMARY:San Diego State Aztecs - Fresno State Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270115-san-diego-state-aztecs-colorado-state-rams-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J16 | 🏟️ | Colorado State Rams
+  🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270115-san-diego-state-aztecs-colorado-state-rams@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270115T020000Z
+DTEND:20270115T034500Z
+SUMMARY:San Diego State Aztecs - Colorado State Rams
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-washington-state-cougars-san-diego-state-aztecs-dia@spor
+ tcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J16 | ✈️ | Washington State Cou
+ gars 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: Beasle
+ y Coliseum\, Pullman\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-washington-state-cougars-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270117T210000Z
+DTEND:20270117T224500Z
+SUMMARY:Washington State Cougars - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:Beasley Coliseum\, Pullman\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-san-diego-state-aztecs-texas-state-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J18 | 🏟️ | Texas State Bobcats
+  🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-san-diego-state-aztecs-texas-state-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270121T030000Z
+DTEND:20270121T044500Z
+SUMMARY:San Diego State Aztecs - Texas State Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-boise-state-broncos-san-diego-state-aztecs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J18 | ✈️ | Boise State Broncos 
+ 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: ExtraM
+ ile Arena\, Boise\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-boise-state-broncos-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270124T030000Z
+DTEND:20270124T044500Z
+SUMMARY:Boise State Broncos - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:ExtraMile Arena\, Boise\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-colorado-state-rams-san-diego-state-aztecs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J18 | ✈️ | Colorado State Rams 
+ 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Moby A
+ rena\, Fort Collins\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-colorado-state-rams-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T233000Z
+DTEND:20270131T011500Z
+SUMMARY:Colorado State Rams - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:Moby Arena\, Fort Collins\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270205-san-diego-state-aztecs-utah-state-aggies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J21 | 🏟️ | Utah State Aggies 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270205-san-diego-state-aztecs-utah-state-aggies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270205T020000Z
+DTEND:20270205T034500Z
+SUMMARY:San Diego State Aztecs - Utah State Aggies
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-san-diego-state-aztecs-gonzaga-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J21 | 🏟️ | Gonzaga Bulldogs 
+ 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-san-diego-state-aztecs-gonzaga-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270206T233000Z
+DTEND:20270207T011500Z
+SUMMARY:San Diego State Aztecs - Gonzaga Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-texas-state-bobcats-san-diego-state-aztecs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J24 | ✈️ | Texas State Bobcats 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Straha
+ n Arena at the University Events Center\, San Marcos\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-texas-state-bobcats-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270212T010000Z
+DTEND:20270212T024500Z
+SUMMARY:Texas State Bobcats - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270218-utah-state-aggies-san-diego-state-aztecs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J24 | ✈️ | Utah State Aggies 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Dee Gl
+ en Smith Spectrum\, Logan\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270218-utah-state-aggies-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270218T010000Z
+DTEND:20270218T024500Z
+SUMMARY:Utah State Aggies - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:Dee Glen Smith Spectrum\, Logan\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-san-diego-state-aztecs-washington-state-cougars-dia@spor
+ tcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J25 | 🏟️ | Washington State Co
+ ugars 🇺🇸
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-san-diego-state-aztecs-washington-state-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T213000Z
+DTEND:20270220T231500Z
+SUMMARY:San Diego State Aztecs - Washington State Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270226-san-diego-state-aztecs-oregon-state-beavers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J26 | 🏟️ | Oregon State Beaver
+ s 🇺🇸
+DESCRIPTION:Inici: 04:30 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270226-san-diego-state-aztecs-oregon-state-beavers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270226T033000Z
+DTEND:20270226T051500Z
+SUMMARY:San Diego State Aztecs - Oregon State Beavers
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-gonzaga-bulldogs-san-diego-state-aztecs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J27 | ✈️ | Gonzaga Bulldogs 
+ 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: McCart
+ hey Athletic Center\, Spokane\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-gonzaga-bulldogs-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T210000Z
+DTEND:20270227T224500Z
+SUMMARY:Gonzaga Bulldogs - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:McCarthey Athletic Center\, Spokane\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270304-fresno-state-bulldogs-san-diego-state-aztecs-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J28 | ✈️ | Fresno State Bulldog
+ s 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Save M
+ art Center\, Fresno\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270304-fresno-state-bulldogs-san-diego-state-aztecs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270304T030000Z
+DTEND:20270304T044500Z
+SUMMARY:Fresno State Bulldogs - San Diego State Aztecs
+DESCRIPTION:NCAA Division I
+LOCATION:Save Mart Center\, Fresno\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270307-san-diego-state-aztecs-boise-state-broncos-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:SAN DIEGO STATE AZTECS | NCAA | J29 | 🏟️ | Boise State Broncos
+  🇺🇸
+DESCRIPTION:Inici: 04:30 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270307-san-diego-state-aztecs-boise-state-broncos@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270307T033000Z
+DTEND:20270307T051500Z
+SUMMARY:San Diego State Aztecs - Boise State Broncos
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+END:VCALENDAR

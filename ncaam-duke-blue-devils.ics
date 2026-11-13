@@ -1,0 +1,546 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Duke Blue Devils · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261114-duke-blue-devils-siu-edwardsville-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:DUKE BLUE DEVILS | NCAA | J1 | 🏟️ | SIU Edwardsville Cougars 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261114-duke-blue-devils-siu-edwardsville-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T010000Z
+DTEND:20261114T024500Z
+SUMMARY:Duke Blue Devils - SIU Edwardsville Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261118-duke-blue-devils-illinois-fighting-illini-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:DUKE BLUE DEVILS | NCAA | J2 | 🏟️ | Illinois Fighting Illini 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261118-duke-blue-devils-illinois-fighting-illini@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261118T000000Z
+DTEND:20261118T014500Z
+SUMMARY:Duke Blue Devils - Illinois Fighting Illini
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261122-duke-blue-devils-washington-state-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:DUKE BLUE DEVILS | NCAA | J3 | 🏟️ | Washington State Cougars 
+ 🇺🇸
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · NCAA Division I\nEstadi: Acrisu
+ re Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261122-duke-blue-devils-washington-state-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261122T040000Z
+DTEND:20261122T054500Z
+SUMMARY:Duke Blue Devils - Washington State Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:Acrisure Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261126-duke-blue-devils-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:DUKE BLUE DEVILS | NCAA | J59 | 🏟️ | UConn Huskies 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: T-Mobi
+ le Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261126-duke-blue-devils-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261126T000000Z
+DTEND:20261126T014500Z
+SUMMARY:Duke Blue Devils - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261202-florida-gators-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:DUKE BLUE DEVILS | NCAA | J6 | ✈️ | Florida Gators 🇺🇸
+DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  Hill Arena\, Gainesville\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261202-florida-gators-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261202T023000Z
+DTEND:20261202T041500Z
+SUMMARY:Florida Gators - Duke Blue Devils
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas Hill Arena\, Gainesville\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-duke-blue-devils-harvard-crimson-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:DUKE BLUE DEVILS | NCAA | J111 | 🏟️ | Harvard Crimson 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-duke-blue-devils-harvard-crimson@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T000000Z
+DTEND:20261205T014500Z
+SUMMARY:Duke Blue Devils - Harvard Crimson
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-duke-blue-devils-georgia-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:DUKE BLUE DEVILS | NCAA | J9 | 🏟️ | Georgia Bulldogs 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Madiso
+ n Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-duke-blue-devils-georgia-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261209T020000Z
+DTEND:20261209T034500Z
+SUMMARY:Duke Blue Devils - Georgia Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:Madison Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-duke-blue-devils-campbell-fighting-camels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:DUKE BLUE DEVILS | NCAA | J9 | 🏟️ | Campbell Fighting Camels 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-duke-blue-devils-campbell-fighting-camels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261216T000000Z
+DTEND:20261216T014500Z
+SUMMARY:Duke Blue Devils - Campbell Fighting Camels
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261218-duke-blue-devils-grambling-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:DUKE BLUE DEVILS | NCAA | J10 | 🏟️ | Grambling Tigers 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261218-duke-blue-devils-grambling-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261218T010000Z
+DTEND:20261218T024500Z
+SUMMARY:Duke Blue Devils - Grambling Tigers
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-duke-blue-devils-texas-tech-red-raiders-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:DUKE BLUE DEVILS | NCAA | J117 | 🏟️ | Texas Tech Red Raiders 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Madiso
+ n Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-duke-blue-devils-texas-tech-red-raiders@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261222T000000Z
+DTEND:20261222T014500Z
+SUMMARY:Duke Blue Devils - Texas Tech Red Raiders
+DESCRIPTION:NCAA Division I
+LOCATION:Madison Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-georgia-tech-yellow-jackets-duke-blue-devils-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:DUKE BLUE DEVILS | NCAA | J10 | ✈️ | Georgia Tech Yellow Jacket
+ s 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: McCami
+ sh Pavilion\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-georgia-tech-yellow-jackets-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261231T003000Z
+DTEND:20261231T021500Z
+SUMMARY:Georgia Tech Yellow Jackets - Duke Blue Devils
+DESCRIPTION:NCAA Division I
+LOCATION:McCamish Pavilion\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-duke-blue-devils-california-golden-bears-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:DUKE BLUE DEVILS | NCAA | J12 | 🏟️ | California Golden Bears 
+ 🇺🇸
+DESCRIPTION:Inici: 20:15 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-duke-blue-devils-california-golden-bears@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270102T191500Z
+DTEND:20270102T210000Z
+SUMMARY:Duke Blue Devils - California Golden Bears
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270106-syracuse-orange-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:DUKE BLUE DEVILS | NCAA | J13 | ✈️ | Syracuse Orange 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: JMA Wi
+ reless Dome\, Syracuse\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270106-syracuse-orange-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270106T000000Z
+DTEND:20270106T014500Z
+SUMMARY:Syracuse Orange - Duke Blue Devils
+DESCRIPTION:NCAA Division I
+LOCATION:JMA Wireless Dome\, Syracuse\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-duke-blue-devils-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:DUKE BLUE DEVILS | NCAA | J14 | 🏟️ | Pittsburgh Panthers 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-duke-blue-devils-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Duke Blue Devils - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270114-duke-blue-devils-stanford-cardinal-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:DUKE BLUE DEVILS | NCAA | J15 | 🏟️ | Stanford Cardinal 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270114-duke-blue-devils-stanford-cardinal@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270114T020000Z
+DTEND:20270114T034500Z
+SUMMARY:Duke Blue Devils - Stanford Cardinal
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-boston-college-eagles-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:DUKE BLUE DEVILS | NCAA | J16 | ✈️ | Boston College Eagles 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Conte 
+ Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-boston-college-eagles-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:Boston College Eagles - Duke Blue Devils
+DESCRIPTION:NCAA Division I
+LOCATION:Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-wake-forest-demon-deacons-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:DUKE BLUE DEVILS | NCAA | J18 | ✈️ | Wake Forest Demon Deacons 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: LJVM C
+ oliseum\, Winston-Salem\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-wake-forest-demon-deacons-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270121T020000Z
+DTEND:20270121T034500Z
+SUMMARY:Wake Forest Demon Deacons - Duke Blue Devils
+DESCRIPTION:NCAA Division I
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-duke-blue-devils-notre-dame-fighting-irish-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:DUKE BLUE DEVILS | NCAA | J16 | 🏟️ | Notre Dame Fighting Irish
+  🇺🇸
+DESCRIPTION:Inici: 20:15 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-duke-blue-devils-notre-dame-fighting-irish@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T191500Z
+DTEND:20270123T210000Z
+SUMMARY:Duke Blue Devils - Notre Dame Fighting Irish
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-clemson-tigers-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:DUKE BLUE DEVILS | NCAA | J20 | ✈️ | Clemson Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-clemson-tigers-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Clemson Tigers - Duke Blue Devils · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270202-duke-blue-devils-miami-hurricanes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:DUKE BLUE DEVILS | NCAA | J21 | 🏟️ | Miami Hurricanes 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270202-duke-blue-devils-miami-hurricanes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270202T000000Z
+DTEND:20270202T014500Z
+SUMMARY:Duke Blue Devils - Miami Hurricanes
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-virginia-cavaliers-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:DUKE BLUE DEVILS | NCAA | J19 | ✈️ | Virginia Cavaliers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-virginia-cavaliers-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Virginia Cavaliers - Duke Blue Devils · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-smu-mustangs-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:DUKE BLUE DEVILS | NCAA | J22 | ✈️ | SMU Mustangs 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Moody 
+ Coliseum (Dallas)\, Dallas\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-smu-mustangs-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270210T020000Z
+DTEND:20270210T034500Z
+SUMMARY:SMU Mustangs - Duke Blue Devils
+DESCRIPTION:NCAA Division I
+LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-duke-blue-devils-north-carolina-tar-heels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:DUKE BLUE DEVILS | NCAA | J22 | 🏟️ | North Carolina Tar Heels 
+ 🇺🇸
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-duke-blue-devils-north-carolina-tar-heels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T223000Z
+DTEND:20270214T001500Z
+SUMMARY:Duke Blue Devils - North Carolina Tar Heels
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-duke-blue-devils-florida-state-seminoles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:DUKE BLUE DEVILS | NCAA | J24 | 🏟️ | Florida State Seminoles 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-duke-blue-devils-florida-state-seminoles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270217T000000Z
+DTEND:20270217T014500Z
+SUMMARY:Duke Blue Devils - Florida State Seminoles
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-duke-blue-devils-gonzaga-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:DUKE BLUE DEVILS | NCAA | J25 | 🏟️ | Gonzaga Bulldogs 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Little
+  Caesars Arena\, Detroit\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-duke-blue-devils-gonzaga-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270221T010000Z
+DTEND:20270221T024500Z
+SUMMARY:Duke Blue Devils - Gonzaga Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:Little Caesars Arena\, Detroit\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-louisville-cardinals-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:DUKE BLUE DEVILS | NCAA | J28 | ✈️ | Louisville Cardinals 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: KFC Yu
+ m! Center\, Louisville\, KY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-louisville-cardinals-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270225T000000Z
+DTEND:20270225T014500Z
+SUMMARY:Louisville Cardinals - Duke Blue Devils
+DESCRIPTION:NCAA Division I
+LOCATION:KFC Yum! Center\, Louisville\, KY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-duke-blue-devils-nc-state-wolfpack-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:DUKE BLUE DEVILS | NCAA | J27 | 🏟️ | NC State Wolfpack 🇺
+ 🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-duke-blue-devils-nc-state-wolfpack@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:Duke Blue Devils - NC State Wolfpack
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270302-duke-blue-devils-virginia-cavaliers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:DUKE BLUE DEVILS | NCAA | J27 | 🏟️ | Virginia Cavaliers 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270302-duke-blue-devils-virginia-cavaliers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270302T000000Z
+DTEND:20270302T014500Z
+SUMMARY:Duke Blue Devils - Virginia Cavaliers
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-north-carolina-tar-heels-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:DUKE BLUE DEVILS | NCAA | J29 | ✈️ | North Carolina Tar Heels 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-north-carolina-tar-heels-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:North Carolina Tar Heels - Duke Blue Devils · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+END:VCALENDAR

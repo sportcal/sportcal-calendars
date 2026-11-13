@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:San Diego Padres · MLB
 BEGIN:VEVENT
 UID:mlb-20270331-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:SAN DIEGO PADRES | MLB | J1 | 🏟️ | Colorado Rockies 🇺🇸
@@ -15,7 +15,7 @@ DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270331T014000Z
 DTEND:20270331T032500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -24,7 +24,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:SAN DIEGO PADRES | MLB | J1 | 🏟️ | Colorado Rockies 🇺🇸
@@ -33,7 +33,7 @@ DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270331T201000Z
 DTEND:20270331T215500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -41,8 +41,59 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270402-pittsburgh-pirates-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:SAN DIEGO PADRES | MLB | J3 | ✈️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270402-pittsburgh-pirates-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Pittsburgh Pirates - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-pittsburgh-pirates-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:SAN DIEGO PADRES | MLB | J4 | ✈️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-pittsburgh-pirates-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Pittsburgh Pirates - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-pittsburgh-pirates-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:SAN DIEGO PADRES | MLB | J5 | ✈️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-pittsburgh-pirates-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Pittsburgh Pirates - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270406-st-louis-cardinals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:SAN DIEGO PADRES | MLB | J6 | ✈️ | St. Louis Cardinals 🇺🇸
@@ -51,7 +102,7 @@ DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270406-st-louis-cardinals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270405T234500Z
 DTEND:20270406T013000Z
 SUMMARY:St. Louis Cardinals - San Diego Padres
@@ -60,7 +111,7 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-st-louis-cardinals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:SAN DIEGO PADRES | MLB | J7 | ✈️ | St. Louis Cardinals 🇺🇸
@@ -69,7 +120,7 @@ DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-st-louis-cardinals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270406T234500Z
 DTEND:20270407T013000Z
 SUMMARY:St. Louis Cardinals - San Diego Padres
@@ -78,7 +129,7 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-st-louis-cardinals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:SAN DIEGO PADRES | MLB | J7 | ✈️ | St. Louis Cardinals 🇺🇸
@@ -87,7 +138,7 @@ DESCRIPTION:Inici: 19:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-st-louis-cardinals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270407T171500Z
 DTEND:20270407T190000Z
 SUMMARY:St. Louis Cardinals - San Diego Padres
@@ -96,17 +147,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-san-diego-padres-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-SUMMARY:SAN DIEGO PADRES | MLB | J9 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J10 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-san-diego-padres-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270410T014000Z
 DTEND:20270410T032500Z
 SUMMARY:San Diego Padres - Los Angeles Dodgers
@@ -115,7 +166,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-san-diego-padres-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:SAN DIEGO PADRES | MLB | J11 | 🏟️ | Los Angeles Dodgers 🇺
@@ -125,7 +176,7 @@ DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-san-diego-padres-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270411T004000Z
 DTEND:20270411T022500Z
 SUMMARY:San Diego Padres - Los Angeles Dodgers
@@ -134,7 +185,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-san-diego-padres-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:SAN DIEGO PADRES | MLB | J11 | 🏟️ | Los Angeles Dodgers 🇺
@@ -144,7 +195,7 @@ DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-san-diego-padres-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270411T201000Z
 DTEND:20270411T215500Z
 SUMMARY:San Diego Padres - Los Angeles Dodgers
@@ -153,17 +204,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270413-san-diego-padres-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
-SUMMARY:SAN DIEGO PADRES | MLB | J10 | 🏟️ | St. Louis Cardinals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J12 | 🏟️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270413-san-diego-padres-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270413T014000Z
 DTEND:20270413T032500Z
 SUMMARY:San Diego Padres - St. Louis Cardinals
@@ -172,17 +223,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270414-san-diego-padres-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
-SUMMARY:SAN DIEGO PADRES | MLB | J8 | 🏟️ | St. Louis Cardinals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J13 | 🏟️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270414-san-diego-padres-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270414T014000Z
 DTEND:20270414T032500Z
 SUMMARY:San Diego Padres - St. Louis Cardinals
@@ -191,17 +242,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-diego-padres-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:SAN DIEGO PADRES | MLB | J9 | 🏟️ | St. Louis Cardinals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J14 | 🏟️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-diego-padres-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270415T014000Z
 DTEND:20270415T032500Z
 SUMMARY:San Diego Padres - St. Louis Cardinals
@@ -210,17 +261,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-diego-padres-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:SAN DIEGO PADRES | MLB | J9 | 🏟️ | St. Louis Cardinals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J14 | 🏟️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-diego-padres-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270415T201000Z
 DTEND:20270415T215500Z
 SUMMARY:San Diego Padres - St. Louis Cardinals
@@ -228,17 +279,71 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270416-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:SAN DIEGO PADRES | MLB | J16 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270416-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:SAN DIEGO PADRES | MLB | J17 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:SAN DIEGO PADRES | MLB | J18 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270421-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-SUMMARY:SAN DIEGO PADRES | MLB | J13 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J19 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270421T004000Z
 DTEND:20270421T022500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -247,16 +352,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-SUMMARY:SAN DIEGO PADRES | MLB | J14 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J20 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270422T004000Z
 DTEND:20270422T022500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -265,16 +370,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-SUMMARY:SAN DIEGO PADRES | MLB | J14 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J20 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270422T191000Z
 DTEND:20270422T205500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -283,16 +388,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-minnesota-twins-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:SAN DIEGO PADRES | MLB | J16 | ✈️ | Minnesota Twins 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J22 | ✈️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-minnesota-twins-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270423T234000Z
 DTEND:20270424T012500Z
 SUMMARY:Minnesota Twins - San Diego Padres
@@ -301,16 +406,16 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-minnesota-twins-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:SAN DIEGO PADRES | MLB | J17 | ✈️ | Minnesota Twins 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J23 | ✈️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-minnesota-twins-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270424T231500Z
 DTEND:20270425T010000Z
 SUMMARY:Minnesota Twins - San Diego Padres
@@ -319,16 +424,16 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-minnesota-twins-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:SAN DIEGO PADRES | MLB | J17 | ✈️ | Minnesota Twins 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J23 | ✈️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-minnesota-twins-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270425T181000Z
 DTEND:20270425T195500Z
 SUMMARY:Minnesota Twins - San Diego Padres
@@ -337,17 +442,17 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-san-diego-padres-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-SUMMARY:SAN DIEGO PADRES | MLB | J19 | 🏟️ | Philadelphia Phillies 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J26 | 🏟️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-san-diego-padres-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270428T014000Z
 DTEND:20270428T032500Z
 SUMMARY:San Diego Padres - Philadelphia Phillies
@@ -356,17 +461,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-san-diego-padres-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-SUMMARY:SAN DIEGO PADRES | MLB | J22 | 🏟️ | Philadelphia Phillies 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J27 | 🏟️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-san-diego-padres-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270429T014000Z
 DTEND:20270429T032500Z
 SUMMARY:San Diego Padres - Philadelphia Phillies
@@ -375,17 +480,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-san-diego-padres-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-SUMMARY:SAN DIEGO PADRES | MLB | J22 | 🏟️ | Philadelphia Phillies 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J27 | 🏟️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-san-diego-padres-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270429T201000Z
 DTEND:20270429T215500Z
 SUMMARY:San Diego Padres - Philadelphia Phillies
@@ -394,16 +499,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270501-san-diego-padres-baltimore-orioles-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-SUMMARY:SAN DIEGO PADRES | MLB | J23 | 🏟️ | Baltimore Orioles 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J29 | 🏟️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270501-san-diego-padres-baltimore-orioles@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270501T014000Z
 DTEND:20270501T032500Z
 SUMMARY:San Diego Padres - Baltimore Orioles
@@ -412,16 +517,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-san-diego-padres-baltimore-orioles-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-SUMMARY:SAN DIEGO PADRES | MLB | J24 | 🏟️ | Baltimore Orioles 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J30 | 🏟️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-san-diego-padres-baltimore-orioles@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270502T004000Z
 DTEND:20270502T022500Z
 SUMMARY:San Diego Padres - Baltimore Orioles
@@ -430,16 +535,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-san-diego-padres-baltimore-orioles-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-SUMMARY:SAN DIEGO PADRES | MLB | J24 | 🏟️ | Baltimore Orioles 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J30 | 🏟️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-san-diego-padres-baltimore-orioles@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270502T201000Z
 DTEND:20270502T215500Z
 SUMMARY:San Diego Padres - Baltimore Orioles
@@ -448,16 +553,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-atlanta-braves-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-SUMMARY:SAN DIEGO PADRES | MLB | J24 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J34 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-atlanta-braves-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270504T231500Z
 DTEND:20270505T010000Z
 SUMMARY:Atlanta Braves - San Diego Padres
@@ -466,16 +571,16 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-atlanta-braves-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-SUMMARY:SAN DIEGO PADRES | MLB | J25 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J34 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-atlanta-braves-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270505T231500Z
 DTEND:20270506T010000Z
 SUMMARY:Atlanta Braves - San Diego Padres
@@ -483,17 +588,34 @@ DESCRIPTION:MLB
 LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-20270507-atlanta-braves-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+UID:mlb-20270507-detroit-tigers-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-SUMMARY:SAN DIEGO PADRES | MLB | J25 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J35 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270507-detroit-tigers-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Detroit Tigers - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270507-atlanta-braves-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:SAN DIEGO PADRES | MLB | J35 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-atlanta-braves-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270506T231500Z
 DTEND:20270507T010000Z
 SUMMARY:Atlanta Braves - San Diego Padres
@@ -501,18 +623,52 @@ DESCRIPTION:MLB
 LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270508-detroit-tigers-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SAN DIEGO PADRES | MLB | J35 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270508-detroit-tigers-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Detroit Tigers - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270509-detroit-tigers-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:SAN DIEGO PADRES | MLB | J36 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270509-detroit-tigers-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Detroit Tigers - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270511-san-diego-padres-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
-SUMMARY:SAN DIEGO PADRES | MLB | J28 | 🏟️ | Kansas City Royals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J37 | 🏟️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270511-san-diego-padres-kansas-city-royals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270511T014000Z
 DTEND:20270511T032500Z
 SUMMARY:San Diego Padres - Kansas City Royals
@@ -521,17 +677,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-san-diego-padres-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
-SUMMARY:SAN DIEGO PADRES | MLB | J29 | 🏟️ | Kansas City Royals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J38 | 🏟️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-san-diego-padres-kansas-city-royals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270512T014000Z
 DTEND:20270512T032500Z
 SUMMARY:San Diego Padres - Kansas City Royals
@@ -540,17 +696,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-san-diego-padres-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:SAN DIEGO PADRES | MLB | J30 | 🏟️ | Kansas City Royals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J39 | 🏟️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-san-diego-padres-kansas-city-royals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270513T004000Z
 DTEND:20270513T022500Z
 SUMMARY:San Diego Padres - Kansas City Royals
@@ -559,16 +715,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-san-diego-padres-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-SUMMARY:SAN DIEGO PADRES | MLB | J32 | 🏟️ | Cincinnati Reds 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J42 | 🏟️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-san-diego-padres-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270515T014000Z
 DTEND:20270515T032500Z
 SUMMARY:San Diego Padres - Cincinnati Reds
@@ -577,16 +733,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-diego-padres-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:SAN DIEGO PADRES | MLB | J33 | 🏟️ | Cincinnati Reds 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J43 | 🏟️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-diego-padres-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270516T004000Z
 DTEND:20270516T022500Z
 SUMMARY:San Diego Padres - Cincinnati Reds
@@ -595,16 +751,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-diego-padres-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:SAN DIEGO PADRES | MLB | J33 | 🏟️ | Cincinnati Reds 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J43 | 🏟️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-diego-padres-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270516T201000Z
 DTEND:20270516T215500Z
 SUMMARY:San Diego Padres - Cincinnati Reds
@@ -613,16 +769,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270518-san-diego-padres-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
-SUMMARY:SAN DIEGO PADRES | MLB | J35 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J44 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270518-san-diego-padres-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270518T014000Z
 DTEND:20270518T032500Z
 SUMMARY:San Diego Padres - New York Mets
@@ -631,16 +787,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-san-diego-padres-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-SUMMARY:SAN DIEGO PADRES | MLB | J36 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J45 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-san-diego-padres-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270519T014000Z
 DTEND:20270519T032500Z
 SUMMARY:San Diego Padres - New York Mets
@@ -649,16 +805,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-san-diego-padres-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-SUMMARY:SAN DIEGO PADRES | MLB | J36 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J45 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-san-diego-padres-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270519T201000Z
 DTEND:20270519T215500Z
 SUMMARY:San Diego Padres - New York Mets
@@ -666,17 +822,143 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270521-los-angeles-dodgers-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:SAN DIEGO PADRES | MLB | J47 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270521-los-angeles-dodgers-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Los Angeles Dodgers - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-los-angeles-dodgers-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:SAN DIEGO PADRES | MLB | J48 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-los-angeles-dodgers-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Los Angeles Dodgers - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-los-angeles-dodgers-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:SAN DIEGO PADRES | MLB | J49 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-los-angeles-dodgers-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Los Angeles Dodgers - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270524-san-francisco-giants-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:SAN DIEGO PADRES | MLB | J50 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270524-san-francisco-giants-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:San Francisco Giants - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-san-francisco-giants-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:SAN DIEGO PADRES | MLB | J51 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-san-francisco-giants-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:San Francisco Giants - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-san-francisco-giants-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:SAN DIEGO PADRES | MLB | J52 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-san-francisco-giants-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:San Francisco Giants - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-san-francisco-giants-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:SAN DIEGO PADRES | MLB | J53 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-san-francisco-giants-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:San Francisco Giants - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270529-san-diego-padres-boston-red-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-SUMMARY:SAN DIEGO PADRES | MLB | J42 | 🏟️ | Boston Red Sox 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J53 | 🏟️ | Boston Red Sox 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-san-diego-padres-boston-red-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270529T014000Z
 DTEND:20270529T032500Z
 SUMMARY:San Diego Padres - Boston Red Sox
@@ -685,16 +967,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-san-diego-padres-boston-red-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-SUMMARY:SAN DIEGO PADRES | MLB | J38 | 🏟️ | Boston Red Sox 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J54 | 🏟️ | Boston Red Sox 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-san-diego-padres-boston-red-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270530T014000Z
 DTEND:20270530T032500Z
 SUMMARY:San Diego Padres - Boston Red Sox
@@ -703,16 +985,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-san-diego-padres-boston-red-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-SUMMARY:SAN DIEGO PADRES | MLB | J38 | 🏟️ | Boston Red Sox 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J54 | 🏟️ | Boston Red Sox 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-san-diego-padres-boston-red-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270530T201000Z
 DTEND:20270530T215500Z
 SUMMARY:San Diego Padres - Boston Red Sox
@@ -720,17 +1002,68 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270531-athletics-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:SAN DIEGO PADRES | MLB | J56 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270531-athletics-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Athletics - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-athletics-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:SAN DIEGO PADRES | MLB | J57 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-athletics-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Athletics - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-athletics-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:SAN DIEGO PADRES | MLB | J58 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-athletics-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Athletics - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270605-san-diego-padres-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-SUMMARY:SAN DIEGO PADRES | MLB | J47 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J61 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-san-diego-padres-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270605T014000Z
 DTEND:20270605T032500Z
 SUMMARY:San Diego Padres - Milwaukee Brewers
@@ -739,16 +1072,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-san-diego-padres-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
-SUMMARY:SAN DIEGO PADRES | MLB | J49 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J62 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-san-diego-padres-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270606T004000Z
 DTEND:20270606T022500Z
 SUMMARY:San Diego Padres - Milwaukee Brewers
@@ -757,16 +1090,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-san-diego-padres-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
-SUMMARY:SAN DIEGO PADRES | MLB | J49 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J62 | 🏟️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-san-diego-padres-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270606T201000Z
 DTEND:20270606T215500Z
 SUMMARY:San Diego Padres - Milwaukee Brewers
@@ -775,17 +1108,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270608-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
-SUMMARY:SAN DIEGO PADRES | MLB | J48 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J64 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270608-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270608T014000Z
 DTEND:20270608T032500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -794,17 +1127,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
-SUMMARY:SAN DIEGO PADRES | MLB | J51 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J65 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270609T014000Z
 DTEND:20270609T032500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -813,17 +1146,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
-SUMMARY:SAN DIEGO PADRES | MLB | J51 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J65 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270609T201000Z
 DTEND:20270609T215500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -831,17 +1164,68 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270611-miami-marlins-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:SAN DIEGO PADRES | MLB | J65 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270611-miami-marlins-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Miami Marlins - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-miami-marlins-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:SAN DIEGO PADRES | MLB | J66 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-miami-marlins-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Miami Marlins - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-miami-marlins-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:SAN DIEGO PADRES | MLB | J67 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-miami-marlins-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Miami Marlins - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270616-new-york-mets-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
-SUMMARY:SAN DIEGO PADRES | MLB | J53 | ✈️ | New York Mets 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J70 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-new-york-mets-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270615T231000Z
 DTEND:20270616T005500Z
 SUMMARY:New York Mets - San Diego Padres
@@ -850,16 +1234,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-new-york-mets-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-SUMMARY:SAN DIEGO PADRES | MLB | J56 | ✈️ | New York Mets 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J71 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-new-york-mets-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270616T231000Z
 DTEND:20270617T005500Z
 SUMMARY:New York Mets - San Diego Padres
@@ -868,16 +1252,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-new-york-mets-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-SUMMARY:SAN DIEGO PADRES | MLB | J56 | ✈️ | New York Mets 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J71 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 19:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-new-york-mets-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270617T171000Z
 DTEND:20270617T185500Z
 SUMMARY:New York Mets - San Diego Padres
@@ -886,17 +1270,17 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-san-diego-padres-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-SUMMARY:SAN DIEGO PADRES | MLB | J56 | 🏟️ | Pittsburgh Pirates 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J73 | 🏟️ | Pittsburgh Pirates 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-san-diego-padres-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270619T014000Z
 DTEND:20270619T032500Z
 SUMMARY:San Diego Padres - Pittsburgh Pirates
@@ -905,17 +1289,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-san-diego-padres-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-SUMMARY:SAN DIEGO PADRES | MLB | J58 | 🏟️ | Pittsburgh Pirates 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J74 | 🏟️ | Pittsburgh Pirates 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-san-diego-padres-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270620T014000Z
 DTEND:20270620T032500Z
 SUMMARY:San Diego Padres - Pittsburgh Pirates
@@ -924,17 +1308,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-san-diego-padres-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-SUMMARY:SAN DIEGO PADRES | MLB | J58 | 🏟️ | Pittsburgh Pirates 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J74 | 🏟️ | Pittsburgh Pirates 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-san-diego-padres-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270620T201000Z
 DTEND:20270620T215500Z
 SUMMARY:San Diego Padres - Pittsburgh Pirates
@@ -943,16 +1327,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-san-diego-padres-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
-SUMMARY:SAN DIEGO PADRES | MLB | J59 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J76 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-san-diego-padres-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270622T001000Z
 DTEND:20270622T015500Z
 SUMMARY:San Diego Padres - Chicago Cubs
@@ -961,16 +1345,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-san-diego-padres-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
-SUMMARY:SAN DIEGO PADRES | MLB | J59 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J76 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-san-diego-padres-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270622T191000Z
 DTEND:20270622T205500Z
 SUMMARY:San Diego Padres - Chicago Cubs
@@ -979,16 +1363,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-san-diego-padres-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-SUMMARY:SAN DIEGO PADRES | MLB | J60 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J77 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-san-diego-padres-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270623T004000Z
 DTEND:20270623T022500Z
 SUMMARY:San Diego Padres - Chicago Cubs
@@ -996,17 +1380,119 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270625-toronto-blue-jays-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:SAN DIEGO PADRES | MLB | J77 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270625-toronto-blue-jays-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Toronto Blue Jays - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-toronto-blue-jays-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:SAN DIEGO PADRES | MLB | J78 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-toronto-blue-jays-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Toronto Blue Jays - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-toronto-blue-jays-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:SAN DIEGO PADRES | MLB | J79 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-toronto-blue-jays-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Toronto Blue Jays - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270628-chicago-cubs-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:SAN DIEGO PADRES | MLB | J81 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270628-chicago-cubs-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Chicago Cubs - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-chicago-cubs-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:SAN DIEGO PADRES | MLB | J82 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-chicago-cubs-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Chicago Cubs - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-chicago-cubs-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:SAN DIEGO PADRES | MLB | J83 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-chicago-cubs-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Chicago Cubs - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270703-san-diego-padres-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
-SUMMARY:SAN DIEGO PADRES | MLB | J60 | 🏟️ | Tampa Bay Rays 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J85 | 🏟️ | Tampa Bay Rays 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-san-diego-padres-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270703T014000Z
 DTEND:20270703T032500Z
 SUMMARY:San Diego Padres - Tampa Bay Rays
@@ -1015,16 +1501,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-san-diego-padres-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:SAN DIEGO PADRES | MLB | J66 | 🏟️ | Tampa Bay Rays 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J86 | 🏟️ | Tampa Bay Rays 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-san-diego-padres-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T004000Z
 DTEND:20270704T022500Z
 SUMMARY:San Diego Padres - Tampa Bay Rays
@@ -1033,16 +1519,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-san-diego-padres-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:SAN DIEGO PADRES | MLB | J66 | 🏟️ | Tampa Bay Rays 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J86 | 🏟️ | Tampa Bay Rays 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-san-diego-padres-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T201000Z
 DTEND:20270704T215500Z
 SUMMARY:San Diego Padres - Tampa Bay Rays
@@ -1050,17 +1536,68 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270706-seattle-mariners-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:SAN DIEGO PADRES | MLB | J88 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270706-seattle-mariners-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Seattle Mariners - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-seattle-mariners-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:SAN DIEGO PADRES | MLB | J89 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-seattle-mariners-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Seattle Mariners - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-seattle-mariners-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:SAN DIEGO PADRES | MLB | J90 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-seattle-mariners-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Seattle Mariners - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270710-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:SAN DIEGO PADRES | MLB | J63 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J92 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270710T001000Z
 DTEND:20270710T015500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -1069,16 +1606,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:SAN DIEGO PADRES | MLB | J63 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J92 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270710T191000Z
 DTEND:20270710T205500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -1087,16 +1624,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:SAN DIEGO PADRES | MLB | J68 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J93 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270711T004000Z
 DTEND:20270711T022500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -1105,16 +1642,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:SAN DIEGO PADRES | MLB | J68 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J93 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270711T191000Z
 DTEND:20270711T205500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -1123,16 +1660,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-san-diego-padres-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
-SUMMARY:SAN DIEGO PADRES | MLB | J62 | 🏟️ | Seattle Mariners 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J94 | 🏟️ | Seattle Mariners 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-san-diego-padres-seattle-mariners@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270717T014000Z
 DTEND:20270717T032500Z
 SUMMARY:San Diego Padres - Seattle Mariners
@@ -1141,16 +1678,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-san-diego-padres-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-SUMMARY:SAN DIEGO PADRES | MLB | J63 | 🏟️ | Seattle Mariners 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J95 | 🏟️ | Seattle Mariners 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-san-diego-padres-seattle-mariners@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270718T004000Z
 DTEND:20270718T022500Z
 SUMMARY:San Diego Padres - Seattle Mariners
@@ -1159,16 +1696,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-san-diego-padres-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-SUMMARY:SAN DIEGO PADRES | MLB | J63 | 🏟️ | Seattle Mariners 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J95 | 🏟️ | Seattle Mariners 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-san-diego-padres-seattle-mariners@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270718T201000Z
 DTEND:20270718T215500Z
 SUMMARY:San Diego Padres - Seattle Mariners
@@ -1177,17 +1714,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270720-san-diego-padres-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
-SUMMARY:SAN DIEGO PADRES | MLB | J73 | 🏟️ | Los Angeles Angels 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J98 | 🏟️ | Los Angeles Angels 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270720-san-diego-padres-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270720T014000Z
 DTEND:20270720T032500Z
 SUMMARY:San Diego Padres - Los Angeles Angels
@@ -1196,17 +1733,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-san-diego-padres-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-SUMMARY:SAN DIEGO PADRES | MLB | J74 | 🏟️ | Los Angeles Angels 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J99 | 🏟️ | Los Angeles Angels 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-san-diego-padres-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270721T014000Z
 DTEND:20270721T032500Z
 SUMMARY:San Diego Padres - Los Angeles Angels
@@ -1215,17 +1752,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-san-diego-padres-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-SUMMARY:SAN DIEGO PADRES | MLB | J74 | 🏟️ | Los Angeles Angels 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J99 | 🏟️ | Los Angeles Angels 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-san-diego-padres-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270721T201000Z
 DTEND:20270721T215500Z
 SUMMARY:San Diego Padres - Los Angeles Angels
@@ -1233,18 +1770,72 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270723-san-francisco-giants-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:SAN DIEGO PADRES | MLB | J100 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-san-francisco-giants-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:San Francisco Giants - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-san-francisco-giants-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:SAN DIEGO PADRES | MLB | J101 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-san-francisco-giants-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:San Francisco Giants - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-san-francisco-giants-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:SAN DIEGO PADRES | MLB | J102 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-san-francisco-giants-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:San Francisco Giants - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270727-san-diego-padres-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
-SUMMARY:SAN DIEGO PADRES | MLB | J79 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J104 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270727-san-diego-padres-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270727T014000Z
 DTEND:20270727T032500Z
 SUMMARY:San Diego Padres - Los Angeles Dodgers
@@ -1253,17 +1844,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-san-diego-padres-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:SAN DIEGO PADRES | MLB | J80 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J105 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-san-diego-padres-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270728T014000Z
 DTEND:20270728T032500Z
 SUMMARY:San Diego Padres - Los Angeles Dodgers
@@ -1272,17 +1863,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-san-diego-padres-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-SUMMARY:SAN DIEGO PADRES | MLB | J81 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J106 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-san-diego-padres-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270729T014000Z
 DTEND:20270729T032500Z
 SUMMARY:San Diego Padres - Los Angeles Dodgers
@@ -1291,17 +1882,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-san-diego-padres-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-SUMMARY:SAN DIEGO PADRES | MLB | J81 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J106 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-san-diego-padres-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270729T201000Z
 DTEND:20270729T215500Z
 SUMMARY:San Diego Padres - Los Angeles Dodgers
@@ -1309,17 +1900,68 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270730-houston-astros-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:SAN DIEGO PADRES | MLB | J107 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270730-houston-astros-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Houston Astros - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270731-houston-astros-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:SAN DIEGO PADRES | MLB | J108 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270731-houston-astros-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Houston Astros - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270801-houston-astros-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:SAN DIEGO PADRES | MLB | J109 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270801-houston-astros-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Houston Astros - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270803-milwaukee-brewers-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
-SUMMARY:SAN DIEGO PADRES | MLB | J83 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J110 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-milwaukee-brewers-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270802T234000Z
 DTEND:20270803T012500Z
 SUMMARY:Milwaukee Brewers - San Diego Padres
@@ -1328,16 +1970,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-milwaukee-brewers-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-SUMMARY:SAN DIEGO PADRES | MLB | J84 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J111 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-milwaukee-brewers-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270803T234000Z
 DTEND:20270804T012500Z
 SUMMARY:Milwaukee Brewers - San Diego Padres
@@ -1346,16 +1988,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-milwaukee-brewers-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-SUMMARY:SAN DIEGO PADRES | MLB | J84 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J111 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-milwaukee-brewers-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270804T181000Z
 DTEND:20270804T195500Z
 SUMMARY:Milwaukee Brewers - San Diego Padres
@@ -1364,16 +2006,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-san-diego-padres-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-SUMMARY:SAN DIEGO PADRES | MLB | J85 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J112 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-san-diego-padres-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270807T014000Z
 DTEND:20270807T032500Z
 SUMMARY:San Diego Padres - Miami Marlins
@@ -1382,16 +2024,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-san-diego-padres-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:SAN DIEGO PADRES | MLB | J85 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J113 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-san-diego-padres-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270808T004000Z
 DTEND:20270808T022500Z
 SUMMARY:San Diego Padres - Miami Marlins
@@ -1400,16 +2042,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-san-diego-padres-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:SAN DIEGO PADRES | MLB | J85 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J113 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-san-diego-padres-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270808T201000Z
 DTEND:20270808T215500Z
 SUMMARY:San Diego Padres - Miami Marlins
@@ -1418,17 +2060,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-san-diego-padres-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
-SUMMARY:SAN DIEGO PADRES | MLB | J85 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J116 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-san-diego-padres-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270810T014000Z
 DTEND:20270810T032500Z
 SUMMARY:San Diego Padres - Arizona Diamondbacks
@@ -1437,17 +2079,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-diego-padres-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-SUMMARY:SAN DIEGO PADRES | MLB | J86 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J117 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-diego-padres-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270811T014000Z
 DTEND:20270811T032500Z
 SUMMARY:San Diego Padres - Arizona Diamondbacks
@@ -1456,17 +2098,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-diego-padres-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-SUMMARY:SAN DIEGO PADRES | MLB | J86 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J117 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-diego-padres-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270811T201000Z
 DTEND:20270811T215500Z
 SUMMARY:San Diego Padres - Arizona Diamondbacks
@@ -1475,17 +2117,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-washington-nationals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
-SUMMARY:SAN DIEGO PADRES | MLB | J89 | ✈️ | Washington Nationals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J118 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-washington-nationals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270813T230500Z
 DTEND:20270814T005000Z
 SUMMARY:Washington Nationals - San Diego Padres
@@ -1494,17 +2136,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-washington-nationals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-SUMMARY:SAN DIEGO PADRES | MLB | J90 | ✈️ | Washington Nationals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J119 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-washington-nationals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270814T220500Z
 DTEND:20270814T235000Z
 SUMMARY:Washington Nationals - San Diego Padres
@@ -1513,17 +2155,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-washington-nationals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-SUMMARY:SAN DIEGO PADRES | MLB | J90 | ✈️ | Washington Nationals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J119 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-washington-nationals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270815T173500Z
 DTEND:20270815T192000Z
 SUMMARY:Washington Nationals - San Diego Padres
@@ -1532,17 +2174,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270816-washington-nationals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270816
 DTEND;VALUE=DATE:20270817
-SUMMARY:SAN DIEGO PADRES | MLB | J91 | ✈️ | Washington Nationals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J121 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270816-washington-nationals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270816T200500Z
 DTEND:20270816T215000Z
 SUMMARY:Washington Nationals - San Diego Padres
@@ -1551,17 +2193,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-philadelphia-phillies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
-SUMMARY:SAN DIEGO PADRES | MLB | J93 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J122 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-philadelphia-phillies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270817T224000Z
 DTEND:20270818T002500Z
 SUMMARY:Philadelphia Phillies - San Diego Padres
@@ -1570,17 +2212,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-philadelphia-phillies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
-SUMMARY:SAN DIEGO PADRES | MLB | J94 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J123 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-philadelphia-phillies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270818T224000Z
 DTEND:20270819T002500Z
 SUMMARY:Philadelphia Phillies - San Diego Padres
@@ -1589,17 +2231,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-philadelphia-phillies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
-SUMMARY:SAN DIEGO PADRES | MLB | J94 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J123 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-philadelphia-phillies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270819T163500Z
 DTEND:20270819T182000Z
 SUMMARY:Philadelphia Phillies - San Diego Padres
@@ -1608,17 +2250,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-san-diego-padres-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
-SUMMARY:SAN DIEGO PADRES | MLB | J89 | 🏟️ | Washington Nationals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J125 | 🏟️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-san-diego-padres-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270821T014000Z
 DTEND:20270821T032500Z
 SUMMARY:San Diego Padres - Washington Nationals
@@ -1627,17 +2269,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-san-diego-padres-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:SAN DIEGO PADRES | MLB | J90 | 🏟️ | Washington Nationals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J126 | 🏟️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-san-diego-padres-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270822T004000Z
 DTEND:20270822T022500Z
 SUMMARY:San Diego Padres - Washington Nationals
@@ -1646,17 +2288,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-san-diego-padres-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:SAN DIEGO PADRES | MLB | J90 | 🏟️ | Washington Nationals 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J126 | 🏟️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-san-diego-padres-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270822T201000Z
 DTEND:20270822T215500Z
 SUMMARY:San Diego Padres - Washington Nationals
@@ -1665,17 +2307,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270824-san-diego-padres-cleveland-guardians-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
-SUMMARY:SAN DIEGO PADRES | MLB | J92 | 🏟️ | Cleveland Guardians 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J128 | 🏟️ | Cleveland Guardians 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270824-san-diego-padres-cleveland-guardians@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270824T014000Z
 DTEND:20270824T032500Z
 SUMMARY:San Diego Padres - Cleveland Guardians
@@ -1684,17 +2326,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-san-diego-padres-cleveland-guardians-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-SUMMARY:SAN DIEGO PADRES | MLB | J93 | 🏟️ | Cleveland Guardians 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J129 | 🏟️ | Cleveland Guardians 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-san-diego-padres-cleveland-guardians@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270825T014000Z
 DTEND:20270825T032500Z
 SUMMARY:San Diego Padres - Cleveland Guardians
@@ -1703,17 +2345,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-san-diego-padres-cleveland-guardians-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-SUMMARY:SAN DIEGO PADRES | MLB | J93 | 🏟️ | Cleveland Guardians 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J129 | 🏟️ | Cleveland Guardians 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-san-diego-padres-cleveland-guardians@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270825T201000Z
 DTEND:20270825T215500Z
 SUMMARY:San Diego Padres - Cleveland Guardians
@@ -1722,16 +2364,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-cincinnati-reds-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
-SUMMARY:SAN DIEGO PADRES | MLB | J97 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J131 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-cincinnati-reds-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270827T224000Z
 DTEND:20270828T002500Z
 SUMMARY:Cincinnati Reds - San Diego Padres
@@ -1740,16 +2382,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-cincinnati-reds-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
-SUMMARY:SAN DIEGO PADRES | MLB | J97 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J131 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-cincinnati-reds-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270828T201000Z
 DTEND:20270828T215500Z
 SUMMARY:Cincinnati Reds - San Diego Padres
@@ -1758,16 +2400,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270829-cincinnati-reds-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
-SUMMARY:SAN DIEGO PADRES | MLB | J97 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J133 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270829-cincinnati-reds-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270829T174000Z
 DTEND:20270829T192500Z
 SUMMARY:Cincinnati Reds - San Diego Padres
@@ -1776,16 +2418,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-new-york-yankees-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
-SUMMARY:SAN DIEGO PADRES | MLB | J98 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J135 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-new-york-yankees-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270831T230500Z
 DTEND:20270901T005000Z
 SUMMARY:New York Yankees - San Diego Padres
@@ -1794,16 +2436,33 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-new-york-yankees-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-SUMMARY:SAN DIEGO PADRES | MLB | J99 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J136 | ✈️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270902-new-york-yankees-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:New York Yankees - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270902-new-york-yankees-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:SAN DIEGO PADRES | MLB | J136 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-new-york-yankees-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270901T230500Z
 DTEND:20270902T005000Z
 SUMMARY:New York Yankees - San Diego Padres
@@ -1812,16 +2471,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-SUMMARY:SAN DIEGO PADRES | MLB | J101 | 🏟️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J139 | 🏟️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270904T014000Z
 DTEND:20270904T032500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -1830,16 +2489,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:SAN DIEGO PADRES | MLB | J102 | 🏟️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J140 | 🏟️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270905T004000Z
 DTEND:20270905T022500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -1848,16 +2507,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:SAN DIEGO PADRES | MLB | J102 | 🏟️ | Colorado Rockies 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J140 | 🏟️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270905T201000Z
 DTEND:20270905T215500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -1866,17 +2525,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
-SUMMARY:SAN DIEGO PADRES | MLB | J103 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J140 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 23:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270906T211000Z
 DTEND:20270906T225500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -1885,17 +2544,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-SUMMARY:SAN DIEGO PADRES | MLB | J104 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J142 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270908T014000Z
 DTEND:20270908T032500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -1904,17 +2563,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
-SUMMARY:SAN DIEGO PADRES | MLB | J107 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:SAN DIEGO PADRES | MLB | J143 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270909T004000Z
 DTEND:20270909T022500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -1922,17 +2581,71 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270910-los-angeles-dodgers-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:SAN DIEGO PADRES | MLB | J143 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-los-angeles-dodgers-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Los Angeles Dodgers - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-los-angeles-dodgers-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:SAN DIEGO PADRES | MLB | J144 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-los-angeles-dodgers-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Los Angeles Dodgers - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-los-angeles-dodgers-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:SAN DIEGO PADRES | MLB | J145 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-los-angeles-dodgers-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Los Angeles Dodgers - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270915-san-diego-padres-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
-SUMMARY:SAN DIEGO PADRES | MLB | J112 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J148 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270915-san-diego-padres-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270915T014000Z
 DTEND:20270915T032500Z
 SUMMARY:San Diego Padres - Atlanta Braves
@@ -1941,16 +2654,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270916-san-diego-padres-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
-SUMMARY:SAN DIEGO PADRES | MLB | J112 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J149 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270916-san-diego-padres-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270916T014000Z
 DTEND:20270916T032500Z
 SUMMARY:San Diego Padres - Atlanta Braves
@@ -1959,16 +2672,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270917-san-diego-padres-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
-SUMMARY:SAN DIEGO PADRES | MLB | J114 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J150 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270917-san-diego-padres-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270917T004000Z
 DTEND:20270917T022500Z
 SUMMARY:San Diego Padres - Atlanta Braves
@@ -1977,16 +2690,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270918-san-diego-padres-texas-rangers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-SUMMARY:SAN DIEGO PADRES | MLB | J112 | 🏟️ | Texas Rangers 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J151 | 🏟️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270918-san-diego-padres-texas-rangers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270918T014000Z
 DTEND:20270918T032500Z
 SUMMARY:San Diego Padres - Texas Rangers
@@ -1995,16 +2708,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-san-diego-padres-texas-rangers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-SUMMARY:SAN DIEGO PADRES | MLB | J112 | 🏟️ | Texas Rangers 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J152 | 🏟️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-san-diego-padres-texas-rangers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270919T004000Z
 DTEND:20270919T022500Z
 SUMMARY:San Diego Padres - Texas Rangers
@@ -2013,20 +2726,125 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-san-diego-padres-texas-rangers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-SUMMARY:SAN DIEGO PADRES | MLB | J112 | 🏟️ | Texas Rangers 🇺🇸
+SUMMARY:SAN DIEGO PADRES | MLB | J152 | 🏟️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-san-diego-padres-texas-rangers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270919T201000Z
 DTEND:20270919T215500Z
 SUMMARY:San Diego Padres - Texas Rangers
 DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:SAN DIEGO PADRES | MLB | J152 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:SAN DIEGO PADRES | MLB | J153 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:SAN DIEGO PADRES | MLB | J154 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-chicago-white-sox-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:SAN DIEGO PADRES | MLB | J155 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-chicago-white-sox-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Chicago White Sox - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-chicago-white-sox-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:SAN DIEGO PADRES | MLB | J157 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-chicago-white-sox-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Chicago White Sox - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-chicago-white-sox-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:SAN DIEGO PADRES | MLB | J158 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-chicago-white-sox-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Chicago White Sox - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
 END:VEVENT
 END:VCALENDAR

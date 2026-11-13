@@ -5,18 +5,52 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Philadelphia Phillies · MLB
 BEGIN:VEVENT
+UID:mlb-20270330-miami-marlins-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J1 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270330-miami-marlins-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Miami Marlins - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-miami-marlins-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J2 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-miami-marlins-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Miami Marlins - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270401-philadelphia-phillies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J1 | 🏟️ | Washington Nationals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J3 | 🏟️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 21:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270401-philadelphia-phillies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270401T190500Z
 DTEND:20270401T205000Z
 SUMMARY:Philadelphia Phillies - Washington Nationals
@@ -25,17 +59,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-philadelphia-phillies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J3 | 🏟️ | Washington Nationals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J4 | 🏟️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-philadelphia-phillies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270402T224000Z
 DTEND:20270403T002500Z
 SUMMARY:Philadelphia Phillies - Washington Nationals
@@ -44,17 +78,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-philadelphia-phillies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J3 | 🏟️ | Washington Nationals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J4 | 🏟️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-philadelphia-phillies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270403T170500Z
 DTEND:20270403T185000Z
 SUMMARY:Philadelphia Phillies - Washington Nationals
@@ -63,17 +97,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-philadelphia-phillies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J4 | 🏟️ | Washington Nationals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J6 | 🏟️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-philadelphia-phillies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270404T173500Z
 DTEND:20270404T192000Z
 SUMMARY:Philadelphia Phillies - Washington Nationals
@@ -82,17 +116,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-philadelphia-phillies-detroit-tigers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J7 | 🏟️ | Detroit Tigers 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J8 | 🏟️ | Detroit Tigers 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-philadelphia-phillies-detroit-tigers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270406T224000Z
 DTEND:20270407T002500Z
 SUMMARY:Philadelphia Phillies - Detroit Tigers
@@ -101,17 +135,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-philadelphia-phillies-detroit-tigers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J8 | 🏟️ | Detroit Tigers 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J9 | 🏟️ | Detroit Tigers 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-philadelphia-phillies-detroit-tigers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270407T224000Z
 DTEND:20270408T002500Z
 SUMMARY:Philadelphia Phillies - Detroit Tigers
@@ -120,17 +154,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-philadelphia-phillies-detroit-tigers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J8 | 🏟️ | Detroit Tigers 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J9 | 🏟️ | Detroit Tigers 🇺
  🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-philadelphia-phillies-detroit-tigers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270408T170500Z
 DTEND:20270408T185000Z
 SUMMARY:Philadelphia Phillies - Detroit Tigers
@@ -139,17 +173,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-milwaukee-brewers-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J9 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J10 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-milwaukee-brewers-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270409T234000Z
 DTEND:20270410T012500Z
 SUMMARY:Milwaukee Brewers - Philadelphia Phillies
@@ -158,17 +192,17 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-milwaukee-brewers-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J9 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J10 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-milwaukee-brewers-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270410T201000Z
 DTEND:20270410T215500Z
 SUMMARY:Milwaukee Brewers - Philadelphia Phillies
@@ -177,7 +211,7 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-milwaukee-brewers-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:PHILADELPHIA PHILLIES | MLB | J11 | ✈️ | Milwaukee Brewers 🇺
@@ -187,7 +221,7 @@ DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-milwaukee-brewers-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270411T181000Z
 DTEND:20270411T195500Z
 SUMMARY:Milwaukee Brewers - Philadelphia Phillies
@@ -195,18 +229,69 @@ DESCRIPTION:MLB
 LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270413-chicago-cubs-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J13 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270413-chicago-cubs-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Chicago Cubs - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-chicago-cubs-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J14 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-chicago-cubs-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Chicago Cubs - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-chicago-cubs-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J15 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-chicago-cubs-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Chicago Cubs - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270417-philadelphia-phillies-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J11 | 🏟️ | Milwaukee Brewers 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J16 | 🏟️ | Milwaukee Brewers 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-philadelphia-phillies-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270416T224000Z
 DTEND:20270417T002500Z
 SUMMARY:Philadelphia Phillies - Milwaukee Brewers
@@ -215,17 +300,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-philadelphia-phillies-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J12 | 🏟️ | Milwaukee Brewers 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J17 | 🏟️ | Milwaukee Brewers 
  🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-philadelphia-phillies-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270417T231500Z
 DTEND:20270418T010000Z
 SUMMARY:Philadelphia Phillies - Milwaukee Brewers
@@ -234,17 +319,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-philadelphia-phillies-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J12 | 🏟️ | Milwaukee Brewers 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J17 | 🏟️ | Milwaukee Brewers 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-philadelphia-phillies-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270418T173500Z
 DTEND:20270418T192000Z
 SUMMARY:Philadelphia Phillies - Milwaukee Brewers
@@ -253,17 +338,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-philadelphia-phillies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J15 | 🏟️ | Los Angeles Dodgers 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J19 | 🏟️ | Los Angeles Dodgers 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-philadelphia-phillies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270420T224000Z
 DTEND:20270421T002500Z
 SUMMARY:Philadelphia Phillies - Los Angeles Dodgers
@@ -272,17 +357,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-philadelphia-phillies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J14 | 🏟️ | Los Angeles Dodgers 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J20 | 🏟️ | Los Angeles Dodgers 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-philadelphia-phillies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270421T224000Z
 DTEND:20270422T002500Z
 SUMMARY:Philadelphia Phillies - Los Angeles Dodgers
@@ -291,17 +376,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270423-philadelphia-phillies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J16 | 🏟️ | Los Angeles Dodgers 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J21 | 🏟️ | Los Angeles Dodgers 
  🇺🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270423-philadelphia-phillies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270422T220500Z
 DTEND:20270422T235000Z
 SUMMARY:Philadelphia Phillies - Los Angeles Dodgers
@@ -310,17 +395,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-philadelphia-phillies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J16 | 🏟️ | Arizona Diamondbacks 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J22 | 🏟️ | Arizona Diamondbacks 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-philadelphia-phillies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270423T224000Z
 DTEND:20270424T002500Z
 SUMMARY:Philadelphia Phillies - Arizona Diamondbacks
@@ -329,17 +414,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-philadelphia-phillies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J16 | 🏟️ | Arizona Diamondbacks 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J22 | 🏟️ | Arizona Diamondbacks 
  🇺🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-philadelphia-phillies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270424T170500Z
 DTEND:20270424T185000Z
 SUMMARY:Philadelphia Phillies - Arizona Diamondbacks
@@ -348,17 +433,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-philadelphia-phillies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J17 | 🏟️ | Arizona Diamondbacks 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J23 | 🏟️ | Arizona Diamondbacks 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-philadelphia-phillies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270425T173500Z
 DTEND:20270425T192000Z
 SUMMARY:Philadelphia Phillies - Arizona Diamondbacks
@@ -367,17 +452,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270426-philadelphia-phillies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J19 | 🏟️ | Arizona Diamondbacks 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J25 | 🏟️ | Arizona Diamondbacks 
  🇺🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270426-philadelphia-phillies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270426T170500Z
 DTEND:20270426T185000Z
 SUMMARY:Philadelphia Phillies - Arizona Diamondbacks
@@ -386,17 +471,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-san-diego-padres-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J19 | ✈️ | San Diego Padres 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J26 | ✈️ | San Diego Padres 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-san-diego-padres-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270428T014000Z
 DTEND:20270428T032500Z
 SUMMARY:San Diego Padres - Philadelphia Phillies
@@ -405,17 +490,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-san-diego-padres-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J22 | ✈️ | San Diego Padres 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J27 | ✈️ | San Diego Padres 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-san-diego-padres-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270429T014000Z
 DTEND:20270429T032500Z
 SUMMARY:San Diego Padres - Philadelphia Phillies
@@ -424,17 +509,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-san-diego-padres-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J22 | ✈️ | San Diego Padres 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J27 | ✈️ | San Diego Padres 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-san-diego-padres-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270429T201000Z
 DTEND:20270429T215500Z
 SUMMARY:San Diego Padres - Philadelphia Phillies
@@ -442,18 +527,72 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270430-san-francisco-giants-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J28 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270430-san-francisco-giants-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:San Francisco Giants - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-san-francisco-giants-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J29 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-san-francisco-giants-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:San Francisco Giants - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-san-francisco-giants-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J30 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-san-francisco-giants-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:San Francisco Giants - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270505-philadelphia-phillies-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J24 | 🏟️ | New York Mets 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J32 | 🏟️ | New York Mets 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-philadelphia-phillies-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270504T224000Z
 DTEND:20270505T002500Z
 SUMMARY:Philadelphia Phillies - New York Mets
@@ -462,17 +601,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-philadelphia-phillies-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J25 | 🏟️ | New York Mets 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J33 | 🏟️ | New York Mets 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-philadelphia-phillies-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270505T224000Z
 DTEND:20270506T002500Z
 SUMMARY:Philadelphia Phillies - New York Mets
@@ -481,17 +620,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-philadelphia-phillies-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J25 | 🏟️ | New York Mets 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J34 | 🏟️ | New York Mets 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-philadelphia-phillies-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270506T220500Z
 DTEND:20270506T235000Z
 SUMMARY:Philadelphia Phillies - New York Mets
@@ -500,17 +639,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-philadelphia-phillies-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J24 | 🏟️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J35 | 🏟️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-philadelphia-phillies-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270507T224000Z
 DTEND:20270508T002500Z
 SUMMARY:Philadelphia Phillies - Atlanta Braves
@@ -519,17 +658,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-philadelphia-phillies-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J28 | 🏟️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J36 | 🏟️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-philadelphia-phillies-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270508T220500Z
 DTEND:20270508T235000Z
 SUMMARY:Philadelphia Phillies - Atlanta Braves
@@ -538,17 +677,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-philadelphia-phillies-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J28 | 🏟️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J36 | 🏟️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-philadelphia-phillies-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270509T173500Z
 DTEND:20270509T192000Z
 SUMMARY:Philadelphia Phillies - Atlanta Braves
@@ -557,16 +696,16 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-new-york-mets-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J29 | ✈️ | New York Mets 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J38 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-new-york-mets-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270511T231000Z
 DTEND:20270512T005500Z
 SUMMARY:New York Mets - Philadelphia Phillies
@@ -575,16 +714,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-new-york-mets-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J30 | ✈️ | New York Mets 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J39 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-new-york-mets-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270512T231000Z
 DTEND:20270513T005500Z
 SUMMARY:New York Mets - Philadelphia Phillies
@@ -593,16 +732,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-new-york-mets-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J30 | ✈️ | New York Mets 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J39 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 19:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-new-york-mets-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270513T171000Z
 DTEND:20270513T185500Z
 SUMMARY:New York Mets - Philadelphia Phillies
@@ -611,17 +750,17 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-new-york-yankees-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J32 | ✈️ | New York Yankees 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J42 | ✈️ | New York Yankees 🇺
  🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-new-york-yankees-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270514T230500Z
 DTEND:20270515T005000Z
 SUMMARY:New York Yankees - Philadelphia Phillies
@@ -630,17 +769,17 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-new-york-yankees-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J32 | ✈️ | New York Yankees 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J42 | ✈️ | New York Yankees 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-new-york-yankees-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270515T173500Z
 DTEND:20270515T192000Z
 SUMMARY:New York Yankees - Philadelphia Phillies
@@ -649,17 +788,17 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-new-york-yankees-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J33 | ✈️ | New York Yankees 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J43 | ✈️ | New York Yankees 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-new-york-yankees-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270516T173500Z
 DTEND:20270516T192000Z
 SUMMARY:New York Yankees - Philadelphia Phillies
@@ -668,17 +807,17 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270518-philadelphia-phillies-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J35 | 🏟️ | Miami Marlins 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J44 | 🏟️ | Miami Marlins 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270518-philadelphia-phillies-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270517T224000Z
 DTEND:20270518T002500Z
 SUMMARY:Philadelphia Phillies - Miami Marlins
@@ -687,17 +826,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-philadelphia-phillies-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J36 | 🏟️ | Miami Marlins 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J45 | 🏟️ | Miami Marlins 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-philadelphia-phillies-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270518T224000Z
 DTEND:20270519T002500Z
 SUMMARY:Philadelphia Phillies - Miami Marlins
@@ -706,17 +845,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-philadelphia-phillies-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J36 | 🏟️ | Miami Marlins 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J45 | 🏟️ | Miami Marlins 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-philadelphia-phillies-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270519T173500Z
 DTEND:20270519T192000Z
 SUMMARY:Philadelphia Phillies - Miami Marlins
@@ -725,17 +864,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-philadelphia-phillies-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J36 | 🏟️ | Los Angeles Angels 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J47 | 🏟️ | Los Angeles Angels 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-philadelphia-phillies-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270521T224000Z
 DTEND:20270522T002500Z
 SUMMARY:Philadelphia Phillies - Los Angeles Angels
@@ -744,17 +883,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-philadelphia-phillies-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J36 | 🏟️ | Los Angeles Angels 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J47 | 🏟️ | Los Angeles Angels 
  🇺🇸
 DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-philadelphia-phillies-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270522T200500Z
 DTEND:20270522T215000Z
 SUMMARY:Philadelphia Phillies - Los Angeles Angels
@@ -763,17 +902,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-philadelphia-phillies-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J37 | 🏟️ | Los Angeles Angels 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J49 | 🏟️ | Los Angeles Angels 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-philadelphia-phillies-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270523T173500Z
 DTEND:20270523T192000Z
 SUMMARY:Philadelphia Phillies - Los Angeles Angels
@@ -781,17 +920,71 @@ DESCRIPTION:MLB
 LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270525-tampa-bay-rays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J51 | ✈️ | Tampa Bay Rays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-tampa-bay-rays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Tampa Bay Rays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-tampa-bay-rays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J52 | ✈️ | Tampa Bay Rays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-tampa-bay-rays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Tampa Bay Rays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-tampa-bay-rays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J53 | ✈️ | Tampa Bay Rays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-tampa-bay-rays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Tampa Bay Rays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270529-texas-rangers-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J42 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J53 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-texas-rangers-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270529T001000Z
 DTEND:20270529T015500Z
 SUMMARY:Texas Rangers - Philadelphia Phillies
@@ -800,16 +993,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-texas-rangers-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J42 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J53 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-texas-rangers-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270529T201000Z
 DTEND:20270529T215500Z
 SUMMARY:Texas Rangers - Philadelphia Phillies
@@ -818,16 +1011,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-texas-rangers-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J38 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J54 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-texas-rangers-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270530T184000Z
 DTEND:20270530T202500Z
 SUMMARY:Texas Rangers - Philadelphia Phillies
@@ -836,17 +1029,17 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270601-philadelphia-phillies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J45 | 🏟️ | Toronto Blue Jays 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J56 | 🏟️ | Toronto Blue Jays 
  🇺🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270601-philadelphia-phillies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270531T220500Z
 DTEND:20270531T235000Z
 SUMMARY:Philadelphia Phillies - Toronto Blue Jays
@@ -855,17 +1048,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-philadelphia-phillies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J45 | 🏟️ | Toronto Blue Jays 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J57 | 🏟️ | Toronto Blue Jays 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-philadelphia-phillies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270601T224000Z
 DTEND:20270602T002500Z
 SUMMARY:Philadelphia Phillies - Toronto Blue Jays
@@ -874,17 +1067,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270603-philadelphia-phillies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J45 | 🏟️ | Toronto Blue Jays 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J58 | 🏟️ | Toronto Blue Jays 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270603-philadelphia-phillies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270602T224000Z
 DTEND:20270603T002500Z
 SUMMARY:Philadelphia Phillies - Toronto Blue Jays
@@ -893,17 +1086,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-philadelphia-phillies-baltimore-orioles-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J47 | 🏟️ | Baltimore Orioles 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J59 | 🏟️ | Baltimore Orioles 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-philadelphia-phillies-baltimore-orioles@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270604T224000Z
 DTEND:20270605T002500Z
 SUMMARY:Philadelphia Phillies - Baltimore Orioles
@@ -912,17 +1105,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-philadelphia-phillies-baltimore-orioles-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J47 | 🏟️ | Baltimore Orioles 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J59 | 🏟️ | Baltimore Orioles 
  🇺🇸
 DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-philadelphia-phillies-baltimore-orioles@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270605T200500Z
 DTEND:20270605T215000Z
 SUMMARY:Philadelphia Phillies - Baltimore Orioles
@@ -931,17 +1124,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-philadelphia-phillies-baltimore-orioles-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J49 | 🏟️ | Baltimore Orioles 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J61 | 🏟️ | Baltimore Orioles 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-philadelphia-phillies-baltimore-orioles@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270606T173500Z
 DTEND:20270606T192000Z
 SUMMARY:Philadelphia Phillies - Baltimore Orioles
@@ -949,18 +1142,126 @@ DESCRIPTION:MLB
 LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270607-chicago-white-sox-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J63 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270607-chicago-white-sox-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Chicago White Sox - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-chicago-white-sox-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J64 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-chicago-white-sox-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Chicago White Sox - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-chicago-white-sox-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J65 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-chicago-white-sox-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Chicago White Sox - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270611-toronto-blue-jays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J65 | ✈️ | Toronto Blue Jays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270611-toronto-blue-jays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Toronto Blue Jays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-toronto-blue-jays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J66 | ✈️ | Toronto Blue Jays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-toronto-blue-jays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Toronto Blue Jays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-toronto-blue-jays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J67 | ✈️ | Toronto Blue Jays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-toronto-blue-jays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Toronto Blue Jays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270615-philadelphia-phillies-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J54 | 🏟️ | Minnesota Twins 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J69 | 🏟️ | Minnesota Twins 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270615-philadelphia-phillies-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270614T224000Z
 DTEND:20270615T002500Z
 SUMMARY:Philadelphia Phillies - Minnesota Twins
@@ -969,17 +1270,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-philadelphia-phillies-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J53 | 🏟️ | Minnesota Twins 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J70 | 🏟️ | Minnesota Twins 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-philadelphia-phillies-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270615T224000Z
 DTEND:20270616T002500Z
 SUMMARY:Philadelphia Phillies - Minnesota Twins
@@ -988,17 +1289,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-philadelphia-phillies-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J56 | 🏟️ | Minnesota Twins 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J71 | 🏟️ | Minnesota Twins 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-philadelphia-phillies-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270616T220500Z
 DTEND:20270616T235000Z
 SUMMARY:Philadelphia Phillies - Minnesota Twins
@@ -1007,17 +1308,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-philadelphia-phillies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J56 | 🏟️ | San Francisco Giants 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J73 | 🏟️ | San Francisco Giants 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-philadelphia-phillies-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270618T224000Z
 DTEND:20270619T002500Z
 SUMMARY:Philadelphia Phillies - San Francisco Giants
@@ -1026,17 +1327,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-philadelphia-phillies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J56 | 🏟️ | San Francisco Giants 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J73 | 🏟️ | San Francisco Giants 
  🇺🇸
 DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-philadelphia-phillies-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270619T200500Z
 DTEND:20270619T215000Z
 SUMMARY:Philadelphia Phillies - San Francisco Giants
@@ -1045,17 +1346,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-philadelphia-phillies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J58 | 🏟️ | San Francisco Giants 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J74 | 🏟️ | San Francisco Giants 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-philadelphia-phillies-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270620T173500Z
 DTEND:20270620T192000Z
 SUMMARY:Philadelphia Phillies - San Francisco Giants
@@ -1064,17 +1365,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-atlanta-braves-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J59 | ✈️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J74 | ✈️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-atlanta-braves-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270621T231500Z
 DTEND:20270622T010000Z
 SUMMARY:Atlanta Braves - Philadelphia Phillies
@@ -1083,17 +1384,17 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-atlanta-braves-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J60 | ✈️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J75 | ✈️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-atlanta-braves-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270622T231500Z
 DTEND:20270623T010000Z
 SUMMARY:Atlanta Braves - Philadelphia Phillies
@@ -1102,17 +1403,17 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270624-atlanta-braves-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J57 | ✈️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J76 | ✈️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270624-atlanta-braves-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270623T231500Z
 DTEND:20270624T010000Z
 SUMMARY:Atlanta Braves - Philadelphia Phillies
@@ -1120,18 +1421,36 @@ DESCRIPTION:MLB
 LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-20270625-atlanta-braves-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+UID:mlb-20270625-pittsburgh-pirates-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J62 | ✈️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J78 | ✈️ | Pittsburgh Pirates 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270625-pittsburgh-pirates-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Pittsburgh Pirates - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270625-atlanta-braves-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J77 | ✈️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270625-atlanta-braves-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270624T231500Z
 DTEND:20270625T010000Z
 SUMMARY:Atlanta Braves - Philadelphia Phillies
@@ -1139,18 +1458,54 @@ DESCRIPTION:MLB
 LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270626-pittsburgh-pirates-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J79 | ✈️ | Pittsburgh Pirates 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-pittsburgh-pirates-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Pittsburgh Pirates - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-pittsburgh-pirates-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J80 | ✈️ | Pittsburgh Pirates 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-pittsburgh-pirates-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Pittsburgh Pirates - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270630-philadelphia-phillies-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J65 | 🏟️ | Colorado Rockies 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J81 | 🏟️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270630-philadelphia-phillies-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270629T224000Z
 DTEND:20270630T002500Z
 SUMMARY:Philadelphia Phillies - Colorado Rockies
@@ -1159,17 +1514,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-philadelphia-phillies-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J66 | 🏟️ | Colorado Rockies 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J82 | 🏟️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-philadelphia-phillies-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270630T224000Z
 DTEND:20270701T002500Z
 SUMMARY:Philadelphia Phillies - Colorado Rockies
@@ -1178,17 +1533,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-philadelphia-phillies-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J66 | 🏟️ | Colorado Rockies 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J82 | 🏟️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-philadelphia-phillies-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270701T163500Z
 DTEND:20270701T182000Z
 SUMMARY:Philadelphia Phillies - Colorado Rockies
@@ -1197,17 +1552,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-philadelphia-phillies-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J60 | 🏟️ | Seattle Mariners 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J85 | 🏟️ | Seattle Mariners 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-philadelphia-phillies-seattle-mariners@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270702T224000Z
 DTEND:20270703T002500Z
 SUMMARY:Philadelphia Phillies - Seattle Mariners
@@ -1216,17 +1571,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-philadelphia-phillies-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J66 | 🏟️ | Seattle Mariners 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J86 | 🏟️ | Seattle Mariners 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-philadelphia-phillies-seattle-mariners@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270703T220500Z
 DTEND:20270703T235000Z
 SUMMARY:Philadelphia Phillies - Seattle Mariners
@@ -1235,17 +1590,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-philadelphia-phillies-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J66 | 🏟️ | Seattle Mariners 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J86 | 🏟️ | Seattle Mariners 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-philadelphia-phillies-seattle-mariners@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T173500Z
 DTEND:20270704T192000Z
 SUMMARY:Philadelphia Phillies - Seattle Mariners
@@ -1253,18 +1608,72 @@ DESCRIPTION:MLB
 LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270705-cleveland-guardians-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J87 | ✈️ | Cleveland Guardians 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270705-cleveland-guardians-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Cleveland Guardians - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270706-cleveland-guardians-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J88 | ✈️ | Cleveland Guardians 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270706-cleveland-guardians-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Cleveland Guardians - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-cleveland-guardians-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J89 | ✈️ | Cleveland Guardians 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-cleveland-guardians-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Cleveland Guardians - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270710-washington-nationals-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J63 | ✈️ | Washington Nationals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J90 | ✈️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-washington-nationals-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270709T230500Z
 DTEND:20270710T005000Z
 SUMMARY:Washington Nationals - Philadelphia Phillies
@@ -1273,17 +1682,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-washington-nationals-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J63 | ✈️ | Washington Nationals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J90 | ✈️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-washington-nationals-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270710T200500Z
 DTEND:20270710T215000Z
 SUMMARY:Washington Nationals - Philadelphia Phillies
@@ -1292,17 +1701,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-washington-nationals-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J68 | ✈️ | Washington Nationals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J92 | ✈️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-washington-nationals-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270711T173500Z
 DTEND:20270711T192000Z
 SUMMARY:Washington Nationals - Philadelphia Phillies
@@ -1311,17 +1720,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-philadelphia-phillies-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J62 | 🏟️ | Pittsburgh Pirates 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J94 | 🏟️ | Pittsburgh Pirates 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-philadelphia-phillies-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270716T224000Z
 DTEND:20270717T002500Z
 SUMMARY:Philadelphia Phillies - Pittsburgh Pirates
@@ -1330,17 +1739,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-philadelphia-phillies-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J63 | 🏟️ | Pittsburgh Pirates 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J95 | 🏟️ | Pittsburgh Pirates 
  🇺🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-philadelphia-phillies-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270717T220500Z
 DTEND:20270717T235000Z
 SUMMARY:Philadelphia Phillies - Pittsburgh Pirates
@@ -1349,17 +1758,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-philadelphia-phillies-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J63 | 🏟️ | Pittsburgh Pirates 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J95 | 🏟️ | Pittsburgh Pirates 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-philadelphia-phillies-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270718T173500Z
 DTEND:20270718T192000Z
 SUMMARY:Philadelphia Phillies - Pittsburgh Pirates
@@ -1368,17 +1777,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270720-atlanta-braves-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J73 | ✈️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J96 | ✈️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270720-atlanta-braves-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270719T231500Z
 DTEND:20270720T010000Z
 SUMMARY:Atlanta Braves - Philadelphia Phillies
@@ -1387,17 +1796,17 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-atlanta-braves-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J74 | ✈️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J97 | ✈️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-atlanta-braves-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270720T231500Z
 DTEND:20270721T010000Z
 SUMMARY:Atlanta Braves - Philadelphia Phillies
@@ -1406,17 +1815,17 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-atlanta-braves-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J74 | ✈️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J97 | ✈️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 18:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-atlanta-braves-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270721T161500Z
 DTEND:20270721T180000Z
 SUMMARY:Atlanta Braves - Philadelphia Phillies
@@ -1425,16 +1834,17 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270723-new-york-mets-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270724
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J78 | ✈️ | New York Mets 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J100 | ✈️ | New York Mets 🇺
+ 🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270723-new-york-mets-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270722T231000Z
 DTEND:20270723T005500Z
 SUMMARY:New York Mets - Philadelphia Phillies
@@ -1443,16 +1853,17 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270724-new-york-mets-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J77 | ✈️ | New York Mets 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J101 | ✈️ | New York Mets 🇺
+ 🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270724-new-york-mets-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270723T231000Z
 DTEND:20270724T005500Z
 SUMMARY:New York Mets - Philadelphia Phillies
@@ -1461,16 +1872,17 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270724-new-york-mets-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J77 | ✈️ | New York Mets 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J101 | ✈️ | New York Mets 🇺
+ 🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270724-new-york-mets-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270724T201000Z
 DTEND:20270724T215500Z
 SUMMARY:New York Mets - Philadelphia Phillies
@@ -1479,16 +1891,17 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-new-york-mets-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J78 | ✈️ | New York Mets 🇺🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J102 | ✈️ | New York Mets 🇺
+ 🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-new-york-mets-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270725T174000Z
 DTEND:20270725T192500Z
 SUMMARY:New York Mets - Philadelphia Phillies
@@ -1497,17 +1910,17 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-philadelphia-phillies-boston-red-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J80 | 🏟️ | Boston Red Sox 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J103 | 🏟️ | Boston Red Sox 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-philadelphia-phillies-boston-red-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270727T224000Z
 DTEND:20270728T002500Z
 SUMMARY:Philadelphia Phillies - Boston Red Sox
@@ -1516,17 +1929,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-philadelphia-phillies-boston-red-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J81 | 🏟️ | Boston Red Sox 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J104 | 🏟️ | Boston Red Sox 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-philadelphia-phillies-boston-red-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270728T224000Z
 DTEND:20270729T002500Z
 SUMMARY:Philadelphia Phillies - Boston Red Sox
@@ -1535,17 +1948,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-philadelphia-phillies-boston-red-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J81 | 🏟️ | Boston Red Sox 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J104 | 🏟️ | Boston Red Sox 🇺
  🇸
 DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-philadelphia-phillies-boston-red-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270729T163500Z
 DTEND:20270729T182000Z
 SUMMARY:Philadelphia Phillies - Boston Red Sox
@@ -1553,18 +1966,72 @@ DESCRIPTION:MLB
 LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270730-miami-marlins-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J106 | ✈️ | Miami Marlins 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270730-miami-marlins-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Miami Marlins - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270731-miami-marlins-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J107 | ✈️ | Miami Marlins 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270731-miami-marlins-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Miami Marlins - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270801-miami-marlins-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J108 | ✈️ | Miami Marlins 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270801-miami-marlins-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Miami Marlins - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270803-philadelphia-phillies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J83 | 🏟️ | St. Louis Cardinals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J110 | 🏟️ | St. Louis Cardinals 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-philadelphia-phillies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270802T224000Z
 DTEND:20270803T002500Z
 SUMMARY:Philadelphia Phillies - St. Louis Cardinals
@@ -1573,17 +2040,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-philadelphia-phillies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J84 | 🏟️ | St. Louis Cardinals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J111 | 🏟️ | St. Louis Cardinals 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-philadelphia-phillies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270803T224000Z
 DTEND:20270804T002500Z
 SUMMARY:Philadelphia Phillies - St. Louis Cardinals
@@ -1592,17 +2059,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-philadelphia-phillies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J85 | 🏟️ | St. Louis Cardinals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J112 | 🏟️ | St. Louis Cardinals 
  🇺🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-philadelphia-phillies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270804T220500Z
 DTEND:20270804T235000Z
 SUMMARY:Philadelphia Phillies - St. Louis Cardinals
@@ -1611,17 +2078,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-philadelphia-phillies-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J85 | 🏟️ | Kansas City Royals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J112 | 🏟️ | Kansas City Royals 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-philadelphia-phillies-kansas-city-royals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270806T224000Z
 DTEND:20270807T002500Z
 SUMMARY:Philadelphia Phillies - Kansas City Royals
@@ -1630,17 +2097,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-philadelphia-phillies-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J85 | 🏟️ | Kansas City Royals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J113 | 🏟️ | Kansas City Royals 
  🇺🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-philadelphia-phillies-kansas-city-royals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270807T220500Z
 DTEND:20270807T235000Z
 SUMMARY:Philadelphia Phillies - Kansas City Royals
@@ -1649,17 +2116,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-philadelphia-phillies-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J85 | 🏟️ | Kansas City Royals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J113 | 🏟️ | Kansas City Royals 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-philadelphia-phillies-kansas-city-royals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270808T173500Z
 DTEND:20270808T192000Z
 SUMMARY:Philadelphia Phillies - Kansas City Royals
@@ -1668,17 +2135,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-colorado-rockies-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J85 | ✈️ | Colorado Rockies 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J116 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-colorado-rockies-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270810T004000Z
 DTEND:20270810T022500Z
 SUMMARY:Colorado Rockies - Philadelphia Phillies
@@ -1687,17 +2154,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-colorado-rockies-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J86 | ✈️ | Colorado Rockies 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J117 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-colorado-rockies-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270811T004000Z
 DTEND:20270811T022500Z
 SUMMARY:Colorado Rockies - Philadelphia Phillies
@@ -1706,17 +2173,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270812-colorado-rockies-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J88 | ✈️ | Colorado Rockies 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J118 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270812-colorado-rockies-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270812T004000Z
 DTEND:20270812T022500Z
 SUMMARY:Colorado Rockies - Philadelphia Phillies
@@ -1725,17 +2192,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270812-colorado-rockies-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J88 | ✈️ | Colorado Rockies 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J118 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270812-colorado-rockies-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270812T191000Z
 DTEND:20270812T205500Z
 SUMMARY:Colorado Rockies - Philadelphia Phillies
@@ -1743,18 +2210,72 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270813-los-angeles-dodgers-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J119 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270813-los-angeles-dodgers-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Los Angeles Dodgers - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-los-angeles-dodgers-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J120 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-los-angeles-dodgers-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Los Angeles Dodgers - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-los-angeles-dodgers-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J121 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-los-angeles-dodgers-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Los Angeles Dodgers - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270818-philadelphia-phillies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J93 | 🏟️ | San Diego Padres 🇺
- 🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J122 | 🏟️ | San Diego Padres 
+ 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-philadelphia-phillies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270817T224000Z
 DTEND:20270818T002500Z
 SUMMARY:Philadelphia Phillies - San Diego Padres
@@ -1763,17 +2284,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-philadelphia-phillies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J94 | 🏟️ | San Diego Padres 🇺
- 🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J123 | 🏟️ | San Diego Padres 
+ 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-philadelphia-phillies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270818T224000Z
 DTEND:20270819T002500Z
 SUMMARY:Philadelphia Phillies - San Diego Padres
@@ -1782,17 +2303,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-philadelphia-phillies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J94 | 🏟️ | San Diego Padres 🇺
- 🇸
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J123 | 🏟️ | San Diego Padres 
+ 🇺🇸
 DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-philadelphia-phillies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270819T163500Z
 DTEND:20270819T182000Z
 SUMMARY:Philadelphia Phillies - San Diego Padres
@@ -1801,17 +2322,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-philadelphia-phillies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J89 | 🏟️ | Cincinnati Reds 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J125 | 🏟️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-philadelphia-phillies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270820T224000Z
 DTEND:20270821T002500Z
 SUMMARY:Philadelphia Phillies - Cincinnati Reds
@@ -1820,17 +2341,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-philadelphia-phillies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J90 | 🏟️ | Cincinnati Reds 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J126 | 🏟️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-philadelphia-phillies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270821T220500Z
 DTEND:20270821T235000Z
 SUMMARY:Philadelphia Phillies - Cincinnati Reds
@@ -1839,17 +2360,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-philadelphia-phillies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J90 | 🏟️ | Cincinnati Reds 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J126 | 🏟️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-philadelphia-phillies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270822T173500Z
 DTEND:20270822T192000Z
 SUMMARY:Philadelphia Phillies - Cincinnati Reds
@@ -1857,18 +2378,123 @@ DESCRIPTION:MLB
 LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270824-athletics-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J128 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270824-athletics-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Athletics - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-athletics-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J129 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-athletics-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Athletics - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270826-athletics-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J130 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270826-athletics-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Athletics - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-arizona-diamondbacks-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J132 | ✈️ | Arizona Diamondbacks 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-arizona-diamondbacks-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Arizona Diamondbacks - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-arizona-diamondbacks-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J133 | ✈️ | Arizona Diamondbacks 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-arizona-diamondbacks-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Arizona Diamondbacks - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-arizona-diamondbacks-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J134 | ✈️ | Arizona Diamondbacks 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-arizona-diamondbacks-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Arizona Diamondbacks - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270901-philadelphia-phillies-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J98 | 🏟️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J135 | 🏟️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-philadelphia-phillies-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270831T224000Z
 DTEND:20270901T002500Z
 SUMMARY:Philadelphia Phillies - Atlanta Braves
@@ -1877,17 +2503,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-philadelphia-phillies-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J99 | 🏟️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J136 | 🏟️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-philadelphia-phillies-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270901T224000Z
 DTEND:20270902T002500Z
 SUMMARY:Philadelphia Phillies - Atlanta Braves
@@ -1896,17 +2522,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270903-philadelphia-phillies-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J101 | 🏟️ | Atlanta Braves 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J138 | 🏟️ | Atlanta Braves 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270903-philadelphia-phillies-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270902T224000Z
 DTEND:20270903T002500Z
 SUMMARY:Philadelphia Phillies - Atlanta Braves
@@ -1915,17 +2541,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-philadelphia-phillies-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J101 | 🏟️ | New York Mets 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J137 | 🏟️ | New York Mets 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-philadelphia-phillies-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270903T224000Z
 DTEND:20270904T002500Z
 SUMMARY:Philadelphia Phillies - New York Mets
@@ -1934,17 +2560,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-philadelphia-phillies-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J102 | 🏟️ | New York Mets 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J138 | 🏟️ | New York Mets 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-philadelphia-phillies-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270904T220500Z
 DTEND:20270904T235000Z
 SUMMARY:Philadelphia Phillies - New York Mets
@@ -1953,17 +2579,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-philadelphia-phillies-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J102 | 🏟️ | New York Mets 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J138 | 🏟️ | New York Mets 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-philadelphia-phillies-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270905T173500Z
 DTEND:20270905T192000Z
 SUMMARY:Philadelphia Phillies - New York Mets
@@ -1971,18 +2597,36 @@ DESCRIPTION:MLB
 LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270906-philadelphia-phillies-miami-marlins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J140 | 🏟️ | Miami Marlins 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270906-philadelphia-phillies-miami-marlins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Philadelphia Phillies - Miami Marlins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270908-philadelphia-phillies-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J104 | 🏟️ | Miami Marlins 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J141 | 🏟️ | Miami Marlins 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-philadelphia-phillies-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270907T224000Z
 DTEND:20270908T002500Z
 SUMMARY:Philadelphia Phillies - Miami Marlins
@@ -1991,17 +2635,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-philadelphia-phillies-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J107 | 🏟️ | Miami Marlins 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J142 | 🏟️ | Miami Marlins 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-philadelphia-phillies-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270908T224000Z
 DTEND:20270909T002500Z
 SUMMARY:Philadelphia Phillies - Miami Marlins
@@ -2010,17 +2654,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-philadelphia-phillies-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J107 | 🏟️ | Miami Marlins 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J142 | 🏟️ | Miami Marlins 🇺
  🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-philadelphia-phillies-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270909T170500Z
 DTEND:20270909T185000Z
 SUMMARY:Philadelphia Phillies - Miami Marlins
@@ -2029,17 +2673,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270911-st-louis-cardinals-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J109 | ✈️ | St. Louis Cardinals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J144 | ✈️ | St. Louis Cardinals 
  🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270911-st-louis-cardinals-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270911T001500Z
 DTEND:20270911T020000Z
 SUMMARY:St. Louis Cardinals - Philadelphia Phillies
@@ -2048,17 +2692,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-st-louis-cardinals-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J110 | ✈️ | St. Louis Cardinals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J145 | ✈️ | St. Louis Cardinals 
  🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-st-louis-cardinals-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270911T231500Z
 DTEND:20270912T010000Z
 SUMMARY:St. Louis Cardinals - Philadelphia Phillies
@@ -2067,17 +2711,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-st-louis-cardinals-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J110 | ✈️ | St. Louis Cardinals 
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J145 | ✈️ | St. Louis Cardinals 
  🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-st-louis-cardinals-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270912T181500Z
 DTEND:20270912T200000Z
 SUMMARY:St. Louis Cardinals - Philadelphia Phillies
@@ -2086,17 +2730,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270915-cincinnati-reds-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J112 | ✈️ | Cincinnati Reds 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J147 | ✈️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270915-cincinnati-reds-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270914T224000Z
 DTEND:20270915T002500Z
 SUMMARY:Cincinnati Reds - Philadelphia Phillies
@@ -2105,17 +2749,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270916-cincinnati-reds-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J112 | ✈️ | Cincinnati Reds 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J148 | ✈️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270916-cincinnati-reds-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270915T224000Z
 DTEND:20270916T002500Z
 SUMMARY:Cincinnati Reds - Philadelphia Phillies
@@ -2123,18 +2767,36 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-20270917-cincinnati-reds-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+UID:mlb-20270917-houston-astros-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J114 | ✈️ | Cincinnati Reds 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J150 | ✈️ | Houston Astros 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-houston-astros-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Houston Astros - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-cincinnati-reds-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J149 | ✈️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270917-cincinnati-reds-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270916T231500Z
 DTEND:20270917T010000Z
 SUMMARY:Cincinnati Reds - Philadelphia Phillies
@@ -2142,18 +2804,54 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270918-houston-astros-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J151 | ✈️ | Houston Astros 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-houston-astros-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Houston Astros - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-houston-astros-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J152 | ✈️ | Houston Astros 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-houston-astros-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Houston Astros - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270922-philadelphia-phillies-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J113 | 🏟️ | Chicago Cubs 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J153 | 🏟️ | Chicago Cubs 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-philadelphia-phillies-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270921T224000Z
 DTEND:20270922T002500Z
 SUMMARY:Philadelphia Phillies - Chicago Cubs
@@ -2162,17 +2860,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-philadelphia-phillies-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J116 | 🏟️ | Chicago Cubs 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J154 | 🏟️ | Chicago Cubs 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-philadelphia-phillies-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270922T224000Z
 DTEND:20270923T002500Z
 SUMMARY:Philadelphia Phillies - Chicago Cubs
@@ -2181,17 +2879,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270924-philadelphia-phillies-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270925
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J115 | 🏟️ | Chicago Cubs 🇺
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J155 | 🏟️ | Chicago Cubs 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270924-philadelphia-phillies-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270923T220500Z
 DTEND:20270923T235000Z
 SUMMARY:Philadelphia Phillies - Chicago Cubs
@@ -2200,17 +2898,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270925-philadelphia-phillies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J116 | 🏟️ | Washington Nationals
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J156 | 🏟️ | Washington Nationals
   🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270925-philadelphia-phillies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270924T224000Z
 DTEND:20270925T002500Z
 SUMMARY:Philadelphia Phillies - Washington Nationals
@@ -2219,17 +2917,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-philadelphia-phillies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J117 | 🏟️ | Washington Nationals
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J157 | 🏟️ | Washington Nationals
   🇺🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-philadelphia-phillies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270925T220500Z
 DTEND:20270925T235000Z
 SUMMARY:Philadelphia Phillies - Washington Nationals
@@ -2238,17 +2936,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-philadelphia-phillies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
-SUMMARY:PHILADELPHIA PHILLIES | MLB | J117 | 🏟️ | Washington Nationals
+SUMMARY:PHILADELPHIA PHILLIES | MLB | J157 | 🏟️ | Washington Nationals
   🇺🇸
 DESCRIPTION:Inici: 21:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-philadelphia-phillies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270926T190500Z
 DTEND:20270926T205000Z
 SUMMARY:Philadelphia Phillies - Washington Nationals

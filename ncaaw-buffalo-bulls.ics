@@ -1,0 +1,531 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Buffalo Bulls · NCAA W
+BEGIN:VEVENT
+UID:ncaaw-20261114-buffalo-bulls-mississippi-state-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:BUFFALO BULLS | NCAA W | J1 | 🏟️ | Mississippi State Bulldogs 
+ 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261114-buffalo-bulls-mississippi-state-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Buffalo Bulls - Mississippi State Bulldogs
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261120-buffalo-bulls-st-bonaventure-bonnies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:BUFFALO BULLS | NCAA W | J2 | 🏟️ | St. Bonaventure Bonnies 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261120-buffalo-bulls-st-bonaventure-bonnies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T230000Z
+DTEND:20261120T004500Z
+SUMMARY:Buffalo Bulls - St. Bonaventure Bonnies
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261122-fordham-rams-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:BUFFALO BULLS | NCAA W | J5 | ✈️ | Fordham Rams 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Rose Hill Gym\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261122-fordham-rams-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261122T180000Z
+DTEND:20261122T194500Z
+SUMMARY:Fordham Rams - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Rose Hill Gym\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261127-buffalo-bulls-morehead-state-eagles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:BUFFALO BULLS | NCAA W | J4 | 🏟️ | Morehead State Eagles 🇺
+ 🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261127-buffalo-bulls-morehead-state-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261127T170000Z
+DTEND:20261127T184500Z
+SUMMARY:Buffalo Bulls - Morehead State Eagles
+DESCRIPTION:NCAA Division I Women
+LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261128-florida-atlantic-owls-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:BUFFALO BULLS | NCAA W | J17 | ✈️ | Florida Atlantic Owls 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261128-florida-atlantic-owls-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Florida Atlantic Owls - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261203-canisius-golden-griffins-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:BUFFALO BULLS | NCAA W | J6 | ✈️ | Canisius Golden Griffins 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Koessler Athletic Center\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261203-canisius-golden-griffins-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261202T230000Z
+DTEND:20261203T004500Z
+SUMMARY:Canisius Golden Griffins - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Koessler Athletic Center\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261206-buffalo-bulls-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:BUFFALO BULLS | NCAA W | J49 | 🏟️ | Duquesne Dukes 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261206-buffalo-bulls-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261206T170000Z
+DTEND:20261206T184500Z
+SUMMARY:Buffalo Bulls - Duquesne Dukes
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261210-detroit-mercy-titans-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:BUFFALO BULLS | NCAA W | J8 | ✈️ | Detroit Mercy Titans 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Calihan Hall\, Detroit\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261210-detroit-mercy-titans-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261210T210000Z
+DTEND:20261210T224500Z
+SUMMARY:Detroit Mercy Titans - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Calihan Hall\, Detroit\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-drexel-dragons-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:BUFFALO BULLS | NCAA W | J63 | ✈️ | Drexel Dragons 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Daskalakis Athletic Center\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-drexel-dragons-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261221T180000Z
+DTEND:20261221T194500Z
+SUMMARY:Drexel Dragons - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261230-buffalo-bulls-cornell-big-red-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:BUFFALO BULLS | NCAA W | J10 | 🏟️ | Cornell Big Red 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261230-buffalo-bulls-cornell-big-red@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261229T230000Z
+DTEND:20261230T004500Z
+SUMMARY:Buffalo Bulls - Cornell Big Red
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270102-buffalo-bulls-miami-oh-redhawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:BUFFALO BULLS | NCAA W | J13 | 🏟️ | Miami (OH) RedHawks 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270102-buffalo-bulls-miami-oh-redhawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270102T190000Z
+DTEND:20270102T204500Z
+SUMMARY:Buffalo Bulls - Miami (OH) RedHawks
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270107-massachusetts-minutewomen-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:BUFFALO BULLS | NCAA W | J12 | ✈️ | Massachusetts Minutewomen 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270107-massachusetts-minutewomen-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270106T230000Z
+DTEND:20270107T004500Z
+SUMMARY:Massachusetts Minutewomen - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270109-bowling-green-falcons-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:BUFFALO BULLS | NCAA W | J13 | ✈️ | Bowling Green Falcons 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Stroh Center\, Bowling Green\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270109-bowling-green-falcons-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Bowling Green Falcons - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Stroh Center\, Bowling Green\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270114-buffalo-bulls-akron-zips-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:BUFFALO BULLS | NCAA W | J14 | 🏟️ | Akron Zips 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270114-buffalo-bulls-akron-zips@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270113T230000Z
+DTEND:20270114T004500Z
+SUMMARY:Buffalo Bulls - Akron Zips
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270116-buffalo-bulls-eastern-michigan-eagles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:BUFFALO BULLS | NCAA W | J15 | 🏟️ | Eastern Michigan Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270116-buffalo-bulls-eastern-michigan-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Buffalo Bulls - Eastern Michigan Eagles
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270121-ohio-bobcats-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:BUFFALO BULLS | NCAA W | J16 | ✈️ | Ohio Bobcats 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Convocation Center (OH)\, Athens\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270121-ohio-bobcats-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270121T000000Z
+DTEND:20270121T014500Z
+SUMMARY:Ohio Bobcats - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Convocation Center (OH)\, Athens\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270123-kent-state-golden-flashes-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:BUFFALO BULLS | NCAA W | J16 | ✈️ | Kent State Golden Flashes 
+ 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ M.A.C. Center\, Kent\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270123-kent-state-golden-flashes-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:Kent State Golden Flashes - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:M.A.C. Center\, Kent\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270127-buffalo-bulls-central-michigan-chippewas-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:BUFFALO BULLS | NCAA W | J19 | 🏟️ | Central Michigan Chippewas
+  🇺🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270127-buffalo-bulls-central-michigan-chippewas@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270127T160000Z
+DTEND:20270127T174500Z
+SUMMARY:Buffalo Bulls - Central Michigan Chippewas
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270130-buffalo-bulls-bowling-green-falcons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:BUFFALO BULLS | NCAA W | J19 | 🏟️ | Bowling Green Falcons 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270130-buffalo-bulls-bowling-green-falcons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Buffalo Bulls - Bowling Green Falcons
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270203-eastern-michigan-eagles-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:BUFFALO BULLS | NCAA W | J20 | ✈️ | Eastern Michigan Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Gervin GameAbove Center\, Ypsilanti\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270203-eastern-michigan-eagles-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270203T220000Z
+DTEND:20270203T234500Z
+SUMMARY:Eastern Michigan Eagles - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270211-buffalo-bulls-western-michigan-broncos-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:BUFFALO BULLS | NCAA W | J21 | 🏟️ | Western Michigan Broncos 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270211-buffalo-bulls-western-michigan-broncos@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270210T230000Z
+DTEND:20270211T004500Z
+SUMMARY:Buffalo Bulls - Western Michigan Broncos
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-ball-state-cardinals-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:BUFFALO BULLS | NCAA W | J22 | ✈️ | Ball State Cardinals 🇺
+ 🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Worthen Arena\, Muncie\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-ball-state-cardinals-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Ball State Cardinals - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Worthen Arena\, Muncie\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270218-toledo-rockets-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:BUFFALO BULLS | NCAA W | J23 | ✈️ | Toledo Rockets 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Savage Arena\, Toledo\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270218-toledo-rockets-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270218T000000Z
+DTEND:20270218T014500Z
+SUMMARY:Toledo Rockets - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Savage Arena\, Toledo\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270220-buffalo-bulls-kent-state-golden-flashes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:BUFFALO BULLS | NCAA W | J22 | 🏟️ | Kent State Golden Flashes 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270220-buffalo-bulls-kent-state-golden-flashes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Buffalo Bulls - Kent State Golden Flashes
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270225-buffalo-bulls-ohio-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:BUFFALO BULLS | NCAA W | J25 | 🏟️ | Ohio Bobcats 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270225-buffalo-bulls-ohio-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270224T230000Z
+DTEND:20270225T004500Z
+SUMMARY:Buffalo Bulls - Ohio Bobcats
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-miami-oh-redhawks-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:BUFFALO BULLS | NCAA W | J27 | ✈️ | Miami (OH) RedHawks 🇺
+ 🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Millett Hall\, Oxford\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-miami-oh-redhawks-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:Miami (OH) RedHawks - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:Millett Hall\, Oxford\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270304-buffalo-bulls-massachusetts-minutewomen-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:BUFFALO BULLS | NCAA W | J27 | 🏟️ | Massachusetts Minutewomen 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270304-buffalo-bulls-massachusetts-minutewomen@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270303T230000Z
+DTEND:20270304T004500Z
+SUMMARY:Buffalo Bulls - Massachusetts Minutewomen
+DESCRIPTION:NCAA Division I Women
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270306-central-michigan-chippewas-buffalo-bulls-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:BUFFALO BULLS | NCAA W | J26 | ✈️ | Central Michigan Chippewas 
+ 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ McGuirk Arena\, Mount Pleasant\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270306-central-michigan-chippewas-buffalo-bulls@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:Central Michigan Chippewas - Buffalo Bulls
+DESCRIPTION:NCAA Division I Women
+LOCATION:McGuirk Arena\, Mount Pleasant\, MI
+END:VEVENT
+END:VCALENDAR

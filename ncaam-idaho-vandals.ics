@@ -1,0 +1,552 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Idaho Vandals · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261114-idaho-vandals-cal-poly-mustangs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:IDAHO VANDALS | NCAA | J1 | 🏟️ | Cal Poly Mustangs 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261114-idaho-vandals-cal-poly-mustangs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T010000Z
+DTEND:20261114T024500Z
+SUMMARY:Idaho Vandals - Cal Poly Mustangs
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-nevada-wolf-pack-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:IDAHO VANDALS | NCAA | J2 | ✈️ | Nevada Wolf Pack 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Lawlor
+  Events Center\, Reno\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-nevada-wolf-pack-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T030000Z
+DTEND:20261119T044500Z
+SUMMARY:Nevada Wolf Pack - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Lawlor Events Center\, Reno\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-idaho-vandals-cal-state-bakersfield-roadrunners-dia@spor
+ tcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:IDAHO VANDALS | NCAA | J3 | 🏟️ | Cal State Bakersfield Roadrun
+ ners 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-idaho-vandals-cal-state-bakersfield-roadrunners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261121T020000Z
+DTEND:20261121T034500Z
+SUMMARY:Idaho Vandals - Cal State Bakersfield Roadrunners
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-idaho-vandals-dickinson-state-blue-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:IDAHO VANDALS | NCAA | J4 | 🏟️ | Dickinson State Blue Hawks 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-idaho-vandals-dickinson-state-blue-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T020000Z
+DTEND:20261124T034500Z
+SUMMARY:Idaho Vandals - Dickinson State Blue Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261128-washington-state-cougars-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:IDAHO VANDALS | NCAA | J5 | ✈️ | Washington State Cougars 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Beasle
+ y Coliseum\, Pullman\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261128-washington-state-cougars-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261128T010000Z
+DTEND:20261128T024500Z
+SUMMARY:Washington State Cougars - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Beasley Coliseum\, Pullman\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261204-northern-colorado-bears-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:IDAHO VANDALS | NCAA | J6 | ✈️ | Northern Colorado Bears 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Bank o
+ f Colorado Arena\, Greeley\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261204-northern-colorado-bears-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261204T010000Z
+DTEND:20261204T024500Z
+SUMMARY:Northern Colorado Bears - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Bank of Colorado Arena\, Greeley\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-portland-state-vikings-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:IDAHO VANDALS | NCAA | J111 | ✈️ | Portland State Vikings 🇺
+ 🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Viking
+  Pavilion\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-portland-state-vikings-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T220000Z
+DTEND:20261205T234500Z
+SUMMARY:Portland State Vikings - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Viking Pavilion\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-idaho-vandals-north-dakota-state-bison-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:IDAHO VANDALS | NCAA | J9 | 🏟️ | North Dakota State Bison 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-idaho-vandals-north-dakota-state-bison@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261209T020000Z
+DTEND:20261209T034500Z
+SUMMARY:Idaho Vandals - North Dakota State Bison
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-south-dakota-state-jackrabbits-idaho-vandals-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:IDAHO VANDALS | NCAA | J9 | ✈️ | South Dakota State Jackrabbits
+  🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-south-dakota-state-jackrabbits-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:South Dakota State Jackrabbits - Idaho Vandals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-idaho-vandals-northwest-indian-redhawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:IDAHO VANDALS | NCAA | J9 | 🏟️ | Northwest Indian RedHawks 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-idaho-vandals-northwest-indian-redhawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T020000Z
+DTEND:20261219T034500Z
+SUMMARY:Idaho Vandals - Northwest Indian RedHawks
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261224-arizona-state-sun-devils-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:IDAHO VANDALS | NCAA | J11 | ✈️ | Arizona State Sun Devils 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Desert
+  Financial Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261224-arizona-state-sun-devils-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261224T010000Z
+DTEND:20261224T024500Z
+SUMMARY:Arizona State Sun Devils - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Desert Financial Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270101-idaho-vandals-utah-tech-trailblazers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:IDAHO VANDALS | NCAA | J12 | 🏟️ | Utah Tech Trailblazers 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270101-idaho-vandals-utah-tech-trailblazers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270101T020000Z
+DTEND:20270101T034500Z
+SUMMARY:Idaho Vandals - Utah Tech Trailblazers
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-idaho-vandals-southern-utah-thunderbirds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:IDAHO VANDALS | NCAA | J11 | 🏟️ | Southern Utah Thunderbirds 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-idaho-vandals-southern-utah-thunderbirds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270102T220000Z
+DTEND:20270102T234500Z
+SUMMARY:Idaho Vandals - Southern Utah Thunderbirds
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-idaho-vandals-northern-arizona-lumberjacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:IDAHO VANDALS | NCAA | J13 | 🏟️ | Northern Arizona Lumberjacks
+  🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-idaho-vandals-northern-arizona-lumberjacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T220000Z
+DTEND:20270109T234500Z
+SUMMARY:Idaho Vandals - Northern Arizona Lumberjacks
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270115-montana-grizzlies-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:IDAHO VANDALS | NCAA | J15 | ✈️ | Montana Grizzlies 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Dahlbe
+ rg Arena\, Missoula\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270115-montana-grizzlies-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270115T020000Z
+DTEND:20270115T034500Z
+SUMMARY:Montana Grizzlies - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Dahlberg Arena\, Missoula\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-montana-state-bobcats-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:IDAHO VANDALS | NCAA | J16 | ✈️ | Montana State Bobcats 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: Worthi
+ ngton Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-montana-state-bobcats-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T210000Z
+DTEND:20270116T224500Z
+SUMMARY:Montana State Bobcats - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270119-weber-state-wildcats-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:IDAHO VANDALS | NCAA | J16 | ✈️ | Weber State Wildcats 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Dee Ev
+ ents Center\, Ogden\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270119-weber-state-wildcats-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270119T010000Z
+DTEND:20270119T024500Z
+SUMMARY:Weber State Wildcats - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Dee Events Center\, Ogden\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-idaho-vandals-eastern-washington-eagles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:IDAHO VANDALS | NCAA | J18 | 🏟️ | Eastern Washington Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-idaho-vandals-eastern-washington-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T220000Z
+DTEND:20270123T234500Z
+SUMMARY:Idaho Vandals - Eastern Washington Eagles
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270126-idaho-vandals-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:IDAHO VANDALS | NCAA | J19 | 🏟️ | Idaho State Bengals 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270126-idaho-vandals-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270126T020000Z
+DTEND:20270126T034500Z
+SUMMARY:Idaho Vandals - Idaho State Bengals
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270129-idaho-vandals-portland-state-vikings-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:IDAHO VANDALS | NCAA | J20 | 🏟️ | Portland State Vikings 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270129-idaho-vandals-portland-state-vikings@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270129T020000Z
+DTEND:20270129T034500Z
+SUMMARY:Idaho Vandals - Portland State Vikings
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-idaho-vandals-northern-colorado-bears-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:IDAHO VANDALS | NCAA | J20 | 🏟️ | Northern Colorado Bears 🇺
+ 🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-idaho-vandals-northern-colorado-bears@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T220000Z
+DTEND:20270130T234500Z
+SUMMARY:Idaho Vandals - Northern Colorado Bears
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270205-southern-utah-thunderbirds-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:IDAHO VANDALS | NCAA | J21 | ✈️ | Southern Utah Thunderbirds 
+ 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: Americ
+ a First Event Center\, Cedar City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270205-southern-utah-thunderbirds-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270205T013000Z
+DTEND:20270205T031500Z
+SUMMARY:Southern Utah Thunderbirds - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:America First Event Center\, Cedar City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-utah-tech-trailblazers-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:IDAHO VANDALS | NCAA | J23 | ✈️ | Utah Tech Trailblazers 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Burns 
+ Arena\, St. George\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-utah-tech-trailblazers-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270207T020000Z
+DTEND:20270207T034500Z
+SUMMARY:Utah Tech Trailblazers - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Burns Arena\, St. George\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-idaho-vandals-montana-state-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:IDAHO VANDALS | NCAA | J24 | 🏟️ | Montana State Bobcats 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-idaho-vandals-montana-state-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270212T020000Z
+DTEND:20270212T034500Z
+SUMMARY:Idaho Vandals - Montana State Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-idaho-vandals-montana-grizzlies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:IDAHO VANDALS | NCAA | J22 | 🏟️ | Montana Grizzlies 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-idaho-vandals-montana-grizzlies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T220000Z
+DTEND:20270213T234500Z
+SUMMARY:Idaho Vandals - Montana Grizzlies
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270219-northern-arizona-lumberjacks-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:IDAHO VANDALS | NCAA | J24 | ✈️ | Northern Arizona Lumberjacks 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Rolle 
+ Activity Center\, Flagstaff\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270219-northern-arizona-lumberjacks-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270219T010000Z
+DTEND:20270219T024500Z
+SUMMARY:Northern Arizona Lumberjacks - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Rolle Activity Center\, Flagstaff\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270223-idaho-vandals-weber-state-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:IDAHO VANDALS | NCAA | J27 | 🏟️ | Weber State Wildcats 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: ICCU A
+ rena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270223-idaho-vandals-weber-state-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270223T020000Z
+DTEND:20270223T034500Z
+SUMMARY:Idaho Vandals - Weber State Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-eastern-washington-eagles-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:IDAHO VANDALS | NCAA | J28 | ✈️ | Eastern Washington Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Reese 
+ Court\, Cheney\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-eastern-washington-eagles-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T220000Z
+DTEND:20270227T234500Z
+SUMMARY:Eastern Washington Eagles - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Reese Court\, Cheney\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270302-idaho-state-bengals-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:IDAHO VANDALS | NCAA | J29 | ✈️ | Idaho State Bengals 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Reed G
+ ym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270302-idaho-state-bengals-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270302T020000Z
+DTEND:20270302T034500Z
+SUMMARY:Idaho State Bengals - Idaho Vandals
+DESCRIPTION:NCAA Division I
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+END:VCALENDAR

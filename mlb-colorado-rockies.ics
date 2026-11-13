@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Colorado Rockies · MLB
 BEGIN:VEVENT
 UID:mlb-20270331-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:COLORADO ROCKIES | MLB | J1 | ✈️ | San Diego Padres 🇺🇸
@@ -15,7 +15,7 @@ DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270331T014000Z
 DTEND:20270331T032500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -24,7 +24,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:COLORADO ROCKIES | MLB | J1 | ✈️ | San Diego Padres 🇺🇸
@@ -33,7 +33,7 @@ DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270331T201000Z
 DTEND:20270331T215500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -42,7 +42,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270401-colorado-rockies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:COLORADO ROCKIES | MLB | J3 | 🏟️ | Los Angeles Dodgers 🇺
@@ -52,7 +52,7 @@ DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270401-colorado-rockies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270401T201000Z
 DTEND:20270401T215500Z
 SUMMARY:Colorado Rockies - Los Angeles Dodgers
@@ -61,7 +61,7 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-colorado-rockies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:COLORADO ROCKIES | MLB | J4 | 🏟️ | Los Angeles Dodgers 🇺
@@ -71,7 +71,7 @@ DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-colorado-rockies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270403T004000Z
 DTEND:20270403T022500Z
 SUMMARY:Colorado Rockies - Los Angeles Dodgers
@@ -80,7 +80,7 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-colorado-rockies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:COLORADO ROCKIES | MLB | J5 | 🏟️ | Los Angeles Dodgers 🇺
@@ -90,7 +90,7 @@ DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-colorado-rockies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270404T001000Z
 DTEND:20270404T015500Z
 SUMMARY:Colorado Rockies - Los Angeles Dodgers
@@ -99,7 +99,7 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-colorado-rockies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:COLORADO ROCKIES | MLB | J5 | 🏟️ | Los Angeles Dodgers 🇺
@@ -109,7 +109,7 @@ DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-colorado-rockies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270404T191000Z
 DTEND:20270404T205500Z
 SUMMARY:Colorado Rockies - Los Angeles Dodgers
@@ -118,16 +118,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270406-colorado-rockies-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
-SUMMARY:COLORADO ROCKIES | MLB | J6 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J7 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270406-colorado-rockies-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270406T004000Z
 DTEND:20270406T022500Z
 SUMMARY:Colorado Rockies - Miami Marlins
@@ -136,16 +136,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-colorado-rockies-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-SUMMARY:COLORADO ROCKIES | MLB | J7 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J8 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-colorado-rockies-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270407T004000Z
 DTEND:20270407T022500Z
 SUMMARY:Colorado Rockies - Miami Marlins
@@ -154,16 +154,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-colorado-rockies-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-SUMMARY:COLORADO ROCKIES | MLB | J7 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J8 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-colorado-rockies-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270407T191000Z
 DTEND:20270407T205500Z
 SUMMARY:Colorado Rockies - Miami Marlins
@@ -171,17 +171,122 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270409-seattle-mariners-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:COLORADO ROCKIES | MLB | J9 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270409-seattle-mariners-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Seattle Mariners - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-seattle-mariners-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:COLORADO ROCKIES | MLB | J10 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-seattle-mariners-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Seattle Mariners - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-seattle-mariners-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:COLORADO ROCKIES | MLB | J11 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-seattle-mariners-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Seattle Mariners - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270413-los-angeles-dodgers-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:COLORADO ROCKIES | MLB | J13 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270413-los-angeles-dodgers-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Los Angeles Dodgers - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-los-angeles-dodgers-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:COLORADO ROCKIES | MLB | J14 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-los-angeles-dodgers-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Los Angeles Dodgers - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-los-angeles-dodgers-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:COLORADO ROCKIES | MLB | J15 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-los-angeles-dodgers-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Los Angeles Dodgers - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270417-colorado-rockies-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
-SUMMARY:COLORADO ROCKIES | MLB | J11 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J16 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-colorado-rockies-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270417T004000Z
 DTEND:20270417T022500Z
 SUMMARY:Colorado Rockies - New York Mets
@@ -190,16 +295,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-colorado-rockies-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
-SUMMARY:COLORADO ROCKIES | MLB | J11 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J16 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-colorado-rockies-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270417T191000Z
 DTEND:20270417T205500Z
 SUMMARY:Colorado Rockies - New York Mets
@@ -208,16 +313,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-colorado-rockies-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-SUMMARY:COLORADO ROCKIES | MLB | J12 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J18 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-colorado-rockies-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270418T191000Z
 DTEND:20270418T205500Z
 SUMMARY:Colorado Rockies - New York Mets
@@ -226,16 +331,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-SUMMARY:COLORADO ROCKIES | MLB | J13 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J19 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270421T004000Z
 DTEND:20270421T022500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -244,16 +349,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-SUMMARY:COLORADO ROCKIES | MLB | J14 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J20 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270422T004000Z
 DTEND:20270422T022500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -262,16 +367,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-SUMMARY:COLORADO ROCKIES | MLB | J14 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J20 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270422T191000Z
 DTEND:20270422T205500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -280,16 +385,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-milwaukee-brewers-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:COLORADO ROCKIES | MLB | J16 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J22 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-milwaukee-brewers-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270423T234000Z
 DTEND:20270424T012500Z
 SUMMARY:Milwaukee Brewers - Colorado Rockies
@@ -298,16 +403,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-milwaukee-brewers-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:COLORADO ROCKIES | MLB | J17 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J23 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-milwaukee-brewers-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270424T231000Z
 DTEND:20270425T005500Z
 SUMMARY:Milwaukee Brewers - Colorado Rockies
@@ -316,16 +421,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-milwaukee-brewers-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:COLORADO ROCKIES | MLB | J17 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J23 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-milwaukee-brewers-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270425T181000Z
 DTEND:20270425T195500Z
 SUMMARY:Milwaukee Brewers - Colorado Rockies
@@ -333,17 +438,71 @@ DESCRIPTION:MLB
 LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270426-cleveland-guardians-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:COLORADO ROCKIES | MLB | J25 | ✈️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270426-cleveland-guardians-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Cleveland Guardians - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270427-cleveland-guardians-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:COLORADO ROCKIES | MLB | J25 | ✈️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270427-cleveland-guardians-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Cleveland Guardians - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270428-cleveland-guardians-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:COLORADO ROCKIES | MLB | J26 | ✈️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270428-cleveland-guardians-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Cleveland Guardians - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270501-colorado-rockies-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-SUMMARY:COLORADO ROCKIES | MLB | J23 | 🏟️ | Athletics 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J29 | 🏟️ | Athletics 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270501-colorado-rockies-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270501T004000Z
 DTEND:20270501T022500Z
 SUMMARY:Colorado Rockies - Athletics
@@ -352,16 +511,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-colorado-rockies-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-SUMMARY:COLORADO ROCKIES | MLB | J24 | 🏟️ | Athletics 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J30 | 🏟️ | Athletics 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-colorado-rockies-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270502T001000Z
 DTEND:20270502T015500Z
 SUMMARY:Colorado Rockies - Athletics
@@ -370,16 +529,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-colorado-rockies-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-SUMMARY:COLORADO ROCKIES | MLB | J24 | 🏟️ | Athletics 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J30 | 🏟️ | Athletics 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-colorado-rockies-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270502T191000Z
 DTEND:20270502T205500Z
 SUMMARY:Colorado Rockies - Athletics
@@ -388,16 +547,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270504-colorado-rockies-detroit-tigers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-SUMMARY:COLORADO ROCKIES | MLB | J23 | 🏟️ | Detroit Tigers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J31 | 🏟️ | Detroit Tigers 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270504-colorado-rockies-detroit-tigers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270504T004000Z
 DTEND:20270504T022500Z
 SUMMARY:Colorado Rockies - Detroit Tigers
@@ -406,16 +565,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-colorado-rockies-detroit-tigers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-SUMMARY:COLORADO ROCKIES | MLB | J24 | 🏟️ | Detroit Tigers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J32 | 🏟️ | Detroit Tigers 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-colorado-rockies-detroit-tigers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270505T004000Z
 DTEND:20270505T022500Z
 SUMMARY:Colorado Rockies - Detroit Tigers
@@ -424,16 +583,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-colorado-rockies-detroit-tigers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-SUMMARY:COLORADO ROCKIES | MLB | J24 | 🏟️ | Detroit Tigers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J32 | 🏟️ | Detroit Tigers 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-colorado-rockies-detroit-tigers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270505T191000Z
 DTEND:20270505T205500Z
 SUMMARY:Colorado Rockies - Detroit Tigers
@@ -442,16 +601,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-cincinnati-reds-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-SUMMARY:COLORADO ROCKIES | MLB | J25 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J34 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-cincinnati-reds-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270506T224000Z
 DTEND:20270507T002500Z
 SUMMARY:Cincinnati Reds - Colorado Rockies
@@ -460,16 +619,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-cincinnati-reds-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:COLORADO ROCKIES | MLB | J24 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J35 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-cincinnati-reds-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270507T224000Z
 DTEND:20270508T002500Z
 SUMMARY:Cincinnati Reds - Colorado Rockies
@@ -478,16 +637,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-cincinnati-reds-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:COLORADO ROCKIES | MLB | J28 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J36 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-cincinnati-reds-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270508T224000Z
 DTEND:20270509T002500Z
 SUMMARY:Cincinnati Reds - Colorado Rockies
@@ -496,16 +655,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-cincinnati-reds-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:COLORADO ROCKIES | MLB | J28 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J36 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-cincinnati-reds-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270509T174000Z
 DTEND:20270509T192500Z
 SUMMARY:Cincinnati Reds - Colorado Rockies
@@ -514,17 +673,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-washington-nationals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
-SUMMARY:COLORADO ROCKIES | MLB | J29 | ✈️ | Washington Nationals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J38 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-washington-nationals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270511T224500Z
 DTEND:20270512T003000Z
 SUMMARY:Washington Nationals - Colorado Rockies
@@ -533,17 +692,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-washington-nationals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:COLORADO ROCKIES | MLB | J30 | ✈️ | Washington Nationals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J39 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-washington-nationals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270512T224500Z
 DTEND:20270513T003000Z
 SUMMARY:Washington Nationals - Colorado Rockies
@@ -552,17 +711,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-washington-nationals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:COLORADO ROCKIES | MLB | J30 | ✈️ | Washington Nationals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J39 | ✈️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-washington-nationals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270513T170500Z
 DTEND:20270513T185000Z
 SUMMARY:Washington Nationals - Colorado Rockies
@@ -571,16 +730,16 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-colorado-rockies-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-SUMMARY:COLORADO ROCKIES | MLB | J32 | 🏟️ | Minnesota Twins 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J41 | 🏟️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-colorado-rockies-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270515T004000Z
 DTEND:20270515T022500Z
 SUMMARY:Colorado Rockies - Minnesota Twins
@@ -589,16 +748,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-colorado-rockies-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:COLORADO ROCKIES | MLB | J33 | 🏟️ | Minnesota Twins 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J42 | 🏟️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-colorado-rockies-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270516T001000Z
 DTEND:20270516T015500Z
 SUMMARY:Colorado Rockies - Minnesota Twins
@@ -607,16 +766,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-colorado-rockies-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:COLORADO ROCKIES | MLB | J33 | 🏟️ | Minnesota Twins 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J42 | 🏟️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-colorado-rockies-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270516T191000Z
 DTEND:20270516T205500Z
 SUMMARY:Colorado Rockies - Minnesota Twins
@@ -625,17 +784,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270518-colorado-rockies-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
-SUMMARY:COLORADO ROCKIES | MLB | J35 | 🏟️ | Pittsburgh Pirates 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J44 | 🏟️ | Pittsburgh Pirates 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270518-colorado-rockies-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270518T004000Z
 DTEND:20270518T022500Z
 SUMMARY:Colorado Rockies - Pittsburgh Pirates
@@ -644,17 +803,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-colorado-rockies-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-SUMMARY:COLORADO ROCKIES | MLB | J36 | 🏟️ | Pittsburgh Pirates 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J45 | 🏟️ | Pittsburgh Pirates 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-colorado-rockies-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270519T004000Z
 DTEND:20270519T022500Z
 SUMMARY:Colorado Rockies - Pittsburgh Pirates
@@ -663,17 +822,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-colorado-rockies-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-SUMMARY:COLORADO ROCKIES | MLB | J36 | 🏟️ | Pittsburgh Pirates 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J45 | 🏟️ | Pittsburgh Pirates 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-colorado-rockies-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270519T191000Z
 DTEND:20270519T205500Z
 SUMMARY:Colorado Rockies - Pittsburgh Pirates
@@ -681,17 +840,89 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270520-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:COLORADO ROCKIES | MLB | J45 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270520-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270521-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:COLORADO ROCKIES | MLB | J47 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270521-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:COLORADO ROCKIES | MLB | J48 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:COLORADO ROCKIES | MLB | J49 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270526-colorado-rockies-houston-astros-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
-SUMMARY:COLORADO ROCKIES | MLB | J36 | 🏟️ | Houston Astros 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J52 | 🏟️ | Houston Astros 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270526-colorado-rockies-houston-astros@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270526T004000Z
 DTEND:20270526T022500Z
 SUMMARY:Colorado Rockies - Houston Astros
@@ -700,16 +931,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-colorado-rockies-houston-astros-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
-SUMMARY:COLORADO ROCKIES | MLB | J37 | 🏟️ | Houston Astros 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J53 | 🏟️ | Houston Astros 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-colorado-rockies-houston-astros@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270527T004000Z
 DTEND:20270527T022500Z
 SUMMARY:Colorado Rockies - Houston Astros
@@ -718,16 +949,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-colorado-rockies-houston-astros-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
-SUMMARY:COLORADO ROCKIES | MLB | J37 | 🏟️ | Houston Astros 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J53 | 🏟️ | Houston Astros 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-colorado-rockies-houston-astros@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270527T191000Z
 DTEND:20270527T205500Z
 SUMMARY:Colorado Rockies - Houston Astros
@@ -736,16 +967,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-baltimore-orioles-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-SUMMARY:COLORADO ROCKIES | MLB | J42 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J53 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-baltimore-orioles-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270528T230500Z
 DTEND:20270529T005000Z
 SUMMARY:Baltimore Orioles - Colorado Rockies
@@ -754,16 +985,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-baltimore-orioles-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-SUMMARY:COLORADO ROCKIES | MLB | J42 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J53 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-baltimore-orioles-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270529T200500Z
 DTEND:20270529T215000Z
 SUMMARY:Baltimore Orioles - Colorado Rockies
@@ -772,16 +1003,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-baltimore-orioles-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-SUMMARY:COLORADO ROCKIES | MLB | J38 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J54 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-baltimore-orioles-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270530T173500Z
 DTEND:20270530T192000Z
 SUMMARY:Baltimore Orioles - Colorado Rockies
@@ -790,16 +1021,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270531-atlanta-braves-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
-SUMMARY:COLORADO ROCKIES | MLB | J44 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J56 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270531-atlanta-braves-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270531T201000Z
 DTEND:20270531T215500Z
 SUMMARY:Atlanta Braves - Colorado Rockies
@@ -808,16 +1039,16 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-atlanta-braves-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
-SUMMARY:COLORADO ROCKIES | MLB | J45 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J58 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-atlanta-braves-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270601T231500Z
 DTEND:20270602T010000Z
 SUMMARY:Atlanta Braves - Colorado Rockies
@@ -826,16 +1057,16 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270603-atlanta-braves-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
-SUMMARY:COLORADO ROCKIES | MLB | J45 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J59 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270603-atlanta-braves-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270602T231500Z
 DTEND:20270603T010000Z
 SUMMARY:Atlanta Braves - Colorado Rockies
@@ -844,17 +1075,35 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-colorado-rockies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-SUMMARY:COLORADO ROCKIES | MLB | J47 | 🏟️ | St. Louis Cardinals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J60 | 🏟️ | St. Louis Cardinals 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-colorado-rockies-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Colorado Rockies - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-colorado-rockies-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:COLORADO ROCKIES | MLB | J60 | 🏟️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-colorado-rockies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270605T004000Z
 DTEND:20270605T022500Z
 SUMMARY:Colorado Rockies - St. Louis Cardinals
@@ -863,17 +1112,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-colorado-rockies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
-SUMMARY:COLORADO ROCKIES | MLB | J49 | 🏟️ | St. Louis Cardinals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J62 | 🏟️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-colorado-rockies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270606T191000Z
 DTEND:20270606T205500Z
 SUMMARY:Colorado Rockies - St. Louis Cardinals
@@ -882,16 +1131,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270608-colorado-rockies-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
-SUMMARY:COLORADO ROCKIES | MLB | J48 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J64 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270608-colorado-rockies-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270608T004000Z
 DTEND:20270608T022500Z
 SUMMARY:Colorado Rockies - Atlanta Braves
@@ -900,16 +1149,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-colorado-rockies-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
-SUMMARY:COLORADO ROCKIES | MLB | J51 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J65 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-colorado-rockies-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270609T004000Z
 DTEND:20270609T022500Z
 SUMMARY:Colorado Rockies - Atlanta Braves
@@ -918,16 +1167,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-colorado-rockies-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
-SUMMARY:COLORADO ROCKIES | MLB | J51 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J65 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-colorado-rockies-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270609T191000Z
 DTEND:20270609T205500Z
 SUMMARY:Colorado Rockies - Atlanta Braves
@@ -935,17 +1184,68 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270611-chicago-cubs-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:COLORADO ROCKIES | MLB | J66 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270611-chicago-cubs-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Chicago Cubs - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-chicago-cubs-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:COLORADO ROCKIES | MLB | J67 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-chicago-cubs-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Chicago Cubs - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-chicago-cubs-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:COLORADO ROCKIES | MLB | J68 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-chicago-cubs-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Chicago Cubs - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270615-texas-rangers-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
-SUMMARY:COLORADO ROCKIES | MLB | J54 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J69 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270615-texas-rangers-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270615T001000Z
 DTEND:20270615T015500Z
 SUMMARY:Texas Rangers - Colorado Rockies
@@ -954,16 +1254,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-texas-rangers-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
-SUMMARY:COLORADO ROCKIES | MLB | J53 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J70 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-texas-rangers-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270616T001000Z
 DTEND:20270616T015500Z
 SUMMARY:Texas Rangers - Colorado Rockies
@@ -972,16 +1272,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-texas-rangers-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
-SUMMARY:COLORADO ROCKIES | MLB | J53 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J70 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-texas-rangers-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270616T184000Z
 DTEND:20270616T202500Z
 SUMMARY:Texas Rangers - Colorado Rockies
@@ -990,16 +1290,33 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-colorado-rockies-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-SUMMARY:COLORADO ROCKIES | MLB | J56 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J72 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-colorado-rockies-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Colorado Rockies - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-colorado-rockies-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:COLORADO ROCKIES | MLB | J72 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-colorado-rockies-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270619T004000Z
 DTEND:20270619T022500Z
 SUMMARY:Colorado Rockies - Chicago Cubs
@@ -1008,16 +1325,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-colorado-rockies-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-SUMMARY:COLORADO ROCKIES | MLB | J58 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J74 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-colorado-rockies-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270620T191000Z
 DTEND:20270620T205500Z
 SUMMARY:Colorado Rockies - Chicago Cubs
@@ -1026,17 +1343,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
-SUMMARY:COLORADO ROCKIES | MLB | J59 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J76 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270622T004000Z
 DTEND:20270622T022500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -1045,17 +1362,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-SUMMARY:COLORADO ROCKIES | MLB | J60 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J77 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270623T004000Z
 DTEND:20270623T022500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -1064,17 +1381,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-SUMMARY:COLORADO ROCKIES | MLB | J60 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J77 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270623T191000Z
 DTEND:20270623T205500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -1082,18 +1399,69 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270625-boston-red-sox-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:COLORADO ROCKIES | MLB | J78 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270625-boston-red-sox-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Boston Red Sox - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-boston-red-sox-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:COLORADO ROCKIES | MLB | J79 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-boston-red-sox-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Boston Red Sox - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-boston-red-sox-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:COLORADO ROCKIES | MLB | J80 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-boston-red-sox-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Boston Red Sox - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270630-philadelphia-phillies-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:COLORADO ROCKIES | MLB | J65 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J81 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270630-philadelphia-phillies-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270629T224000Z
 DTEND:20270630T002500Z
 SUMMARY:Philadelphia Phillies - Colorado Rockies
@@ -1102,17 +1470,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-philadelphia-phillies-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-SUMMARY:COLORADO ROCKIES | MLB | J66 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J82 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-philadelphia-phillies-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270630T224000Z
 DTEND:20270701T002500Z
 SUMMARY:Philadelphia Phillies - Colorado Rockies
@@ -1121,17 +1489,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-philadelphia-phillies-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-SUMMARY:COLORADO ROCKIES | MLB | J66 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J82 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-philadelphia-phillies-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270701T163500Z
 DTEND:20270701T182000Z
 SUMMARY:Philadelphia Phillies - Colorado Rockies
@@ -1140,16 +1508,16 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-colorado-rockies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
-SUMMARY:COLORADO ROCKIES | MLB | J65 | 🏟️ | Toronto Blue Jays 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J85 | 🏟️ | Toronto Blue Jays 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-colorado-rockies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270703T001000Z
 DTEND:20270703T015500Z
 SUMMARY:Colorado Rockies - Toronto Blue Jays
@@ -1158,16 +1526,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-colorado-rockies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:COLORADO ROCKIES | MLB | J66 | 🏟️ | Toronto Blue Jays 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J86 | 🏟️ | Toronto Blue Jays 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-colorado-rockies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T001000Z
 DTEND:20270704T015500Z
 SUMMARY:Colorado Rockies - Toronto Blue Jays
@@ -1176,16 +1544,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-colorado-rockies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:COLORADO ROCKIES | MLB | J66 | 🏟️ | Toronto Blue Jays 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J86 | 🏟️ | Toronto Blue Jays 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-colorado-rockies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T191000Z
 DTEND:20270704T205500Z
 SUMMARY:Colorado Rockies - Toronto Blue Jays
@@ -1194,17 +1562,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270707-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
-SUMMARY:COLORADO ROCKIES | MLB | J68 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J89 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270707-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270707T004000Z
 DTEND:20270707T022500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -1213,17 +1581,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-SUMMARY:COLORADO ROCKIES | MLB | J68 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J90 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270708T004000Z
 DTEND:20270708T022500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -1232,17 +1600,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-SUMMARY:COLORADO ROCKIES | MLB | J68 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J90 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270708T191000Z
 DTEND:20270708T205500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -1251,16 +1619,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:COLORADO ROCKIES | MLB | J63 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J92 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270710T001000Z
 DTEND:20270710T015500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -1269,16 +1637,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:COLORADO ROCKIES | MLB | J63 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J92 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270710T191000Z
 DTEND:20270710T205500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -1287,16 +1655,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:COLORADO ROCKIES | MLB | J68 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J93 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270711T004000Z
 DTEND:20270711T022500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -1305,16 +1673,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-colorado-rockies-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:COLORADO ROCKIES | MLB | J68 | 🏟️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J93 | 🏟️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-colorado-rockies-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270711T191000Z
 DTEND:20270711T205500Z
 SUMMARY:Colorado Rockies - San Diego Padres
@@ -1322,17 +1690,194 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270716-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:COLORADO ROCKIES | MLB | J93 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270716-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:COLORADO ROCKIES | MLB | J94 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:COLORADO ROCKIES | MLB | J95 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270719-san-francisco-giants-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:COLORADO ROCKIES | MLB | J97 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270719-san-francisco-giants-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:San Francisco Giants - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-san-francisco-giants-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:COLORADO ROCKIES | MLB | J98 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-san-francisco-giants-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:San Francisco Giants - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-san-francisco-giants-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:COLORADO ROCKIES | MLB | J99 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-san-francisco-giants-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:San Francisco Giants - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270722-san-francisco-giants-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:COLORADO ROCKIES | MLB | J99 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270722-san-francisco-giants-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:San Francisco Giants - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-houston-astros-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:COLORADO ROCKIES | MLB | J100 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-houston-astros-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Houston Astros - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-houston-astros-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:COLORADO ROCKIES | MLB | J101 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-houston-astros-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Houston Astros - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-houston-astros-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:COLORADO ROCKIES | MLB | J102 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-houston-astros-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Houston Astros - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270727-colorado-rockies-new-york-yankees-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
-SUMMARY:COLORADO ROCKIES | MLB | J79 | 🏟️ | New York Yankees 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J104 | 🏟️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270727-colorado-rockies-new-york-yankees@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270727T004000Z
 DTEND:20270727T022500Z
 SUMMARY:Colorado Rockies - New York Yankees
@@ -1341,16 +1886,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-colorado-rockies-new-york-yankees-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:COLORADO ROCKIES | MLB | J80 | 🏟️ | New York Yankees 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J105 | 🏟️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-colorado-rockies-new-york-yankees@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270728T004000Z
 DTEND:20270728T022500Z
 SUMMARY:Colorado Rockies - New York Yankees
@@ -1359,16 +1904,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-colorado-rockies-new-york-yankees-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:COLORADO ROCKIES | MLB | J80 | 🏟️ | New York Yankees 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J105 | 🏟️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-colorado-rockies-new-york-yankees@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270728T191000Z
 DTEND:20270728T205500Z
 SUMMARY:Colorado Rockies - New York Yankees
@@ -1377,16 +1922,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-colorado-rockies-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
-SUMMARY:COLORADO ROCKIES | MLB | J82 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J107 | 🏟️ | Milwaukee Brewers 🇺
+ 🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-colorado-rockies-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270731T004000Z
 DTEND:20270731T022500Z
 SUMMARY:Colorado Rockies - Milwaukee Brewers
@@ -1395,16 +1941,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-colorado-rockies-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-SUMMARY:COLORADO ROCKIES | MLB | J82 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J108 | 🏟️ | Milwaukee Brewers 🇺
+ 🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-colorado-rockies-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270801T001000Z
 DTEND:20270801T015500Z
 SUMMARY:Colorado Rockies - Milwaukee Brewers
@@ -1413,16 +1960,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-colorado-rockies-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-SUMMARY:COLORADO ROCKIES | MLB | J82 | 🏟️ | Milwaukee Brewers 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J108 | 🏟️ | Milwaukee Brewers 🇺
+ 🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-colorado-rockies-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270801T191000Z
 DTEND:20270801T205500Z
 SUMMARY:Colorado Rockies - Milwaukee Brewers
@@ -1431,16 +1979,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-kansas-city-royals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-SUMMARY:COLORADO ROCKIES | MLB | J84 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J111 | ✈️ | Kansas City Royals 🇺
+ 🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-kansas-city-royals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270803T234000Z
 DTEND:20270804T012500Z
 SUMMARY:Kansas City Royals - Colorado Rockies
@@ -1449,16 +1998,17 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-kansas-city-royals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
-SUMMARY:COLORADO ROCKIES | MLB | J85 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J112 | ✈️ | Kansas City Royals 🇺
+ 🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-kansas-city-royals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270804T234000Z
 DTEND:20270805T012500Z
 SUMMARY:Kansas City Royals - Colorado Rockies
@@ -1467,16 +2017,17 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-kansas-city-royals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
-SUMMARY:COLORADO ROCKIES | MLB | J85 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J112 | ✈️ | Kansas City Royals 🇺
+ 🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-kansas-city-royals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270805T181000Z
 DTEND:20270805T195500Z
 SUMMARY:Kansas City Royals - Colorado Rockies
@@ -1485,17 +2036,17 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-st-louis-cardinals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-SUMMARY:COLORADO ROCKIES | MLB | J85 | ✈️ | St. Louis Cardinals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J114 | ✈️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-st-louis-cardinals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270807T001500Z
 DTEND:20270807T020000Z
 SUMMARY:St. Louis Cardinals - Colorado Rockies
@@ -1504,17 +2055,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-st-louis-cardinals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:COLORADO ROCKIES | MLB | J85 | ✈️ | St. Louis Cardinals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J115 | ✈️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-st-louis-cardinals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270807T231500Z
 DTEND:20270808T010000Z
 SUMMARY:St. Louis Cardinals - Colorado Rockies
@@ -1523,17 +2074,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-st-louis-cardinals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:COLORADO ROCKIES | MLB | J85 | ✈️ | St. Louis Cardinals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J115 | ✈️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-st-louis-cardinals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270808T181500Z
 DTEND:20270808T200000Z
 SUMMARY:St. Louis Cardinals - Colorado Rockies
@@ -1542,17 +2093,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-colorado-rockies-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
-SUMMARY:COLORADO ROCKIES | MLB | J85 | 🏟️ | Philadelphia Phillies 🇺
- 🇸
+SUMMARY:COLORADO ROCKIES | MLB | J116 | 🏟️ | Philadelphia Phillies 
+ 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-colorado-rockies-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270810T004000Z
 DTEND:20270810T022500Z
 SUMMARY:Colorado Rockies - Philadelphia Phillies
@@ -1561,17 +2112,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-colorado-rockies-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-SUMMARY:COLORADO ROCKIES | MLB | J86 | 🏟️ | Philadelphia Phillies 🇺
- 🇸
+SUMMARY:COLORADO ROCKIES | MLB | J117 | 🏟️ | Philadelphia Phillies 
+ 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-colorado-rockies-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270811T004000Z
 DTEND:20270811T022500Z
 SUMMARY:Colorado Rockies - Philadelphia Phillies
@@ -1580,17 +2131,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270812-colorado-rockies-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-SUMMARY:COLORADO ROCKIES | MLB | J88 | 🏟️ | Philadelphia Phillies 🇺
- 🇸
+SUMMARY:COLORADO ROCKIES | MLB | J118 | 🏟️ | Philadelphia Phillies 
+ 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270812-colorado-rockies-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270812T004000Z
 DTEND:20270812T022500Z
 SUMMARY:Colorado Rockies - Philadelphia Phillies
@@ -1599,17 +2150,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270812-colorado-rockies-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-SUMMARY:COLORADO ROCKIES | MLB | J88 | 🏟️ | Philadelphia Phillies 🇺
- 🇸
+SUMMARY:COLORADO ROCKIES | MLB | J118 | 🏟️ | Philadelphia Phillies 
+ 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270812-colorado-rockies-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270812T191000Z
 DTEND:20270812T205500Z
 SUMMARY:Colorado Rockies - Philadelphia Phillies
@@ -1618,16 +2169,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-colorado-rockies-chicago-white-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
-SUMMARY:COLORADO ROCKIES | MLB | J89 | 🏟️ | Chicago White Sox 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J120 | 🏟️ | Chicago White Sox 🇺
+ 🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-colorado-rockies-chicago-white-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270814T004000Z
 DTEND:20270814T022500Z
 SUMMARY:Colorado Rockies - Chicago White Sox
@@ -1636,16 +2188,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-colorado-rockies-chicago-white-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-SUMMARY:COLORADO ROCKIES | MLB | J90 | 🏟️ | Chicago White Sox 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J121 | 🏟️ | Chicago White Sox 🇺
+ 🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-colorado-rockies-chicago-white-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270815T001000Z
 DTEND:20270815T015500Z
 SUMMARY:Colorado Rockies - Chicago White Sox
@@ -1654,16 +2207,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-colorado-rockies-chicago-white-sox-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-SUMMARY:COLORADO ROCKIES | MLB | J90 | 🏟️ | Chicago White Sox 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J121 | 🏟️ | Chicago White Sox 🇺
+ 🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-colorado-rockies-chicago-white-sox@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270815T191000Z
 DTEND:20270815T205500Z
 SUMMARY:Colorado Rockies - Chicago White Sox
@@ -1671,18 +2225,72 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270816-los-angeles-dodgers-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:COLORADO ROCKIES | MLB | J121 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270816-los-angeles-dodgers-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Los Angeles Dodgers - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-los-angeles-dodgers-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:COLORADO ROCKIES | MLB | J122 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-los-angeles-dodgers-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Los Angeles Dodgers - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-los-angeles-dodgers-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:COLORADO ROCKIES | MLB | J123 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-los-angeles-dodgers-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Los Angeles Dodgers - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270821-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
-SUMMARY:COLORADO ROCKIES | MLB | J89 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J127 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270821T004000Z
 DTEND:20270821T022500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -1691,17 +2299,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:COLORADO ROCKIES | MLB | J90 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J128 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270822T001000Z
 DTEND:20270822T015500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -1710,17 +2318,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:COLORADO ROCKIES | MLB | J90 | 🏟️ | Arizona Diamondbacks 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J128 | 🏟️ | Arizona Diamondbacks 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270822T191000Z
 DTEND:20270822T205500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -1729,16 +2337,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-new-york-mets-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-SUMMARY:COLORADO ROCKIES | MLB | J93 | ✈️ | New York Mets 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J129 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-new-york-mets-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270824T231000Z
 DTEND:20270825T005500Z
 SUMMARY:New York Mets - Colorado Rockies
@@ -1747,16 +2355,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270826-new-york-mets-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270826
 DTEND;VALUE=DATE:20270827
-SUMMARY:COLORADO ROCKIES | MLB | J97 | ✈️ | New York Mets 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J130 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270826-new-york-mets-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270825T231000Z
 DTEND:20270826T005500Z
 SUMMARY:New York Mets - Colorado Rockies
@@ -1764,17 +2372,35 @@ DESCRIPTION:MLB
 LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-20270827-new-york-mets-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+UID:mlb-20270827-pittsburgh-pirates-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270828
-SUMMARY:COLORADO ROCKIES | MLB | J97 | ✈️ | New York Mets 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J132 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-pittsburgh-pirates-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Pittsburgh Pirates - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-new-york-mets-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:COLORADO ROCKIES | MLB | J132 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270827-new-york-mets-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270826T231000Z
 DTEND:20270827T005500Z
 SUMMARY:New York Mets - Colorado Rockies
@@ -1782,18 +2408,54 @@ DESCRIPTION:MLB
 LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270828-pittsburgh-pirates-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:COLORADO ROCKIES | MLB | J133 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-pittsburgh-pirates-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Pittsburgh Pirates - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-pittsburgh-pirates-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:COLORADO ROCKIES | MLB | J134 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-pittsburgh-pirates-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Pittsburgh Pirates - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270901-colorado-rockies-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
-SUMMARY:COLORADO ROCKIES | MLB | J98 | 🏟️ | Los Angeles Angels 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J135 | 🏟️ | Los Angeles Angels 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-colorado-rockies-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270901T004000Z
 DTEND:20270901T022500Z
 SUMMARY:Colorado Rockies - Los Angeles Angels
@@ -1802,17 +2464,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-colorado-rockies-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-SUMMARY:COLORADO ROCKIES | MLB | J99 | 🏟️ | Los Angeles Angels 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J136 | 🏟️ | Los Angeles Angels 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-colorado-rockies-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270902T004000Z
 DTEND:20270902T022500Z
 SUMMARY:Colorado Rockies - Los Angeles Angels
@@ -1821,17 +2483,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-colorado-rockies-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-SUMMARY:COLORADO ROCKIES | MLB | J99 | 🏟️ | Los Angeles Angels 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J136 | 🏟️ | Los Angeles Angels 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-colorado-rockies-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270902T191000Z
 DTEND:20270902T205500Z
 SUMMARY:Colorado Rockies - Los Angeles Angels
@@ -1840,16 +2502,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-SUMMARY:COLORADO ROCKIES | MLB | J101 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J139 | ✈️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270904T014000Z
 DTEND:20270904T032500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -1858,16 +2520,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:COLORADO ROCKIES | MLB | J102 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J140 | ✈️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270905T004000Z
 DTEND:20270905T022500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -1876,16 +2538,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-san-diego-padres-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:COLORADO ROCKIES | MLB | J102 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J140 | ✈️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-san-diego-padres-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270905T201000Z
 DTEND:20270905T215500Z
 SUMMARY:San Diego Padres - Colorado Rockies
@@ -1894,16 +2556,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-colorado-rockies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
-SUMMARY:COLORADO ROCKIES | MLB | J103 | 🏟️ | Cincinnati Reds 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J140 | 🏟️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-colorado-rockies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270906T201000Z
 DTEND:20270906T215500Z
 SUMMARY:Colorado Rockies - Cincinnati Reds
@@ -1912,16 +2574,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-colorado-rockies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-SUMMARY:COLORADO ROCKIES | MLB | J104 | 🏟️ | Cincinnati Reds 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J142 | 🏟️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-colorado-rockies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270908T004000Z
 DTEND:20270908T022500Z
 SUMMARY:Colorado Rockies - Cincinnati Reds
@@ -1930,16 +2592,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-colorado-rockies-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
-SUMMARY:COLORADO ROCKIES | MLB | J107 | 🏟️ | Cincinnati Reds 🇺🇸
+SUMMARY:COLORADO ROCKIES | MLB | J143 | 🏟️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-colorado-rockies-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270909T004000Z
 DTEND:20270909T022500Z
 SUMMARY:Colorado Rockies - Cincinnati Reds
@@ -1948,17 +2610,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270911-colorado-rockies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
-SUMMARY:COLORADO ROCKIES | MLB | J109 | 🏟️ | Washington Nationals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J145 | 🏟️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270911-colorado-rockies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270911T004000Z
 DTEND:20270911T022500Z
 SUMMARY:Colorado Rockies - Washington Nationals
@@ -1967,17 +2629,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-colorado-rockies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
-SUMMARY:COLORADO ROCKIES | MLB | J110 | 🏟️ | Washington Nationals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J146 | 🏟️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-colorado-rockies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270912T001000Z
 DTEND:20270912T015500Z
 SUMMARY:Colorado Rockies - Washington Nationals
@@ -1986,17 +2648,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-colorado-rockies-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
-SUMMARY:COLORADO ROCKIES | MLB | J110 | 🏟️ | Washington Nationals 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J146 | 🏟️ | Washington Nationals 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-colorado-rockies-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270912T191000Z
 DTEND:20270912T205500Z
 SUMMARY:Colorado Rockies - Washington Nationals
@@ -2004,18 +2666,120 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270914-miami-marlins-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:COLORADO ROCKIES | MLB | J147 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-miami-marlins-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Miami Marlins - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-miami-marlins-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:COLORADO ROCKIES | MLB | J148 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-miami-marlins-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Miami Marlins - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-miami-marlins-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:COLORADO ROCKIES | MLB | J149 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-miami-marlins-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Miami Marlins - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-tampa-bay-rays-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:COLORADO ROCKIES | MLB | J150 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-tampa-bay-rays-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Tampa Bay Rays - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-tampa-bay-rays-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:COLORADO ROCKIES | MLB | J151 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-tampa-bay-rays-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Tampa Bay Rays - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-tampa-bay-rays-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:COLORADO ROCKIES | MLB | J152 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-tampa-bay-rays-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Tampa Bay Rays - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270922-colorado-rockies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
-SUMMARY:COLORADO ROCKIES | MLB | J113 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J153 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-colorado-rockies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270922T004000Z
 DTEND:20270922T022500Z
 SUMMARY:Colorado Rockies - Los Angeles Dodgers
@@ -2024,17 +2788,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-colorado-rockies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
-SUMMARY:COLORADO ROCKIES | MLB | J116 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J154 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-colorado-rockies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270923T004000Z
 DTEND:20270923T022500Z
 SUMMARY:Colorado Rockies - Los Angeles Dodgers
@@ -2043,17 +2807,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270924-colorado-rockies-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270925
-SUMMARY:COLORADO ROCKIES | MLB | J115 | 🏟️ | Los Angeles Dodgers 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J155 | 🏟️ | Los Angeles Dodgers 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270924-colorado-rockies-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270924T004000Z
 DTEND:20270924T022500Z
 SUMMARY:Colorado Rockies - Los Angeles Dodgers
@@ -2062,17 +2826,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270925-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
-SUMMARY:COLORADO ROCKIES | MLB | J116 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J156 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270925-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270925T001000Z
 DTEND:20270925T015500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -2081,17 +2845,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
-SUMMARY:COLORADO ROCKIES | MLB | J117 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J157 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270926T001000Z
 DTEND:20270926T015500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -2100,17 +2864,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
-SUMMARY:COLORADO ROCKIES | MLB | J117 | 🏟️ | San Francisco Giants 🇺
+SUMMARY:COLORADO ROCKIES | MLB | J157 | 🏟️ | San Francisco Giants 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270926T191000Z
 DTEND:20270926T205500Z
 SUMMARY:Colorado Rockies - San Francisco Giants

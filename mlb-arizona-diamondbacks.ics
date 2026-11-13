@@ -5,18 +5,159 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Arizona Diamondbacks · MLB
 BEGIN:VEVENT
+UID:mlb-20270330-san-francisco-giants-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J1 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270330-san-francisco-giants-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-san-francisco-giants-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J2 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-san-francisco-giants-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270402-arizona-diamondbacks-miami-marlins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J3 | 🏟️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270402-arizona-diamondbacks-miami-marlins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Arizona Diamondbacks - Miami Marlins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-arizona-diamondbacks-miami-marlins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J4 | 🏟️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-arizona-diamondbacks-miami-marlins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Arizona Diamondbacks - Miami Marlins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-arizona-diamondbacks-miami-marlins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J5 | 🏟️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-arizona-diamondbacks-miami-marlins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Arizona Diamondbacks - Miami Marlins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270405-arizona-diamondbacks-los-angeles-dodgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J6 | 🏟️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270405-arizona-diamondbacks-los-angeles-dodgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Arizona Diamondbacks - Los Angeles Dodgers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270406-arizona-diamondbacks-los-angeles-dodgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J7 | 🏟️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270406-arizona-diamondbacks-los-angeles-dodgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Arizona Diamondbacks - Los Angeles Dodgers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270407-arizona-diamondbacks-los-angeles-dodgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J8 | 🏟️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270407-arizona-diamondbacks-los-angeles-dodgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Arizona Diamondbacks - Los Angeles Dodgers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270410-new-york-yankees-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J9 | ✈️ | New York Yankees 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J10 | ✈️ | New York Yankees 🇺
  🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-new-york-yankees-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270409T230500Z
 DTEND:20270410T005000Z
 SUMMARY:New York Yankees - Arizona Diamondbacks
@@ -25,17 +166,17 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-new-york-yankees-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J9 | ✈️ | New York Yankees 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J10 | ✈️ | New York Yankees 🇺
  🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-new-york-yankees-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270410T173500Z
 DTEND:20270410T192000Z
 SUMMARY:New York Yankees - Arizona Diamondbacks
@@ -44,7 +185,7 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-new-york-yankees-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:ARIZONA DIAMONDBACKS | MLB | J11 | ✈️ | New York Yankees 🇺
@@ -54,7 +195,7 @@ DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-new-york-yankees-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270411T173500Z
 DTEND:20270411T192000Z
 SUMMARY:New York Yankees - Arizona Diamondbacks
@@ -62,18 +203,174 @@ DESCRIPTION:MLB
 LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270413-miami-marlins-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J12 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270413-miami-marlins-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Miami Marlins - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-miami-marlins-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J13 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-miami-marlins-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Miami Marlins - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-miami-marlins-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J14 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-miami-marlins-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Miami Marlins - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270416-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J16 | 🏟️ | San Diego Padres 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270416-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J17 | 🏟️ | San Diego Padres 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J18 | 🏟️ | San Diego Padres 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270419-arizona-diamondbacks-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J18 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270419-arizona-diamondbacks-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Arizona Diamondbacks - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270420-arizona-diamondbacks-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J19 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270420-arizona-diamondbacks-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Arizona Diamondbacks - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-arizona-diamondbacks-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J20 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-arizona-diamondbacks-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Arizona Diamondbacks - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270424-philadelphia-phillies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J16 | ✈️ | Philadelphia Phillies 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J22 | ✈️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-philadelphia-phillies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270423T224000Z
 DTEND:20270424T002500Z
 SUMMARY:Philadelphia Phillies - Arizona Diamondbacks
@@ -82,17 +379,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-philadelphia-phillies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J16 | ✈️ | Philadelphia Phillies 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J22 | ✈️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-philadelphia-phillies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270424T170500Z
 DTEND:20270424T185000Z
 SUMMARY:Philadelphia Phillies - Arizona Diamondbacks
@@ -101,17 +398,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-philadelphia-phillies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J17 | ✈️ | Philadelphia Phillies 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J23 | ✈️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-philadelphia-phillies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270425T173500Z
 DTEND:20270425T192000Z
 SUMMARY:Philadelphia Phillies - Arizona Diamondbacks
@@ -120,17 +417,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270426-philadelphia-phillies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J19 | ✈️ | Philadelphia Phillies 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J25 | ✈️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270426-philadelphia-phillies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270426T170500Z
 DTEND:20270426T185000Z
 SUMMARY:Philadelphia Phillies - Arizona Diamondbacks
@@ -138,18 +435,228 @@ DESCRIPTION:MLB
 LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270427-detroit-tigers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J25 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270427-detroit-tigers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Detroit Tigers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270428-detroit-tigers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J26 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270428-detroit-tigers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Detroit Tigers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270429-detroit-tigers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J27 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270429-detroit-tigers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Detroit Tigers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270430-arizona-diamondbacks-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J28 | 🏟️ | Cleveland Guardians 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270430-arizona-diamondbacks-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Arizona Diamondbacks - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-arizona-diamondbacks-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J29 | 🏟️ | Cleveland Guardians 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-arizona-diamondbacks-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Arizona Diamondbacks - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-arizona-diamondbacks-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J30 | 🏟️ | Cleveland Guardians 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-arizona-diamondbacks-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Arizona Diamondbacks - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270503-arizona-diamondbacks-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J32 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270503-arizona-diamondbacks-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Arizona Diamondbacks - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270504-arizona-diamondbacks-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J33 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270504-arizona-diamondbacks-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Arizona Diamondbacks - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270505-arizona-diamondbacks-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J34 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270505-arizona-diamondbacks-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Arizona Diamondbacks - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270507-arizona-diamondbacks-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J35 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270507-arizona-diamondbacks-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Arizona Diamondbacks - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270508-arizona-diamondbacks-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J36 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270508-arizona-diamondbacks-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Arizona Diamondbacks - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270509-arizona-diamondbacks-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J37 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270509-arizona-diamondbacks-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Arizona Diamondbacks - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270512-cincinnati-reds-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J29 | ✈️ | Cincinnati Reds 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J38 | ✈️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-cincinnati-reds-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270511T224000Z
 DTEND:20270512T002500Z
 SUMMARY:Cincinnati Reds - Arizona Diamondbacks
@@ -158,17 +665,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-cincinnati-reds-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J30 | ✈️ | Cincinnati Reds 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J39 | ✈️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-cincinnati-reds-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270512T224000Z
 DTEND:20270513T002500Z
 SUMMARY:Cincinnati Reds - Arizona Diamondbacks
@@ -177,17 +684,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-cincinnati-reds-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J30 | ✈️ | Cincinnati Reds 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J39 | ✈️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-cincinnati-reds-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270513T164000Z
 DTEND:20270513T182500Z
 SUMMARY:Cincinnati Reds - Arizona Diamondbacks
@@ -196,16 +703,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-atlanta-braves-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J32 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J42 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-atlanta-braves-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270514T231500Z
 DTEND:20270515T010000Z
 SUMMARY:Atlanta Braves - Arizona Diamondbacks
@@ -214,16 +721,16 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-atlanta-braves-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J33 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J43 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-atlanta-braves-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270515T231500Z
 DTEND:20270516T010000Z
 SUMMARY:Atlanta Braves - Arizona Diamondbacks
@@ -232,16 +739,16 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-atlanta-braves-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J33 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J43 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-atlanta-braves-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270516T173500Z
 DTEND:20270516T192000Z
 SUMMARY:Atlanta Braves - Arizona Diamondbacks
@@ -249,18 +756,198 @@ DESCRIPTION:MLB
 LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270517-arizona-diamondbacks-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J43 | 🏟️ | Seattle Mariners 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270517-arizona-diamondbacks-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Arizona Diamondbacks - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270518-arizona-diamondbacks-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J44 | 🏟️ | Seattle Mariners 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270518-arizona-diamondbacks-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Arizona Diamondbacks - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270519-arizona-diamondbacks-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J45 | 🏟️ | Seattle Mariners 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270519-arizona-diamondbacks-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Arizona Diamondbacks - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270520-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J45 | 🏟️ | Colorado Rockies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270520-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270521-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J47 | 🏟️ | Colorado Rockies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270521-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J48 | 🏟️ | Colorado Rockies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J49 | 🏟️ | Colorado Rockies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270524-los-angeles-dodgers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J50 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270524-los-angeles-dodgers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Los Angeles Dodgers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-los-angeles-dodgers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J51 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-los-angeles-dodgers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Los Angeles Dodgers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-los-angeles-dodgers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J52 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-los-angeles-dodgers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Los Angeles Dodgers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270529-milwaukee-brewers-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J42 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J53 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-milwaukee-brewers-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270528T234000Z
 DTEND:20270529T012500Z
 SUMMARY:Milwaukee Brewers - Arizona Diamondbacks
@@ -269,17 +956,17 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-milwaukee-brewers-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J42 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J53 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-milwaukee-brewers-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270529T201000Z
 DTEND:20270529T215500Z
 SUMMARY:Milwaukee Brewers - Arizona Diamondbacks
@@ -288,17 +975,17 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-milwaukee-brewers-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J38 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J54 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-milwaukee-brewers-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270530T181000Z
 DTEND:20270530T195500Z
 SUMMARY:Milwaukee Brewers - Arizona Diamondbacks
@@ -306,18 +993,180 @@ DESCRIPTION:MLB
 LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270531-arizona-diamondbacks-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J56 | 🏟️ | Cincinnati Reds 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270531-arizona-diamondbacks-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Arizona Diamondbacks - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-arizona-diamondbacks-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J57 | 🏟️ | Cincinnati Reds 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-arizona-diamondbacks-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Arizona Diamondbacks - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-arizona-diamondbacks-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J58 | 🏟️ | Cincinnati Reds 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-arizona-diamondbacks-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Arizona Diamondbacks - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270604-arizona-diamondbacks-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J60 | 🏟️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270604-arizona-diamondbacks-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-arizona-diamondbacks-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J61 | 🏟️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-arizona-diamondbacks-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270606-arizona-diamondbacks-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J62 | 🏟️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270606-arizona-diamondbacks-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-toronto-blue-jays-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J62 | ✈️ | Toronto Blue Jays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-toronto-blue-jays-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Toronto Blue Jays - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-toronto-blue-jays-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J63 | ✈️ | Toronto Blue Jays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-toronto-blue-jays-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Toronto Blue Jays - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270610-toronto-blue-jays-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J64 | ✈️ | Toronto Blue Jays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270610-toronto-blue-jays-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Toronto Blue Jays - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270612-washington-nationals-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J51 | ✈️ | Washington Nationals 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J65 | ✈️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-washington-nationals-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270611T230500Z
 DTEND:20270612T005000Z
 SUMMARY:Washington Nationals - Arizona Diamondbacks
@@ -326,17 +1175,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-washington-nationals-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J51 | ✈️ | Washington Nationals 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J65 | ✈️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-washington-nationals-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270612T200500Z
 DTEND:20270612T215000Z
 SUMMARY:Washington Nationals - Arizona Diamondbacks
@@ -345,17 +1194,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-washington-nationals-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J53 | ✈️ | Washington Nationals 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J67 | ✈️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-washington-nationals-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270613T173500Z
 DTEND:20270613T192000Z
 SUMMARY:Washington Nationals - Arizona Diamondbacks
@@ -363,18 +1212,126 @@ DESCRIPTION:MLB
 LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270614-arizona-diamondbacks-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J68 | 🏟️ | Atlanta Braves 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270614-arizona-diamondbacks-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Arizona Diamondbacks - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-arizona-diamondbacks-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J69 | 🏟️ | Atlanta Braves 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-arizona-diamondbacks-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Arizona Diamondbacks - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270616-arizona-diamondbacks-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J70 | 🏟️ | Atlanta Braves 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270616-arizona-diamondbacks-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Arizona Diamondbacks - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270618-arizona-diamondbacks-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J72 | 🏟️ | Boston Red Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270618-arizona-diamondbacks-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Arizona Diamondbacks - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-arizona-diamondbacks-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J73 | 🏟️ | Boston Red Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-arizona-diamondbacks-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Arizona Diamondbacks - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270620-arizona-diamondbacks-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J74 | 🏟️ | Boston Red Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270620-arizona-diamondbacks-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Arizona Diamondbacks - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270622-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J59 | ✈️ | Colorado Rockies 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J76 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270622T004000Z
 DTEND:20270622T022500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -383,17 +1340,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J60 | ✈️ | Colorado Rockies 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J77 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270623T004000Z
 DTEND:20270623T022500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -402,17 +1359,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J60 | ✈️ | Colorado Rockies 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J77 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270623T191000Z
 DTEND:20270623T205500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -420,18 +1377,192 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270625-athletics-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J78 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270625-athletics-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Athletics - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-athletics-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J79 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-athletics-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Athletics - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-athletics-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J80 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-athletics-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Athletics - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270628-arizona-diamondbacks-new-york-mets-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J81 | 🏟️ | New York Mets 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270628-arizona-diamondbacks-new-york-mets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Arizona Diamondbacks - New York Mets · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-arizona-diamondbacks-new-york-mets-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J82 | 🏟️ | New York Mets 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-arizona-diamondbacks-new-york-mets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Arizona Diamondbacks - New York Mets · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-arizona-diamondbacks-new-york-mets-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J83 | 🏟️ | New York Mets 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-arizona-diamondbacks-new-york-mets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Arizona Diamondbacks - New York Mets · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-arizona-diamondbacks-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J85 | 🏟️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-arizona-diamondbacks-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270702-arizona-diamondbacks-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J84 | 🏟️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270702-arizona-diamondbacks-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270703-arizona-diamondbacks-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J85 | 🏟️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270703-arizona-diamondbacks-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270704-arizona-diamondbacks-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J86 | 🏟️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270704-arizona-diamondbacks-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270707-st-louis-cardinals-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J68 | ✈️ | St. Louis Cardinals 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J89 | ✈️ | St. Louis Cardinals 
  🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270707-st-louis-cardinals-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270706T234500Z
 DTEND:20270707T013000Z
 SUMMARY:St. Louis Cardinals - Arizona Diamondbacks
@@ -440,17 +1571,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-st-louis-cardinals-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J68 | ✈️ | St. Louis Cardinals 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J90 | ✈️ | St. Louis Cardinals 
  🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-st-louis-cardinals-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270707T234500Z
 DTEND:20270708T013000Z
 SUMMARY:St. Louis Cardinals - Arizona Diamondbacks
@@ -458,18 +1589,36 @@ DESCRIPTION:MLB
 LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-20270709-st-louis-cardinals-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+UID:mlb-20270709-chicago-white-sox-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J66 | ✈️ | St. Louis Cardinals 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J91 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270709-chicago-white-sox-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Chicago White Sox - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270709-st-louis-cardinals-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J91 | ✈️ | St. Louis Cardinals 
  🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270709-st-louis-cardinals-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270708T234500Z
 DTEND:20270709T013000Z
 SUMMARY:St. Louis Cardinals - Arizona Diamondbacks
@@ -477,17 +1626,215 @@ DESCRIPTION:MLB
 LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270710-chicago-white-sox-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J91 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270710-chicago-white-sox-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Chicago White Sox - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270711-chicago-white-sox-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J92 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270711-chicago-white-sox-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Chicago White Sox - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270716-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J93 | 🏟️ | Colorado Rockies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270716-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J94 | 🏟️ | Colorado Rockies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-arizona-diamondbacks-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J95 | 🏟️ | Colorado Rockies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-arizona-diamondbacks-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Arizona Diamondbacks - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270719-arizona-diamondbacks-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J97 | 🏟️ | St. Louis Cardinals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270719-arizona-diamondbacks-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Arizona Diamondbacks - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-arizona-diamondbacks-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J98 | 🏟️ | St. Louis Cardinals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-arizona-diamondbacks-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Arizona Diamondbacks - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-arizona-diamondbacks-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J99 | 🏟️ | St. Louis Cardinals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-arizona-diamondbacks-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Arizona Diamondbacks - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-pittsburgh-pirates-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J100 | ✈️ | Pittsburgh Pirates 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-pittsburgh-pirates-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Pittsburgh Pirates - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-pittsburgh-pirates-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J101 | ✈️ | Pittsburgh Pirates 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-pittsburgh-pirates-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Pittsburgh Pirates - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-pittsburgh-pirates-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J102 | ✈️ | Pittsburgh Pirates 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-pittsburgh-pirates-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Pittsburgh Pirates - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270727-new-york-mets-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J79 | ✈️ | New York Mets 🇺🇸
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J104 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270727-new-york-mets-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270726T231000Z
 DTEND:20270727T005500Z
 SUMMARY:New York Mets - Arizona Diamondbacks
@@ -496,16 +1843,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-new-york-mets-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J80 | ✈️ | New York Mets 🇺🇸
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J105 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-new-york-mets-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270727T231000Z
 DTEND:20270728T005500Z
 SUMMARY:New York Mets - Arizona Diamondbacks
@@ -514,16 +1861,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-new-york-mets-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J80 | ✈️ | New York Mets 🇺🇸
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J105 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 19:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-new-york-mets-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270728T171000Z
 DTEND:20270728T185500Z
 SUMMARY:New York Mets - Arizona Diamondbacks
@@ -532,16 +1879,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-texas-rangers-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J82 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J108 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-texas-rangers-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270731T001000Z
 DTEND:20270731T015500Z
 SUMMARY:Texas Rangers - Arizona Diamondbacks
@@ -550,16 +1897,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-texas-rangers-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J82 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J109 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-texas-rangers-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270731T231000Z
 DTEND:20270801T005500Z
 SUMMARY:Texas Rangers - Arizona Diamondbacks
@@ -568,16 +1915,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-texas-rangers-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J82 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J109 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-texas-rangers-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270801T184000Z
 DTEND:20270801T202500Z
 SUMMARY:Texas Rangers - Arizona Diamondbacks
@@ -585,18 +1932,126 @@ DESCRIPTION:MLB
 LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270802-arizona-diamondbacks-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J110 | 🏟️ | Tampa Bay Rays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270802-arizona-diamondbacks-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Arizona Diamondbacks - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270803-arizona-diamondbacks-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J110 | 🏟️ | Tampa Bay Rays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270803-arizona-diamondbacks-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Arizona Diamondbacks - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270804-arizona-diamondbacks-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J111 | 🏟️ | Tampa Bay Rays 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270804-arizona-diamondbacks-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Arizona Diamondbacks - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270806-arizona-diamondbacks-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J113 | 🏟️ | Houston Astros 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270806-arizona-diamondbacks-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Arizona Diamondbacks - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270807-arizona-diamondbacks-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J114 | 🏟️ | Houston Astros 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270807-arizona-diamondbacks-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Arizona Diamondbacks - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-arizona-diamondbacks-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J115 | 🏟️ | Houston Astros 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-arizona-diamondbacks-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Arizona Diamondbacks - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270810-san-diego-padres-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J85 | ✈️ | San Diego Padres 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J116 | ✈️ | San Diego Padres 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-san-diego-padres-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270810T014000Z
 DTEND:20270810T032500Z
 SUMMARY:San Diego Padres - Arizona Diamondbacks
@@ -605,17 +2060,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-diego-padres-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J86 | ✈️ | San Diego Padres 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J117 | ✈️ | San Diego Padres 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-diego-padres-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270811T014000Z
 DTEND:20270811T032500Z
 SUMMARY:San Diego Padres - Arizona Diamondbacks
@@ -624,17 +2079,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-diego-padres-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J86 | ✈️ | San Diego Padres 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J117 | ✈️ | San Diego Padres 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-diego-padres-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270811T201000Z
 DTEND:20270811T215500Z
 SUMMARY:San Diego Padres - Arizona Diamondbacks
@@ -642,18 +2097,141 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270812-arizona-diamondbacks-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J118 | 🏟️ | Milwaukee Brewers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270812-arizona-diamondbacks-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Arizona Diamondbacks - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270813-arizona-diamondbacks-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J119 | 🏟️ | Milwaukee Brewers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270813-arizona-diamondbacks-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Arizona Diamondbacks - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-arizona-diamondbacks-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J120 | 🏟️ | Milwaukee Brewers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-arizona-diamondbacks-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Arizona Diamondbacks - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-arizona-diamondbacks-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J121 | 🏟️ | Milwaukee Brewers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-arizona-diamondbacks-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Arizona Diamondbacks - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270816-chicago-cubs-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J121 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270816-chicago-cubs-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Chicago Cubs - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-chicago-cubs-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J122 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-chicago-cubs-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Chicago Cubs - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-chicago-cubs-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J123 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-chicago-cubs-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Chicago Cubs - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270821-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J89 | ✈️ | Colorado Rockies 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J127 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270821T004000Z
 DTEND:20270821T022500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -662,17 +2240,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J90 | ✈️ | Colorado Rockies 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J128 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270822T001000Z
 DTEND:20270822T015500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -681,17 +2259,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-colorado-rockies-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J90 | ✈️ | Colorado Rockies 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J128 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-colorado-rockies-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270822T191000Z
 DTEND:20270822T205500Z
 SUMMARY:Colorado Rockies - Arizona Diamondbacks
@@ -699,18 +2277,126 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270823-arizona-diamondbacks-washington-nationals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J127 | 🏟️ | Washington Nationals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270823-arizona-diamondbacks-washington-nationals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Arizona Diamondbacks - Washington Nationals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270824-arizona-diamondbacks-washington-nationals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J128 | 🏟️ | Washington Nationals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270824-arizona-diamondbacks-washington-nationals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Arizona Diamondbacks - Washington Nationals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-arizona-diamondbacks-washington-nationals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J129 | 🏟️ | Washington Nationals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-arizona-diamondbacks-washington-nationals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Arizona Diamondbacks - Washington Nationals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-arizona-diamondbacks-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J132 | 🏟️ | Philadelphia Phillies
+  🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-arizona-diamondbacks-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Arizona Diamondbacks - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-arizona-diamondbacks-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J133 | 🏟️ | Philadelphia Phillies
+  🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-arizona-diamondbacks-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Arizona Diamondbacks - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-arizona-diamondbacks-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J134 | 🏟️ | Philadelphia Phillies
+  🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-arizona-diamondbacks-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Arizona Diamondbacks - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270901-minnesota-twins-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J98 | ✈️ | Minnesota Twins 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J135 | ✈️ | Minnesota Twins 🇺
  🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-minnesota-twins-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270831T234000Z
 DTEND:20270901T012500Z
 SUMMARY:Minnesota Twins - Arizona Diamondbacks
@@ -719,17 +2405,17 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-minnesota-twins-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J99 | ✈️ | Minnesota Twins 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J136 | ✈️ | Minnesota Twins 🇺
  🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-minnesota-twins-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270901T234000Z
 DTEND:20270902T012500Z
 SUMMARY:Minnesota Twins - Arizona Diamondbacks
@@ -738,17 +2424,17 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-minnesota-twins-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J99 | ✈️ | Minnesota Twins 🇺
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J136 | ✈️ | Minnesota Twins 🇺
  🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270902-minnesota-twins-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270902T174000Z
 DTEND:20270902T192500Z
 SUMMARY:Minnesota Twins - Arizona Diamondbacks
@@ -757,17 +2443,17 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-los-angeles-angels-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J101 | ✈️ | Los Angeles Angels 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J139 | ✈️ | Los Angeles Angels 
  🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-los-angeles-angels-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270903T223800Z
 DTEND:20270904T002300Z
 SUMMARY:Los Angeles Angels - Arizona Diamondbacks
@@ -776,17 +2462,17 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-los-angeles-angels-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J102 | ✈️ | Los Angeles Angels 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J140 | ✈️ | Los Angeles Angels 
  🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-los-angeles-angels-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270904T223800Z
 DTEND:20270905T002300Z
 SUMMARY:Los Angeles Angels - Arizona Diamondbacks
@@ -795,21 +2481,363 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-los-angeles-angels-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:ARIZONA DIAMONDBACKS | MLB | J102 | ✈️ | Los Angeles Angels 
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J140 | ✈️ | Los Angeles Angels 
  🇺🇸
 DESCRIPTION:Inici: 22:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-los-angeles-angels-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270905T200700Z
 DTEND:20270905T215200Z
 SUMMARY:Los Angeles Angels - Arizona Diamondbacks
 DESCRIPTION:MLB
 LOCATION:Angel Stadium\, Anaheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270906-arizona-diamondbacks-pittsburgh-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J140 | 🏟️ | Pittsburgh Pirates 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270906-arizona-diamondbacks-pittsburgh-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Arizona Diamondbacks - Pittsburgh Pirates · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270907-arizona-diamondbacks-pittsburgh-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J141 | 🏟️ | Pittsburgh Pirates 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270907-arizona-diamondbacks-pittsburgh-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Arizona Diamondbacks - Pittsburgh Pirates · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270908-arizona-diamondbacks-pittsburgh-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J142 | 🏟️ | Pittsburgh Pirates 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270908-arizona-diamondbacks-pittsburgh-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Arizona Diamondbacks - Pittsburgh Pirates · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-arizona-diamondbacks-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J144 | 🏟️ | Kansas City Royals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-arizona-diamondbacks-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Arizona Diamondbacks - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-arizona-diamondbacks-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J145 | 🏟️ | Kansas City Royals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-arizona-diamondbacks-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Arizona Diamondbacks - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-arizona-diamondbacks-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J146 | 🏟️ | Kansas City Royals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-arizona-diamondbacks-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Arizona Diamondbacks - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270913-san-francisco-giants-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J146 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270913-san-francisco-giants-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-san-francisco-giants-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J147 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-san-francisco-giants-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-san-francisco-giants-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J148 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-san-francisco-giants-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-los-angeles-dodgers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J149 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-los-angeles-dodgers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Los Angeles Dodgers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-los-angeles-dodgers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J150 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-los-angeles-dodgers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Los Angeles Dodgers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-los-angeles-dodgers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J151 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-los-angeles-dodgers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Los Angeles Dodgers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-los-angeles-dodgers-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J152 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-los-angeles-dodgers-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Los Angeles Dodgers - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J152 | 🏟️ | San Diego Padres 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J153 | 🏟️ | San Diego Padres 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-arizona-diamondbacks-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J154 | 🏟️ | San Diego Padres 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-arizona-diamondbacks-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Arizona Diamondbacks - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-arizona-diamondbacks-los-angeles-dodgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J155 | 🏟️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-arizona-diamondbacks-los-angeles-dodgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Arizona Diamondbacks - Los Angeles Dodgers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-arizona-diamondbacks-los-angeles-dodgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J157 | 🏟️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-arizona-diamondbacks-los-angeles-dodgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Arizona Diamondbacks - Los Angeles Dodgers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-arizona-diamondbacks-los-angeles-dodgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:ARIZONA DIAMONDBACKS | MLB | J158 | 🏟️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-arizona-diamondbacks-los-angeles-dodgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Arizona Diamondbacks - Los Angeles Dodgers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
 END:VEVENT
 END:VCALENDAR

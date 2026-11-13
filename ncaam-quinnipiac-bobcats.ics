@@ -1,0 +1,512 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Quinnipiac Bobcats · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261115-central-connecticut-blue-devils-quinnipiac-bobcats-dia@s
+ portcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J1 | ✈️ | Central Connecticut Blue 
+ Devils 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: Detric
+ k Gymnasium\, New Britain\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261115-central-connecticut-blue-devils-quinnipiac-bobcats@sport
+ cal
+DTSTAMP:20261113T094351Z
+DTSTART:20261115T180000Z
+DTEND:20261115T194500Z
+SUMMARY:Central Connecticut Blue Devils - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Detrick Gymnasium\, New Britain\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261120-quinnipiac-bobcats-maine-black-bears-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J2 | 🏟️ | Maine Black Bears 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261120-quinnipiac-bobcats-maine-black-bears@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261120T000000Z
+DTEND:20261120T014500Z
+SUMMARY:Quinnipiac Bobcats - Maine Black Bears
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-quinnipiac-bobcats-emerson-lions-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J4 | 🏟️ | Emerson Lions 🇺🇸
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-quinnipiac-bobcats-emerson-lions@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T223000Z
+DTEND:20261125T001500Z
+SUMMARY:Quinnipiac Bobcats - Emerson Lions
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261129-yale-bulldogs-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J5 | ✈️ | Yale Bulldogs 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: John J
+ . Lee Amphitheater\, New Haven\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261129-yale-bulldogs-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261129T190000Z
+DTEND:20261129T204500Z
+SUMMARY:Yale Bulldogs - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:John J. Lee Amphitheater\, New Haven\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-iona-gaels-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J111 | ✈️ | Iona Gaels 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hynes 
+ Athletics Center\, New Rochelle\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-iona-gaels-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T000000Z
+DTEND:20261205T014500Z
+SUMMARY:Iona Gaels - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Hynes Athletics Center\, New Rochelle\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-quinnipiac-bobcats-siena-saints-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J6 | 🏟️ | Siena Saints 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-quinnipiac-bobcats-siena-saints@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261206T190000Z
+DTEND:20261206T204500Z
+SUMMARY:Quinnipiac Bobcats - Siena Saints
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-quinnipiac-bobcats-hofstra-pride-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J9 | 🏟️ | Hofstra Pride 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-quinnipiac-bobcats-hofstra-pride@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Quinnipiac Bobcats - Hofstra Pride
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-ucla-bruins-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J8 | ✈️ | UCLA Bruins 🇺🇸
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Pauley
+  Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-ucla-bruins-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T213000Z
+DTEND:20261219T231500Z
+SUMMARY:UCLA Bruins - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Pauley Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-pepperdine-waves-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J117 | ✈️ | Pepperdine Waves 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
+ one Fieldhouse\, Malibu\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-pepperdine-waves-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261222T000000Z
+DTEND:20261222T014500Z
+SUMMARY:Pepperdine Waves - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Firestone Fieldhouse\, Malibu\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-rider-broncs-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J10 | ✈️ | Rider Broncs 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Canast
+ ra Hammer Arena\, Lawrenceville\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-rider-broncs-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261230T000000Z
+DTEND:20261230T014500Z
+SUMMARY:Rider Broncs - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Canastra Hammer Arena\, Lawrenceville\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270101-quinnipiac-bobcats-saint-peter-s-peacocks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J12 | 🏟️ | Saint Peter's Peacocks 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270101-quinnipiac-bobcats-saint-peter-s-peacocks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270101T190000Z
+DTEND:20270101T204500Z
+SUMMARY:Quinnipiac Bobcats - Saint Peter's Peacocks
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-merrimack-warriors-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J12 | ✈️ | Merrimack Warriors 🇺
+ 🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: Lawler
+  Arena\, North Andover\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-merrimack-warriors-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270103T180000Z
+DTEND:20270103T194500Z
+SUMMARY:Merrimack Warriors - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Lawler Arena\, North Andover\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-manhattan-jaspers-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J13 | ✈️ | Manhattan Jaspers 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Draddy
+  Gymnasium\, Riverdale\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-manhattan-jaspers-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T000000Z
+DTEND:20270109T014500Z
+SUMMARY:Manhattan Jaspers - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Draddy Gymnasium\, Riverdale\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-quinnipiac-bobcats-marist-red-foxes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J14 | 🏟️ | Marist Red Foxes 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-quinnipiac-bobcats-marist-red-foxes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270110T190000Z
+DTEND:20270110T204500Z
+SUMMARY:Quinnipiac Bobcats - Marist Red Foxes
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-quinnipiac-bobcats-niagara-purple-eagles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J15 | 🏟️ | Niagara Purple Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-quinnipiac-bobcats-niagara-purple-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Quinnipiac Bobcats - Niagara Purple Eagles
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270118-sacred-heart-pioneers-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J17 | ✈️ | Sacred Heart Pioneers 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
+ m H. Pitt Center\, Fairfield\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270118-sacred-heart-pioneers-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270118T190000Z
+DTEND:20270118T204500Z
+SUMMARY:Sacred Heart Pioneers - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:William H. Pitt Center\, Fairfield\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-quinnipiac-bobcats-iona-gaels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J16 | 🏟️ | Iona Gaels 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-quinnipiac-bobcats-iona-gaels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T000000Z
+DTEND:20270123T014500Z
+SUMMARY:Quinnipiac Bobcats - Iona Gaels
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-quinnipiac-bobcats-fairfield-stags-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J18 | 🏟️ | Fairfield Stags 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-quinnipiac-bobcats-fairfield-stags@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270124T190000Z
+DTEND:20270124T204500Z
+SUMMARY:Quinnipiac Bobcats - Fairfield Stags
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-siena-saints-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J20 | ✈️ | Siena Saints 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: MVP Ar
+ ena\, Albany\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-siena-saints-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:Siena Saints - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:MVP Arena\, Albany\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-quinnipiac-bobcats-rider-broncs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J20 | 🏟️ | Rider Broncs 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-quinnipiac-bobcats-rider-broncs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270131T190000Z
+DTEND:20270131T204500Z
+SUMMARY:Quinnipiac Bobcats - Rider Broncs
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-canisius-golden-griffins-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J21 | ✈️ | Canisius Golden Griffins
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Koessl
+ er Athletic Center\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-canisius-golden-griffins-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Canisius Golden Griffins - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Koessler Athletic Center\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-niagara-purple-eagles-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J22 | ✈️ | Niagara Purple Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Gallag
+ her Center\, Niagara Falls\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-niagara-purple-eagles-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270207T190000Z
+DTEND:20270207T204500Z
+SUMMARY:Niagara Purple Eagles - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Gallagher Center\, Niagara Falls\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-quinnipiac-bobcats-manhattan-jaspers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J24 | 🏟️ | Manhattan Jaspers 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-quinnipiac-bobcats-manhattan-jaspers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270212T000000Z
+DTEND:20270212T014500Z
+SUMMARY:Quinnipiac Bobcats - Manhattan Jaspers
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-fairfield-stags-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J24 | ✈️ | Fairfield Stags 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Leo D.
+  Mahoney Arena\, Fairfield\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-fairfield-stags-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:Fairfield Stags - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-quinnipiac-bobcats-mount-st-mary-s-mountaineers-dia@spor
+ tcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J25 | 🏟️ | Mount St. Mary's Mounta
+ ineers 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-quinnipiac-bobcats-mount-st-mary-s-mountaineers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270221T190000Z
+DTEND:20270221T204500Z
+SUMMARY:Quinnipiac Bobcats - Mount St. Mary's Mountaineers
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-saint-peter-s-peacocks-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J27 | ✈️ | Saint Peter's Peacocks 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Yanite
+ lli Center\, Jersey City\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-saint-peter-s-peacocks-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Saint Peter's Peacocks - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I
+LOCATION:Yanitelli Center\, Jersey City\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-quinnipiac-bobcats-merrimack-warriors-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:QUINNIPIAC BOBCATS | NCAA | J29 | 🏟️ | Merrimack Warriors 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Arena\, Hamden\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-quinnipiac-bobcats-merrimack-warriors@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270228T190000Z
+DTEND:20270228T204500Z
+SUMMARY:Quinnipiac Bobcats - Merrimack Warriors
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Arena\, Hamden\, CT
+END:VEVENT
+END:VCALENDAR

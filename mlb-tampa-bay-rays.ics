@@ -5,8 +5,42 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Tampa Bay Rays · MLB
 BEGIN:VEVENT
+UID:mlb-20270330-tampa-bay-rays-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:TAMPA BAY RAYS | MLB | J1 | 🏟️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270330-tampa-bay-rays-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Tampa Bay Rays - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-tampa-bay-rays-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:TAMPA BAY RAYS | MLB | J2 | 🏟️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-tampa-bay-rays-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Tampa Bay Rays - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270402-minnesota-twins-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:TAMPA BAY RAYS | MLB | J3 | ✈️ | Minnesota Twins 🇺🇸
@@ -15,7 +49,7 @@ DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270402-minnesota-twins-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270402T201000Z
 DTEND:20270402T215500Z
 SUMMARY:Minnesota Twins - Tampa Bay Rays
@@ -24,7 +58,7 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-minnesota-twins-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:TAMPA BAY RAYS | MLB | J4 | ✈️ | Minnesota Twins 🇺🇸
@@ -33,7 +67,7 @@ DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-minnesota-twins-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270403T231000Z
 DTEND:20270404T005500Z
 SUMMARY:Minnesota Twins - Tampa Bay Rays
@@ -42,7 +76,7 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-minnesota-twins-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:TAMPA BAY RAYS | MLB | J4 | ✈️ | Minnesota Twins 🇺🇸
@@ -51,7 +85,7 @@ DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-minnesota-twins-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270404T181000Z
 DTEND:20270404T195500Z
 SUMMARY:Minnesota Twins - Tampa Bay Rays
@@ -60,7 +94,7 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270405-minnesota-twins-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:TAMPA BAY RAYS | MLB | J6 | ✈️ | Minnesota Twins 🇺🇸
@@ -69,7 +103,7 @@ DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270405-minnesota-twins-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270405T174000Z
 DTEND:20270405T192500Z
 SUMMARY:Minnesota Twins - Tampa Bay Rays
@@ -78,7 +112,7 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-texas-rangers-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:TAMPA BAY RAYS | MLB | J7 | ✈️ | Texas Rangers 🇺🇸
@@ -87,7 +121,7 @@ DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-texas-rangers-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270407T001000Z
 DTEND:20270407T015500Z
 SUMMARY:Texas Rangers - Tampa Bay Rays
@@ -96,7 +130,7 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-texas-rangers-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:TAMPA BAY RAYS | MLB | J8 | ✈️ | Texas Rangers 🇺🇸
@@ -105,7 +139,7 @@ DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-texas-rangers-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270408T001000Z
 DTEND:20270408T015500Z
 SUMMARY:Texas Rangers - Tampa Bay Rays
@@ -114,7 +148,7 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-texas-rangers-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:TAMPA BAY RAYS | MLB | J8 | ✈️ | Texas Rangers 🇺🇸
@@ -123,7 +157,7 @@ DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-texas-rangers-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270408T184000Z
 DTEND:20270408T202500Z
 SUMMARY:Texas Rangers - Tampa Bay Rays
@@ -131,17 +165,136 @@ DESCRIPTION:MLB
 LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270409-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:TAMPA BAY RAYS | MLB | J9 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270409-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:TAMPA BAY RAYS | MLB | J10 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:TAMPA BAY RAYS | MLB | J11 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270412-tampa-bay-rays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:TAMPA BAY RAYS | MLB | J12 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270412-tampa-bay-rays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Tampa Bay Rays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270413-tampa-bay-rays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:TAMPA BAY RAYS | MLB | J13 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270413-tampa-bay-rays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Tampa Bay Rays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-tampa-bay-rays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:TAMPA BAY RAYS | MLB | J14 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-tampa-bay-rays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Tampa Bay Rays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-tampa-bay-rays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:TAMPA BAY RAYS | MLB | J15 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-tampa-bay-rays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Tampa Bay Rays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270417-kansas-city-royals-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
-SUMMARY:TAMPA BAY RAYS | MLB | J11 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J17 | ✈️ | Kansas City Royals 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-kansas-city-royals-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270416T234000Z
 DTEND:20270417T012500Z
 SUMMARY:Kansas City Royals - Tampa Bay Rays
@@ -150,16 +303,16 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-kansas-city-royals-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
-SUMMARY:TAMPA BAY RAYS | MLB | J11 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J17 | ✈️ | Kansas City Royals 🇺🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-kansas-city-royals-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270417T181000Z
 DTEND:20270417T195500Z
 SUMMARY:Kansas City Royals - Tampa Bay Rays
@@ -168,16 +321,16 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-kansas-city-royals-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-SUMMARY:TAMPA BAY RAYS | MLB | J12 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J18 | ✈️ | Kansas City Royals 🇺🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-kansas-city-royals-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270418T181000Z
 DTEND:20270418T195500Z
 SUMMARY:Kansas City Royals - Tampa Bay Rays
@@ -185,17 +338,221 @@ DESCRIPTION:MLB
 LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270420-boston-red-sox-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:TAMPA BAY RAYS | MLB | J20 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270420-boston-red-sox-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Boston Red Sox - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-boston-red-sox-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:TAMPA BAY RAYS | MLB | J21 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-boston-red-sox-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Boston Red Sox - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270422-boston-red-sox-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:TAMPA BAY RAYS | MLB | J22 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270422-boston-red-sox-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Boston Red Sox - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270423-tampa-bay-rays-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:TAMPA BAY RAYS | MLB | J21 | 🏟️ | Atlanta Braves 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270423-tampa-bay-rays-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Tampa Bay Rays - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270424-tampa-bay-rays-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:TAMPA BAY RAYS | MLB | J22 | 🏟️ | Atlanta Braves 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270424-tampa-bay-rays-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Tampa Bay Rays - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270425-tampa-bay-rays-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:TAMPA BAY RAYS | MLB | J23 | 🏟️ | Atlanta Braves 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270425-tampa-bay-rays-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Tampa Bay Rays - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270427-tampa-bay-rays-pittsburgh-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:TAMPA BAY RAYS | MLB | J25 | 🏟️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270427-tampa-bay-rays-pittsburgh-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Tampa Bay Rays - Pittsburgh Pirates · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270428-tampa-bay-rays-pittsburgh-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:TAMPA BAY RAYS | MLB | J26 | 🏟️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270428-tampa-bay-rays-pittsburgh-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Tampa Bay Rays - Pittsburgh Pirates · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270429-tampa-bay-rays-pittsburgh-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:TAMPA BAY RAYS | MLB | J27 | 🏟️ | Pittsburgh Pirates 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270429-tampa-bay-rays-pittsburgh-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Tampa Bay Rays - Pittsburgh Pirates · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270430-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:TAMPA BAY RAYS | MLB | J28 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270430-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:TAMPA BAY RAYS | MLB | J29 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:TAMPA BAY RAYS | MLB | J30 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270504-new-york-yankees-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-SUMMARY:TAMPA BAY RAYS | MLB | J23 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J33 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270504-new-york-yankees-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270503T230500Z
 DTEND:20270504T005000Z
 SUMMARY:New York Yankees - Tampa Bay Rays
@@ -204,16 +561,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-new-york-yankees-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-SUMMARY:TAMPA BAY RAYS | MLB | J24 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J34 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-new-york-yankees-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270504T230500Z
 DTEND:20270505T005000Z
 SUMMARY:New York Yankees - Tampa Bay Rays
@@ -222,16 +579,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-new-york-yankees-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-SUMMARY:TAMPA BAY RAYS | MLB | J25 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J34 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-new-york-yankees-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270505T230500Z
 DTEND:20270506T005000Z
 SUMMARY:New York Yankees - Tampa Bay Rays
@@ -240,16 +597,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-new-york-yankees-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-SUMMARY:TAMPA BAY RAYS | MLB | J25 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J34 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-new-york-yankees-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270506T163500Z
 DTEND:20270506T182000Z
 SUMMARY:New York Yankees - Tampa Bay Rays
@@ -258,16 +615,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-new-york-mets-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:TAMPA BAY RAYS | MLB | J24 | ✈️ | New York Mets 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J36 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-new-york-mets-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270507T231000Z
 DTEND:20270508T005500Z
 SUMMARY:New York Mets - Tampa Bay Rays
@@ -276,16 +633,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-new-york-mets-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:TAMPA BAY RAYS | MLB | J24 | ✈️ | New York Mets 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J36 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-new-york-mets-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270508T201000Z
 DTEND:20270508T215500Z
 SUMMARY:New York Mets - Tampa Bay Rays
@@ -294,16 +651,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-new-york-mets-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:TAMPA BAY RAYS | MLB | J28 | ✈️ | New York Mets 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J37 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-new-york-mets-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270509T174000Z
 DTEND:20270509T192500Z
 SUMMARY:New York Mets - Tampa Bay Rays
@@ -311,17 +668,428 @@ DESCRIPTION:MLB
 LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270511-tampa-bay-rays-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:TAMPA BAY RAYS | MLB | J37 | 🏟️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270511-tampa-bay-rays-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Tampa Bay Rays - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270512-tampa-bay-rays-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:TAMPA BAY RAYS | MLB | J38 | 🏟️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270512-tampa-bay-rays-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Tampa Bay Rays - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270513-tampa-bay-rays-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:TAMPA BAY RAYS | MLB | J39 | 🏟️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270513-tampa-bay-rays-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Tampa Bay Rays - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270514-tampa-bay-rays-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:TAMPA BAY RAYS | MLB | J41 | 🏟️ | St. Louis Cardinals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270514-tampa-bay-rays-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Tampa Bay Rays - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270515-tampa-bay-rays-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:TAMPA BAY RAYS | MLB | J42 | 🏟️ | St. Louis Cardinals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270515-tampa-bay-rays-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Tampa Bay Rays - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-tampa-bay-rays-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:TAMPA BAY RAYS | MLB | J43 | 🏟️ | St. Louis Cardinals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-tampa-bay-rays-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Tampa Bay Rays - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270517-houston-astros-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:TAMPA BAY RAYS | MLB | J43 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270517-houston-astros-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Houston Astros - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270518-houston-astros-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:TAMPA BAY RAYS | MLB | J44 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270518-houston-astros-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Houston Astros - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270519-houston-astros-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:TAMPA BAY RAYS | MLB | J45 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270519-houston-astros-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Houston Astros - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270521-seattle-mariners-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:TAMPA BAY RAYS | MLB | J47 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270521-seattle-mariners-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Seattle Mariners - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-seattle-mariners-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:TAMPA BAY RAYS | MLB | J48 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-seattle-mariners-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Seattle Mariners - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-seattle-mariners-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:TAMPA BAY RAYS | MLB | J49 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-seattle-mariners-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Seattle Mariners - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-tampa-bay-rays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:TAMPA BAY RAYS | MLB | J51 | 🏟️ | Philadelphia Phillies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-tampa-bay-rays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Tampa Bay Rays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-tampa-bay-rays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:TAMPA BAY RAYS | MLB | J52 | 🏟️ | Philadelphia Phillies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-tampa-bay-rays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Tampa Bay Rays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-tampa-bay-rays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:TAMPA BAY RAYS | MLB | J53 | 🏟️ | Philadelphia Phillies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-tampa-bay-rays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Tampa Bay Rays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270528-tampa-bay-rays-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:TAMPA BAY RAYS | MLB | J52 | 🏟️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270528-tampa-bay-rays-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Tampa Bay Rays - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-tampa-bay-rays-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:TAMPA BAY RAYS | MLB | J53 | 🏟️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-tampa-bay-rays-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Tampa Bay Rays - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270530-tampa-bay-rays-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:TAMPA BAY RAYS | MLB | J54 | 🏟️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270530-tampa-bay-rays-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Tampa Bay Rays - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270531-chicago-white-sox-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:TAMPA BAY RAYS | MLB | J56 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270531-chicago-white-sox-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Chicago White Sox - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-chicago-white-sox-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:TAMPA BAY RAYS | MLB | J57 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-chicago-white-sox-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Chicago White Sox - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-chicago-white-sox-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:TAMPA BAY RAYS | MLB | J58 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-chicago-white-sox-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Chicago White Sox - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270604-tampa-bay-rays-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:TAMPA BAY RAYS | MLB | J60 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270604-tampa-bay-rays-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Tampa Bay Rays - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-tampa-bay-rays-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:TAMPA BAY RAYS | MLB | J61 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-tampa-bay-rays-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Tampa Bay Rays - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270606-tampa-bay-rays-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:TAMPA BAY RAYS | MLB | J62 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270606-tampa-bay-rays-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Tampa Bay Rays - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270609-washington-nationals-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
-SUMMARY:TAMPA BAY RAYS | MLB | J51 | ✈️ | Washington Nationals 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J65 | ✈️ | Washington Nationals 🇺🇸
 DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-washington-nationals-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270608T224500Z
 DTEND:20270609T003000Z
 SUMMARY:Washington Nationals - Tampa Bay Rays
@@ -330,16 +1098,16 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270610-washington-nationals-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
-SUMMARY:TAMPA BAY RAYS | MLB | J50 | ✈️ | Washington Nationals 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J65 | ✈️ | Washington Nationals 🇺🇸
 DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270610-washington-nationals-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270609T224500Z
 DTEND:20270610T003000Z
 SUMMARY:Washington Nationals - Tampa Bay Rays
@@ -348,16 +1116,16 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270611-washington-nationals-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
-SUMMARY:TAMPA BAY RAYS | MLB | J50 | ✈️ | Washington Nationals 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J66 | ✈️ | Washington Nationals 🇺🇸
 DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270611-washington-nationals-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270610T224500Z
 DTEND:20270611T003000Z
 SUMMARY:Washington Nationals - Tampa Bay Rays
@@ -366,16 +1134,16 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-baltimore-orioles-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-SUMMARY:TAMPA BAY RAYS | MLB | J51 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J67 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-baltimore-orioles-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270611T230500Z
 DTEND:20270612T005000Z
 SUMMARY:Baltimore Orioles - Tampa Bay Rays
@@ -384,16 +1152,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-baltimore-orioles-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-SUMMARY:TAMPA BAY RAYS | MLB | J51 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J67 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-baltimore-orioles-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270612T200500Z
 DTEND:20270612T215000Z
 SUMMARY:Baltimore Orioles - Tampa Bay Rays
@@ -402,16 +1170,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-baltimore-orioles-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
-SUMMARY:TAMPA BAY RAYS | MLB | J53 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J68 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-baltimore-orioles-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270613T173500Z
 DTEND:20270613T192000Z
 SUMMARY:Baltimore Orioles - Tampa Bay Rays
@@ -419,17 +1187,34 @@ DESCRIPTION:MLB
 LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
-UID:mlb-20270615-baltimore-orioles-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+UID:mlb-20270615-tampa-bay-rays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
-SUMMARY:TAMPA BAY RAYS | MLB | J54 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J69 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-tampa-bay-rays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Tampa Bay Rays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-baltimore-orioles-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:TAMPA BAY RAYS | MLB | J69 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270615-baltimore-orioles-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270614T223500Z
 DTEND:20270615T002000Z
 SUMMARY:Baltimore Orioles - Tampa Bay Rays
@@ -437,17 +1222,153 @@ DESCRIPTION:MLB
 LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270616-tampa-bay-rays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:TAMPA BAY RAYS | MLB | J71 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270616-tampa-bay-rays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Tampa Bay Rays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270617-tampa-bay-rays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:TAMPA BAY RAYS | MLB | J72 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270617-tampa-bay-rays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Tampa Bay Rays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270618-tampa-bay-rays-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:TAMPA BAY RAYS | MLB | J72 | 🏟️ | Milwaukee Brewers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270618-tampa-bay-rays-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Tampa Bay Rays - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-tampa-bay-rays-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:TAMPA BAY RAYS | MLB | J73 | 🏟️ | Milwaukee Brewers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-tampa-bay-rays-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Tampa Bay Rays - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270620-tampa-bay-rays-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:TAMPA BAY RAYS | MLB | J74 | 🏟️ | Milwaukee Brewers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270620-tampa-bay-rays-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Tampa Bay Rays - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270622-tampa-bay-rays-los-angeles-dodgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:TAMPA BAY RAYS | MLB | J76 | 🏟️ | Los Angeles Dodgers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270622-tampa-bay-rays-los-angeles-dodgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Tampa Bay Rays - Los Angeles Dodgers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270623-tampa-bay-rays-los-angeles-dodgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:TAMPA BAY RAYS | MLB | J77 | 🏟️ | Los Angeles Dodgers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270623-tampa-bay-rays-los-angeles-dodgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Tampa Bay Rays - Los Angeles Dodgers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270624-tampa-bay-rays-los-angeles-dodgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:TAMPA BAY RAYS | MLB | J78 | 🏟️ | Los Angeles Dodgers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270624-tampa-bay-rays-los-angeles-dodgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Tampa Bay Rays - Los Angeles Dodgers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270626-los-angeles-angels-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
-SUMMARY:TAMPA BAY RAYS | MLB | J55 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J79 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270626-los-angeles-angels-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270625T223800Z
 DTEND:20270626T002300Z
 SUMMARY:Los Angeles Angels - Tampa Bay Rays
@@ -456,16 +1377,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-los-angeles-angels-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
-SUMMARY:TAMPA BAY RAYS | MLB | J61 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J80 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-los-angeles-angels-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270626T230700Z
 DTEND:20270627T005200Z
 SUMMARY:Los Angeles Angels - Tampa Bay Rays
@@ -474,16 +1395,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-los-angeles-angels-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
-SUMMARY:TAMPA BAY RAYS | MLB | J61 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J80 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 22:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-los-angeles-angels-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270627T200700Z
 DTEND:20270627T215200Z
 SUMMARY:Los Angeles Angels - Tampa Bay Rays
@@ -491,17 +1412,68 @@ DESCRIPTION:MLB
 LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270628-san-francisco-giants-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:TAMPA BAY RAYS | MLB | J82 | ✈️ | San Francisco Giants 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270628-san-francisco-giants-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:San Francisco Giants - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-san-francisco-giants-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:TAMPA BAY RAYS | MLB | J83 | ✈️ | San Francisco Giants 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-san-francisco-giants-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:San Francisco Giants - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-san-francisco-giants-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:TAMPA BAY RAYS | MLB | J84 | ✈️ | San Francisco Giants 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-san-francisco-giants-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:San Francisco Giants - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270703-san-diego-padres-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
-SUMMARY:TAMPA BAY RAYS | MLB | J60 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J85 | ✈️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-san-diego-padres-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270703T014000Z
 DTEND:20270703T032500Z
 SUMMARY:San Diego Padres - Tampa Bay Rays
@@ -510,16 +1482,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-san-diego-padres-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:TAMPA BAY RAYS | MLB | J66 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J86 | ✈️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-san-diego-padres-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T004000Z
 DTEND:20270704T022500Z
 SUMMARY:San Diego Padres - Tampa Bay Rays
@@ -528,16 +1500,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-san-diego-padres-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:TAMPA BAY RAYS | MLB | J66 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J86 | ✈️ | San Diego Padres 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-san-diego-padres-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T201000Z
 DTEND:20270704T215500Z
 SUMMARY:San Diego Padres - Tampa Bay Rays
@@ -545,17 +1517,170 @@ DESCRIPTION:MLB
 LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270706-tampa-bay-rays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:TAMPA BAY RAYS | MLB | J88 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270706-tampa-bay-rays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Tampa Bay Rays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-tampa-bay-rays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:TAMPA BAY RAYS | MLB | J89 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-tampa-bay-rays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Tampa Bay Rays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-tampa-bay-rays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:TAMPA BAY RAYS | MLB | J90 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-tampa-bay-rays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Tampa Bay Rays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270709-tampa-bay-rays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:TAMPA BAY RAYS | MLB | J91 | 🏟️ | Baltimore Orioles 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270709-tampa-bay-rays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Tampa Bay Rays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270710-tampa-bay-rays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:TAMPA BAY RAYS | MLB | J92 | 🏟️ | Baltimore Orioles 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270710-tampa-bay-rays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Tampa Bay Rays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270711-tampa-bay-rays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:TAMPA BAY RAYS | MLB | J93 | 🏟️ | Baltimore Orioles 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270711-tampa-bay-rays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Tampa Bay Rays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270716-miami-marlins-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:TAMPA BAY RAYS | MLB | J93 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270716-miami-marlins-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Miami Marlins - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-miami-marlins-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:TAMPA BAY RAYS | MLB | J94 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-miami-marlins-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Miami Marlins - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-miami-marlins-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:TAMPA BAY RAYS | MLB | J95 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-miami-marlins-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Miami Marlins - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270720-cincinnati-reds-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
-SUMMARY:TAMPA BAY RAYS | MLB | J73 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J98 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 00:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270720-cincinnati-reds-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270719T221000Z
 DTEND:20270719T235500Z
 SUMMARY:Cincinnati Reds - Tampa Bay Rays
@@ -564,16 +1689,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-cincinnati-reds-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-SUMMARY:TAMPA BAY RAYS | MLB | J74 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J99 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-cincinnati-reds-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270720T231000Z
 DTEND:20270721T005500Z
 SUMMARY:Cincinnati Reds - Tampa Bay Rays
@@ -582,16 +1707,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-cincinnati-reds-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-SUMMARY:TAMPA BAY RAYS | MLB | J74 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J99 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 18:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-cincinnati-reds-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270721T164000Z
 DTEND:20270721T182500Z
 SUMMARY:Cincinnati Reds - Tampa Bay Rays
@@ -599,17 +1724,666 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270723-tampa-bay-rays-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:TAMPA BAY RAYS | MLB | J100 | 🏟️ | Kansas City Royals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-tampa-bay-rays-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Tampa Bay Rays - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-tampa-bay-rays-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:TAMPA BAY RAYS | MLB | J101 | 🏟️ | Kansas City Royals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-tampa-bay-rays-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Tampa Bay Rays - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-tampa-bay-rays-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:TAMPA BAY RAYS | MLB | J102 | 🏟️ | Kansas City Royals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-tampa-bay-rays-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Tampa Bay Rays - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270726-tampa-bay-rays-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:TAMPA BAY RAYS | MLB | J103 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270726-tampa-bay-rays-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Tampa Bay Rays - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270727-tampa-bay-rays-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:TAMPA BAY RAYS | MLB | J104 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270727-tampa-bay-rays-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Tampa Bay Rays - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270728-tampa-bay-rays-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:TAMPA BAY RAYS | MLB | J105 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270728-tampa-bay-rays-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Tampa Bay Rays - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270729-tampa-bay-rays-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:TAMPA BAY RAYS | MLB | J106 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270729-tampa-bay-rays-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Tampa Bay Rays - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270730-athletics-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:TAMPA BAY RAYS | MLB | J107 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270730-athletics-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Athletics - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270731-athletics-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:TAMPA BAY RAYS | MLB | J108 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270731-athletics-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Athletics - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270801-athletics-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:TAMPA BAY RAYS | MLB | J109 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270801-athletics-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Athletics - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270802-arizona-diamondbacks-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:TAMPA BAY RAYS | MLB | J110 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270802-arizona-diamondbacks-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Arizona Diamondbacks - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270803-arizona-diamondbacks-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:TAMPA BAY RAYS | MLB | J110 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270803-arizona-diamondbacks-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Arizona Diamondbacks - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270804-arizona-diamondbacks-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:TAMPA BAY RAYS | MLB | J111 | ✈️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270804-arizona-diamondbacks-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Arizona Diamondbacks - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270806-tampa-bay-rays-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:TAMPA BAY RAYS | MLB | J113 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270806-tampa-bay-rays-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Tampa Bay Rays - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270807-tampa-bay-rays-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:TAMPA BAY RAYS | MLB | J114 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270807-tampa-bay-rays-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Tampa Bay Rays - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-tampa-bay-rays-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:TAMPA BAY RAYS | MLB | J115 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-tampa-bay-rays-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Tampa Bay Rays - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270809-tampa-bay-rays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:TAMPA BAY RAYS | MLB | J116 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270809-tampa-bay-rays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Tampa Bay Rays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270810-tampa-bay-rays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:TAMPA BAY RAYS | MLB | J116 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270810-tampa-bay-rays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Tampa Bay Rays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270811-tampa-bay-rays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:TAMPA BAY RAYS | MLB | J117 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270811-tampa-bay-rays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Tampa Bay Rays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270813-chicago-cubs-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:TAMPA BAY RAYS | MLB | J119 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270813-chicago-cubs-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Chicago Cubs - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-chicago-cubs-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:TAMPA BAY RAYS | MLB | J120 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-chicago-cubs-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Chicago Cubs - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-chicago-cubs-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:TAMPA BAY RAYS | MLB | J121 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-chicago-cubs-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Chicago Cubs - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-detroit-tigers-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:TAMPA BAY RAYS | MLB | J122 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-detroit-tigers-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Detroit Tigers - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-detroit-tigers-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:TAMPA BAY RAYS | MLB | J123 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-detroit-tigers-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Detroit Tigers - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270819-detroit-tigers-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:TAMPA BAY RAYS | MLB | J125 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270819-detroit-tigers-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Detroit Tigers - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270820-cleveland-guardians-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:TAMPA BAY RAYS | MLB | J125 | ✈️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270820-cleveland-guardians-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Cleveland Guardians - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270821-cleveland-guardians-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:TAMPA BAY RAYS | MLB | J126 | ✈️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270821-cleveland-guardians-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Cleveland Guardians - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270822-cleveland-guardians-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:TAMPA BAY RAYS | MLB | J127 | ✈️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270822-cleveland-guardians-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Cleveland Guardians - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270824-tampa-bay-rays-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:TAMPA BAY RAYS | MLB | J128 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270824-tampa-bay-rays-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Tampa Bay Rays - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-tampa-bay-rays-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:TAMPA BAY RAYS | MLB | J129 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-tampa-bay-rays-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Tampa Bay Rays - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270826-tampa-bay-rays-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:TAMPA BAY RAYS | MLB | J130 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270826-tampa-bay-rays-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Tampa Bay Rays - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-tampa-bay-rays-minnesota-twins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:TAMPA BAY RAYS | MLB | J131 | 🏟️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-tampa-bay-rays-minnesota-twins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Tampa Bay Rays - Minnesota Twins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-tampa-bay-rays-minnesota-twins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:TAMPA BAY RAYS | MLB | J132 | 🏟️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-tampa-bay-rays-minnesota-twins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Tampa Bay Rays - Minnesota Twins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-tampa-bay-rays-minnesota-twins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:TAMPA BAY RAYS | MLB | J133 | 🏟️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-tampa-bay-rays-minnesota-twins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Tampa Bay Rays - Minnesota Twins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270830-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:TAMPA BAY RAYS | MLB | J134 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270830-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270831-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:TAMPA BAY RAYS | MLB | J135 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270831-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270901-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:TAMPA BAY RAYS | MLB | J136 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270901-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270902-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:TAMPA BAY RAYS | MLB | J137 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270902-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270904-new-york-yankees-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-SUMMARY:TAMPA BAY RAYS | MLB | J101 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J138 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-new-york-yankees-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270903T230500Z
 DTEND:20270904T005000Z
 SUMMARY:New York Yankees - Tampa Bay Rays
@@ -618,16 +2392,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-new-york-yankees-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-SUMMARY:TAMPA BAY RAYS | MLB | J101 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J138 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-new-york-yankees-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270904T173500Z
 DTEND:20270904T192000Z
 SUMMARY:New York Yankees - Tampa Bay Rays
@@ -636,16 +2410,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-new-york-yankees-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:TAMPA BAY RAYS | MLB | J102 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J140 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-new-york-yankees-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270905T173500Z
 DTEND:20270905T192000Z
 SUMMARY:New York Yankees - Tampa Bay Rays
@@ -654,16 +2428,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-baltimore-orioles-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
-SUMMARY:TAMPA BAY RAYS | MLB | J103 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J141 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-baltimore-orioles-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270906T173500Z
 DTEND:20270906T192000Z
 SUMMARY:Baltimore Orioles - Tampa Bay Rays
@@ -672,16 +2446,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-baltimore-orioles-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-SUMMARY:TAMPA BAY RAYS | MLB | J104 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J142 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-baltimore-orioles-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270907T223500Z
 DTEND:20270908T002000Z
 SUMMARY:Baltimore Orioles - Tampa Bay Rays
@@ -690,20 +2464,275 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-baltimore-orioles-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
-SUMMARY:TAMPA BAY RAYS | MLB | J107 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TAMPA BAY RAYS | MLB | J143 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-baltimore-orioles-tampa-bay-rays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270908T223500Z
 DTEND:20270909T002000Z
 SUMMARY:Baltimore Orioles - Tampa Bay Rays
 DESCRIPTION:MLB
 LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-tampa-bay-rays-miami-marlins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:TAMPA BAY RAYS | MLB | J144 | 🏟️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-tampa-bay-rays-miami-marlins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Tampa Bay Rays - Miami Marlins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-tampa-bay-rays-miami-marlins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:TAMPA BAY RAYS | MLB | J145 | 🏟️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-tampa-bay-rays-miami-marlins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Tampa Bay Rays - Miami Marlins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-tampa-bay-rays-miami-marlins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:TAMPA BAY RAYS | MLB | J146 | 🏟️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-tampa-bay-rays-miami-marlins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Tampa Bay Rays - Miami Marlins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-tampa-bay-rays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:TAMPA BAY RAYS | MLB | J147 | 🏟️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-tampa-bay-rays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Tampa Bay Rays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-tampa-bay-rays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:TAMPA BAY RAYS | MLB | J148 | 🏟️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-tampa-bay-rays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Tampa Bay Rays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-tampa-bay-rays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:TAMPA BAY RAYS | MLB | J149 | 🏟️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-tampa-bay-rays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Tampa Bay Rays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-tampa-bay-rays-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:TAMPA BAY RAYS | MLB | J150 | 🏟️ | Colorado Rockies 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-tampa-bay-rays-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Tampa Bay Rays - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-tampa-bay-rays-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:TAMPA BAY RAYS | MLB | J151 | 🏟️ | Colorado Rockies 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-tampa-bay-rays-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Tampa Bay Rays - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-tampa-bay-rays-colorado-rockies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:TAMPA BAY RAYS | MLB | J152 | 🏟️ | Colorado Rockies 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-tampa-bay-rays-colorado-rockies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Tampa Bay Rays - Colorado Rockies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-boston-red-sox-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:TAMPA BAY RAYS | MLB | J152 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-boston-red-sox-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Boston Red Sox - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-boston-red-sox-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:TAMPA BAY RAYS | MLB | J153 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-boston-red-sox-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Boston Red Sox - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-boston-red-sox-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:TAMPA BAY RAYS | MLB | J154 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-boston-red-sox-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Boston Red Sox - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:TAMPA BAY RAYS | MLB | J156 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:TAMPA BAY RAYS | MLB | J157 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:TAMPA BAY RAYS | MLB | J158 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
 END:VEVENT
 END:VCALENDAR

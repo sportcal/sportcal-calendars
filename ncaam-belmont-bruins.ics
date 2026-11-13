@@ -1,0 +1,540 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belmont Bruins · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261115-belmont-bruins-furman-paladins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:BELMONT BRUINS | NCAA | J1 | 🏟️ | Furman Paladins 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261115-belmont-bruins-furman-paladins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261115T013000Z
+DTEND:20261115T031500Z
+SUMMARY:Belmont Bruins - Furman Paladins
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-belmont-bruins-union-commonwealth-ky-bulldogs-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:BELMONT BRUINS | NCAA | J2 | 🏟️ | Union Commonwealth (KY) Bull
+ dogs 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-belmont-bruins-union-commonwealth-ky-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T003000Z
+DTEND:20261119T021500Z
+SUMMARY:Belmont Bruins - Union Commonwealth (KY) Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261123-belmont-bruins-yale-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:BELMONT BRUINS | NCAA | J27 | 🏟️ | Yale Bulldogs 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: State 
+ Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261123-belmont-bruins-yale-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261123T210000Z
+DTEND:20261123T224500Z
+SUMMARY:Belmont Bruins - Yale Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:State Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-akron-zips-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:BELMONT BRUINS | NCAA | J4 | ✈️ | Akron Zips 🇺🇸
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · NCAA Division I\nEstadi: State 
+ Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-akron-zips-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T173000Z
+DTEND:20261124T191500Z
+SUMMARY:Akron Zips - Belmont Bruins
+DESCRIPTION:NCAA Division I
+LOCATION:State Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261125-belmont-bruins-st-bonaventure-bonnies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BELMONT BRUINS | NCAA | J5 | 🏟️ | St. Bonaventure Bonnies 🇺
+ 🇸
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · NCAA Division I\nEstadi: State 
+ Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261125-belmont-bruins-st-bonaventure-bonnies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261125T150000Z
+DTEND:20261125T164500Z
+SUMMARY:Belmont Bruins - St. Bonaventure Bonnies
+DESCRIPTION:NCAA Division I
+LOCATION:State Farm Field House\, Kissimmee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261202-western-kentucky-hilltoppers-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:BELMONT BRUINS | NCAA | J6 | ✈️ | Western Kentucky Hilltoppers 
+ 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: E.A. D
+ iddle Arena\, Bowling Green\, KY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261202-western-kentucky-hilltoppers-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261202T003000Z
+DTEND:20261202T021500Z
+SUMMARY:Western Kentucky Hilltoppers - Belmont Bruins
+DESCRIPTION:NCAA Division I
+LOCATION:E.A. Diddle Arena\, Bowling Green\, KY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-belmont-bruins-middle-tennessee-blue-raiders-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:BELMONT BRUINS | NCAA | J6 | 🏟️ | Middle Tennessee Blue Raider
+ s 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-belmont-bruins-middle-tennessee-blue-raiders@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261206T010000Z
+DTEND:20261206T024500Z
+SUMMARY:Belmont Bruins - Middle Tennessee Blue Raiders
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-uab-blazers-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:BELMONT BRUINS | NCAA | J8 | ✈️ | UAB Blazers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Bartow
+  Arena\, Birmingham\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-uab-blazers-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261209T000000Z
+DTEND:20261209T014500Z
+SUMMARY:UAB Blazers - Belmont Bruins
+DESCRIPTION:NCAA Division I
+LOCATION:Bartow Arena\, Birmingham\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261215-belmont-bruins-charleston-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:BELMONT BRUINS | NCAA | J8 | 🏟️ | Charleston Cougars 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261215-belmont-bruins-charleston-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261215T003000Z
+DTEND:20261215T021500Z
+SUMMARY:Belmont Bruins - Charleston Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-bradley-braves-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:BELMONT BRUINS | NCAA | J9 | ✈️ | Bradley Braves 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Carver
+  Arena\, Peoria\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-bradley-braves-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T010000Z
+DTEND:20261219T024500Z
+SUMMARY:Bradley Braves - Belmont Bruins
+DESCRIPTION:NCAA Division I
+LOCATION:Carver Arena\, Peoria\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-illinois-state-redbirds-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:BELMONT BRUINS | NCAA | J11 | ✈️ | Illinois State Redbirds 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: CEFCU 
+ Arena\, Normal\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-illinois-state-redbirds-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261222T020000Z
+DTEND:20261222T034500Z
+SUMMARY:Illinois State Redbirds - Belmont Bruins
+DESCRIPTION:NCAA Division I
+LOCATION:CEFCU Arena\, Normal\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-belmont-bruins-northern-iowa-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:BELMONT BRUINS | NCAA | J12 | 🏟️ | Northern Iowa Panthers 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-belmont-bruins-northern-iowa-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261230T000000Z
+DTEND:20261230T014500Z
+SUMMARY:Belmont Bruins - Northern Iowa Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270101-belmont-bruins-uic-flames-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:BELMONT BRUINS | NCAA | J13 | 🏟️ | UIC Flames 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270101-belmont-bruins-uic-flames@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270101T220000Z
+DTEND:20270101T234500Z
+SUMMARY:Belmont Bruins - UIC Flames
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270106-drake-bulldogs-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:BELMONT BRUINS | NCAA | J12 | ✈️ | Drake Bulldogs 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Knapp 
+ Center\, Des Moines\, IA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270106-drake-bulldogs-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270106T003000Z
+DTEND:20270106T021500Z
+SUMMARY:Drake Bulldogs - Belmont Bruins
+DESCRIPTION:NCAA Division I
+LOCATION:Knapp Center\, Des Moines\, IA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-belmont-bruins-illinois-state-redbirds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:BELMONT BRUINS | NCAA | J13 | 🏟️ | Illinois State Redbirds 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-belmont-bruins-illinois-state-redbirds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T010000Z
+DTEND:20270109T024500Z
+SUMMARY:Belmont Bruins - Illinois State Redbirds
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-evansville-purple-aces-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:BELMONT BRUINS | NCAA | J15 | ✈️ | Evansville Purple Aces 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Ford C
+ enter\, Evansville\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-evansville-purple-aces-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270113T010000Z
+DTEND:20270113T024500Z
+SUMMARY:Evansville Purple Aces - Belmont Bruins
+DESCRIPTION:NCAA Division I
+LOCATION:Ford Center\, Evansville\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-belmont-bruins-southern-illinois-salukis-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:BELMONT BRUINS | NCAA | J14 | 🏟️ | Southern Illinois Salukis 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-belmont-bruins-southern-illinois-salukis@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T220000Z
+DTEND:20270116T234500Z
+SUMMARY:Belmont Bruins - Southern Illinois Salukis
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270119-belmont-bruins-indiana-state-sycamores-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:BELMONT BRUINS | NCAA | J16 | 🏟️ | Indiana State Sycamores 
+ 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270119-belmont-bruins-indiana-state-sycamores@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270119T003000Z
+DTEND:20270119T021500Z
+SUMMARY:Belmont Bruins - Indiana State Sycamores
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-valparaiso-beacons-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:BELMONT BRUINS | NCAA | J18 | ✈️ | Valparaiso Beacons 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-valparaiso-beacons-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Valparaiso Beacons - Belmont Bruins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-uic-flames-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:BELMONT BRUINS | NCAA | J18 | ✈️ | UIC Flames 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-uic-flames-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:UIC Flames - Belmont Bruins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270128-belmont-bruins-drake-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:BELMONT BRUINS | NCAA | J21 | 🏟️ | Drake Bulldogs 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270128-belmont-bruins-drake-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270128T003000Z
+DTEND:20270128T021500Z
+SUMMARY:Belmont Bruins - Drake Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-southern-illinois-salukis-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:BELMONT BRUINS | NCAA | J20 | ✈️ | Southern Illinois Salukis 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-southern-illinois-salukis-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Southern Illinois Salukis - Belmont Bruins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-murray-state-racers-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:BELMONT BRUINS | NCAA | J19 | ✈️ | Murray State Racers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-murray-state-racers-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Murray State Racers - Belmont Bruins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-belmont-bruins-bradley-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:BELMONT BRUINS | NCAA | J23 | 🏟️ | Bradley Braves 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-belmont-bruins-bradley-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270210T003000Z
+DTEND:20270210T021500Z
+SUMMARY:Belmont Bruins - Bradley Braves
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-belmont-bruins-evansville-purple-aces-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:BELMONT BRUINS | NCAA | J22 | 🏟️ | Evansville Purple Aces 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-belmont-bruins-evansville-purple-aces@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T010000Z
+DTEND:20270213T024500Z
+SUMMARY:Belmont Bruins - Evansville Purple Aces
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270215-indiana-state-sycamores-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:BELMONT BRUINS | NCAA | J23 | ✈️ | Indiana State Sycamores 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270215-indiana-state-sycamores-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Indiana State Sycamores - Belmont Bruins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-belmont-bruins-murray-state-racers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:BELMONT BRUINS | NCAA | J25 | 🏟️ | Murray State Racers 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-belmont-bruins-murray-state-racers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T230000Z
+DTEND:20270221T004500Z
+SUMMARY:Belmont Bruins - Murray State Racers
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-belmont-bruins-valparaiso-beacons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:BELMONT BRUINS | NCAA | J28 | 🏟️ | Valparaiso Beacons 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Curb E
+ vent Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-belmont-bruins-valparaiso-beacons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270225T000000Z
+DTEND:20270225T014500Z
+SUMMARY:Belmont Bruins - Valparaiso Beacons
+DESCRIPTION:NCAA Division I
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-northern-iowa-panthers-belmont-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:BELMONT BRUINS | NCAA | J29 | ✈️ | Northern Iowa Panthers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-northern-iowa-panthers-belmont-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Northern Iowa Panthers - Belmont Bruins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,535 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maryland Terrapins · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261114-maryland-terrapins-virginia-cavaliers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:MARYLAND TERRAPINS | NCAA | J1 | 🏟️ | Virginia Cavaliers 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261114-maryland-terrapins-virginia-cavaliers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T010000Z
+DTEND:20261114T024500Z
+SUMMARY:Maryland Terrapins - Virginia Cavaliers
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261117-maryland-terrapins-alcorn-state-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:MARYLAND TERRAPINS | NCAA | J2 | 🏟️ | Alcorn State Braves 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261117-maryland-terrapins-alcorn-state-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261116T230000Z
+DTEND:20261117T004500Z
+SUMMARY:Maryland Terrapins - Alcorn State Braves
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-maryland-terrapins-wagner-seahawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:MARYLAND TERRAPINS | NCAA | J3 | 🏟️ | Wagner Seahawks 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-maryland-terrapins-wagner-seahawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Maryland Terrapins - Wagner Seahawks
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-maryland-terrapins-tennessee-volunteers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:MARYLAND TERRAPINS | NCAA | J4 | 🏟️ | Tennessee Volunteers 
+ 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: Michel
+ ob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-maryland-terrapins-tennessee-volunteers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T200000Z
+DTEND:20261124T214500Z
+SUMMARY:Maryland Terrapins - Tennessee Volunteers
+DESCRIPTION:NCAA Division I
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-maryland-terrapins-american-university-eagles-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:MARYLAND TERRAPINS | NCAA | J4 | 🏟️ | American University Eagl
+ es 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-maryland-terrapins-american-university-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261203T000000Z
+DTEND:20261203T014500Z
+SUMMARY:Maryland Terrapins - American University Eagles
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-ohio-state-buckeyes-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:MARYLAND TERRAPINS | NCAA | J6 | ✈️ | Ohio State Buckeyes 🇺
+ 🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Schott
+ enstein Center\, Columbus\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-ohio-state-buckeyes-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261206T170000Z
+DTEND:20261206T184500Z
+SUMMARY:Ohio State Buckeyes - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Schottenstein Center\, Columbus\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-maryland-terrapins-michigan-state-spartans-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:MARYLAND TERRAPINS | NCAA | J7 | 🏟️ | Michigan State Spartans 
+ 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-maryland-terrapins-michigan-state-spartans@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261210T013000Z
+DTEND:20261210T031500Z
+SUMMARY:Maryland Terrapins - Michigan State Spartans
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-maryland-terrapins-morgan-state-bears-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:MARYLAND TERRAPINS | NCAA | J8 | 🏟️ | Morgan State Bears 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-maryland-terrapins-morgan-state-bears@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261216T010000Z
+DTEND:20261216T024500Z
+SUMMARY:Maryland Terrapins - Morgan State Bears
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-maryland-terrapins-south-carolina-gamecocks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:MARYLAND TERRAPINS | NCAA | J9 | 🏟️ | South Carolina Gamecocks
+  🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: CFG Ba
+ nk Arena\, Baltimore\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-maryland-terrapins-south-carolina-gamecocks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T180000Z
+DTEND:20261219T194500Z
+SUMMARY:Maryland Terrapins - South Carolina Gamecocks
+DESCRIPTION:NCAA Division I
+LOCATION:CFG Bank Arena\, Baltimore\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-maryland-terrapins-radford-highlanders-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:MARYLAND TERRAPINS | NCAA | J10 | 🏟️ | Radford Highlanders 
+ 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-maryland-terrapins-radford-highlanders@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261229T233000Z
+DTEND:20261230T011500Z
+SUMMARY:Maryland Terrapins - Radford Highlanders
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-maryland-terrapins-ucla-bruins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:MARYLAND TERRAPINS | NCAA | J11 | 🏟️ | UCLA Bruins 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-maryland-terrapins-ucla-bruins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270102T230000Z
+DTEND:20270103T004500Z
+SUMMARY:Maryland Terrapins - UCLA Bruins
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270106-maryland-terrapins-usc-trojans-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:MARYLAND TERRAPINS | NCAA | J12 | 🏟️ | USC Trojans 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270106-maryland-terrapins-usc-trojans@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270106T010000Z
+DTEND:20270106T024500Z
+SUMMARY:Maryland Terrapins - USC Trojans
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-iowa-hawkeyes-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:MARYLAND TERRAPINS | NCAA | J14 | ✈️ | Iowa Hawkeyes 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Carver
+ -Hawkeye Arena\, Iowa City\, IA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-iowa-hawkeyes-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T230000Z
+DTEND:20270110T004500Z
+SUMMARY:Iowa Hawkeyes - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-indiana-hoosiers-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:MARYLAND TERRAPINS | NCAA | J14 | ✈️ | Indiana Hoosiers 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Simon 
+ Skjodt Assembly Hall\, Bloomington\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-indiana-hoosiers-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270112T230000Z
+DTEND:20270113T004500Z
+SUMMARY:Indiana Hoosiers - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-maryland-terrapins-illinois-fighting-illini-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:MARYLAND TERRAPINS | NCAA | J15 | 🏟️ | Illinois Fighting Illin
+ i 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-maryland-terrapins-illinois-fighting-illini@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Maryland Terrapins - Illinois Fighting Illini
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270120-maryland-terrapins-rutgers-scarlet-knights-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:MARYLAND TERRAPINS | NCAA | J15 | 🏟️ | Rutgers Scarlet Knights
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270120-maryland-terrapins-rutgers-scarlet-knights@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270120T000000Z
+DTEND:20270120T014500Z
+SUMMARY:Maryland Terrapins - Rutgers Scarlet Knights
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-purdue-boilermakers-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:MARYLAND TERRAPINS | NCAA | J16 | ✈️ | Purdue Boilermakers 🇺
+ 🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Mackey
+  Arena\, West Lafayette\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-purdue-boilermakers-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:Purdue Boilermakers - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Mackey Arena\, West Lafayette\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-maryland-terrapins-wisconsin-badgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:MARYLAND TERRAPINS | NCAA | J18 | 🏟️ | Wisconsin Badgers 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-maryland-terrapins-wisconsin-badgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270127T000000Z
+DTEND:20270127T014500Z
+SUMMARY:Maryland Terrapins - Wisconsin Badgers
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-penn-state-nittany-lions-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:MARYLAND TERRAPINS | NCAA | J20 | ✈️ | Penn State Nittany Lions
+  🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Bryce 
+ Jordan Center\, University Park\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-penn-state-nittany-lions-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:Penn State Nittany Lions - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Bryce Jordan Center\, University Park\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270203-michigan-state-spartans-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:MARYLAND TERRAPINS | NCAA | J20 | ✈️ | Michigan State Spartans 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Bresli
+ n Center\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270203-michigan-state-spartans-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270203T000000Z
+DTEND:20270203T014500Z
+SUMMARY:Michigan State Spartans - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Breslin Center\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-maryland-terrapins-nebraska-cornhuskers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:MARYLAND TERRAPINS | NCAA | J23 | 🏟️ | Nebraska Cornhuskers 
+ 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-maryland-terrapins-nebraska-cornhuskers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270209T233000Z
+DTEND:20270210T011500Z
+SUMMARY:Maryland Terrapins - Nebraska Cornhuskers
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-maryland-terrapins-indiana-hoosiers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:MARYLAND TERRAPINS | NCAA | J22 | 🏟️ | Indiana Hoosiers 🇺
+ 🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-maryland-terrapins-indiana-hoosiers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:Maryland Terrapins - Indiana Hoosiers
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270218-oregon-ducks-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:MARYLAND TERRAPINS | NCAA | J24 | ✈️ | Oregon Ducks 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Matthe
+ w Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270218-oregon-ducks-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270218T020000Z
+DTEND:20270218T034500Z
+SUMMARY:Oregon Ducks - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-washington-huskies-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:MARYLAND TERRAPINS | NCAA | J25 | ✈️ | Washington Huskies 🇺
+ 🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Alaska
+  Airlines Arena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-washington-huskies-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T220000Z
+DTEND:20270220T234500Z
+SUMMARY:Washington Huskies - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Alaska Airlines Arena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-maryland-terrapins-minnesota-golden-gophers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:MARYLAND TERRAPINS | NCAA | J25 | 🏟️ | Minnesota Golden Gopher
+ s 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-maryland-terrapins-minnesota-golden-gophers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270224T233000Z
+DTEND:20270225T011500Z
+SUMMARY:Maryland Terrapins - Minnesota Golden Gophers
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-rutgers-scarlet-knights-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:MARYLAND TERRAPINS | NCAA | J26 | ✈️ | Rutgers Scarlet Knights 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Jersey
+  Mike’s Arena\, Piscataway\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-rutgers-scarlet-knights-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270228T220000Z
+DTEND:20270228T234500Z
+SUMMARY:Rutgers Scarlet Knights - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270305-michigan-wolverines-maryland-terrapins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:MARYLAND TERRAPINS | NCAA | J28 | ✈️ | Michigan Wolverines 🇺
+ 🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Crisle
+ r Center\, Ann Arbor\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270305-michigan-wolverines-maryland-terrapins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270304T233000Z
+DTEND:20270305T011500Z
+SUMMARY:Michigan Wolverines - Maryland Terrapins
+DESCRIPTION:NCAA Division I
+LOCATION:Crisler Center\, Ann Arbor\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270307-maryland-terrapins-northwestern-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:MARYLAND TERRAPINS | NCAA | J29 | 🏟️ | Northwestern Wildcats 
+ 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: XFINIT
+ Y Center\, College Park\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270307-maryland-terrapins-northwestern-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270307T180000Z
+DTEND:20270307T194500Z
+SUMMARY:Maryland Terrapins - Northwestern Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:XFINITY Center\, College Park\, MD
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,559 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pittsburgh Panthers · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261114-butler-bulldogs-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J1 | ✈️ | Butler Bulldogs 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Hinkle
+  Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261114-butler-bulldogs-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261113T233000Z
+DTEND:20261114T011500Z
+SUMMARY:Butler Bulldogs - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261118-pittsburgh-panthers-villanova-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J2 | 🏟️ | Villanova Wildcats 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261118-pittsburgh-panthers-villanova-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261118T000000Z
+DTEND:20261118T014500Z
+SUMMARY:Pittsburgh Panthers - Villanova Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-pittsburgh-panthers-central-michigan-chippewas-dia@sport
+ cal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J3 | 🏟️ | Central Michigan Chippe
+ was 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-pittsburgh-panthers-central-michigan-chippewas@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Pittsburgh Panthers - Central Michigan Chippewas
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-pittsburgh-panthers-oklahoma-sooners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J4 | 🏟️ | Oklahoma Sooners 🇺
+ 🇸
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · NCAA Division I\nEstadi: Suncoa
+ st Credit Union Arena\, Fort Myers\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-pittsburgh-panthers-oklahoma-sooners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T183000Z
+DTEND:20261124T201500Z
+SUMMARY:Pittsburgh Panthers - Oklahoma Sooners
+DESCRIPTION:NCAA Division I
+LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261127-pittsburgh-panthers-depaul-blue-demons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J77 | 🏟️ | DePaul Blue Demons 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Suncoa
+ st Credit Union Arena\, Fort Myers\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261127-pittsburgh-panthers-depaul-blue-demons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261127T000000Z
+DTEND:20261127T014500Z
+SUMMARY:Pittsburgh Panthers - DePaul Blue Demons
+DESCRIPTION:NCAA Division I
+LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261202-missouri-tigers-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J6 | ✈️ | Missouri Tigers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Mizzou
+  Arena\, Columbia\, MO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261202-missouri-tigers-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261202T000000Z
+DTEND:20261202T014500Z
+SUMMARY:Missouri Tigers - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Mizzou Arena\, Columbia\, MO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-pittsburgh-panthers-tarleton-state-texans-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J7 | 🏟️ | Tarleton State Texans 
+ 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-pittsburgh-panthers-tarleton-state-texans@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T200000Z
+DTEND:20261205T214500Z
+SUMMARY:Pittsburgh Panthers - Tarleton State Texans
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-pittsburgh-panthers-west-virginia-mountaineers-dia@sport
+ cal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J8 | 🏟️ | West Virginia Mountaine
+ ers 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: PPG Pa
+ ints Arena\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-pittsburgh-panthers-west-virginia-mountaineers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261209T230000Z
+DTEND:20261210T004500Z
+SUMMARY:Pittsburgh Panthers - West Virginia Mountaineers
+DESCRIPTION:NCAA Division I
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-pittsburgh-panthers-drexel-dragons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J9 | 🏟️ | Drexel Dragons 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-pittsburgh-panthers-drexel-dragons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261216T000000Z
+DTEND:20261216T014500Z
+SUMMARY:Pittsburgh Panthers - Drexel Dragons
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-pittsburgh-panthers-georgia-state-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J10 | 🏟️ | Georgia State Panthers
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-pittsburgh-panthers-georgia-state-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T000000Z
+DTEND:20261219T014500Z
+SUMMARY:Pittsburgh Panthers - Georgia State Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-pittsburgh-panthers-cleveland-state-vikings-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J117 | 🏟️ | Cleveland State Vikin
+ gs 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-pittsburgh-panthers-cleveland-state-vikings@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261222T000000Z
+DTEND:20261222T014500Z
+SUMMARY:Pittsburgh Panthers - Cleveland State Vikings
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-pittsburgh-panthers-miami-hurricanes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J11 | 🏟️ | Miami Hurricanes 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-pittsburgh-panthers-miami-hurricanes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270102T190000Z
+DTEND:20270102T204500Z
+SUMMARY:Pittsburgh Panthers - Miami Hurricanes
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-nc-state-wolfpack-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J13 | ✈️ | NC State Wolfpack 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Lenovo
+  Center\, Raleigh\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-nc-state-wolfpack-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270107T000000Z
+DTEND:20270107T014500Z
+SUMMARY:NC State Wolfpack - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Lenovo Center\, Raleigh\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-duke-blue-devils-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J14 | ✈️ | Duke Blue Devils 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Camero
+ n Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-duke-blue-devils-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Duke Blue Devils - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-pittsburgh-panthers-syracuse-orange-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J15 | 🏟️ | Syracuse Orange 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-pittsburgh-panthers-syracuse-orange@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270113T000000Z
+DTEND:20270113T014500Z
+SUMMARY:Pittsburgh Panthers - Syracuse Orange
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-pittsburgh-panthers-clemson-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J14 | 🏟️ | Clemson Tigers 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-pittsburgh-panthers-clemson-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T210000Z
+DTEND:20270116T224500Z
+SUMMARY:Pittsburgh Panthers - Clemson Tigers
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-notre-dame-fighting-irish-pittsburgh-panthers-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J18 | ✈️ | Notre Dame Fighting Iri
+ sh 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Purcel
+ l Pavilion\, South Bend\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-notre-dame-fighting-irish-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270121T000000Z
+DTEND:20270121T014500Z
+SUMMARY:Notre Dame Fighting Irish - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Purcell Pavilion\, South Bend\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-pittsburgh-panthers-boston-college-eagles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J18 | 🏟️ | Boston College Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-pittsburgh-panthers-boston-college-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270124T000000Z
+DTEND:20270124T014500Z
+SUMMARY:Pittsburgh Panthers - Boston College Eagles
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270128-pittsburgh-panthers-virginia-tech-hokies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J19 | 🏟️ | Virginia Tech Hokies 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270128-pittsburgh-panthers-virginia-tech-hokies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270128T020000Z
+DTEND:20270128T034500Z
+SUMMARY:Pittsburgh Panthers - Virginia Tech Hokies
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-florida-state-seminoles-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J20 | ✈️ | Florida State Seminoles
+  🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: Tucker
+  Center\, Tallahassee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-florida-state-seminoles-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T200000Z
+DTEND:20270130T214500Z
+SUMMARY:Florida State Seminoles - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Tucker Center\, Tallahassee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270203-louisville-cardinals-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J20 | ✈️ | Louisville Cardinals 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: KFC Yu
+ m! Center\, Louisville\, KY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270203-louisville-cardinals-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270203T020000Z
+DTEND:20270203T034500Z
+SUMMARY:Louisville Cardinals - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:KFC Yum! Center\, Louisville\, KY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-pittsburgh-panthers-virginia-cavaliers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J23 | 🏟️ | Virginia Cavaliers 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270210-pittsburgh-panthers-virginia-cavaliers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270210T000000Z
+DTEND:20270210T014500Z
+SUMMARY:Pittsburgh Panthers - Virginia Cavaliers
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-wake-forest-demon-deacons-pittsburgh-panthers-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J21 | ✈️ | Wake Forest Demon Deaco
+ ns 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: LJVM C
+ oliseum\, Winston-Salem\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-wake-forest-demon-deacons-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270214T000000Z
+DTEND:20270214T014500Z
+SUMMARY:Wake Forest Demon Deacons - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270218-pittsburgh-panthers-california-golden-bears-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J24 | 🏟️ | California Golden Bear
+ s 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270218-pittsburgh-panthers-california-golden-bears@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270218T000000Z
+DTEND:20270218T014500Z
+SUMMARY:Pittsburgh Panthers - California Golden Bears
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-pittsburgh-panthers-georgia-tech-yellow-jackets-dia@spor
+ tcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J25 | 🏟️ | Georgia Tech Yellow Ja
+ ckets 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270221-pittsburgh-panthers-georgia-tech-yellow-jackets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270221T010000Z
+DTEND:20270221T024500Z
+SUMMARY:Pittsburgh Panthers - Georgia Tech Yellow Jackets
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270224-syracuse-orange-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J26 | ✈️ | Syracuse Orange 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: JMA Wi
+ reless Dome\, Syracuse\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270224-syracuse-orange-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270224T010000Z
+DTEND:20270224T024500Z
+SUMMARY:Syracuse Orange - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:JMA Wireless Dome\, Syracuse\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-miami-hurricanes-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J27 | ✈️ | Miami Hurricanes 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-miami-hurricanes-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Miami Hurricanes - Pittsburgh Panthers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-pittsburgh-panthers-north-carolina-tar-heels-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J28 | 🏟️ | North Carolina Tar Hee
+ ls 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Peters
+ en Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-pittsburgh-panthers-north-carolina-tar-heels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270303T020000Z
+DTEND:20270303T034500Z
+SUMMARY:Pittsburgh Panthers - North Carolina Tar Heels
+DESCRIPTION:NCAA Division I
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270307-smu-mustangs-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:PITTSBURGH PANTHERS | NCAA | J29 | ✈️ | SMU Mustangs 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Moody 
+ Coliseum (Dallas)\, Dallas\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270307-smu-mustangs-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270306T230000Z
+DTEND:20270307T004500Z
+SUMMARY:SMU Mustangs - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
+END:VEVENT
+END:VCALENDAR

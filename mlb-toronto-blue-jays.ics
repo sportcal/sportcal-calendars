@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Toronto Blue Jays · MLB
 BEGIN:VEVENT
 UID:mlb-20270401-baltimore-orioles-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:TORONTO BLUE JAYS | MLB | J1 | ✈️ | Baltimore Orioles 🇺🇸
@@ -15,7 +15,7 @@ DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270401-baltimore-orioles-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270331T223500Z
 DTEND:20270401T002000Z
 SUMMARY:Baltimore Orioles - Toronto Blue Jays
@@ -24,7 +24,7 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270401-baltimore-orioles-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:TORONTO BLUE JAYS | MLB | J1 | ✈️ | Baltimore Orioles 🇺🇸
@@ -33,7 +33,7 @@ DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270401-baltimore-orioles-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270401T173500Z
 DTEND:20270401T192000Z
 SUMMARY:Baltimore Orioles - Toronto Blue Jays
@@ -41,18 +41,327 @@ DESCRIPTION:MLB
 LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270402-toronto-blue-jays-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:TORONTO BLUE JAYS | MLB | J3 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270402-toronto-blue-jays-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Toronto Blue Jays - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-toronto-blue-jays-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:TORONTO BLUE JAYS | MLB | J4 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-toronto-blue-jays-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Toronto Blue Jays - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-toronto-blue-jays-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:TORONTO BLUE JAYS | MLB | J5 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-toronto-blue-jays-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Toronto Blue Jays - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270405-toronto-blue-jays-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:TORONTO BLUE JAYS | MLB | J6 | 🏟️ | Milwaukee Brewers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270405-toronto-blue-jays-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Toronto Blue Jays - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270406-toronto-blue-jays-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:TORONTO BLUE JAYS | MLB | J7 | 🏟️ | Milwaukee Brewers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270406-toronto-blue-jays-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Toronto Blue Jays - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270407-toronto-blue-jays-milwaukee-brewers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:TORONTO BLUE JAYS | MLB | J8 | 🏟️ | Milwaukee Brewers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270407-toronto-blue-jays-milwaukee-brewers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Toronto Blue Jays - Milwaukee Brewers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270409-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:TORONTO BLUE JAYS | MLB | J9 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270409-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:TORONTO BLUE JAYS | MLB | J10 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:TORONTO BLUE JAYS | MLB | J11 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270413-houston-astros-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:TORONTO BLUE JAYS | MLB | J12 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270413-houston-astros-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Houston Astros - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-houston-astros-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:TORONTO BLUE JAYS | MLB | J13 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-houston-astros-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Houston Astros - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-houston-astros-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:TORONTO BLUE JAYS | MLB | J14 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-houston-astros-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Houston Astros - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270416-toronto-blue-jays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:TORONTO BLUE JAYS | MLB | J16 | 🏟️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270416-toronto-blue-jays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Toronto Blue Jays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-toronto-blue-jays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:TORONTO BLUE JAYS | MLB | J17 | 🏟️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-toronto-blue-jays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Toronto Blue Jays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-toronto-blue-jays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:TORONTO BLUE JAYS | MLB | J18 | 🏟️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-toronto-blue-jays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Toronto Blue Jays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270420-toronto-blue-jays-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:TORONTO BLUE JAYS | MLB | J19 | 🏟️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270420-toronto-blue-jays-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Toronto Blue Jays - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-toronto-blue-jays-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:TORONTO BLUE JAYS | MLB | J20 | 🏟️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-toronto-blue-jays-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Toronto Blue Jays - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270422-toronto-blue-jays-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:TORONTO BLUE JAYS | MLB | J22 | 🏟️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270422-toronto-blue-jays-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Toronto Blue Jays - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270424-st-louis-cardinals-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:TORONTO BLUE JAYS | MLB | J16 | ✈️ | St. Louis Cardinals 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J22 | ✈️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-st-louis-cardinals-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270424T001500Z
 DTEND:20270424T020000Z
 SUMMARY:St. Louis Cardinals - Toronto Blue Jays
@@ -61,17 +370,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-st-louis-cardinals-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:TORONTO BLUE JAYS | MLB | J16 | ✈️ | St. Louis Cardinals 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J22 | ✈️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 22:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-st-louis-cardinals-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270424T201500Z
 DTEND:20270424T220000Z
 SUMMARY:St. Louis Cardinals - Toronto Blue Jays
@@ -80,17 +389,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-st-louis-cardinals-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:TORONTO BLUE JAYS | MLB | J17 | ✈️ | St. Louis Cardinals 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J23 | ✈️ | St. Louis Cardinals 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-st-louis-cardinals-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270425T181500Z
 DTEND:20270425T200000Z
 SUMMARY:St. Louis Cardinals - Toronto Blue Jays
@@ -99,16 +408,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270427-new-york-mets-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
-SUMMARY:TORONTO BLUE JAYS | MLB | J19 | ✈️ | New York Mets 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J25 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270427-new-york-mets-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270426T231000Z
 DTEND:20270427T005500Z
 SUMMARY:New York Mets - Toronto Blue Jays
@@ -117,16 +426,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-new-york-mets-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-SUMMARY:TORONTO BLUE JAYS | MLB | J19 | ✈️ | New York Mets 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J26 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-new-york-mets-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270427T231000Z
 DTEND:20270428T005500Z
 SUMMARY:New York Mets - Toronto Blue Jays
@@ -135,16 +444,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-new-york-mets-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-SUMMARY:TORONTO BLUE JAYS | MLB | J19 | ✈️ | New York Mets 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J26 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 19:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-new-york-mets-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270428T171000Z
 DTEND:20270428T185500Z
 SUMMARY:New York Mets - Toronto Blue Jays
@@ -152,18 +461,120 @@ DESCRIPTION:MLB
 LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270430-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:TORONTO BLUE JAYS | MLB | J28 | 🏟️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270430-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:TORONTO BLUE JAYS | MLB | J29 | 🏟️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:TORONTO BLUE JAYS | MLB | J30 | 🏟️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270503-boston-red-sox-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:TORONTO BLUE JAYS | MLB | J32 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270503-boston-red-sox-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Boston Red Sox - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270504-boston-red-sox-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:TORONTO BLUE JAYS | MLB | J33 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270504-boston-red-sox-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Boston Red Sox - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270505-boston-red-sox-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:TORONTO BLUE JAYS | MLB | J34 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270505-boston-red-sox-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Boston Red Sox - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270508-kansas-city-royals-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:TORONTO BLUE JAYS | MLB | J24 | ✈️ | Kansas City Royals 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J36 | ✈️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-kansas-city-royals-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270507T234000Z
 DTEND:20270508T012500Z
 SUMMARY:Kansas City Royals - Toronto Blue Jays
@@ -172,17 +583,17 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-kansas-city-royals-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:TORONTO BLUE JAYS | MLB | J28 | ✈️ | Kansas City Royals 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J37 | ✈️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-kansas-city-royals-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270508T231000Z
 DTEND:20270509T005500Z
 SUMMARY:Kansas City Royals - Toronto Blue Jays
@@ -191,17 +602,17 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-kansas-city-royals-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:TORONTO BLUE JAYS | MLB | J28 | ✈️ | Kansas City Royals 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J37 | ✈️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-kansas-city-royals-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270509T181000Z
 DTEND:20270509T195500Z
 SUMMARY:Kansas City Royals - Toronto Blue Jays
@@ -209,17 +620,157 @@ DESCRIPTION:MLB
 LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270510-toronto-blue-jays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:TORONTO BLUE JAYS | MLB | J38 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270510-toronto-blue-jays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Toronto Blue Jays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270511-toronto-blue-jays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:TORONTO BLUE JAYS | MLB | J37 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270511-toronto-blue-jays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Toronto Blue Jays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270512-toronto-blue-jays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:TORONTO BLUE JAYS | MLB | J38 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270512-toronto-blue-jays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Toronto Blue Jays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270513-toronto-blue-jays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:TORONTO BLUE JAYS | MLB | J39 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270513-toronto-blue-jays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Toronto Blue Jays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270514-toronto-blue-jays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:TORONTO BLUE JAYS | MLB | J40 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270514-toronto-blue-jays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Toronto Blue Jays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270515-toronto-blue-jays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:TORONTO BLUE JAYS | MLB | J41 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270515-toronto-blue-jays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Toronto Blue Jays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-toronto-blue-jays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:TORONTO BLUE JAYS | MLB | J42 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-toronto-blue-jays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Toronto Blue Jays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270517-toronto-blue-jays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:TORONTO BLUE JAYS | MLB | J43 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270517-toronto-blue-jays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Toronto Blue Jays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270519-texas-rangers-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-SUMMARY:TORONTO BLUE JAYS | MLB | J36 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J45 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-texas-rangers-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270519T001000Z
 DTEND:20270519T015500Z
 SUMMARY:Texas Rangers - Toronto Blue Jays
@@ -228,16 +779,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-texas-rangers-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:TORONTO BLUE JAYS | MLB | J34 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J45 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-texas-rangers-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270520T001000Z
 DTEND:20270520T015500Z
 SUMMARY:Texas Rangers - Toronto Blue Jays
@@ -246,16 +797,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-texas-rangers-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:TORONTO BLUE JAYS | MLB | J34 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J45 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-texas-rangers-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270520T184000Z
 DTEND:20270520T202500Z
 SUMMARY:Texas Rangers - Toronto Blue Jays
@@ -264,16 +815,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-cincinnati-reds-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-SUMMARY:TORONTO BLUE JAYS | MLB | J36 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J47 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-cincinnati-reds-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270521T224000Z
 DTEND:20270522T002500Z
 SUMMARY:Cincinnati Reds - Toronto Blue Jays
@@ -282,16 +833,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-cincinnati-reds-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-SUMMARY:TORONTO BLUE JAYS | MLB | J36 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J47 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-cincinnati-reds-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270522T201000Z
 DTEND:20270522T215500Z
 SUMMARY:Cincinnati Reds - Toronto Blue Jays
@@ -300,16 +851,16 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-cincinnati-reds-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-SUMMARY:TORONTO BLUE JAYS | MLB | J37 | ✈️ | Cincinnati Reds 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J49 | ✈️ | Cincinnati Reds 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-cincinnati-reds-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270523T174000Z
 DTEND:20270523T192500Z
 SUMMARY:Cincinnati Reds - Toronto Blue Jays
@@ -317,18 +868,120 @@ DESCRIPTION:MLB
 LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270525-toronto-blue-jays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:TORONTO BLUE JAYS | MLB | J51 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-toronto-blue-jays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Toronto Blue Jays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-toronto-blue-jays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:TORONTO BLUE JAYS | MLB | J52 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-toronto-blue-jays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Toronto Blue Jays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-toronto-blue-jays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:TORONTO BLUE JAYS | MLB | J53 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-toronto-blue-jays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Toronto Blue Jays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270528-toronto-blue-jays-minnesota-twins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:TORONTO BLUE JAYS | MLB | J53 | 🏟️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270528-toronto-blue-jays-minnesota-twins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Toronto Blue Jays - Minnesota Twins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-toronto-blue-jays-minnesota-twins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:TORONTO BLUE JAYS | MLB | J54 | 🏟️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-toronto-blue-jays-minnesota-twins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Toronto Blue Jays - Minnesota Twins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270530-toronto-blue-jays-minnesota-twins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:TORONTO BLUE JAYS | MLB | J55 | 🏟️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270530-toronto-blue-jays-minnesota-twins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Toronto Blue Jays - Minnesota Twins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270601-philadelphia-phillies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-SUMMARY:TORONTO BLUE JAYS | MLB | J45 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J56 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270601-philadelphia-phillies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270531T220500Z
 DTEND:20270531T235000Z
 SUMMARY:Philadelphia Phillies - Toronto Blue Jays
@@ -337,17 +990,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-philadelphia-phillies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
-SUMMARY:TORONTO BLUE JAYS | MLB | J45 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J57 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-philadelphia-phillies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270601T224000Z
 DTEND:20270602T002500Z
 SUMMARY:Philadelphia Phillies - Toronto Blue Jays
@@ -356,17 +1009,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270603-philadelphia-phillies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
-SUMMARY:TORONTO BLUE JAYS | MLB | J45 | ✈️ | Philadelphia Phillies 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J58 | ✈️ | Philadelphia Phillies 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270603-philadelphia-phillies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270602T224000Z
 DTEND:20270603T002500Z
 SUMMARY:Philadelphia Phillies - Toronto Blue Jays
@@ -374,17 +1027,440 @@ DESCRIPTION:MLB
 LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270604-pittsburgh-pirates-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:TORONTO BLUE JAYS | MLB | J60 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270604-pittsburgh-pirates-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Pittsburgh Pirates - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-pittsburgh-pirates-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:TORONTO BLUE JAYS | MLB | J61 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-pittsburgh-pirates-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Pittsburgh Pirates - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270606-pittsburgh-pirates-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:TORONTO BLUE JAYS | MLB | J62 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270606-pittsburgh-pirates-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Pittsburgh Pirates - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-toronto-blue-jays-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:TORONTO BLUE JAYS | MLB | J62 | 🏟️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-toronto-blue-jays-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Toronto Blue Jays - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-toronto-blue-jays-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:TORONTO BLUE JAYS | MLB | J63 | 🏟️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-toronto-blue-jays-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Toronto Blue Jays - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270610-toronto-blue-jays-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:TORONTO BLUE JAYS | MLB | J64 | 🏟️ | Arizona Diamondbacks 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270610-toronto-blue-jays-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Toronto Blue Jays - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270611-toronto-blue-jays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:TORONTO BLUE JAYS | MLB | J65 | 🏟️ | Philadelphia Phillies 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270611-toronto-blue-jays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Toronto Blue Jays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-toronto-blue-jays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:TORONTO BLUE JAYS | MLB | J66 | 🏟️ | Philadelphia Phillies 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-toronto-blue-jays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Toronto Blue Jays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-toronto-blue-jays-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:TORONTO BLUE JAYS | MLB | J67 | 🏟️ | Philadelphia Phillies 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-toronto-blue-jays-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Toronto Blue Jays - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270614-miami-marlins-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:TORONTO BLUE JAYS | MLB | J68 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270614-miami-marlins-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Miami Marlins - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-miami-marlins-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:TORONTO BLUE JAYS | MLB | J69 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-miami-marlins-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Miami Marlins - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270616-miami-marlins-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:TORONTO BLUE JAYS | MLB | J70 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270616-miami-marlins-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Miami Marlins - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270618-detroit-tigers-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:TORONTO BLUE JAYS | MLB | J71 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270618-detroit-tigers-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Detroit Tigers - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-detroit-tigers-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:TORONTO BLUE JAYS | MLB | J72 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-detroit-tigers-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Detroit Tigers - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270620-detroit-tigers-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:TORONTO BLUE JAYS | MLB | J73 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270620-detroit-tigers-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Detroit Tigers - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270621-toronto-blue-jays-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:TORONTO BLUE JAYS | MLB | J75 | 🏟️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270621-toronto-blue-jays-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Toronto Blue Jays - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270622-toronto-blue-jays-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:TORONTO BLUE JAYS | MLB | J76 | 🏟️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270622-toronto-blue-jays-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Toronto Blue Jays - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270623-toronto-blue-jays-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:TORONTO BLUE JAYS | MLB | J77 | 🏟️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270623-toronto-blue-jays-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Toronto Blue Jays - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270625-toronto-blue-jays-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:TORONTO BLUE JAYS | MLB | J77 | 🏟️ | San Diego Padres 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270625-toronto-blue-jays-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Toronto Blue Jays - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-toronto-blue-jays-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:TORONTO BLUE JAYS | MLB | J78 | 🏟️ | San Diego Padres 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-toronto-blue-jays-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Toronto Blue Jays - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-toronto-blue-jays-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:TORONTO BLUE JAYS | MLB | J79 | 🏟️ | San Diego Padres 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-toronto-blue-jays-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Toronto Blue Jays - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-toronto-blue-jays-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:TORONTO BLUE JAYS | MLB | J82 | 🏟️ | Los Angeles Angels 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-toronto-blue-jays-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Toronto Blue Jays - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-toronto-blue-jays-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:TORONTO BLUE JAYS | MLB | J83 | 🏟️ | Los Angeles Angels 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-toronto-blue-jays-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Toronto Blue Jays - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-toronto-blue-jays-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:TORONTO BLUE JAYS | MLB | J85 | 🏟️ | Los Angeles Angels 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-toronto-blue-jays-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Toronto Blue Jays - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270703-colorado-rockies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
-SUMMARY:TORONTO BLUE JAYS | MLB | J65 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J85 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-colorado-rockies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270703T001000Z
 DTEND:20270703T015500Z
 SUMMARY:Colorado Rockies - Toronto Blue Jays
@@ -393,16 +1469,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-colorado-rockies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:TORONTO BLUE JAYS | MLB | J66 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J86 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-colorado-rockies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T001000Z
 DTEND:20270704T015500Z
 SUMMARY:Colorado Rockies - Toronto Blue Jays
@@ -411,16 +1487,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-colorado-rockies-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:TORONTO BLUE JAYS | MLB | J66 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J86 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-colorado-rockies-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T191000Z
 DTEND:20270704T205500Z
 SUMMARY:Colorado Rockies - Toronto Blue Jays
@@ -428,18 +1504,86 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270705-athletics-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:TORONTO BLUE JAYS | MLB | J87 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270705-athletics-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Athletics - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270706-athletics-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:TORONTO BLUE JAYS | MLB | J88 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270706-athletics-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Athletics - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-athletics-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:TORONTO BLUE JAYS | MLB | J89 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-athletics-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Athletics - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-athletics-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:TORONTO BLUE JAYS | MLB | J90 | ✈️ | Athletics 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-athletics-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Athletics - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270710-los-angeles-angels-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:TORONTO BLUE JAYS | MLB | J63 | ✈️ | Los Angeles Angels 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J92 | ✈️ | Los Angeles Angels 🇺
  🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-los-angeles-angels-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270709T223800Z
 DTEND:20270710T002300Z
 SUMMARY:Los Angeles Angels - Toronto Blue Jays
@@ -448,17 +1592,17 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-los-angeles-angels-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:TORONTO BLUE JAYS | MLB | J68 | ✈️ | Los Angeles Angels 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J93 | ✈️ | Los Angeles Angels 🇺
  🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-los-angeles-angels-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270710T230700Z
 DTEND:20270711T005200Z
 SUMMARY:Los Angeles Angels - Toronto Blue Jays
@@ -467,17 +1611,17 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-los-angeles-angels-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:TORONTO BLUE JAYS | MLB | J68 | ✈️ | Los Angeles Angels 🇺
+SUMMARY:TORONTO BLUE JAYS | MLB | J93 | ✈️ | Los Angeles Angels 🇺
  🇸
 DESCRIPTION:Inici: 22:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-los-angeles-angels-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270711T200700Z
 DTEND:20270711T215200Z
 SUMMARY:Los Angeles Angels - Toronto Blue Jays
@@ -485,17 +1629,191 @@ DESCRIPTION:MLB
 LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270716-toronto-blue-jays-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:TORONTO BLUE JAYS | MLB | J93 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270716-toronto-blue-jays-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Toronto Blue Jays - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-toronto-blue-jays-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:TORONTO BLUE JAYS | MLB | J94 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-toronto-blue-jays-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Toronto Blue Jays - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-toronto-blue-jays-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:TORONTO BLUE JAYS | MLB | J95 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-toronto-blue-jays-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Toronto Blue Jays - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270719-toronto-blue-jays-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:TORONTO BLUE JAYS | MLB | J96 | 🏟️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270719-toronto-blue-jays-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Toronto Blue Jays - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-toronto-blue-jays-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:TORONTO BLUE JAYS | MLB | J97 | 🏟️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-toronto-blue-jays-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Toronto Blue Jays - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-toronto-blue-jays-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:TORONTO BLUE JAYS | MLB | J98 | 🏟️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-toronto-blue-jays-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Toronto Blue Jays - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270722-toronto-blue-jays-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:TORONTO BLUE JAYS | MLB | J99 | 🏟️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270722-toronto-blue-jays-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Toronto Blue Jays - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-toronto-blue-jays-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:TORONTO BLUE JAYS | MLB | J100 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-toronto-blue-jays-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Toronto Blue Jays - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-toronto-blue-jays-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:TORONTO BLUE JAYS | MLB | J101 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-toronto-blue-jays-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Toronto Blue Jays - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-toronto-blue-jays-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:TORONTO BLUE JAYS | MLB | J102 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-toronto-blue-jays-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Toronto Blue Jays - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270727-minnesota-twins-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
-SUMMARY:TORONTO BLUE JAYS | MLB | J79 | ✈️ | Minnesota Twins 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J103 | ✈️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270727-minnesota-twins-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270726T234000Z
 DTEND:20270727T012500Z
 SUMMARY:Minnesota Twins - Toronto Blue Jays
@@ -504,16 +1822,16 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-minnesota-twins-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:TORONTO BLUE JAYS | MLB | J80 | ✈️ | Minnesota Twins 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J104 | ✈️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-minnesota-twins-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270727T234000Z
 DTEND:20270728T012500Z
 SUMMARY:Minnesota Twins - Toronto Blue Jays
@@ -522,16 +1840,16 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-minnesota-twins-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:TORONTO BLUE JAYS | MLB | J80 | ✈️ | Minnesota Twins 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J104 | ✈️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-minnesota-twins-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270728T174000Z
 DTEND:20270728T192500Z
 SUMMARY:Minnesota Twins - Toronto Blue Jays
@@ -540,16 +1858,16 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-new-york-yankees-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
-SUMMARY:TORONTO BLUE JAYS | MLB | J82 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J108 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-new-york-yankees-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270730T230500Z
 DTEND:20270731T005000Z
 SUMMARY:New York Yankees - Toronto Blue Jays
@@ -558,16 +1876,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-new-york-yankees-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
-SUMMARY:TORONTO BLUE JAYS | MLB | J82 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J108 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-new-york-yankees-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270731T173500Z
 DTEND:20270731T192000Z
 SUMMARY:New York Yankees - Toronto Blue Jays
@@ -576,16 +1894,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-new-york-yankees-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-SUMMARY:TORONTO BLUE JAYS | MLB | J82 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J109 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-new-york-yankees-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270801T173500Z
 DTEND:20270801T192000Z
 SUMMARY:New York Yankees - Toronto Blue Jays
@@ -594,16 +1912,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-new-york-yankees-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
-SUMMARY:TORONTO BLUE JAYS | MLB | J83 | ✈️ | New York Yankees 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J110 | ✈️ | New York Yankees 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
  ronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-new-york-yankees-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270802T230500Z
 DTEND:20270803T005000Z
 SUMMARY:New York Yankees - Toronto Blue Jays
@@ -612,16 +1930,17 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-baltimore-orioles-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-SUMMARY:TORONTO BLUE JAYS | MLB | J84 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J110 | ✈️ | Baltimore Orioles 🇺
+ 🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-baltimore-orioles-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270803T223500Z
 DTEND:20270804T002000Z
 SUMMARY:Baltimore Orioles - Toronto Blue Jays
@@ -630,16 +1949,17 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-baltimore-orioles-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
-SUMMARY:TORONTO BLUE JAYS | MLB | J85 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J111 | ✈️ | Baltimore Orioles 🇺
+ 🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-baltimore-orioles-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270804T223500Z
 DTEND:20270805T002000Z
 SUMMARY:Baltimore Orioles - Toronto Blue Jays
@@ -648,16 +1968,17 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-baltimore-orioles-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
-SUMMARY:TORONTO BLUE JAYS | MLB | J85 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J111 | ✈️ | Baltimore Orioles 🇺
+ 🇸
 DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-baltimore-orioles-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270805T163500Z
 DTEND:20270805T182000Z
 SUMMARY:Baltimore Orioles - Toronto Blue Jays
@@ -665,22 +1986,808 @@ DESCRIPTION:MLB
 LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270806-toronto-blue-jays-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:TORONTO BLUE JAYS | MLB | J113 | 🏟️ | Atlanta Braves 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270806-toronto-blue-jays-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Toronto Blue Jays - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270807-toronto-blue-jays-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:TORONTO BLUE JAYS | MLB | J114 | 🏟️ | Atlanta Braves 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270807-toronto-blue-jays-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Toronto Blue Jays - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-toronto-blue-jays-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:TORONTO BLUE JAYS | MLB | J115 | 🏟️ | Atlanta Braves 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-toronto-blue-jays-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Toronto Blue Jays - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270810-toronto-blue-jays-washington-nationals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:TORONTO BLUE JAYS | MLB | J116 | 🏟️ | Washington Nationals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270810-toronto-blue-jays-washington-nationals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Toronto Blue Jays - Washington Nationals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270811-toronto-blue-jays-washington-nationals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:TORONTO BLUE JAYS | MLB | J117 | 🏟️ | Washington Nationals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270811-toronto-blue-jays-washington-nationals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Toronto Blue Jays - Washington Nationals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270812-toronto-blue-jays-washington-nationals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:TORONTO BLUE JAYS | MLB | J118 | 🏟️ | Washington Nationals 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270812-toronto-blue-jays-washington-nationals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Toronto Blue Jays - Washington Nationals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270813-cleveland-guardians-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:TORONTO BLUE JAYS | MLB | J119 | ✈️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270813-cleveland-guardians-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Cleveland Guardians - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-cleveland-guardians-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:TORONTO BLUE JAYS | MLB | J120 | ✈️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-cleveland-guardians-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Cleveland Guardians - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-cleveland-guardians-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:TORONTO BLUE JAYS | MLB | J121 | ✈️ | Cleveland Guardians 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-cleveland-guardians-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Cleveland Guardians - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270816-boston-red-sox-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:TORONTO BLUE JAYS | MLB | J121 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270816-boston-red-sox-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Boston Red Sox - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-boston-red-sox-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:TORONTO BLUE JAYS | MLB | J122 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-boston-red-sox-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Boston Red Sox - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-boston-red-sox-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:TORONTO BLUE JAYS | MLB | J123 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-boston-red-sox-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Boston Red Sox - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270820-toronto-blue-jays-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270821
-SUMMARY:TORONTO BLUE JAYS | MLB | J89 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:TORONTO BLUE JAYS | MLB | J125 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Journey Bank Ballp
  ark at Historic Bowman Field\, Williamsport\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270820-toronto-blue-jays-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270819T231000Z
 DTEND:20270820T005500Z
 SUMMARY:Toronto Blue Jays - Chicago Cubs
 DESCRIPTION:MLB
 LOCATION:Journey Bank Ballpark at Historic Bowman Field\, Williamsport\, Pe
  nnsylvania
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270821-toronto-blue-jays-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:TORONTO BLUE JAYS | MLB | J126 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270821-toronto-blue-jays-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Toronto Blue Jays - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270822-toronto-blue-jays-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:TORONTO BLUE JAYS | MLB | J127 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270822-toronto-blue-jays-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Toronto Blue Jays - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270824-toronto-blue-jays-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:TORONTO BLUE JAYS | MLB | J128 | 🏟️ | Kansas City Royals 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270824-toronto-blue-jays-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Toronto Blue Jays - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-toronto-blue-jays-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:TORONTO BLUE JAYS | MLB | J129 | 🏟️ | Kansas City Royals 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-toronto-blue-jays-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Toronto Blue Jays - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270826-toronto-blue-jays-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:TORONTO BLUE JAYS | MLB | J130 | 🏟️ | Kansas City Royals 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270826-toronto-blue-jays-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Toronto Blue Jays - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-toronto-blue-jays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:TORONTO BLUE JAYS | MLB | J131 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-toronto-blue-jays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Toronto Blue Jays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-toronto-blue-jays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:TORONTO BLUE JAYS | MLB | J132 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-toronto-blue-jays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Toronto Blue Jays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-toronto-blue-jays-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:TORONTO BLUE JAYS | MLB | J133 | 🏟️ | Baltimore Orioles 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-toronto-blue-jays-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Toronto Blue Jays - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270830-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:TORONTO BLUE JAYS | MLB | J134 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270830-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270831-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:TORONTO BLUE JAYS | MLB | J135 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270831-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270901-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:TORONTO BLUE JAYS | MLB | J136 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270901-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270902-tampa-bay-rays-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:TORONTO BLUE JAYS | MLB | J137 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270902-tampa-bay-rays-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Tampa Bay Rays - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270903-chicago-white-sox-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:TORONTO BLUE JAYS | MLB | J138 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270903-chicago-white-sox-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Chicago White Sox - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270904-chicago-white-sox-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:TORONTO BLUE JAYS | MLB | J139 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270904-chicago-white-sox-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Chicago White Sox - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270905-chicago-white-sox-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:TORONTO BLUE JAYS | MLB | J140 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270905-chicago-white-sox-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Chicago White Sox - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270906-toronto-blue-jays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:TORONTO BLUE JAYS | MLB | J140 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270906-toronto-blue-jays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Toronto Blue Jays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270907-toronto-blue-jays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:TORONTO BLUE JAYS | MLB | J141 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270907-toronto-blue-jays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Toronto Blue Jays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270908-toronto-blue-jays-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:TORONTO BLUE JAYS | MLB | J142 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270908-toronto-blue-jays-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Toronto Blue Jays - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-toronto-blue-jays-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:TORONTO BLUE JAYS | MLB | J144 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-toronto-blue-jays-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Toronto Blue Jays - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-toronto-blue-jays-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:TORONTO BLUE JAYS | MLB | J145 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-toronto-blue-jays-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Toronto Blue Jays - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-toronto-blue-jays-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:TORONTO BLUE JAYS | MLB | J146 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-toronto-blue-jays-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Toronto Blue Jays - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270913-los-angeles-dodgers-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:TORONTO BLUE JAYS | MLB | J146 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270913-los-angeles-dodgers-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:Los Angeles Dodgers - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-los-angeles-dodgers-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:TORONTO BLUE JAYS | MLB | J147 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-los-angeles-dodgers-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Los Angeles Dodgers - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-los-angeles-dodgers-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:TORONTO BLUE JAYS | MLB | J148 | ✈️ | Los Angeles Dodgers 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-los-angeles-dodgers-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Los Angeles Dodgers - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-seattle-mariners-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:TORONTO BLUE JAYS | MLB | J150 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-seattle-mariners-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Seattle Mariners - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-seattle-mariners-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:TORONTO BLUE JAYS | MLB | J151 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-seattle-mariners-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Seattle Mariners - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-seattle-mariners-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:TORONTO BLUE JAYS | MLB | J152 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-seattle-mariners-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Seattle Mariners - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-toronto-blue-jays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:TORONTO BLUE JAYS | MLB | J153 | 🏟️ | New York Yankees 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-toronto-blue-jays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Toronto Blue Jays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-toronto-blue-jays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:TORONTO BLUE JAYS | MLB | J154 | 🏟️ | New York Yankees 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-toronto-blue-jays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Toronto Blue Jays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-toronto-blue-jays-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:TORONTO BLUE JAYS | MLB | J155 | 🏟️ | New York Yankees 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-toronto-blue-jays-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Toronto Blue Jays - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:TORONTO BLUE JAYS | MLB | J156 | 🏟️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:TORONTO BLUE JAYS | MLB | J157 | 🏟️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-toronto-blue-jays-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:TORONTO BLUE JAYS | MLB | J158 | 🏟️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-toronto-blue-jays-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Toronto Blue Jays - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
 END:VEVENT
 END:VCALENDAR

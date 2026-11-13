@@ -6,7 +6,24 @@ METHOD:PUBLISH
 X-WR-CALNAME:Athletics · MLB
 BEGIN:VEVENT
 UID:mlb-20270331-new-york-yankees-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:ATHLETICS | MLB | J1 | ✈️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-new-york-yankees-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:New York Yankees - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-new-york-yankees-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:ATHLETICS | MLB | J1 | ✈️ | New York Yankees 🇺🇸
@@ -15,7 +32,7 @@ DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-new-york-yankees-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270330T230500Z
 DTEND:20270331T005000Z
 SUMMARY:New York Yankees - Athletics
@@ -24,16 +41,16 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270401-texas-rangers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-SUMMARY:ATHLETICS | MLB | J1 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J3 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 23:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270401-texas-rangers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270401T211000Z
 DTEND:20270401T225500Z
 SUMMARY:Texas Rangers - Athletics
@@ -42,16 +59,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-texas-rangers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
-SUMMARY:ATHLETICS | MLB | J3 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J4 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-texas-rangers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270403T001000Z
 DTEND:20270403T015500Z
 SUMMARY:Texas Rangers - Athletics
@@ -60,16 +77,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-texas-rangers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-SUMMARY:ATHLETICS | MLB | J4 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J5 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-texas-rangers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270403T231000Z
 DTEND:20270404T005500Z
 SUMMARY:Texas Rangers - Athletics
@@ -78,16 +95,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-texas-rangers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-SUMMARY:ATHLETICS | MLB | J4 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J5 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-texas-rangers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270404T184000Z
 DTEND:20270404T202500Z
 SUMMARY:Texas Rangers - Athletics
@@ -95,17 +112,119 @@ DESCRIPTION:MLB
 LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270405-athletics-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:ATHLETICS | MLB | J6 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270405-athletics-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Athletics - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270406-athletics-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:ATHLETICS | MLB | J7 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270406-athletics-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Athletics - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270407-athletics-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:ATHLETICS | MLB | J8 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270407-athletics-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Athletics - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270409-athletics-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:ATHLETICS | MLB | J9 | 🏟️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270409-athletics-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Athletics - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-athletics-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:ATHLETICS | MLB | J10 | 🏟️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-athletics-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Athletics - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-athletics-chicago-white-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:ATHLETICS | MLB | J11 | 🏟️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-athletics-chicago-white-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Athletics - Chicago White Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270414-kansas-city-royals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
-SUMMARY:ATHLETICS | MLB | J12 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:ATHLETICS | MLB | J14 | ✈️ | Kansas City Royals 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270414-kansas-city-royals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270413T234000Z
 DTEND:20270414T012500Z
 SUMMARY:Kansas City Royals - Athletics
@@ -114,16 +233,16 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-kansas-city-royals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:ATHLETICS | MLB | J13 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:ATHLETICS | MLB | J15 | ✈️ | Kansas City Royals 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-kansas-city-royals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270414T234000Z
 DTEND:20270415T012500Z
 SUMMARY:Kansas City Royals - Athletics
@@ -132,16 +251,16 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-kansas-city-royals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:ATHLETICS | MLB | J13 | ✈️ | Kansas City Royals 🇺🇸
+SUMMARY:ATHLETICS | MLB | J15 | ✈️ | Kansas City Royals 🇺🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-kansas-city-royals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270415T181000Z
 DTEND:20270415T195500Z
 SUMMARY:Kansas City Royals - Athletics
@@ -149,17 +268,187 @@ DESCRIPTION:MLB
 LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270416-toronto-blue-jays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:ATHLETICS | MLB | J16 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270416-toronto-blue-jays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Toronto Blue Jays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-toronto-blue-jays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:ATHLETICS | MLB | J17 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270417-toronto-blue-jays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Toronto Blue Jays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-toronto-blue-jays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:ATHLETICS | MLB | J18 | ✈️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270418-toronto-blue-jays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Toronto Blue Jays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270419-athletics-new-york-mets-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:ATHLETICS | MLB | J19 | 🏟️ | New York Mets 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270419-athletics-new-york-mets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Athletics - New York Mets · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270420-athletics-new-york-mets-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:ATHLETICS | MLB | J20 | 🏟️ | New York Mets 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270420-athletics-new-york-mets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Athletics - New York Mets · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-athletics-new-york-mets-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:ATHLETICS | MLB | J21 | 🏟️ | New York Mets 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270421-athletics-new-york-mets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Athletics - New York Mets · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270422-athletics-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:ATHLETICS | MLB | J22 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270422-athletics-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Athletics - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270423-athletics-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:ATHLETICS | MLB | J21 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270423-athletics-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Athletics - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270424-athletics-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:ATHLETICS | MLB | J22 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270424-athletics-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Athletics - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270425-athletics-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:ATHLETICS | MLB | J23 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270425-athletics-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Athletics - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270428-minnesota-twins-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-SUMMARY:ATHLETICS | MLB | J19 | ✈️ | Minnesota Twins 🇺🇸
+SUMMARY:ATHLETICS | MLB | J26 | ✈️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-minnesota-twins-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270427T234000Z
 DTEND:20270428T012500Z
 SUMMARY:Minnesota Twins - Athletics
@@ -168,16 +457,16 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-minnesota-twins-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-SUMMARY:ATHLETICS | MLB | J22 | ✈️ | Minnesota Twins 🇺🇸
+SUMMARY:ATHLETICS | MLB | J27 | ✈️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-minnesota-twins-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270428T234000Z
 DTEND:20270429T012500Z
 SUMMARY:Minnesota Twins - Athletics
@@ -186,16 +475,16 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-minnesota-twins-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-SUMMARY:ATHLETICS | MLB | J22 | ✈️ | Minnesota Twins 🇺🇸
+SUMMARY:ATHLETICS | MLB | J27 | ✈️ | Minnesota Twins 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
  neapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270429-minnesota-twins-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270429T174000Z
 DTEND:20270429T192500Z
 SUMMARY:Minnesota Twins - Athletics
@@ -204,16 +493,16 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270501-colorado-rockies-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-SUMMARY:ATHLETICS | MLB | J23 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:ATHLETICS | MLB | J29 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270501-colorado-rockies-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270501T004000Z
 DTEND:20270501T022500Z
 SUMMARY:Colorado Rockies - Athletics
@@ -222,16 +511,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-colorado-rockies-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-SUMMARY:ATHLETICS | MLB | J24 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:ATHLETICS | MLB | J30 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-colorado-rockies-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270502T001000Z
 DTEND:20270502T015500Z
 SUMMARY:Colorado Rockies - Athletics
@@ -240,16 +529,16 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-colorado-rockies-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-SUMMARY:ATHLETICS | MLB | J24 | ✈️ | Colorado Rockies 🇺🇸
+SUMMARY:ATHLETICS | MLB | J30 | ✈️ | Colorado Rockies 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-colorado-rockies-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270502T191000Z
 DTEND:20270502T205500Z
 SUMMARY:Colorado Rockies - Athletics
@@ -257,17 +546,119 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270503-athletics-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:ATHLETICS | MLB | J32 | 🏟️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270503-athletics-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Athletics - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270504-athletics-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:ATHLETICS | MLB | J33 | 🏟️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270504-athletics-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Athletics - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270505-athletics-cleveland-guardians-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:ATHLETICS | MLB | J34 | 🏟️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270505-athletics-cleveland-guardians@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Athletics - Cleveland Guardians · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270507-athletics-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:ATHLETICS | MLB | J35 | 🏟️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270507-athletics-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Athletics - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270508-athletics-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:ATHLETICS | MLB | J36 | 🏟️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270508-athletics-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Athletics - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270509-athletics-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:ATHLETICS | MLB | J37 | 🏟️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270509-athletics-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Athletics - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270512-st-louis-cardinals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
-SUMMARY:ATHLETICS | MLB | J29 | ✈️ | St. Louis Cardinals 🇺🇸
+SUMMARY:ATHLETICS | MLB | J38 | ✈️ | St. Louis Cardinals 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-st-louis-cardinals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270511T234500Z
 DTEND:20270512T013000Z
 SUMMARY:St. Louis Cardinals - Athletics
@@ -276,16 +667,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-st-louis-cardinals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:ATHLETICS | MLB | J30 | ✈️ | St. Louis Cardinals 🇺🇸
+SUMMARY:ATHLETICS | MLB | J39 | ✈️ | St. Louis Cardinals 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-st-louis-cardinals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270512T234500Z
 DTEND:20270513T013000Z
 SUMMARY:St. Louis Cardinals - Athletics
@@ -294,16 +685,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-st-louis-cardinals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:ATHLETICS | MLB | J30 | ✈️ | St. Louis Cardinals 🇺🇸
+SUMMARY:ATHLETICS | MLB | J39 | ✈️ | St. Louis Cardinals 🇺🇸
 DESCRIPTION:Inici: 19:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-st-louis-cardinals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270513T171500Z
 DTEND:20270513T190000Z
 SUMMARY:St. Louis Cardinals - Athletics
@@ -312,16 +703,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-los-angeles-angels-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-SUMMARY:ATHLETICS | MLB | J32 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:ATHLETICS | MLB | J41 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-los-angeles-angels-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270514T223800Z
 DTEND:20270515T002300Z
 SUMMARY:Los Angeles Angels - Athletics
@@ -330,16 +721,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-los-angeles-angels-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:ATHLETICS | MLB | J33 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:ATHLETICS | MLB | J42 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-los-angeles-angels-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270515T223800Z
 DTEND:20270516T002300Z
 SUMMARY:Los Angeles Angels - Athletics
@@ -348,16 +739,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-los-angeles-angels-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:ATHLETICS | MLB | J33 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:ATHLETICS | MLB | J42 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 22:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-los-angeles-angels-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270516T200700Z
 DTEND:20270516T215200Z
 SUMMARY:Los Angeles Angels - Athletics
@@ -365,17 +756,646 @@ DESCRIPTION:MLB
 LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270517-athletics-minnesota-twins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:ATHLETICS | MLB | J44 | 🏟️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270517-athletics-minnesota-twins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Athletics - Minnesota Twins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270518-athletics-minnesota-twins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:ATHLETICS | MLB | J45 | 🏟️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270518-athletics-minnesota-twins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Athletics - Minnesota Twins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270519-athletics-minnesota-twins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:ATHLETICS | MLB | J46 | 🏟️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270519-athletics-minnesota-twins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Athletics - Minnesota Twins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270520-athletics-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:ATHLETICS | MLB | J45 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270520-athletics-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Athletics - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270521-athletics-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:ATHLETICS | MLB | J47 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270521-athletics-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Athletics - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-athletics-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:ATHLETICS | MLB | J48 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-athletics-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Athletics - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-athletics-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:ATHLETICS | MLB | J49 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270523-athletics-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Athletics - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270524-seattle-mariners-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:ATHLETICS | MLB | J50 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270524-seattle-mariners-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Seattle Mariners - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-seattle-mariners-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:ATHLETICS | MLB | J51 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-seattle-mariners-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Seattle Mariners - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-seattle-mariners-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:ATHLETICS | MLB | J52 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-seattle-mariners-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Seattle Mariners - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270528-houston-astros-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:ATHLETICS | MLB | J52 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270528-houston-astros-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Houston Astros - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-houston-astros-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:ATHLETICS | MLB | J53 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-houston-astros-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Houston Astros - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270530-houston-astros-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:ATHLETICS | MLB | J54 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270530-houston-astros-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Houston Astros - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270531-athletics-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:ATHLETICS | MLB | J56 | 🏟️ | San Diego Padres 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270531-athletics-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Athletics - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-athletics-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:ATHLETICS | MLB | J57 | 🏟️ | San Diego Padres 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270601-athletics-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Athletics - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-athletics-san-diego-padres-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:ATHLETICS | MLB | J58 | 🏟️ | San Diego Padres 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270602-athletics-san-diego-padres@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Athletics - San Diego Padres · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270603-athletics-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:ATHLETICS | MLB | J59 | 🏟️ | Cincinnati Reds 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270603-athletics-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Athletics - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270604-athletics-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:ATHLETICS | MLB | J60 | 🏟️ | Cincinnati Reds 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270604-athletics-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Athletics - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-athletics-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:ATHLETICS | MLB | J61 | 🏟️ | Cincinnati Reds 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-athletics-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Athletics - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270607-athletics-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:ATHLETICS | MLB | J63 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270607-athletics-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Athletics - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-athletics-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:ATHLETICS | MLB | J64 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-athletics-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Athletics - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-athletics-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:ATHLETICS | MLB | J65 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-athletics-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Athletics - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270611-athletics-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:ATHLETICS | MLB | J66 | 🏟️ | Atlanta Braves 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270611-athletics-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Athletics - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-athletics-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:ATHLETICS | MLB | J67 | 🏟️ | Atlanta Braves 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270612-athletics-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Athletics - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-athletics-atlanta-braves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:ATHLETICS | MLB | J68 | 🏟️ | Atlanta Braves 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270613-athletics-atlanta-braves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Athletics - Atlanta Braves · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-boston-red-sox-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:ATHLETICS | MLB | J69 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270615-boston-red-sox-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Boston Red Sox - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270616-boston-red-sox-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:ATHLETICS | MLB | J70 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270616-boston-red-sox-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Boston Red Sox - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270617-boston-red-sox-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:ATHLETICS | MLB | J71 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270617-boston-red-sox-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Boston Red Sox - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270618-cleveland-guardians-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:ATHLETICS | MLB | J72 | ✈️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270618-cleveland-guardians-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Cleveland Guardians - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-cleveland-guardians-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:ATHLETICS | MLB | J73 | ✈️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-cleveland-guardians-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Cleveland Guardians - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270620-cleveland-guardians-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:ATHLETICS | MLB | J74 | ✈️ | Cleveland Guardians 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270620-cleveland-guardians-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Cleveland Guardians - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270621-athletics-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:ATHLETICS | MLB | J75 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270621-athletics-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Athletics - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270622-athletics-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:ATHLETICS | MLB | J76 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270622-athletics-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Athletics - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270623-athletics-boston-red-sox-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:ATHLETICS | MLB | J77 | 🏟️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270623-athletics-boston-red-sox@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Athletics - Boston Red Sox · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270625-athletics-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:ATHLETICS | MLB | J78 | 🏟️ | Arizona Diamondbacks 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270625-athletics-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Athletics - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-athletics-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:ATHLETICS | MLB | J79 | 🏟️ | Arizona Diamondbacks 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-athletics-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Athletics - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-athletics-arizona-diamondbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:ATHLETICS | MLB | J80 | 🏟️ | Arizona Diamondbacks 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270627-athletics-arizona-diamondbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Athletics - Arizona Diamondbacks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270630-baltimore-orioles-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:ATHLETICS | MLB | J65 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:ATHLETICS | MLB | J81 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270630-baltimore-orioles-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270629T223500Z
 DTEND:20270630T002000Z
 SUMMARY:Baltimore Orioles - Athletics
@@ -384,16 +1404,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-baltimore-orioles-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-SUMMARY:ATHLETICS | MLB | J66 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:ATHLETICS | MLB | J82 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-baltimore-orioles-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270630T223500Z
 DTEND:20270701T002000Z
 SUMMARY:Baltimore Orioles - Athletics
@@ -402,16 +1422,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-baltimore-orioles-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-SUMMARY:ATHLETICS | MLB | J66 | ✈️ | Baltimore Orioles 🇺🇸
+SUMMARY:ATHLETICS | MLB | J82 | ✈️ | Baltimore Orioles 🇺🇸
 DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-baltimore-orioles-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270701T163500Z
 DTEND:20270701T182000Z
 SUMMARY:Baltimore Orioles - Athletics
@@ -420,16 +1440,16 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-washington-nationals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
-SUMMARY:ATHLETICS | MLB | J60 | ✈️ | Washington Nationals 🇺🇸
+SUMMARY:ATHLETICS | MLB | J84 | ✈️ | Washington Nationals 🇺🇸
 DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-washington-nationals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270702T230500Z
 DTEND:20270703T005000Z
 SUMMARY:Washington Nationals - Athletics
@@ -438,16 +1458,16 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-washington-nationals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
-SUMMARY:ATHLETICS | MLB | J60 | ✈️ | Washington Nationals 🇺🇸
+SUMMARY:ATHLETICS | MLB | J84 | ✈️ | Washington Nationals 🇺🇸
 DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-washington-nationals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270703T200500Z
 DTEND:20270703T215000Z
 SUMMARY:Washington Nationals - Athletics
@@ -456,16 +1476,16 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-washington-nationals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-SUMMARY:ATHLETICS | MLB | J66 | ✈️ | Washington Nationals 🇺🇸
+SUMMARY:ATHLETICS | MLB | J86 | ✈️ | Washington Nationals 🇺🇸
 DESCRIPTION:Inici: 17:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-washington-nationals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270704T150500Z
 DTEND:20270704T165000Z
 SUMMARY:Washington Nationals - Athletics
@@ -473,17 +1493,238 @@ DESCRIPTION:MLB
 LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270705-athletics-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:ATHLETICS | MLB | J87 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270705-athletics-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Athletics - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270706-athletics-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:ATHLETICS | MLB | J88 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270706-athletics-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Athletics - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-athletics-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:ATHLETICS | MLB | J89 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270707-athletics-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Athletics - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-athletics-toronto-blue-jays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:ATHLETICS | MLB | J90 | 🏟️ | Toronto Blue Jays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270708-athletics-toronto-blue-jays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Athletics - Toronto Blue Jays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270709-athletics-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:ATHLETICS | MLB | J91 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270709-athletics-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Athletics - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270710-athletics-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:ATHLETICS | MLB | J92 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270710-athletics-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Athletics - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270711-athletics-texas-rangers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:ATHLETICS | MLB | J93 | 🏟️ | Texas Rangers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270711-athletics-texas-rangers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Athletics - Texas Rangers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270716-san-francisco-giants-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:ATHLETICS | MLB | J93 | ✈️ | San Francisco Giants 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270716-san-francisco-giants-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:San Francisco Giants - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-san-francisco-giants-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:ATHLETICS | MLB | J94 | ✈️ | San Francisco Giants 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270717-san-francisco-giants-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:San Francisco Giants - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-san-francisco-giants-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:ATHLETICS | MLB | J95 | ✈️ | San Francisco Giants 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270718-san-francisco-giants-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:San Francisco Giants - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270719-los-angeles-dodgers-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:ATHLETICS | MLB | J97 | ✈️ | Los Angeles Dodgers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270719-los-angeles-dodgers-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Los Angeles Dodgers - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-los-angeles-dodgers-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:ATHLETICS | MLB | J98 | ✈️ | Los Angeles Dodgers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-los-angeles-dodgers-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Los Angeles Dodgers - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-los-angeles-dodgers-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:ATHLETICS | MLB | J99 | ✈️ | Los Angeles Dodgers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-los-angeles-dodgers-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Los Angeles Dodgers - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270723-los-angeles-angels-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270724
-SUMMARY:ATHLETICS | MLB | J78 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:ATHLETICS | MLB | J100 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270723-los-angeles-angels-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270722T223800Z
 DTEND:20270723T002300Z
 SUMMARY:Los Angeles Angels - Athletics
@@ -492,16 +1733,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270724-los-angeles-angels-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
-SUMMARY:ATHLETICS | MLB | J77 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:ATHLETICS | MLB | J101 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270724-los-angeles-angels-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270723T223800Z
 DTEND:20270724T002300Z
 SUMMARY:Los Angeles Angels - Athletics
@@ -510,16 +1751,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-los-angeles-angels-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
-SUMMARY:ATHLETICS | MLB | J78 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:ATHLETICS | MLB | J102 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-los-angeles-angels-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270724T223800Z
 DTEND:20270725T002300Z
 SUMMARY:Los Angeles Angels - Athletics
@@ -528,16 +1769,16 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270726-los-angeles-angels-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
-SUMMARY:ATHLETICS | MLB | J78 | ✈️ | Los Angeles Angels 🇺🇸
+SUMMARY:ATHLETICS | MLB | J103 | ✈️ | Los Angeles Angels 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
  aheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270726-los-angeles-angels-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270725T230700Z
 DTEND:20270726T005200Z
 SUMMARY:Los Angeles Angels - Athletics
@@ -545,17 +1786,170 @@ DESCRIPTION:MLB
 LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270727-athletics-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:ATHLETICS | MLB | J104 | 🏟️ | Baltimore Orioles 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270727-athletics-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Athletics - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270728-athletics-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:ATHLETICS | MLB | J105 | 🏟️ | Baltimore Orioles 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270728-athletics-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Athletics - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270729-athletics-baltimore-orioles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:ATHLETICS | MLB | J106 | 🏟️ | Baltimore Orioles 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270729-athletics-baltimore-orioles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Athletics - Baltimore Orioles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270730-athletics-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:ATHLETICS | MLB | J107 | 🏟️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270730-athletics-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Athletics - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270731-athletics-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:ATHLETICS | MLB | J108 | 🏟️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270731-athletics-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Athletics - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270801-athletics-tampa-bay-rays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:ATHLETICS | MLB | J109 | 🏟️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270801-athletics-tampa-bay-rays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Athletics - Tampa Bay Rays · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270803-miami-marlins-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:ATHLETICS | MLB | J110 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270803-miami-marlins-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Miami Marlins - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270804-miami-marlins-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:ATHLETICS | MLB | J111 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270804-miami-marlins-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Miami Marlins - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270805-miami-marlins-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:ATHLETICS | MLB | J112 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270805-miami-marlins-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Miami Marlins - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270807-texas-rangers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-SUMMARY:ATHLETICS | MLB | J85 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J113 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-texas-rangers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270807T001000Z
 DTEND:20270807T015500Z
 SUMMARY:Texas Rangers - Athletics
@@ -564,16 +1958,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-texas-rangers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:ATHLETICS | MLB | J85 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J114 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-texas-rangers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270807T231000Z
 DTEND:20270808T005500Z
 SUMMARY:Texas Rangers - Athletics
@@ -582,16 +1976,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-texas-rangers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:ATHLETICS | MLB | J85 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J114 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-texas-rangers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270808T184000Z
 DTEND:20270808T202500Z
 SUMMARY:Texas Rangers - Athletics
@@ -599,17 +1993,119 @@ DESCRIPTION:MLB
 LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270810-athletics-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:ATHLETICS | MLB | J116 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270810-athletics-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Athletics - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270811-athletics-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:ATHLETICS | MLB | J117 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270811-athletics-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Athletics - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270812-athletics-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:ATHLETICS | MLB | J118 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270812-athletics-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Athletics - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270813-athletics-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:ATHLETICS | MLB | J119 | 🏟️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270813-athletics-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Athletics - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-athletics-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:ATHLETICS | MLB | J120 | 🏟️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270814-athletics-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Athletics - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-athletics-los-angeles-angels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:ATHLETICS | MLB | J121 | 🏟️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270815-athletics-los-angeles-angels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Athletics - Los Angeles Angels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270817-milwaukee-brewers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
-SUMMARY:ATHLETICS | MLB | J92 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J122 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270817-milwaukee-brewers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270816T234000Z
 DTEND:20270817T012500Z
 SUMMARY:Milwaukee Brewers - Athletics
@@ -618,16 +2114,16 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-milwaukee-brewers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
-SUMMARY:ATHLETICS | MLB | J93 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J123 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-milwaukee-brewers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270817T234000Z
 DTEND:20270818T012500Z
 SUMMARY:Milwaukee Brewers - Athletics
@@ -636,20 +2132,598 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-milwaukee-brewers-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
-SUMMARY:ATHLETICS | MLB | J93 | ✈️ | Milwaukee Brewers 🇺🇸
+SUMMARY:ATHLETICS | MLB | J123 | ✈️ | Milwaukee Brewers 🇺🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-milwaukee-brewers-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270818T191000Z
 DTEND:20270818T205500Z
 SUMMARY:Milwaukee Brewers - Athletics
 DESCRIPTION:MLB
 LOCATION:American Family Field\, Milwaukee\, Wisconsin
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270819-chicago-white-sox-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:ATHLETICS | MLB | J125 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270819-chicago-white-sox-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Chicago White Sox - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270820-chicago-white-sox-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:ATHLETICS | MLB | J126 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270820-chicago-white-sox-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Chicago White Sox - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270821-chicago-white-sox-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:ATHLETICS | MLB | J127 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270821-chicago-white-sox-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Chicago White Sox - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270822-chicago-white-sox-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:ATHLETICS | MLB | J128 | ✈️ | Chicago White Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270822-chicago-white-sox-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Chicago White Sox - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270824-athletics-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:ATHLETICS | MLB | J128 | 🏟️ | Philadelphia Phillies 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270824-athletics-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Athletics - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-athletics-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:ATHLETICS | MLB | J129 | 🏟️ | Philadelphia Phillies 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270825-athletics-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Athletics - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270826-athletics-philadelphia-phillies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:ATHLETICS | MLB | J130 | 🏟️ | Philadelphia Phillies 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270826-athletics-philadelphia-phillies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Athletics - Philadelphia Phillies · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-athletics-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:ATHLETICS | MLB | J132 | 🏟️ | San Francisco Giants 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270827-athletics-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Athletics - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-athletics-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:ATHLETICS | MLB | J133 | 🏟️ | San Francisco Giants 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270828-athletics-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Athletics - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-athletics-san-francisco-giants-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:ATHLETICS | MLB | J134 | 🏟️ | San Francisco Giants 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270829-athletics-san-francisco-giants@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Athletics - San Francisco Giants · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270830-seattle-mariners-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:ATHLETICS | MLB | J134 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270830-seattle-mariners-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Seattle Mariners - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270831-seattle-mariners-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:ATHLETICS | MLB | J134 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270831-seattle-mariners-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Seattle Mariners - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270901-seattle-mariners-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:ATHLETICS | MLB | J135 | ✈️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270901-seattle-mariners-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Seattle Mariners - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270903-houston-astros-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:ATHLETICS | MLB | J138 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270903-houston-astros-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Houston Astros - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270904-houston-astros-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:ATHLETICS | MLB | J139 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270904-houston-astros-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Houston Astros - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270905-houston-astros-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:ATHLETICS | MLB | J140 | ✈️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270905-houston-astros-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Houston Astros - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270906-athletics-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:ATHLETICS | MLB | J140 | 🏟️ | Kansas City Royals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270906-athletics-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Athletics - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270907-athletics-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:ATHLETICS | MLB | J141 | 🏟️ | Kansas City Royals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270907-athletics-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Athletics - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270908-athletics-kansas-city-royals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:ATHLETICS | MLB | J142 | 🏟️ | Kansas City Royals 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270908-athletics-kansas-city-royals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Athletics - Kansas City Royals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-athletics-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:ATHLETICS | MLB | J144 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270910-athletics-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Athletics - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-athletics-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:ATHLETICS | MLB | J145 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270911-athletics-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Athletics - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-athletics-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:ATHLETICS | MLB | J146 | 🏟️ | New York Yankees 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270912-athletics-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Athletics - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-tampa-bay-rays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:ATHLETICS | MLB | J147 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-tampa-bay-rays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Tampa Bay Rays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-tampa-bay-rays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:ATHLETICS | MLB | J148 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-tampa-bay-rays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Tampa Bay Rays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-tampa-bay-rays-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:ATHLETICS | MLB | J149 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-tampa-bay-rays-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Tampa Bay Rays - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-detroit-tigers-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:ATHLETICS | MLB | J150 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270917-detroit-tigers-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Detroit Tigers - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-detroit-tigers-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:ATHLETICS | MLB | J151 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270918-detroit-tigers-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Detroit Tigers - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-detroit-tigers-athletics-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:ATHLETICS | MLB | J152 | ✈️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270919-detroit-tigers-athletics@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Detroit Tigers - Athletics · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-athletics-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:ATHLETICS | MLB | J153 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270921-athletics-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Athletics - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-athletics-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:ATHLETICS | MLB | J154 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270922-athletics-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Athletics - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-athletics-houston-astros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:ATHLETICS | MLB | J155 | 🏟️ | Houston Astros 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270923-athletics-houston-astros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Athletics - Houston Astros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-athletics-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:ATHLETICS | MLB | J155 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270924-athletics-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Athletics - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-athletics-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:ATHLETICS | MLB | J157 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270925-athletics-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Athletics - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-athletics-seattle-mariners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:ATHLETICS | MLB | J158 | 🏟️ | Seattle Mariners 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270926-athletics-seattle-mariners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Athletics - Seattle Mariners · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
 END:VEVENT
 END:VCALENDAR

@@ -5,18 +5,52 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:St. Louis Cardinals · MLB
 BEGIN:VEVENT
+UID:mlb-20270330-chicago-cubs-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:ST. LOUIS CARDINALS | MLB | J1 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270330-chicago-cubs-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Chicago Cubs - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-chicago-cubs-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:ST. LOUIS CARDINALS | MLB | J2 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-chicago-cubs-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Chicago Cubs - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270401-st-louis-cardinals-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-SUMMARY:ST. LOUIS CARDINALS | MLB | J1 | 🏟️ | Kansas City Royals 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J3 | 🏟️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 22:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270401-st-louis-cardinals-kansas-city-royals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270401T201500Z
 DTEND:20270401T220000Z
 SUMMARY:St. Louis Cardinals - Kansas City Royals
@@ -25,17 +59,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-st-louis-cardinals-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
-SUMMARY:ST. LOUIS CARDINALS | MLB | J3 | 🏟️ | Kansas City Royals 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J4 | 🏟️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270403-st-louis-cardinals-kansas-city-royals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270403T181500Z
 DTEND:20270403T200000Z
 SUMMARY:St. Louis Cardinals - Kansas City Royals
@@ -44,17 +78,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-st-louis-cardinals-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-SUMMARY:ST. LOUIS CARDINALS | MLB | J4 | 🏟️ | Kansas City Royals 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J5 | 🏟️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-st-louis-cardinals-kansas-city-royals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270404T181500Z
 DTEND:20270404T200000Z
 SUMMARY:St. Louis Cardinals - Kansas City Royals
@@ -63,7 +97,7 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270406-st-louis-cardinals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:ST. LOUIS CARDINALS | MLB | J6 | 🏟️ | San Diego Padres 🇺
@@ -73,7 +107,7 @@ DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270406-st-louis-cardinals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270405T234500Z
 DTEND:20270406T013000Z
 SUMMARY:St. Louis Cardinals - San Diego Padres
@@ -82,7 +116,7 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-st-louis-cardinals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:ST. LOUIS CARDINALS | MLB | J7 | 🏟️ | San Diego Padres 🇺
@@ -92,7 +126,7 @@ DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-st-louis-cardinals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270406T234500Z
 DTEND:20270407T013000Z
 SUMMARY:St. Louis Cardinals - San Diego Padres
@@ -101,7 +135,7 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-st-louis-cardinals-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:ST. LOUIS CARDINALS | MLB | J7 | 🏟️ | San Diego Padres 🇺
@@ -111,7 +145,7 @@ DESCRIPTION:Inici: 19:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-st-louis-cardinals-san-diego-padres@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270407T171500Z
 DTEND:20270407T190000Z
 SUMMARY:St. Louis Cardinals - San Diego Padres
@@ -119,18 +153,72 @@ DESCRIPTION:MLB
 LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270409-san-francisco-giants-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:ST. LOUIS CARDINALS | MLB | J9 | ✈️ | San Francisco Giants 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270409-san-francisco-giants-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:San Francisco Giants - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-san-francisco-giants-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:ST. LOUIS CARDINALS | MLB | J10 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270410-san-francisco-giants-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:San Francisco Giants - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-san-francisco-giants-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:ST. LOUIS CARDINALS | MLB | J11 | ✈️ | San Francisco Giants 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270411-san-francisco-giants-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:San Francisco Giants - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270413-san-diego-padres-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
-SUMMARY:ST. LOUIS CARDINALS | MLB | J10 | ✈️ | San Diego Padres 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J12 | ✈️ | San Diego Padres 🇺
  🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270413-san-diego-padres-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270413T014000Z
 DTEND:20270413T032500Z
 SUMMARY:San Diego Padres - St. Louis Cardinals
@@ -139,16 +227,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270414-san-diego-padres-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
-SUMMARY:ST. LOUIS CARDINALS | MLB | J8 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J13 | ✈️ | San Diego Padres 🇺
+ 🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270414-san-diego-padres-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270414T014000Z
 DTEND:20270414T032500Z
 SUMMARY:San Diego Padres - St. Louis Cardinals
@@ -157,16 +246,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-diego-padres-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:ST. LOUIS CARDINALS | MLB | J9 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J14 | ✈️ | San Diego Padres 🇺
+ 🇸
 DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-diego-padres-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270415T014000Z
 DTEND:20270415T032500Z
 SUMMARY:San Diego Padres - St. Louis Cardinals
@@ -175,16 +265,17 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-diego-padres-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:ST. LOUIS CARDINALS | MLB | J9 | ✈️ | San Diego Padres 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J14 | ✈️ | San Diego Padres 🇺
+ 🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
  iego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-diego-padres-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270415T201000Z
 DTEND:20270415T215500Z
 SUMMARY:San Diego Padres - St. Louis Cardinals
@@ -193,16 +284,16 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-texas-rangers-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
-SUMMARY:ST. LOUIS CARDINALS | MLB | J11 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J16 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-texas-rangers-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270417T001000Z
 DTEND:20270417T015500Z
 SUMMARY:Texas Rangers - St. Louis Cardinals
@@ -211,16 +302,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-texas-rangers-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-SUMMARY:ST. LOUIS CARDINALS | MLB | J12 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J17 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-texas-rangers-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270417T231000Z
 DTEND:20270418T005500Z
 SUMMARY:Texas Rangers - St. Louis Cardinals
@@ -229,16 +320,16 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-texas-rangers-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-SUMMARY:ST. LOUIS CARDINALS | MLB | J12 | ✈️ | Texas Rangers 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J17 | ✈️ | Texas Rangers 🇺🇸
 DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
   Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-texas-rangers-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270418T184000Z
 DTEND:20270418T202500Z
 SUMMARY:Texas Rangers - St. Louis Cardinals
@@ -247,17 +338,17 @@ LOCATION:Globe Life Field\, Arlington\, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270420-st-louis-cardinals-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-SUMMARY:ST. LOUIS CARDINALS | MLB | J14 | 🏟️ | Minnesota Twins 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J19 | 🏟️ | Minnesota Twins 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270420-st-louis-cardinals-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270419T234500Z
 DTEND:20270420T013000Z
 SUMMARY:St. Louis Cardinals - Minnesota Twins
@@ -266,17 +357,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-st-louis-cardinals-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-SUMMARY:ST. LOUIS CARDINALS | MLB | J15 | 🏟️ | Minnesota Twins 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J20 | 🏟️ | Minnesota Twins 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-st-louis-cardinals-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270420T234500Z
 DTEND:20270421T013000Z
 SUMMARY:St. Louis Cardinals - Minnesota Twins
@@ -285,17 +376,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-st-louis-cardinals-minnesota-twins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-SUMMARY:ST. LOUIS CARDINALS | MLB | J15 | 🏟️ | Minnesota Twins 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J20 | 🏟️ | Minnesota Twins 🇺
  🇸
 DESCRIPTION:Inici: 19:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-st-louis-cardinals-minnesota-twins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270421T171500Z
 DTEND:20270421T190000Z
 SUMMARY:St. Louis Cardinals - Minnesota Twins
@@ -304,17 +395,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-st-louis-cardinals-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:ST. LOUIS CARDINALS | MLB | J16 | 🏟️ | Toronto Blue Jays 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J22 | 🏟️ | Toronto Blue Jays 🇺
  🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-st-louis-cardinals-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270424T001500Z
 DTEND:20270424T020000Z
 SUMMARY:St. Louis Cardinals - Toronto Blue Jays
@@ -323,17 +414,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-st-louis-cardinals-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-SUMMARY:ST. LOUIS CARDINALS | MLB | J16 | 🏟️ | Toronto Blue Jays 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J22 | 🏟️ | Toronto Blue Jays 🇺
  🇸
 DESCRIPTION:Inici: 22:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-st-louis-cardinals-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270424T201500Z
 DTEND:20270424T220000Z
 SUMMARY:St. Louis Cardinals - Toronto Blue Jays
@@ -342,17 +433,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-st-louis-cardinals-toronto-blue-jays-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-SUMMARY:ST. LOUIS CARDINALS | MLB | J17 | 🏟️ | Toronto Blue Jays 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J23 | 🏟️ | Toronto Blue Jays 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-st-louis-cardinals-toronto-blue-jays@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270425T181500Z
 DTEND:20270425T200000Z
 SUMMARY:St. Louis Cardinals - Toronto Blue Jays
@@ -361,16 +452,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270427-st-louis-cardinals-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
-SUMMARY:ST. LOUIS CARDINALS | MLB | J19 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J25 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270427-st-louis-cardinals-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270426T234500Z
 DTEND:20270427T013000Z
 SUMMARY:St. Louis Cardinals - Atlanta Braves
@@ -379,16 +470,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-st-louis-cardinals-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-SUMMARY:ST. LOUIS CARDINALS | MLB | J19 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J26 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-st-louis-cardinals-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270427T234500Z
 DTEND:20270428T013000Z
 SUMMARY:St. Louis Cardinals - Atlanta Braves
@@ -397,16 +488,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-st-louis-cardinals-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
-SUMMARY:ST. LOUIS CARDINALS | MLB | J19 | 🏟️ | Atlanta Braves 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J26 | 🏟️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 19:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-st-louis-cardinals-atlanta-braves@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270428T171500Z
 DTEND:20270428T190000Z
 SUMMARY:St. Louis Cardinals - Atlanta Braves
@@ -414,18 +505,123 @@ DESCRIPTION:MLB
 LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270430-boston-red-sox-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:ST. LOUIS CARDINALS | MLB | J28 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270430-boston-red-sox-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Boston Red Sox - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-boston-red-sox-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:ST. LOUIS CARDINALS | MLB | J29 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-boston-red-sox-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Boston Red Sox - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-boston-red-sox-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:ST. LOUIS CARDINALS | MLB | J30 | ✈️ | Boston Red Sox 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-boston-red-sox-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Boston Red Sox - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270503-chicago-white-sox-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:ST. LOUIS CARDINALS | MLB | J31 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270503-chicago-white-sox-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Chicago White Sox - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270504-chicago-white-sox-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:ST. LOUIS CARDINALS | MLB | J32 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270504-chicago-white-sox-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Chicago White Sox - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270505-chicago-white-sox-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:ST. LOUIS CARDINALS | MLB | J33 | ✈️ | Chicago White Sox 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270505-chicago-white-sox-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Chicago White Sox - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270507-st-louis-cardinals-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-SUMMARY:ST. LOUIS CARDINALS | MLB | J25 | 🏟️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J34 | 🏟️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-st-louis-cardinals-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270506T234500Z
 DTEND:20270507T013000Z
 SUMMARY:St. Louis Cardinals - Milwaukee Brewers
@@ -434,17 +630,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-st-louis-cardinals-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:ST. LOUIS CARDINALS | MLB | J24 | 🏟️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J35 | 🏟️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-st-louis-cardinals-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270508T001500Z
 DTEND:20270508T020000Z
 SUMMARY:St. Louis Cardinals - Milwaukee Brewers
@@ -453,17 +649,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-st-louis-cardinals-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:ST. LOUIS CARDINALS | MLB | J24 | 🏟️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J35 | 🏟️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-st-louis-cardinals-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270508T181500Z
 DTEND:20270508T200000Z
 SUMMARY:St. Louis Cardinals - Milwaukee Brewers
@@ -472,17 +668,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-st-louis-cardinals-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:ST. LOUIS CARDINALS | MLB | J28 | 🏟️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J37 | 🏟️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-st-louis-cardinals-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270509T181500Z
 DTEND:20270509T200000Z
 SUMMARY:St. Louis Cardinals - Milwaukee Brewers
@@ -491,16 +687,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-st-louis-cardinals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
-SUMMARY:ST. LOUIS CARDINALS | MLB | J29 | 🏟️ | Athletics 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J38 | 🏟️ | Athletics 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-st-louis-cardinals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270511T234500Z
 DTEND:20270512T013000Z
 SUMMARY:St. Louis Cardinals - Athletics
@@ -509,16 +705,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-st-louis-cardinals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:ST. LOUIS CARDINALS | MLB | J30 | 🏟️ | Athletics 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J39 | 🏟️ | Athletics 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-st-louis-cardinals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270512T234500Z
 DTEND:20270513T013000Z
 SUMMARY:St. Louis Cardinals - Athletics
@@ -527,16 +723,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-st-louis-cardinals-athletics-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:ST. LOUIS CARDINALS | MLB | J30 | 🏟️ | Athletics 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J39 | 🏟️ | Athletics 🇺🇸
 DESCRIPTION:Inici: 19:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-st-louis-cardinals-athletics@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270513T171500Z
 DTEND:20270513T190000Z
 SUMMARY:St. Louis Cardinals - Athletics
@@ -544,18 +740,69 @@ DESCRIPTION:MLB
 LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270514-tampa-bay-rays-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:ST. LOUIS CARDINALS | MLB | J41 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270514-tampa-bay-rays-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Tampa Bay Rays - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270515-tampa-bay-rays-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:ST. LOUIS CARDINALS | MLB | J42 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270515-tampa-bay-rays-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Tampa Bay Rays - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-tampa-bay-rays-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:ST. LOUIS CARDINALS | MLB | J43 | ✈️ | Tampa Bay Rays 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-tampa-bay-rays-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Tampa Bay Rays - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270519-baltimore-orioles-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-SUMMARY:ST. LOUIS CARDINALS | MLB | J36 | ✈️ | Baltimore Orioles 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J44 | ✈️ | Baltimore Orioles 🇺
  🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-baltimore-orioles-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270518T223500Z
 DTEND:20270519T002000Z
 SUMMARY:Baltimore Orioles - St. Louis Cardinals
@@ -564,17 +811,17 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-baltimore-orioles-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:ST. LOUIS CARDINALS | MLB | J34 | ✈️ | Baltimore Orioles 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J45 | ✈️ | Baltimore Orioles 🇺
  🇸
 DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-baltimore-orioles-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270519T223500Z
 DTEND:20270520T002000Z
 SUMMARY:Baltimore Orioles - St. Louis Cardinals
@@ -583,17 +830,17 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-baltimore-orioles-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:ST. LOUIS CARDINALS | MLB | J34 | ✈️ | Baltimore Orioles 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J45 | ✈️ | Baltimore Orioles 🇺
  🇸
 DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
  den Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-baltimore-orioles-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270520T163500Z
 DTEND:20270520T182000Z
 SUMMARY:Baltimore Orioles - St. Louis Cardinals
@@ -602,16 +849,33 @@ LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-st-louis-cardinals-detroit-tigers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
-SUMMARY:ST. LOUIS CARDINALS | MLB | J36 | 🏟️ | Detroit Tigers 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J48 | 🏟️ | Detroit Tigers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-st-louis-cardinals-detroit-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:St. Louis Cardinals - Detroit Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270522-st-louis-cardinals-detroit-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:ST. LOUIS CARDINALS | MLB | J48 | 🏟️ | Detroit Tigers 🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-st-louis-cardinals-detroit-tigers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270522T001500Z
 DTEND:20270522T020000Z
 SUMMARY:St. Louis Cardinals - Detroit Tigers
@@ -620,16 +884,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-st-louis-cardinals-detroit-tigers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-SUMMARY:ST. LOUIS CARDINALS | MLB | J37 | 🏟️ | Detroit Tigers 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J49 | 🏟️ | Detroit Tigers 🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-st-louis-cardinals-detroit-tigers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270523T181500Z
 DTEND:20270523T200000Z
 SUMMARY:St. Louis Cardinals - Detroit Tigers
@@ -637,17 +901,106 @@ DESCRIPTION:MLB
 LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270524-pittsburgh-pirates-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:ST. LOUIS CARDINALS | MLB | J50 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270524-pittsburgh-pirates-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Pittsburgh Pirates - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-pittsburgh-pirates-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:ST. LOUIS CARDINALS | MLB | J51 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270525-pittsburgh-pirates-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Pittsburgh Pirates - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-pittsburgh-pirates-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:ST. LOUIS CARDINALS | MLB | J52 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270526-pittsburgh-pirates-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Pittsburgh Pirates - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-pittsburgh-pirates-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:ST. LOUIS CARDINALS | MLB | J53 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270527-pittsburgh-pirates-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Pittsburgh Pirates - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270529-st-louis-cardinals-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-SUMMARY:ST. LOUIS CARDINALS | MLB | J42 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J53 | 🏟️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-st-louis-cardinals-chicago-cubs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:St. Louis Cardinals - Chicago Cubs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270529-st-louis-cardinals-chicago-cubs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:ST. LOUIS CARDINALS | MLB | J53 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-st-louis-cardinals-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270529T001500Z
 DTEND:20270529T020000Z
 SUMMARY:St. Louis Cardinals - Chicago Cubs
@@ -656,16 +1009,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-st-louis-cardinals-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-SUMMARY:ST. LOUIS CARDINALS | MLB | J38 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J54 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-st-louis-cardinals-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270530T181500Z
 DTEND:20270530T200000Z
 SUMMARY:St. Louis Cardinals - Chicago Cubs
@@ -674,17 +1027,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270531-st-louis-cardinals-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
-SUMMARY:ST. LOUIS CARDINALS | MLB | J44 | 🏟️ | Pittsburgh Pirates 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J57 | 🏟️ | Pittsburgh Pirates 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270531-st-louis-cardinals-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270531T181500Z
 DTEND:20270531T200000Z
 SUMMARY:St. Louis Cardinals - Pittsburgh Pirates
@@ -693,17 +1046,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-st-louis-cardinals-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
-SUMMARY:ST. LOUIS CARDINALS | MLB | J45 | 🏟️ | Pittsburgh Pirates 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J58 | 🏟️ | Pittsburgh Pirates 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-st-louis-cardinals-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270601T234500Z
 DTEND:20270602T013000Z
 SUMMARY:St. Louis Cardinals - Pittsburgh Pirates
@@ -712,17 +1065,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-st-louis-cardinals-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
-SUMMARY:ST. LOUIS CARDINALS | MLB | J45 | 🏟️ | Pittsburgh Pirates 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J58 | 🏟️ | Pittsburgh Pirates 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-st-louis-cardinals-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270602T181500Z
 DTEND:20270602T200000Z
 SUMMARY:St. Louis Cardinals - Pittsburgh Pirates
@@ -731,17 +1084,35 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-colorado-rockies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-SUMMARY:ST. LOUIS CARDINALS | MLB | J47 | ✈️ | Colorado Rockies 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J60 | ✈️ | Colorado Rockies 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-colorado-rockies-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Colorado Rockies - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270605-colorado-rockies-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:ST. LOUIS CARDINALS | MLB | J60 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-colorado-rockies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270605T004000Z
 DTEND:20270605T022500Z
 SUMMARY:Colorado Rockies - St. Louis Cardinals
@@ -750,17 +1121,17 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-colorado-rockies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
-SUMMARY:ST. LOUIS CARDINALS | MLB | J49 | ✈️ | Colorado Rockies 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J62 | ✈️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
  er\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-colorado-rockies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270606T191000Z
 DTEND:20270606T205500Z
 SUMMARY:Colorado Rockies - St. Louis Cardinals
@@ -768,18 +1139,72 @@ DESCRIPTION:MLB
 LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270607-seattle-mariners-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:ST. LOUIS CARDINALS | MLB | J63 | ✈️ | Seattle Mariners 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270607-seattle-mariners-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Seattle Mariners - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-seattle-mariners-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:ST. LOUIS CARDINALS | MLB | J64 | ✈️ | Seattle Mariners 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270608-seattle-mariners-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Seattle Mariners - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-seattle-mariners-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:ST. LOUIS CARDINALS | MLB | J65 | ✈️ | Seattle Mariners 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270609-seattle-mariners-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Seattle Mariners - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270612-milwaukee-brewers-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-SUMMARY:ST. LOUIS CARDINALS | MLB | J51 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J66 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-milwaukee-brewers-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270611T234000Z
 DTEND:20270612T012500Z
 SUMMARY:Milwaukee Brewers - St. Louis Cardinals
@@ -788,17 +1213,17 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-milwaukee-brewers-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
-SUMMARY:ST. LOUIS CARDINALS | MLB | J51 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J66 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-milwaukee-brewers-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270612T201000Z
 DTEND:20270612T215500Z
 SUMMARY:Milwaukee Brewers - St. Louis Cardinals
@@ -807,17 +1232,17 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-milwaukee-brewers-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
-SUMMARY:ST. LOUIS CARDINALS | MLB | J53 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J68 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-milwaukee-brewers-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270613T181000Z
 DTEND:20270613T195500Z
 SUMMARY:Milwaukee Brewers - St. Louis Cardinals
@@ -826,17 +1251,17 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270615-st-louis-cardinals-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
-SUMMARY:ST. LOUIS CARDINALS | MLB | J54 | 🏟️ | Washington Nationals 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J69 | 🏟️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270615-st-louis-cardinals-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270614T234500Z
 DTEND:20270615T013000Z
 SUMMARY:St. Louis Cardinals - Washington Nationals
@@ -845,17 +1270,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-st-louis-cardinals-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
-SUMMARY:ST. LOUIS CARDINALS | MLB | J53 | 🏟️ | Washington Nationals 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J70 | 🏟️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-st-louis-cardinals-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270615T234500Z
 DTEND:20270616T013000Z
 SUMMARY:St. Louis Cardinals - Washington Nationals
@@ -864,17 +1289,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-st-louis-cardinals-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-SUMMARY:ST. LOUIS CARDINALS | MLB | J56 | 🏟️ | Washington Nationals 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J71 | 🏟️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-st-louis-cardinals-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270616T234500Z
 DTEND:20270617T013000Z
 SUMMARY:St. Louis Cardinals - Washington Nationals
@@ -883,17 +1308,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-st-louis-cardinals-washington-nationals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-SUMMARY:ST. LOUIS CARDINALS | MLB | J56 | 🏟️ | Washington Nationals 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J71 | 🏟️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 23:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270617-st-louis-cardinals-washington-nationals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270617T211500Z
 DTEND:20270617T230000Z
 SUMMARY:St. Louis Cardinals - Washington Nationals
@@ -902,17 +1327,35 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-SUMMARY:ST. LOUIS CARDINALS | MLB | J56 | 🏟️ | Cincinnati Reds 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J73 | 🏟️ | Cincinnati Reds 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-st-louis-cardinals-cincinnati-reds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:St. Louis Cardinals - Cincinnati Reds · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270619-st-louis-cardinals-cincinnati-reds-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:ST. LOUIS CARDINALS | MLB | J73 | 🏟️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270619T001500Z
 DTEND:20270619T020000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -921,17 +1364,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-SUMMARY:ST. LOUIS CARDINALS | MLB | J58 | 🏟️ | Cincinnati Reds 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J74 | 🏟️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270620T181500Z
 DTEND:20270620T200000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -940,17 +1383,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-washington-nationals-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
-SUMMARY:ST. LOUIS CARDINALS | MLB | J60 | ✈️ | Washington Nationals 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J77 | ✈️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-washington-nationals-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270622T224500Z
 DTEND:20270623T003000Z
 SUMMARY:Washington Nationals - St. Louis Cardinals
@@ -959,17 +1402,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270624-washington-nationals-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
-SUMMARY:ST. LOUIS CARDINALS | MLB | J57 | ✈️ | Washington Nationals 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J78 | ✈️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270624-washington-nationals-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270623T224500Z
 DTEND:20270624T003000Z
 SUMMARY:Washington Nationals - St. Louis Cardinals
@@ -978,17 +1421,17 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270624-washington-nationals-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
-SUMMARY:ST. LOUIS CARDINALS | MLB | J57 | ✈️ | Washington Nationals 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J78 | ✈️ | Washington Nationals 
  🇺🇸
 DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
  ashington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270624-washington-nationals-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270624T170500Z
 DTEND:20270624T185000Z
 SUMMARY:Washington Nationals - St. Louis Cardinals
@@ -997,16 +1440,33 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270626-st-louis-cardinals-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
-SUMMARY:ST. LOUIS CARDINALS | MLB | J55 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J79 | 🏟️ | New York Mets 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-st-louis-cardinals-new-york-mets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:St. Louis Cardinals - New York Mets · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270626-st-louis-cardinals-new-york-mets-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:ST. LOUIS CARDINALS | MLB | J79 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270626-st-louis-cardinals-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270626T001500Z
 DTEND:20270626T020000Z
 SUMMARY:St. Louis Cardinals - New York Mets
@@ -1015,16 +1475,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-st-louis-cardinals-new-york-mets-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
-SUMMARY:ST. LOUIS CARDINALS | MLB | J61 | 🏟️ | New York Mets 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J80 | 🏟️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-st-louis-cardinals-new-york-mets@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270627T181500Z
 DTEND:20270627T200000Z
 SUMMARY:St. Louis Cardinals - New York Mets
@@ -1032,18 +1492,137 @@ DESCRIPTION:MLB
 LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270628-miami-marlins-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:ST. LOUIS CARDINALS | MLB | J81 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270628-miami-marlins-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Miami Marlins - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-miami-marlins-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:ST. LOUIS CARDINALS | MLB | J82 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270629-miami-marlins-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Miami Marlins - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-miami-marlins-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:ST. LOUIS CARDINALS | MLB | J83 | ✈️ | Miami Marlins 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-miami-marlins-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Miami Marlins - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-chicago-cubs-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:ST. LOUIS CARDINALS | MLB | J85 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-chicago-cubs-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Chicago Cubs - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270702-chicago-cubs-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:ST. LOUIS CARDINALS | MLB | J86 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270702-chicago-cubs-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Chicago Cubs - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270703-chicago-cubs-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:ST. LOUIS CARDINALS | MLB | J87 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270703-chicago-cubs-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Chicago Cubs - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270704-chicago-cubs-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:ST. LOUIS CARDINALS | MLB | J88 | ✈️ | Chicago Cubs 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270704-chicago-cubs-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Chicago Cubs - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270707-st-louis-cardinals-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
-SUMMARY:ST. LOUIS CARDINALS | MLB | J68 | 🏟️ | Arizona Diamondbacks 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J89 | 🏟️ | Arizona Diamondbacks 
  🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270707-st-louis-cardinals-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270706T234500Z
 DTEND:20270707T013000Z
 SUMMARY:St. Louis Cardinals - Arizona Diamondbacks
@@ -1052,17 +1631,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-st-louis-cardinals-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-SUMMARY:ST. LOUIS CARDINALS | MLB | J68 | 🏟️ | Arizona Diamondbacks 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J90 | 🏟️ | Arizona Diamondbacks 
  🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-st-louis-cardinals-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270707T234500Z
 DTEND:20270708T013000Z
 SUMMARY:St. Louis Cardinals - Arizona Diamondbacks
@@ -1071,17 +1650,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270709-st-louis-cardinals-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
-SUMMARY:ST. LOUIS CARDINALS | MLB | J66 | 🏟️ | Arizona Diamondbacks 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J91 | 🏟️ | Arizona Diamondbacks 
  🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270709-st-louis-cardinals-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270708T234500Z
 DTEND:20270709T013000Z
 SUMMARY:St. Louis Cardinals - Arizona Diamondbacks
@@ -1090,17 +1669,35 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-st-louis-cardinals-new-york-yankees-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
-SUMMARY:ST. LOUIS CARDINALS | MLB | J63 | 🏟️ | New York Yankees 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J92 | 🏟️ | New York Yankees 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270710-st-louis-cardinals-new-york-yankees@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:St. Louis Cardinals - New York Yankees · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270710-st-louis-cardinals-new-york-yankees-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:ST. LOUIS CARDINALS | MLB | J92 | 🏟️ | New York Yankees 🇺
  🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-st-louis-cardinals-new-york-yankees@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270710T001500Z
 DTEND:20270710T020000Z
 SUMMARY:St. Louis Cardinals - New York Yankees
@@ -1109,17 +1706,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-st-louis-cardinals-new-york-yankees-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:ST. LOUIS CARDINALS | MLB | J68 | 🏟️ | New York Yankees 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J94 | 🏟️ | New York Yankees 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-st-louis-cardinals-new-york-yankees@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270711T181500Z
 DTEND:20270711T200000Z
 SUMMARY:St. Louis Cardinals - New York Yankees
@@ -1128,17 +1725,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-kansas-city-royals-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
-SUMMARY:ST. LOUIS CARDINALS | MLB | J62 | ✈️ | Kansas City Royals 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J94 | ✈️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-kansas-city-royals-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270717T001000Z
 DTEND:20270717T015500Z
 SUMMARY:Kansas City Royals - St. Louis Cardinals
@@ -1147,17 +1744,17 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-kansas-city-royals-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-SUMMARY:ST. LOUIS CARDINALS | MLB | J63 | ✈️ | Kansas City Royals 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J95 | ✈️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-kansas-city-royals-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270717T231000Z
 DTEND:20270718T005500Z
 SUMMARY:Kansas City Royals - St. Louis Cardinals
@@ -1166,17 +1763,17 @@ LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-kansas-city-royals-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-SUMMARY:ST. LOUIS CARDINALS | MLB | J63 | ✈️ | Kansas City Royals 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J95 | ✈️ | Kansas City Royals 🇺
  🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
   Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-kansas-city-royals-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270718T181000Z
 DTEND:20270718T195500Z
 SUMMARY:Kansas City Royals - St. Louis Cardinals
@@ -1184,18 +1781,72 @@ DESCRIPTION:MLB
 LOCATION:Kauffman Stadium\, Kansas City\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270719-arizona-diamondbacks-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:ST. LOUIS CARDINALS | MLB | J97 | ✈️ | Arizona Diamondbacks 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270719-arizona-diamondbacks-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Arizona Diamondbacks - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-arizona-diamondbacks-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:ST. LOUIS CARDINALS | MLB | J98 | ✈️ | Arizona Diamondbacks 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270720-arizona-diamondbacks-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Arizona Diamondbacks - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-arizona-diamondbacks-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:ST. LOUIS CARDINALS | MLB | J99 | ✈️ | Arizona Diamondbacks 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270721-arizona-diamondbacks-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Arizona Diamondbacks - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270724-st-louis-cardinals-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
-SUMMARY:ST. LOUIS CARDINALS | MLB | J77 | 🏟️ | Los Angeles Dodgers 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J101 | 🏟️ | Los Angeles Dodgers 
  🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270724-st-louis-cardinals-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270724T001500Z
 DTEND:20270724T020000Z
 SUMMARY:St. Louis Cardinals - Los Angeles Dodgers
@@ -1204,17 +1855,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-st-louis-cardinals-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
-SUMMARY:ST. LOUIS CARDINALS | MLB | J78 | 🏟️ | Los Angeles Dodgers 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J102 | 🏟️ | Los Angeles Dodgers 
  🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-st-louis-cardinals-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270724T231500Z
 DTEND:20270725T010000Z
 SUMMARY:St. Louis Cardinals - Los Angeles Dodgers
@@ -1223,17 +1874,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-st-louis-cardinals-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
-SUMMARY:ST. LOUIS CARDINALS | MLB | J78 | 🏟️ | Los Angeles Dodgers 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J102 | 🏟️ | Los Angeles Dodgers 
  🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-st-louis-cardinals-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270725T181500Z
 DTEND:20270725T200000Z
 SUMMARY:St. Louis Cardinals - Los Angeles Dodgers
@@ -1242,17 +1893,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270727-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
-SUMMARY:ST. LOUIS CARDINALS | MLB | J79 | 🏟️ | Cincinnati Reds 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J104 | 🏟️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270727-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270726T234500Z
 DTEND:20270727T013000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -1261,17 +1912,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
-SUMMARY:ST. LOUIS CARDINALS | MLB | J80 | 🏟️ | Cincinnati Reds 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J105 | 🏟️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270727T234500Z
 DTEND:20270728T013000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -1280,17 +1931,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-SUMMARY:ST. LOUIS CARDINALS | MLB | J81 | 🏟️ | Cincinnati Reds 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J106 | 🏟️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270728T234500Z
 DTEND:20270729T013000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -1299,17 +1950,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-st-louis-cardinals-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-SUMMARY:ST. LOUIS CARDINALS | MLB | J81 | 🏟️ | Cincinnati Reds 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J106 | 🏟️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-st-louis-cardinals-cincinnati-reds@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270729T181500Z
 DTEND:20270729T200000Z
 SUMMARY:St. Louis Cardinals - Cincinnati Reds
@@ -1318,16 +1969,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-atlanta-braves-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
-SUMMARY:ST. LOUIS CARDINALS | MLB | J82 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J108 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-atlanta-braves-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270730T231500Z
 DTEND:20270731T010000Z
 SUMMARY:Atlanta Braves - St. Louis Cardinals
@@ -1336,16 +1987,16 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-atlanta-braves-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-SUMMARY:ST. LOUIS CARDINALS | MLB | J82 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J109 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-atlanta-braves-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270731T231500Z
 DTEND:20270801T010000Z
 SUMMARY:Atlanta Braves - St. Louis Cardinals
@@ -1354,16 +2005,16 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-atlanta-braves-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
-SUMMARY:ST. LOUIS CARDINALS | MLB | J82 | ✈️ | Atlanta Braves 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J109 | ✈️ | Atlanta Braves 🇺🇸
 DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
  nta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-atlanta-braves-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270801T173500Z
 DTEND:20270801T192000Z
 SUMMARY:Atlanta Braves - St. Louis Cardinals
@@ -1372,17 +2023,17 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-philadelphia-phillies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
-SUMMARY:ST. LOUIS CARDINALS | MLB | J83 | ✈️ | Philadelphia Phillies 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J110 | ✈️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-philadelphia-phillies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270802T224000Z
 DTEND:20270803T002500Z
 SUMMARY:Philadelphia Phillies - St. Louis Cardinals
@@ -1391,17 +2042,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-philadelphia-phillies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-SUMMARY:ST. LOUIS CARDINALS | MLB | J84 | ✈️ | Philadelphia Phillies 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J111 | ✈️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-philadelphia-phillies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270803T224000Z
 DTEND:20270804T002500Z
 SUMMARY:Philadelphia Phillies - St. Louis Cardinals
@@ -1410,17 +2061,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-philadelphia-phillies-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
-SUMMARY:ST. LOUIS CARDINALS | MLB | J85 | ✈️ | Philadelphia Phillies 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J112 | ✈️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
  \, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270805-philadelphia-phillies-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270804T220500Z
 DTEND:20270804T235000Z
 SUMMARY:Philadelphia Phillies - St. Louis Cardinals
@@ -1429,17 +2080,17 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-st-louis-cardinals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-SUMMARY:ST. LOUIS CARDINALS | MLB | J85 | 🏟️ | Colorado Rockies 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J114 | 🏟️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-st-louis-cardinals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270807T001500Z
 DTEND:20270807T020000Z
 SUMMARY:St. Louis Cardinals - Colorado Rockies
@@ -1448,17 +2099,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-st-louis-cardinals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:ST. LOUIS CARDINALS | MLB | J85 | 🏟️ | Colorado Rockies 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J115 | 🏟️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-st-louis-cardinals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270807T231500Z
 DTEND:20270808T010000Z
 SUMMARY:St. Louis Cardinals - Colorado Rockies
@@ -1467,17 +2118,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-st-louis-cardinals-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
-SUMMARY:ST. LOUIS CARDINALS | MLB | J85 | 🏟️ | Colorado Rockies 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J115 | 🏟️ | Colorado Rockies 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-st-louis-cardinals-colorado-rockies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270808T181500Z
 DTEND:20270808T200000Z
 SUMMARY:St. Louis Cardinals - Colorado Rockies
@@ -1486,16 +2137,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-st-louis-cardinals-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
-SUMMARY:ST. LOUIS CARDINALS | MLB | J85 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J116 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-st-louis-cardinals-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270809T234500Z
 DTEND:20270810T013000Z
 SUMMARY:St. Louis Cardinals - Chicago Cubs
@@ -1504,16 +2155,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-st-louis-cardinals-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-SUMMARY:ST. LOUIS CARDINALS | MLB | J86 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J117 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-st-louis-cardinals-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270810T234500Z
 DTEND:20270811T013000Z
 SUMMARY:St. Louis Cardinals - Chicago Cubs
@@ -1522,16 +2173,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-st-louis-cardinals-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
-SUMMARY:ST. LOUIS CARDINALS | MLB | J86 | 🏟️ | Chicago Cubs 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J117 | 🏟️ | Chicago Cubs 🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-st-louis-cardinals-chicago-cubs@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270811T181500Z
 DTEND:20270811T200000Z
 SUMMARY:St. Louis Cardinals - Chicago Cubs
@@ -1540,16 +2191,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-new-york-mets-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
-SUMMARY:ST. LOUIS CARDINALS | MLB | J89 | ✈️ | New York Mets 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J120 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-new-york-mets-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270813T231000Z
 DTEND:20270814T005500Z
 SUMMARY:New York Mets - St. Louis Cardinals
@@ -1558,16 +2209,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-new-york-mets-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
-SUMMARY:ST. LOUIS CARDINALS | MLB | J89 | ✈️ | New York Mets 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J120 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-new-york-mets-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270814T201000Z
 DTEND:20270814T215500Z
 SUMMARY:New York Mets - St. Louis Cardinals
@@ -1576,16 +2227,16 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-new-york-mets-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-SUMMARY:ST. LOUIS CARDINALS | MLB | J90 | ✈️ | New York Mets 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J121 | ✈️ | New York Mets 🇺🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
  s\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-new-york-mets-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270815T174000Z
 DTEND:20270815T192500Z
 SUMMARY:New York Mets - St. Louis Cardinals
@@ -1593,18 +2244,72 @@ DESCRIPTION:MLB
 LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270816-cleveland-guardians-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:ST. LOUIS CARDINALS | MLB | J121 | ✈️ | Cleveland Guardians 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270816-cleveland-guardians-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Cleveland Guardians - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-cleveland-guardians-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:ST. LOUIS CARDINALS | MLB | J122 | ✈️ | Cleveland Guardians 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-cleveland-guardians-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Cleveland Guardians - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-cleveland-guardians-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:ST. LOUIS CARDINALS | MLB | J123 | ✈️ | Cleveland Guardians 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-cleveland-guardians-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Cleveland Guardians - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270821-st-louis-cardinals-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
-SUMMARY:ST. LOUIS CARDINALS | MLB | J89 | 🏟️ | Los Angeles Angels 🇺
- 🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J127 | 🏟️ | Los Angeles Angels 
+ 🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-st-louis-cardinals-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270821T001500Z
 DTEND:20270821T020000Z
 SUMMARY:St. Louis Cardinals - Los Angeles Angels
@@ -1613,17 +2318,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-st-louis-cardinals-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:ST. LOUIS CARDINALS | MLB | J90 | 🏟️ | Los Angeles Angels 🇺
- 🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J128 | 🏟️ | Los Angeles Angels 
+ 🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-st-louis-cardinals-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270821T231500Z
 DTEND:20270822T010000Z
 SUMMARY:St. Louis Cardinals - Los Angeles Angels
@@ -1632,17 +2337,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-st-louis-cardinals-los-angeles-angels-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:ST. LOUIS CARDINALS | MLB | J90 | 🏟️ | Los Angeles Angels 🇺
- 🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J128 | 🏟️ | Los Angeles Angels 
+ 🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-st-louis-cardinals-los-angeles-angels@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270822T181500Z
 DTEND:20270822T200000Z
 SUMMARY:St. Louis Cardinals - Los Angeles Angels
@@ -1651,16 +2356,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270824-st-louis-cardinals-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
-SUMMARY:ST. LOUIS CARDINALS | MLB | J92 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J128 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270824-st-louis-cardinals-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270823T234500Z
 DTEND:20270824T013000Z
 SUMMARY:St. Louis Cardinals - Miami Marlins
@@ -1669,16 +2374,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-st-louis-cardinals-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
-SUMMARY:ST. LOUIS CARDINALS | MLB | J93 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J129 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-st-louis-cardinals-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270824T234500Z
 DTEND:20270825T013000Z
 SUMMARY:St. Louis Cardinals - Miami Marlins
@@ -1687,16 +2392,16 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270826-st-louis-cardinals-miami-marlins-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270826
 DTEND;VALUE=DATE:20270827
-SUMMARY:ST. LOUIS CARDINALS | MLB | J97 | 🏟️ | Miami Marlins 🇺🇸
+SUMMARY:ST. LOUIS CARDINALS | MLB | J130 | 🏟️ | Miami Marlins 🇺🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270826-st-louis-cardinals-miami-marlins@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270825T234500Z
 DTEND:20270826T013000Z
 SUMMARY:St. Louis Cardinals - Miami Marlins
@@ -1705,17 +2410,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-milwaukee-brewers-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
-SUMMARY:ST. LOUIS CARDINALS | MLB | J97 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J132 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-milwaukee-brewers-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270827T234000Z
 DTEND:20270828T012500Z
 SUMMARY:Milwaukee Brewers - St. Louis Cardinals
@@ -1724,17 +2429,17 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-milwaukee-brewers-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
-SUMMARY:ST. LOUIS CARDINALS | MLB | J97 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J132 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-milwaukee-brewers-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270828T201000Z
 DTEND:20270828T215500Z
 SUMMARY:Milwaukee Brewers - St. Louis Cardinals
@@ -1743,17 +2448,17 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270829-milwaukee-brewers-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
-SUMMARY:ST. LOUIS CARDINALS | MLB | J97 | ✈️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J134 | ✈️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
  eld\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270829-milwaukee-brewers-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270829T181000Z
 DTEND:20270829T195500Z
 SUMMARY:Milwaukee Brewers - St. Louis Cardinals
@@ -1761,18 +2466,72 @@ DESCRIPTION:MLB
 LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270830-los-angeles-dodgers-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:ST. LOUIS CARDINALS | MLB | J134 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270830-los-angeles-dodgers-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Los Angeles Dodgers - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270831-los-angeles-dodgers-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:ST. LOUIS CARDINALS | MLB | J134 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270831-los-angeles-dodgers-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Los Angeles Dodgers - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270901-los-angeles-dodgers-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:ST. LOUIS CARDINALS | MLB | J135 | ✈️ | Los Angeles Dodgers 
+ 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270901-los-angeles-dodgers-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Los Angeles Dodgers - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270904-st-louis-cardinals-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-SUMMARY:ST. LOUIS CARDINALS | MLB | J100 | 🏟️ | San Francisco Giants 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J138 | 🏟️ | San Francisco Giants 
  🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-st-louis-cardinals-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270904T001500Z
 DTEND:20270904T020000Z
 SUMMARY:St. Louis Cardinals - San Francisco Giants
@@ -1781,17 +2540,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-st-louis-cardinals-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:ST. LOUIS CARDINALS | MLB | J101 | 🏟️ | San Francisco Giants 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J139 | 🏟️ | San Francisco Giants 
  🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-st-louis-cardinals-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270904T231500Z
 DTEND:20270905T010000Z
 SUMMARY:St. Louis Cardinals - San Francisco Giants
@@ -1800,17 +2559,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-st-louis-cardinals-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
-SUMMARY:ST. LOUIS CARDINALS | MLB | J101 | 🏟️ | San Francisco Giants 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J139 | 🏟️ | San Francisco Giants 
  🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-st-louis-cardinals-san-francisco-giants@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270905T181500Z
 DTEND:20270905T200000Z
 SUMMARY:St. Louis Cardinals - San Francisco Giants
@@ -1819,17 +2578,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-st-louis-cardinals-houston-astros-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
-SUMMARY:ST. LOUIS CARDINALS | MLB | J103 | 🏟️ | Houston Astros 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J140 | 🏟️ | Houston Astros 🇺
  🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-st-louis-cardinals-houston-astros@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270906T181500Z
 DTEND:20270906T200000Z
 SUMMARY:St. Louis Cardinals - Houston Astros
@@ -1838,17 +2597,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-st-louis-cardinals-houston-astros-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-SUMMARY:ST. LOUIS CARDINALS | MLB | J104 | 🏟️ | Houston Astros 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J142 | 🏟️ | Houston Astros 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-st-louis-cardinals-houston-astros@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270907T234500Z
 DTEND:20270908T013000Z
 SUMMARY:St. Louis Cardinals - Houston Astros
@@ -1857,17 +2616,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-st-louis-cardinals-houston-astros-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-SUMMARY:ST. LOUIS CARDINALS | MLB | J104 | 🏟️ | Houston Astros 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J142 | 🏟️ | Houston Astros 🇺
  🇸
 DESCRIPTION:Inici: 19:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-st-louis-cardinals-houston-astros@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270908T171500Z
 DTEND:20270908T190000Z
 SUMMARY:St. Louis Cardinals - Houston Astros
@@ -1876,17 +2635,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270911-st-louis-cardinals-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
-SUMMARY:ST. LOUIS CARDINALS | MLB | J109 | 🏟️ | Philadelphia Phillies 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J144 | 🏟️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270911-st-louis-cardinals-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270911T001500Z
 DTEND:20270911T020000Z
 SUMMARY:St. Louis Cardinals - Philadelphia Phillies
@@ -1895,17 +2654,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-st-louis-cardinals-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
-SUMMARY:ST. LOUIS CARDINALS | MLB | J110 | 🏟️ | Philadelphia Phillies 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J145 | 🏟️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-st-louis-cardinals-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270911T231500Z
 DTEND:20270912T010000Z
 SUMMARY:St. Louis Cardinals - Philadelphia Phillies
@@ -1914,17 +2673,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-st-louis-cardinals-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
-SUMMARY:ST. LOUIS CARDINALS | MLB | J110 | 🏟️ | Philadelphia Phillies 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J145 | 🏟️ | Philadelphia Phillies 
  🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-st-louis-cardinals-philadelphia-phillies@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270912T181500Z
 DTEND:20270912T200000Z
 SUMMARY:St. Louis Cardinals - Philadelphia Phillies
@@ -1932,18 +2691,72 @@ DESCRIPTION:MLB
 LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
+UID:mlb-20270914-pittsburgh-pirates-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:ST. LOUIS CARDINALS | MLB | J147 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270914-pittsburgh-pirates-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Pittsburgh Pirates - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-pittsburgh-pirates-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:ST. LOUIS CARDINALS | MLB | J148 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270915-pittsburgh-pirates-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Pittsburgh Pirates - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-pittsburgh-pirates-st-louis-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:ST. LOUIS CARDINALS | MLB | J149 | ✈️ | Pittsburgh Pirates 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · MLB
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270916-pittsburgh-pirates-st-louis-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Pittsburgh Pirates - St. Louis Cardinals · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · MLB
+END:VEVENT
+BEGIN:VEVENT
 UID:mlb-20270918-cincinnati-reds-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-SUMMARY:ST. LOUIS CARDINALS | MLB | J112 | ✈️ | Cincinnati Reds 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J150 | ✈️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270918-cincinnati-reds-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270917T224000Z
 DTEND:20270918T002500Z
 SUMMARY:Cincinnati Reds - St. Louis Cardinals
@@ -1952,17 +2765,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-cincinnati-reds-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-SUMMARY:ST. LOUIS CARDINALS | MLB | J112 | ✈️ | Cincinnati Reds 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J151 | ✈️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-cincinnati-reds-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270918T224000Z
 DTEND:20270919T002500Z
 SUMMARY:Cincinnati Reds - St. Louis Cardinals
@@ -1971,17 +2784,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-cincinnati-reds-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-SUMMARY:ST. LOUIS CARDINALS | MLB | J112 | ✈️ | Cincinnati Reds 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J151 | ✈️ | Cincinnati Reds 🇺
  🇸
 DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
  l Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-cincinnati-reds-st-louis-cardinals@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270919T174000Z
 DTEND:20270919T192500Z
 SUMMARY:Cincinnati Reds - St. Louis Cardinals
@@ -1990,17 +2803,17 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270921-st-louis-cardinals-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270921
 DTEND;VALUE=DATE:20270922
-SUMMARY:ST. LOUIS CARDINALS | MLB | J113 | 🏟️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J153 | 🏟️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270921-st-louis-cardinals-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270920T234500Z
 DTEND:20270921T013000Z
 SUMMARY:St. Louis Cardinals - Milwaukee Brewers
@@ -2009,17 +2822,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-st-louis-cardinals-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
-SUMMARY:ST. LOUIS CARDINALS | MLB | J113 | 🏟️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J154 | 🏟️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-st-louis-cardinals-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270921T234500Z
 DTEND:20270922T013000Z
 SUMMARY:St. Louis Cardinals - Milwaukee Brewers
@@ -2028,17 +2841,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-st-louis-cardinals-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
-SUMMARY:ST. LOUIS CARDINALS | MLB | J113 | 🏟️ | Milwaukee Brewers 🇺
+SUMMARY:ST. LOUIS CARDINALS | MLB | J154 | 🏟️ | Milwaukee Brewers 🇺
  🇸
 DESCRIPTION:Inici: 19:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-st-louis-cardinals-milwaukee-brewers@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270922T171500Z
 DTEND:20270922T190000Z
 SUMMARY:St. Louis Cardinals - Milwaukee Brewers
@@ -2047,17 +2860,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270925-st-louis-cardinals-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
-SUMMARY:ST. LOUIS CARDINALS | MLB | J116 | 🏟️ | Pittsburgh Pirates 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J156 | 🏟️ | Pittsburgh Pirates 
  🇺🇸
 DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270925-st-louis-cardinals-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270925T001500Z
 DTEND:20270925T020000Z
 SUMMARY:St. Louis Cardinals - Pittsburgh Pirates
@@ -2066,17 +2879,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-st-louis-cardinals-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
-SUMMARY:ST. LOUIS CARDINALS | MLB | J117 | 🏟️ | Pittsburgh Pirates 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J157 | 🏟️ | Pittsburgh Pirates 
  🇺🇸
 DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-st-louis-cardinals-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270925T231500Z
 DTEND:20270926T010000Z
 SUMMARY:St. Louis Cardinals - Pittsburgh Pirates
@@ -2085,17 +2898,17 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-st-louis-cardinals-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
-SUMMARY:ST. LOUIS CARDINALS | MLB | J117 | 🏟️ | Pittsburgh Pirates 
+SUMMARY:ST. LOUIS CARDINALS | MLB | J157 | 🏟️ | Pittsburgh Pirates 
  🇺🇸
 DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
  . Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-st-louis-cardinals-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T084818Z
+DTSTAMP:20261113T094351Z
 DTSTART:20270926T181500Z
 DTEND:20270926T200000Z
 SUMMARY:St. Louis Cardinals - Pittsburgh Pirates

@@ -1,0 +1,469 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Princeton Tigers · NCAA W
+BEGIN:VEVENT
+UID:ncaaw-20261114-pepperdine-waves-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:PRINCETON TIGERS | NCAA W | J1 | ✈️ | Pepperdine Waves 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Firestone Fieldhouse\, Malibu\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261114-pepperdine-waves-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T020000Z
+DTEND:20261114T034500Z
+SUMMARY:Pepperdine Waves - Princeton Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Firestone Fieldhouse\, Malibu\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261116-ucla-bruins-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:PRINCETON TIGERS | NCAA W | J1 | ✈️ | UCLA Bruins 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Pauley Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261116-ucla-bruins-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261115T230000Z
+DTEND:20261116T004500Z
+SUMMARY:UCLA Bruins - Princeton Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Pauley Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261119-princeton-tigers-george-mason-patriots-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:PRINCETON TIGERS | NCAA W | J2 | 🏟️ | George Mason Patriots 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261119-princeton-tigers-george-mason-patriots@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T000000Z
+DTEND:20261119T014500Z
+SUMMARY:Princeton Tigers - George Mason Patriots
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261122-princeton-tigers-georgia-tech-yellow-jackets-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:PRINCETON TIGERS | NCAA W | J5 | 🏟️ | Georgia Tech Yellow Jack
+ ets 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261122-princeton-tigers-georgia-tech-yellow-jackets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261122T180000Z
+DTEND:20261122T194500Z
+SUMMARY:Princeton Tigers - Georgia Tech Yellow Jackets
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261125-princeton-tigers-rutgers-scarlet-knights-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:PRINCETON TIGERS | NCAA W | J4 | 🏟️ | Rutgers Scarlet Knights 
+ 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261125-princeton-tigers-rutgers-scarlet-knights@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261125T170000Z
+DTEND:20261125T184500Z
+SUMMARY:Princeton Tigers - Rutgers Scarlet Knights
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261203-seton-hall-pirates-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:PRINCETON TIGERS | NCAA W | J6 | ✈️ | Seton Hall Pirates 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Walsh Gymnasium\, South Orange\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261203-seton-hall-pirates-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261203T000000Z
+DTEND:20261203T014500Z
+SUMMARY:Seton Hall Pirates - Princeton Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Walsh Gymnasium\, South Orange\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261205-rice-owls-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:PRINCETON TIGERS | NCAA W | J8 | ✈️ | Rice Owls 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Tudor Fieldhouse\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261205-rice-owls-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T210000Z
+DTEND:20261205T224500Z
+SUMMARY:Rice Owls - Princeton Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Tudor Fieldhouse\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261208-houston-christian-huskies-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:PRINCETON TIGERS | NCAA W | J7 | ✈️ | Houston Christian Huskies
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Sharp Gymnasium\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261208-houston-christian-huskies-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261208T000000Z
+DTEND:20261208T014500Z
+SUMMARY:Houston Christian Huskies - Princeton Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Sharp Gymnasium\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261210-princeton-tigers-rhode-island-rams-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:PRINCETON TIGERS | NCAA W | J7 | 🏟️ | Rhode Island Rams 🇺
+ 🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261210-princeton-tigers-rhode-island-rams@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261210T160000Z
+DTEND:20261210T174500Z
+SUMMARY:Princeton Tigers - Rhode Island Rams
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261213-princeton-tigers-portland-pilots-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:PRINCETON TIGERS | NCAA W | J8 | 🏟️ | Portland Pilots 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261213-princeton-tigers-portland-pilots@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261213T180000Z
+DTEND:20261213T194500Z
+SUMMARY:Princeton Tigers - Portland Pilots
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270101-princeton-tigers-oregon-state-beavers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:PRINCETON TIGERS | NCAA W | J13 | 🏟️ | Oregon State Beavers 
+ 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270101-princeton-tigers-oregon-state-beavers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270101T180000Z
+DTEND:20270101T194500Z
+SUMMARY:Princeton Tigers - Oregon State Beavers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270106-princeton-tigers-pennsylvania-quakers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:PRINCETON TIGERS | NCAA W | J11 | 🏟️ | Pennsylvania Quakers 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270106-princeton-tigers-pennsylvania-quakers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270105T230000Z
+DTEND:20270106T004500Z
+SUMMARY:Princeton Tigers - Pennsylvania Quakers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270109-princeton-tigers-yale-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:PRINCETON TIGERS | NCAA W | J15 | 🏟️ | Yale Bulldogs 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270109-princeton-tigers-yale-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Princeton Tigers - Yale Bulldogs
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270116-harvard-crimson-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:PRINCETON TIGERS | NCAA W | J14 | ✈️ | Harvard Crimson 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Lavietes Pavilion\, Cambridge\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270116-harvard-crimson-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Harvard Crimson - Princeton Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Lavietes Pavilion\, Cambridge\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270119-dartmouth-big-green-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:PRINCETON TIGERS | NCAA W | J15 | ✈️ | Dartmouth Big Green 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Leede Arena\, Hanover\, NH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270119-dartmouth-big-green-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270118T230000Z
+DTEND:20270119T004500Z
+SUMMARY:Dartmouth Big Green - Princeton Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Leede Arena\, Hanover\, NH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270123-princeton-tigers-brown-bears-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:PRINCETON TIGERS | NCAA W | J16 | 🏟️ | Brown Bears 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270123-princeton-tigers-brown-bears@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Princeton Tigers - Brown Bears
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270129-cornell-big-red-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:PRINCETON TIGERS | NCAA W | J19 | ✈️ | Cornell Big Red 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270129-cornell-big-red-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Cornell Big Red - Princeton Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270130-columbia-lions-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:PRINCETON TIGERS | NCAA W | J18 | ✈️ | Columbia Lions 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270130-columbia-lions-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Columbia Lions - Princeton Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I Women
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270206-pennsylvania-quakers-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:PRINCETON TIGERS | NCAA W | J21 | ✈️ | Pennsylvania Quakers 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ The Palestra\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270206-pennsylvania-quakers-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:Pennsylvania Quakers - Princeton Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:The Palestra\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-princeton-tigers-cornell-big-red-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:PRINCETON TIGERS | NCAA W | J21 | 🏟️ | Cornell Big Red 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-princeton-tigers-cornell-big-red@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Princeton Tigers - Cornell Big Red
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-princeton-tigers-columbia-lions-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:PRINCETON TIGERS | NCAA W | J20 | 🏟️ | Columbia Lions 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-princeton-tigers-columbia-lions@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T220000Z
+DTEND:20270213T234500Z
+SUMMARY:Princeton Tigers - Columbia Lions
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270220-brown-bears-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:PRINCETON TIGERS | NCAA W | J22 | ✈️ | Brown Bears 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Pizzitola Sports Center\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270220-brown-bears-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:Brown Bears - Princeton Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Pizzitola Sports Center\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-princeton-tigers-harvard-crimson-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:PRINCETON TIGERS | NCAA W | J27 | 🏟️ | Harvard Crimson 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-princeton-tigers-harvard-crimson@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Princeton Tigers - Harvard Crimson
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-princeton-tigers-dartmouth-big-green-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:PRINCETON TIGERS | NCAA W | J23 | 🏟️ | Dartmouth Big Green 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-princeton-tigers-dartmouth-big-green@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T220000Z
+DTEND:20270227T234500Z
+SUMMARY:Princeton Tigers - Dartmouth Big Green
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270306-princeton-tigers-yale-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:PRINCETON TIGERS | NCAA W | J26 | 🏟️ | Yale Bulldogs 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270306-princeton-tigers-yale-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Princeton Tigers - Yale Bulldogs
+DESCRIPTION:NCAA Division I Women
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+END:VCALENDAR

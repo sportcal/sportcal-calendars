@@ -1,0 +1,537 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UConn Huskies · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261114-uconn-huskies-ohio-state-buckeyes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:UCONN HUSKIES | NCAA | J1 | 🏟️ | Ohio State Buckeyes 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: People
+ sBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261114-uconn-huskies-ohio-state-buckeyes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T003000Z
+DTEND:20261114T021500Z
+SUMMARY:UConn Huskies - Ohio State Buckeyes
+DESCRIPTION:NCAA Division I
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-arizona-wildcats-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:UCONN HUSKIES | NCAA | J2 | ✈️ | Arizona Wildcats 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: McKale
+  Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-arizona-wildcats-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T020000Z
+DTEND:20261119T034500Z
+SUMMARY:Arizona Wildcats - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261126-duke-blue-devils-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:UCONN HUSKIES | NCAA | J59 | ✈️ | Duke Blue Devils 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: T-Mobi
+ le Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261126-duke-blue-devils-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261126T000000Z
+DTEND:20261126T014500Z
+SUMMARY:Duke Blue Devils - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261201-uconn-huskies-rider-broncs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:UCONN HUSKIES | NCAA | J5 | 🏟️ | Rider Broncs 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261201-uconn-huskies-rider-broncs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261130T233000Z
+DTEND:20261201T011500Z
+SUMMARY:UConn Huskies - Rider Broncs
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-illinois-fighting-illini-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:UCONN HUSKIES | NCAA | J111 | ✈️ | Illinois Fighting Illini 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: United
+  Center\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-illinois-fighting-illini-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T000000Z
+DTEND:20261205T014500Z
+SUMMARY:Illinois Fighting Illini - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:United Center\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-uconn-huskies-mississippi-valley-state-delta-devils-dia@
+ sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:UCONN HUSKIES | NCAA | J6 | 🏟️ | Mississippi Valley State Delt
+ a Devils 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-uconn-huskies-mississippi-valley-state-delta-devils@spor
+ tcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261209T000000Z
+DTEND:20261209T014500Z
+SUMMARY:UConn Huskies - Mississippi Valley State Delta Devils
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261213-uconn-huskies-kansas-jayhawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:UCONN HUSKIES | NCAA | J9 | 🏟️ | Kansas Jayhawks 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261213-uconn-huskies-kansas-jayhawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261213T010000Z
+DTEND:20261213T024500Z
+SUMMARY:UConn Huskies - Kansas Jayhawks
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-uconn-huskies-delaware-state-hornets-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:UCONN HUSKIES | NCAA | J9 | 🏟️ | Delaware State Hornets 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: People
+ sBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-uconn-huskies-delaware-state-hornets@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261216T000000Z
+DTEND:20261216T014500Z
+SUMMARY:UConn Huskies - Delaware State Hornets
+DESCRIPTION:NCAA Division I
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-virginia-cavaliers-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:UCONN HUSKIES | NCAA | J9 | ✈️ | Virginia Cavaliers 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: Madiso
+ n Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-virginia-cavaliers-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261220T200000Z
+DTEND:20261220T214500Z
+SUMMARY:Virginia Cavaliers - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Madison Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-uconn-huskies-georgetown-hoyas-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:UCONN HUSKIES | NCAA | J10 | 🏟️ | Georgetown Hoyas 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: People
+ sBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-uconn-huskies-georgetown-hoyas@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261223T200000Z
+DTEND:20261223T214500Z
+SUMMARY:UConn Huskies - Georgetown Hoyas
+DESCRIPTION:NCAA Division I
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270101-butler-bulldogs-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:UCONN HUSKIES | NCAA | J12 | ✈️ | Butler Bulldogs 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hinkle
+  Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270101-butler-bulldogs-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270101T000000Z
+DTEND:20270101T014500Z
+SUMMARY:Butler Bulldogs - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-creighton-bluejays-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:UCONN HUSKIES | NCAA | J12 | ✈️ | Creighton Bluejays 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: CHI He
+ alth Center Omaha\, Omaha\, NE
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-creighton-bluejays-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270103T190000Z
+DTEND:20270103T204500Z
+SUMMARY:Creighton Bluejays - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:CHI Health Center Omaha\, Omaha\, NE
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-uconn-huskies-depaul-blue-demons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:UCONN HUSKIES | NCAA | J13 | 🏟️ | DePaul Blue Demons 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-uconn-huskies-depaul-blue-demons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270106T233000Z
+DTEND:20270107T011500Z
+SUMMARY:UConn Huskies - DePaul Blue Demons
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-seton-hall-pirates-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:UCONN HUSKIES | NCAA | J14 | ✈️ | Seton Hall Pirates 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Pruden
+ tial Center\, Newark\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270110-seton-hall-pirates-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270110T000000Z
+DTEND:20270110T014500Z
+SUMMARY:Seton Hall Pirates - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Prudential Center\, Newark\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-uconn-huskies-marquette-golden-eagles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:UCONN HUSKIES | NCAA | J15 | 🏟️ | Marquette Golden Eagles 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-uconn-huskies-marquette-golden-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270113T000000Z
+DTEND:20270113T014500Z
+SUMMARY:UConn Huskies - Marquette Golden Eagles
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-uconn-huskies-xavier-musketeers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:UCONN HUSKIES | NCAA | J14 | 🏟️ | Xavier Musketeers 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-uconn-huskies-xavier-musketeers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:UConn Huskies - Xavier Musketeers
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-providence-friars-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:UCONN HUSKIES | NCAA | J18 | ✈️ | Providence Friars 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Amica 
+ Mutual Pavilion\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-providence-friars-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270121T000000Z
+DTEND:20270121T014500Z
+SUMMARY:Providence Friars - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Amica Mutual Pavilion\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-uconn-huskies-butler-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:UCONN HUSKIES | NCAA | J18 | 🏟️ | Butler Bulldogs 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: People
+ sBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-uconn-huskies-butler-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:UConn Huskies - Butler Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-georgetown-hoyas-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:UCONN HUSKIES | NCAA | J19 | ✈️ | Georgetown Hoyas 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Capita
+ l One Arena\, Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-georgetown-hoyas-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270127T010000Z
+DTEND:20270127T024500Z
+SUMMARY:Georgetown Hoyas - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Capital One Arena\, Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-st-john-s-red-storm-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:UCONN HUSKIES | NCAA | J20 | ✈️ | St. John's Red Storm 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Madiso
+ n Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-st-john-s-red-storm-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T010000Z
+DTEND:20270130T024500Z
+SUMMARY:St. John's Red Storm - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Madison Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270204-uconn-huskies-villanova-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:UCONN HUSKIES | NCAA | J22 | 🏟️ | Villanova Wildcats 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: People
+ sBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270204-uconn-huskies-villanova-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270204T000000Z
+DTEND:20270204T014500Z
+SUMMARY:UConn Huskies - Villanova Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-uconn-huskies-creighton-bluejays-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:UCONN HUSKIES | NCAA | J21 | 🏟️ | Creighton Bluejays 🇺🇸
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: People
+ sBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-uconn-huskies-creighton-bluejays@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270207T213000Z
+DTEND:20270207T231500Z
+SUMMARY:UConn Huskies - Creighton Bluejays
+DESCRIPTION:NCAA Division I
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270211-depaul-blue-demons-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:UCONN HUSKIES | NCAA | J21 | ✈️ | DePaul Blue Demons 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: Wintru
+ st Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270211-depaul-blue-demons-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270211T013000Z
+DTEND:20270211T031500Z
+SUMMARY:DePaul Blue Demons - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Wintrust Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-villanova-wildcats-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:UCONN HUSKIES | NCAA | J21 | ✈️ | Villanova Wildcats 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Xfinit
+ y Mobile Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-villanova-wildcats-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270214T170000Z
+DTEND:20270214T184500Z
+SUMMARY:Villanova Wildcats - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270218-uconn-huskies-seton-hall-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:UCONN HUSKIES | NCAA | J24 | 🏟️ | Seton Hall Pirates 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270218-uconn-huskies-seton-hall-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270218T010000Z
+DTEND:20270218T024500Z
+SUMMARY:UConn Huskies - Seton Hall Pirates
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-marquette-golden-eagles-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:UCONN HUSKIES | NCAA | J25 | ✈️ | Marquette Golden Eagles 🇺
+ 🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · NCAA Division I\nEstadi: Fiserv
+  Forum\, Milwaukee\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-marquette-golden-eagles-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T193000Z
+DTEND:20270220T211500Z
+SUMMARY:Marquette Golden Eagles - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-uconn-huskies-providence-friars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:UCONN HUSKIES | NCAA | J29 | 🏟️ | Providence Friars 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: M&T Ba
+ nk Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-uconn-huskies-providence-friars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270228T010000Z
+DTEND:20270228T024500Z
+SUMMARY:UConn Huskies - Providence Friars
+DESCRIPTION:NCAA Division I
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-uconn-huskies-st-john-s-red-storm-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:UCONN HUSKIES | NCAA | J28 | 🏟️ | St. John's Red Storm 🇺
+ 🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: People
+ sBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-uconn-huskies-st-john-s-red-storm@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270303T003000Z
+DTEND:20270303T021500Z
+SUMMARY:UConn Huskies - St. John's Red Storm
+DESCRIPTION:NCAA Division I
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-xavier-musketeers-uconn-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:UCONN HUSKIES | NCAA | J29 | ✈️ | Xavier Musketeers 🇺🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · NCAA Division I\nEstadi: Cintas
+  Center\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-xavier-musketeers-uconn-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270306T193000Z
+DTEND:20270306T211500Z
+SUMMARY:Xavier Musketeers - UConn Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Cintas Center\, Cincinnati\, OH
+END:VEVENT
+END:VCALENDAR

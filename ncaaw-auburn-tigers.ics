@@ -1,0 +1,525 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Auburn Tigers · NCAA W
+BEGIN:VEVENT
+UID:ncaaw-20261114-texas-tech-lady-raiders-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:AUBURN TIGERS | NCAA W | J1 | ✈️ | Texas Tech Lady Raiders 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ United Supermarkets Arena\, Lubbock\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261114-texas-tech-lady-raiders-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T000000Z
+DTEND:20261114T014500Z
+SUMMARY:Texas Tech Lady Raiders - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:United Supermarkets Arena\, Lubbock\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261118-auburn-tigers-seton-hall-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:AUBURN TIGERS | NCAA W | J2 | 🏟️ | Seton Hall Pirates 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261118-auburn-tigers-seton-hall-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261118T000000Z
+DTEND:20261118T014500Z
+SUMMARY:Auburn Tigers - Seton Hall Pirates
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261121-auburn-tigers-middle-tennessee-blue-raiders-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:AUBURN TIGERS | NCAA W | J3 | 🏟️ | Middle Tennessee Blue Raide
+ rs 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261121-auburn-tigers-middle-tennessee-blue-raiders@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Auburn Tigers - Middle Tennessee Blue Raiders
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261125-auburn-tigers-wisconsin-badgers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:AUBURN TIGERS | NCAA W | J4 | 🏟️ | Wisconsin Badgers 🇺🇸
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261125-auburn-tigers-wisconsin-badgers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261125T183000Z
+DTEND:20261125T201500Z
+SUMMARY:Auburn Tigers - Wisconsin Badgers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261126-southern-jaguars-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:AUBURN TIGERS | NCAA W | J5 | ✈️ | Southern Jaguars 🇺🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261126-southern-jaguars-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261126T160000Z
+DTEND:20261126T174500Z
+SUMMARY:Southern Jaguars - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261127-syracuse-orange-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:AUBURN TIGERS | NCAA W | J4 | ✈️ | Syracuse Orange 🇺🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261127-syracuse-orange-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261127T160000Z
+DTEND:20261127T174500Z
+SUMMARY:Syracuse Orange - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261203-auburn-tigers-stanford-cardinal-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:AUBURN TIGERS | NCAA W | J6 | 🏟️ | Stanford Cardinal 🇺🇸
+DESCRIPTION:Inici: 01:15 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261203-auburn-tigers-stanford-cardinal@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261203T001500Z
+DTEND:20261203T020000Z
+SUMMARY:Auburn Tigers - Stanford Cardinal
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261207-auburn-tigers-wake-forest-demon-deacons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:AUBURN TIGERS | NCAA W | J6 | 🏟️ | Wake Forest Demon Deacons 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261207-auburn-tigers-wake-forest-demon-deacons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261207T000000Z
+DTEND:20261207T014500Z
+SUMMARY:Auburn Tigers - Wake Forest Demon Deacons
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261217-auburn-tigers-jackson-state-lady-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:AUBURN TIGERS | NCAA W | J9 | 🏟️ | Jackson State Lady Tigers 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261217-auburn-tigers-jackson-state-lady-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261217T220000Z
+DTEND:20261217T234500Z
+SUMMARY:Auburn Tigers - Jackson State Lady Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-south-florida-bulls-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:AUBURN TIGERS | NCAA W | J63 | ✈️ | South Florida Bulls 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Harrah's Cherokee Center\, Asheville\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-south-florida-bulls-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261221T020000Z
+DTEND:20261221T034500Z
+SUMMARY:South Florida Bulls - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Harrah's Cherokee Center\, Asheville\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-tulsa-golden-hurricane-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:AUBURN TIGERS | NCAA W | J10 | ✈️ | Tulsa Golden Hurricane 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Harrah's Cherokee Resort\, Cherokee\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-tulsa-golden-hurricane-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261221T210000Z
+DTEND:20261221T224500Z
+SUMMARY:Tulsa Golden Hurricane - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Harrah's Cherokee Resort\, Cherokee\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261229-auburn-tigers-south-alabama-jaguars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:AUBURN TIGERS | NCAA W | J10 | 🏟️ | South Alabama Jaguars 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261229-auburn-tigers-south-alabama-jaguars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261229T000000Z
+DTEND:20261229T014500Z
+SUMMARY:Auburn Tigers - South Alabama Jaguars
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270101-auburn-tigers-lsu-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:AUBURN TIGERS | NCAA W | J13 | 🏟️ | LSU Tigers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270101-auburn-tigers-lsu-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270101T000000Z
+DTEND:20270101T014500Z
+SUMMARY:Auburn Tigers - LSU Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270103-kentucky-wildcats-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:AUBURN TIGERS | NCAA W | J13 | ✈️ | Kentucky Wildcats 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Memorial Coliseum (KY)\, Lexington\, KY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270103-kentucky-wildcats-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270103T170000Z
+DTEND:20270103T184500Z
+SUMMARY:Kentucky Wildcats - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270108-auburn-tigers-vanderbilt-commodores-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:AUBURN TIGERS | NCAA W | J14 | 🏟️ | Vanderbilt Commodores 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270108-auburn-tigers-vanderbilt-commodores@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270108T000000Z
+DTEND:20270108T014500Z
+SUMMARY:Auburn Tigers - Vanderbilt Commodores
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270110-georgia-lady-bulldogs-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:AUBURN TIGERS | NCAA W | J14 | ✈️ | Georgia Lady Bulldogs 🇺
+ 🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Stegeman Coliseum\, Athens\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270110-georgia-lady-bulldogs-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270110T170000Z
+DTEND:20270110T184500Z
+SUMMARY:Georgia Lady Bulldogs - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Stegeman Coliseum\, Athens\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270115-florida-gators-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:AUBURN TIGERS | NCAA W | J15 | ✈️ | Florida Gators 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Thomas Hill Arena\, Gainesville\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270115-florida-gators-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270114T230000Z
+DTEND:20270115T004500Z
+SUMMARY:Florida Gators - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Thomas Hill Arena\, Gainesville\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270122-auburn-tigers-ole-miss-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:AUBURN TIGERS | NCAA W | J17 | 🏟️ | Ole Miss Rebels 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270122-auburn-tigers-ole-miss-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270122T000000Z
+DTEND:20270122T014500Z
+SUMMARY:Auburn Tigers - Ole Miss Rebels
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270124-auburn-tigers-texas-a-m-aggies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:AUBURN TIGERS | NCAA W | J17 | 🏟️ | Texas A&M Aggies 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270124-auburn-tigers-texas-a-m-aggies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270124T200000Z
+DTEND:20270124T214500Z
+SUMMARY:Auburn Tigers - Texas A&M Aggies
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270129-lsu-tigers-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:AUBURN TIGERS | NCAA W | J20 | ✈️ | LSU Tigers 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Pete Maravich Assembly Center\, Baton Rouge\, LA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270129-lsu-tigers-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270129T010000Z
+DTEND:20270129T024500Z
+SUMMARY:LSU Tigers - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270131-auburn-tigers-arkansas-razorbacks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:AUBURN TIGERS | NCAA W | J20 | 🏟️ | Arkansas Razorbacks 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270131-auburn-tigers-arkansas-razorbacks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270131T210000Z
+DTEND:20270131T224500Z
+SUMMARY:Auburn Tigers - Arkansas Razorbacks
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270205-auburn-tigers-texas-longhorns-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:AUBURN TIGERS | NCAA W | J20 | 🏟️ | Texas Longhorns 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270205-auburn-tigers-texas-longhorns@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270205T000000Z
+DTEND:20270205T014500Z
+SUMMARY:Auburn Tigers - Texas Longhorns
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270208-alabama-crimson-tide-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:AUBURN TIGERS | NCAA W | J21 | ✈️ | Alabama Crimson Tide 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Coleman Coliseum\, Tuscaloosa\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270208-alabama-crimson-tide-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270207T230000Z
+DTEND:20270208T004500Z
+SUMMARY:Alabama Crimson Tide - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270212-tennessee-lady-volunteers-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:AUBURN TIGERS | NCAA W | J21 | ✈️ | Tennessee Lady Volunteers 
+ 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Food City Center\, Knoxville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270212-tennessee-lady-volunteers-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270211T233000Z
+DTEND:20270212T011500Z
+SUMMARY:Tennessee Lady Volunteers - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Food City Center\, Knoxville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270216-auburn-tigers-mississippi-state-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:AUBURN TIGERS | NCAA W | J2 | 🏟️ | Mississippi State Bulldogs 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270216-auburn-tigers-mississippi-state-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270216T010000Z
+DTEND:20270216T024500Z
+SUMMARY:Auburn Tigers - Mississippi State Bulldogs
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270221-oklahoma-sooners-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:AUBURN TIGERS | NCAA W | J26 | ✈️ | Oklahoma Sooners 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Lloyd Noble Center\, Norman\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270221-oklahoma-sooners-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270221T200000Z
+DTEND:20270221T214500Z
+SUMMARY:Oklahoma Sooners - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Lloyd Noble Center\, Norman\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270226-south-carolina-gamecocks-auburn-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:AUBURN TIGERS | NCAA W | J27 | ✈️ | South Carolina Gamecocks 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Colonial Life Arena\, Columbia\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270226-south-carolina-gamecocks-auburn-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270226T000000Z
+DTEND:20270226T014500Z
+SUMMARY:South Carolina Gamecocks - Auburn Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Colonial Life Arena\, Columbia\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270228-auburn-tigers-missouri-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:AUBURN TIGERS | NCAA W | J29 | 🏟️ | Missouri Tigers 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Neville Arena\, Auburn\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270228-auburn-tigers-missouri-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270228T210000Z
+DTEND:20270228T224500Z
+SUMMARY:Auburn Tigers - Missouri Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Neville Arena\, Auburn\, AL
+END:VEVENT
+END:VCALENDAR

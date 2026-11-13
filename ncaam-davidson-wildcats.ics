@@ -1,0 +1,552 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Davidson Wildcats · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261115-davidson-wildcats-howard-bison-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:DAVIDSON WILDCATS | NCAA | J1 | 🏟️ | Howard Bison 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261115-davidson-wildcats-howard-bison@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261115T000000Z
+DTEND:20261115T014500Z
+SUMMARY:Davidson Wildcats - Howard Bison
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261118-davidson-wildcats-charlotte-49ers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:DAVIDSON WILDCATS | NCAA | J2 | 🏟️ | Charlotte 49ers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261118-davidson-wildcats-charlotte-49ers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261118T000000Z
+DTEND:20261118T014500Z
+SUMMARY:Davidson Wildcats - Charlotte 49ers
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261123-davidson-wildcats-northern-iowa-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:DAVIDSON WILDCATS | NCAA | J27 | 🏟️ | Northern Iowa Panthers 
+ 🇺🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · NCAA Division I\nEstadi: Suncoa
+ st Credit Union Arena\, Fort Myers\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261123-davidson-wildcats-northern-iowa-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261123T160000Z
+DTEND:20261123T174500Z
+SUMMARY:Davidson Wildcats - Northern Iowa Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261125-davidson-wildcats-tulane-green-wave-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:DAVIDSON WILDCATS | NCAA | J4 | 🏟️ | Tulane Green Wave 🇺
+ 🇸
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · NCAA Division I\nEstadi: Suncoa
+ st Credit Union Arena\, Fort Myers\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261125-davidson-wildcats-tulane-green-wave@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261125T183000Z
+DTEND:20261125T201500Z
+SUMMARY:Davidson Wildcats - Tulane Green Wave
+DESCRIPTION:NCAA Division I
+LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261129-florida-atlantic-owls-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:DAVIDSON WILDCATS | NCAA | J5 | ✈️ | Florida Atlantic Owls 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Abessi
+ nio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261129-florida-atlantic-owls-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261129T190000Z
+DTEND:20261129T204500Z
+SUMMARY:Florida Atlantic Owls - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-davidson-wildcats-dartmouth-big-green-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:DAVIDSON WILDCATS | NCAA | J4 | 🏟️ | Dartmouth Big Green 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-davidson-wildcats-dartmouth-big-green@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261203T000000Z
+DTEND:20261203T014500Z
+SUMMARY:Davidson Wildcats - Dartmouth Big Green
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-charleston-cougars-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:DAVIDSON WILDCATS | NCAA | J6 | ✈️ | Charleston Cougars 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: TD Are
+ na\, Charleston\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-charleston-cougars-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261206T190000Z
+DTEND:20261206T204500Z
+SUMMARY:Charleston Cougars - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:TD Arena\, Charleston\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-davidson-wildcats-campbell-fighting-camels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:DAVIDSON WILDCATS | NCAA | J8 | 🏟️ | Campbell Fighting Camels 
+ 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-davidson-wildcats-campbell-fighting-camels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261210T003000Z
+DTEND:20261210T021500Z
+SUMMARY:Davidson Wildcats - Campbell Fighting Camels
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-davidson-wildcats-south-carolina-upstate-spartans-dia@sp
+ ortcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:DAVIDSON WILDCATS | NCAA | J9 | 🏟️ | South Carolina Upstate Sp
+ artans 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-davidson-wildcats-south-carolina-upstate-spartans@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART:20261212T210000Z
+DTEND:20261212T224500Z
+SUMMARY:Davidson Wildcats - South Carolina Upstate Spartans
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-davidson-wildcats-drake-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:DAVIDSON WILDCATS | NCAA | J9 | 🏟️ | Drake Bulldogs 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: T-Mobi
+ le Center\, Kansas City\, MO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-davidson-wildcats-drake-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T000000Z
+DTEND:20261219T014500Z
+SUMMARY:Davidson Wildcats - Drake Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:T-Mobile Center\, Kansas City\, MO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-davidson-wildcats-ut-martin-skyhawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:DAVIDSON WILDCATS | NCAA | J11 | 🏟️ | UT Martin Skyhawks 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-davidson-wildcats-ut-martin-skyhawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261222T190000Z
+DTEND:20261222T204500Z
+SUMMARY:Davidson Wildcats - UT Martin Skyhawks
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-duquesne-dukes-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:DAVIDSON WILDCATS | NCAA | J12 | ✈️ | Duquesne Dukes 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-duquesne-dukes-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261231T000000Z
+DTEND:20261231T014500Z
+SUMMARY:Duquesne Dukes - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-davidson-wildcats-dayton-flyers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:DAVIDSON WILDCATS | NCAA | J13 | 🏟️ | Dayton Flyers 🇺🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270102-davidson-wildcats-dayton-flyers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270102T193000Z
+DTEND:20270102T211500Z
+SUMMARY:Davidson Wildcats - Dayton Flyers
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-vcu-rams-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:DAVIDSON WILDCATS | NCAA | J14 | ✈️ | VCU Rams 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Siegel
+  Center\, Richmond\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-vcu-rams-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270106T230000Z
+DTEND:20270107T004500Z
+SUMMARY:VCU Rams - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Siegel Center\, Richmond\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-davidson-wildcats-richmond-spiders-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:DAVIDSON WILDCATS | NCAA | J13 | 🏟️ | Richmond Spiders 🇺
+ 🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-davidson-wildcats-richmond-spiders@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T193000Z
+DTEND:20270109T211500Z
+SUMMARY:Davidson Wildcats - Richmond Spiders
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-loyola-chicago-ramblers-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:DAVIDSON WILDCATS | NCAA | J14 | ✈️ | Loyola Chicago Ramblers 
+ 🇺🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · NCAA Division I\nEstadi: Gentil
+ e Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-loyola-chicago-ramblers-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T193000Z
+DTEND:20270116T211500Z
+SUMMARY:Loyola Chicago Ramblers - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Gentile Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-davidson-wildcats-fordham-rams-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:DAVIDSON WILDCATS | NCAA | J18 | 🏟️ | Fordham Rams 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-davidson-wildcats-fordham-rams@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270121T000000Z
+DTEND:20270121T014500Z
+SUMMARY:Davidson Wildcats - Fordham Rams
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-la-salle-explorers-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:DAVIDSON WILDCATS | NCAA | J16 | ✈️ | La Salle Explorers 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: John G
+ laser Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-la-salle-explorers-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:La Salle Explorers - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:John Glaser Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270128-davidson-wildcats-saint-joseph-s-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:DAVIDSON WILDCATS | NCAA | J20 | 🏟️ | Saint Joseph's Hawks 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270128-davidson-wildcats-saint-joseph-s-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270128T000000Z
+DTEND:20270128T014500Z
+SUMMARY:Davidson Wildcats - Saint Joseph's Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-davidson-wildcats-loyola-chicago-ramblers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:DAVIDSON WILDCATS | NCAA | J18 | 🏟️ | Loyola Chicago Ramblers 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-davidson-wildcats-loyola-chicago-ramblers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T230000Z
+DTEND:20270131T004500Z
+SUMMARY:Davidson Wildcats - Loyola Chicago Ramblers
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270204-richmond-spiders-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:DAVIDSON WILDCATS | NCAA | J22 | ✈️ | Richmond Spiders 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Robins
+  Center\, Richmond\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270204-richmond-spiders-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270204T000000Z
+DTEND:20270204T014500Z
+SUMMARY:Richmond Spiders - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Robins Center\, Richmond\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-rhode-island-rams-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:DAVIDSON WILDCATS | NCAA | J21 | ✈️ | Rhode Island Rams 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  M. Ryan Center\, Kingston\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-rhode-island-rams-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270207T190000Z
+DTEND:20270207T204500Z
+SUMMARY:Rhode Island Rams - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas M. Ryan Center\, Kingston\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270211-davidson-wildcats-st-bonaventure-bonnies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:DAVIDSON WILDCATS | NCAA | J23 | 🏟️ | St. Bonaventure Bonnies 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270211-davidson-wildcats-st-bonaventure-bonnies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270211T000000Z
+DTEND:20270211T014500Z
+SUMMARY:Davidson Wildcats - St. Bonaventure Bonnies
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-davidson-wildcats-george-mason-patriots-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:DAVIDSON WILDCATS | NCAA | J22 | 🏟️ | George Mason Patriots 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-davidson-wildcats-george-mason-patriots@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Davidson Wildcats - George Mason Patriots
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-saint-louis-billikens-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:DAVIDSON WILDCATS | NCAA | J23 | ✈️ | Saint Louis Billikens 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Chaife
+ tz Arena\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-saint-louis-billikens-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270217T000000Z
+DTEND:20270217T014500Z
+SUMMARY:Saint Louis Billikens - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Chaifetz Arena\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-davidson-wildcats-george-washington-revolutionaries-dia@
+ sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:DAVIDSON WILDCATS | NCAA | J26 | 🏟️ | George Washington Revolu
+ tionaries 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-davidson-wildcats-george-washington-revolutionaries@spor
+ tcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270225T000000Z
+DTEND:20270225T014500Z
+SUMMARY:Davidson Wildcats - George Washington Revolutionaries
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-saint-joseph-s-hawks-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:DAVIDSON WILDCATS | NCAA | J27 | ✈️ | Saint Joseph's Hawks 🇺
+ 🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · NCAA Division I\nEstadi: Michae
+ l J. Hagan '85 Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-saint-joseph-s-hawks-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T193000Z
+DTEND:20270227T211500Z
+SUMMARY:Saint Joseph's Hawks - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270304-fordham-rams-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:DAVIDSON WILDCATS | NCAA | J28 | ✈️ | Fordham Rams 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Rose H
+ ill Gym\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270304-fordham-rams-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270304T000000Z
+DTEND:20270304T014500Z
+SUMMARY:Fordham Rams - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:Rose Hill Gym\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-davidson-wildcats-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:DAVIDSON WILDCATS | NCAA | J29 | 🏟️ | Duquesne Dukes 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-davidson-wildcats-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Davidson Wildcats - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,495 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Duke Blue Devils · NCAA W
+BEGIN:VEVENT
+UID:ncaaw-20261115-duke-blue-devils-marshall-thundering-herd-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J1 | 🏟️ | Marshall Thundering Herd
+  🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261115-duke-blue-devils-marshall-thundering-herd@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261115T200000Z
+DTEND:20261115T214500Z
+SUMMARY:Duke Blue Devils - Marshall Thundering Herd
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261119-duke-blue-devils-fordham-rams-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J2 | 🏟️ | Fordham Rams 🇺🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261119-duke-blue-devils-fordham-rams@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T160000Z
+DTEND:20261119T174500Z
+SUMMARY:Duke Blue Devils - Fordham Rams
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261122-columbia-lions-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J5 | ✈️ | Columbia Lions 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Levien Gymnasium\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261122-columbia-lions-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Columbia Lions - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:Levien Gymnasium\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261129-uconn-huskies-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J4 | ✈️ | UConn Huskies 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ TD Garden\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261129-uconn-huskies-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261129T000000Z
+DTEND:20261129T014500Z
+SUMMARY:UConn Huskies - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:TD Garden\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261204-duke-blue-devils-south-carolina-gamecocks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J5 | 🏟️ | South Carolina Gamecocks
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261204-duke-blue-devils-south-carolina-gamecocks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261204T000000Z
+DTEND:20261204T014500Z
+SUMMARY:Duke Blue Devils - South Carolina Gamecocks
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261206-duke-blue-devils-virginia-tech-hokies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J49 | 🏟️ | Virginia Tech Hokies 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261206-duke-blue-devils-virginia-tech-hokies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261206T190000Z
+DTEND:20261206T204500Z
+SUMMARY:Duke Blue Devils - Virginia Tech Hokies
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261217-ucla-bruins-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J9 | ✈️ | UCLA Bruins 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261217-ucla-bruins-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261217T000000Z
+DTEND:20261217T014500Z
+SUMMARY:UCLA Bruins - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261220-duke-blue-devils-texas-longhorns-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J55 | 🏟️ | Texas Longhorns 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261220-duke-blue-devils-texas-longhorns@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T230000Z
+DTEND:20261220T004500Z
+SUMMARY:Duke Blue Devils - Texas Longhorns
+DESCRIPTION:NCAA Division I Women
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-usc-trojans-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J63 | ✈️ | USC Trojans 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261221-usc-trojans-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261221T030000Z
+DTEND:20261221T044500Z
+SUMMARY:USC Trojans - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261229-duke-blue-devils-syracuse-orange-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J10 | 🏟️ | Syracuse Orange 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261229-duke-blue-devils-syracuse-orange@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261228T230000Z
+DTEND:20261229T004500Z
+SUMMARY:Duke Blue Devils - Syracuse Orange
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270101-virginia-cavaliers-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J13 | ✈️ | Virginia Cavaliers 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ John Paul Jones Arena\, Charlottesville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270101-virginia-cavaliers-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270101T010000Z
+DTEND:20270101T024500Z
+SUMMARY:Virginia Cavaliers - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:John Paul Jones Arena\, Charlottesville\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270103-nc-state-wolfpack-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J13 | ✈️ | NC State Wolfpack 🇺
+ 🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reynolds Coliseum\, Raleigh\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270103-nc-state-wolfpack-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270103T200000Z
+DTEND:20270103T214500Z
+SUMMARY:NC State Wolfpack - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reynolds Coliseum\, Raleigh\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270110-notre-dame-fighting-irish-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J14 | ✈️ | Notre Dame Fighting Iris
+ h 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Purcell Pavilion\, South Bend\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270110-notre-dame-fighting-irish-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270110T170000Z
+DTEND:20270110T184500Z
+SUMMARY:Notre Dame Fighting Irish - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:Purcell Pavilion\, South Bend\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270115-duke-blue-devils-california-golden-bears-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J14 | 🏟️ | California Golden Bears
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270115-duke-blue-devils-california-golden-bears@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270115T000000Z
+DTEND:20270115T014500Z
+SUMMARY:Duke Blue Devils - California Golden Bears
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270117-duke-blue-devils-stanford-cardinal-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J16 | 🏟️ | Stanford Cardinal 🇺
+ 🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270117-duke-blue-devils-stanford-cardinal@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270117T170000Z
+DTEND:20270117T184500Z
+SUMMARY:Duke Blue Devils - Stanford Cardinal
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270122-boston-college-eagles-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J17 | ✈️ | Boston College Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270122-boston-college-eagles-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270121T230000Z
+DTEND:20270122T004500Z
+SUMMARY:Boston College Eagles - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270124-duke-blue-devils-clemson-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J17 | 🏟️ | Clemson Tigers 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270124-duke-blue-devils-clemson-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270124T170000Z
+DTEND:20270124T184500Z
+SUMMARY:Duke Blue Devils - Clemson Tigers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270129-florida-state-seminoles-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J18 | ✈️ | Florida State Seminoles 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Tucker Center\, Tallahassee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270129-florida-state-seminoles-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270129T010000Z
+DTEND:20270129T024500Z
+SUMMARY:Florida State Seminoles - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:Tucker Center\, Tallahassee\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270131-north-carolina-tar-heels-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J20 | ✈️ | North Carolina Tar Heels
+  🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Carmichael Arena\, Chapel Hill\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270131-north-carolina-tar-heels-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270131T220000Z
+DTEND:20270131T234500Z
+SUMMARY:North Carolina Tar Heels - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:Carmichael Arena\, Chapel Hill\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270207-duke-blue-devils-miami-hurricanes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J22 | 🏟️ | Miami Hurricanes 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270207-duke-blue-devils-miami-hurricanes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270207T190000Z
+DTEND:20270207T204500Z
+SUMMARY:Duke Blue Devils - Miami Hurricanes
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270212-georgia-tech-yellow-jackets-duke-blue-devils-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J21 | ✈️ | Georgia Tech Yellow Jack
+ ets 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ McCamish Pavilion\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270212-georgia-tech-yellow-jackets-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270212T010000Z
+DTEND:20270212T024500Z
+SUMMARY:Georgia Tech Yellow Jackets - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:McCamish Pavilion\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270214-duke-blue-devils-pittsburgh-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J24 | 🏟️ | Pittsburgh Panthers 
+ 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270214-duke-blue-devils-pittsburgh-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270214T170000Z
+DTEND:20270214T184500Z
+SUMMARY:Duke Blue Devils - Pittsburgh Panthers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270219-duke-blue-devils-louisville-cardinals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J24 | 🏟️ | Louisville Cardinals 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270219-duke-blue-devils-louisville-cardinals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270219T000000Z
+DTEND:20270219T014500Z
+SUMMARY:Duke Blue Devils - Louisville Cardinals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270222-wake-forest-demon-deacons-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J26 | ✈️ | Wake Forest Demon Deacon
+ s 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ LJVM Coliseum\, Winston-Salem\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270222-wake-forest-demon-deacons-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270221T230000Z
+DTEND:20270222T004500Z
+SUMMARY:Wake Forest Demon Deacons - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270226-smu-mustangs-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J23 | ✈️ | SMU Mustangs 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Moody Coliseum (Dallas)\, Dallas\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270226-smu-mustangs-duke-blue-devils@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270225T230000Z
+DTEND:20270226T004500Z
+SUMMARY:SMU Mustangs - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women
+LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270228-duke-blue-devils-north-carolina-tar-heels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:DUKE BLUE DEVILS | NCAA W | J29 | 🏟️ | North Carolina Tar Heel
+ s 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270228-duke-blue-devils-north-carolina-tar-heels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270228T210000Z
+DTEND:20270228T224500Z
+SUMMARY:Duke Blue Devils - North Carolina Tar Heels
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+END:VEVENT
+END:VCALENDAR

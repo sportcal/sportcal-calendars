@@ -1,0 +1,558 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Northeastern Huskies · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261114-northeastern-huskies-yale-bulldogs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J1 | 🏟️ | Yale Bulldogs 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261114-northeastern-huskies-yale-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T000000Z
+DTEND:20261114T014500Z
+SUMMARY:Northeastern Huskies - Yale Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261120-butler-bulldogs-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J13 | ✈️ | Butler Bulldogs 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hinkle
+  Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261120-butler-bulldogs-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261120T000000Z
+DTEND:20261120T014500Z
+SUMMARY:Butler Bulldogs - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-stonehill-skyhawks-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J3 | ✈️ | Stonehill Skyhawks 🇺
+ 🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Merker
+ t Gymnasium\, South Easton\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-stonehill-skyhawks-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261121T220000Z
+DTEND:20261121T234500Z
+SUMMARY:Stonehill Skyhawks - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Merkert Gymnasium\, South Easton\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261126-wisconsin-badgers-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J59 | ✈️ | Wisconsin Badgers 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kohl C
+ enter\, Madison\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261126-wisconsin-badgers-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261126T000000Z
+DTEND:20261126T014500Z
+SUMMARY:Wisconsin Badgers - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Kohl Center\, Madison\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261128-northwestern-wildcats-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J5 | ✈️ | Northwestern Wildcats 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Welsh-
+ Ryan Arena\, Evanston\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261128-northwestern-wildcats-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261128T010000Z
+DTEND:20261128T024500Z
+SUMMARY:Northwestern Wildcats - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-northeastern-huskies-holy-cross-crusaders-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J6 | 🏟️ | Holy Cross Crusaders 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-northeastern-huskies-holy-cross-crusaders@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261203T000000Z
+DTEND:20261203T014500Z
+SUMMARY:Northeastern Huskies - Holy Cross Crusaders
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-northeastern-huskies-princeton-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J7 | 🏟️ | Princeton Tigers 🇺
+ 🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261206-northeastern-huskies-princeton-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261206T180000Z
+DTEND:20261206T194500Z
+SUMMARY:Northeastern Huskies - Princeton Tigers
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-boston-college-eagles-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J8 | ✈️ | Boston College Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Conte 
+ Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-boston-college-eagles-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261210T020000Z
+DTEND:20261210T034500Z
+SUMMARY:Boston College Eagles - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261213-vermont-catamounts-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J9 | ✈️ | Vermont Catamounts 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: Patric
+ k Gymnasium\, Burlington\, VT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261213-vermont-catamounts-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261213T210000Z
+DTEND:20261213T224500Z
+SUMMARY:Vermont Catamounts - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Patrick Gymnasium\, Burlington\, VT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-northeastern-huskies-rhode-island-rams-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J9 | 🏟️ | Rhode Island Rams 🇺
+ 🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-northeastern-huskies-rhode-island-rams@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T180000Z
+DTEND:20261219T194500Z
+SUMMARY:Northeastern Huskies - Rhode Island Rams
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-california-golden-bears-northeastern-huskies-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J11 | ✈️ | California Golden Bear
+ s 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Haas P
+ avilion\, Berkeley\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-california-golden-bears-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261222T230000Z
+DTEND:20261223T004500Z
+SUMMARY:California Golden Bears - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Haas Pavilion\, Berkeley\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-charleston-cougars-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J10 | ✈️ | Charleston Cougars 
+ 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: TD Are
+ na\, Charleston\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-charleston-cougars-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261231T210000Z
+DTEND:20261231T224500Z
+SUMMARY:Charleston Cougars - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:TD Arena\, Charleston\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-unc-wilmington-seahawks-northeastern-huskies-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J12 | ✈️ | UNC Wilmington Seahawk
+ s 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Trask 
+ Coliseum\, Wilmington\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-unc-wilmington-seahawks-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270103T000000Z
+DTEND:20270103T014500Z
+SUMMARY:UNC Wilmington Seahawks - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Trask Coliseum\, Wilmington\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270108-northeastern-huskies-william-mary-tribe-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J14 | 🏟️ | William & Mary Tribe 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270108-northeastern-huskies-william-mary-tribe@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270108T000000Z
+DTEND:20270108T014500Z
+SUMMARY:Northeastern Huskies - William & Mary Tribe
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-northeastern-huskies-hampton-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J13 | 🏟️ | Hampton Pirates 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-northeastern-huskies-hampton-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Northeastern Huskies - Hampton Pirates
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270115-drexel-dragons-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J16 | ✈️ | Drexel Dragons 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Daskal
+ akis Athletic Center\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270115-drexel-dragons-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270115T000000Z
+DTEND:20270115T014500Z
+SUMMARY:Drexel Dragons - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270118-northeastern-huskies-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J17 | 🏟️ | Monmouth Hawks 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270118-northeastern-huskies-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270118T190000Z
+DTEND:20270118T204500Z
+SUMMARY:Northeastern Huskies - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270122-hofstra-pride-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J18 | ✈️ | Hofstra Pride 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: David 
+ S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270122-hofstra-pride-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270122T000000Z
+DTEND:20270122T014500Z
+SUMMARY:Hofstra Pride - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-northeastern-huskies-stony-brook-seawolves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J19 | 🏟️ | Stony Brook Seawolves
+  🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-northeastern-huskies-stony-brook-seawolves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T210000Z
+DTEND:20270123T224500Z
+SUMMARY:Northeastern Huskies - Stony Brook Seawolves
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270129-elon-phoenix-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J20 | ✈️ | Elon Phoenix 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Schar 
+ Center\, Elon\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270129-elon-phoenix-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270129T000000Z
+DTEND:20270129T014500Z
+SUMMARY:Elon Phoenix - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Schar Center\, Elon\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-william-mary-tribe-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J21 | ✈️ | William & Mary Tribe 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kaplan
+  Arena\, Williamsburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-william-mary-tribe-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:William & Mary Tribe - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Kaplan Arena\, Williamsburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270205-northeastern-huskies-drexel-dragons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J21 | 🏟️ | Drexel Dragons 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270205-northeastern-huskies-drexel-dragons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270205T000000Z
+DTEND:20270205T014500Z
+SUMMARY:Northeastern Huskies - Drexel Dragons
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-northeastern-huskies-north-carolina-a-t-aggies-dia@sport
+ cal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J19 | 🏟️ | North Carolina A&T Ag
+ gies 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-northeastern-huskies-north-carolina-a-t-aggies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:Northeastern Huskies - North Carolina A&T Aggies
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-northeastern-huskies-hofstra-pride-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J24 | 🏟️ | Hofstra Pride 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-northeastern-huskies-hofstra-pride@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270212T000000Z
+DTEND:20270212T014500Z
+SUMMARY:Northeastern Huskies - Hofstra Pride
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-towson-tigers-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J22 | ✈️ | Towson Tigers 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: SECU A
+ rena\, Towson\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-towson-tigers-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Towson Tigers - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:SECU Arena\, Towson\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270219-northeastern-huskies-campbell-fighting-camels-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J26 | 🏟️ | Campbell Fighting Cam
+ els 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270219-northeastern-huskies-campbell-fighting-camels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270219T000000Z
+DTEND:20270219T014500Z
+SUMMARY:Northeastern Huskies - Campbell Fighting Camels
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-northeastern-huskies-charleston-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J25 | 🏟️ | Charleston Cougars 
+ 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-northeastern-huskies-charleston-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:Northeastern Huskies - Charleston Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270226-monmouth-hawks-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J26 | ✈️ | Monmouth Hawks 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270226-monmouth-hawks-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270226T000000Z
+DTEND:20270226T014500Z
+SUMMARY:Monmouth Hawks - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-stony-brook-seawolves-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:NORTHEASTERN HUSKIES | NCAA | J29 | ✈️ | Stony Brook Seawolves 
+ 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Stony 
+ Brook Arena\, Stony Brook\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-stony-brook-seawolves-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270302T233000Z
+DTEND:20270303T011500Z
+SUMMARY:Stony Brook Seawolves - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Stony Brook Arena\, Stony Brook\, NY
+END:VEVENT
+END:VCALENDAR

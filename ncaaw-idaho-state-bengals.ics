@@ -1,0 +1,529 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Idaho State Bengals · NCAA W
+BEGIN:VEVENT
+UID:ncaaw-20261115-south-dakota-coyotes-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J1 | ✈️ | South Dakota Coyotes 
+ 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Sanford Coyote Sports Center\, Vermillion\, SD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261115-south-dakota-coyotes-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261115T210000Z
+DTEND:20261115T224500Z
+SUMMARY:South Dakota Coyotes - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261119-uc-irvine-anteaters-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J2 | ✈️ | UC Irvine Anteaters 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Bren Events Center\, Irvine\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261119-uc-irvine-anteaters-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T020000Z
+DTEND:20261119T034500Z
+SUMMARY:UC Irvine Anteaters - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Bren Events Center\, Irvine\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261121-loyola-marymount-lions-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J3 | ✈️ | Loyola Marymount Lions
+  🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Gersten Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261121-loyola-marymount-lions-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261121T030000Z
+DTEND:20261121T044500Z
+SUMMARY:Loyola Marymount Lions - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Gersten Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261122-uc-riverside-highlanders-idaho-state-bengals-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J5 | ✈️ | UC Riverside Highlande
+ rs 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ SRC Arena\, Riverside\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261122-uc-riverside-highlanders-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261122T220000Z
+DTEND:20261122T234500Z
+SUMMARY:UC Riverside Highlanders - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:SRC Arena\, Riverside\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261129-idaho-state-bengals-utah-valley-wolverines-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J31 | 🏟️ | Utah Valley Wolverin
+ es 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261129-idaho-state-bengals-utah-valley-wolverines@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261129T000000Z
+DTEND:20261129T014500Z
+SUMMARY:Idaho State Bengals - Utah Valley Wolverines
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261204-idaho-state-bengals-southern-utah-thunderbirds-dia@sport
+ cal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J6 | 🏟️ | Southern Utah Thunder
+ birds 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261204-idaho-state-bengals-southern-utah-thunderbirds@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261204T020000Z
+DTEND:20261204T034500Z
+SUMMARY:Idaho State Bengals - Southern Utah Thunderbirds
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261205-idaho-state-bengals-utah-tech-trailblazers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J7 | 🏟️ | Utah Tech Trailblazer
+ s 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261205-idaho-state-bengals-utah-tech-trailblazers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T210000Z
+DTEND:20261205T224500Z
+SUMMARY:Idaho State Bengals - Utah Tech Trailblazers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261219-idaho-state-bengals-oregon-state-beavers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J8 | 🏟️ | Oregon State Beavers 
+ 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Seabury Hall\, Makawao\, HI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261219-idaho-state-bengals-oregon-state-beavers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T030000Z
+DTEND:20261219T044500Z
+SUMMARY:Idaho State Bengals - Oregon State Beavers
+DESCRIPTION:NCAA Division I Women
+LOCATION:Seabury Hall\, Makawao\, HI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261220-idaho-state-bengals-san-francisco-dons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J55 | 🏟️ | San Francisco Dons 
+ 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Seabury Hall\, Makawao\, HI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20261220-idaho-state-bengals-san-francisco-dons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261220T003000Z
+DTEND:20261220T021500Z
+SUMMARY:Idaho State Bengals - San Francisco Dons
+DESCRIPTION:NCAA Division I Women
+LOCATION:Seabury Hall\, Makawao\, HI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270102-northern-arizona-lumberjacks-idaho-state-bengals-dia@spo
+ rtcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J13 | ✈️ | Northern Arizona Lumb
+ erjacks 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Rolle Activity Center\, Flagstaff\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270102-northern-arizona-lumberjacks-idaho-state-bengals@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART:20270102T210000Z
+DTEND:20270102T224500Z
+SUMMARY:Northern Arizona Lumberjacks - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Rolle Activity Center\, Flagstaff\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270108-montana-state-bobcats-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J14 | ✈️ | Montana State Bobcats
+  🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270108-montana-state-bobcats-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270108T020000Z
+DTEND:20270108T034500Z
+SUMMARY:Montana State Bobcats - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270109-montana-lady-griz-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J15 | ✈️ | Montana Lady Griz 
+ 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Dahlberg Arena\, Missoula\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270109-montana-lady-griz-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T210000Z
+DTEND:20270109T224500Z
+SUMMARY:Montana Lady Griz - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Dahlberg Arena\, Missoula\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270115-idaho-state-bengals-northern-colorado-bears-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J15 | 🏟️ | Northern Colorado Be
+ ars 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270115-idaho-state-bengals-northern-colorado-bears@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270115T020000Z
+DTEND:20270115T034500Z
+SUMMARY:Idaho State Bengals - Northern Colorado Bears
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270117-idaho-state-bengals-portland-state-vikings-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J16 | 🏟️ | Portland State Vikin
+ gs 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270117-idaho-state-bengals-portland-state-vikings@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T230000Z
+DTEND:20270117T004500Z
+SUMMARY:Idaho State Bengals - Portland State Vikings
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270119-idaho-state-bengals-eastern-washington-eagles-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J15 | 🏟️ | Eastern Washington E
+ agles 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270119-idaho-state-bengals-eastern-washington-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270119T020000Z
+DTEND:20270119T034500Z
+SUMMARY:Idaho State Bengals - Eastern Washington Eagles
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270124-idaho-state-bengals-weber-state-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J17 | 🏟️ | Weber State Wildcats
+  🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270124-idaho-state-bengals-weber-state-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T230000Z
+DTEND:20270124T004500Z
+SUMMARY:Idaho State Bengals - Weber State Wildcats
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270126-idaho-state-bengals-idaho-vandals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J20 | 🏟️ | Idaho Vandals 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270126-idaho-state-bengals-idaho-vandals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270126T020000Z
+DTEND:20270126T034500Z
+SUMMARY:Idaho State Bengals - Idaho Vandals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270129-utah-tech-trailblazers-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J19 | ✈️ | Utah Tech Trailblazer
+ s 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Burns Arena\, St. George\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270129-utah-tech-trailblazers-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270129T020000Z
+DTEND:20270129T034500Z
+SUMMARY:Utah Tech Trailblazers - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Burns Arena\, St. George\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270130-southern-utah-thunderbirds-idaho-state-bengals-dia@sport
+ cal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J18 | ✈️ | Southern Utah Thunder
+ birds 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ America First Event Center\, Cedar City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270130-southern-utah-thunderbirds-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T210000Z
+DTEND:20270130T224500Z
+SUMMARY:Southern Utah Thunderbirds - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:America First Event Center\, Cedar City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270205-idaho-state-bengals-northern-arizona-lumberjacks-dia@spo
+ rtcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J20 | 🏟️ | Northern Arizona Lum
+ berjacks 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270205-idaho-state-bengals-northern-arizona-lumberjacks@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART:20270205T010000Z
+DTEND:20270205T024500Z
+SUMMARY:Idaho State Bengals - Northern Arizona Lumberjacks
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270212-portland-state-vikings-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J21 | ✈️ | Portland State Viking
+ s 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Viking Pavilion\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270212-portland-state-vikings-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270212T030000Z
+DTEND:20270212T044500Z
+SUMMARY:Portland State Vikings - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Viking Pavilion\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-northern-colorado-bears-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J21 | ✈️ | Northern Colorado Bea
+ rs 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Bank of Colorado Arena\, Greeley\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-northern-colorado-bears-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T210000Z
+DTEND:20270213T224500Z
+SUMMARY:Northern Colorado Bears - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Bank of Colorado Arena\, Greeley\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270219-idaho-state-bengals-montana-lady-griz-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J24 | 🏟️ | Montana Lady Griz 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270219-idaho-state-bengals-montana-lady-griz@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270219T020000Z
+DTEND:20270219T034500Z
+SUMMARY:Idaho State Bengals - Montana Lady Griz
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270220-idaho-state-bengals-montana-state-bobcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J22 | 🏟️ | Montana State Bobcat
+ s 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270220-idaho-state-bengals-montana-state-bobcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T210000Z
+DTEND:20270220T224500Z
+SUMMARY:Idaho State Bengals - Montana State Bobcats
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270223-eastern-washington-eagles-idaho-state-bengals-dia@sportc
+ al
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J25 | ✈️ | Eastern Washington Ea
+ gles 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reese Court\, Cheney\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270223-eastern-washington-eagles-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270223T020000Z
+DTEND:20270223T034500Z
+SUMMARY:Eastern Washington Eagles - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reese Court\, Cheney\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-weber-state-wildcats-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J27 | ✈️ | Weber State Wildcats 
+ 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Dee Events Center\, Ogden\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-weber-state-wildcats-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T210000Z
+DTEND:20270227T224500Z
+SUMMARY:Weber State Wildcats - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Dee Events Center\, Ogden\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270302-idaho-vandals-idaho-state-bengals-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:IDAHO STATE BENGALS | NCAA W | J29 | ✈️ | Idaho Vandals 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270302-idaho-vandals-idaho-state-bengals@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270302T020000Z
+DTEND:20270302T034500Z
+SUMMARY:Idaho Vandals - Idaho State Bengals
+DESCRIPTION:NCAA Division I Women
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+END:VCALENDAR

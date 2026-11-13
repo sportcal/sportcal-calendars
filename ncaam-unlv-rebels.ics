@@ -1,0 +1,535 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UNLV Rebels · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261114-unlv-rebels-stanford-cardinal-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:UNLV REBELS | NCAA | J1 | 🏟️ | Stanford Cardinal 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261114-unlv-rebels-stanford-cardinal@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261114T020000Z
+DTEND:20261114T034500Z
+SUMMARY:UNLV Rebels - Stanford Cardinal
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261118-kansas-jayhawks-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:UNLV REBELS | NCAA | J1 | ✈️ | Kansas Jayhawks 🇺🇸
+DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NCAA Division I\nEstadi: Michel
+ ob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261118-kansas-jayhawks-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261118T023000Z
+DTEND:20261118T041500Z
+SUMMARY:Kansas Jayhawks - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-unlv-rebels-eastern-washington-eagles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:UNLV REBELS | NCAA | J3 | 🏟️ | Eastern Washington Eagles 🇺
+ 🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-unlv-rebels-eastern-washington-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T030000Z
+DTEND:20261124T044500Z
+SUMMARY:UNLV Rebels - Eastern Washington Eagles
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261128-unlv-rebels-ut-rio-grande-valley-vaqueros-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:UNLV REBELS | NCAA | J4 | 🏟️ | UT Rio Grande Valley Vaqueros 
+ 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261128-unlv-rebels-ut-rio-grande-valley-vaqueros@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261128T200000Z
+DTEND:20261128T214500Z
+SUMMARY:UNLV Rebels - UT Rio Grande Valley Vaqueros
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-san-francisco-dons-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:UNLV REBELS | NCAA | J4 | ✈️ | San Francisco Dons 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: The So
+ brato Center\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-san-francisco-dons-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261203T030000Z
+DTEND:20261203T044500Z
+SUMMARY:San Francisco Dons - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:The Sobrato Center\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-san-diego-state-aztecs-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:UNLV REBELS | NCAA | J111 | ✈️ | San Diego State Aztecs 🇺
+ 🇸
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Viejas
+  Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-san-diego-state-aztecs-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T213000Z
+DTEND:20261205T231500Z
+SUMMARY:San Diego State Aztecs - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:Viejas Arena\, San Diego\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-unlv-rebels-washington-state-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:UNLV REBELS | NCAA | J9 | 🏟️ | Washington State Cougars 🇺
+ 🇸
+DESCRIPTION:Inici: 21:45 (Europe/Madrid) · NCAA Division I\nEstadi: Lee's 
+ Family Forum\, Henderson\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261212-unlv-rebels-washington-state-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261212T204500Z
+DTEND:20261212T223000Z
+SUMMARY:UNLV Rebels - Washington State Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:Lee's Family Forum\, Henderson\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-smu-mustangs-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:UNLV REBELS | NCAA | J9 | ✈️ | SMU Mustangs 🇺🇸
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · NCAA Division I\nEstadi: Mortga
+ ge Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-smu-mustangs-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261219T203000Z
+DTEND:20261219T221500Z
+SUMMARY:SMU Mustangs - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-unlv-rebels-cal-poly-mustangs-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:UNLV REBELS | NCAA | J11 | 🏟️ | Cal Poly Mustangs 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261223-unlv-rebels-cal-poly-mustangs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261223T030000Z
+DTEND:20261223T044500Z
+SUMMARY:UNLV Rebels - Cal Poly Mustangs
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-unlv-rebels-westminster-ut-griffins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:UNLV REBELS | NCAA | J10 | 🏟️ | Westminster (UT) Griffins 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261230-unlv-rebels-westminster-ut-griffins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261230T000000Z
+DTEND:20261230T014500Z
+SUMMARY:UNLV Rebels - Westminster (UT) Griffins
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-unlv-rebels-north-dakota-fighting-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:UNLV REBELS | NCAA | J12 | 🏟️ | North Dakota Fighting Hawks 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-unlv-rebels-north-dakota-fighting-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270103T010000Z
+DTEND:20270103T024500Z
+SUMMARY:UNLV Rebels - North Dakota Fighting Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270106-grand-canyon-lopes-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:UNLV REBELS | NCAA | J12 | ✈️ | Grand Canyon Lopes 🇺🇸
+DESCRIPTION:Inici: 04:30 (Europe/Madrid) · NCAA Division I\nEstadi: Global
+  Credit Union Arena\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270106-grand-canyon-lopes-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270106T033000Z
+DTEND:20270106T051500Z
+SUMMARY:Grand Canyon Lopes - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:Global Credit Union Arena\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-san-jose-state-spartans-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:UNLV REBELS | NCAA | J13 | ✈️ | San José State Spartans 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-san-jose-state-spartans-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:San José State Spartans - UNLV Rebels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-unlv-rebels-new-mexico-lobos-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:UNLV REBELS | NCAA | J14 | 🏟️ | New Mexico Lobos 🇺🇸
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270113-unlv-rebels-new-mexico-lobos@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270113T040000Z
+DTEND:20270113T054500Z
+SUMMARY:UNLV Rebels - New Mexico Lobos
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-unlv-rebels-utep-miners-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:UNLV REBELS | NCAA | J16 | 🏟️ | UTEP Miners 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-unlv-rebels-utep-miners@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270117T030000Z
+DTEND:20270117T044500Z
+SUMMARY:UNLV Rebels - UTEP Miners
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270120-uc-davis-aggies-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:UNLV REBELS | NCAA | J15 | ✈️ | UC Davis Aggies 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Univer
+ sity Credit Union Center\, Davis\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270120-uc-davis-aggies-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270120T020000Z
+DTEND:20270120T034500Z
+SUMMARY:UC Davis Aggies - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:University Credit Union Center\, Davis\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-unlv-rebels-hawai-i-rainbow-warriors-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:UNLV REBELS | NCAA | J18 | 🏟️ | Hawai'i Rainbow Warriors 🇺
+ 🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270124-unlv-rebels-hawai-i-rainbow-warriors@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270124T030000Z
+DTEND:20270124T044500Z
+SUMMARY:UNLV Rebels - Hawai'i Rainbow Warriors
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-wyoming-cowboys-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:UNLV REBELS | NCAA | J19 | ✈️ | Wyoming Cowboys 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Arena-
+ Auditorium\, Laramie\, WY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-wyoming-cowboys-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270127T020000Z
+DTEND:20270127T034500Z
+SUMMARY:Wyoming Cowboys - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:Arena-Auditorium\, Laramie\, WY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-unlv-rebels-nevada-wolf-pack-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:UNLV REBELS | NCAA | J18 | 🏟️ | Nevada Wolf Pack 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-unlv-rebels-nevada-wolf-pack@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270131T030000Z
+DTEND:20270131T044500Z
+SUMMARY:UNLV Rebels - Nevada Wolf Pack
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270202-air-force-falcons-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:UNLV REBELS | NCAA | J21 | ✈️ | Air Force Falcons 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270202-air-force-falcons-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Air Force Falcons - UNLV Rebels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-unlv-rebels-san-jose-state-spartans-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:UNLV REBELS | NCAA | J21 | 🏟️ | San José State Spartans 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270207-unlv-rebels-san-jose-state-spartans@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270206T230000Z
+DTEND:20270207T004500Z
+SUMMARY:UNLV Rebels - San José State Spartans
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270211-unlv-rebels-wyoming-cowboys-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:UNLV REBELS | NCAA | J22 | 🏟️ | Wyoming Cowboys 🇺🇸
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270211-unlv-rebels-wyoming-cowboys@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270211T040000Z
+DTEND:20270211T054500Z
+SUMMARY:UNLV Rebels - Wyoming Cowboys
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-new-mexico-lobos-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:UNLV REBELS | NCAA | J21 | ✈️ | New Mexico Lobos 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: The Pi
+ t\, Albuquerque\, NM
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270214-new-mexico-lobos-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T230000Z
+DTEND:20270214T004500Z
+SUMMARY:New Mexico Lobos - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:The Pit\, Albuquerque\, NM
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-utep-miners-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:UNLV REBELS | NCAA | J23 | ✈️ | UTEP Miners 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Don Ha
+ skins Center\, El Paso\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270217-utep-miners-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270217T010000Z
+DTEND:20270217T024500Z
+SUMMARY:UTEP Miners - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:Don Haskins Center\, El Paso\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-unlv-rebels-grand-canyon-lopes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:UNLV REBELS | NCAA | J25 | 🏟️ | Grand Canyon Lopes 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-unlv-rebels-grand-canyon-lopes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:UNLV Rebels - Grand Canyon Lopes · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-unlv-rebels-air-force-falcons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:UNLV REBELS | NCAA | J28 | 🏟️ | Air Force Falcons 🇺🇸
+DESCRIPTION:Inici: 04:30 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-unlv-rebels-air-force-falcons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270225T033000Z
+DTEND:20270225T051500Z
+SUMMARY:UNLV Rebels - Air Force Falcons
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-nevada-wolf-pack-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:UNLV REBELS | NCAA | J27 | ✈️ | Nevada Wolf Pack 🇺🇸
+DESCRIPTION:Inici: 04:30 (Europe/Madrid) · NCAA Division I\nEstadi: Lawlor
+  Events Center\, Reno\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270228-nevada-wolf-pack-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270228T033000Z
+DTEND:20270228T051500Z
+SUMMARY:Nevada Wolf Pack - UNLV Rebels
+DESCRIPTION:NCAA Division I
+LOCATION:Lawlor Events Center\, Reno\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-unlv-rebels-uc-davis-aggies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:UNLV REBELS | NCAA | J28 | 🏟️ | UC Davis Aggies 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-unlv-rebels-uc-davis-aggies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270303T030000Z
+DTEND:20270303T044500Z
+SUMMARY:UNLV Rebels - UC Davis Aggies
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-hawai-i-rainbow-warriors-unlv-rebels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:UNLV REBELS | NCAA | J29 | ✈️ | Hawai'i Rainbow Warriors 🇺
+ 🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-hawai-i-rainbow-warriors-unlv-rebels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Hawai'i Rainbow Warriors - UNLV Rebels · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+END:VCALENDAR

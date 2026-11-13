@@ -1,0 +1,541 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Monmouth Hawks · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261118-wake-forest-demon-deacons-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:MONMOUTH HAWKS | NCAA | J1 | ✈️ | Wake Forest Demon Deacons 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: LJVM C
+ oliseum\, Winston-Salem\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261118-wake-forest-demon-deacons-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261118T000000Z
+DTEND:20261118T014500Z
+SUMMARY:Wake Forest Demon Deacons - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-princeton-tigers-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:MONMOUTH HAWKS | NCAA | J2 | ✈️ | Princeton Tigers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Jadwin
+  Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-princeton-tigers-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Princeton Tigers - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Jadwin Gymnasium\, Princeton\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-north-carolina-tar-heels-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:MONMOUTH HAWKS | NCAA | J3 | ✈️ | North Carolina Tar Heels 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Dean E
+ . Smith Center\, Chapel Hill\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-north-carolina-tar-heels-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261124T010000Z
+DTEND:20261124T024500Z
+SUMMARY:North Carolina Tar Heels - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Dean E. Smith Center\, Chapel Hill\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261128-monmouth-hawks-saint-joseph-s-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:MONMOUTH HAWKS | NCAA | J4 | 🏟️ | Saint Joseph's Hawks 🇺
+ 🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261128-monmouth-hawks-saint-joseph-s-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261128T220000Z
+DTEND:20261128T234500Z
+SUMMARY:Monmouth Hawks - Saint Joseph's Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-cincinnati-bearcats-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:MONMOUTH HAWKS | NCAA | J4 | ✈️ | Cincinnati Bearcats 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Fifth 
+ Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261203-cincinnati-bearcats-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261203T000000Z
+DTEND:20261203T014500Z
+SUMMARY:Cincinnati Bearcats - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-lehigh-mountain-hawks-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:MONMOUTH HAWKS | NCAA | J111 | ✈️ | Lehigh Mountain Hawks 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Stable
+ r Arena\, Bethlehem\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-lehigh-mountain-hawks-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Lehigh Mountain Hawks - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Stabler Arena\, Bethlehem\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-monmouth-hawks-la-salle-explorers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:MONMOUTH HAWKS | NCAA | J7 | 🏟️ | La Salle Explorers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261209-monmouth-hawks-la-salle-explorers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261209T000000Z
+DTEND:20261209T014500Z
+SUMMARY:Monmouth Hawks - La Salle Explorers
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261213-robert-morris-colonials-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:MONMOUTH HAWKS | NCAA | J9 | ✈️ | Robert Morris Colonials 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC E
+ vents Center\, Moon Township\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261213-robert-morris-colonials-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261213T190000Z
+DTEND:20261213T204500Z
+SUMMARY:Robert Morris Colonials - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Events Center\, Moon Township\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261215-monmouth-hawks-siena-saints-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:MONMOUTH HAWKS | NCAA | J8 | 🏟️ | Siena Saints 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261215-monmouth-hawks-siena-saints@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261215T220000Z
+DTEND:20261215T234500Z
+SUMMARY:Monmouth Hawks - Siena Saints
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-pennsylvania-quakers-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:MONMOUTH HAWKS | NCAA | J9 | ✈️ | Pennsylvania Quakers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261219-pennsylvania-quakers-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Pennsylvania Quakers - Monmouth Hawks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-monmouth-hawks-cornell-big-red-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:MONMOUTH HAWKS | NCAA | J117 | 🏟️ | Cornell Big Red 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261222-monmouth-hawks-cornell-big-red@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261222T000000Z
+DTEND:20261222T014500Z
+SUMMARY:Monmouth Hawks - Cornell Big Red
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-stony-brook-seawolves-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:MONMOUTH HAWKS | NCAA | J12 | ✈️ | Stony Brook Seawolves 🇺
+ 🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: Stony 
+ Brook Arena\, Stony Brook\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-stony-brook-seawolves-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261231T180000Z
+DTEND:20261231T194500Z
+SUMMARY:Stony Brook Seawolves - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Stony Brook Arena\, Stony Brook\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270108-monmouth-hawks-hampton-pirates-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:MONMOUTH HAWKS | NCAA | J13 | 🏟️ | Hampton Pirates 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270108-monmouth-hawks-hampton-pirates@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270108T000000Z
+DTEND:20270108T014500Z
+SUMMARY:Monmouth Hawks - Hampton Pirates
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-monmouth-hawks-charleston-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:MONMOUTH HAWKS | NCAA | J14 | 🏟️ | Charleston Cougars 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-monmouth-hawks-charleston-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:Monmouth Hawks - Charleston Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270115-towson-tigers-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:MONMOUTH HAWKS | NCAA | J16 | ✈️ | Towson Tigers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: SECU A
+ rena\, Towson\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270115-towson-tigers-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270115T000000Z
+DTEND:20270115T014500Z
+SUMMARY:Towson Tigers - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:SECU Arena\, Towson\, MD
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-monmouth-hawks-drexel-dragons-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:MONMOUTH HAWKS | NCAA | J14 | 🏟️ | Drexel Dragons 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270116-monmouth-hawks-drexel-dragons@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Monmouth Hawks - Drexel Dragons
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270118-northeastern-huskies-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:MONMOUTH HAWKS | NCAA | J17 | ✈️ | Northeastern Huskies 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Cabot 
+ Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270118-northeastern-huskies-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270118T190000Z
+DTEND:20270118T204500Z
+SUMMARY:Northeastern Huskies - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Cabot Center\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270122-monmouth-hawks-unc-wilmington-seahawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:MONMOUTH HAWKS | NCAA | J18 | 🏟️ | UNC Wilmington Seahawks 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270122-monmouth-hawks-unc-wilmington-seahawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270122T000000Z
+DTEND:20270122T014500Z
+SUMMARY:Monmouth Hawks - UNC Wilmington Seahawks
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270129-north-carolina-a-t-aggies-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:MONMOUTH HAWKS | NCAA | J19 | ✈️ | North Carolina A&T Aggies 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Corbet
+ t Sports Center\, Greensboro\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270129-north-carolina-a-t-aggies-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270129T000000Z
+DTEND:20270129T014500Z
+SUMMARY:North Carolina A&T Aggies - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Corbett Sports Center\, Greensboro\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-elon-phoenix-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:MONMOUTH HAWKS | NCAA | J18 | ✈️ | Elon Phoenix 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Schar 
+ Center\, Elon\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270131-elon-phoenix-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270131T000000Z
+DTEND:20270131T014500Z
+SUMMARY:Elon Phoenix - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Schar Center\, Elon\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270205-monmouth-hawks-campbell-fighting-camels-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:MONMOUTH HAWKS | NCAA | J21 | 🏟️ | Campbell Fighting Camels 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270205-monmouth-hawks-campbell-fighting-camels@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270205T000000Z
+DTEND:20270205T014500Z
+SUMMARY:Monmouth Hawks - Campbell Fighting Camels
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270209-drexel-dragons-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:MONMOUTH HAWKS | NCAA | J23 | ✈️ | Drexel Dragons 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Daskal
+ akis Athletic Center\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270209-drexel-dragons-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270209T020000Z
+DTEND:20270209T034500Z
+SUMMARY:Drexel Dragons - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-monmouth-hawks-towson-tigers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:MONMOUTH HAWKS | NCAA | J24 | 🏟️ | Towson Tigers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270212-monmouth-hawks-towson-tigers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270212T000000Z
+DTEND:20270212T014500Z
+SUMMARY:Monmouth Hawks - Towson Tigers
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270216-monmouth-hawks-hofstra-pride-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:MONMOUTH HAWKS | NCAA | J25 | 🏟️ | Hofstra Pride 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270216-monmouth-hawks-hofstra-pride@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270216T013000Z
+DTEND:20270216T031500Z
+SUMMARY:Monmouth Hawks - Hofstra Pride
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270219-william-mary-tribe-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:MONMOUTH HAWKS | NCAA | J25 | ✈️ | William & Mary Tribe 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kaplan
+  Arena\, Williamsburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270219-william-mary-tribe-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270219T000000Z
+DTEND:20270219T014500Z
+SUMMARY:William & Mary Tribe - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Kaplan Arena\, Williamsburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-hampton-pirates-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:MONMOUTH HAWKS | NCAA | J26 | ✈️ | Hampton Pirates 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Convoc
+ ation Center (VA)\, Hampton\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-hampton-pirates-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Hampton Pirates - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:Convocation Center (VA)\, Hampton\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270226-monmouth-hawks-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:MONMOUTH HAWKS | NCAA | J26 | 🏟️ | Northeastern Huskies 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270226-monmouth-hawks-northeastern-huskies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270226T000000Z
+DTEND:20270226T014500Z
+SUMMARY:Monmouth Hawks - Northeastern Huskies
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-monmouth-hawks-stony-brook-seawolves-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:MONMOUTH HAWKS | NCAA | J28 | 🏟️ | Stony Brook Seawolves 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hacken
+ sack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-monmouth-hawks-stony-brook-seawolves@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Monmouth Hawks - Stony Brook Seawolves
+DESCRIPTION:NCAA Division I
+LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-hofstra-pride-monmouth-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:MONMOUTH HAWKS | NCAA | J29 | ✈️ | Hofstra Pride 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: David 
+ S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270303-hofstra-pride-monmouth-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270303T000000Z
+DTEND:20270303T014500Z
+SUMMARY:Hofstra Pride - Monmouth Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+END:VEVENT
+END:VCALENDAR

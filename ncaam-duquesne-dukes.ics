@@ -1,0 +1,544 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Duquesne Dukes · NCAA
+BEGIN:VEVENT
+UID:ncaam-20261115-duquesne-dukes-binghamton-bearcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:DUQUESNE DUKES | NCAA | J1 | 🏟️ | Binghamton Bearcats 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261115-duquesne-dukes-binghamton-bearcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261115T003000Z
+DTEND:20261115T021500Z
+SUMMARY:Duquesne Dukes - Binghamton Bearcats
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-duquesne-dukes-howard-bison-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:DUQUESNE DUKES | NCAA | J2 | 🏟️ | Howard Bison 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Ocean 
+ Center\, Daytona Beach\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261119-duquesne-dukes-howard-bison@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261119T000000Z
+DTEND:20261119T014500Z
+SUMMARY:Duquesne Dukes - Howard Bison
+DESCRIPTION:NCAA Division I
+LOCATION:Ocean Center\, Daytona Beach\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261122-duquesne-dukes-wyoming-cowboys-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:DUQUESNE DUKES | NCAA | J3 | 🏟️ | Wyoming Cowboys 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Ocean 
+ Center\, Daytona Beach\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261122-duquesne-dukes-wyoming-cowboys@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261122T190000Z
+DTEND:20261122T204500Z
+SUMMARY:Duquesne Dukes - Wyoming Cowboys
+DESCRIPTION:NCAA Division I
+LOCATION:Ocean Center\, Daytona Beach\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261125-duquesne-dukes-high-point-panthers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:DUQUESNE DUKES | NCAA | J3 | 🏟️ | High Point Panthers 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Ocean 
+ Center\, Daytona Beach\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261125-duquesne-dukes-high-point-panthers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261125T003000Z
+DTEND:20261125T021500Z
+SUMMARY:Duquesne Dukes - High Point Panthers
+DESCRIPTION:NCAA Division I
+LOCATION:Ocean Center\, Daytona Beach\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261129-duquesne-dukes-south-carolina-state-bulldogs-dia@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:DUQUESNE DUKES | NCAA | J5 | 🏟️ | South Carolina State Bulldog
+ s 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261129-duquesne-dukes-south-carolina-state-bulldogs@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261129T003000Z
+DTEND:20261129T021500Z
+SUMMARY:Duquesne Dukes - South Carolina State Bulldogs
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-duquesne-dukes-kansas-city-roos-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:DUQUESNE DUKES | NCAA | J6 | 🏟️ | Kansas City Roos 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261205-duquesne-dukes-kansas-city-roos@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Duquesne Dukes - Kansas City Roos · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-robert-morris-colonials-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:DUQUESNE DUKES | NCAA | J8 | ✈️ | Robert Morris Colonials 🇺
+ 🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: PPG Pa
+ ints Arena\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261210-robert-morris-colonials-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261210T013000Z
+DTEND:20261210T031500Z
+SUMMARY:Robert Morris Colonials - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261213-duquesne-dukes-canisius-golden-griffins-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:DUQUESNE DUKES | NCAA | J8 | 🏟️ | Canisius Golden Griffins 
+ 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261213-duquesne-dukes-canisius-golden-griffins@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261213T003000Z
+DTEND:20261213T021500Z
+SUMMARY:Duquesne Dukes - Canisius Golden Griffins
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-duquesne-dukes-delaware-blue-hens-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:DUQUESNE DUKES | NCAA | J9 | 🏟️ | Delaware Blue Hens 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261216-duquesne-dukes-delaware-blue-hens@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261216T000000Z
+DTEND:20261216T014500Z
+SUMMARY:Duquesne Dukes - Delaware Blue Hens
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-duquesne-dukes-niagara-purple-eagles-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:DUQUESNE DUKES | NCAA | J10 | 🏟️ | Niagara Purple Eagles 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261220-duquesne-dukes-niagara-purple-eagles@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261220T190000Z
+DTEND:20261220T204500Z
+SUMMARY:Duquesne Dukes - Niagara Purple Eagles
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261227-duquesne-dukes-cleary-university-cougars-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:DUQUESNE DUKES | NCAA | J2 | 🏟️ | Cleary University Cougars 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261227-duquesne-dukes-cleary-university-cougars@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261227T190000Z
+DTEND:20261227T204500Z
+SUMMARY:Duquesne Dukes - Cleary University Cougars
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-duquesne-dukes-davidson-wildcats-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:DUQUESNE DUKES | NCAA | J12 | 🏟️ | Davidson Wildcats 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261231-duquesne-dukes-davidson-wildcats@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20261231T000000Z
+DTEND:20261231T014500Z
+SUMMARY:Duquesne Dukes - Davidson Wildcats
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-vcu-rams-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:DUQUESNE DUKES | NCAA | J12 | ✈️ | VCU Rams 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Siegel
+  Center\, Richmond\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270103-vcu-rams-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270103T000000Z
+DTEND:20270103T014500Z
+SUMMARY:VCU Rams - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:Siegel Center\, Richmond\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-duquesne-dukes-rhode-island-rams-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:DUQUESNE DUKES | NCAA | J14 | 🏟️ | Rhode Island Rams 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270107-duquesne-dukes-rhode-island-rams@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270107T000000Z
+DTEND:20270107T014500Z
+SUMMARY:Duquesne Dukes - Rhode Island Rams
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-loyola-chicago-ramblers-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:DUQUESNE DUKES | NCAA | J13 | ✈️ | Loyola Chicago Ramblers 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Gentil
+ e Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270109-loyola-chicago-ramblers-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Loyola Chicago Ramblers - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:Gentile Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-duquesne-dukes-fordham-rams-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:DUQUESNE DUKES | NCAA | J16 | 🏟️ | Fordham Rams 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270117-duquesne-dukes-fordham-rams@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270117T000000Z
+DTEND:20270117T014500Z
+SUMMARY:Duquesne Dukes - Fordham Rams
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-richmond-spiders-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:DUQUESNE DUKES | NCAA | J17 | ✈️ | Richmond Spiders 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Robins
+  Center\, Richmond\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270121-richmond-spiders-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270121T000000Z
+DTEND:20270121T014500Z
+SUMMARY:Richmond Spiders - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:Robins Center\, Richmond\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-rhode-island-rams-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:DUQUESNE DUKES | NCAA | J16 | ✈️ | Rhode Island Rams 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
+  M. Ryan Center\, Kingston\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270123-rhode-island-rams-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:Rhode Island Rams - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:Thomas M. Ryan Center\, Kingston\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-duquesne-dukes-dayton-flyers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:DUQUESNE DUKES | NCAA | J19 | 🏟️ | Dayton Flyers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270127-duquesne-dukes-dayton-flyers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270127T000000Z
+DTEND:20270127T014500Z
+SUMMARY:Duquesne Dukes - Dayton Flyers
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-duquesne-dukes-st-bonaventure-bonnies-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:DUQUESNE DUKES | NCAA | J20 | 🏟️ | St. Bonaventure Bonnies 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270130-duquesne-dukes-st-bonaventure-bonnies@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Duquesne Dukes - St. Bonaventure Bonnies
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270204-george-washington-revolutionaries-duquesne-dukes-dia@spo
+ rtcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:DUQUESNE DUKES | NCAA | J21 | ✈️ | George Washington Revolution
+ aries 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Charle
+ s E. Smith Center\, Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270204-george-washington-revolutionaries-duquesne-dukes@sportca
+ l
+DTSTAMP:20261113T094351Z
+DTSTART:20270204T000000Z
+DTEND:20270204T014500Z
+SUMMARY:George Washington Revolutionaries - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:Charles E. Smith Center\, Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-duquesne-dukes-loyola-chicago-ramblers-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:DUQUESNE DUKES | NCAA | J19 | 🏟️ | Loyola Chicago Ramblers 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270206-duquesne-dukes-loyola-chicago-ramblers@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:Duquesne Dukes - Loyola Chicago Ramblers
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270211-la-salle-explorers-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:DUQUESNE DUKES | NCAA | J21 | ✈️ | La Salle Explorers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: John G
+ laser Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270211-la-salle-explorers-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270211T000000Z
+DTEND:20270211T014500Z
+SUMMARY:La Salle Explorers - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:John Glaser Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-dayton-flyers-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:DUQUESNE DUKES | NCAA | J22 | ✈️ | Dayton Flyers 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: UD Are
+ na\, Dayton\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270213-dayton-flyers-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:Dayton Flyers - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:UD Arena\, Dayton\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-duquesne-dukes-george-mason-patriots-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:DUQUESNE DUKES | NCAA | J25 | 🏟️ | George Mason Patriots 🇺
+ 🇸
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270220-duquesne-dukes-george-mason-patriots@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270220T173000Z
+DTEND:20270220T191500Z
+SUMMARY:Duquesne Dukes - George Mason Patriots
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-duquesne-dukes-saint-joseph-s-hawks-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:DUQUESNE DUKES | NCAA | J28 | 🏟️ | Saint Joseph's Hawks 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270225-duquesne-dukes-saint-joseph-s-hawks@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270225T000000Z
+DTEND:20270225T014500Z
+SUMMARY:Duquesne Dukes - Saint Joseph's Hawks
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-st-bonaventure-bonnies-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:DUQUESNE DUKES | NCAA | J27 | ✈️ | St. Bonaventure Bonnies 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Reilly
+  Center\, Saint Bonaventure\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270227-st-bonaventure-bonnies-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:St. Bonaventure Bonnies - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:Reilly Center\, Saint Bonaventure\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270304-duquesne-dukes-saint-louis-billikens-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:DUQUESNE DUKES | NCAA | J28 | 🏟️ | Saint Louis Billikens 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: UPMC C
+ ooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270304-duquesne-dukes-saint-louis-billikens@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270304T000000Z
+DTEND:20270304T014500Z
+SUMMARY:Duquesne Dukes - Saint Louis Billikens
+DESCRIPTION:NCAA Division I
+LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-davidson-wildcats-duquesne-dukes-dia@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:DUQUESNE DUKES | NCAA | J29 | ✈️ | Davidson Wildcats 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
+ . Belk Arena\, Davidson\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20270306-davidson-wildcats-duquesne-dukes@sportcal
+DTSTAMP:20261113T094351Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Davidson Wildcats - Duquesne Dukes
+DESCRIPTION:NCAA Division I
+LOCATION:John M. Belk Arena\, Davidson\, NC
+END:VEVENT
+END:VCALENDAR
