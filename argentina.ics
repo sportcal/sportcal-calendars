@@ -5,79 +5,102 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Primera División Argentina
 BEGIN:VEVENT
+UID:argentina-dia-20261121-j17@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:PRIMERA DIVISIÓN | J17
+DESCRIPTION:00:00 Vélez Sarsfield - Belgrano\n19:00 Defensa y Justicia - B
+ arracas Central\n21:00 Argentinos Juniors - Independiente
+END:VEVENT
+BEGIN:VEVENT
 UID:argentina-dia-20261122-j17@sportcal
-DTSTAMP:20261113T061037Z
+DTSTAMP:20261113T080313Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:PRIMERA DIVISIÓN | J17
-DESCRIPTION:01:00 Vélez Sarsfield - Belgrano\n01:00 Boca Juniors - Indepen
- diente Rivadavia\n01:00 Rosario Central - Gimnasia y Esgrima (M)\n01:00 Gi
- mnasia y Esgrima (LP) - Newell's Old Boys\n01:00 River Plate - Lanús\n01:
- 00 Defensa y Justicia - Barracas Central\n01:00 Argentinos Juniors - Indep
- endiente\n01:00 Instituto - Huracán
+DESCRIPTION:20:00 Rosario Central - Gimnasia y Esgrima (M)\n23:00 River Pla
+ te - Lanús
 END:VEVENT
 BEGIN:VEVENT
-UID:argentina-20261122-velez-sarsfield-belgrano@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART:20261122T000000Z
-DTEND:20261122T014500Z
+UID:argentina-dia-20261123-j17@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:PRIMERA DIVISIÓN | J17
+DESCRIPTION:02:00 Instituto - Huracán\n21:00 Gimnasia y Esgrima (LP) - New
+ ell's Old Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-dia-20261126-j17@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:PRIMERA DIVISIÓN | J17
+DESCRIPTION:01:00 Boca Juniors - Independiente Rivadavia
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261121-velez-sarsfield-belgrano@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
 SUMMARY:Vélez Sarsfield - Belgrano
 DESCRIPTION:Primera División Argentina
 END:VEVENT
 BEGIN:VEVENT
-UID:argentina-20261122-boca-juniors-independiente-rivadavia@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART:20261122T000000Z
-DTEND:20261122T014500Z
-SUMMARY:Boca Juniors - Independiente Rivadavia
-DESCRIPTION:Primera División Argentina
-END:VEVENT
-BEGIN:VEVENT
-UID:argentina-20261122-rosario-central-gimnasia-y-esgrima-m@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART:20261122T000000Z
-DTEND:20261122T014500Z
-SUMMARY:Rosario Central - Gimnasia y Esgrima (M)
-DESCRIPTION:Primera División Argentina
-END:VEVENT
-BEGIN:VEVENT
-UID:argentina-20261122-gimnasia-y-esgrima-lp-newell-s-old-boys@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART:20261122T000000Z
-DTEND:20261122T014500Z
-SUMMARY:Gimnasia y Esgrima (LP) - Newell's Old Boys
-DESCRIPTION:Primera División Argentina
-END:VEVENT
-BEGIN:VEVENT
-UID:argentina-20261122-river-plate-lanus@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART:20261122T000000Z
-DTEND:20261122T014500Z
-SUMMARY:River Plate - Lanús
-DESCRIPTION:Primera División Argentina
-END:VEVENT
-BEGIN:VEVENT
-UID:argentina-20261122-defensa-y-justicia-barracas-central@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART:20261122T000000Z
-DTEND:20261122T014500Z
+UID:argentina-20261121-defensa-y-justicia-barracas-central@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
 SUMMARY:Defensa y Justicia - Barracas Central
 DESCRIPTION:Primera División Argentina
 END:VEVENT
 BEGIN:VEVENT
-UID:argentina-20261122-argentinos-juniors-independiente@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART:20261122T000000Z
-DTEND:20261122T014500Z
+UID:argentina-20261121-argentinos-juniors-independiente@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART:20261121T200000Z
+DTEND:20261121T214500Z
 SUMMARY:Argentinos Juniors - Independiente
 DESCRIPTION:Primera División Argentina
 END:VEVENT
 BEGIN:VEVENT
-UID:argentina-20261122-instituto-huracan@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART:20261122T000000Z
-DTEND:20261122T014500Z
+UID:argentina-20261122-rosario-central-gimnasia-y-esgrima-m@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART:20261122T190000Z
+DTEND:20261122T204500Z
+SUMMARY:Rosario Central - Gimnasia y Esgrima (M)
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-river-plate-lanus@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART:20261122T220000Z
+DTEND:20261122T234500Z
+SUMMARY:River Plate - Lanús
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261123-instituto-huracan@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART:20261123T010000Z
+DTEND:20261123T024500Z
 SUMMARY:Instituto - Huracán
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261123-gimnasia-y-esgrima-lp-newell-s-old-boys@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART:20261123T200000Z
+DTEND:20261123T214500Z
+SUMMARY:Gimnasia y Esgrima (LP) - Newell's Old Boys
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261126-boca-juniors-independiente-rivadavia@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART:20261126T000000Z
+DTEND:20261126T014500Z
+SUMMARY:Boca Juniors - Independiente Rivadavia
 DESCRIPTION:Primera División Argentina
 END:VEVENT
 END:VCALENDAR

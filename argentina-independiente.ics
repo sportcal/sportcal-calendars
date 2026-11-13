@@ -5,19 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Independiente · Primera División
 BEGIN:VEVENT
-UID:argentina-20261122-argentinos-juniors-independiente-dia@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+UID:argentina-20261121-argentinos-juniors-independiente-dia@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
 SUMMARY:INDEPENDIENTE | Primera División | J17 | ✈️ | Argentinos Junio
  rs 🇦🇷
-DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Primera División Argentina
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Primera División Argentina
 END:VEVENT
 BEGIN:VEVENT
-UID:argentina-20261122-argentinos-juniors-independiente@sportcal
-DTSTAMP:20261113T061037Z
-DTSTART:20261122T000000Z
-DTEND:20261122T014500Z
+UID:argentina-20261121-argentinos-juniors-independiente@sportcal
+DTSTAMP:20261113T080313Z
+DTSTART:20261121T200000Z
+DTEND:20261121T214500Z
 SUMMARY:Argentinos Juniors - Independiente
 DESCRIPTION:Primera División Argentina
 END:VEVENT
