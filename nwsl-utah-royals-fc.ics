@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Utah Royals FC · NWSL
+BEGIN:VEVENT
+UID:nwsl-20261114-washington-spirit-utah-royals-fc-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:UTAH ROYALS FC | NWSL | J32 | ✈️ | Washington Spirit 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · National Women's Soccer League\
+ nEstadi: Audi Field
+END:VEVENT
+BEGIN:VEVENT
+UID:nwsl-20261114-washington-spirit-utah-royals-fc@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Washington Spirit - Utah Royals FC
+DESCRIPTION:National Women's Soccer League
+LOCATION:Audi Field
+END:VEVENT
+END:VCALENDAR

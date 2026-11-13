@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wycombe Wanderers FC · FA Cup
+BEGIN:VEVENT
+UID:facup-20261205-wycombe-wanderers-fc-milton-keynes-dons-fc-fa-dia@sportc
+ al
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:WYCOMBE WANDERERS FC | FA Cup | 🏟️ | Milton Keynes Dons FC [FA
+ ] 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · FA Cup\nEstadi: Adams Park
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-20261205-wycombe-wanderers-fc-milton-keynes-dons-fc-fa@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Wycombe Wanderers FC - Milton Keynes Dons FC [FA]
+DESCRIPTION:FA Cup
+LOCATION:Adams Park
+END:VEVENT
+END:VCALENDAR

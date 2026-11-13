@@ -1,0 +1,655 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Athletics · MLB
+BEGIN:VEVENT
+UID:mlb-20270331-new-york-yankees-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:ATHLETICS | MLB | J1 | ✈️ | New York Yankees 🇺🇸
+DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
+ ronx\, New York
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270331-new-york-yankees-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270330T230500Z
+DTEND:20270331T005000Z
+SUMMARY:New York Yankees - Athletics
+DESCRIPTION:MLB
+LOCATION:Yankee Stadium\, Bronx\, New York
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270401-texas-rangers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:ATHLETICS | MLB | J1 | ✈️ | Texas Rangers 🇺🇸
+DESCRIPTION:Inici: 23:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
+  Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270401-texas-rangers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270401T211000Z
+DTEND:20270401T225500Z
+SUMMARY:Texas Rangers - Athletics
+DESCRIPTION:MLB
+LOCATION:Globe Life Field\, Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-texas-rangers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:ATHLETICS | MLB | J3 | ✈️ | Texas Rangers 🇺🇸
+DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
+  Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270403-texas-rangers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270403T001000Z
+DTEND:20270403T015500Z
+SUMMARY:Texas Rangers - Athletics
+DESCRIPTION:MLB
+LOCATION:Globe Life Field\, Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-texas-rangers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:ATHLETICS | MLB | J4 | ✈️ | Texas Rangers 🇺🇸
+DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
+  Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-texas-rangers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270403T231000Z
+DTEND:20270404T005500Z
+SUMMARY:Texas Rangers - Athletics
+DESCRIPTION:MLB
+LOCATION:Globe Life Field\, Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-texas-rangers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:ATHLETICS | MLB | J4 | ✈️ | Texas Rangers 🇺🇸
+DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
+  Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270404-texas-rangers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270404T184000Z
+DTEND:20270404T202500Z
+SUMMARY:Texas Rangers - Athletics
+DESCRIPTION:MLB
+LOCATION:Globe Life Field\, Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-kansas-city-royals-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:ATHLETICS | MLB | J12 | ✈️ | Kansas City Royals 🇺🇸
+DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
+  Kansas City\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270414-kansas-city-royals-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270413T234000Z
+DTEND:20270414T012500Z
+SUMMARY:Kansas City Royals - Athletics
+DESCRIPTION:MLB
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-kansas-city-royals-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:ATHLETICS | MLB | J13 | ✈️ | Kansas City Royals 🇺🇸
+DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
+  Kansas City\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-kansas-city-royals-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270414T234000Z
+DTEND:20270415T012500Z
+SUMMARY:Kansas City Royals - Athletics
+DESCRIPTION:MLB
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-kansas-city-royals-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:ATHLETICS | MLB | J13 | ✈️ | Kansas City Royals 🇺🇸
+DESCRIPTION:Inici: 20:10 (Europe/Madrid) · MLB\nEstadi: Kauffman Stadium\,
+  Kansas City\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270415-kansas-city-royals-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270415T181000Z
+DTEND:20270415T195500Z
+SUMMARY:Kansas City Royals - Athletics
+DESCRIPTION:MLB
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270428-minnesota-twins-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:ATHLETICS | MLB | J19 | ✈️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
+ neapolis\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270428-minnesota-twins-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270427T234000Z
+DTEND:20270428T012500Z
+SUMMARY:Minnesota Twins - Athletics
+DESCRIPTION:MLB
+LOCATION:Target Field\, Minneapolis\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270429-minnesota-twins-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:ATHLETICS | MLB | J22 | ✈️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
+ neapolis\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270429-minnesota-twins-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270428T234000Z
+DTEND:20270429T012500Z
+SUMMARY:Minnesota Twins - Athletics
+DESCRIPTION:MLB
+LOCATION:Target Field\, Minneapolis\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270429-minnesota-twins-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:ATHLETICS | MLB | J22 | ✈️ | Minnesota Twins 🇺🇸
+DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
+ neapolis\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270429-minnesota-twins-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270429T174000Z
+DTEND:20270429T192500Z
+SUMMARY:Minnesota Twins - Athletics
+DESCRIPTION:MLB
+LOCATION:Target Field\, Minneapolis\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-colorado-rockies-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:ATHLETICS | MLB | J23 | ✈️ | Colorado Rockies 🇺🇸
+DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
+ er\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270501-colorado-rockies-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270501T004000Z
+DTEND:20270501T022500Z
+SUMMARY:Colorado Rockies - Athletics
+DESCRIPTION:MLB
+LOCATION:Coors Field\, Denver\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-colorado-rockies-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:ATHLETICS | MLB | J24 | ✈️ | Colorado Rockies 🇺🇸
+DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
+ er\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-colorado-rockies-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270502T001000Z
+DTEND:20270502T015500Z
+SUMMARY:Colorado Rockies - Athletics
+DESCRIPTION:MLB
+LOCATION:Coors Field\, Denver\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-colorado-rockies-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:ATHLETICS | MLB | J24 | ✈️ | Colorado Rockies 🇺🇸
+DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
+ er\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270502-colorado-rockies-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270502T191000Z
+DTEND:20270502T205500Z
+SUMMARY:Colorado Rockies - Athletics
+DESCRIPTION:MLB
+LOCATION:Coors Field\, Denver\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270512-st-louis-cardinals-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:ATHLETICS | MLB | J29 | ✈️ | St. Louis Cardinals 🇺🇸
+DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
+ . Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270512-st-louis-cardinals-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270511T234500Z
+DTEND:20270512T013000Z
+SUMMARY:St. Louis Cardinals - Athletics
+DESCRIPTION:MLB
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270513-st-louis-cardinals-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:ATHLETICS | MLB | J30 | ✈️ | St. Louis Cardinals 🇺🇸
+DESCRIPTION:Inici: 01:45 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
+ . Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270513-st-louis-cardinals-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270512T234500Z
+DTEND:20270513T013000Z
+SUMMARY:St. Louis Cardinals - Athletics
+DESCRIPTION:MLB
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270513-st-louis-cardinals-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:ATHLETICS | MLB | J30 | ✈️ | St. Louis Cardinals 🇺🇸
+DESCRIPTION:Inici: 19:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
+ . Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270513-st-louis-cardinals-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270513T171500Z
+DTEND:20270513T190000Z
+SUMMARY:St. Louis Cardinals - Athletics
+DESCRIPTION:MLB
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270515-los-angeles-angels-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:ATHLETICS | MLB | J32 | ✈️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
+ aheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270515-los-angeles-angels-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270514T223800Z
+DTEND:20270515T002300Z
+SUMMARY:Los Angeles Angels - Athletics
+DESCRIPTION:MLB
+LOCATION:Angel Stadium\, Anaheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-los-angeles-angels-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:ATHLETICS | MLB | J33 | ✈️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
+ aheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-los-angeles-angels-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270515T223800Z
+DTEND:20270516T002300Z
+SUMMARY:Los Angeles Angels - Athletics
+DESCRIPTION:MLB
+LOCATION:Angel Stadium\, Anaheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-los-angeles-angels-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:ATHLETICS | MLB | J33 | ✈️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Inici: 22:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
+ aheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270516-los-angeles-angels-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270516T200700Z
+DTEND:20270516T215200Z
+SUMMARY:Los Angeles Angels - Athletics
+DESCRIPTION:MLB
+LOCATION:Angel Stadium\, Anaheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-baltimore-orioles-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:ATHLETICS | MLB | J65 | ✈️ | Baltimore Orioles 🇺🇸
+DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270630-baltimore-orioles-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270629T223500Z
+DTEND:20270630T002000Z
+SUMMARY:Baltimore Orioles - Athletics
+DESCRIPTION:MLB
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-baltimore-orioles-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:ATHLETICS | MLB | J66 | ✈️ | Baltimore Orioles 🇺🇸
+DESCRIPTION:Inici: 00:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-baltimore-orioles-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270630T223500Z
+DTEND:20270701T002000Z
+SUMMARY:Baltimore Orioles - Athletics
+DESCRIPTION:MLB
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-baltimore-orioles-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:ATHLETICS | MLB | J66 | ✈️ | Baltimore Orioles 🇺🇸
+DESCRIPTION:Inici: 18:35 (Europe/Madrid) · MLB\nEstadi: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270701-baltimore-orioles-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270701T163500Z
+DTEND:20270701T182000Z
+SUMMARY:Baltimore Orioles - Athletics
+DESCRIPTION:MLB
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270703-washington-nationals-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:ATHLETICS | MLB | J60 | ✈️ | Washington Nationals 🇺🇸
+DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
+ ashington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270703-washington-nationals-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270702T230500Z
+DTEND:20270703T005000Z
+SUMMARY:Washington Nationals - Athletics
+DESCRIPTION:MLB
+LOCATION:Nationals Park\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270703-washington-nationals-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:ATHLETICS | MLB | J60 | ✈️ | Washington Nationals 🇺🇸
+DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
+ ashington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270703-washington-nationals-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270703T200500Z
+DTEND:20270703T215000Z
+SUMMARY:Washington Nationals - Athletics
+DESCRIPTION:MLB
+LOCATION:Nationals Park\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270704-washington-nationals-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:ATHLETICS | MLB | J66 | ✈️ | Washington Nationals 🇺🇸
+DESCRIPTION:Inici: 17:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
+ ashington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270704-washington-nationals-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270704T150500Z
+DTEND:20270704T165000Z
+SUMMARY:Washington Nationals - Athletics
+DESCRIPTION:MLB
+LOCATION:Nationals Park\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-los-angeles-angels-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:ATHLETICS | MLB | J78 | ✈️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
+ aheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270723-los-angeles-angels-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270722T223800Z
+DTEND:20270723T002300Z
+SUMMARY:Los Angeles Angels - Athletics
+DESCRIPTION:MLB
+LOCATION:Angel Stadium\, Anaheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-los-angeles-angels-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:ATHLETICS | MLB | J77 | ✈️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
+ aheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270724-los-angeles-angels-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270723T223800Z
+DTEND:20270724T002300Z
+SUMMARY:Los Angeles Angels - Athletics
+DESCRIPTION:MLB
+LOCATION:Angel Stadium\, Anaheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-los-angeles-angels-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:ATHLETICS | MLB | J78 | ✈️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
+ aheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270725-los-angeles-angels-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270724T223800Z
+DTEND:20270725T002300Z
+SUMMARY:Los Angeles Angels - Athletics
+DESCRIPTION:MLB
+LOCATION:Angel Stadium\, Anaheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270726-los-angeles-angels-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:ATHLETICS | MLB | J78 | ✈️ | Los Angeles Angels 🇺🇸
+DESCRIPTION:Inici: 01:07 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
+ aheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270726-los-angeles-angels-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270725T230700Z
+DTEND:20270726T005200Z
+SUMMARY:Los Angeles Angels - Athletics
+DESCRIPTION:MLB
+LOCATION:Angel Stadium\, Anaheim\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270807-texas-rangers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:ATHLETICS | MLB | J85 | ✈️ | Texas Rangers 🇺🇸
+DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
+  Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270807-texas-rangers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270807T001000Z
+DTEND:20270807T015500Z
+SUMMARY:Texas Rangers - Athletics
+DESCRIPTION:MLB
+LOCATION:Globe Life Field\, Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-texas-rangers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:ATHLETICS | MLB | J85 | ✈️ | Texas Rangers 🇺🇸
+DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
+  Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-texas-rangers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270807T231000Z
+DTEND:20270808T005500Z
+SUMMARY:Texas Rangers - Athletics
+DESCRIPTION:MLB
+LOCATION:Globe Life Field\, Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-texas-rangers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:ATHLETICS | MLB | J85 | ✈️ | Texas Rangers 🇺🇸
+DESCRIPTION:Inici: 20:40 (Europe/Madrid) · MLB\nEstadi: Globe Life Field\,
+  Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270808-texas-rangers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270808T184000Z
+DTEND:20270808T202500Z
+SUMMARY:Texas Rangers - Athletics
+DESCRIPTION:MLB
+LOCATION:Globe Life Field\, Arlington\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-milwaukee-brewers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:ATHLETICS | MLB | J92 | ✈️ | Milwaukee Brewers 🇺🇸
+DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
+ eld\, Milwaukee\, Wisconsin
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270817-milwaukee-brewers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270816T234000Z
+DTEND:20270817T012500Z
+SUMMARY:Milwaukee Brewers - Athletics
+DESCRIPTION:MLB
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-milwaukee-brewers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:ATHLETICS | MLB | J93 | ✈️ | Milwaukee Brewers 🇺🇸
+DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
+ eld\, Milwaukee\, Wisconsin
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-milwaukee-brewers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270817T234000Z
+DTEND:20270818T012500Z
+SUMMARY:Milwaukee Brewers - Athletics
+DESCRIPTION:MLB
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-milwaukee-brewers-athletics-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:ATHLETICS | MLB | J93 | ✈️ | Milwaukee Brewers 🇺🇸
+DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: American Family Fi
+ eld\, Milwaukee\, Wisconsin
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-20270818-milwaukee-brewers-athletics@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20270818T191000Z
+DTEND:20270818T205500Z
+SUMMARY:Milwaukee Brewers - Athletics
+DESCRIPTION:MLB
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+END:VEVENT
+END:VCALENDAR

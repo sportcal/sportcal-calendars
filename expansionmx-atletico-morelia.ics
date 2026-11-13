@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlético Morelia · Expansión MX
+BEGIN:VEVENT
+UID:expansionmx-20261113-atletico-morelia-leones-negros-udg-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ATLÉTICO MORELIA | Expansión MX | J18 | 🏟️ | Leones Negros U
+ DG 🇲🇽
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · Liga de Expansión MX\nEstadi: 
+ Estadio Morelos
+END:VEVENT
+BEGIN:VEVENT
+UID:expansionmx-20261113-atletico-morelia-leones-negros-udg@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261113T020000Z
+DTEND:20261113T034500Z
+SUMMARY:Atlético Morelia - Leones Negros UDG
+DESCRIPTION:Liga de Expansión MX
+LOCATION:Estadio Morelos
+END:VEVENT
+BEGIN:VEVENT
+UID:expansionmx-20261115-leones-negros-udg-atletico-morelia-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ATLÉTICO MORELIA | Expansión MX | J19 | ✈️ | Leones Negros UD
+ G 🇲🇽
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Liga de Expansión MX\nEstadi: 
+ Estadio Jalisco
+END:VEVENT
+BEGIN:VEVENT
+UID:expansionmx-20261115-leones-negros-udg-atletico-morelia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261115T180000Z
+DTEND:20261115T194500Z
+SUMMARY:Leones Negros UDG - Atlético Morelia
+DESCRIPTION:Liga de Expansión MX
+LOCATION:Estadio Jalisco
+END:VEVENT
+END:VCALENDAR

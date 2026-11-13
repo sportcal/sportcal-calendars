@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belgrano · Primera División
+BEGIN:VEVENT
+UID:argentina-20261122-velez-sarsfield-belgrano-dia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:BELGRANO | Primera División | J17 | ✈️ | Vélez Sarsfield 🇦
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-velez-sarsfield-belgrano@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Vélez Sarsfield - Belgrano
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+END:VCALENDAR

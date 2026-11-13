@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Primera División Argentina
+BEGIN:VEVENT
+UID:argentina-dia-20261122-j17@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:PRIMERA DIVISIÓN | J17
+DESCRIPTION:01:00 Vélez Sarsfield - Belgrano\n01:00 Boca Juniors - Indepen
+ diente Rivadavia\n01:00 Rosario Central - Gimnasia y Esgrima (M)\n01:00 Gi
+ mnasia y Esgrima (LP) - Newell's Old Boys\n01:00 River Plate - Lanús\n01:
+ 00 Defensa y Justicia - Barracas Central\n01:00 Argentinos Juniors - Indep
+ endiente\n01:00 Instituto - Huracán
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-velez-sarsfield-belgrano@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Vélez Sarsfield - Belgrano
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-boca-juniors-independiente-rivadavia@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Boca Juniors - Independiente Rivadavia
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-rosario-central-gimnasia-y-esgrima-m@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Rosario Central - Gimnasia y Esgrima (M)
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-gimnasia-y-esgrima-lp-newell-s-old-boys@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Gimnasia y Esgrima (LP) - Newell's Old Boys
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-river-plate-lanus@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:River Plate - Lanús
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-defensa-y-justicia-barracas-central@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Defensa y Justicia - Barracas Central
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-argentinos-juniors-independiente@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Argentinos Juniors - Independiente
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina-20261122-instituto-huracan@sportcal
+DTSTAMP:20261113T021053Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Instituto - Huracán
+DESCRIPTION:Primera División Argentina
+END:VEVENT
+END:VCALENDAR
