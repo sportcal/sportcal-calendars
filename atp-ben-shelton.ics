@@ -5,8 +5,27 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ben Shelton · ATP
 BEGIN:VEVENT
+UID:atp-espn-339-2026-187506-dia@sportcal
+DTSTAMP:20261113T042537Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:BEN SHELTON | Nitto ATP Finals | Group Stage | vs Arthur Fils
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Nitto ATP Finals — Group Stag
+ e — Mens Singles · Ben Shelton · ATP\nPista: Turin\, Italy
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187506@sportcal
+DTSTAMP:20261113T042537Z
+DTSTART:20261115T193000Z
+DTEND:20261115T220000Z
+SUMMARY:Arthur Fils - Ben Shelton
+DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · Ben Shelto
+ n · ATP
+LOCATION:Turin\, Italy
+END:VEVENT
+BEGIN:VEVENT
 UID:atp-espn-339-2026-187503-dia@sportcal
-DTSTAMP:20261113T041928Z
+DTSTAMP:20261113T042537Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:BEN SHELTON | Nitto ATP Finals | Group Stage | vs Alexander Zverev
@@ -15,10 +34,29 @@ DESCRIPTION:Hora pendent de confirmació · Nitto ATP Finals — Group Stag
 END:VEVENT
 BEGIN:VEVENT
 UID:atp-espn-339-2026-187503@sportcal
-DTSTAMP:20261113T041928Z
+DTSTAMP:20261113T042537Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Ben Shelton - Alexander Zverev · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
+  confirmed) · Ben Shelton · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187507-dia@sportcal
+DTSTAMP:20261113T042537Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:BEN SHELTON | Nitto ATP Finals | Group Stage | vs Rafael Jodar
+DESCRIPTION:Hora pendent de confirmació · Nitto ATP Finals — Group Stag
+ e — Mens Singles - TBD (time to be confirmed) · Ben Shelton · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187507@sportcal
+DTSTAMP:20261113T042537Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Rafael Jodar - Ben Shelton · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
   confirmed) · Ben Shelton · ATP
