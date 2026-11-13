@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Royal Challengers Bengaluru · WPL
+BEGIN:VEVENT
+UID:wpl-20270114-mumbai-indians-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:ROYAL CHALLENGERS BENGALURU | WPL | ✈️ | Mumbai Indians
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Premier League\nEstadi:
+  Kotambi Stadium\, Vadodara\, Vadodara
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270114-mumbai-indians-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART:20270114T140000Z
+DTEND:20270114T154500Z
+SUMMARY:Mumbai Indians - Royal Challengers Bengaluru
+DESCRIPTION:Women's Premier League
+LOCATION:Kotambi Stadium\, Vadodara\, Vadodara
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270116-delhi-capitals-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:ROYAL CHALLENGERS BENGALURU | WPL | ✈️ | Delhi Capitals
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Premier League\nEstadi:
+  Kotambi Stadium\, Vadodara\, Vadodara
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270116-delhi-capitals-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART:20270116T140000Z
+DTEND:20270116T154500Z
+SUMMARY:Delhi Capitals - Royal Challengers Bengaluru
+DESCRIPTION:Women's Premier League
+LOCATION:Kotambi Stadium\, Vadodara\, Vadodara
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270119-royal-challengers-bengaluru-up-warriorz-dia@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:ROYAL CHALLENGERS BENGALURU | WPL | 🏟️ | UP Warriorz
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Premier League\nEstadi:
+  Kotambi Stadium\, Vadodara\, Vadodara
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270119-royal-challengers-bengaluru-up-warriorz@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART:20270119T140000Z
+DTEND:20270119T154500Z
+SUMMARY:Royal Challengers Bengaluru - UP Warriorz
+DESCRIPTION:Women's Premier League
+LOCATION:Kotambi Stadium\, Vadodara\, Vadodara
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270122-gujarat-giants-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:ROYAL CHALLENGERS BENGALURU | WPL | ✈️ | Gujarat Giants
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Premier League\nEstadi:
+  Kotambi Stadium\, Vadodara\, Vadodara
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270122-gujarat-giants-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART:20270122T140000Z
+DTEND:20270122T154500Z
+SUMMARY:Gujarat Giants - Royal Challengers Bengaluru
+DESCRIPTION:Women's Premier League
+LOCATION:Kotambi Stadium\, Vadodara\, Vadodara
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270126-mumbai-indians-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:ROYAL CHALLENGERS BENGALURU | WPL | ✈️ | Mumbai Indians
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Premier League\nEstadi:
+  Brabourne Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270126-mumbai-indians-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART:20270126T140000Z
+DTEND:20270126T154500Z
+SUMMARY:Mumbai Indians - Royal Challengers Bengaluru
+DESCRIPTION:Women's Premier League
+LOCATION:Brabourne Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270129-delhi-capitals-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:ROYAL CHALLENGERS BENGALURU | WPL | ✈️ | Delhi Capitals
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Premier League\nEstadi:
+  Brabourne Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270129-delhi-capitals-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART:20270129T140000Z
+DTEND:20270129T154500Z
+SUMMARY:Delhi Capitals - Royal Challengers Bengaluru
+DESCRIPTION:Women's Premier League
+LOCATION:Brabourne Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270131-royal-challengers-bengaluru-up-warriorz-dia@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:ROYAL CHALLENGERS BENGALURU | WPL | 🏟️ | UP Warriorz
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Premier League\nEstadi:
+  Brabourne Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270131-royal-challengers-bengaluru-up-warriorz@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Royal Challengers Bengaluru - UP Warriorz
+DESCRIPTION:Women's Premier League
+LOCATION:Brabourne Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270202-gujarat-giants-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:ROYAL CHALLENGERS BENGALURU | WPL | ✈️ | Gujarat Giants
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's Premier League\nEstadi:
+  Brabourne Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:wpl-20270202-gujarat-giants-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T032442Z
+DTSTART:20270202T140000Z
+DTEND:20270202T154500Z
+SUMMARY:Gujarat Giants - Royal Challengers Bengaluru
+DESCRIPTION:Women's Premier League
+LOCATION:Brabourne Stadium\, Mumbai\, Mumbai
+END:VEVENT
+END:VCALENDAR
