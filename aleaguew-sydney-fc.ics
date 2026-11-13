@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sydney FC · A-League Women
+BEGIN:VEVENT
+UID:aleaguew-20261115-wellington-phoenix-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SYDNEY FC | A-League Women | J4 | ✈️ | Wellington Phoenix 🇳
+ 🇿
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · A-League Women\nEstadi: Porirua
+  Park\, Porirua
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261115-wellington-phoenix-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261115T010000Z
+DTEND:20261115T024500Z
+SUMMARY:Wellington Phoenix - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:Porirua Park\, Porirua
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261121-sydney-fc-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SYDNEY FC | A-League Women | J5 | 🏟️ | Canberra United 🇦
+ 🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Sydney 
+ Olympic Park Athletic Centre\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261121-sydney-fc-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261121T060000Z
+DTEND:20261121T074500Z
+SUMMARY:Sydney FC - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Sydney Olympic Park Athletic Centre\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261211-adelaide-united-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:SYDNEY FC | A-League Women | J7 | ✈️ | Adelaide United 🇦🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Hindmar
+ sh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261211-adelaide-united-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261211T055000Z
+DTEND:20261211T073500Z
+SUMMARY:Adelaide United - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:Hindmarsh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261220-sydney-fc-central-coast-mariners-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:SYDNEY FC | A-League Women | J7 | 🏟️ | Central Coast Mariners 
+ 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: WIN Sta
+ dium\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261220-sydney-fc-central-coast-mariners@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261220T060000Z
+DTEND:20261220T074500Z
+SUMMARY:Sydney FC - Central Coast Mariners
+DESCRIPTION:A-League Women
+LOCATION:WIN Stadium\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261227-melbourne-city-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:SYDNEY FC | A-League Women | J8 | ✈️ | Melbourne City 🇦🇺
+DESCRIPTION:Inici: 05:15 (Europe/Madrid) · A-League Women\nEstadi: Melbour
+ ne Rectangular Stadium\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261227-melbourne-city-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261227T041500Z
+DTEND:20261227T060000Z
+SUMMARY:Melbourne City - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:Melbourne Rectangular Stadium\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270102-sydney-fc-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:SYDNEY FC | A-League Women | J9 | 🏟️ | Brisbane Roar 🇦🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Allianz
+  Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270102-sydney-fc-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270102T055000Z
+DTEND:20270102T073500Z
+SUMMARY:Sydney FC - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:Allianz Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270110-perth-glory-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:SYDNEY FC | A-League Women | J10 | ✈️ | Perth Glory 🇦🇺
+DESCRIPTION:Inici: 10:00 (Europe/Madrid) · A-League Women\nEstadi: Sam Ker
+ r Football Centre\, Perth
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270110-perth-glory-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270110T090000Z
+DTEND:20270110T104500Z
+SUMMARY:Perth Glory - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:Sam Kerr Football Centre\, Perth
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270116-sydney-fc-newcastle-jets-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:SYDNEY FC | A-League Women | J11 | 🏟️ | Newcastle Jets 🇦
+ 🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Allianz
+  Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270116-sydney-fc-newcastle-jets@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270116T055000Z
+DTEND:20270116T073500Z
+SUMMARY:Sydney FC - Newcastle Jets
+DESCRIPTION:A-League Women
+LOCATION:Allianz Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270123-sydney-fc-melbourne-victory-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:SYDNEY FC | A-League Women | J12 | 🏟️ | Melbourne Victory 🇦
+ 🇺
+DESCRIPTION:Inici: 08:00 (Europe/Madrid) · A-League Women
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270123-sydney-fc-melbourne-victory@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270123T070000Z
+DTEND:20270123T084500Z
+SUMMARY:Sydney FC - Melbourne Victory
+DESCRIPTION:A-League Women
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270130-western-sydney-wanderers-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:SYDNEY FC | A-League Women | J13 | ✈️ | Western Sydney Wanderer
+ s 🇦🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: CommBan
+ k Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270130-western-sydney-wanderers-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270130T055000Z
+DTEND:20270130T073500Z
+SUMMARY:Western Sydney Wanderers - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:CommBank Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270213-canberra-united-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:SYDNEY FC | A-League Women | J14 | ✈️ | Canberra United 🇦
+ 🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270213-canberra-united-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270213T060000Z
+DTEND:20270213T074500Z
+SUMMARY:Canberra United - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270220-sydney-fc-wellington-phoenix-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:SYDNEY FC | A-League Women | J15 | 🏟️ | Wellington Phoenix 
+ 🇳🇿
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: WIN Sta
+ dium\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270220-sydney-fc-wellington-phoenix@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270220T060000Z
+DTEND:20270220T074500Z
+SUMMARY:Sydney FC - Wellington Phoenix
+DESCRIPTION:A-League Women
+LOCATION:WIN Stadium\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270312-central-coast-mariners-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:SYDNEY FC | A-League Women | J16 | ✈️ | Central Coast Mariners 
+ 🇦🇺
+DESCRIPTION:Inici: 09:00 (Europe/Madrid) · A-League Women\nEstadi: Central
+  Coast Stadium\, New South Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270312-central-coast-mariners-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270312T080000Z
+DTEND:20270312T094500Z
+SUMMARY:Central Coast Mariners - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:Central Coast Stadium\, New South Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270320-newcastle-jets-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SYDNEY FC | A-League Women | J17 | ✈️ | Newcastle Jets 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: McDonal
+ d Jones Stadium\, Newcastle\, New South Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270320-newcastle-jets-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270320T060000Z
+DTEND:20270320T074500Z
+SUMMARY:Newcastle Jets - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:McDonald Jones Stadium\, Newcastle\, New South Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270327-sydney-fc-perth-glory-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:SYDNEY FC | A-League Women | J18 | 🏟️ | Perth Glory 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: WIN Sta
+ dium\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270327-sydney-fc-perth-glory@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270327T060000Z
+DTEND:20270327T074500Z
+SUMMARY:Sydney FC - Perth Glory
+DESCRIPTION:A-League Women
+LOCATION:WIN Stadium\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270404-sydney-fc-western-sydney-wanderers-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:SYDNEY FC | A-League Women | J19 | 🏟️ | Western Sydney Wandere
+ rs 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: WIN Sta
+ dium\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270404-sydney-fc-western-sydney-wanderers@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270404T050000Z
+DTEND:20270404T064500Z
+SUMMARY:Sydney FC - Western Sydney Wanderers
+DESCRIPTION:A-League Women
+LOCATION:WIN Stadium\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270410-melbourne-victory-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:SYDNEY FC | A-League Women | J20 | ✈️ | Melbourne Victory 🇦
+ 🇺
+DESCRIPTION:Inici: 09:00 (Europe/Madrid) · A-League Women\nEstadi: Melbour
+ ne Rectangular Stadium\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270410-melbourne-victory-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270410T070000Z
+DTEND:20270410T084500Z
+SUMMARY:Melbourne Victory - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:Melbourne Rectangular Stadium\, Melbourne
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,309 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Adelaide United · A-League Women
+BEGIN:VEVENT
+UID:aleaguew-20261114-melbourne-victory-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:ADELAIDE UNITED | A-League Women | J5 | ✈️ | Melbourne Victory 
+ 🇦🇺
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · A-League Women\nEstadi: Lakesid
+ e Stadium\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261114-melbourne-victory-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261114T040000Z
+DTEND:20261114T054500Z
+SUMMARY:Melbourne Victory - Adelaide United
+DESCRIPTION:A-League Women
+LOCATION:Lakeside Stadium\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261121-newcastle-jets-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ADELAIDE UNITED | A-League Women | J5 | ✈️ | Newcastle Jets 
+ 🇦🇺
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · A-League Women
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261121-newcastle-jets-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261121T200000Z
+DTEND:20261121T214500Z
+SUMMARY:Newcastle Jets - Adelaide United
+DESCRIPTION:A-League Women
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261211-adelaide-united-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:ADELAIDE UNITED | A-League Women | J7 | 🏟️ | Sydney FC 🇦
+ 🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Hindmar
+ sh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261211-adelaide-united-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261211T055000Z
+DTEND:20261211T073500Z
+SUMMARY:Adelaide United - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:Hindmarsh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261227-adelaide-united-central-coast-mariners-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:ADELAIDE UNITED | A-League Women | J8 | 🏟️ | Central Coast Mar
+ iners 🇦🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Hindmar
+ sh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261227-adelaide-united-central-coast-mariners@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261227T055000Z
+DTEND:20261227T073500Z
+SUMMARY:Adelaide United - Central Coast Mariners
+DESCRIPTION:A-League Women
+LOCATION:Hindmarsh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270102-western-sydney-wanderers-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:ADELAIDE UNITED | A-League Women | J9 | ✈️ | Western Sydney Wan
+ derers 🇦🇺
+DESCRIPTION:Inici: 08:00 (Europe/Madrid) · A-League Women\nEstadi: Western
+  Sydney Wanderers Academy\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270102-western-sydney-wanderers-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270102T070000Z
+DTEND:20270102T084500Z
+SUMMARY:Western Sydney Wanderers - Adelaide United
+DESCRIPTION:A-League Women
+LOCATION:Western Sydney Wanderers Academy\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270109-adelaide-united-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:ADELAIDE UNITED | A-League Women | J10 | 🏟️ | Canberra United 
+ 🇦🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Hindmar
+ sh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270109-adelaide-united-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270109T055000Z
+DTEND:20270109T073500Z
+SUMMARY:Adelaide United - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Hindmarsh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270117-brisbane-roar-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:ADELAIDE UNITED | A-League Women | J11 | ✈️ | Brisbane Roar 
+ 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Spencer
+  Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270117-brisbane-roar-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270117T060000Z
+DTEND:20270117T074500Z
+SUMMARY:Brisbane Roar - Adelaide United
+DESCRIPTION:A-League Women
+LOCATION:Spencer Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270123-perth-glory-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:ADELAIDE UNITED | A-League Women | J12 | ✈️ | Perth Glory 🇦
+ 🇺
+DESCRIPTION:Inici: 10:00 (Europe/Madrid) · A-League Women\nEstadi: Sam Ker
+ r Football Centre\, Perth
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270123-perth-glory-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270123T090000Z
+DTEND:20270123T104500Z
+SUMMARY:Perth Glory - Adelaide United
+DESCRIPTION:A-League Women
+LOCATION:Sam Kerr Football Centre\, Perth
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270129-adelaide-united-melbourne-city-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:ADELAIDE UNITED | A-League Women | J13 | 🏟️ | Melbourne City 
+ 🇦🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Hindmar
+ sh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270129-adelaide-united-melbourne-city@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270129T055000Z
+DTEND:20270129T073500Z
+SUMMARY:Adelaide United - Melbourne City
+DESCRIPTION:A-League Women
+LOCATION:Hindmarsh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270206-adelaide-united-melbourne-victory-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:ADELAIDE UNITED | A-League Women | J14 | 🏟️ | Melbourne Victor
+ y 🇦🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Hindmar
+ sh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270206-adelaide-united-melbourne-victory@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270206T055000Z
+DTEND:20270206T073500Z
+SUMMARY:Adelaide United - Melbourne Victory
+DESCRIPTION:A-League Women
+LOCATION:Hindmarsh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270214-wellington-phoenix-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:ADELAIDE UNITED | A-League Women | J15 | ✈️ | Wellington Phoeni
+ x 🇳🇿
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · A-League Women\nEstadi: Porirua
+  Park\, Porirua
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270214-wellington-phoenix-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270214T020000Z
+DTEND:20270214T034500Z
+SUMMARY:Wellington Phoenix - Adelaide United
+DESCRIPTION:A-League Women
+LOCATION:Porirua Park\, Porirua
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270313-adelaide-united-western-sydney-wanderers-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:ADELAIDE UNITED | A-League Women | J16 | 🏟️ | Western Sydney W
+ anderers 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Hindmar
+ sh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270313-adelaide-united-western-sydney-wanderers@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270313T060000Z
+DTEND:20270313T074500Z
+SUMMARY:Adelaide United - Western Sydney Wanderers
+DESCRIPTION:A-League Women
+LOCATION:Hindmarsh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270320-canberra-united-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:ADELAIDE UNITED | A-League Women | J17 | ✈️ | Canberra United 
+ 🇦🇺
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270320-canberra-united-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270320T040000Z
+DTEND:20270320T054500Z
+SUMMARY:Canberra United - Adelaide United
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270327-adelaide-united-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:ADELAIDE UNITED | A-League Women | J18 | 🏟️ | Brisbane Roar 
+ 🇦🇺
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · A-League Women\nEstadi: Service
+ FM Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270327-adelaide-united-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270327T040000Z
+DTEND:20270327T054500Z
+SUMMARY:Adelaide United - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:ServiceFM Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270402-adelaide-united-newcastle-jets-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:ADELAIDE UNITED | A-League Women | J19 | 🏟️ | Newcastle Jets 
+ 🇦🇺
+DESCRIPTION:Inici: 07:50 (Europe/Madrid) · A-League Women\nEstadi: Hindmar
+ sh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270402-adelaide-united-newcastle-jets@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270402T055000Z
+DTEND:20270402T073500Z
+SUMMARY:Adelaide United - Newcastle Jets
+DESCRIPTION:A-League Women
+LOCATION:Hindmarsh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270411-melbourne-city-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:ADELAIDE UNITED | A-League Women | J20 | ✈️ | Melbourne City 
+ 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Melbour
+ ne City Football Academy\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270411-melbourne-city-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270411T050000Z
+DTEND:20270411T064500Z
+SUMMARY:Melbourne City - Adelaide United
+DESCRIPTION:A-League Women
+LOCATION:Melbourne City Football Academy\, Melbourne
+END:VEVENT
+END:VCALENDAR

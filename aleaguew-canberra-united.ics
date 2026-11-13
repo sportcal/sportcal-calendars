@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canberra United · A-League Women
+BEGIN:VEVENT
+UID:aleaguew-20261115-canberra-united-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:CANBERRA UNITED | A-League Women | J4 | 🏟️ | Brisbane Roar 
+ 🇦🇺
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261115-canberra-united-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261115T040000Z
+DTEND:20261115T054500Z
+SUMMARY:Canberra United - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261121-sydney-fc-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CANBERRA UNITED | A-League Women | J5 | ✈️ | Sydney FC 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Sydney 
+ Olympic Park Athletic Centre\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261121-sydney-fc-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261121T060000Z
+DTEND:20261121T074500Z
+SUMMARY:Sydney FC - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Sydney Olympic Park Athletic Centre\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261212-canberra-united-wellington-phoenix-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:CANBERRA UNITED | A-League Women | J7 | 🏟️ | Wellington Phoeni
+ x 🇳🇿
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261212-canberra-united-wellington-phoenix@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261212T060000Z
+DTEND:20261212T074500Z
+SUMMARY:Canberra United - Wellington Phoenix
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261219-canberra-united-newcastle-jets-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:CANBERRA UNITED | A-League Women | J7 | 🏟️ | Newcastle Jets 
+ 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261219-canberra-united-newcastle-jets@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261219T060000Z
+DTEND:20261219T074500Z
+SUMMARY:Canberra United - Newcastle Jets
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261228-western-sydney-wanderers-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:CANBERRA UNITED | A-League Women | J9 | ✈️ | Western Sydney Wan
+ derers 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Western
+  Sydney Wanderers Academy\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261228-western-sydney-wanderers-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261228T060000Z
+DTEND:20261228T074500Z
+SUMMARY:Western Sydney Wanderers - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Western Sydney Wanderers Academy\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270102-canberra-united-melbourne-victory-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:CANBERRA UNITED | A-League Women | J9 | 🏟️ | Melbourne Victory
+  🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270102-canberra-united-melbourne-victory@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270102T060000Z
+DTEND:20270102T074500Z
+SUMMARY:Canberra United - Melbourne Victory
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270109-adelaide-united-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:CANBERRA UNITED | A-League Women | J10 | ✈️ | Adelaide United 
+ 🇦🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Hindmar
+ sh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270109-adelaide-united-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270109T055000Z
+DTEND:20270109T073500Z
+SUMMARY:Adelaide United - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Hindmarsh Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270116-melbourne-city-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:CANBERRA UNITED | A-League Women | J11 | ✈️ | Melbourne City 
+ 🇦🇺
+DESCRIPTION:Inici: 09:45 (Europe/Madrid) · A-League Women\nEstadi: Melbour
+ ne Rectangular Stadium\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270116-melbourne-city-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270116T084500Z
+DTEND:20270116T103000Z
+SUMMARY:Melbourne City - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Melbourne Rectangular Stadium\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270131-canberra-united-central-coast-mariners-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:CANBERRA UNITED | A-League Women | J14 | 🏟️ | Central Coast Ma
+ riners 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270131-canberra-united-central-coast-mariners@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270131T060000Z
+DTEND:20270131T074500Z
+SUMMARY:Canberra United - Central Coast Mariners
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270206-brisbane-roar-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:CANBERRA UNITED | A-League Women | J14 | ✈️ | Brisbane Roar 
+ 🇦🇺
+DESCRIPTION:Inici: 08:00 (Europe/Madrid) · A-League Women\nEstadi: Spencer
+  Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270206-brisbane-roar-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270206T070000Z
+DTEND:20270206T084500Z
+SUMMARY:Brisbane Roar - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Spencer Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270213-canberra-united-sydney-fc-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:CANBERRA UNITED | A-League Women | J14 | 🏟️ | Sydney FC 🇦
+ 🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270213-canberra-united-sydney-fc@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270213T060000Z
+DTEND:20270213T074500Z
+SUMMARY:Canberra United - Sydney FC
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270220-newcastle-jets-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:CANBERRA UNITED | A-League Women | J15 | ✈️ | Newcastle Jets 
+ 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Hunter 
+ City Motor Group Stadium\, Weston
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270220-newcastle-jets-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270220T060000Z
+DTEND:20270220T074500Z
+SUMMARY:Newcastle Jets - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Hunter City Motor Group Stadium\, Weston
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270314-melbourne-victory-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:CANBERRA UNITED | A-League Women | J17 | ✈️ | Melbourne Victory
+  🇦🇺
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · A-League Women\nEstadi: The Hom
+ e of the Matildas\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270314-melbourne-victory-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270314T040000Z
+DTEND:20270314T054500Z
+SUMMARY:Melbourne Victory - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:The Home of the Matildas\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270320-canberra-united-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:CANBERRA UNITED | A-League Women | J17 | 🏟️ | Adelaide United 
+ 🇦🇺
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270320-canberra-united-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270320T040000Z
+DTEND:20270320T054500Z
+SUMMARY:Canberra United - Adelaide United
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270328-wellington-phoenix-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:CANBERRA UNITED | A-League Women | J18 | ✈️ | Wellington Phoeni
+ x 🇳🇿
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · A-League Women\nEstadi: Porirua
+  Park\, Porirua
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270328-wellington-phoenix-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270328T020000Z
+DTEND:20270328T034500Z
+SUMMARY:Wellington Phoenix - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Porirua Park\, Porirua
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270403-canberra-united-melbourne-city-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:CANBERRA UNITED | A-League Women | J19 | 🏟️ | Melbourne City 
+ 🇦🇺
+DESCRIPTION:Inici: 06:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270403-canberra-united-melbourne-city@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270403T040000Z
+DTEND:20270403T054500Z
+SUMMARY:Canberra United - Melbourne City
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270410-canberra-united-perth-glory-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:CANBERRA UNITED | A-League Women | J20 | 🏟️ | Perth Glory 🇦
+ 🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270410-canberra-united-perth-glory@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270410T050000Z
+DTEND:20270410T064500Z
+SUMMARY:Canberra United - Perth Glory
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+END:VCALENDAR

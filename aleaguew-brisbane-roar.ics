@@ -1,0 +1,310 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brisbane Roar · A-League Women
+BEGIN:VEVENT
+UID:aleaguew-20261115-canberra-united-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:BRISBANE ROAR | A-League Women | J4 | ✈️ | Canberra United 🇦
+ 🇺
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · A-League Women\nEstadi: McKella
+ r Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261115-canberra-united-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261115T040000Z
+DTEND:20261115T054500Z
+SUMMARY:Canberra United - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:McKellar Park\, Canberra
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261121-brisbane-roar-melbourne-city-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:BRISBANE ROAR | A-League Women | J5 | 🏟️ | Melbourne City 🇦
+ 🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Dolphin
+  Stadium\, Queensland
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261121-brisbane-roar-melbourne-city@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261121T055000Z
+DTEND:20261121T073500Z
+SUMMARY:Brisbane Roar - Melbourne City
+DESCRIPTION:A-League Women
+LOCATION:Dolphin Stadium\, Queensland
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261213-central-coast-mariners-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:BRISBANE ROAR | A-League Women | J7 | ✈️ | Central Coast Marine
+ rs 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Central
+  Coast Stadium\, New South Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261213-central-coast-mariners-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261213T060000Z
+DTEND:20261213T074500Z
+SUMMARY:Central Coast Mariners - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:Central Coast Stadium\, New South Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261220-wellington-phoenix-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:BRISBANE ROAR | A-League Women | J8 | ✈️ | Wellington Phoenix 
+ 🇳🇿
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · A-League Women\nEstadi: Porirua
+  Park\, Porirua
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261220-wellington-phoenix-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261220T020000Z
+DTEND:20261220T034500Z
+SUMMARY:Wellington Phoenix - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:Porirua Park\, Porirua
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261230-brisbane-roar-perth-glory-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:BRISBANE ROAR | A-League Women | J9 | 🏟️ | Perth Glory 🇦
+ 🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Dolphin
+  Stadium\, Queensland
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20261230-brisbane-roar-perth-glory@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20261230T055000Z
+DTEND:20261230T073500Z
+SUMMARY:Brisbane Roar - Perth Glory
+DESCRIPTION:A-League Women
+LOCATION:Dolphin Stadium\, Queensland
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270102-sydney-fc-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:BRISBANE ROAR | A-League Women | J9 | ✈️ | Sydney FC 🇦🇺
+DESCRIPTION:Inici: 06:50 (Europe/Madrid) · A-League Women\nEstadi: Allianz
+  Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270102-sydney-fc-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270102T055000Z
+DTEND:20270102T073500Z
+SUMMARY:Sydney FC - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:Allianz Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270117-brisbane-roar-adelaide-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:BRISBANE ROAR | A-League Women | J11 | 🏟️ | Adelaide United 
+ 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Spencer
+  Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270117-brisbane-roar-adelaide-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270117T060000Z
+DTEND:20270117T074500Z
+SUMMARY:Brisbane Roar - Adelaide United
+DESCRIPTION:A-League Women
+LOCATION:Spencer Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270124-newcastle-jets-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:BRISBANE ROAR | A-League Women | J13 | ✈️ | Newcastle Jets 🇦
+ 🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: Maitlan
+ d No.1 Sportsground\, Maitland
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270124-newcastle-jets-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270124T060000Z
+DTEND:20270124T074500Z
+SUMMARY:Newcastle Jets - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:Maitland No.1 Sportsground\, Maitland
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270130-melbourne-victory-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:BRISBANE ROAR | A-League Women | J13 | ✈️ | Melbourne Victory 
+ 🇦🇺
+DESCRIPTION:Inici: 07:00 (Europe/Madrid) · A-League Women\nEstadi: The Hom
+ e of the Matildas\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270130-melbourne-victory-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270130T060000Z
+DTEND:20270130T074500Z
+SUMMARY:Melbourne Victory - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:The Home of the Matildas\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270206-brisbane-roar-canberra-united-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:BRISBANE ROAR | A-League Women | J14 | 🏟️ | Canberra United 
+ 🇦🇺
+DESCRIPTION:Inici: 08:00 (Europe/Madrid) · A-League Women\nEstadi: Spencer
+  Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270206-brisbane-roar-canberra-united@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270206T070000Z
+DTEND:20270206T084500Z
+SUMMARY:Brisbane Roar - Canberra United
+DESCRIPTION:A-League Women
+LOCATION:Spencer Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270213-perth-glory-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:BRISBANE ROAR | A-League Women | J15 | ✈️ | Perth Glory 🇦
+ 🇺
+DESCRIPTION:Inici: 10:00 (Europe/Madrid) · A-League Women\nEstadi: Sam Ker
+ r Football Centre\, Perth
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270213-perth-glory-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270213T090000Z
+DTEND:20270213T104500Z
+SUMMARY:Perth Glory - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:Sam Kerr Football Centre\, Perth
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270220-brisbane-roar-western-sydney-wanderers-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:BRISBANE ROAR | A-League Women | J15 | 🏟️ | Western Sydney Wan
+ derers 🇦🇺
+DESCRIPTION:Inici: 08:00 (Europe/Madrid) · A-League Women\nEstadi: Spencer
+  Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270220-brisbane-roar-western-sydney-wanderers@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270220T070000Z
+DTEND:20270220T084500Z
+SUMMARY:Brisbane Roar - Western Sydney Wanderers
+DESCRIPTION:A-League Women
+LOCATION:Spencer Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270313-melbourne-city-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:BRISBANE ROAR | A-League Women | J17 | ✈️ | Melbourne City 🇦
+ 🇺
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · A-League Women\nEstadi: Melbour
+ ne City Football Academy\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270313-melbourne-city-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270313T040000Z
+DTEND:20270313T054500Z
+SUMMARY:Melbourne City - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:Melbourne City Football Academy\, Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270319-brisbane-roar-wellington-phoenix-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:BRISBANE ROAR | A-League Women | J18 | 🏟️ | Wellington Phoenix
+  🇳🇿
+DESCRIPTION:Inici: 09:00 (Europe/Madrid) · A-League Women\nEstadi: Spencer
+  Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270319-brisbane-roar-wellington-phoenix@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270319T080000Z
+DTEND:20270319T094500Z
+SUMMARY:Brisbane Roar - Wellington Phoenix
+DESCRIPTION:A-League Women
+LOCATION:Spencer Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270327-adelaide-united-brisbane-roar-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:BRISBANE ROAR | A-League Women | J18 | ✈️ | Adelaide United 
+ 🇦🇺
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · A-League Women\nEstadi: Service
+ FM Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270327-adelaide-united-brisbane-roar@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270327T040000Z
+DTEND:20270327T054500Z
+SUMMARY:Adelaide United - Brisbane Roar
+DESCRIPTION:A-League Women
+LOCATION:ServiceFM Stadium\, Adelaide
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270410-brisbane-roar-newcastle-jets-dia@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:BRISBANE ROAR | A-League Women | J20 | 🏟️ | Newcastle Jets 
+ 🇦🇺
+DESCRIPTION:Inici: 09:00 (Europe/Madrid) · A-League Women\nEstadi: Spencer
+  Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:aleaguew-20270410-brisbane-roar-newcastle-jets@sportcal
+DTSTAMP:20261113T053748Z
+DTSTART:20270410T070000Z
+DTEND:20270410T084500Z
+SUMMARY:Brisbane Roar - Newcastle Jets
+DESCRIPTION:A-League Women
+LOCATION:Spencer Park\, Brisbane
+END:VEVENT
+END:VCALENDAR
