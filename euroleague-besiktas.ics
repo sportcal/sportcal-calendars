@@ -1,0 +1,508 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Beşiktaş · EuroLeague
+BEGIN:VEVENT
+UID:euroleague-20261113-asvel-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:BEŞIKTAŞ | EuroLeague | J11 | ✈️ | ASVEL 🇫🇷
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Ldlc Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261113-asvel-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261113T193000Z
+DTEND:20261113T211500Z
+SUMMARY:ASVEL - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Ldlc Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261118-besiktas-real-madrid-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:BEŞIKTAŞ | EuroLeague | J12 | 🏟️ | Real Madrid 🇪🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261118-besiktas-real-madrid@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261118T170000Z
+DTEND:20261118T184500Z
+SUMMARY:Beşiktaş - Real Madrid
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261120-partizan-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:BEŞIKTAŞ | EuroLeague | J13 | ✈️ | Partizan 🇷🇸
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Aleksandar 
+ Nikolic Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261120-partizan-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261120T194500Z
+DTEND:20261120T213000Z
+SUMMARY:Partizan - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Aleksandar Nikolic Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261124-besiktas-paris-basketball-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:BEŞIKTAŞ | EuroLeague | J14 | 🏟️ | Paris Basketball 🇫🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261124-besiktas-paris-basketball@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261124T170000Z
+DTEND:20261124T184500Z
+SUMMARY:Beşiktaş - Paris Basketball
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261204-besiktas-panathinaikos-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:BEŞIKTAŞ | EuroLeague | J15 | 🏟️ | Panathinaikos 🇬🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261204-besiktas-panathinaikos@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261204T170000Z
+DTEND:20261204T184500Z
+SUMMARY:Beşiktaş - Panathinaikos
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261211-dubai-basketball-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:BEŞIKTAŞ | EuroLeague | J16 | ✈️ | Dubai Basketball 🇦🇪
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · EuroLeague\nEstadi: Coca-Cola A
+ rena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261211-dubai-basketball-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261211T160000Z
+DTEND:20261211T174500Z
+SUMMARY:Dubai Basketball - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Coca-Cola Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261216-besiktas-olimpia-milano-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:BEŞIKTAŞ | EuroLeague | J17 | 🏟️ | Olimpia Milano 🇮🇹
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261216-besiktas-olimpia-milano@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261216T170000Z
+DTEND:20261216T184500Z
+SUMMARY:Beşiktaş - Olimpia Milano
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261218-crvena-zvezda-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:BEŞIKTAŞ | EuroLeague | J18 | ✈️ | Crvena Zvezda 🇷🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261218-crvena-zvezda-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261218T193000Z
+DTEND:20261218T211500Z
+SUMMARY:Crvena Zvezda - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261222-besiktas-fenerbahce-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:BEŞIKTAŞ | EuroLeague | J19 | 🏟️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261222-besiktas-fenerbahce@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261222T170000Z
+DTEND:20261222T184500Z
+SUMMARY:Beşiktaş - Fenerbahçe
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261230-bayern-munich-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:BEŞIKTAŞ | EuroLeague | J20 | ✈️ | Bayern Munich 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261230-bayern-munich-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261230T190000Z
+DTEND:20261230T204500Z
+SUMMARY:Bayern Munich - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270106-fc-barcelona-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:BEŞIKTAŞ | EuroLeague | J21 | ✈️ | FC Barcelona 🇪🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Palau Blaug
+ rana
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270106-fc-barcelona-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270106T193000Z
+DTEND:20270106T211500Z
+SUMMARY:FC Barcelona - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Palau Blaugrana
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270113-besiktas-partizan-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:BEŞIKTAŞ | EuroLeague | J22 | 🏟️ | Partizan 🇷🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270113-besiktas-partizan@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270113T170000Z
+DTEND:20270113T184500Z
+SUMMARY:Beşiktaş - Partizan
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270115-besiktas-baskonia-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:BEŞIKTAŞ | EuroLeague | J23 | 🏟️ | Baskonia 🇪🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270115-besiktas-baskonia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270115T170000Z
+DTEND:20270115T184500Z
+SUMMARY:Beşiktaş - Baskonia
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270121-fenerbahce-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:BEŞIKTAŞ | EuroLeague | J24 | ✈️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · EuroLeague\nEstadi: Ulker Sport
+ s And Event Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270121-fenerbahce-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270121T174500Z
+DTEND:20270121T193000Z
+SUMMARY:Fenerbahçe - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Ulker Sports And Event Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270128-besiktas-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:BEŞIKTAŞ | EuroLeague | J25 | 🏟️ | Crvena Zvezda 🇷🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270128-besiktas-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270128T170000Z
+DTEND:20270128T184500Z
+SUMMARY:Beşiktaş - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270202-paris-basketball-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:BEŞIKTAŞ | EuroLeague | J26 | ✈️ | Paris Basketball 🇫🇷
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Adidas Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270202-paris-basketball-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270202T194500Z
+DTEND:20270202T213000Z
+SUMMARY:Paris Basketball - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Adidas Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270204-zalgiris-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:BEŞIKTAŞ | EuroLeague | J27 | ✈️ | Žalgiris 🇱🇹
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Zalgirio Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270204-zalgiris-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270204T180000Z
+DTEND:20270204T194500Z
+SUMMARY:Žalgiris - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Zalgirio Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270211-besiktas-dubai-basketball-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:BEŞIKTAŞ | EuroLeague | J28 | 🏟️ | Dubai Basketball 🇦🇪
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270211-besiktas-dubai-basketball@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270211T170000Z
+DTEND:20270211T184500Z
+SUMMARY:Beşiktaş - Dubai Basketball
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270304-panathinaikos-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:BEŞIKTAŞ | EuroLeague | J29 | ✈️ | Panathinaikos 🇬🇷
+DESCRIPTION:Inici: 20:15 (Europe/Madrid) · EuroLeague\nEstadi: Telekom Cen
+ ter Athens
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270304-panathinaikos-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270304T191500Z
+DTEND:20270304T210000Z
+SUMMARY:Panathinaikos - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Telekom Center Athens
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270309-besiktas-asvel-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:BEŞIKTAŞ | EuroLeague | J30 | 🏟️ | ASVEL 🇫🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270309-besiktas-asvel@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270309T170000Z
+DTEND:20270309T184500Z
+SUMMARY:Beşiktaş - ASVEL
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270312-olympiacos-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:BEŞIKTAŞ | EuroLeague | J31 | ✈️ | Olympiacos 🇬🇷
+DESCRIPTION:Inici: 20:15 (Europe/Madrid) · EuroLeague\nEstadi: Peace And F
+ riendship Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270312-olympiacos-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270312T191500Z
+DTEND:20270312T210000Z
+SUMMARY:Olympiacos - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Peace And Friendship Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270319-besiktas-anadolu-efes-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:BEŞIKTAŞ | EuroLeague | J32 | 🏟️ | Anadolu Efes 🇹🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270319-besiktas-anadolu-efes@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270319T170000Z
+DTEND:20270319T184500Z
+SUMMARY:Beşiktaş - Anadolu Efes
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270324-valencia-basket-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:BEŞIKTAŞ | EuroLeague | J33 | ✈️ | Valencia Basket 🇪🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Roig Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270324-valencia-basket-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270324T193000Z
+DTEND:20270324T211500Z
+SUMMARY:Valencia Basket - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Roig Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270326-real-madrid-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:BEŞIKTAŞ | EuroLeague | J34 | ✈️ | Real Madrid 🇪🇸
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Movistar Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270326-real-madrid-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270326T194500Z
+DTEND:20270326T213000Z
+SUMMARY:Real Madrid - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Movistar Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270401-olimpia-milano-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:BEŞIKTAŞ | EuroLeague | J35 | ✈️ | Olimpia Milano 🇮🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Unipol Foru
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270401-olimpia-milano-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270401T183000Z
+DTEND:20270401T201500Z
+SUMMARY:Olimpia Milano - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Unipol Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270406-besiktas-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:BEŞIKTAŞ | EuroLeague | J36 | 🏟️ | Hapoel Tel Aviv 🇮🇱
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270406-besiktas-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270406T170000Z
+DTEND:20270406T184500Z
+SUMMARY:Beşiktaş - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270409-besiktas-maccabi-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:BEŞIKTAŞ | EuroLeague | J37 | 🏟️ | Maccabi Tel Aviv 🇮🇱
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270409-besiktas-maccabi-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270409T170000Z
+DTEND:20270409T184500Z
+SUMMARY:Beşiktaş - Maccabi Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270416-besiktas-virtus-bologna-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:BEŞIKTAŞ | EuroLeague | J38 | 🏟️ | Virtus Bologna 🇮🇹
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270416-besiktas-virtus-bologna@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270416T170000Z
+DTEND:20270416T184500Z
+SUMMARY:Beşiktaş - Virtus Bologna
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+END:VCALENDAR

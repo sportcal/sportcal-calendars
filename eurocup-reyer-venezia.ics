@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Reyer Venezia · EuroCup
+BEGIN:VEVENT
+UID:eurocup-20261118-skyliners-frankfurt-reyer-venezia-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:REYER VENEZIA | EuroCup | J8 | ✈️ | Skyliners Frankfurt 🇩
+ 🇪
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · EuroCup\nEstadi: Suwag Energie 
+ Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261118-skyliners-frankfurt-reyer-venezia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261118T183000Z
+DTEND:20261118T201500Z
+SUMMARY:Skyliners Frankfurt - Reyer Venezia
+DESCRIPTION:EuroCup
+LOCATION:Suwag Energie Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261209-reyer-venezia-u-bt-cluj-napoca-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:REYER VENEZIA | EuroCup | J9 | 🏟️ | U-BT Cluj-Napoca 🇷🇴
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroCup\nEstadi: Palasport Tali
+ ercio
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261209-reyer-venezia-u-bt-cluj-napoca@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261209T190000Z
+DTEND:20261209T204500Z
+SUMMARY:Reyer Venezia - U-BT Cluj-Napoca
+DESCRIPTION:EuroCup
+LOCATION:Palasport Taliercio
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261216-turk-telekom-reyer-venezia-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:REYER VENEZIA | EuroCup | J10 | ✈️ | Türk Telekom 🇹🇷
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · EuroCup\nEstadi: Ankara Spor Sa
+ lonu
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261216-turk-telekom-reyer-venezia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261216T163000Z
+DTEND:20261216T181500Z
+SUMMARY:Türk Telekom - Reyer Venezia
+DESCRIPTION:EuroCup
+LOCATION:Ankara Spor Salonu
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261223-reyer-venezia-maxima-roma-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:REYER VENEZIA | EuroCup | J11 | 🏟️ | Maxima Roma 🇮🇹
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroCup\nEstadi: Palasport Tali
+ ercio
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261223-reyer-venezia-maxima-roma@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261223T190000Z
+DTEND:20261223T204500Z
+SUMMARY:Reyer Venezia - Maxima Roma
+DESCRIPTION:EuroCup
+LOCATION:Palasport Taliercio
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261229-reyer-venezia-la-laguna-tenerife-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:REYER VENEZIA | EuroCup | J12 | 🏟️ | La Laguna Tenerife 🇪
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroCup\nEstadi: Palasport Tali
+ ercio
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261229-reyer-venezia-la-laguna-tenerife@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261229T190000Z
+DTEND:20261229T204500Z
+SUMMARY:Reyer Venezia - La Laguna Tenerife
+DESCRIPTION:EuroCup
+LOCATION:Palasport Taliercio
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270106-siauliai-reyer-venezia-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:REYER VENEZIA | EuroCup | J13 | ✈️ | Šiauliai 🇱🇹
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · EuroCup\nEstadi: Siauliai Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270106-siauliai-reyer-venezia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270106T163000Z
+DTEND:20270106T181500Z
+SUMMARY:Šiauliai - Reyer Venezia
+DESCRIPTION:EuroCup
+LOCATION:Siauliai Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270112-reyer-venezia-london-lions-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:REYER VENEZIA | EuroCup | J14 | 🏟️ | London Lions 🇬🇧
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroCup\nEstadi: Palasport Tali
+ ercio
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270112-reyer-venezia-london-lions@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270112T190000Z
+DTEND:20270112T204500Z
+SUMMARY:Reyer Venezia - London Lions
+DESCRIPTION:EuroCup
+LOCATION:Palasport Taliercio
+END:VEVENT
+END:VCALENDAR

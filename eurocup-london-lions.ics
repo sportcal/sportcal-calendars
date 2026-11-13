@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:London Lions · EuroCup
+BEGIN:VEVENT
+UID:eurocup-20261117-london-lions-siauliai-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:LONDON LIONS | EuroCup | J8 | 🏟️ | Šiauliai 🇱🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroCup\nEstadi: Copper Box Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261117-london-lions-siauliai@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261117T193000Z
+DTEND:20261117T211500Z
+SUMMARY:London Lions - Šiauliai
+DESCRIPTION:EuroCup
+LOCATION:Copper Box Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261208-la-laguna-tenerife-london-lions-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:LONDON LIONS | EuroCup | J9 | ✈️ | La Laguna Tenerife 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · EuroCup\nEstadi: Pabellon Santi
+ ago Martin
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261208-la-laguna-tenerife-london-lions@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261208T200000Z
+DTEND:20261208T214500Z
+SUMMARY:La Laguna Tenerife - London Lions
+DESCRIPTION:EuroCup
+LOCATION:Pabellon Santiago Martin
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261215-skyliners-frankfurt-london-lions-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:LONDON LIONS | EuroCup | J10 | ✈️ | Skyliners Frankfurt 🇩
+ 🇪
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · EuroCup\nEstadi: Suwag Energie 
+ Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261215-skyliners-frankfurt-london-lions@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261215T183000Z
+DTEND:20261215T201500Z
+SUMMARY:Skyliners Frankfurt - London Lions
+DESCRIPTION:EuroCup
+LOCATION:Suwag Energie Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261223-london-lions-u-bt-cluj-napoca-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:LONDON LIONS | EuroCup | J11 | 🏟️ | U-BT Cluj-Napoca 🇷🇴
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroCup\nEstadi: Copper Box Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261223-london-lions-u-bt-cluj-napoca@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261223T193000Z
+DTEND:20261223T211500Z
+SUMMARY:London Lions - U-BT Cluj-Napoca
+DESCRIPTION:EuroCup
+LOCATION:Copper Box Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261229-turk-telekom-london-lions-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:LONDON LIONS | EuroCup | J12 | ✈️ | Türk Telekom 🇹🇷
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · EuroCup\nEstadi: Ankara Spor Sa
+ lonu
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261229-turk-telekom-london-lions@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261229T163000Z
+DTEND:20261229T181500Z
+SUMMARY:Türk Telekom - London Lions
+DESCRIPTION:EuroCup
+LOCATION:Ankara Spor Salonu
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270105-london-lions-maxima-roma-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:LONDON LIONS | EuroCup | J13 | 🏟️ | Maxima Roma 🇮🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroCup\nEstadi: Copper Box Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270105-london-lions-maxima-roma@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270105T193000Z
+DTEND:20270105T211500Z
+SUMMARY:London Lions - Maxima Roma
+DESCRIPTION:EuroCup
+LOCATION:Copper Box Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270112-reyer-venezia-london-lions-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:LONDON LIONS | EuroCup | J14 | ✈️ | Reyer Venezia 🇮🇹
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroCup\nEstadi: Palasport Tali
+ ercio
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270112-reyer-venezia-london-lions@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270112T190000Z
+DTEND:20270112T204500Z
+SUMMARY:Reyer Venezia - London Lions
+DESCRIPTION:EuroCup
+LOCATION:Palasport Taliercio
+END:VEVENT
+END:VCALENDAR

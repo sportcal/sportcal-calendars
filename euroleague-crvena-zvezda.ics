@@ -1,0 +1,497 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Crvena Zvezda · EuroLeague
+BEGIN:VEVENT
+UID:euroleague-20261117-olimpia-milano-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J12 | ✈️ | Olimpia Milano 🇮🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Unipol Foru
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261117-olimpia-milano-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261117T193000Z
+DTEND:20261117T211500Z
+SUMMARY:Olimpia Milano - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Unipol Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261120-fc-barcelona-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J13 | ✈️ | FC Barcelona 🇪🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Palau Blaug
+ rana
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261120-fc-barcelona-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261120T193000Z
+DTEND:20261120T211500Z
+SUMMARY:FC Barcelona - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Palau Blaugrana
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261124-crvena-zvezda-virtus-bologna-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J14 | 🏟️ | Virtus Bologna 🇮
+ 🇹
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261124-crvena-zvezda-virtus-bologna@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261124T180000Z
+DTEND:20261124T194500Z
+SUMMARY:Crvena Zvezda - Virtus Bologna
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261203-fenerbahce-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J15 | ✈️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · EuroLeague\nEstadi: Ulker Sport
+ s And Event Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261203-fenerbahce-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261203T174500Z
+DTEND:20261203T193000Z
+SUMMARY:Fenerbahçe - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Ulker Sports And Event Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261210-valencia-basket-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J16 | ✈️ | Valencia Basket 🇪
+ 🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Roig Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261210-valencia-basket-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261210T193000Z
+DTEND:20261210T211500Z
+SUMMARY:Valencia Basket - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Roig Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261216-panathinaikos-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J17 | ✈️ | Panathinaikos 🇬🇷
+DESCRIPTION:Inici: 20:15 (Europe/Madrid) · EuroLeague\nEstadi: Telekom Cen
+ ter Athens
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261216-panathinaikos-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261216T191500Z
+DTEND:20261216T210000Z
+SUMMARY:Panathinaikos - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Telekom Center Athens
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261218-crvena-zvezda-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J18 | 🏟️ | Beşiktaş 🇹🇷
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261218-crvena-zvezda-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261218T193000Z
+DTEND:20261218T211500Z
+SUMMARY:Crvena Zvezda - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261223-crvena-zvezda-baskonia-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J19 | 🏟️ | Baskonia 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261223-crvena-zvezda-baskonia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261223T190000Z
+DTEND:20261223T204500Z
+SUMMARY:Crvena Zvezda - Baskonia
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261230-paris-basketball-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J20 | ✈️ | Paris Basketball 🇫
+ 🇷
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Accor Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261230-paris-basketball-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261230T194500Z
+DTEND:20261230T213000Z
+SUMMARY:Paris Basketball - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Accor Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270108-crvena-zvezda-asvel-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J21 | 🏟️ | ASVEL 🇫🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270108-crvena-zvezda-asvel@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270108T190000Z
+DTEND:20270108T204500Z
+SUMMARY:Crvena Zvezda - ASVEL
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270112-crvena-zvezda-real-madrid-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J22 | 🏟️ | Real Madrid 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270112-crvena-zvezda-real-madrid@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270112T190000Z
+DTEND:20270112T204500Z
+SUMMARY:Crvena Zvezda - Real Madrid
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270114-zalgiris-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J23 | ✈️ | Žalgiris 🇱🇹
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Zalgirio Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270114-zalgiris-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270114T180000Z
+DTEND:20270114T194500Z
+SUMMARY:Žalgiris - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Zalgirio Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270122-crvena-zvezda-fc-barcelona-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J24 | 🏟️ | FC Barcelona 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270122-crvena-zvezda-fc-barcelona@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270122T190000Z
+DTEND:20270122T204500Z
+SUMMARY:Crvena Zvezda - FC Barcelona
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270128-besiktas-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J25 | ✈️ | Beşiktaş 🇹🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270128-besiktas-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270128T170000Z
+DTEND:20270128T184500Z
+SUMMARY:Beşiktaş - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270203-bayern-munich-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J26 | ✈️ | Bayern Munich 🇩🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270203-bayern-munich-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270203T190000Z
+DTEND:20270203T204500Z
+SUMMARY:Bayern Munich - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270205-baskonia-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J27 | ✈️ | Baskonia 🇪🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Buesa Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270205-baskonia-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270205T193000Z
+DTEND:20270205T211500Z
+SUMMARY:Baskonia - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Buesa Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270211-crvena-zvezda-partizan-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J28 | 🏟️ | Partizan 🇷🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270211-crvena-zvezda-partizan@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270211T190000Z
+DTEND:20270211T204500Z
+SUMMARY:Crvena Zvezda - Partizan
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270305-crvena-zvezda-fenerbahce-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J29 | 🏟️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270305-crvena-zvezda-fenerbahce@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270305T190000Z
+DTEND:20270305T204500Z
+SUMMARY:Crvena Zvezda - Fenerbahçe
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270309-maccabi-tel-aviv-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J30 | ✈️ | Maccabi Tel Aviv 🇮
+ 🇱
+DESCRIPTION:Inici: 20:05 (Europe/Madrid) · EuroLeague\nEstadi: Spyros Kypr
+ ianou Athletic Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270309-maccabi-tel-aviv-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270309T190500Z
+DTEND:20270309T205000Z
+SUMMARY:Maccabi Tel Aviv - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Spyros Kyprianou Athletic Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270312-crvena-zvezda-dubai-basketball-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J31 | 🏟️ | Dubai Basketball 🇦
+ 🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270312-crvena-zvezda-dubai-basketball@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270312T190000Z
+DTEND:20270312T204500Z
+SUMMARY:Crvena Zvezda - Dubai Basketball
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270319-crvena-zvezda-olympiacos-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J32 | 🏟️ | Olympiacos 🇬🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270319-crvena-zvezda-olympiacos@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270319T190000Z
+DTEND:20270319T204500Z
+SUMMARY:Crvena Zvezda - Olympiacos
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270323-anadolu-efes-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J33 | ✈️ | Anadolu Efes 🇹🇷
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270323-anadolu-efes-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270323T173000Z
+DTEND:20270323T191500Z
+SUMMARY:Anadolu Efes - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270326-crvena-zvezda-valencia-basket-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J34 | 🏟️ | Valencia Basket 🇪
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270326-crvena-zvezda-valencia-basket@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270326T190000Z
+DTEND:20270326T204500Z
+SUMMARY:Crvena Zvezda - Valencia Basket
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270331-virtus-bologna-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J35 | ✈️ | Virtus Bologna 🇮🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Virtus Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270331-virtus-bologna-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270331T183000Z
+DTEND:20270331T201500Z
+SUMMARY:Virtus Bologna - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Virtus Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270406-crvena-zvezda-panathinaikos-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J36 | 🏟️ | Panathinaikos 🇬🇷
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270406-crvena-zvezda-panathinaikos@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270406T183000Z
+DTEND:20270406T201500Z
+SUMMARY:Crvena Zvezda - Panathinaikos
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270408-hapoel-tel-aviv-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J37 | ✈️ | Hapoel Tel Aviv 🇮
+ 🇱
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270408-hapoel-tel-aviv-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270408T174500Z
+DTEND:20270408T193000Z
+SUMMARY:Hapoel Tel Aviv - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270415-crvena-zvezda-olimpia-milano-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:CRVENA ZVEZDA | EuroLeague | J38 | 🏟️ | Olimpia Milano 🇮
+ 🇹
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270415-crvena-zvezda-olimpia-milano@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270415T180000Z
+DTEND:20270415T194500Z
+SUMMARY:Crvena Zvezda - Olimpia Milano
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+END:VCALENDAR

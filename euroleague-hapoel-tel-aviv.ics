@@ -1,0 +1,500 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hapoel Tel Aviv · EuroLeague
+BEGIN:VEVENT
+UID:euroleague-20261117-baskonia-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J12 | ✈️ | Baskonia 🇪🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Buesa Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261117-baskonia-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261117T193000Z
+DTEND:20261117T211500Z
+SUMMARY:Baskonia - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Buesa Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261119-paris-basketball-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J13 | ✈️ | Paris Basketball 🇫
+ 🇷
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Adidas Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261119-paris-basketball-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261119T194500Z
+DTEND:20261119T213000Z
+SUMMARY:Paris Basketball - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Adidas Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261125-olympiacos-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J14 | ✈️ | Olympiacos 🇬🇷
+DESCRIPTION:Inici: 20:15 (Europe/Madrid) · EuroLeague\nEstadi: Sunel Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261125-olympiacos-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261125T191500Z
+DTEND:20261125T210000Z
+SUMMARY:Olympiacos - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Sunel Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261203-hapoel-tel-aviv-olimpia-milano-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J15 | 🏟️ | Olimpia Milano 🇮
+ 🇹
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena Botev
+ grad
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261203-hapoel-tel-aviv-olimpia-milano@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261203T184500Z
+DTEND:20261203T203000Z
+SUMMARY:Hapoel Tel Aviv - Olimpia Milano
+DESCRIPTION:EuroLeague
+LOCATION:Arena Botevgrad
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261210-hapoel-tel-aviv-asvel-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J16 | 🏟️ | ASVEL 🇫🇷
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261210-hapoel-tel-aviv-asvel@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261210T184500Z
+DTEND:20261210T203000Z
+SUMMARY:Hapoel Tel Aviv - ASVEL
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261215-fenerbahce-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J17 | ✈️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · EuroLeague\nEstadi: Ulker Sport
+ s And Event Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261215-fenerbahce-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261215T174500Z
+DTEND:20261215T193000Z
+SUMMARY:Fenerbahçe - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Ulker Sports And Event Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261217-hapoel-tel-aviv-zalgiris-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J18 | 🏟️ | Žalgiris 🇱🇹
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261217-hapoel-tel-aviv-zalgiris@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261217T180000Z
+DTEND:20261217T194500Z
+SUMMARY:Hapoel Tel Aviv - Žalgiris
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261222-hapoel-tel-aviv-partizan-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J19 | 🏟️ | Partizan 🇷🇸
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261222-hapoel-tel-aviv-partizan@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261222T184500Z
+DTEND:20261222T203000Z
+SUMMARY:Hapoel Tel Aviv - Partizan
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261229-hapoel-tel-aviv-maccabi-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J20 | 🏟️ | Maccabi Tel Aviv 
+ 🇮🇱
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261229-hapoel-tel-aviv-maccabi-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261229T180000Z
+DTEND:20261229T194500Z
+SUMMARY:Hapoel Tel Aviv - Maccabi Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270107-olimpia-milano-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J21 | ✈️ | Olimpia Milano 🇮
+ 🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Unipol Foru
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270107-olimpia-milano-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270107T193000Z
+DTEND:20270107T211500Z
+SUMMARY:Olimpia Milano - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Unipol Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270112-hapoel-tel-aviv-paris-basketball-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J22 | 🏟️ | Paris Basketball 
+ 🇫🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270112-hapoel-tel-aviv-paris-basketball@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270112T170000Z
+DTEND:20270112T184500Z
+SUMMARY:Hapoel Tel Aviv - Paris Basketball
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270114-hapoel-tel-aviv-valencia-basket-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J23 | 🏟️ | Valencia Basket 🇪
+ 🇸
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270114-hapoel-tel-aviv-valencia-basket@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270114T184500Z
+DTEND:20270114T203000Z
+SUMMARY:Hapoel Tel Aviv - Valencia Basket
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270121-hapoel-tel-aviv-panathinaikos-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J24 | 🏟️ | Panathinaikos 🇬
+ 🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270121-hapoel-tel-aviv-panathinaikos@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270121T170000Z
+DTEND:20270121T184500Z
+SUMMARY:Hapoel Tel Aviv - Panathinaikos
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270129-asvel-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J25 | ✈️ | ASVEL 🇫🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Astroballe
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270129-asvel-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270129T190000Z
+DTEND:20270129T204500Z
+SUMMARY:ASVEL - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Astroballe
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270203-hapoel-tel-aviv-olympiacos-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J26 | 🏟️ | Olympiacos 🇬🇷
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270203-hapoel-tel-aviv-olympiacos@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270203T184500Z
+DTEND:20270203T203000Z
+SUMMARY:Hapoel Tel Aviv - Olympiacos
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270205-partizan-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J27 | ✈️ | Partizan 🇷🇸
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270205-partizan-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270205T194500Z
+DTEND:20270205T213000Z
+SUMMARY:Partizan - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270210-hapoel-tel-aviv-baskonia-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J28 | 🏟️ | Baskonia 🇪🇸
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270210-hapoel-tel-aviv-baskonia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270210T184500Z
+DTEND:20270210T203000Z
+SUMMARY:Hapoel Tel Aviv - Baskonia
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270304-virtus-bologna-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J29 | ✈️ | Virtus Bologna 🇮
+ 🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Virtus Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270304-virtus-bologna-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270304T193000Z
+DTEND:20270304T211500Z
+SUMMARY:Virtus Bologna - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Virtus Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270309-real-madrid-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J30 | ✈️ | Real Madrid 🇪🇸
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Movistar Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270309-real-madrid-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270309T194500Z
+DTEND:20270309T213000Z
+SUMMARY:Real Madrid - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Movistar Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270311-bayern-munich-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J31 | ✈️ | Bayern Munich 🇩
+ 🇪
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270311-bayern-munich-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270311T190000Z
+DTEND:20270311T204500Z
+SUMMARY:Bayern Munich - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270319-fc-barcelona-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J32 | ✈️ | FC Barcelona 🇪🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Palau Blaug
+ rana
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270319-fc-barcelona-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270319T193000Z
+DTEND:20270319T211500Z
+SUMMARY:FC Barcelona - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Palau Blaugrana
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270323-hapoel-tel-aviv-fenerbahce-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J33 | 🏟️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270323-hapoel-tel-aviv-fenerbahce@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270323T184500Z
+DTEND:20270323T203000Z
+SUMMARY:Hapoel Tel Aviv - Fenerbahçe
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270325-hapoel-tel-aviv-dubai-basketball-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J34 | 🏟️ | Dubai Basketball 
+ 🇦🇪
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270325-hapoel-tel-aviv-dubai-basketball@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270325T184500Z
+DTEND:20270325T203000Z
+SUMMARY:Hapoel Tel Aviv - Dubai Basketball
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270331-zalgiris-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J35 | ✈️ | Žalgiris 🇱🇹
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Zalgirio Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270331-zalgiris-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270331T180000Z
+DTEND:20270331T194500Z
+SUMMARY:Žalgiris - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Zalgirio Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270406-besiktas-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J36 | ✈️ | Beşiktaş 🇹🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270406-besiktas-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270406T170000Z
+DTEND:20270406T184500Z
+SUMMARY:Beşiktaş - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270408-hapoel-tel-aviv-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J37 | 🏟️ | Crvena Zvezda 🇷
+ 🇸
+DESCRIPTION:Inici: 19:45 (Europe/Madrid) · EuroLeague\nEstadi: Arena 8888 
+ Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270408-hapoel-tel-aviv-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270408T174500Z
+DTEND:20270408T193000Z
+SUMMARY:Hapoel Tel Aviv - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Arena 8888 Sofia
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270415-anadolu-efes-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:HAPOEL TEL AVIV | EuroLeague | J38 | ✈️ | Anadolu Efes 🇹🇷
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · EuroLeague\nEstadi: Turkcell Ba
+ sketball Development Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270415-anadolu-efes-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270415T173000Z
+DTEND:20270415T191500Z
+SUMMARY:Anadolu Efes - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Turkcell Basketball Development Center
+END:VEVENT
+END:VCALENDAR

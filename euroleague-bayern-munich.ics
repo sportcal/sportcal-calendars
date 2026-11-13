@@ -1,0 +1,485 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bayern Munich · EuroLeague
+BEGIN:VEVENT
+UID:euroleague-20261117-zalgiris-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:BAYERN MUNICH | EuroLeague | J12 | ✈️ | Žalgiris 🇱🇹
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EuroLeague\nEstadi: Zalgirio Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261117-zalgiris-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261117T180000Z
+DTEND:20261117T194500Z
+SUMMARY:Žalgiris - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Zalgirio Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261119-bayern-munich-baskonia-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:BAYERN MUNICH | EuroLeague | J13 | 🏟️ | Baskonia 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261119-bayern-munich-baskonia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261119T190000Z
+DTEND:20261119T204500Z
+SUMMARY:Bayern Munich - Baskonia
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261124-bayern-munich-maccabi-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:BAYERN MUNICH | EuroLeague | J14 | 🏟️ | Maccabi Tel Aviv 🇮
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261124-bayern-munich-maccabi-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261124T190000Z
+DTEND:20261124T204500Z
+SUMMARY:Bayern Munich - Maccabi Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261203-bayern-munich-paris-basketball-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:BAYERN MUNICH | EuroLeague | J15 | 🏟️ | Paris Basketball 🇫
+ 🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261203-bayern-munich-paris-basketball@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261203T190000Z
+DTEND:20261203T204500Z
+SUMMARY:Bayern Munich - Paris Basketball
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261210-olimpia-milano-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:BAYERN MUNICH | EuroLeague | J16 | ✈️ | Olimpia Milano 🇮🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Unipol Foru
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261210-olimpia-milano-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261210T193000Z
+DTEND:20261210T211500Z
+SUMMARY:Olimpia Milano - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Unipol Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261215-real-madrid-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:BAYERN MUNICH | EuroLeague | J17 | ✈️ | Real Madrid 🇪🇸
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Movistar Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261215-real-madrid-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261215T194500Z
+DTEND:20261215T213000Z
+SUMMARY:Real Madrid - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Movistar Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261218-bayern-munich-panathinaikos-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:BAYERN MUNICH | EuroLeague | J18 | 🏟️ | Panathinaikos 🇬🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261218-bayern-munich-panathinaikos@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261218T190000Z
+DTEND:20261218T204500Z
+SUMMARY:Bayern Munich - Panathinaikos
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261222-bayern-munich-olympiacos-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:BAYERN MUNICH | EuroLeague | J19 | 🏟️ | Olympiacos 🇬🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261222-bayern-munich-olympiacos@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261222T190000Z
+DTEND:20261222T204500Z
+SUMMARY:Bayern Munich - Olympiacos
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261230-bayern-munich-besiktas-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:BAYERN MUNICH | EuroLeague | J20 | 🏟️ | Beşiktaş 🇹🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20261230-bayern-munich-besiktas@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261230T190000Z
+DTEND:20261230T204500Z
+SUMMARY:Bayern Munich - Beşiktaş
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270108-dubai-basketball-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:BAYERN MUNICH | EuroLeague | J21 | ✈️ | Dubai Basketball 🇦
+ 🇪
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · EuroLeague\nEstadi: Coca-Cola A
+ rena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270108-dubai-basketball-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270108T160000Z
+DTEND:20270108T174500Z
+SUMMARY:Dubai Basketball - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Coca-Cola Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270112-maccabi-tel-aviv-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:BAYERN MUNICH | EuroLeague | J22 | ✈️ | Maccabi Tel Aviv 🇮
+ 🇱
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Spyros Kypr
+ ianou Athletic Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270112-maccabi-tel-aviv-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270112T193000Z
+DTEND:20270112T211500Z
+SUMMARY:Maccabi Tel Aviv - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Spyros Kyprianou Athletic Center
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270114-panathinaikos-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:BAYERN MUNICH | EuroLeague | J23 | ✈️ | Panathinaikos 🇬🇷
+DESCRIPTION:Inici: 20:15 (Europe/Madrid) · EuroLeague\nEstadi: Telekom Cen
+ ter Athens
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270114-panathinaikos-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270114T191500Z
+DTEND:20270114T210000Z
+SUMMARY:Panathinaikos - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Telekom Center Athens
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270121-bayern-munich-olimpia-milano-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:BAYERN MUNICH | EuroLeague | J24 | 🏟️ | Olimpia Milano 🇮
+ 🇹
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270121-bayern-munich-olimpia-milano@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270121T190000Z
+DTEND:20270121T204500Z
+SUMMARY:Bayern Munich - Olimpia Milano
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270128-bayern-munich-valencia-basket-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:BAYERN MUNICH | EuroLeague | J25 | 🏟️ | Valencia Basket 🇪
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270128-bayern-munich-valencia-basket@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270128T190000Z
+DTEND:20270128T204500Z
+SUMMARY:Bayern Munich - Valencia Basket
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270203-bayern-munich-crvena-zvezda-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:BAYERN MUNICH | EuroLeague | J26 | 🏟️ | Crvena Zvezda 🇷🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270203-bayern-munich-crvena-zvezda@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270203T190000Z
+DTEND:20270203T204500Z
+SUMMARY:Bayern Munich - Crvena Zvezda
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270205-olympiacos-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:BAYERN MUNICH | EuroLeague | J27 | ✈️ | Olympiacos 🇬🇷
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · EuroLeague\nEstadi: Peace And F
+ riendship Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270205-olympiacos-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270205T183000Z
+DTEND:20270205T201500Z
+SUMMARY:Olympiacos - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Peace And Friendship Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270211-virtus-bologna-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:BAYERN MUNICH | EuroLeague | J28 | ✈️ | Virtus Bologna 🇮🇹
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Virtus Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270211-virtus-bologna-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270211T193000Z
+DTEND:20270211T211500Z
+SUMMARY:Virtus Bologna - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Virtus Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270305-bayern-munich-asvel-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:BAYERN MUNICH | EuroLeague | J29 | 🏟️ | ASVEL 🇫🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270305-bayern-munich-asvel@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270305T190000Z
+DTEND:20270305T204500Z
+SUMMARY:Bayern Munich - ASVEL
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270309-bayern-munich-anadolu-efes-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:BAYERN MUNICH | EuroLeague | J30 | 🏟️ | Anadolu Efes 🇹🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270309-bayern-munich-anadolu-efes@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270309T190000Z
+DTEND:20270309T204500Z
+SUMMARY:Bayern Munich - Anadolu Efes
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270311-bayern-munich-hapoel-tel-aviv-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:BAYERN MUNICH | EuroLeague | J31 | 🏟️ | Hapoel Tel Aviv 🇮
+ 🇱
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270311-bayern-munich-hapoel-tel-aviv@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270311T190000Z
+DTEND:20270311T204500Z
+SUMMARY:Bayern Munich - Hapoel Tel Aviv
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270318-partizan-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:BAYERN MUNICH | EuroLeague | J32 | ✈️ | Partizan 🇷🇸
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Belgrade Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270318-partizan-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270318T194500Z
+DTEND:20270318T213000Z
+SUMMARY:Partizan - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Belgrade Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270324-bayern-munich-real-madrid-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:BAYERN MUNICH | EuroLeague | J33 | 🏟️ | Real Madrid 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270324-bayern-munich-real-madrid@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270324T190000Z
+DTEND:20270324T204500Z
+SUMMARY:Bayern Munich - Real Madrid
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270326-bayern-munich-zalgiris-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:BAYERN MUNICH | EuroLeague | J34 | 🏟️ | Žalgiris 🇱🇹
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270326-bayern-munich-zalgiris@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270326T190000Z
+DTEND:20270326T204500Z
+SUMMARY:Bayern Munich - Žalgiris
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270402-baskonia-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:BAYERN MUNICH | EuroLeague | J35 | ✈️ | Baskonia 🇪🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroLeague\nEstadi: Buesa Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270402-baskonia-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270402T183000Z
+DTEND:20270402T201500Z
+SUMMARY:Baskonia - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Buesa Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270406-fc-barcelona-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:BAYERN MUNICH | EuroLeague | J36 | ✈️ | FC Barcelona 🇪🇸
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Palau Blaug
+ rana
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270406-fc-barcelona-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270406T184500Z
+DTEND:20270406T203000Z
+SUMMARY:FC Barcelona - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Palau Blaugrana
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270408-bayern-munich-fenerbahce-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:BAYERN MUNICH | EuroLeague | J37 | 🏟️ | Fenerbahçe 🇹🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroLeague\nEstadi: Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270408-bayern-munich-fenerbahce@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270408T180000Z
+DTEND:20270408T194500Z
+SUMMARY:Bayern Munich - Fenerbahçe
+DESCRIPTION:EuroLeague
+LOCATION:Sap Garden
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270415-paris-basketball-bayern-munich-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:BAYERN MUNICH | EuroLeague | J38 | ✈️ | Paris Basketball 🇫
+ 🇷
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EuroLeague\nEstadi: Adidas Aren
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:euroleague-20270415-paris-basketball-bayern-munich@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270415T184500Z
+DTEND:20270415T203000Z
+SUMMARY:Paris Basketball - Bayern Munich
+DESCRIPTION:EuroLeague
+LOCATION:Adidas Arena
+END:VEVENT
+END:VCALENDAR

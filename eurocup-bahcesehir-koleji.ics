@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bahçeşehir Koleji · EuroCup
+BEGIN:VEVENT
+UID:eurocup-20261117-roma-basketball-bahcesehir-koleji-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:BAHÇEŞEHIR KOLEJI | EuroCup | J8 | ✈️ | Roma Basketball 🇮
+ 🇹
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EuroCup\nEstadi: Palazzetto Del
+ lo Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261117-roma-basketball-bahcesehir-koleji@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261117T190000Z
+DTEND:20261117T204500Z
+SUMMARY:Roma Basketball - Bahçeşehir Koleji
+DESCRIPTION:EuroCup
+LOCATION:Palazzetto Dello Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261208-bahcesehir-koleji-balkan-botevgrad-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:BAHÇEŞEHIR KOLEJI | EuroCup | J9 | 🏟️ | Balkan Botevgrad 
+ 🇧🇬
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · EuroCup\nEstadi: Sinan Erdem Sp
+ orts Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261208-bahcesehir-koleji-balkan-botevgrad@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261208T160000Z
+DTEND:20261208T174500Z
+SUMMARY:Bahçeşehir Koleji - Balkan Botevgrad
+DESCRIPTION:EuroCup
+LOCATION:Sinan Erdem Sports Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261215-manresa-bahcesehir-koleji-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:BAHÇEŞEHIR KOLEJI | EuroCup | J10 | ✈️ | Manresa 🇪🇸
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · EuroCup\nEstadi: Pavello Nou Co
+ ngost
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261215-manresa-bahcesehir-koleji@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261215T193000Z
+DTEND:20261215T211500Z
+SUMMARY:Manresa - Bahçeşehir Koleji
+DESCRIPTION:EuroCup
+LOCATION:Pavello Nou Congost
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261222-bahcesehir-koleji-bosna-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:BAHÇEŞEHIR KOLEJI | EuroCup | J11 | 🏟️ | Bosna 🇧🇦
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · EuroCup\nEstadi: Sinan Erdem Sp
+ orts Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261222-bahcesehir-koleji-bosna@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261222T160000Z
+DTEND:20261222T174500Z
+SUMMARY:Bahçeşehir Koleji - Bosna
+DESCRIPTION:EuroCup
+LOCATION:Sinan Erdem Sports Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261229-paok-bahcesehir-koleji-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:BAHÇEŞEHIR KOLEJI | EuroCup | J12 | ✈️ | PAOK 🇬🇷
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · EuroCup\nEstadi: Paok Sports Ar
+ ena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20261229-paok-bahcesehir-koleji@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261229T183000Z
+DTEND:20261229T201500Z
+SUMMARY:PAOK - Bahçeşehir Koleji
+DESCRIPTION:EuroCup
+LOCATION:Paok Sports Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270106-bahcesehir-koleji-ratiopharm-ulm-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:BAHÇEŞEHIR KOLEJI | EuroCup | J13 | 🏟️ | ratiopharm Ulm 🇩
+ 🇪
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · EuroCup\nEstadi: Sinan Erdem Sp
+ orts Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270106-bahcesehir-koleji-ratiopharm-ulm@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270106T160000Z
+DTEND:20270106T174500Z
+SUMMARY:Bahçeşehir Koleji - ratiopharm Ulm
+DESCRIPTION:EuroCup
+LOCATION:Sinan Erdem Sports Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270113-lietkabelis-bahcesehir-koleji-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:BAHÇEŞEHIR KOLEJI | EuroCup | J14 | ✈️ | Lietkabelis 🇱🇹
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · EuroCup\nEstadi: Kalnapilio Are
+ na
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-20270113-lietkabelis-bahcesehir-koleji@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270113T170000Z
+DTEND:20270113T184500Z
+SUMMARY:Lietkabelis - Bahçeşehir Koleji
+DESCRIPTION:EuroCup
+LOCATION:Kalnapilio Arena
+END:VEVENT
+END:VCALENDAR

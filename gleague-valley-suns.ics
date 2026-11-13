@@ -1,0 +1,836 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Valley Suns · G League
+BEGIN:VEVENT
+UID:gleague-20261115-valley-suns-coachella-valley-lakers-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:VALLEY SUNS | G League | J1 | 🏟️ | Coachella Valley Lakers 
+ 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261115-valley-suns-coachella-valley-lakers@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261115T210000Z
+DTEND:20261115T224500Z
+SUMMARY:Valley Suns - Coachella Valley Lakers
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261117-valley-suns-salt-lake-city-stars-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:VALLEY SUNS | G League | J3 | 🏟️ | Salt Lake City Stars 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261117-valley-suns-salt-lake-city-stars@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261117T020000Z
+DTEND:20261117T034500Z
+SUMMARY:Valley Suns - Salt Lake City Stars
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261119-valley-suns-salt-lake-city-stars-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:VALLEY SUNS | G League | J3 | 🏟️ | Salt Lake City Stars 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261119-valley-suns-salt-lake-city-stars@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261119T020000Z
+DTEND:20261119T034500Z
+SUMMARY:Valley Suns - Salt Lake City Stars
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261121-san-diego-clippers-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:VALLEY SUNS | G League | J3 | ✈️ | San Diego Clippers 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NBA G League\nEstadi: Frontwave
+  Arena\, Oceanside\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261121-san-diego-clippers-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261121T030000Z
+DTEND:20261121T044500Z
+SUMMARY:San Diego Clippers - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Frontwave Arena\, Oceanside\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261128-santa-cruz-warriors-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:VALLEY SUNS | G League | J5 | ✈️ | Santa Cruz Warriors 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NBA G League\nEstadi: Kaiser Pe
+ rmanente Arena\, Santa Cruz\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261128-santa-cruz-warriors-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261128T030000Z
+DTEND:20261128T044500Z
+SUMMARY:Santa Cruz Warriors - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Kaiser Permanente Arena\, Santa Cruz\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261129-santa-cruz-warriors-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:VALLEY SUNS | G League | J6 | ✈️ | Santa Cruz Warriors 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NBA G League\nEstadi: Kaiser Pe
+ rmanente Arena\, Santa Cruz\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261129-santa-cruz-warriors-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261129T030000Z
+DTEND:20261129T044500Z
+SUMMARY:Santa Cruz Warriors - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Kaiser Permanente Arena\, Santa Cruz\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261204-rip-city-remix-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:VALLEY SUNS | G League | J7 | ✈️ | Rip City Remix 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NBA G League\nEstadi: Chiles Ce
+ nter\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261204-rip-city-remix-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261204T010000Z
+DTEND:20261204T024500Z
+SUMMARY:Rip City Remix - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Chiles Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261205-rip-city-remix-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:VALLEY SUNS | G League | J8 | ✈️ | Rip City Remix 🇺🇸
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NBA G League\nEstadi: Chiles Ce
+ nter\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261205-rip-city-remix-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261205T213000Z
+DTEND:20261205T231500Z
+SUMMARY:Rip City Remix - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Chiles Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261211-valley-suns-stockton-kings-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:VALLEY SUNS | G League | J10 | 🏟️ | Stockton Kings 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261211-valley-suns-stockton-kings@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261211T020000Z
+DTEND:20261211T034500Z
+SUMMARY:Valley Suns - Stockton Kings
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261213-valley-suns-stockton-kings-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:VALLEY SUNS | G League | J9 | 🏟️ | Stockton Kings 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261213-valley-suns-stockton-kings@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261213T210000Z
+DTEND:20261213T224500Z
+SUMMARY:Valley Suns - Stockton Kings
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261216-valley-suns-santa-cruz-warriors-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:VALLEY SUNS | G League | J13 | 🏟️ | Santa Cruz Warriors 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261216-valley-suns-santa-cruz-warriors@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261216T020000Z
+DTEND:20261216T034500Z
+SUMMARY:Valley Suns - Santa Cruz Warriors
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261227-mexico-city-capitanes-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:VALLEY SUNS | G League | J12 | ✈️ | Mexico City Capitanes 🇲
+ 🇽
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NBA G League\nEstadi: Mexico Ci
+ ty Arena\, Mexico City\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261227-mexico-city-capitanes-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261227T220000Z
+DTEND:20261227T234500Z
+SUMMARY:Mexico City Capitanes - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Mexico City Arena\, Mexico City\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261230-mexico-city-capitanes-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:VALLEY SUNS | G League | J13 | ✈️ | Mexico City Capitanes 🇲
+ 🇽
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mexico Ci
+ ty Arena\, Mexico City\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20261230-mexico-city-capitanes-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20261230T020000Z
+DTEND:20261230T034500Z
+SUMMARY:Mexico City Capitanes - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Mexico City Arena\, Mexico City\, Mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270103-texas-legends-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:VALLEY SUNS | G League | J14 | ✈️ | Texas Legends 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NBA G League\nEstadi: Comerica 
+ Center\, Frisco\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270103-texas-legends-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270103T010000Z
+DTEND:20270103T024500Z
+SUMMARY:Texas Legends - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Comerica Center\, Frisco\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270106-valley-suns-texas-legends-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:VALLEY SUNS | G League | J15 | 🏟️ | Texas Legends 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270106-valley-suns-texas-legends@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270106T020000Z
+DTEND:20270106T034500Z
+SUMMARY:Valley Suns - Texas Legends
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270107-valley-suns-san-diego-clippers-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:VALLEY SUNS | G League | J18 | 🏟️ | San Diego Clippers 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270107-valley-suns-san-diego-clippers@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270107T020000Z
+DTEND:20270107T034500Z
+SUMMARY:Valley Suns - San Diego Clippers
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270110-valley-suns-iowa-wolves-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:VALLEY SUNS | G League | J17 | 🏟️ | Iowa Wolves 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270110-valley-suns-iowa-wolves@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270110T210000Z
+DTEND:20270110T224500Z
+SUMMARY:Valley Suns - Iowa Wolves
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270113-valley-suns-austin-spurs-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:VALLEY SUNS | G League | J18 | 🏟️ | Austin Spurs 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270113-valley-suns-austin-spurs@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270113T020000Z
+DTEND:20270113T034500Z
+SUMMARY:Valley Suns - Austin Spurs
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270116-rio-grande-valley-vipers-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:VALLEY SUNS | G League | J20 | ✈️ | Rio Grande Valley Vipers 
+ 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NBA G League\nEstadi: Bert Ogde
+ n Arena\, Edinburg\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270116-rio-grande-valley-vipers-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270116T013000Z
+DTEND:20270116T031500Z
+SUMMARY:Rio Grande Valley Vipers - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Bert Ogden Arena\, Edinburg\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270117-rio-grande-valley-vipers-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:VALLEY SUNS | G League | J19 | ✈️ | Rio Grande Valley Vipers 
+ 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NBA G League\nEstadi: Bert Ogde
+ n Arena\, Edinburg\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270117-rio-grande-valley-vipers-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270117T013000Z
+DTEND:20270117T031500Z
+SUMMARY:Rio Grande Valley Vipers - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Bert Ogden Arena\, Edinburg\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270120-valley-suns-iowa-wolves-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:VALLEY SUNS | G League | J22 | 🏟️ | Iowa Wolves 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270120-valley-suns-iowa-wolves@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270120T020000Z
+DTEND:20270120T034500Z
+SUMMARY:Valley Suns - Iowa Wolves
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270121-valley-suns-sioux-falls-skyforce-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:VALLEY SUNS | G League | J22 | 🏟️ | Sioux Falls Skyforce 🇺
+ 🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270121-valley-suns-sioux-falls-skyforce@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270121T190000Z
+DTEND:20270121T204500Z
+SUMMARY:Valley Suns - Sioux Falls Skyforce
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270123-salt-lake-city-stars-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:VALLEY SUNS | G League | J21 | ✈️ | Salt Lake City Stars 🇺
+ 🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NBA G League\nEstadi: Maverik C
+ enter\, West Valley City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270123-salt-lake-city-stars-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270123T220000Z
+DTEND:20270123T234500Z
+SUMMARY:Salt Lake City Stars - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Maverik Center\, West Valley City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270126-stockton-kings-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:VALLEY SUNS | G League | J25 | ✈️ | Stockton Kings 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NBA G League\nEstadi: Adventist
+  Health Arena\, Stockton\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270126-stockton-kings-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270126T030000Z
+DTEND:20270126T044500Z
+SUMMARY:Stockton Kings - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Adventist Health Arena\, Stockton\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270128-coachella-valley-lakers-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:VALLEY SUNS | G League | J25 | ✈️ | Coachella Valley Lakers 
+ 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NBA G League\nEstadi: Acrisure 
+ Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270128-coachella-valley-lakers-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270128T030000Z
+DTEND:20270128T044500Z
+SUMMARY:Coachella Valley Lakers - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Acrisure Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270131-valley-suns-rio-grande-valley-vipers-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:VALLEY SUNS | G League | J26 | 🏟️ | Rio Grande Valley Vipers 
+ 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270131-valley-suns-rio-grande-valley-vipers@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270131T210000Z
+DTEND:20270131T224500Z
+SUMMARY:Valley Suns - Rio Grande Valley Vipers
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270203-valley-suns-rio-grande-valley-vipers-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:VALLEY SUNS | G League | J27 | 🏟️ | Rio Grande Valley Vipers 
+ 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270203-valley-suns-rio-grande-valley-vipers@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270203T020000Z
+DTEND:20270203T034500Z
+SUMMARY:Valley Suns - Rio Grande Valley Vipers
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270205-valley-suns-texas-legends-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:VALLEY SUNS | G League | J28 | 🏟️ | Texas Legends 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270205-valley-suns-texas-legends@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270205T020000Z
+DTEND:20270205T034500Z
+SUMMARY:Valley Suns - Texas Legends
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270207-valley-suns-rip-city-remix-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:VALLEY SUNS | G League | J29 | 🏟️ | Rip City Remix 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270207-valley-suns-rip-city-remix@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270207T210000Z
+DTEND:20270207T224500Z
+SUMMARY:Valley Suns - Rip City Remix
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270209-valley-suns-rip-city-remix-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:VALLEY SUNS | G League | J30 | 🏟️ | Rip City Remix 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270209-valley-suns-rip-city-remix@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270209T190000Z
+DTEND:20270209T204500Z
+SUMMARY:Valley Suns - Rip City Remix
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270213-memphis-hustle-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:VALLEY SUNS | G League | J31 | ✈️ | Memphis Hustle 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NBA G League\nEstadi: Landers C
+ enter\, Southaven\, MS
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270213-memphis-hustle-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270213T010000Z
+DTEND:20270213T024500Z
+SUMMARY:Memphis Hustle - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Landers Center\, Southaven\, MS
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270214-austin-spurs-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:VALLEY SUNS | G League | J32 | ✈️ | Austin Spurs 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NBA G League\nEstadi: H-E-B Cen
+ ter at Cedar Park\, Cedar Park\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270214-austin-spurs-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270214T170000Z
+DTEND:20270214T184500Z
+SUMMARY:Austin Spurs - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:H-E-B Center at Cedar Park\, Cedar Park\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270217-valley-suns-memphis-hustle-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:VALLEY SUNS | G League | J32 | 🏟️ | Memphis Hustle 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270217-valley-suns-memphis-hustle@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270217T020000Z
+DTEND:20270217T034500Z
+SUMMARY:Valley Suns - Memphis Hustle
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270218-valley-suns-memphis-hustle-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:VALLEY SUNS | G League | J33 | 🏟️ | Memphis Hustle 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270218-valley-suns-memphis-hustle@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270218T020000Z
+DTEND:20270218T034500Z
+SUMMARY:Valley Suns - Memphis Hustle
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270226-stockton-kings-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:VALLEY SUNS | G League | J35 | ✈️ | Stockton Kings 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NBA G League\nEstadi: Adventist
+  Health Arena\, Stockton\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270226-stockton-kings-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270226T030000Z
+DTEND:20270226T044500Z
+SUMMARY:Stockton Kings - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Adventist Health Arena\, Stockton\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270301-coachella-valley-lakers-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:VALLEY SUNS | G League | J36 | ✈️ | Coachella Valley Lakers 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NBA G League\nEstadi: Acrisure 
+ Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270301-coachella-valley-lakers-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270228T230000Z
+DTEND:20270301T004500Z
+SUMMARY:Coachella Valley Lakers - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Acrisure Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270303-valley-suns-san-diego-clippers-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:VALLEY SUNS | G League | J36 | 🏟️ | San Diego Clippers 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270303-valley-suns-san-diego-clippers@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270303T020000Z
+DTEND:20270303T034500Z
+SUMMARY:Valley Suns - San Diego Clippers
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270305-memphis-hustle-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:VALLEY SUNS | G League | J36 | ✈️ | Memphis Hustle 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NBA G League\nEstadi: Landers C
+ enter\, Southaven\, MS
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270305-memphis-hustle-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270305T010000Z
+DTEND:20270305T024500Z
+SUMMARY:Memphis Hustle - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Landers Center\, Southaven\, MS
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270309-salt-lake-city-stars-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:VALLEY SUNS | G League | J38 | ✈️ | Salt Lake City Stars 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NBA G League\nEstadi: Maverik C
+ enter\, West Valley City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270309-salt-lake-city-stars-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270309T010000Z
+DTEND:20270309T024500Z
+SUMMARY:Salt Lake City Stars - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Maverik Center\, West Valley City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270316-oklahoma-city-blue-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:VALLEY SUNS | G League | J40 | ✈️ | Oklahoma City Blue 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NBA G League\nEstadi: Paycom Ce
+ nter\, Oklahoma City\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270316-oklahoma-city-blue-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270316T170000Z
+DTEND:20270316T184500Z
+SUMMARY:Oklahoma City Blue - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Paycom Center\, Oklahoma City\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270317-oklahoma-city-blue-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:VALLEY SUNS | G League | J41 | ✈️ | Oklahoma City Blue 🇺🇸
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · NBA G League\nEstadi: Paycom Ce
+ nter\, Oklahoma City\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270317-oklahoma-city-blue-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270317T163000Z
+DTEND:20270317T181500Z
+SUMMARY:Oklahoma City Blue - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:Paycom Center\, Oklahoma City\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270321-austin-spurs-valley-suns-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:VALLEY SUNS | G League | J45 | ✈️ | Austin Spurs 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NBA G League\nEstadi: H-E-B Cen
+ ter at Cedar Park\, Cedar Park\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270321-austin-spurs-valley-suns@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270321T000000Z
+DTEND:20270321T014500Z
+SUMMARY:Austin Spurs - Valley Suns
+DESCRIPTION:NBA G League
+LOCATION:H-E-B Center at Cedar Park\, Cedar Park\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270323-valley-suns-santa-cruz-warriors-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:VALLEY SUNS | G League | J42 | 🏟️ | Santa Cruz Warriors 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270323-valley-suns-santa-cruz-warriors@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270323T020000Z
+DTEND:20270323T034500Z
+SUMMARY:Valley Suns - Santa Cruz Warriors
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270325-valley-suns-santa-cruz-warriors-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:VALLEY SUNS | G League | J43 | 🏟️ | Santa Cruz Warriors 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270325-valley-suns-santa-cruz-warriors@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270325T020000Z
+DTEND:20270325T034500Z
+SUMMARY:Valley Suns - Santa Cruz Warriors
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270327-valley-suns-austin-spurs-dia@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:VALLEY SUNS | G League | J45 | 🏟️ | Austin Spurs 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NBA G League\nEstadi: Mullett A
+ rena\, Tempe\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:gleague-20270327-valley-suns-austin-spurs@sportcal
+DTSTAMP:20261113T084818Z
+DTSTART:20270327T020000Z
+DTEND:20270327T034500Z
+SUMMARY:Valley Suns - Austin Spurs
+DESCRIPTION:NBA G League
+LOCATION:Mullett Arena\, Tempe\, AZ
+END:VEVENT
+END:VCALENDAR
