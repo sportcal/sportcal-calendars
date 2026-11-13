@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arthur Fils · ATP
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187506-dia@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ARTHUR FILS | Nitto ATP Finals | Group Stage | vs Ben Shelton
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Nitto ATP Finals — Group Stag
+ e — Mens Singles · Arthur Fils · ATP\nPista: Turin\, Italy
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187506@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART:20261115T193000Z
+DTEND:20261115T220000Z
+SUMMARY:Arthur Fils - Ben Shelton
+DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · Arthur Fil
+ s · ATP
+LOCATION:Turin\, Italy
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187504-dia@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:ARTHUR FILS | Nitto ATP Finals | Group Stage | vs Alexander Zverev
+DESCRIPTION:Hora pendent de confirmació · Nitto ATP Finals — Group Stag
+ e — Mens Singles - TBD (time to be confirmed) · Arthur Fils · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187504@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Arthur Fils - Alexander Zverev · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
+  confirmed) · Arthur Fils · ATP
+END:VEVENT
+END:VCALENDAR

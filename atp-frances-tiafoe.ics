@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Frances Tiafoe · ATP
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187511-dia@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:FRANCES TIAFOE | Nitto ATP Finals | Group Stage | vs Carlos Alcaraz
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Nitto ATP Finals — Group Stag
+ e — Mens Singles · Frances Tiafoe · ATP\nPista: Turin\, Italy (Inalpi 
+ Arena)
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187511@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART:20261116T130000Z
+DTEND:20261116T153000Z
+SUMMARY:Frances Tiafoe - Carlos Alcaraz
+DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · Frances Ti
+ afoe · ATP
+LOCATION:Turin\, Italy (Inalpi Arena)
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187513-dia@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:FRANCES TIAFOE | Nitto ATP Finals | Group Stage | vs Daniil Medvede
+ v
+DESCRIPTION:Hora pendent de confirmació · Nitto ATP Finals — Group Stag
+ e — Mens Singles - TBD (time to be confirmed) · Frances Tiafoe · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187513@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Frances Tiafoe - Daniil Medvedev · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
+  confirmed) · Frances Tiafoe · ATP
+END:VEVENT
+END:VCALENDAR

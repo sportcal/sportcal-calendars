@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Elina Svitolina · WTA
+BEGIN:VEVENT
+UID:wta-espn-382-2026-187379-dia@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ELINA SVITOLINA | FAGE WTA Finals Indian Wells | Group Stage | vs A
+ ryna Sabalenka
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · FAGE WTA Finals Indian Wells 
+ — Group Stage — Womens Singles · Elina Svitolina · WTA\nPista: India
+ n Wells\, USA (Indian Wells Tennis Garden)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-382-2026-187379@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART:20261113T213000Z
+DTEND:20261114T000000Z
+SUMMARY:Elina Svitolina - Aryna Sabalenka
+DESCRIPTION:FAGE WTA Finals Indian Wells — Group Stage — Womens Singles
+  · Elina Svitolina · WTA
+LOCATION:Indian Wells\, USA (Indian Wells Tennis Garden)
+END:VEVENT
+END:VCALENDAR

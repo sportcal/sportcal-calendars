@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lorenzo Musetti · ATP
+BEGIN:VEVENT
+UID:atp-espn-148-2026-186547-dia@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:LORENZO MUSETTI | Bybit Stockholm Open | Semifinal | vs Taylor Frit
+ z
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Bybit Stockholm Open — Semifi
+ nal — Mens Singles · Lorenzo Musetti · ATP\nPista: Stockholm\, Sweden 
+ (Center Court)
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-148-2026-186547@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART:20261113T160000Z
+DTEND:20261113T183000Z
+SUMMARY:Lorenzo Musetti - Taylor Fritz
+DESCRIPTION:Bybit Stockholm Open — Semifinal — Mens Singles · Lorenzo 
+ Musetti · ATP
+LOCATION:Stockholm\, Sweden (Center Court)
+END:VEVENT
+END:VCALENDAR

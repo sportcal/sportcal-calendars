@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spain · Davis Cup
+BEGIN:VEVENT
+UID:daviscup-2026-qf4-dia@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:SPAIN | Final 8 | Quarterfinal | vs Austria
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Final 8 — Quarterfinal · Spa
+ in · Davis Cup\nPista: SuperTennis Arena\, Bologna
+END:VEVENT
+BEGIN:VEVENT
+UID:daviscup-2026-qf4@sportcal
+DTSTAMP:20261113T041928Z
+DTSTART:20261126T160000Z
+DTEND:20261126T220000Z
+SUMMARY:Austria - Spain
+DESCRIPTION:Final 8 — Quarterfinal · Spain · Davis Cup
+LOCATION:SuperTennis Arena\, Bologna
+END:VEVENT
+END:VCALENDAR
