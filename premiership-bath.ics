@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bath · Premiership
+BEGIN:VEVENT
+UID:premiership-20261204-bath-bristol-bears-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:BATH | Premiership | J6 | 🏟️ | Bristol Bears 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Premiership Rugby\nEstadi: Recr
+ eation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261204-bath-bristol-bears@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261204T194500Z
+DTEND:20261204T213000Z
+SUMMARY:Bath - Bristol Bears
+DESCRIPTION:Premiership Rugby
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261218-newcastle-red-bulls-bath-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:BATH | Premiership | J7 | ✈️ | Newcastle Red Bulls 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Premiership Rugby\nEstadi: King
+ ston Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261218-newcastle-red-bulls-bath@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261218T194500Z
+DTEND:20261218T213000Z
+SUMMARY:Newcastle Red Bulls - Bath
+DESCRIPTION:Premiership Rugby
+LOCATION:Kingston Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261227-bath-leicester-tigers-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:BATH | Premiership | J8 | 🏟️ | Leicester Tigers 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Premiership Rugby\nEstadi: Recr
+ eation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261227-bath-leicester-tigers@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261227T173000Z
+DTEND:20261227T191500Z
+SUMMARY:Bath - Leicester Tigers
+DESCRIPTION:Premiership Rugby
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270102-saracens-bath-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:BATH | Premiership | J9 | ✈️ | Saracens 🇬🇧
+DESCRIPTION:Inici: 16:05 (Europe/Madrid) · Premiership Rugby\nEstadi: Ston
+ eX Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270102-saracens-bath@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270102T150500Z
+DTEND:20270102T165000Z
+SUMMARY:Saracens - Bath
+DESCRIPTION:Premiership Rugby
+LOCATION:StoneX Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270123-bath-northampton-saints-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:BATH | Premiership | J10 | 🏟️ | Northampton Saints 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Recr
+ eation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270123-bath-northampton-saints@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270123T140000Z
+DTEND:20270123T154500Z
+SUMMARY:Bath - Northampton Saints
+DESCRIPTION:Premiership Rugby
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-bath-gloucester-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:BATH | Premiership | J11 | 🏟️ | Gloucester 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-bath-gloucester@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Bath - Gloucester · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-sale-sharks-bath-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:BATH | Premiership | J12 | ✈️ | Sale Sharks 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-sale-sharks-bath@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Sale Sharks - Bath · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-bath-newcastle-red-bulls-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:BATH | Premiership | J13 | 🏟️ | Newcastle Red Bulls 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-bath-newcastle-red-bulls@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Bath - Newcastle Red Bulls · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-leicester-tigers-bath-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:BATH | Premiership | J14 | ✈️ | Leicester Tigers 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-leicester-tigers-bath@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Leicester Tigers - Bath · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-exeter-chiefs-bath-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:BATH | Premiership | J15 | ✈️ | Exeter Chiefs 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-exeter-chiefs-bath@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Exeter Chiefs - Bath · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-bath-harlequins-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:BATH | Premiership | J16 | 🏟️ | Harlequins 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-bath-harlequins@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Bath - Harlequins · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-bristol-bears-bath-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:BATH | Premiership | J17 | ✈️ | Bristol Bears 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-bristol-bears-bath@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Bristol Bears - Bath · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-bath-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:BATH | Premiership | J18 | 🏟️ | Saracens 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Recr
+ eation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-bath-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270605T130000Z
+DTEND:20270605T144500Z
+SUMMARY:Bath - Saracens
+DESCRIPTION:Premiership Rugby
+LOCATION:Recreation Ground
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Faun Drome Classic · One-Day Races
+BEGIN:VEVENT
+UID:oneday-20270228-faun-drome-classic-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:ONE-DAY RACES | Faun Drome Classic
+DESCRIPTION:Faun Drome Classic\nÉtoile-sur-Rhône FRA · One-Day Races
+END:VEVENT
+BEGIN:VEVENT
+UID:oneday-20270228-faun-drome-classic@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Faun Drome Classic · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · One-Day Races
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sale Sharks · Premiership
+BEGIN:VEVENT
+UID:premiership-20261206-sale-sharks-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:SALE SHARKS | Premiership | J6 | 🏟️ | Exeter Chiefs 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Corp
+ Acq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261206-sale-sharks-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261206T150000Z
+DTEND:20261206T164500Z
+SUMMARY:Sale Sharks - Exeter Chiefs
+DESCRIPTION:Premiership Rugby
+LOCATION:CorpAcq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261219-leicester-tigers-sale-sharks-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:SALE SHARKS | Premiership | J7 | ✈️ | Leicester Tigers 🇬🇧
+DESCRIPTION:Inici: 16:05 (Europe/Madrid) · Premiership Rugby\nEstadi: Matt
+ ioli Woods Welford Road Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261219-leicester-tigers-sale-sharks@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261219T150500Z
+DTEND:20261219T165000Z
+SUMMARY:Leicester Tigers - Sale Sharks
+DESCRIPTION:Premiership Rugby
+LOCATION:Mattioli Woods Welford Road Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261226-sale-sharks-gloucester-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:SALE SHARKS | Premiership | J8 | 🏟️ | Gloucester 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Premiership Rugby\nEstadi: Corp
+ Acq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261226-sale-sharks-gloucester@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261226T173000Z
+DTEND:20261226T191500Z
+SUMMARY:Sale Sharks - Gloucester
+DESCRIPTION:Premiership Rugby
+LOCATION:CorpAcq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270103-northampton-saints-sale-sharks-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:SALE SHARKS | Premiership | J9 | ✈️ | Northampton Saints 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: cinc
+ h Stadium at Franklin's Gardens
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270103-northampton-saints-sale-sharks@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270103T150000Z
+DTEND:20270103T164500Z
+SUMMARY:Northampton Saints - Sale Sharks
+DESCRIPTION:Premiership Rugby
+LOCATION:cinch Stadium at Franklin's Gardens
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270123-sale-sharks-leicester-tigers-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:SALE SHARKS | Premiership | J10 | 🏟️ | Leicester Tigers 🇬
+ 🇧
+DESCRIPTION:Inici: 17:15 (Europe/Madrid) · Premiership Rugby\nEstadi: Corp
+ Acq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270123-sale-sharks-leicester-tigers@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270123T161500Z
+DTEND:20270123T180000Z
+SUMMARY:Sale Sharks - Leicester Tigers
+DESCRIPTION:Premiership Rugby
+LOCATION:CorpAcq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-bristol-bears-sale-sharks-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SALE SHARKS | Premiership | J11 | ✈️ | Bristol Bears 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-bristol-bears-sale-sharks@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Bristol Bears - Sale Sharks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-sale-sharks-bath-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:SALE SHARKS | Premiership | J12 | 🏟️ | Bath 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-sale-sharks-bath@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Sale Sharks - Bath · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-exeter-chiefs-sale-sharks-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:SALE SHARKS | Premiership | J13 | ✈️ | Exeter Chiefs 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-exeter-chiefs-sale-sharks@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Exeter Chiefs - Sale Sharks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-sale-sharks-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:SALE SHARKS | Premiership | J14 | 🏟️ | Saracens 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-sale-sharks-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Sale Sharks - Saracens · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-gloucester-sale-sharks-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SALE SHARKS | Premiership | J15 | ✈️ | Gloucester 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-gloucester-sale-sharks@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Gloucester - Sale Sharks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-sale-sharks-northampton-saints-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:SALE SHARKS | Premiership | J16 | 🏟️ | Northampton Saints 🇬
+ 🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-sale-sharks-northampton-saints@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Sale Sharks - Northampton Saints · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-harlequins-sale-sharks-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:SALE SHARKS | Premiership | J17 | ✈️ | Harlequins 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-harlequins-sale-sharks@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Harlequins - Sale Sharks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-sale-sharks-newcastle-red-bulls-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:SALE SHARKS | Premiership | J18 | 🏟️ | Newcastle Red Bulls 
+ 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Corp
+ Acq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-sale-sharks-newcastle-red-bulls@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270605T130000Z
+DTEND:20270605T144500Z
+SUMMARY:Sale Sharks - Newcastle Red Bulls
+DESCRIPTION:Premiership Rugby
+LOCATION:CorpAcq Stadium
+END:VEVENT
+END:VCALENDAR

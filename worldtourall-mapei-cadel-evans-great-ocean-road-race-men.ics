@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mapei Cadel Evans Great Ocean Road Race - Men · WorldTour
+BEGIN:VEVENT
+UID:worldtourall-20270131-mapei-cadel-evans-great-ocean-road-race-men-dia@s
+ portcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:WORLDTOUR | Mapei Cadel Evans Great Ocean Road Race - Men
+DESCRIPTION:Mapei Cadel Evans Great Ocean Road Race - Men\nGeelong Waterfro
+ nt AUS · WorldTour — All Races
+END:VEVENT
+BEGIN:VEVENT
+UID:worldtourall-20270131-mapei-cadel-evans-great-ocean-road-race-men@sport
+ cal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Mapei Cadel Evans Great Ocean Road Race - Men · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · WorldTour — All Races
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gloucester · Premiership
+BEGIN:VEVENT
+UID:premiership-20261205-gloucester-newcastle-red-bulls-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:GLOUCESTER | Premiership | J6 | 🏟️ | Newcastle Red Bulls 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: King
+ sholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261205-gloucester-newcastle-red-bulls@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Gloucester - Newcastle Red Bulls
+DESCRIPTION:Premiership Rugby
+LOCATION:Kingsholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261219-gloucester-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:GLOUCESTER | Premiership | J7 | 🏟️ | Saracens 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: King
+ sholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261219-gloucester-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261219T150000Z
+DTEND:20261219T164500Z
+SUMMARY:Gloucester - Saracens
+DESCRIPTION:Premiership Rugby
+LOCATION:Kingsholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261226-sale-sharks-gloucester-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:GLOUCESTER | Premiership | J8 | ✈️ | Sale Sharks 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Premiership Rugby\nEstadi: Corp
+ Acq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261226-sale-sharks-gloucester@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261226T173000Z
+DTEND:20261226T191500Z
+SUMMARY:Sale Sharks - Gloucester
+DESCRIPTION:Premiership Rugby
+LOCATION:CorpAcq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270101-gloucester-bristol-bears-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:GLOUCESTER | Premiership | J9 | 🏟️ | Bristol Bears 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Premiership Rugby\nEstadi: King
+ sholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270101-gloucester-bristol-bears@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270101T194500Z
+DTEND:20270101T213000Z
+SUMMARY:Gloucester - Bristol Bears
+DESCRIPTION:Premiership Rugby
+LOCATION:Kingsholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270122-harlequins-gloucester-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:GLOUCESTER | Premiership | J10 | ✈️ | Harlequins 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Premiership Rugby\nEstadi: Twic
+ kenham Stoop
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270122-harlequins-gloucester@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270122T194500Z
+DTEND:20270122T213000Z
+SUMMARY:Harlequins - Gloucester
+DESCRIPTION:Premiership Rugby
+LOCATION:Twickenham Stoop
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-bath-gloucester-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:GLOUCESTER | Premiership | J11 | ✈️ | Bath 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-bath-gloucester@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Bath - Gloucester · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-gloucester-leicester-tigers-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:GLOUCESTER | Premiership | J12 | 🏟️ | Leicester Tigers 🇬
+ 🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-gloucester-leicester-tigers@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Gloucester - Leicester Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-bristol-bears-gloucester-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:GLOUCESTER | Premiership | J13 | ✈️ | Bristol Bears 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-bristol-bears-gloucester@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Bristol Bears - Gloucester · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-gloucester-northampton-saints-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:GLOUCESTER | Premiership | J14 | 🏟️ | Northampton Saints 🇬
+ 🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-gloucester-northampton-saints@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Gloucester - Northampton Saints · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-gloucester-sale-sharks-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:GLOUCESTER | Premiership | J15 | 🏟️ | Sale Sharks 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-gloucester-sale-sharks@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Gloucester - Sale Sharks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-newcastle-red-bulls-gloucester-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:GLOUCESTER | Premiership | J16 | ✈️ | Newcastle Red Bulls 🇬
+ 🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-newcastle-red-bulls-gloucester@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Newcastle Red Bulls - Gloucester · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-saracens-gloucester-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:GLOUCESTER | Premiership | J17 | ✈️ | Saracens 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-saracens-gloucester@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Saracens - Gloucester · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-gloucester-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:GLOUCESTER | Premiership | J18 | 🏟️ | Exeter Chiefs 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Premiership Rugby\nEstadi: King
+ sholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-gloucester-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270605T130000Z
+DTEND:20270605T144500Z
+SUMMARY:Gloucester - Exeter Chiefs
+DESCRIPTION:Premiership Rugby
+LOCATION:Kingsholm
+END:VEVENT
+END:VCALENDAR

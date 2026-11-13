@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter Chiefs · Premiership
+BEGIN:VEVENT
+UID:premiership-20261206-sale-sharks-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:EXETER CHIEFS | Premiership | J6 | ✈️ | Sale Sharks 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Corp
+ Acq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261206-sale-sharks-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261206T150000Z
+DTEND:20261206T164500Z
+SUMMARY:Sale Sharks - Exeter Chiefs
+DESCRIPTION:Premiership Rugby
+LOCATION:CorpAcq Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261219-northampton-saints-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:EXETER CHIEFS | Premiership | J7 | ✈️ | Northampton Saints 🇬
+ 🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Premiership Rugby\nEstadi: cinc
+ h Stadium at Franklin's Gardens
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261219-northampton-saints-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261219T173000Z
+DTEND:20261219T191500Z
+SUMMARY:Northampton Saints - Exeter Chiefs
+DESCRIPTION:Premiership Rugby
+LOCATION:cinch Stadium at Franklin's Gardens
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261227-exeter-chiefs-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:EXETER CHIEFS | Premiership | J8 | 🏟️ | Saracens 🇬🇧
+DESCRIPTION:Inici: 16:05 (Europe/Madrid) · Premiership Rugby\nEstadi: Sand
+ y Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261227-exeter-chiefs-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261227T150500Z
+DTEND:20261227T165000Z
+SUMMARY:Exeter Chiefs - Saracens
+DESCRIPTION:Premiership Rugby
+LOCATION:Sandy Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270102-leicester-tigers-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:EXETER CHIEFS | Premiership | J9 | ✈️ | Leicester Tigers 🇬
+ 🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Premiership Rugby\nEstadi: Matt
+ ioli Woods Welford Road Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270102-leicester-tigers-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270102T173000Z
+DTEND:20270102T191500Z
+SUMMARY:Leicester Tigers - Exeter Chiefs
+DESCRIPTION:Premiership Rugby
+LOCATION:Mattioli Woods Welford Road Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270123-exeter-chiefs-bristol-bears-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:EXETER CHIEFS | Premiership | J10 | 🏟️ | Bristol Bears 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Sand
+ y Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270123-exeter-chiefs-bristol-bears@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270123T150000Z
+DTEND:20270123T164500Z
+SUMMARY:Exeter Chiefs - Bristol Bears
+DESCRIPTION:Premiership Rugby
+LOCATION:Sandy Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-exeter-chiefs-northampton-saints-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:EXETER CHIEFS | Premiership | J11 | 🏟️ | Northampton Saints 
+ 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-exeter-chiefs-northampton-saints@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Exeter Chiefs - Northampton Saints · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-harlequins-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:EXETER CHIEFS | Premiership | J12 | ✈️ | Harlequins 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-harlequins-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Harlequins - Exeter Chiefs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-exeter-chiefs-sale-sharks-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:EXETER CHIEFS | Premiership | J13 | 🏟️ | Sale Sharks 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-exeter-chiefs-sale-sharks@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Exeter Chiefs - Sale Sharks · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-newcastle-red-bulls-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:EXETER CHIEFS | Premiership | J14 | ✈️ | Newcastle Red Bulls 
+ 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-newcastle-red-bulls-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Newcastle Red Bulls - Exeter Chiefs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-exeter-chiefs-bath-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:EXETER CHIEFS | Premiership | J15 | 🏟️ | Bath 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-exeter-chiefs-bath@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Exeter Chiefs - Bath · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-saracens-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:EXETER CHIEFS | Premiership | J16 | ✈️ | Saracens 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-saracens-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Saracens - Exeter Chiefs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-exeter-chiefs-leicester-tigers-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:EXETER CHIEFS | Premiership | J17 | 🏟️ | Leicester Tigers 🇬
+ 🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-exeter-chiefs-leicester-tigers@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Exeter Chiefs - Leicester Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-gloucester-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:EXETER CHIEFS | Premiership | J18 | ✈️ | Gloucester 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Premiership Rugby\nEstadi: King
+ sholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-gloucester-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270605T130000Z
+DTEND:20270605T144500Z
+SUMMARY:Gloucester - Exeter Chiefs
+DESCRIPTION:Premiership Rugby
+LOCATION:Kingsholm
+END:VEVENT
+END:VCALENDAR

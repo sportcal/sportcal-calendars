@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dwars door Vlaanderen / A travers la Flandre · WorldTour F
+BEGIN:VEVENT
+UID:worldtourallf-20270331-dwars-door-vlaanderen-a-travers-la-flandre-dia@s
+ portcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:WORLDTOUR F | Dwars door Vlaanderen / A travers la Flandre
+DESCRIPTION:Dwars door Vlaanderen / A travers la Flandre\nDwars door Vlaand
+ eren / A Travers la Flandre BEL · Women's WorldTour — All Races
+END:VEVENT
+BEGIN:VEVENT
+UID:worldtourallf-20270331-dwars-door-vlaanderen-a-travers-la-flandre@sport
+ cal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Dwars door Vlaanderen / A travers la Flandre · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's WorldTour — All Races
+END:VEVENT
+END:VCALENDAR

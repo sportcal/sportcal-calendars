@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Women's Grand Tours
+BEGIN:VEVENT
+UID:grandtoursf-20270529-giro-d-italia-women-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:WOMEN'S GRAND TOURS | Giro d'Italia Women
+DESCRIPTION:Giro d'Italia Women\nItalia ITA · Women's Grand Tours
+END:VEVENT
+BEGIN:VEVENT
+UID:grandtoursf-20270529-giro-d-italia-women@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Giro d'Italia Women · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's Grand Tours
+END:VEVENT
+BEGIN:VEVENT
+UID:grandtoursf-20270730-tour-de-france-femmes-avec-zwift-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:WOMEN'S GRAND TOURS | Tour de France Femmes avec Zwift
+DESCRIPTION:Tour de France Femmes avec Zwift\nA CONFIRMER FRA · Women's Gr
+ and Tours
+END:VEVENT
+BEGIN:VEVENT
+UID:grandtoursf-20270730-tour-de-france-femmes-avec-zwift@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Tour de France Femmes avec Zwift · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's Grand Tours
+END:VEVENT
+BEGIN:VEVENT
+UID:grandtoursf-20271003-vuelta-espana-femenina-by-carrefour-es-dia@sportca
+ l
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:WOMEN'S GRAND TOURS | Vuelta España Femenina by Carrefour.es
+DESCRIPTION:Vuelta España Femenina by Carrefour.es\nMadrid ESP · Women's 
+ Grand Tours
+END:VEVENT
+BEGIN:VEVENT
+UID:grandtoursf-20271003-vuelta-espana-femenina-by-carrefour-es@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:Vuelta España Femenina by Carrefour.es · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's Grand Tours
+END:VEVENT
+END:VCALENDAR

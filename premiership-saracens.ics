@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Saracens · Premiership
+BEGIN:VEVENT
+UID:premiership-20261205-saracens-northampton-saints-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:SARACENS | Premiership | J6 | 🏟️ | Northampton Saints 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Premiership Rugby\nEstadi: Ston
+ eX Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261205-saracens-northampton-saints@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261205T173000Z
+DTEND:20261205T191500Z
+SUMMARY:Saracens - Northampton Saints
+DESCRIPTION:Premiership Rugby
+LOCATION:StoneX Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261219-gloucester-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:SARACENS | Premiership | J7 | ✈️ | Gloucester 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: King
+ sholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261219-gloucester-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261219T150000Z
+DTEND:20261219T164500Z
+SUMMARY:Gloucester - Saracens
+DESCRIPTION:Premiership Rugby
+LOCATION:Kingsholm
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261227-exeter-chiefs-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:SARACENS | Premiership | J8 | ✈️ | Exeter Chiefs 🇬🇧
+DESCRIPTION:Inici: 16:05 (Europe/Madrid) · Premiership Rugby\nEstadi: Sand
+ y Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20261227-exeter-chiefs-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20261227T150500Z
+DTEND:20261227T165000Z
+SUMMARY:Exeter Chiefs - Saracens
+DESCRIPTION:Premiership Rugby
+LOCATION:Sandy Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270102-saracens-bath-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:SARACENS | Premiership | J9 | 🏟️ | Bath 🇬🇧
+DESCRIPTION:Inici: 16:05 (Europe/Madrid) · Premiership Rugby\nEstadi: Ston
+ eX Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270102-saracens-bath@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270102T150500Z
+DTEND:20270102T165000Z
+SUMMARY:Saracens - Bath
+DESCRIPTION:Premiership Rugby
+LOCATION:StoneX Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270123-newcastle-red-bulls-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:SARACENS | Premiership | J10 | ✈️ | Newcastle Red Bulls 🇬
+ 🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Premiership Rugby\nEstadi: King
+ ston Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270123-newcastle-red-bulls-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270123T173000Z
+DTEND:20270123T191500Z
+SUMMARY:Newcastle Red Bulls - Saracens
+DESCRIPTION:Premiership Rugby
+LOCATION:Kingston Park
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-saracens-harlequins-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:SARACENS | Premiership | J11 | 🏟️ | Harlequins 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Tott
+ enham Hotspur Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270320-saracens-harlequins@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270320T150000Z
+DTEND:20270320T164500Z
+SUMMARY:Saracens - Harlequins
+DESCRIPTION:Premiership Rugby
+LOCATION:Tottenham Hotspur Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-northampton-saints-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:SARACENS | Premiership | J12 | ✈️ | Northampton Saints 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270327-northampton-saints-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Northampton Saints - Saracens · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-saracens-leicester-tigers-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:SARACENS | Premiership | J13 | 🏟️ | Leicester Tigers 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270417-saracens-leicester-tigers@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Saracens - Leicester Tigers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-sale-sharks-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:SARACENS | Premiership | J14 | ✈️ | Sale Sharks 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270424-sale-sharks-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Sale Sharks - Saracens · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-bristol-bears-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SARACENS | Premiership | J15 | ✈️ | Bristol Bears 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270508-bristol-bears-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Bristol Bears - Saracens · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-saracens-exeter-chiefs-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:SARACENS | Premiership | J16 | 🏟️ | Exeter Chiefs 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270515-saracens-exeter-chiefs@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Saracens - Exeter Chiefs · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-saracens-gloucester-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:SARACENS | Premiership | J17 | 🏟️ | Gloucester 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270529-saracens-gloucester@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Saracens - Gloucester · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Premiership Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-bath-saracens-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:SARACENS | Premiership | J18 | ✈️ | Bath 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Recr
+ eation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:premiership-20270605-bath-saracens@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART:20270605T130000Z
+DTEND:20270605T144500Z
+SUMMARY:Bath - Saracens
+DESCRIPTION:Premiership Rugby
+LOCATION:Recreation Ground
+END:VEVENT
+END:VCALENDAR

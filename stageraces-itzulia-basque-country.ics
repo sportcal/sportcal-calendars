@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Itzulia Basque Country · Stage Races
+BEGIN:VEVENT
+UID:stageraces-20270405-itzulia-basque-country-dia@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:STAGE RACES | Itzulia Basque Country
+DESCRIPTION:Itzulia Basque Country\nPaís Vasco ESP · Stage Races
+END:VEVENT
+BEGIN:VEVENT
+UID:stageraces-20270405-itzulia-basque-country@sportcal
+DTSTAMP:20261113T105856Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Itzulia Basque Country · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Stage Races
+END:VEVENT
+END:VCALENDAR
