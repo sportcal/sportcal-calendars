@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arizona State Sun Devils · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261115-arizona-wildcats-arizona-state-sun-devils-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ARIZONA STATE SUN DEVILS | NCAA WVB | J1 | ✈️ | Arizona Wildcat
+ s 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: McKale Center at ALKEME Arena\, Tucson\, Arizona
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-arizona-wildcats-arizona-state-sun-devils@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261115T180000Z
+DTEND:20261115T194500Z
+SUMMARY:Arizona Wildcats - Arizona State Sun Devils
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, Arizona
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-tcu-horned-frogs-arizona-state-sun-devils-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ARIZONA STATE SUN DEVILS | NCAA WVB | J129 | ✈️ | TCU Horned Fr
+ ogs 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Ed and Rae Schollmaier Arena\, Fort Worth\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-tcu-horned-frogs-arizona-state-sun-devils@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261121T003000Z
+DTEND:20261121T021500Z
+SUMMARY:TCU Horned Frogs - Arizona State Sun Devils
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Ed and Rae Schollmaier Arena\, Fort Worth\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-baylor-bears-arizona-state-sun-devils-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ARIZONA STATE SUN DEVILS | NCAA WVB | J3 | ✈️ | Baylor Bears 
+ 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Ferrell Center\, Waco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-baylor-bears-arizona-state-sun-devils@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261122T200000Z
+DTEND:20261122T214500Z
+SUMMARY:Baylor Bears - Arizona State Sun Devils
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Ferrell Center\, Waco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261126-arizona-state-sun-devils-kansas-state-wildcats-dia@spo
+ rtcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:ARIZONA STATE SUN DEVILS | NCAA WVB | J4 | 🏟️ | Kansas State W
+ ildcats 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Desert Financial Arena\, Tempe\, Arizona
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261126-arizona-state-sun-devils-kansas-state-wildcats@sportca
+ l
+DTSTAMP:20261113T102416Z
+DTSTART:20261126T020000Z
+DTEND:20261126T034500Z
+SUMMARY:Arizona State Sun Devils - Kansas State Wildcats
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Desert Financial Arena\, Tempe\, Arizona
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261128-arizona-state-sun-devils-kansas-jayhawks-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ARIZONA STATE SUN DEVILS | NCAA WVB | J349 | 🏟️ | Kansas Jayha
+ wks 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Desert Financial Arena\, Tempe\, Arizona
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261128-arizona-state-sun-devils-kansas-jayhawks@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261128T020000Z
+DTEND:20261128T034500Z
+SUMMARY:Arizona State Sun Devils - Kansas Jayhawks
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Desert Financial Arena\, Tempe\, Arizona
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cal State Northridge Matadors · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261114-uc-irvine-anteaters-cal-state-northridge-matadors-dia@
+ sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CAL STATE NORTHRIDGE MATADORS | NCAA WVB | J1 | ✈️ | UC Irvine 
+ Anteaters 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Bren Events Center\, Irvine\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261114-uc-irvine-anteaters-cal-state-northridge-matadors@spor
+ tcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261114T020000Z
+DTEND:20261114T034500Z
+SUMMARY:UC Irvine Anteaters - Cal State Northridge Matadors
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Bren Events Center\, Irvine\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-uc-san-diego-tritons-cal-state-northridge-matadors-dia
+ @sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:CAL STATE NORTHRIDGE MATADORS | NCAA WVB | J2 | ✈️ | UC San Die
+ go Tritons 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: LionTree Arena\, San Diego\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-uc-san-diego-tritons-cal-state-northridge-matadors@spo
+ rtcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261115T010000Z
+DTEND:20261115T024500Z
+SUMMARY:UC San Diego Tritons - Cal State Northridge Matadors
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:LionTree Arena\, San Diego\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-cal-state-northridge-matadors-utah-valley-wolverines-d
+ ia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CAL STATE NORTHRIDGE MATADORS | NCAA WVB | J129 | 🏟️ | Utah Va
+ lley Wolverines 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Premier America Credit Union Arena\, Northridge\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-cal-state-northridge-matadors-utah-valley-wolverines@s
+ portcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261121T030000Z
+DTEND:20261121T044500Z
+SUMMARY:Cal State Northridge Matadors - Utah Valley Wolverines
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Premier America Credit Union Arena\, Northridge\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-cal-state-northridge-matadors-sacramento-state-hornets
+ -dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:CAL STATE NORTHRIDGE MATADORS | NCAA WVB | J4 | 🏟️ | Sacrament
+ o State Hornets 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Premier America Credit Union Arena\, Northridge\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-cal-state-northridge-matadors-sacramento-state-hornets
+ @sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Cal State Northridge Matadors - Sacramento State Hornets
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Premier America Credit Union Arena\, Northridge\, California
+END:VEVENT
+END:VCALENDAR

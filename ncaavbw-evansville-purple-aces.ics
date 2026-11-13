@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Evansville Purple Aces · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261114-southern-illinois-salukis-evansville-purple-aces-dia@s
+ portcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:EVANSVILLE PURPLE ACES | NCAA WVB | J1 | ✈️ | Southern Illinois
+  Salukis 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Davies Gym\, Carbondale\, Illinois
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261114-southern-illinois-salukis-evansville-purple-aces@sport
+ cal
+DTSTAMP:20261113T102416Z
+DTSTART:20261114T000000Z
+DTEND:20261114T014500Z
+SUMMARY:Southern Illinois Salukis - Evansville Purple Aces
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Davies Gym\, Carbondale\, Illinois
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:South Dakota Coyotes · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261115-south-dakota-coyotes-north-dakota-fighting-hawks-dia@s
+ portcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SOUTH DAKOTA COYOTES | NCAA WVB | J1 | 🏟️ | North Dakota Fight
+ ing Hawks 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Sanford Coyote Sports Center\, Vermillion\, South Dakota
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-south-dakota-coyotes-north-dakota-fighting-hawks@sport
+ cal
+DTSTAMP:20261113T102416Z
+DTSTART:20261114T230000Z
+DTEND:20261115T004500Z
+SUMMARY:South Dakota Coyotes - North Dakota Fighting Hawks
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Sanford Coyote Sports Center\, Vermillion\, South Dakota
+END:VEVENT
+END:VCALENDAR

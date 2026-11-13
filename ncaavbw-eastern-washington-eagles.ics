@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eastern Washington Eagles · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261114-eastern-washington-eagles-montana-grizzlies-dia@sportc
+ al
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:EASTERN WASHINGTON EAGLES | NCAA WVB | J1 | 🏟️ | Montana Grizz
+ lies 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Reese Court\, Cheney\, Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261114-eastern-washington-eagles-montana-grizzlies@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261114T220000Z
+DTEND:20261114T234500Z
+SUMMARY:Eastern Washington Eagles - Montana Grizzlies
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Reese Court\, Cheney\, Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261119-idaho-state-bengals-eastern-washington-eagles-dia@spor
+ tcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:EASTERN WASHINGTON EAGLES | NCAA WVB | J2 | ✈️ | Idaho State Be
+ ngals 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Reed Gym\, Pocatello\, Idaho
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261119-idaho-state-bengals-eastern-washington-eagles@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261119T020000Z
+DTEND:20261119T034500Z
+SUMMARY:Idaho State Bengals - Eastern Washington Eagles
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Reed Gym\, Pocatello\, Idaho
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-weber-state-wildcats-eastern-washington-eagles-dia@spo
+ rtcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:EASTERN WASHINGTON EAGLES | NCAA WVB | J3 | ✈️ | Weber State Wi
+ ldcats 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Swenson Gym\, Ogden\, Utah
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-weber-state-wildcats-eastern-washington-eagles@sportca
+ l
+DTSTAMP:20261113T102416Z
+DTSTART:20261121T010000Z
+DTEND:20261121T024500Z
+SUMMARY:Weber State Wildcats - Eastern Washington Eagles
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Swenson Gym\, Ogden\, Utah
+END:VEVENT
+END:VCALENDAR

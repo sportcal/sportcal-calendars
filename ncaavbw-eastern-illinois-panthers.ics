@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eastern Illinois Panthers · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261113-eastern-illinois-panthers-siu-edwardsville-cougars-dia
+ @sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:EASTERN ILLINOIS PANTHERS | NCAA WVB | J1 | 🏟️ | SIU Edwardsvi
+ lle Cougars 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Gardella Family Court at McAfee Gym\, Charleston\, Illinois
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261113-eastern-illinois-panthers-siu-edwardsville-cougars@spo
+ rtcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261113T220000Z
+DTEND:20261113T234500Z
+SUMMARY:Eastern Illinois Panthers - SIU Edwardsville Cougars
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Gardella Family Court at McAfee Gym\, Charleston\, Illinois
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261118-southeast-missouri-state-redhawks-eastern-illinois-pan
+ thers-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:EASTERN ILLINOIS PANTHERS | NCAA WVB | J2 | ✈️ | Southeast Miss
+ ouri State Redhawks 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Houck Field House\, Cape Girardeau\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261118-southeast-missouri-state-redhawks-eastern-illinois-pan
+ thers@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261118T000000Z
+DTEND:20261118T014500Z
+SUMMARY:Southeast Missouri State Redhawks - Eastern Illinois Panthers
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Houck Field House\, Cape Girardeau\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261118-southeast-missouri-state-redhawks-eastern-illinois-pan
+ thers-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:EASTERN ILLINOIS PANTHERS | NCAA WVB | J2 | ✈️ | Southeast Miss
+ ouri State Redhawks 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Houck Field House\, Cape Girardeau\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261118-southeast-missouri-state-redhawks-eastern-illinois-pan
+ thers@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261118T220000Z
+DTEND:20261118T234500Z
+SUMMARY:Southeast Missouri State Redhawks - Eastern Illinois Panthers
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Houck Field House\, Cape Girardeau\, Missouri
+END:VEVENT
+END:VCALENDAR

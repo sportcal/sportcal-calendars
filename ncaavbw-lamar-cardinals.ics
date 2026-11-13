@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lamar Cardinals · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261114-southeastern-louisiana-lions-lamar-cardinals-dia@sport
+ cal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:LAMAR CARDINALS | NCAA WVB | J1 | ✈️ | Southeastern Louisiana L
+ ions 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: University Center\, Hammond\, Louisiana
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261114-southeastern-louisiana-lions-lamar-cardinals@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:Southeastern Louisiana Lions - Lamar Cardinals
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:University Center\, Hammond\, Louisiana
+END:VEVENT
+END:VCALENDAR

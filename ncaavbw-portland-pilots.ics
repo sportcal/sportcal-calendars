@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portland Pilots · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261114-portland-pilots-pacific-tigers-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:PORTLAND PILOTS | NCAA WVB | J1 | 🏟️ | Pacific Tigers 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Chiles Center\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261114-portland-pilots-pacific-tigers@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261114T200000Z
+DTEND:20261114T214500Z
+SUMMARY:Portland Pilots - Pacific Tigers
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Chiles Center\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261120-san-diego-toreros-portland-pilots-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:PORTLAND PILOTS | NCAA WVB | J2 | ✈️ | San Diego Toreros 🇺
+ 🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Jenny Craig Pavilion\, San Diego\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261120-san-diego-toreros-portland-pilots@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261120T030000Z
+DTEND:20261120T044500Z
+SUMMARY:San Diego Toreros - Portland Pilots
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Jenny Craig Pavilion\, San Diego\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-denver-pioneers-portland-pilots-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:PORTLAND PILOTS | NCAA WVB | J3 | ✈️ | Denver Pioneers 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Hamilton Gymnasium\, Denver\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-denver-pioneers-portland-pilots@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261121T200000Z
+DTEND:20261121T214500Z
+SUMMARY:Denver Pioneers - Portland Pilots
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Hamilton Gymnasium\, Denver\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261125-pepperdine-waves-portland-pilots-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:PORTLAND PILOTS | NCAA WVB | J325 | ✈️ | Pepperdine Waves 🇺
+ 🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: The Mountain at Mullin Park\, Malibu\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261125-pepperdine-waves-portland-pilots@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261125T200000Z
+DTEND:20261125T214500Z
+SUMMARY:Pepperdine Waves - Portland Pilots
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:The Mountain at Mullin Park\, Malibu\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261128-loyola-marymount-lions-portland-pilots-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:PORTLAND PILOTS | NCAA WVB | J349 | ✈️ | Loyola Marymount Lions
+  🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Gersten Pavilion\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261128-loyola-marymount-lions-portland-pilots@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261128T210000Z
+DTEND:20261128T224500Z
+SUMMARY:Loyola Marymount Lions - Portland Pilots
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Gersten Pavilion\, Los Angeles\, California
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Carolina Pirates · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261114-florida-atlantic-owls-east-carolina-pirates-dia@sportc
+ al
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:EAST CAROLINA PIRATES | NCAA WVB | J1 | ✈️ | Florida Atlantic O
+ wls 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Eleanor R. Baldwin Arena\, Boca Raton\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261114-florida-atlantic-owls-east-carolina-pirates@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261113T230000Z
+DTEND:20261114T004500Z
+SUMMARY:Florida Atlantic Owls - East Carolina Pirates
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Eleanor R. Baldwin Arena\, Boca Raton\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-south-florida-bulls-east-carolina-pirates-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:EAST CAROLINA PIRATES | NCAA WVB | J2 | ✈️ | South Florida Bull
+ s 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: The Corral\, Tampa\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-south-florida-bulls-east-carolina-pirates@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261115T180000Z
+DTEND:20261115T194500Z
+SUMMARY:South Florida Bulls - East Carolina Pirates
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:The Corral\, Tampa\, Florida
+END:VEVENT
+END:VCALENDAR

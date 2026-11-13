@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Duke Blue Devils · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261115-north-carolina-tar-heels-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:DUKE BLUE DEVILS | NCAA WVB | J1 | ✈️ | North Carolina Tar Heel
+ s 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Carmichael Arena\, Chapel Hill\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-north-carolina-tar-heels-duke-blue-devils@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261115T180000Z
+DTEND:20261115T194500Z
+SUMMARY:North Carolina Tar Heels - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Carmichael Arena\, Chapel Hill\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261120-duke-blue-devils-florida-state-seminoles-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:DUKE BLUE DEVILS | NCAA WVB | J35 | 🏟️ | Florida State Seminol
+ es 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Cameron Indoor Stadium\, Durham\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261120-duke-blue-devils-florida-state-seminoles@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261120T170000Z
+DTEND:20261120T184500Z
+SUMMARY:Duke Blue Devils - Florida State Seminoles
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Cameron Indoor Stadium\, Durham\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-duke-blue-devils-miami-hurricanes-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:DUKE BLUE DEVILS | NCAA WVB | J227 | 🏟️ | Miami Hurricanes 
+ 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Cameron Indoor Stadium\, Durham\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-duke-blue-devils-miami-hurricanes@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261122T180000Z
+DTEND:20261122T194500Z
+SUMMARY:Duke Blue Devils - Miami Hurricanes
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Cameron Indoor Stadium\, Durham\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261125-syracuse-orange-duke-blue-devils-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:DUKE BLUE DEVILS | NCAA WVB | J325 | ✈️ | Syracuse Orange 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Women's Building\, Syracuse\, New York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261125-syracuse-orange-duke-blue-devils@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261125T210000Z
+DTEND:20261125T224500Z
+SUMMARY:Syracuse Orange - Duke Blue Devils
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Women's Building\, Syracuse\, New York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261128-duke-blue-devils-virginia-tech-hokies-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:DUKE BLUE DEVILS | NCAA WVB | J349 | 🏟️ | Virginia Tech Hokies
+  🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Cameron Indoor Stadium\, Durham\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261128-duke-blue-devils-virginia-tech-hokies@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261128T200000Z
+DTEND:20261128T214500Z
+SUMMARY:Duke Blue Devils - Virginia Tech Hokies
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Cameron Indoor Stadium\, Durham\, North Carolina
+END:VEVENT
+END:VCALENDAR

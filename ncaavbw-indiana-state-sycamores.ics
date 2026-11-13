@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Indiana State Sycamores · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261115-southern-illinois-salukis-indiana-state-sycamores-dia@
+ sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:INDIANA STATE SYCAMORES | NCAA WVB | J2 | ✈️ | Southern Illinoi
+ s Salukis 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Davies Gym\, Carbondale\, Illinois
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-southern-illinois-salukis-indiana-state-sycamores@spor
+ tcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261114T230000Z
+DTEND:20261115T004500Z
+SUMMARY:Southern Illinois Salukis - Indiana State Sycamores
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Davies Gym\, Carbondale\, Illinois
+END:VEVENT
+END:VCALENDAR

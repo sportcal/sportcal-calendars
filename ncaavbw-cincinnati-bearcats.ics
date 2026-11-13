@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cincinnati Bearcats · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261114-cincinnati-bearcats-ucf-knights-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CINCINNATI BEARCATS | NCAA WVB | J1 | 🏟️ | UCF Knights 🇺
+ 🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Fifth Third Arena\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261114-cincinnati-bearcats-ucf-knights@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261113T233000Z
+DTEND:20261114T011500Z
+SUMMARY:Cincinnati Bearcats - UCF Knights
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Fifth Third Arena\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261117-iowa-state-cyclones-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:CINCINNATI BEARCATS | NCAA WVB | J1 | ✈️ | Iowa State Cyclones 
+ 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Hilton Coliseum\, Ames\, Iowa
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261117-iowa-state-cyclones-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261117T003000Z
+DTEND:20261117T021500Z
+SUMMARY:Iowa State Cyclones - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Hilton Coliseum\, Ames\, Iowa
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261120-utah-utes-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:CINCINNATI BEARCATS | NCAA WVB | J35 | ✈️ | Utah Utes 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Jon M. Huntsman Center\, Salt Lake City\, Utah
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261120-utah-utes-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261120T020000Z
+DTEND:20261120T034500Z
+SUMMARY:Utah Utes - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Jon M. Huntsman Center\, Salt Lake City\, Utah
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-byu-cougars-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CINCINNATI BEARCATS | NCAA WVB | J129 | ✈️ | BYU Cougars 🇺
+ 🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: George Albert Smith Fieldhouse\, Provo\, Utah
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-byu-cougars-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261121T200000Z
+DTEND:20261121T214500Z
+SUMMARY:BYU Cougars - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:George Albert Smith Fieldhouse\, Provo\, Utah
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261125-cincinnati-bearcats-texas-tech-red-raiders-dia@sportca
+ l
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:CINCINNATI BEARCATS | NCAA WVB | J325 | 🏟️ | Texas Tech Red Ra
+ iders 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Fifth Third Arena\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261125-cincinnati-bearcats-texas-tech-red-raiders@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261125T170000Z
+DTEND:20261125T184500Z
+SUMMARY:Cincinnati Bearcats - Texas Tech Red Raiders
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Fifth Third Arena\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261127-cincinnati-bearcats-baylor-bears-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:CINCINNATI BEARCATS | NCAA WVB | J347 | 🏟️ | Baylor Bears 🇺
+ 🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Fifth Third Arena\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261127-cincinnati-bearcats-baylor-bears@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261127T180000Z
+DTEND:20261127T194500Z
+SUMMARY:Cincinnati Bearcats - Baylor Bears
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Fifth Third Arena\, Cincinnati\, Ohio
+END:VEVENT
+END:VCALENDAR

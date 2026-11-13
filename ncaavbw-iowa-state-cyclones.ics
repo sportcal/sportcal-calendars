@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Iowa State Cyclones · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261117-iowa-state-cyclones-cincinnati-bearcats-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:IOWA STATE CYCLONES | NCAA WVB | J1 | 🏟️ | Cincinnati Bearcats
+  🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Hilton Coliseum\, Ames\, Iowa
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261117-iowa-state-cyclones-cincinnati-bearcats@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261117T003000Z
+DTEND:20261117T021500Z
+SUMMARY:Iowa State Cyclones - Cincinnati Bearcats
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Hilton Coliseum\, Ames\, Iowa
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-baylor-bears-iowa-state-cyclones-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:IOWA STATE CYCLONES | NCAA WVB | J2 | ✈️ | Baylor Bears 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Ferrell Center\, Waco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-baylor-bears-iowa-state-cyclones@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261121T010000Z
+DTEND:20261121T024500Z
+SUMMARY:Baylor Bears - Iowa State Cyclones
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Ferrell Center\, Waco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-tcu-horned-frogs-iowa-state-cyclones-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:IOWA STATE CYCLONES | NCAA WVB | J227 | ✈️ | TCU Horned Frogs 
+ 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Ed and Rae Schollmaier Arena\, Fort Worth\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-tcu-horned-frogs-iowa-state-cyclones@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261122T200000Z
+DTEND:20261122T214500Z
+SUMMARY:TCU Horned Frogs - Iowa State Cyclones
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Ed and Rae Schollmaier Arena\, Fort Worth\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261126-iowa-state-cyclones-houston-cougars-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:IOWA STATE CYCLONES | NCAA WVB | J4 | 🏟️ | Houston Cougars 
+ 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Hilton Coliseum\, Ames\, Iowa
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261126-iowa-state-cyclones-houston-cougars@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261126T003000Z
+DTEND:20261126T021500Z
+SUMMARY:Iowa State Cyclones - Houston Cougars
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Hilton Coliseum\, Ames\, Iowa
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261127-colorado-buffaloes-iowa-state-cyclones-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:IOWA STATE CYCLONES | NCAA WVB | J347 | ✈️ | Colorado Buffaloes
+  🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: CU Events Center\, Boulder\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261127-colorado-buffaloes-iowa-state-cyclones@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261127T200000Z
+DTEND:20261127T214500Z
+SUMMARY:Colorado Buffaloes - Iowa State Cyclones
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:CU Events Center\, Boulder\, Colorado
+END:VEVENT
+END:VCALENDAR

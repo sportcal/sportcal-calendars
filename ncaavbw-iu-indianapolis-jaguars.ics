@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IU Indianapolis Jaguars · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261114-iu-indianapolis-jaguars-cleveland-state-vikings-dia@sp
+ ortcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:IU INDIANAPOLIS JAGUARS | NCAA WVB | J1 | 🏟️ | Cleveland State
+  Vikings 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: The Jungle\, Indianapolis\, Indiana
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261114-iu-indianapolis-jaguars-cleveland-state-vikings@sportc
+ al
+DTSTAMP:20261113T102416Z
+DTSTART:20261114T220000Z
+DTEND:20261114T234500Z
+SUMMARY:IU Indianapolis Jaguars - Cleveland State Vikings
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:The Jungle\, Indianapolis\, Indiana
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Florida State Seminoles · NCAA WVB
+BEGIN:VEVENT
+UID:ncaavbw-20261114-boston-college-eagles-florida-state-seminoles-dia@spor
+ tcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:FLORIDA STATE SEMINOLES | NCAA WVB | J1 | ✈️ | Boston College E
+ agles 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Margot Connell Recreation Center\, Chestnut Hill\, Massachusett
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261114-boston-college-eagles-florida-state-seminoles@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261114T000000Z
+DTEND:20261114T014500Z
+SUMMARY:Boston College Eagles - Florida State Seminoles
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Margot Connell Recreation Center\, Chestnut Hill\, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-syracuse-orange-florida-state-seminoles-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:FLORIDA STATE SEMINOLES | NCAA WVB | J2 | ✈️ | Syracuse Orange 
+ 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Women's Building\, Syracuse\, New York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261115-syracuse-orange-florida-state-seminoles@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261115T180000Z
+DTEND:20261115T194500Z
+SUMMARY:Syracuse Orange - Florida State Seminoles
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Women's Building\, Syracuse\, New York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261120-duke-blue-devils-florida-state-seminoles-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:FLORIDA STATE SEMINOLES | NCAA WVB | J35 | ✈️ | Duke Blue Devil
+ s 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Cameron Indoor Stadium\, Durham\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261120-duke-blue-devils-florida-state-seminoles@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261120T170000Z
+DTEND:20261120T184500Z
+SUMMARY:Duke Blue Devils - Florida State Seminoles
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Cameron Indoor Stadium\, Durham\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-north-carolina-tar-heels-florida-state-seminoles-dia@s
+ portcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:FLORIDA STATE SEMINOLES | NCAA WVB | J227 | ✈️ | North Carolina
+  Tar Heels 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Carmichael Arena\, Chapel Hill\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261122-north-carolina-tar-heels-florida-state-seminoles@sport
+ cal
+DTSTAMP:20261113T102416Z
+DTSTART:20261122T180000Z
+DTEND:20261122T194500Z
+SUMMARY:North Carolina Tar Heels - Florida State Seminoles
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Carmichael Arena\, Chapel Hill\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261124-clemson-tigers-florida-state-seminoles-dia@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:FLORIDA STATE SEMINOLES | NCAA WVB | J5 | ✈️ | Clemson Tigers 
+ 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Jervey Gym\, Clemson\, South Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261124-clemson-tigers-florida-state-seminoles@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261124T190000Z
+DTEND:20261124T204500Z
+SUMMARY:Clemson Tigers - Florida State Seminoles
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Jervey Gym\, Clemson\, South Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261128-florida-state-seminoles-virginia-cavaliers-dia@sportca
+ l
+DTSTAMP:20261113T102416Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:FLORIDA STATE SEMINOLES | NCAA WVB | J6 | 🏟️ | Virginia Cavali
+ ers 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Tully Gymnasium\, Tallahassee\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261128-florida-state-seminoles-virginia-cavaliers@sportcal
+DTSTAMP:20261113T102416Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Florida State Seminoles - Virginia Cavaliers
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:Tully Gymnasium\, Tallahassee\, Florida
+END:VEVENT
+END:VCALENDAR
