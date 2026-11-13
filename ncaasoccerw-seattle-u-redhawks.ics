@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seattle U Redhawks · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261115-seattle-u-redhawks-santa-clara-broncos-dia@sportca
+ l
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SEATTLE U REDHAWKS | NCAA WS | J1 | 🏟️ | Santa Clara Broncos 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: Sullivan Field\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261115-seattle-u-redhawks-santa-clara-broncos@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T230000Z
+DTEND:20261115T004500Z
+SUMMARY:Seattle U Redhawks - Santa Clara Broncos
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Sullivan Field\, Los Angeles\, California
+END:VEVENT
+END:VCALENDAR

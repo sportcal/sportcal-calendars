@@ -1,0 +1,500 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston University Terriers · NCAA MH
+BEGIN:VEVENT
+UID:ncaaihm-20261119-boston-university-terriers-quinnipiac-bobcats-dia@spor
+ tcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J3 | 🏟️ | Quinnipiac Bo
+ bcats 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261119-boston-university-terriers-quinnipiac-bobcats@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261119T000000Z
+DTEND:20261119T014500Z
+SUMMARY:Boston University Terriers - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261121-merrimack-warriors-boston-university-terriers-dia@spor
+ tcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J3 | ✈️ | Merrimack Warr
+ iors 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Lawler Arena\, North Andover\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261121-merrimack-warriors-boston-university-terriers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Merrimack Warriors - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Lawler Arena\, North Andover\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261122-boston-university-terriers-merrimack-warriors-dia@spor
+ tcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J4 | 🏟️ | Merrimack War
+ riors 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261122-boston-university-terriers-merrimack-warriors@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261121T230000Z
+DTEND:20261122T004500Z
+SUMMARY:Boston University Terriers - Merrimack Warriors
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261127-boston-university-terriers-denver-pioneers-dia@sportca
+ l
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J5 | 🏟️ | Denver Pionee
+ rs 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261127-boston-university-terriers-denver-pioneers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261127T200000Z
+DTEND:20261127T214500Z
+SUMMARY:Boston University Terriers - Denver Pioneers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261129-boston-university-terriers-denver-pioneers-dia@sportca
+ l
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J6 | 🏟️ | Denver Pionee
+ rs 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261129-boston-university-terriers-denver-pioneers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261128T230000Z
+DTEND:20261129T004500Z
+SUMMARY:Boston University Terriers - Denver Pioneers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261205-cornell-big-red-boston-university-terriers-dia@sportca
+ l
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J6 | ✈️ | Cornell Big Re
+ d 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Lynah Rink\, Ithaca\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261205-cornell-big-red-boston-university-terriers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261205T000000Z
+DTEND:20261205T014500Z
+SUMMARY:Cornell Big Red - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Lynah Rink\, Ithaca\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261205-colgate-raiders-boston-university-terriers-dia@sportca
+ l
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J6 | ✈️ | Colgate Raider
+ s 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Class of 1965 Arena\, Hamilton\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261205-colgate-raiders-boston-university-terriers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261205T220000Z
+DTEND:20261205T234500Z
+SUMMARY:Colgate Raiders - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Class of 1965 Arena\, Hamilton\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261212-boston-university-terriers-northeastern-huskies-dia@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J9 | 🏟️ | Northeastern 
+ Huskies 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261212-boston-university-terriers-northeastern-huskies@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART:20261212T000000Z
+DTEND:20261212T014500Z
+SUMMARY:Boston University Terriers - Northeastern Huskies
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261213-boston-university-terriers-northeastern-huskies-dia@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J10 | 🏟️ | Northeastern
+  Huskies 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261213-boston-university-terriers-northeastern-huskies@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART:20261212T230000Z
+DTEND:20261213T004500Z
+SUMMARY:Boston University Terriers - Northeastern Huskies
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270109-boston-university-terriers-massachusetts-minutemen-dia
+ @sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J10 | 🏟️ | Massachusett
+ s Minutemen 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270109-boston-university-terriers-massachusetts-minutemen@spo
+ rtcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270109T000000Z
+DTEND:20270109T014500Z
+SUMMARY:Boston University Terriers - Massachusetts Minutemen
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270110-massachusetts-minutemen-boston-university-terriers-dia
+ @sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J11 | ✈️ | Massachusetts
+  Minutemen 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270110-massachusetts-minutemen-boston-university-terriers@spo
+ rtcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270110T000000Z
+DTEND:20270110T014500Z
+SUMMARY:Massachusetts Minutemen - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270116-umass-lowell-river-hawks-boston-university-terriers-di
+ a@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J12 | ✈️ | UMass Lowell 
+ River Hawks 🇺🇸
+DESCRIPTION:Inici: 01:15 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Tsongas Center\, Lowell\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270116-umass-lowell-river-hawks-boston-university-terriers@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270116T001500Z
+DTEND:20270116T020000Z
+SUMMARY:UMass Lowell River Hawks - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Tsongas Center\, Lowell\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270117-boston-university-terriers-umass-lowell-river-hawks-di
+ a@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J13 | 🏟️ | UMass Lowell
+  River Hawks 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270117-boston-university-terriers-umass-lowell-river-hawks@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270116T230000Z
+DTEND:20270117T004500Z
+SUMMARY:Boston University Terriers - UMass Lowell River Hawks
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270123-boston-university-terriers-providence-friars-dia@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J14 | 🏟️ | Providence F
+ riars 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270123-boston-university-terriers-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270123T000000Z
+DTEND:20270123T014500Z
+SUMMARY:Boston University Terriers - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270124-providence-friars-boston-university-terriers-dia@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J15 | ✈️ | Providence Fr
+ iars 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270124-providence-friars-boston-university-terriers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270123T230000Z
+DTEND:20270124T004500Z
+SUMMARY:Providence Friars - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270130-boston-college-eagles-boston-university-terriers-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J13 | ✈️ | Boston Colleg
+ e Eagles 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270130-boston-college-eagles-boston-university-terriers@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20270130T000000Z
+DTEND:20270130T014500Z
+SUMMARY:Boston College Eagles - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270201-boston-university-terriers-boston-college-eagles-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J17 | 🏟️ | Boston Colle
+ ge Eagles 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I Men Hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270201-boston-university-terriers-boston-college-eagles@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Boston University Terriers - Boston College Eagles · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I Men Hockey
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270206-maine-black-bears-boston-university-terriers-dia@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J17 | ✈️ | Maine Black B
+ ears 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Harold Alfond Sports Arena\, Orono\, ME
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270206-maine-black-bears-boston-university-terriers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270206T000000Z
+DTEND:20270206T014500Z
+SUMMARY:Maine Black Bears - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Harold Alfond Sports Arena\, Orono\, ME
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270220-boston-university-terriers-new-hampshire-wildcats-dia@
+ sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J24 | 🏟️ | New Hampshir
+ e Wildcats 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270220-boston-university-terriers-new-hampshire-wildcats@spor
+ tcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Boston University Terriers - New Hampshire Wildcats
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270221-new-hampshire-wildcats-boston-university-terriers-dia@
+ sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J22 | ✈️ | New Hampshire
+  Wildcats 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Whittemore Center\, Durham\, NH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270221-new-hampshire-wildcats-boston-university-terriers@spor
+ tcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270221T000000Z
+DTEND:20270221T014500Z
+SUMMARY:New Hampshire Wildcats - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Whittemore Center\, Durham\, NH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270227-boston-college-eagles-boston-university-terriers-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J21 | ✈️ | Boston Colleg
+ e Eagles 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270227-boston-college-eagles-boston-university-terriers@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:Boston College Eagles - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270228-boston-university-terriers-boston-college-eagles-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J22 | 🏟️ | Boston Colle
+ ge Eagles 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270228-boston-university-terriers-boston-college-eagles@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20270228T000000Z
+DTEND:20270228T014500Z
+SUMMARY:Boston University Terriers - Boston College Eagles
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270306-boston-university-terriers-northeastern-huskies-dia@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J25 | 🏟️ | Northeastern
+  Huskies 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270306-boston-university-terriers-northeastern-huskies@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:Boston University Terriers - Northeastern Huskies
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270307-boston-university-terriers-umass-lowell-river-hawks-di
+ a@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:BOSTON UNIVERSITY TERRIERS | NCAA MH | J24 | 🏟️ | UMass Lowell
+  River Hawks 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270307-boston-university-terriers-umass-lowell-river-hawks@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270306T230000Z
+DTEND:20270307T004500Z
+SUMMARY:Boston University Terriers - UMass Lowell River Hawks
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+END:VCALENDAR

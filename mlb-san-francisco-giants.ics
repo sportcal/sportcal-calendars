@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:San Francisco Giants · MLB
 BEGIN:VEVENT
 UID:mlb-20270330-san-francisco-giants-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J1 | 🏟️ | Arizona Diamondbacks 
@@ -15,7 +15,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270330-san-francisco-giants-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
@@ -24,7 +24,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-san-francisco-giants-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J2 | 🏟️ | Arizona Diamondbacks 
@@ -33,7 +33,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270331-san-francisco-giants-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
@@ -42,7 +42,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270402-new-york-mets-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J3 | ✈️ | New York Mets 🇺🇸
@@ -51,7 +51,7 @@ DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270402-new-york-mets-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270402T191000Z
 DTEND:20270402T205500Z
 SUMMARY:New York Mets - San Francisco Giants
@@ -60,7 +60,7 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-new-york-mets-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J4 | ✈️ | New York Mets 🇺🇸
@@ -69,7 +69,7 @@ DESCRIPTION:Inici: 01:10 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-new-york-mets-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270403T231000Z
 DTEND:20270404T005500Z
 SUMMARY:New York Mets - San Francisco Giants
@@ -78,7 +78,7 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-new-york-mets-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J4 | ✈️ | New York Mets 🇺🇸
@@ -87,7 +87,7 @@ DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Citi Field\, Queen
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270404-new-york-mets-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270404T174000Z
 DTEND:20270404T192500Z
 SUMMARY:New York Mets - San Francisco Giants
@@ -96,7 +96,7 @@ LOCATION:Citi Field\, Queens\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270406-atlanta-braves-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J6 | ✈️ | Atlanta Braves 🇺🇸
@@ -105,7 +105,7 @@ DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270406-atlanta-braves-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270405T231500Z
 DTEND:20270406T010000Z
 SUMMARY:Atlanta Braves - San Francisco Giants
@@ -114,7 +114,7 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-atlanta-braves-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J7 | ✈️ | Atlanta Braves 🇺🇸
@@ -123,7 +123,7 @@ DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270407-atlanta-braves-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270406T231500Z
 DTEND:20270407T010000Z
 SUMMARY:Atlanta Braves - San Francisco Giants
@@ -132,7 +132,7 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-atlanta-braves-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J8 | ✈️ | Atlanta Braves 🇺🇸
@@ -141,7 +141,7 @@ DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-atlanta-braves-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270407T231500Z
 DTEND:20270408T010000Z
 SUMMARY:Atlanta Braves - San Francisco Giants
@@ -150,7 +150,7 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-atlanta-braves-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J8 | ✈️ | Atlanta Braves 🇺🇸
@@ -159,7 +159,7 @@ DESCRIPTION:Inici: 18:15 (Europe/Madrid) · MLB\nEstadi: Truist Park\, Atla
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270408-atlanta-braves-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270408T161500Z
 DTEND:20270408T180000Z
 SUMMARY:Atlanta Braves - San Francisco Giants
@@ -168,7 +168,7 @@ LOCATION:Truist Park\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270409-san-francisco-giants-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J9 | 🏟️ | St. Louis Cardinals 
@@ -177,7 +177,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270409-san-francisco-giants-st-louis-cardinals@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:San Francisco Giants - St. Louis Cardinals · TBD
@@ -186,7 +186,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-san-francisco-giants-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J10 | 🏟️ | St. Louis Cardinals 
@@ -195,7 +195,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270410-san-francisco-giants-st-louis-cardinals@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:San Francisco Giants - St. Louis Cardinals · TBD
@@ -204,7 +204,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-san-francisco-giants-st-louis-cardinals-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J11 | 🏟️ | St. Louis Cardinals 
@@ -213,7 +213,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270411-san-francisco-giants-st-louis-cardinals@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:San Francisco Giants - St. Louis Cardinals · TBD
@@ -222,7 +222,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270413-san-francisco-giants-baltimore-orioles-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J13 | 🏟️ | Baltimore Orioles 🇺
@@ -231,7 +231,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270413-san-francisco-giants-baltimore-orioles@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:San Francisco Giants - Baltimore Orioles · TBD
@@ -240,7 +240,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270414-san-francisco-giants-baltimore-orioles-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J14 | 🏟️ | Baltimore Orioles 🇺
@@ -249,7 +249,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270414-san-francisco-giants-baltimore-orioles@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:San Francisco Giants - Baltimore Orioles · TBD
@@ -258,7 +258,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-francisco-giants-baltimore-orioles-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J15 | 🏟️ | Baltimore Orioles 🇺
@@ -267,7 +267,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270415-san-francisco-giants-baltimore-orioles@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:San Francisco Giants - Baltimore Orioles · TBD
@@ -276,7 +276,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270416-chicago-white-sox-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J16 | ✈️ | Chicago White Sox 🇺
@@ -285,7 +285,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270416-chicago-white-sox-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:Chicago White Sox - San Francisco Giants · TBD
@@ -294,7 +294,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-chicago-white-sox-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J17 | ✈️ | Chicago White Sox 🇺
@@ -303,7 +303,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270417-chicago-white-sox-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Chicago White Sox - San Francisco Giants · TBD
@@ -312,7 +312,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-chicago-white-sox-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J18 | ✈️ | Chicago White Sox 🇺
@@ -321,7 +321,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270418-chicago-white-sox-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Chicago White Sox - San Francisco Giants · TBD
@@ -330,7 +330,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270420-pittsburgh-pirates-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J19 | ✈️ | Pittsburgh Pirates 🇺
@@ -339,7 +339,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270420-pittsburgh-pirates-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Pittsburgh Pirates - San Francisco Giants · TBD
@@ -348,7 +348,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-pittsburgh-pirates-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J20 | ✈️ | Pittsburgh Pirates 🇺
@@ -357,7 +357,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270421-pittsburgh-pirates-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:Pittsburgh Pirates - San Francisco Giants · TBD
@@ -366,7 +366,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-pittsburgh-pirates-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J21 | ✈️ | Pittsburgh Pirates 🇺
@@ -375,7 +375,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270422-pittsburgh-pirates-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:Pittsburgh Pirates - San Francisco Giants · TBD
@@ -384,7 +384,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-cincinnati-reds-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J22 | ✈️ | Cincinnati Reds 🇺
@@ -394,7 +394,7 @@ DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270424-cincinnati-reds-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270423T224000Z
 DTEND:20270424T002500Z
 SUMMARY:Cincinnati Reds - San Francisco Giants
@@ -403,7 +403,7 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-cincinnati-reds-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J23 | ✈️ | Cincinnati Reds 🇺
@@ -413,7 +413,7 @@ DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-cincinnati-reds-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270424T224000Z
 DTEND:20270425T002500Z
 SUMMARY:Cincinnati Reds - San Francisco Giants
@@ -422,7 +422,7 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-cincinnati-reds-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J23 | ✈️ | Cincinnati Reds 🇺
@@ -432,7 +432,7 @@ DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Great American Bal
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270425-cincinnati-reds-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270425T174000Z
 DTEND:20270425T192500Z
 SUMMARY:Cincinnati Reds - San Francisco Giants
@@ -441,7 +441,7 @@ LOCATION:Great American Ball Park\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270426-san-francisco-giants-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J25 | 🏟️ | Seattle Mariners 🇺
@@ -450,7 +450,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270426-san-francisco-giants-seattle-mariners@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
 SUMMARY:San Francisco Giants - Seattle Mariners · TBD
@@ -459,7 +459,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270427-san-francisco-giants-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J26 | 🏟️ | Seattle Mariners 🇺
@@ -468,7 +468,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270427-san-francisco-giants-seattle-mariners@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:San Francisco Giants - Seattle Mariners · TBD
@@ -477,7 +477,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-san-francisco-giants-seattle-mariners-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J27 | 🏟️ | Seattle Mariners 🇺
@@ -486,7 +486,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270428-san-francisco-giants-seattle-mariners@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 SUMMARY:San Francisco Giants - Seattle Mariners · TBD
@@ -495,7 +495,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270430-san-francisco-giants-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J28 | 🏟️ | Philadelphia Phillies 
@@ -504,7 +504,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270430-san-francisco-giants-philadelphia-phillies@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:San Francisco Giants - Philadelphia Phillies · TBD
@@ -513,7 +513,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270501-san-francisco-giants-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J29 | 🏟️ | Philadelphia Phillies 
@@ -522,7 +522,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270501-san-francisco-giants-philadelphia-phillies@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:San Francisco Giants - Philadelphia Phillies · TBD
@@ -531,7 +531,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-san-francisco-giants-philadelphia-phillies-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J30 | 🏟️ | Philadelphia Phillies 
@@ -540,7 +540,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270502-san-francisco-giants-philadelphia-phillies@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:San Francisco Giants - Philadelphia Phillies · TBD
@@ -549,7 +549,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270504-milwaukee-brewers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J31 | ✈️ | Milwaukee Brewers 🇺
@@ -559,7 +559,7 @@ DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270504-milwaukee-brewers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270503T234000Z
 DTEND:20270504T012500Z
 SUMMARY:Milwaukee Brewers - San Francisco Giants
@@ -568,7 +568,7 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-milwaukee-brewers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J32 | ✈️ | Milwaukee Brewers 🇺
@@ -578,7 +578,7 @@ DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-milwaukee-brewers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270504T234000Z
 DTEND:20270505T012500Z
 SUMMARY:Milwaukee Brewers - San Francisco Giants
@@ -587,7 +587,7 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-milwaukee-brewers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J32 | ✈️ | Milwaukee Brewers 🇺
@@ -597,7 +597,7 @@ DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: American Family Fi
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270505-milwaukee-brewers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270505T174000Z
 DTEND:20270505T192500Z
 SUMMARY:Milwaukee Brewers - San Francisco Giants
@@ -606,7 +606,7 @@ LOCATION:American Family Field\, Milwaukee\, Wisconsin
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-los-angeles-dodgers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J34 | ✈️ | Los Angeles Dodgers 
@@ -615,7 +615,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270506-los-angeles-dodgers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Los Angeles Dodgers - San Francisco Giants · TBD
@@ -624,7 +624,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-los-angeles-dodgers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J35 | ✈️ | Los Angeles Dodgers 
@@ -633,7 +633,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270507-los-angeles-dodgers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:Los Angeles Dodgers - San Francisco Giants · TBD
@@ -642,7 +642,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-los-angeles-dodgers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J36 | ✈️ | Los Angeles Dodgers 
@@ -651,7 +651,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270508-los-angeles-dodgers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Los Angeles Dodgers - San Francisco Giants · TBD
@@ -660,7 +660,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-los-angeles-dodgers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J37 | ✈️ | Los Angeles Dodgers 
@@ -669,7 +669,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270509-los-angeles-dodgers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Los Angeles Dodgers - San Francisco Giants · TBD
@@ -678,7 +678,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270511-san-francisco-giants-texas-rangers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J37 | 🏟️ | Texas Rangers 🇺🇸
@@ -686,7 +686,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270511-san-francisco-giants-texas-rangers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:San Francisco Giants - Texas Rangers · TBD
@@ -695,7 +695,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-san-francisco-giants-texas-rangers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J38 | 🏟️ | Texas Rangers 🇺🇸
@@ -703,7 +703,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270512-san-francisco-giants-texas-rangers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:San Francisco Giants - Texas Rangers · TBD
@@ -712,7 +712,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-san-francisco-giants-texas-rangers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J39 | 🏟️ | Texas Rangers 🇺🇸
@@ -720,7 +720,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270513-san-francisco-giants-texas-rangers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:San Francisco Giants - Texas Rangers · TBD
@@ -729,7 +729,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270514-san-francisco-giants-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J41 | 🏟️ | Kansas City Royals 
@@ -738,7 +738,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270514-san-francisco-giants-kansas-city-royals@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:San Francisco Giants - Kansas City Royals · TBD
@@ -747,7 +747,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-san-francisco-giants-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J42 | 🏟️ | Kansas City Royals 
@@ -756,7 +756,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270515-san-francisco-giants-kansas-city-royals@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:San Francisco Giants - Kansas City Royals · TBD
@@ -765,7 +765,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-francisco-giants-kansas-city-royals-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J43 | 🏟️ | Kansas City Royals 
@@ -774,7 +774,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270516-san-francisco-giants-kansas-city-royals@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:San Francisco Giants - Kansas City Royals · TBD
@@ -783,7 +783,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270518-detroit-tigers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J44 | ✈️ | Detroit Tigers 🇺🇸
@@ -791,7 +791,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270518-detroit-tigers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 SUMMARY:Detroit Tigers - San Francisco Giants · TBD
@@ -800,7 +800,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-detroit-tigers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J45 | ✈️ | Detroit Tigers 🇺🇸
@@ -808,7 +808,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270519-detroit-tigers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:Detroit Tigers - San Francisco Giants · TBD
@@ -817,7 +817,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-detroit-tigers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J45 | ✈️ | Detroit Tigers 🇺🇸
@@ -825,7 +825,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270520-detroit-tigers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:Detroit Tigers - San Francisco Giants · TBD
@@ -834,7 +834,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-new-york-yankees-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J48 | ✈️ | New York Yankees 🇺
@@ -844,7 +844,7 @@ DESCRIPTION:Inici: 01:05 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-new-york-yankees-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270521T230500Z
 DTEND:20270522T005000Z
 SUMMARY:New York Yankees - San Francisco Giants
@@ -853,7 +853,7 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-new-york-yankees-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J48 | ✈️ | New York Yankees 🇺
@@ -863,7 +863,7 @@ DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270522-new-york-yankees-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270522T173500Z
 DTEND:20270522T192000Z
 SUMMARY:New York Yankees - San Francisco Giants
@@ -872,7 +872,7 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-new-york-yankees-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J49 | ✈️ | New York Yankees 🇺
@@ -882,7 +882,7 @@ DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Yankee Stadium\, B
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270523-new-york-yankees-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270523T173500Z
 DTEND:20270523T192000Z
 SUMMARY:New York Yankees - San Francisco Giants
@@ -891,7 +891,7 @@ LOCATION:Yankee Stadium\, Bronx\, New York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270524-san-francisco-giants-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J50 | 🏟️ | San Diego Padres 🇺
@@ -900,7 +900,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270524-san-francisco-giants-san-diego-padres@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 SUMMARY:San Francisco Giants - San Diego Padres · TBD
@@ -909,7 +909,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270525-san-francisco-giants-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J51 | 🏟️ | San Diego Padres 🇺
@@ -918,7 +918,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270525-san-francisco-giants-san-diego-padres@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
 SUMMARY:San Francisco Giants - San Diego Padres · TBD
@@ -927,7 +927,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270526-san-francisco-giants-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J52 | 🏟️ | San Diego Padres 🇺
@@ -936,7 +936,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270526-san-francisco-giants-san-diego-padres@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 SUMMARY:San Francisco Giants - San Diego Padres · TBD
@@ -945,7 +945,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-san-francisco-giants-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J53 | 🏟️ | San Diego Padres 🇺
@@ -954,7 +954,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270527-san-francisco-giants-san-diego-padres@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:San Francisco Giants - San Diego Padres · TBD
@@ -963,7 +963,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270528-san-francisco-giants-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270529
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J52 | 🏟️ | Cincinnati Reds 🇺
@@ -972,7 +972,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270528-san-francisco-giants-cincinnati-reds@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270529
 SUMMARY:San Francisco Giants - Cincinnati Reds · TBD
@@ -981,7 +981,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-san-francisco-giants-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J53 | 🏟️ | Cincinnati Reds 🇺
@@ -990,7 +990,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270529-san-francisco-giants-cincinnati-reds@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:San Francisco Giants - Cincinnati Reds · TBD
@@ -999,7 +999,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-san-francisco-giants-cincinnati-reds-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J54 | 🏟️ | Cincinnati Reds 🇺
@@ -1008,7 +1008,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270530-san-francisco-giants-cincinnati-reds@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:San Francisco Giants - Cincinnati Reds · TBD
@@ -1017,7 +1017,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270531-san-francisco-giants-washington-nationals-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J56 | 🏟️ | Washington Nationals 
@@ -1026,7 +1026,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270531-san-francisco-giants-washington-nationals@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 SUMMARY:San Francisco Giants - Washington Nationals · TBD
@@ -1035,7 +1035,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270601-san-francisco-giants-washington-nationals-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J57 | 🏟️ | Washington Nationals 
@@ -1044,7 +1044,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270601-san-francisco-giants-washington-nationals@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 SUMMARY:San Francisco Giants - Washington Nationals · TBD
@@ -1053,7 +1053,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-san-francisco-giants-washington-nationals-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J58 | 🏟️ | Washington Nationals 
@@ -1062,7 +1062,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270602-san-francisco-giants-washington-nationals@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
 SUMMARY:San Francisco Giants - Washington Nationals · TBD
@@ -1071,7 +1071,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270604-arizona-diamondbacks-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J60 | ✈️ | Arizona Diamondbacks 
@@ -1080,7 +1080,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270604-arizona-diamondbacks-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
@@ -1089,7 +1089,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-arizona-diamondbacks-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J61 | ✈️ | Arizona Diamondbacks 
@@ -1098,7 +1098,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270605-arizona-diamondbacks-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
@@ -1107,7 +1107,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-arizona-diamondbacks-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J62 | ✈️ | Arizona Diamondbacks 
@@ -1116,7 +1116,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270606-arizona-diamondbacks-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
@@ -1125,7 +1125,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270608-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J64 | ✈️ | San Diego Padres 🇺
@@ -1135,7 +1135,7 @@ DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270608-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270608T014000Z
 DTEND:20270608T032500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -1144,7 +1144,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J65 | ✈️ | San Diego Padres 🇺
@@ -1154,7 +1154,7 @@ DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270609T014000Z
 DTEND:20270609T032500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -1163,7 +1163,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J65 | ✈️ | San Diego Padres 🇺
@@ -1173,7 +1173,7 @@ DESCRIPTION:Inici: 22:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270609-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270609T201000Z
 DTEND:20270609T215500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -1182,7 +1182,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270611-san-francisco-giants-new-york-mets-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J66 | 🏟️ | New York Mets 🇺🇸
@@ -1190,7 +1190,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270611-san-francisco-giants-new-york-mets@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
 SUMMARY:San Francisco Giants - New York Mets · TBD
@@ -1199,7 +1199,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-san-francisco-giants-new-york-mets-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J67 | 🏟️ | New York Mets 🇺🇸
@@ -1207,7 +1207,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270612-san-francisco-giants-new-york-mets@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
 SUMMARY:San Francisco Giants - New York Mets · TBD
@@ -1216,7 +1216,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-san-francisco-giants-new-york-mets-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J68 | 🏟️ | New York Mets 🇺🇸
@@ -1224,7 +1224,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270613-san-francisco-giants-new-york-mets@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 SUMMARY:San Francisco Giants - New York Mets · TBD
@@ -1233,7 +1233,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270614-san-francisco-giants-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270615
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J69 | 🏟️ | Los Angeles Dodgers 
@@ -1242,7 +1242,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270614-san-francisco-giants-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270615
 SUMMARY:San Francisco Giants - Los Angeles Dodgers · TBD
@@ -1251,7 +1251,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270615-san-francisco-giants-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J70 | 🏟️ | Los Angeles Dodgers 
@@ -1260,7 +1260,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270615-san-francisco-giants-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:San Francisco Giants - Los Angeles Dodgers · TBD
@@ -1269,7 +1269,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-san-francisco-giants-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J71 | 🏟️ | Los Angeles Dodgers 
@@ -1278,7 +1278,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270616-san-francisco-giants-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
 SUMMARY:San Francisco Giants - Los Angeles Dodgers · TBD
@@ -1287,7 +1287,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-philadelphia-phillies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J73 | ✈️ | Philadelphia Phillies 
@@ -1297,7 +1297,7 @@ DESCRIPTION:Inici: 00:40 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-philadelphia-phillies-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270618T224000Z
 DTEND:20270619T002500Z
 SUMMARY:Philadelphia Phillies - San Francisco Giants
@@ -1306,7 +1306,7 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-philadelphia-phillies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J73 | ✈️ | Philadelphia Phillies 
@@ -1316,7 +1316,7 @@ DESCRIPTION:Inici: 22:05 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270619-philadelphia-phillies-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270619T200500Z
 DTEND:20270619T215000Z
 SUMMARY:Philadelphia Phillies - San Francisco Giants
@@ -1325,7 +1325,7 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-philadelphia-phillies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J74 | ✈️ | Philadelphia Phillies 
@@ -1335,7 +1335,7 @@ DESCRIPTION:Inici: 19:35 (Europe/Madrid) · MLB\nEstadi: Citizens Bank Park
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270620-philadelphia-phillies-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270620T173500Z
 DTEND:20270620T192000Z
 SUMMARY:Philadelphia Phillies - San Francisco Giants
@@ -1344,7 +1344,7 @@ LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270621-toronto-blue-jays-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J75 | ✈️ | Toronto Blue Jays 🇺
@@ -1353,7 +1353,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270621-toronto-blue-jays-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
 SUMMARY:Toronto Blue Jays - San Francisco Giants · TBD
@@ -1362,7 +1362,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-toronto-blue-jays-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J76 | ✈️ | Toronto Blue Jays 🇺
@@ -1371,7 +1371,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270622-toronto-blue-jays-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
 SUMMARY:Toronto Blue Jays - San Francisco Giants · TBD
@@ -1380,7 +1380,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-toronto-blue-jays-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J77 | ✈️ | Toronto Blue Jays 🇺
@@ -1389,7 +1389,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270623-toronto-blue-jays-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 SUMMARY:Toronto Blue Jays - San Francisco Giants · TBD
@@ -1398,7 +1398,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270624-san-francisco-giants-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J78 | 🏟️ | Chicago Cubs 🇺🇸
@@ -1406,7 +1406,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270624-san-francisco-giants-chicago-cubs@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
 SUMMARY:San Francisco Giants - Chicago Cubs · TBD
@@ -1415,7 +1415,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270625-san-francisco-giants-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J79 | 🏟️ | Chicago Cubs 🇺🇸
@@ -1423,7 +1423,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270625-san-francisco-giants-chicago-cubs@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
 SUMMARY:San Francisco Giants - Chicago Cubs · TBD
@@ -1432,7 +1432,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270626-san-francisco-giants-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J80 | 🏟️ | Chicago Cubs 🇺🇸
@@ -1440,7 +1440,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270626-san-francisco-giants-chicago-cubs@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
 SUMMARY:San Francisco Giants - Chicago Cubs · TBD
@@ -1449,7 +1449,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-san-francisco-giants-chicago-cubs-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J81 | 🏟️ | Chicago Cubs 🇺🇸
@@ -1457,7 +1457,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270627-san-francisco-giants-chicago-cubs@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:San Francisco Giants - Chicago Cubs · TBD
@@ -1466,7 +1466,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270628-san-francisco-giants-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J82 | 🏟️ | Tampa Bay Rays 🇺
@@ -1475,7 +1475,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270628-san-francisco-giants-tampa-bay-rays@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:San Francisco Giants - Tampa Bay Rays · TBD
@@ -1484,7 +1484,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270629-san-francisco-giants-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J83 | 🏟️ | Tampa Bay Rays 🇺
@@ -1493,7 +1493,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270629-san-francisco-giants-tampa-bay-rays@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:San Francisco Giants - Tampa Bay Rays · TBD
@@ -1502,7 +1502,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270630-san-francisco-giants-tampa-bay-rays-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J84 | 🏟️ | Tampa Bay Rays 🇺
@@ -1511,7 +1511,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270630-san-francisco-giants-tampa-bay-rays@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:San Francisco Giants - Tampa Bay Rays · TBD
@@ -1520,7 +1520,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-arizona-diamondbacks-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J85 | ✈️ | Arizona Diamondbacks 
@@ -1529,7 +1529,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270701-arizona-diamondbacks-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
 SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
@@ -1538,7 +1538,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270702-arizona-diamondbacks-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J84 | ✈️ | Arizona Diamondbacks 
@@ -1547,7 +1547,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270702-arizona-diamondbacks-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
 SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
@@ -1556,7 +1556,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-arizona-diamondbacks-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J85 | ✈️ | Arizona Diamondbacks 
@@ -1565,7 +1565,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270703-arizona-diamondbacks-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
 SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
@@ -1574,7 +1574,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-arizona-diamondbacks-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J86 | ✈️ | Arizona Diamondbacks 
@@ -1583,7 +1583,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270704-arizona-diamondbacks-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 SUMMARY:Arizona Diamondbacks - San Francisco Giants · TBD
@@ -1592,7 +1592,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270707-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J89 | ✈️ | Colorado Rockies 🇺
@@ -1602,7 +1602,7 @@ DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270707-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270707T004000Z
 DTEND:20270707T022500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -1611,7 +1611,7 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J90 | ✈️ | Colorado Rockies 🇺
@@ -1621,7 +1621,7 @@ DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270708T004000Z
 DTEND:20270708T022500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -1630,7 +1630,7 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J90 | ✈️ | Colorado Rockies 🇺
@@ -1640,7 +1640,7 @@ DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270708-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270708T191000Z
 DTEND:20270708T205500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -1649,7 +1649,7 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270709-houston-astros-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J91 | ✈️ | Houston Astros 🇺🇸
@@ -1657,7 +1657,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270709-houston-astros-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
 SUMMARY:Houston Astros - San Francisco Giants · TBD
@@ -1666,7 +1666,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-houston-astros-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J92 | ✈️ | Houston Astros 🇺🇸
@@ -1674,7 +1674,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270710-houston-astros-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
 SUMMARY:Houston Astros - San Francisco Giants · TBD
@@ -1683,7 +1683,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-houston-astros-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J93 | ✈️ | Houston Astros 🇺🇸
@@ -1691,7 +1691,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270711-houston-astros-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:Houston Astros - San Francisco Giants · TBD
@@ -1700,7 +1700,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270716-san-francisco-giants-athletics-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270717
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J93 | 🏟️ | Athletics 🇺🇸
@@ -1708,7 +1708,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270716-san-francisco-giants-athletics@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270717
 SUMMARY:San Francisco Giants - Athletics · TBD
@@ -1717,7 +1717,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-san-francisco-giants-athletics-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J94 | 🏟️ | Athletics 🇺🇸
@@ -1725,7 +1725,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270717-san-francisco-giants-athletics@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
 SUMMARY:San Francisco Giants - Athletics · TBD
@@ -1734,7 +1734,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-san-francisco-giants-athletics-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J95 | 🏟️ | Athletics 🇺🇸
@@ -1742,7 +1742,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270718-san-francisco-giants-athletics@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:San Francisco Giants - Athletics · TBD
@@ -1751,7 +1751,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270719-san-francisco-giants-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J97 | 🏟️ | Colorado Rockies 🇺
@@ -1760,7 +1760,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270719-san-francisco-giants-colorado-rockies@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
 SUMMARY:San Francisco Giants - Colorado Rockies · TBD
@@ -1769,7 +1769,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270720-san-francisco-giants-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J98 | 🏟️ | Colorado Rockies 🇺
@@ -1778,7 +1778,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270720-san-francisco-giants-colorado-rockies@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:San Francisco Giants - Colorado Rockies · TBD
@@ -1787,7 +1787,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-san-francisco-giants-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J99 | 🏟️ | Colorado Rockies 🇺
@@ -1796,7 +1796,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270721-san-francisco-giants-colorado-rockies@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:San Francisco Giants - Colorado Rockies · TBD
@@ -1805,7 +1805,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270722-san-francisco-giants-colorado-rockies-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270723
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J99 | 🏟️ | Colorado Rockies 🇺
@@ -1814,7 +1814,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270722-san-francisco-giants-colorado-rockies@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270723
 SUMMARY:San Francisco Giants - Colorado Rockies · TBD
@@ -1823,7 +1823,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270723-san-francisco-giants-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270724
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J100 | 🏟️ | San Diego Padres 🇺
@@ -1832,7 +1832,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270723-san-francisco-giants-san-diego-padres@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270724
 SUMMARY:San Francisco Giants - San Diego Padres · TBD
@@ -1841,7 +1841,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270724-san-francisco-giants-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J101 | 🏟️ | San Diego Padres 🇺
@@ -1850,7 +1850,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270724-san-francisco-giants-san-diego-padres@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
 SUMMARY:San Francisco Giants - San Diego Padres · TBD
@@ -1859,7 +1859,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-san-francisco-giants-san-diego-padres-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J102 | 🏟️ | San Diego Padres 🇺
@@ -1868,7 +1868,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270725-san-francisco-giants-san-diego-padres@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 SUMMARY:San Francisco Giants - San Diego Padres · TBD
@@ -1877,7 +1877,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270727-los-angeles-angels-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J104 | ✈️ | Los Angeles Angels 
@@ -1887,7 +1887,7 @@ DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270727-los-angeles-angels-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270726T223800Z
 DTEND:20270727T002300Z
 SUMMARY:Los Angeles Angels - San Francisco Giants
@@ -1896,7 +1896,7 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-los-angeles-angels-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J105 | ✈️ | Los Angeles Angels 
@@ -1906,7 +1906,7 @@ DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270728-los-angeles-angels-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270727T223800Z
 DTEND:20270728T002300Z
 SUMMARY:Los Angeles Angels - San Francisco Giants
@@ -1915,7 +1915,7 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-los-angeles-angels-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J106 | ✈️ | Los Angeles Angels 
@@ -1925,7 +1925,7 @@ DESCRIPTION:Inici: 00:38 (Europe/Madrid) · MLB\nEstadi: Angel Stadium\, An
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270729-los-angeles-angels-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270728T223800Z
 DTEND:20270729T002300Z
 SUMMARY:Los Angeles Angels - San Francisco Giants
@@ -1934,7 +1934,7 @@ LOCATION:Angel Stadium\, Anaheim\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270730-los-angeles-dodgers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J107 | ✈️ | Los Angeles Dodgers 
@@ -1943,7 +1943,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270730-los-angeles-dodgers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
 SUMMARY:Los Angeles Dodgers - San Francisco Giants · TBD
@@ -1952,7 +1952,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-los-angeles-dodgers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J108 | ✈️ | Los Angeles Dodgers 
@@ -1961,7 +1961,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270731-los-angeles-dodgers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Los Angeles Dodgers - San Francisco Giants · TBD
@@ -1970,7 +1970,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-los-angeles-dodgers-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J109 | ✈️ | Los Angeles Dodgers 
@@ -1979,7 +1979,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270801-los-angeles-dodgers-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:Los Angeles Dodgers - San Francisco Giants · TBD
@@ -1988,7 +1988,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270802-chicago-cubs-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J110 | ✈️ | Chicago Cubs 🇺🇸
@@ -1996,7 +1996,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270802-chicago-cubs-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
 SUMMARY:Chicago Cubs - San Francisco Giants · TBD
@@ -2005,7 +2005,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-chicago-cubs-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J110 | ✈️ | Chicago Cubs 🇺🇸
@@ -2013,7 +2013,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270803-chicago-cubs-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
 SUMMARY:Chicago Cubs - San Francisco Giants · TBD
@@ -2022,7 +2022,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-chicago-cubs-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J111 | ✈️ | Chicago Cubs 🇺🇸
@@ -2030,7 +2030,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270804-chicago-cubs-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
 SUMMARY:Chicago Cubs - San Francisco Giants · TBD
@@ -2039,7 +2039,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270806-san-francisco-giants-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J113 | 🏟️ | Los Angeles Dodgers 
@@ -2048,7 +2048,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270806-san-francisco-giants-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 SUMMARY:San Francisco Giants - Los Angeles Dodgers · TBD
@@ -2057,7 +2057,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-san-francisco-giants-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J114 | 🏟️ | Los Angeles Dodgers 
@@ -2066,7 +2066,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270807-san-francisco-giants-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
 SUMMARY:San Francisco Giants - Los Angeles Dodgers · TBD
@@ -2075,7 +2075,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-san-francisco-giants-los-angeles-dodgers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J115 | 🏟️ | Los Angeles Dodgers 
@@ -2084,7 +2084,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270808-san-francisco-giants-los-angeles-dodgers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 SUMMARY:San Francisco Giants - Los Angeles Dodgers · TBD
@@ -2093,7 +2093,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270809-san-francisco-giants-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270809
 DTEND;VALUE=DATE:20270810
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J116 | 🏟️ | Milwaukee Brewers 
@@ -2102,7 +2102,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270809-san-francisco-giants-milwaukee-brewers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270809
 DTEND;VALUE=DATE:20270810
 SUMMARY:San Francisco Giants - Milwaukee Brewers · TBD
@@ -2111,7 +2111,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-san-francisco-giants-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J116 | 🏟️ | Milwaukee Brewers 
@@ -2120,7 +2120,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270810-san-francisco-giants-milwaukee-brewers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:San Francisco Giants - Milwaukee Brewers · TBD
@@ -2129,7 +2129,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-francisco-giants-milwaukee-brewers-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J117 | 🏟️ | Milwaukee Brewers 
@@ -2138,7 +2138,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270811-san-francisco-giants-milwaukee-brewers@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:San Francisco Giants - Milwaukee Brewers · TBD
@@ -2147,7 +2147,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270813-miami-marlins-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J119 | ✈️ | Miami Marlins 🇺🇸
@@ -2155,7 +2155,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270813-miami-marlins-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 SUMMARY:Miami Marlins - San Francisco Giants · TBD
@@ -2164,7 +2164,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-miami-marlins-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J120 | ✈️ | Miami Marlins 🇺🇸
@@ -2172,7 +2172,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270814-miami-marlins-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
 SUMMARY:Miami Marlins - San Francisco Giants · TBD
@@ -2181,7 +2181,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-miami-marlins-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J121 | ✈️ | Miami Marlins 🇺🇸
@@ -2189,7 +2189,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270815-miami-marlins-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:Miami Marlins - San Francisco Giants · TBD
@@ -2198,7 +2198,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-washington-nationals-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J123 | ✈️ | Washington Nationals 
@@ -2208,7 +2208,7 @@ DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270818-washington-nationals-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270817T224500Z
 DTEND:20270818T003000Z
 SUMMARY:Washington Nationals - San Francisco Giants
@@ -2217,7 +2217,7 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-washington-nationals-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J125 | ✈️ | Washington Nationals 
@@ -2227,7 +2227,7 @@ DESCRIPTION:Inici: 00:45 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-washington-nationals-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270818T224500Z
 DTEND:20270819T003000Z
 SUMMARY:Washington Nationals - San Francisco Giants
@@ -2236,7 +2236,7 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-washington-nationals-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J125 | ✈️ | Washington Nationals 
@@ -2246,7 +2246,7 @@ DESCRIPTION:Inici: 19:05 (Europe/Madrid) · MLB\nEstadi: Nationals Park\, W
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270819-washington-nationals-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270819T170500Z
 DTEND:20270819T185000Z
 SUMMARY:Washington Nationals - San Francisco Giants
@@ -2255,7 +2255,7 @@ LOCATION:Nationals Park\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270820-san-francisco-giants-miami-marlins-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270821
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J126 | 🏟️ | Miami Marlins 🇺
@@ -2264,7 +2264,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270820-san-francisco-giants-miami-marlins@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270821
 SUMMARY:San Francisco Giants - Miami Marlins · TBD
@@ -2273,7 +2273,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-san-francisco-giants-miami-marlins-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J127 | 🏟️ | Miami Marlins 🇺
@@ -2282,7 +2282,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270821-san-francisco-giants-miami-marlins@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 SUMMARY:San Francisco Giants - Miami Marlins · TBD
@@ -2291,7 +2291,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-san-francisco-giants-miami-marlins-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J128 | 🏟️ | Miami Marlins 🇺
@@ -2300,7 +2300,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270822-san-francisco-giants-miami-marlins@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:San Francisco Giants - Miami Marlins · TBD
@@ -2309,7 +2309,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270824-san-francisco-giants-boston-red-sox-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J128 | 🏟️ | Boston Red Sox 🇺
@@ -2318,7 +2318,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270824-san-francisco-giants-boston-red-sox@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
 SUMMARY:San Francisco Giants - Boston Red Sox · TBD
@@ -2327,7 +2327,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-san-francisco-giants-boston-red-sox-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J129 | 🏟️ | Boston Red Sox 🇺
@@ -2336,7 +2336,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270825-san-francisco-giants-boston-red-sox@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:San Francisco Giants - Boston Red Sox · TBD
@@ -2345,7 +2345,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270826-san-francisco-giants-boston-red-sox-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270826
 DTEND;VALUE=DATE:20270827
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J130 | 🏟️ | Boston Red Sox 🇺
@@ -2354,7 +2354,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270826-san-francisco-giants-boston-red-sox@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270826
 DTEND;VALUE=DATE:20270827
 SUMMARY:San Francisco Giants - Boston Red Sox · TBD
@@ -2363,7 +2363,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270827-athletics-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270828
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J132 | ✈️ | Athletics 🇺🇸
@@ -2371,7 +2371,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270827-athletics-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270828
 SUMMARY:Athletics - San Francisco Giants · TBD
@@ -2380,7 +2380,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-athletics-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J133 | ✈️ | Athletics 🇺🇸
@@ -2388,7 +2388,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270828-athletics-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 SUMMARY:Athletics - San Francisco Giants · TBD
@@ -2397,7 +2397,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270829-athletics-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J134 | ✈️ | Athletics 🇺🇸
@@ -2405,7 +2405,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270829-athletics-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:Athletics - San Francisco Giants · TBD
@@ -2414,7 +2414,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270830-san-francisco-giants-cleveland-guardians-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270830
 DTEND;VALUE=DATE:20270831
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J134 | 🏟️ | Cleveland Guardians 
@@ -2423,7 +2423,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270830-san-francisco-giants-cleveland-guardians@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270830
 DTEND;VALUE=DATE:20270831
 SUMMARY:San Francisco Giants - Cleveland Guardians · TBD
@@ -2432,7 +2432,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270831-san-francisco-giants-cleveland-guardians-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J134 | 🏟️ | Cleveland Guardians 
@@ -2441,7 +2441,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270831-san-francisco-giants-cleveland-guardians@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
 SUMMARY:San Francisco Giants - Cleveland Guardians · TBD
@@ -2450,7 +2450,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-san-francisco-giants-cleveland-guardians-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J135 | 🏟️ | Cleveland Guardians 
@@ -2459,7 +2459,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270901-san-francisco-giants-cleveland-guardians@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:San Francisco Giants - Cleveland Guardians · TBD
@@ -2468,7 +2468,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-st-louis-cardinals-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J138 | ✈️ | St. Louis Cardinals 
@@ -2478,7 +2478,7 @@ DESCRIPTION:Inici: 02:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270904-st-louis-cardinals-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270904T001500Z
 DTEND:20270904T020000Z
 SUMMARY:St. Louis Cardinals - San Francisco Giants
@@ -2487,7 +2487,7 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-st-louis-cardinals-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J139 | ✈️ | St. Louis Cardinals 
@@ -2497,7 +2497,7 @@ DESCRIPTION:Inici: 01:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-st-louis-cardinals-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270904T231500Z
 DTEND:20270905T010000Z
 SUMMARY:St. Louis Cardinals - San Francisco Giants
@@ -2506,7 +2506,7 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-st-louis-cardinals-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J139 | ✈️ | St. Louis Cardinals 
@@ -2516,7 +2516,7 @@ DESCRIPTION:Inici: 20:15 (Europe/Madrid) · MLB\nEstadi: Busch Stadium\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270905-st-louis-cardinals-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270905T181500Z
 DTEND:20270905T200000Z
 SUMMARY:St. Louis Cardinals - San Francisco Giants
@@ -2525,7 +2525,7 @@ LOCATION:Busch Stadium\, St. Louis\, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J140 | ✈️ | San Diego Padres 🇺
@@ -2535,7 +2535,7 @@ DESCRIPTION:Inici: 23:10 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270906-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270906T211000Z
 DTEND:20270906T225500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -2544,7 +2544,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J142 | ✈️ | San Diego Padres 🇺
@@ -2554,7 +2554,7 @@ DESCRIPTION:Inici: 03:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270908-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270908T014000Z
 DTEND:20270908T032500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -2563,7 +2563,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-san-diego-padres-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J143 | ✈️ | San Diego Padres 🇺
@@ -2573,7 +2573,7 @@ DESCRIPTION:Inici: 02:40 (Europe/Madrid) · MLB\nEstadi: Petco Park\, San D
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270909-san-diego-padres-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270909T004000Z
 DTEND:20270909T022500Z
 SUMMARY:San Diego Padres - San Francisco Giants
@@ -2582,7 +2582,7 @@ LOCATION:Petco Park\, San Diego\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270910-san-francisco-giants-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J144 | 🏟️ | Pittsburgh Pirates 
@@ -2591,7 +2591,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270910-san-francisco-giants-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:San Francisco Giants - Pittsburgh Pirates · TBD
@@ -2600,7 +2600,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270911-san-francisco-giants-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J145 | 🏟️ | Pittsburgh Pirates 
@@ -2609,7 +2609,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270911-san-francisco-giants-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
 SUMMARY:San Francisco Giants - Pittsburgh Pirates · TBD
@@ -2618,7 +2618,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-san-francisco-giants-pittsburgh-pirates-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J146 | 🏟️ | Pittsburgh Pirates 
@@ -2627,7 +2627,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270912-san-francisco-giants-pittsburgh-pirates@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 SUMMARY:San Francisco Giants - Pittsburgh Pirates · TBD
@@ -2636,7 +2636,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270913-san-francisco-giants-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270913
 DTEND;VALUE=DATE:20270914
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J146 | 🏟️ | Arizona Diamondbacks 
@@ -2645,7 +2645,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270913-san-francisco-giants-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270913
 DTEND;VALUE=DATE:20270914
 SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
@@ -2654,7 +2654,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270914-san-francisco-giants-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J147 | 🏟️ | Arizona Diamondbacks 
@@ -2663,7 +2663,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270914-san-francisco-giants-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
@@ -2672,7 +2672,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270915-san-francisco-giants-arizona-diamondbacks-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J148 | 🏟️ | Arizona Diamondbacks 
@@ -2681,7 +2681,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270915-san-francisco-giants-arizona-diamondbacks@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:San Francisco Giants - Arizona Diamondbacks · TBD
@@ -2690,7 +2690,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270917-san-francisco-giants-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J150 | 🏟️ | Atlanta Braves 🇺
@@ -2699,7 +2699,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270917-san-francisco-giants-atlanta-braves@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
 SUMMARY:San Francisco Giants - Atlanta Braves · TBD
@@ -2708,7 +2708,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270918-san-francisco-giants-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J151 | 🏟️ | Atlanta Braves 🇺
@@ -2717,7 +2717,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270918-san-francisco-giants-atlanta-braves@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 SUMMARY:San Francisco Giants - Atlanta Braves · TBD
@@ -2726,7 +2726,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-san-francisco-giants-atlanta-braves-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J152 | 🏟️ | Atlanta Braves 🇺
@@ -2735,7 +2735,7 @@ DESCRIPTION:Hora pendent de confirmació · MLB
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270919-san-francisco-giants-atlanta-braves@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:San Francisco Giants - Atlanta Braves · TBD
@@ -2744,7 +2744,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-minnesota-twins-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J153 | ✈️ | Minnesota Twins 🇺
@@ -2754,7 +2754,7 @@ DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270922-minnesota-twins-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270921T234000Z
 DTEND:20270922T012500Z
 SUMMARY:Minnesota Twins - San Francisco Giants
@@ -2763,7 +2763,7 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-minnesota-twins-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J154 | ✈️ | Minnesota Twins 🇺
@@ -2773,7 +2773,7 @@ DESCRIPTION:Inici: 01:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-minnesota-twins-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270922T234000Z
 DTEND:20270923T012500Z
 SUMMARY:Minnesota Twins - San Francisco Giants
@@ -2782,7 +2782,7 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-minnesota-twins-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J154 | ✈️ | Minnesota Twins 🇺
@@ -2792,7 +2792,7 @@ DESCRIPTION:Inici: 19:40 (Europe/Madrid) · MLB\nEstadi: Target Field\, Min
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270923-minnesota-twins-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270923T174000Z
 DTEND:20270923T192500Z
 SUMMARY:Minnesota Twins - San Francisco Giants
@@ -2801,7 +2801,7 @@ LOCATION:Target Field\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270925-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J156 | ✈️ | Colorado Rockies 🇺
@@ -2811,7 +2811,7 @@ DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270925-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270925T001000Z
 DTEND:20270925T015500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -2820,7 +2820,7 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J157 | ✈️ | Colorado Rockies 🇺
@@ -2830,7 +2830,7 @@ DESCRIPTION:Inici: 02:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270926T001000Z
 DTEND:20270926T015500Z
 SUMMARY:Colorado Rockies - San Francisco Giants
@@ -2839,7 +2839,7 @@ LOCATION:Coors Field\, Denver\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-colorado-rockies-san-francisco-giants-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
 SUMMARY:SAN FRANCISCO GIANTS | MLB | J157 | ✈️ | Colorado Rockies 🇺
@@ -2849,7 +2849,7 @@ DESCRIPTION:Inici: 21:10 (Europe/Madrid) · MLB\nEstadi: Coors Field\, Denv
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-20270926-colorado-rockies-san-francisco-giants@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270926T191000Z
 DTEND:20270926T205500Z
 SUMMARY:Colorado Rockies - San Francisco Giants

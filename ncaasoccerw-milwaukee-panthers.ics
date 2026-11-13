@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Milwaukee Panthers · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-milwaukee-panthers-iu-indianapolis-jaguars-dia@spo
+ rtcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:MILWAUKEE PANTHERS | NCAA WS | J1 | 🏟️ | IU Indianapolis Jagua
+ rs 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: Engelmann Stadium\, Milwaukee
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-milwaukee-panthers-iu-indianapolis-jaguars@sportca
+ l
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Milwaukee Panthers - IU Indianapolis Jaguars
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Engelmann Stadium\, Milwaukee
+END:VEVENT
+END:VCALENDAR

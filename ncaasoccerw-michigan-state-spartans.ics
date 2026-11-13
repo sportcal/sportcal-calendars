@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Michigan State Spartans · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-purdue-boilermakers-michigan-state-spartans-dia@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA WS | J1 | ✈️ | Purdue Boilermake
+ rs 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: Folk Field\, West Lafayette
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-purdue-boilermakers-michigan-state-spartans@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART:20261113T230000Z
+DTEND:20261114T004500Z
+SUMMARY:Purdue Boilermakers - Michigan State Spartans
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Folk Field\, West Lafayette
+END:VEVENT
+END:VCALENDAR

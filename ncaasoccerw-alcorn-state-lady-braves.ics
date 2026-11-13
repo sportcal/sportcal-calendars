@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alcorn State Lady Braves · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-alcorn-state-lady-braves-southern-lady-jaguars-dia
+ @sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:ALCORN STATE LADY BRAVES | NCAA WS | J1 | 🏟️ | Southern Lady J
+ aguars 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: PVAMU Soccer Complex\, Prairie View
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-alcorn-state-lady-braves-southern-lady-jaguars@spo
+ rtcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T000000Z
+DTEND:20261114T014500Z
+SUMMARY:Alcorn State Lady Braves - Southern Lady Jaguars
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:PVAMU Soccer Complex\, Prairie View
+END:VEVENT
+END:VCALENDAR

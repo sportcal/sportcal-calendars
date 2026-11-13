@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wyoming Cowgirls · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-wyoming-cowgirls-air-force-falcons-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:WYOMING COWGIRLS | NCAA WS | J1 | 🏟️ | Air Force Falcons 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: GCU Stadium\, Phoenix\, Arizona
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-wyoming-cowgirls-air-force-falcons@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T210000Z
+DTEND:20261114T224500Z
+SUMMARY:Wyoming Cowgirls - Air Force Falcons
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:GCU Stadium\, Phoenix\, Arizona
+END:VEVENT
+END:VCALENDAR

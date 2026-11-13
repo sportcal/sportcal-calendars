@@ -1,0 +1,493 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Michigan State Spartans · NCAA MH
+BEGIN:VEVENT
+UID:ncaaihm-20261114-notre-dame-fighting-irish-michigan-state-spartans-dia@
+ sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J1 | ✈️ | Notre Dame Fighti
+ ng Irish 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Compton Family Ice Arena\, South Bend\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261114-notre-dame-fighting-irish-michigan-state-spartans@spor
+ tcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T000000Z
+DTEND:20261114T014500Z
+SUMMARY:Notre Dame Fighting Irish - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Compton Family Ice Arena\, South Bend\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261121-michigan-wolverines-michigan-state-spartans-dia@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J3 | ✈️ | Michigan Wolverin
+ es 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Yost Ice Arena\, Ann Arbor\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261121-michigan-wolverines-michigan-state-spartans@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Michigan Wolverines - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Yost Ice Arena\, Ann Arbor\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261122-michigan-state-spartans-michigan-wolverines-dia@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J4 | 🏟️ | Michigan Wolveri
+ nes 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261122-michigan-state-spartans-michigan-wolverines@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261121T230000Z
+DTEND:20261122T004500Z
+SUMMARY:Michigan State Spartans - Michigan Wolverines
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261204-ohio-state-buckeyes-michigan-state-spartans-dia@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J7 | ✈️ | Ohio State Buckey
+ es 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schottenstein Center\, Columbus\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261204-ohio-state-buckeyes-michigan-state-spartans@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261204T010000Z
+DTEND:20261204T024500Z
+SUMMARY:Ohio State Buckeyes - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schottenstein Center\, Columbus\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261205-ohio-state-buckeyes-michigan-state-spartans-dia@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J5 | ✈️ | Ohio State Buckey
+ es 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schottenstein Center\, Columbus\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261205-ohio-state-buckeyes-michigan-state-spartans@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261204T230000Z
+DTEND:20261205T004500Z
+SUMMARY:Ohio State Buckeyes - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schottenstein Center\, Columbus\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261212-michigan-state-spartans-minnesota-golden-gophers-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J9 | 🏟️ | Minnesota Golden
+  Gophers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261212-michigan-state-spartans-minnesota-golden-gophers@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20261212T000000Z
+DTEND:20261212T014500Z
+SUMMARY:Michigan State Spartans - Minnesota Golden Gophers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261213-michigan-state-spartans-minnesota-golden-gophers-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J10 | 🏟️ | Minnesota Golde
+ n Gophers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261213-michigan-state-spartans-minnesota-golden-gophers@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20261213T000000Z
+DTEND:20261213T014500Z
+SUMMARY:Michigan State Spartans - Minnesota Golden Gophers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261230-michigan-state-spartans-lindenwood-lions-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J5 | 🏟️ | Lindenwood Lions
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Van Andel Arena\, Grand Rapids\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261230-michigan-state-spartans-lindenwood-lions@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261230T000000Z
+DTEND:20261230T014500Z
+SUMMARY:Michigan State Spartans - Lindenwood Lions
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Van Andel Arena\, Grand Rapids\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270109-wisconsin-badgers-michigan-state-spartans-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J10 | ✈️ | Wisconsin Badger
+ s 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Kohl Center\, Madison\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270109-wisconsin-badgers-michigan-state-spartans@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270109T010000Z
+DTEND:20270109T024500Z
+SUMMARY:Wisconsin Badgers - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Kohl Center\, Madison\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270110-wisconsin-badgers-michigan-state-spartans-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J11 | ✈️ | Wisconsin Badger
+ s 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Kohl Center\, Madison\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270110-wisconsin-badgers-michigan-state-spartans@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270110T013000Z
+DTEND:20270110T031500Z
+SUMMARY:Wisconsin Badgers - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Kohl Center\, Madison\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270116-michigan-state-spartans-penn-state-nittany-lions-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J15 | 🏟️ | Penn State Nitt
+ any Lions 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270116-michigan-state-spartans-penn-state-nittany-lions@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20270116T000000Z
+DTEND:20270116T014500Z
+SUMMARY:Michigan State Spartans - Penn State Nittany Lions
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270117-michigan-state-spartans-penn-state-nittany-lions-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J13 | 🏟️ | Penn State Nitt
+ any Lions 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270117-michigan-state-spartans-penn-state-nittany-lions@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20270117T010000Z
+DTEND:20270117T024500Z
+SUMMARY:Michigan State Spartans - Penn State Nittany Lions
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270130-minnesota-golden-gophers-michigan-state-spartans-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J13 | ✈️ | Minnesota Golden
+  Gophers 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: 3M Arena at Mariucci\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270130-minnesota-golden-gophers-michigan-state-spartans@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20270130T010000Z
+DTEND:20270130T024500Z
+SUMMARY:Minnesota Golden Gophers - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:3M Arena at Mariucci\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270131-minnesota-golden-gophers-michigan-state-spartans-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J15 | ✈️ | Minnesota Golden
+  Gophers 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: 3M Arena at Mariucci\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270131-minnesota-golden-gophers-michigan-state-spartans@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20270131T010000Z
+DTEND:20270131T024500Z
+SUMMARY:Minnesota Golden Gophers - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:3M Arena at Mariucci\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270206-michigan-state-spartans-michigan-wolverines-dia@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J17 | 🏟️ | Michigan Wolver
+ ines 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270206-michigan-state-spartans-michigan-wolverines@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270205T230000Z
+DTEND:20270206T004500Z
+SUMMARY:Michigan State Spartans - Michigan Wolverines
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270207-michigan-wolverines-michigan-state-spartans-dia@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J20 | ✈️ | Michigan Wolveri
+ nes 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Yost Ice Arena\, Ann Arbor\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270207-michigan-wolverines-michigan-state-spartans@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270206T230000Z
+DTEND:20270207T004500Z
+SUMMARY:Michigan Wolverines - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Yost Ice Arena\, Ann Arbor\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270213-michigan-state-spartans-wisconsin-badgers-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J19 | 🏟️ | Wisconsin Badge
+ rs 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270213-michigan-state-spartans-wisconsin-badgers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Michigan State Spartans - Wisconsin Badgers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270214-michigan-state-spartans-wisconsin-badgers-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J21 | 🏟️ | Wisconsin Badge
+ rs 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270214-michigan-state-spartans-wisconsin-badgers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270213T230000Z
+DTEND:20270214T004500Z
+SUMMARY:Michigan State Spartans - Wisconsin Badgers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270220-penn-state-nittany-lions-michigan-state-spartans-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J24 | ✈️ | Penn State Nitta
+ ny Lions 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Pegula Ice Arena\, University Park\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270220-penn-state-nittany-lions-michigan-state-spartans@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20270219T230000Z
+DTEND:20270220T004500Z
+SUMMARY:Penn State Nittany Lions - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Pegula Ice Arena\, University Park\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270220-penn-state-nittany-lions-michigan-state-spartans-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J24 | ✈️ | Penn State Nitta
+ ny Lions 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Pegula Ice Arena\, University Park\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270220-penn-state-nittany-lions-michigan-state-spartans@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20270220T220000Z
+DTEND:20270220T234500Z
+SUMMARY:Penn State Nittany Lions - Michigan State Spartans
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Pegula Ice Arena\, University Park\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270226-michigan-state-spartans-notre-dame-fighting-irish-dia@
+ sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J23 | 🏟️ | Notre Dame Figh
+ ting Irish 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270226-michigan-state-spartans-notre-dame-fighting-irish@spor
+ tcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270225T230000Z
+DTEND:20270226T004500Z
+SUMMARY:Michigan State Spartans - Notre Dame Fighting Irish
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270228-michigan-state-spartans-notre-dame-fighting-irish-dia@
+ sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J24 | 🏟️ | Notre Dame Figh
+ ting Irish 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270228-michigan-state-spartans-notre-dame-fighting-irish@spor
+ tcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270227T230000Z
+DTEND:20270228T004500Z
+SUMMARY:Michigan State Spartans - Notre Dame Fighting Irish
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270305-michigan-state-spartans-ohio-state-buckeyes-dia@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J25 | 🏟️ | Ohio State Buck
+ eyes 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270305-michigan-state-spartans-ohio-state-buckeyes@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270305T000000Z
+DTEND:20270305T014500Z
+SUMMARY:Michigan State Spartans - Ohio State Buckeyes
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270306-michigan-state-spartans-ohio-state-buckeyes-dia@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:MICHIGAN STATE SPARTANS | NCAA MH | J25 | 🏟️ | Ohio State Buck
+ eyes 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270306-michigan-state-spartans-ohio-state-buckeyes@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270306T000000Z
+DTEND:20270306T014500Z
+SUMMARY:Michigan State Spartans - Ohio State Buckeyes
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Munn Ice Arena\, East Lansing\, MI
+END:VEVENT
+END:VCALENDAR

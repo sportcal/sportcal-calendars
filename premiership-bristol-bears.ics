@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Bristol Bears · Premiership
 BEGIN:VEVENT
 UID:premiership-20261204-bath-bristol-bears-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:BRISTOL BEARS | Premiership | J6 | ✈️ | Bath 🇬🇧
@@ -15,7 +15,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Premiership Rugby\nEstadi: Recr
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261204-bath-bristol-bears@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20261204T194500Z
 DTEND:20261204T213000Z
 SUMMARY:Bath - Bristol Bears
@@ -24,7 +24,7 @@ LOCATION:Recreation Ground
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261220-bristol-bears-harlequins-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:BRISTOL BEARS | Premiership | J7 | 🏟️ | Harlequins 🇬🇧
@@ -33,7 +33,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Asht
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261220-bristol-bears-harlequins@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20261220T150000Z
 DTEND:20261220T164500Z
 SUMMARY:Bristol Bears - Harlequins
@@ -42,7 +42,7 @@ LOCATION:Ashton Gate
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261226-bristol-bears-newcastle-red-bulls-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:BRISTOL BEARS | Premiership | J8 | 🏟️ | Newcastle Red Bulls 
@@ -52,7 +52,7 @@ DESCRIPTION:Inici: 16:05 (Europe/Madrid) · Premiership Rugby\nEstadi: Asht
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20261226-bristol-bears-newcastle-red-bulls@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20261226T150500Z
 DTEND:20261226T165000Z
 SUMMARY:Bristol Bears - Newcastle Red Bulls
@@ -61,7 +61,7 @@ LOCATION:Ashton Gate
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270101-gloucester-bristol-bears-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:BRISTOL BEARS | Premiership | J9 | ✈️ | Gloucester 🇬🇧
@@ -70,7 +70,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Premiership Rugby\nEstadi: King
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270101-gloucester-bristol-bears@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270101T194500Z
 DTEND:20270101T213000Z
 SUMMARY:Gloucester - Bristol Bears
@@ -79,7 +79,7 @@ LOCATION:Kingsholm
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270123-exeter-chiefs-bristol-bears-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:BRISTOL BEARS | Premiership | J10 | ✈️ | Exeter Chiefs 🇬🇧
@@ -88,7 +88,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Premiership Rugby\nEstadi: Sand
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270123-exeter-chiefs-bristol-bears@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270123T150000Z
 DTEND:20270123T164500Z
 SUMMARY:Exeter Chiefs - Bristol Bears
@@ -97,7 +97,7 @@ LOCATION:Sandy Park
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270320-bristol-bears-sale-sharks-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:BRISTOL BEARS | Premiership | J11 | 🏟️ | Sale Sharks 🇬🇧
@@ -105,7 +105,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270320-bristol-bears-sale-sharks@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Bristol Bears - Sale Sharks · TBD
@@ -114,7 +114,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270327-newcastle-red-bulls-bristol-bears-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:BRISTOL BEARS | Premiership | J12 | ✈️ | Newcastle Red Bulls 
@@ -123,7 +123,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270327-newcastle-red-bulls-bristol-bears@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:Newcastle Red Bulls - Bristol Bears · TBD
@@ -132,7 +132,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270417-bristol-bears-gloucester-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:BRISTOL BEARS | Premiership | J13 | 🏟️ | Gloucester 🇬🇧
@@ -140,7 +140,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270417-bristol-bears-gloucester@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Bristol Bears - Gloucester · TBD
@@ -149,7 +149,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270424-harlequins-bristol-bears-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:BRISTOL BEARS | Premiership | J14 | ✈️ | Harlequins 🇬🇧
@@ -157,7 +157,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270424-harlequins-bristol-bears@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Harlequins - Bristol Bears · TBD
@@ -166,7 +166,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270508-bristol-bears-saracens-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:BRISTOL BEARS | Premiership | J15 | 🏟️ | Saracens 🇬🇧
@@ -174,7 +174,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270508-bristol-bears-saracens@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Bristol Bears - Saracens · TBD
@@ -183,7 +183,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270515-leicester-tigers-bristol-bears-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:BRISTOL BEARS | Premiership | J16 | ✈️ | Leicester Tigers 🇬
@@ -192,7 +192,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270515-leicester-tigers-bristol-bears@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Leicester Tigers - Bristol Bears · TBD
@@ -201,7 +201,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270529-bristol-bears-bath-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:BRISTOL BEARS | Premiership | J17 | 🏟️ | Bath 🇬🇧
@@ -209,7 +209,7 @@ DESCRIPTION:Hora pendent de confirmació · Premiership Rugby
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270529-bristol-bears-bath@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:Bristol Bears - Bath · TBD
@@ -218,7 +218,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270605-northampton-saints-bristol-bears-dia@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:BRISTOL BEARS | Premiership | J18 | ✈️ | Northampton Saints 
@@ -228,7 +228,7 @@ DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Premiership Rugby\nEstadi: cinc
 END:VEVENT
 BEGIN:VEVENT
 UID:premiership-20270605-northampton-saints-bristol-bears@sportcal
-DTSTAMP:20261113T105856Z
+DTSTAMP:20261113T115131Z
 DTSTART:20270605T130000Z
 DTEND:20270605T144500Z
 SUMMARY:Northampton Saints - Bristol Bears

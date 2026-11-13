@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Tennessee State Buccaneers · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-east-tennessee-state-buccaneers-mercer-bears-dia@s
+ portcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:EAST TENNESSEE STATE BUCCANEERS | NCAA WS | J1 | 🏟️ | Mercer B
+ ears 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: Samford Track/Soccer Complex\, Birmingham\, Alabama
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-east-tennessee-state-buccaneers-mercer-bears@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T010000Z
+DTEND:20261114T024500Z
+SUMMARY:East Tennessee State Buccaneers - Mercer Bears
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Samford Track/Soccer Complex\, Birmingham\, Alabama
+END:VEVENT
+END:VCALENDAR

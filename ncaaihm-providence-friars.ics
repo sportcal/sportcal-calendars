@@ -1,0 +1,485 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Providence Friars · NCAA MH
+BEGIN:VEVENT
+UID:ncaaihm-20261114-providence-friars-merrimack-warriors-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J1 | 🏟️ | Merrimack Warriors 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261114-providence-friars-merrimack-warriors@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T000000Z
+DTEND:20261114T014500Z
+SUMMARY:Providence Friars - Merrimack Warriors
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261115-merrimack-warriors-providence-friars-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J2 | ✈️ | Merrimack Warriors 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Lawler Arena\, North Andover\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261115-merrimack-warriors-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261115T000000Z
+DTEND:20261115T014500Z
+SUMMARY:Merrimack Warriors - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Lawler Arena\, North Andover\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261120-massachusetts-minutemen-providence-friars-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J3 | ✈️ | Massachusetts Minutemen
+  🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261120-massachusetts-minutemen-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261119T230000Z
+DTEND:20261120T004500Z
+SUMMARY:Massachusetts Minutemen - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261121-providence-friars-massachusetts-minutemen-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J4 | 🏟️ | Massachusetts Minuteme
+ n 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261121-providence-friars-massachusetts-minutemen@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261121T220000Z
+DTEND:20261121T234500Z
+SUMMARY:Providence Friars - Massachusetts Minutemen
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261127-providence-friars-minnesota-duluth-bulldogs-dia@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J5 | 🏟️ | Minnesota Duluth Bulld
+ ogs 🇺🇸
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: SSE Arena (NIR)\, Belfast
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261127-providence-friars-minnesota-duluth-bulldogs@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261127T140000Z
+DTEND:20261127T154500Z
+SUMMARY:Providence Friars - Minnesota Duluth Bulldogs
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:SSE Arena (NIR)\, Belfast
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261205-vermont-catamounts-providence-friars-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J5 | ✈️ | Vermont Catamounts 🇺
+ 🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Gutterson Fieldhouse\, Burlington\, VT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261205-vermont-catamounts-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261205T220000Z
+DTEND:20261205T234500Z
+SUMMARY:Vermont Catamounts - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Gutterson Fieldhouse\, Burlington\, VT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261212-providence-friars-new-hampshire-wildcats-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J9 | 🏟️ | New Hampshire Wildcats
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261212-providence-friars-new-hampshire-wildcats@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261212T000000Z
+DTEND:20261212T014500Z
+SUMMARY:Providence Friars - New Hampshire Wildcats
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270101-providence-friars-st-thomas-tommies-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J11 | 🏟️ | St. Thomas Tommies 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270101-providence-friars-st-thomas-tommies@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270101T220000Z
+DTEND:20270101T234500Z
+SUMMARY:Providence Friars - St. Thomas Tommies
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270102-providence-friars-st-thomas-tommies-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J12 | 🏟️ | St. Thomas Tommies 
+ 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270102-providence-friars-st-thomas-tommies@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270102T220000Z
+DTEND:20270102T234500Z
+SUMMARY:Providence Friars - St. Thomas Tommies
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270109-maine-black-bears-providence-friars-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J10 | ✈️ | Maine Black Bears 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Harold Alfond Sports Arena\, Orono\, ME
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270109-maine-black-bears-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270109T000000Z
+DTEND:20270109T014500Z
+SUMMARY:Maine Black Bears - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Harold Alfond Sports Arena\, Orono\, ME
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270110-maine-black-bears-providence-friars-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J11 | ✈️ | Maine Black Bears 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Harold Alfond Sports Arena\, Orono\, ME
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270110-maine-black-bears-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270110T000000Z
+DTEND:20270110T014500Z
+SUMMARY:Maine Black Bears - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Harold Alfond Sports Arena\, Orono\, ME
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270116-providence-friars-boston-college-eagles-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J15 | 🏟️ | Boston College Eagles
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270116-providence-friars-boston-college-eagles@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270116T000000Z
+DTEND:20270116T014500Z
+SUMMARY:Providence Friars - Boston College Eagles
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270117-boston-college-eagles-providence-friars-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J13 | ✈️ | Boston College Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270117-boston-college-eagles-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270116T230000Z
+DTEND:20270117T004500Z
+SUMMARY:Boston College Eagles - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Conte Forum\, Chestnut Hill\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270123-boston-university-terriers-providence-friars-dia@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J14 | ✈️ | Boston University Terr
+ iers 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270123-boston-university-terriers-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270123T000000Z
+DTEND:20270123T014500Z
+SUMMARY:Boston University Terriers - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Agganis Arena\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270124-providence-friars-boston-university-terriers-dia@sport
+ cal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J15 | 🏟️ | Boston University Ter
+ riers 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270124-providence-friars-boston-university-terriers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270123T230000Z
+DTEND:20270124T004500Z
+SUMMARY:Providence Friars - Boston University Terriers
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270131-providence-friars-maine-black-bears-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J15 | 🏟️ | Maine Black Bears 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270131-providence-friars-maine-black-bears@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270130T230000Z
+DTEND:20270131T004500Z
+SUMMARY:Providence Friars - Maine Black Bears
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270203-providence-friars-brown-bears-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J17 | 🏟️ | Brown Bears 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Amica Mutual Pavilion\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270203-providence-friars-brown-bears@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270203T000000Z
+DTEND:20270203T014500Z
+SUMMARY:Providence Friars - Brown Bears
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Amica Mutual Pavilion\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270206-providence-friars-long-island-university-sharks-dia@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J17 | 🏟️ | Long Island Universit
+ y Sharks 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270206-providence-friars-long-island-university-sharks@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART:20270206T210000Z
+DTEND:20270206T224500Z
+SUMMARY:Providence Friars - Long Island University Sharks
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270213-providence-friars-vermont-catamounts-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J19 | 🏟️ | Vermont Catamounts 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270213-providence-friars-vermont-catamounts@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Providence Friars - Vermont Catamounts
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270214-providence-friars-vermont-catamounts-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J21 | 🏟️ | Vermont Catamounts 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270214-providence-friars-vermont-catamounts@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270213T230000Z
+DTEND:20270214T004500Z
+SUMMARY:Providence Friars - Vermont Catamounts
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270220-providence-friars-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J24 | 🏟️ | Northeastern Huskies 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270220-providence-friars-northeastern-huskies@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:Providence Friars - Northeastern Huskies
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270221-providence-friars-northeastern-huskies-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J22 | 🏟️ | Northeastern Huskies 
+ 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270221-providence-friars-northeastern-huskies@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270220T230000Z
+DTEND:20270221T004500Z
+SUMMARY:Providence Friars - Northeastern Huskies
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270227-new-hampshire-wildcats-providence-friars-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J21 | ✈️ | New Hampshire Wildcats
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Whittemore Center\, Durham\, NH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270227-new-hampshire-wildcats-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270227T000000Z
+DTEND:20270227T014500Z
+SUMMARY:New Hampshire Wildcats - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Whittemore Center\, Durham\, NH
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270228-providence-friars-new-hampshire-wildcats-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J24 | 🏟️ | New Hampshire Wildcat
+ s 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270228-providence-friars-new-hampshire-wildcats@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270228T000000Z
+DTEND:20270228T014500Z
+SUMMARY:Providence Friars - New Hampshire Wildcats
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Schneider Arena\, Providence\, RI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270306-uconn-huskies-providence-friars-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:PROVIDENCE FRIARS | NCAA MH | J25 | ✈️ | UConn Huskies 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Toscano Family Ice Forum\, Storrs\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20270306-uconn-huskies-providence-friars@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:UConn Huskies - Providence Friars
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Toscano Family Ice Forum\, Storrs\, CT
+END:VEVENT
+END:VCALENDAR

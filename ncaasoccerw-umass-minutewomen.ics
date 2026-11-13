@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UMass Minutewomen · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-western-michigan-broncos-umass-minutewomen-dia@spo
+ rtcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:UMASS MINUTEWOMEN | NCAA WS | J1 | ✈️ | Western Michigan Bronco
+ s 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: ScottsMiracle-Gro Field\, Columbus\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261114-western-michigan-broncos-umass-minutewomen@sportca
+ l
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T003000Z
+DTEND:20261114T021500Z
+SUMMARY:Western Michigan Broncos - UMass Minutewomen
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:ScottsMiracle-Gro Field\, Columbus\, Ohio
+END:VEVENT
+END:VCALENDAR

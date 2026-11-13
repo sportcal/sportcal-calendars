@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Notre Dame Fighting Irish · NCAA FBS
+BEGIN:VEVENT
+UID:ncaafbs-20261114-notre-dame-fighting-irish-boston-college-eagles-dia@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:NOTRE DAME FIGHTING IRISH | NCAA FBS | J1 | 🏟️ | Boston Colleg
+ e Eagles 🇺🇸
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · NCAA Division I FBS\nEstadi: No
+ tre Dame Stadium\, Notre Dame\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261114-notre-dame-fighting-irish-boston-college-eagles@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T203000Z
+DTEND:20261114T221500Z
+SUMMARY:Notre Dame Fighting Irish - Boston College Eagles
+DESCRIPTION:NCAA Division I FBS
+LOCATION:Notre Dame Stadium\, Notre Dame\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261122-notre-dame-fighting-irish-smu-mustangs-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:NOTRE DAME FIGHTING IRISH | NCAA FBS | J2 | 🏟️ | SMU Mustangs 
+ 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I FBS\nEstadi: No
+ tre Dame Stadium\, Notre Dame\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261122-notre-dame-fighting-irish-smu-mustangs@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261122T003000Z
+DTEND:20261122T021500Z
+SUMMARY:Notre Dame Fighting Irish - SMU Mustangs
+DESCRIPTION:NCAA Division I FBS
+LOCATION:Notre Dame Stadium\, Notre Dame\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261128-syracuse-orange-notre-dame-fighting-irish-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:NOTRE DAME FIGHTING IRISH | NCAA FBS | J3 | ✈️ | Syracuse Orang
+ e 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I FBS
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261128-syracuse-orange-notre-dame-fighting-irish@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Syracuse Orange - Notre Dame Fighting Irish · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I FBS
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Virginia Cavaliers · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261115-north-carolina-tar-heels-virginia-cavaliers-dia@sp
+ ortcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:VIRGINIA CAVALIERS | NCAA WS | J1 | ✈️ | North Carolina Tar Hee
+ ls 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: Dorrance Field\, Chapel Hill\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261115-north-carolina-tar-heels-virginia-cavaliers@sportc
+ al
+DTSTAMP:20261113T115131Z
+DTSTART:20261115T170000Z
+DTEND:20261115T184500Z
+SUMMARY:North Carolina Tar Heels - Virginia Cavaliers
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Dorrance Field\, Chapel Hill\, North Carolina
+END:VEVENT
+END:VCALENDAR

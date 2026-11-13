@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vanderbilt Commodores · NCAA FBS
+BEGIN:VEVENT
+UID:ncaafbs-20261114-vanderbilt-commodores-alabama-crimson-tide-dia@sportca
+ l
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:VANDERBILT COMMODORES | NCAA FBS | J1 | 🏟️ | Alabama Crimson T
+ ide 🇺🇸
+DESCRIPTION:Inici: 18:45 (Europe/Madrid) · NCAA Division I FBS\nEstadi: Fi
+ rstBank Stadium\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261114-vanderbilt-commodores-alabama-crimson-tide@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261114T174500Z
+DTEND:20261114T193000Z
+SUMMARY:Vanderbilt Commodores - Alabama Crimson Tide
+DESCRIPTION:NCAA Division I FBS
+LOCATION:FirstBank Stadium\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261121-florida-gators-vanderbilt-commodores-dia@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:VANDERBILT COMMODORES | NCAA FBS | J2 | ✈️ | Florida Gators 
+ 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I FBS\nEstadi: Be
+ n Hill Griffin Stadium\, Gainesville\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261121-florida-gators-vanderbilt-commodores@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Florida Gators - Vanderbilt Commodores
+DESCRIPTION:NCAA Division I FBS
+LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261128-vanderbilt-commodores-tennessee-volunteers-dia@sportca
+ l
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:VANDERBILT COMMODORES | NCAA FBS | J3 | 🏟️ | Tennessee Volunte
+ ers 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I FBS
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-20261128-vanderbilt-commodores-tennessee-volunteers@sportcal
+DTSTAMP:20261113T115131Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Vanderbilt Commodores - Tennessee Volunteers · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I FBS
+END:VEVENT
+END:VCALENDAR
