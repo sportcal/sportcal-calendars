@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:France · Six Nations
+BEGIN:VEVENT
+UID:wsixnations-20270410-italy-france-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:FRANCE | Six Nations | J1 | ✈️ | Italy
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Women's Six Nations
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270410-italy-france@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270410T113000Z
+DTEND:20270410T131500Z
+SUMMARY:Italy - France
+DESCRIPTION:Women's Six Nations
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270417-ireland-france-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:FRANCE | Six Nations | J2 | ✈️ | Ireland
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Women's Six Nations\nEstadi: De
+ xcom Stadium\, Galway
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270417-ireland-france@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270417T133000Z
+DTEND:20270417T151500Z
+SUMMARY:Ireland - France
+DESCRIPTION:Women's Six Nations
+LOCATION:Dexcom Stadium\, Galway
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270424-france-scotland-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:FRANCE | Six Nations | J3 | 🏟️ | Scotland
+DESCRIPTION:Inici: 15:45 (Europe/Madrid) · Women's Six Nations\nEstadi: St
+ ade de l'Abbé-Deschamps\, Auxerre
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270424-france-scotland@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270424T134500Z
+DTEND:20270424T153000Z
+SUMMARY:France - Scotland
+DESCRIPTION:Women's Six Nations
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270508-france-wales-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:FRANCE | Six Nations | J4 | 🏟️ | Wales
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Women's Six Nations\nEstadi: St
+ ade Saint-Symphorien\, Metz
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270508-france-wales@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270508T113000Z
+DTEND:20270508T131500Z
+SUMMARY:France - Wales
+DESCRIPTION:Women's Six Nations
+LOCATION:Stade Saint-Symphorien\, Metz
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270515-england-france-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:FRANCE | Six Nations | J5 | ✈️ | England
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Women's Six Nations\nEstadi: Tw
+ ickenham Stadium\, London
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270515-england-france@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270515T154500Z
+DTEND:20270515T173000Z
+SUMMARY:England - France
+DESCRIPTION:Women's Six Nations
+LOCATION:Twickenham Stadium\, London
+END:VEVENT
+END:VCALENDAR

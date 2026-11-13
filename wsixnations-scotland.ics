@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Scotland · Six Nations
+BEGIN:VEVENT
+UID:wsixnations-20270410-scotland-ireland-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:SCOTLAND | Six Nations | J1 | 🏟️ | Ireland
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Women's Six Nations\nEstadi: Mu
+ rrayfield Stadium\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270410-scotland-ireland@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:Scotland - Ireland
+DESCRIPTION:Women's Six Nations
+LOCATION:Murrayfield Stadium\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270417-england-scotland-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:SCOTLAND | Six Nations | J2 | ✈️ | England
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Women's Six Nations\nEstadi: St
+ adium of Light\, Sunderland
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270417-england-scotland@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270417T154500Z
+DTEND:20270417T173000Z
+SUMMARY:England - Scotland
+DESCRIPTION:Women's Six Nations
+LOCATION:Stadium of Light\, Sunderland
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270424-france-scotland-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:SCOTLAND | Six Nations | J3 | ✈️ | France
+DESCRIPTION:Inici: 15:45 (Europe/Madrid) · Women's Six Nations\nEstadi: St
+ ade de l'Abbé-Deschamps\, Auxerre
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270424-france-scotland@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270424T134500Z
+DTEND:20270424T153000Z
+SUMMARY:France - Scotland
+DESCRIPTION:Women's Six Nations
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270508-scotland-italy-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:SCOTLAND | Six Nations | J4 | 🏟️ | Italy
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Women's Six Nations\nEstadi: Ed
+ inburgh Rugby Stadium\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270508-scotland-italy@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270508T160000Z
+DTEND:20270508T174500Z
+SUMMARY:Scotland - Italy
+DESCRIPTION:Women's Six Nations
+LOCATION:Edinburgh Rugby Stadium\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270515-scotland-wales-dia@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:SCOTLAND | Six Nations | J5 | 🏟️ | Wales
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Women's Six Nations\nEstadi: Ed
+ inburgh Rugby Stadium\, Edinburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:wsixnations-20270515-scotland-wales@sportcal
+DTSTAMP:20261113T133901Z
+DTSTART:20270515T133000Z
+DTEND:20270515T151500Z
+SUMMARY:Scotland - Wales
+DESCRIPTION:Women's Six Nations
+LOCATION:Edinburgh Rugby Stadium\, Edinburgh
+END:VEVENT
+END:VCALENDAR
