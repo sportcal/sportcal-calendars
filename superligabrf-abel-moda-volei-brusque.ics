@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ABEL Moda Vôlei Brusque · Superliga Feminina
+BEGIN:VEVENT
+UID:superligabrf-20261115-abel-moda-volei-brusque-brasilia-volei-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ABEL MODA VÔLEI BRUSQUE | Superliga Feminina | J5 | 🏟️ | Bras
+ ília Vôlei 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261115-abel-moda-volei-brusque-brasilia-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T000000Z
+DTEND:20261115T014500Z
+SUMMARY:ABEL Moda Vôlei Brusque - Brasília Vôlei
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261119-batavo-mackenzie-abel-moda-volei-brusque-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:ABEL MODA VÔLEI BRUSQUE | Superliga Feminina | J6 | ✈️ | Batav
+ o Mackenzie 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261119-batavo-mackenzie-abel-moda-volei-brusque@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261119T213000Z
+DTEND:20261119T231500Z
+SUMMARY:Batavo Mackenzie - ABEL Moda Vôlei Brusque
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261201-abel-moda-volei-brusque-sancor-seguros-volei-lond
+ rina-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:ABEL MODA VÔLEI BRUSQUE | Superliga Feminina | J7 | 🏟️ | Sanc
+ or Seguros Vôlei Londrina 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261201-abel-moda-volei-brusque-sancor-seguros-volei-lond
+ rina@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261201T213000Z
+DTEND:20261201T231500Z
+SUMMARY:ABEL Moda Vôlei Brusque - Sancor Seguros Vôlei Londrina
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261205-fluminense-abel-moda-volei-brusque-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:ABEL MODA VÔLEI BRUSQUE | Superliga Feminina | J8 | ✈️ | Flumi
+ nense 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261205-fluminense-abel-moda-volei-brusque@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261205T213000Z
+DTEND:20261205T231500Z
+SUMMARY:Fluminense - ABEL Moda Vôlei Brusque
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261217-osasco-sao-cristovao-saude-abel-moda-volei-brusqu
+ e-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:ABEL MODA VÔLEI BRUSQUE | Superliga Feminina | J11 | ✈️ | Osas
+ co São Cristóvão Saúde 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261217-osasco-sao-cristovao-saude-abel-moda-volei-brusqu
+ e@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261217T000000Z
+DTEND:20261217T014500Z
+SUMMARY:Osasco São Cristóvão Saúde - ABEL Moda Vôlei Brusque
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261219-abel-moda-volei-brusque-sesc-rj-flamengo-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:ABEL MODA VÔLEI BRUSQUE | Superliga Feminina | J11 | 🏟️ | Ses
+ c RJ Flamengo 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261219-abel-moda-volei-brusque-sesc-rj-flamengo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261219T213000Z
+DTEND:20261219T231500Z
+SUMMARY:ABEL Moda Vôlei Brusque - Sesc RJ Flamengo
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261222-abel-moda-volei-brusque-sesi-volei-bauru-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:ABEL MODA VÔLEI BRUSQUE | Superliga Feminina | J11 | 🏟️ | Ses
+ i Vôlei Bauru 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261222-abel-moda-volei-brusque-sesi-volei-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261222T213000Z
+DTEND:20261222T231500Z
+SUMMARY:ABEL Moda Vôlei Brusque - Sesi Vôlei Bauru
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+END:VCALENDAR

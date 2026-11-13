@@ -1,0 +1,514 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Leigh Leopards · Super League
+BEGIN:VEVENT
+UID:superleague-20260213-leigh-leopards-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:LEIGH LEOPARDS | Super League | J1 | 🏟️ | Leeds Rhinos 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260213-leigh-leopards-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260213T200000Z
+DTEND:20260213T214500Z
+SUMMARY:Leigh Leopards - Leeds Rhinos
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260220-st-helens-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:LEIGH LEOPARDS | Super League | J2 | ✈️ | St Helens 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260220-st-helens-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260220T200000Z
+DTEND:20260220T214500Z
+SUMMARY:St Helens - Leigh Leopards
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260226-wigan-warriors-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:LEIGH LEOPARDS | Super League | J3 | ✈️ | Wigan Warriors 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Brick Com
+ munity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260226-wigan-warriors-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260226T200000Z
+DTEND:20260226T214500Z
+SUMMARY:Wigan Warriors - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Brick Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260306-leigh-leopards-catalans-dragons-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:LEIGH LEOPARDS | Super League | J4 | 🏟️ | Catalans Dragons 
+ 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260306-leigh-leopards-catalans-dragons@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260306T200000Z
+DTEND:20260306T214500Z
+SUMMARY:Leigh Leopards - Catalans Dragons
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260320-wakefield-trinity-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:LEIGH LEOPARDS | Super League | J5 | ✈️ | Wakefield Trinity 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: DIY Kitch
+ ens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260320-wakefield-trinity-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260320T200000Z
+DTEND:20260320T214500Z
+SUMMARY:Wakefield Trinity - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:DIY Kitchens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260328-leigh-leopards-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:LEIGH LEOPARDS | Super League | J6 | 🏟️ | Toulouse Olympique 
+ 🇫🇷
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260328-leigh-leopards-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260328T173000Z
+DTEND:20260328T191500Z
+SUMMARY:Leigh Leopards - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260404-warrington-wolves-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:LEIGH LEOPARDS | Super League | J7 | ✈️ | Warrington Wolves 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260404-warrington-wolves-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260404T140000Z
+DTEND:20260404T154500Z
+SUMMARY:Warrington Wolves - Leigh Leopards
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260417-york-knights-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:LEIGH LEOPARDS | Super League | J8 | ✈️ | York Knights 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Tara Jone
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260417-york-knights-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260417T190000Z
+DTEND:20260417T204500Z
+SUMMARY:York Knights - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Tara Jones
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260423-leigh-leopards-huddersfield-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:LEIGH LEOPARDS | Super League | J9 | 🏟️ | Huddersfield Giants 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260423-leigh-leopards-huddersfield-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260423T190000Z
+DTEND:20260423T204500Z
+SUMMARY:Leigh Leopards - Huddersfield Giants
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260502-catalans-dragons-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:LEIGH LEOPARDS | Super League | J10 | ✈️ | Catalans Dragons 
+ 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Gil
+ bert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260502-catalans-dragons-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260502T170000Z
+DTEND:20260502T184500Z
+SUMMARY:Catalans Dragons - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260516-leigh-leopards-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:LEIGH LEOPARDS | Super League | J11 | 🏟️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260516-leigh-leopards-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260516T163000Z
+DTEND:20260516T181500Z
+SUMMARY:Leigh Leopards - Hull KR
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260522-leigh-leopards-hull-f-c-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:LEIGH LEOPARDS | Super League | J12 | 🏟️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260522-leigh-leopards-hull-f-c@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260522T190000Z
+DTEND:20260522T204500Z
+SUMMARY:Leigh Leopards - Hull F.C.
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260605-castleford-tigers-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:LEIGH LEOPARDS | Super League | J13 | ✈️ | Castleford Tigers 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260605-castleford-tigers-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260605T190000Z
+DTEND:20260605T204500Z
+SUMMARY:Castleford Tigers - Leigh Leopards
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260614-bradford-bulls-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:LEIGH LEOPARDS | Super League | J14 | ✈️ | Bradford Bulls 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260614-bradford-bulls-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260614T140000Z
+DTEND:20260614T154500Z
+SUMMARY:Bradford Bulls - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260619-hull-kr-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:LEIGH LEOPARDS | Super League | J15 | ✈️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Chris Ken
+ dall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260619-hull-kr-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260619T190000Z
+DTEND:20260619T204500Z
+SUMMARY:Hull KR - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Chris Kendall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260627-toulouse-olympique-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:LEIGH LEOPARDS | Super League | J16 | ✈️ | Toulouse Olympique 
+ 🇫🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260627-toulouse-olympique-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260627T160000Z
+DTEND:20260627T174500Z
+SUMMARY:Toulouse Olympique - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260704-leigh-leopards-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:LEIGH LEOPARDS | Super League | J17 | 🏟️ | Warrington Wolves 
+ 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260704-leigh-leopards-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260704T163000Z
+DTEND:20260704T181500Z
+SUMMARY:Leigh Leopards - Warrington Wolves
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260711-leigh-leopards-castleford-tigers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:LEIGH LEOPARDS | Super League | J18 | 🏟️ | Castleford Tigers 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260711-leigh-leopards-castleford-tigers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260711T140000Z
+DTEND:20260711T154500Z
+SUMMARY:Leigh Leopards - Castleford Tigers
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260718-hull-f-c-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:LEIGH LEOPARDS | Super League | J19 | ✈️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: MKM Stadi
+ um
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260718-hull-f-c-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260718T163000Z
+DTEND:20260718T181500Z
+SUMMARY:Hull F.C. - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:MKM Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260725-leigh-leopards-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:LEIGH LEOPARDS | Super League | J20 | 🏟️ | Warrington Wolves 
+ 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260725-leigh-leopards-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260725T163000Z
+DTEND:20260725T181500Z
+SUMMARY:Leigh Leopards - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-leigh-leopards-wigan-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:LEIGH LEOPARDS | Super League | J21 | 🏟️ | Wigan Warriors 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Chris Ken
+ dall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-leigh-leopards-wigan-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260731T190000Z
+DTEND:20260731T204500Z
+SUMMARY:Leigh Leopards - Wigan Warriors
+DESCRIPTION:Super League
+LOCATION:Chris Kendall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260807-leigh-leopards-york-knights-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:LEIGH LEOPARDS | Super League | J22 | 🏟️ | York Knights 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260807-leigh-leopards-york-knights@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260807T190000Z
+DTEND:20260807T204500Z
+SUMMARY:Leigh Leopards - York Knights
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260813-leeds-rhinos-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:LEIGH LEOPARDS | Super League | J23 | ✈️ | Leeds Rhinos 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Chris Ken
+ dall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260813-leeds-rhinos-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260813T190000Z
+DTEND:20260813T204500Z
+SUMMARY:Leeds Rhinos - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Chris Kendall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260821-leigh-leopards-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:LEIGH LEOPARDS | Super League | J24 | 🏟️ | Bradford Bulls 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260821-leigh-leopards-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260821T190000Z
+DTEND:20260821T204500Z
+SUMMARY:Leigh Leopards - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260828-huddersfield-giants-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:LEIGH LEOPARDS | Super League | J25 | ✈️ | Huddersfield Giants 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Tara Jone
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260828-huddersfield-giants-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260828T190000Z
+DTEND:20260828T204500Z
+SUMMARY:Huddersfield Giants - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Tara Jones
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260904-leigh-leopards-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:LEIGH LEOPARDS | Super League | J26 | 🏟️ | St Helens 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Chris Ken
+ dall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260904-leigh-leopards-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260904T190000Z
+DTEND:20260904T204500Z
+SUMMARY:Leigh Leopards - St Helens
+DESCRIPTION:Super League
+LOCATION:Chris Kendall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-leigh-leopards-wakefield-trinity-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:LEIGH LEOPARDS | Super League | J27 | 🏟️ | Wakefield Trinity 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-leigh-leopards-wakefield-trinity@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260911T190000Z
+DTEND:20260911T204500Z
+SUMMARY:Leigh Leopards - Wakefield Trinity
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260918-wakefield-trinity-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:LEIGH LEOPARDS | Super League | J28 | ✈️ | Wakefield Trinity 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: DIY Kitch
+ ens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260918-wakefield-trinity-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260918T190000Z
+DTEND:20260918T204500Z
+SUMMARY:Wakefield Trinity - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:DIY Kitchens Stadium
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,454 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sil Vôlei Guarulhos · Superliga
+BEGIN:VEVENT
+UID:superligabr-20251023-sil-volei-guarulhos-itambe-minas-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J1 | 🏟️ | Itambé Minas 
+ 🇧🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251023-sil-volei-guarulhos-itambe-minas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251023T213000Z
+DTEND:20251023T231500Z
+SUMMARY:Sil Vôlei Guarulhos - Itambé Minas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251026-suzano-volei-sil-volei-guarulhos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251026
+DTEND;VALUE=DATE:20251027
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J2 | ✈️ | Suzano Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251026-suzano-volei-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251026T170000Z
+DTEND:20251026T184500Z
+SUMMARY:Suzano Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251103-sil-volei-guarulhos-praia-clube-uberlandia-volei-d
+ ia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251104
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J3 | 🏟️ | Praia Clube Uberl
+ ândia Vôlei 🇧🇷
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251103-sil-volei-guarulhos-praia-clube-uberlandia-volei@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251102T230000Z
+DTEND:20251103T004500Z
+SUMMARY:Sil Vôlei Guarulhos - Praia Clube Uberlândia Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251108-volei-renata-campinas-sil-volei-guarulhos-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J4 | ✈️ | Vôlei Renata Camp
+ inas 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251108-volei-renata-campinas-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251108T213000Z
+DTEND:20251108T231500Z
+SUMMARY:Vôlei Renata Campinas - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251116-sil-volei-guarulhos-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251117
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J6 | 🏟️ | JF Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251116-sil-volei-guarulhos-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251116T213000Z
+DTEND:20251116T231500Z
+SUMMARY:Sil Vôlei Guarulhos - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251120-azulim-sicoob-aracoop-monte-carmelo-sil-volei-guar
+ ulhos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J6 | ✈️ | Azulim Sicoob Arac
+ oop Monte Carmelo 🇧🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251120-azulim-sicoob-aracoop-monte-carmelo-sil-volei-guar
+ ulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251120T223000Z
+DTEND:20251121T001500Z
+SUMMARY:Azulim Sicoob Aracoop Monte Carmelo - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251125-sil-volei-guarulhos-saneago-goias-volei-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251126
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J7 | 🏟️ | Saneago Goiás V
+ ôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251125-sil-volei-guarulhos-saneago-goias-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251125T213000Z
+DTEND:20251125T231500Z
+SUMMARY:Sil Vôlei Guarulhos - Saneago Goiás Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251130-sil-volei-guarulhos-viapol-volei-sao-jose-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J8 | 🏟️ | Viapol Vôlei Sã
+ o José 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251130-sil-volei-guarulhos-viapol-volei-sao-jose@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251130T213000Z
+DTEND:20251130T231500Z
+SUMMARY:Sil Vôlei Guarulhos - Viapol Vôlei São José
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251208-sil-volei-guarulhos-sada-cruzeiro-volei-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J9 | 🏟️ | Sada Cruzeiro Vô
+ lei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251208-sil-volei-guarulhos-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251208T213000Z
+DTEND:20251208T231500Z
+SUMMARY:Sil Vôlei Guarulhos - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251213-sesi-bauru-sil-volei-guarulhos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J10 | ✈️ | SESI Bauru 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251213-sesi-bauru-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251213T213000Z
+DTEND:20251213T231500Z
+SUMMARY:SESI Bauru - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251220-sil-volei-guarulhos-joinville-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J11 | 🏟️ | Joinville Vôlei
+  🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251220-sil-volei-guarulhos-joinville-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251220T213000Z
+DTEND:20251220T231500Z
+SUMMARY:Sil Vôlei Guarulhos - Joinville Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260110-itambe-minas-sil-volei-guarulhos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J12 | ✈️ | Itambé Minas 
+ 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260110-itambe-minas-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260110T000000Z
+DTEND:20260110T014500Z
+SUMMARY:Itambé Minas - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260118-sil-volei-guarulhos-suzano-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J13 | 🏟️ | Suzano Vôlei 
+ 🇧🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260118-sil-volei-guarulhos-suzano-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260118T200000Z
+DTEND:20260118T214500Z
+SUMMARY:Sil Vôlei Guarulhos - Suzano Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260121-praia-clube-uberlandia-volei-sil-volei-guarulhos-d
+ ia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J14 | ✈️ | Praia Clube Uberl
+ ândia Vôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260121-praia-clube-uberlandia-volei-sil-volei-guarulhos@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260121T213000Z
+DTEND:20260121T231500Z
+SUMMARY:Praia Clube Uberlândia Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260131-sil-volei-guarulhos-volei-renata-campinas-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J15 | 🏟️ | Vôlei Renata Ca
+ mpinas 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260131-sil-volei-guarulhos-volei-renata-campinas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260131T213000Z
+DTEND:20260131T231500Z
+SUMMARY:Sil Vôlei Guarulhos - Vôlei Renata Campinas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260208-jf-volei-sil-volei-guarulhos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J16 | ✈️ | JF Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260208-jf-volei-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260208T210000Z
+DTEND:20260208T224500Z
+SUMMARY:JF Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260213-sil-volei-guarulhos-azulim-sicoob-aracoop-monte-ca
+ rmelo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J17 | 🏟️ | Azulim Sicoob Ar
+ acoop Monte Carmelo 🇧🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260213-sil-volei-guarulhos-azulim-sicoob-aracoop-monte-ca
+ rmelo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260213T223000Z
+DTEND:20260214T001500Z
+SUMMARY:Sil Vôlei Guarulhos - Azulim Sicoob Aracoop Monte Carmelo
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260223-saneago-goias-volei-sil-volei-guarulhos-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J18 | ✈️ | Saneago Goiás V
+ ôlei 🇧🇷
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260223-saneago-goias-volei-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260222T230000Z
+DTEND:20260223T004500Z
+SUMMARY:Saneago Goiás Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260302-viapol-volei-sao-jose-sil-volei-guarulhos-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J19 | ✈️ | Viapol Vôlei Sã
+ o José 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260302-viapol-volei-sao-jose-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260302T213000Z
+DTEND:20260302T231500Z
+SUMMARY:Viapol Vôlei São José - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260315-sada-cruzeiro-volei-sil-volei-guarulhos-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J20 | ✈️ | Sada Cruzeiro Vô
+ lei 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260315-sada-cruzeiro-volei-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260315T000000Z
+DTEND:20260315T014500Z
+SUMMARY:Sada Cruzeiro Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260321-sil-volei-guarulhos-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J21 | 🏟️ | SESI Bauru 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260321-sil-volei-guarulhos-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260321T213000Z
+DTEND:20260321T231500Z
+SUMMARY:Sil Vôlei Guarulhos - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260328-joinville-volei-sil-volei-guarulhos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J22 | ✈️ | Joinville Vôlei 
+ 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260328-joinville-volei-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260328T000000Z
+DTEND:20260328T014500Z
+SUMMARY:Joinville Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260405-praia-clube-uberlandia-volei-sil-volei-guarulhos-d
+ ia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J23 | ✈️ | Praia Clube Uberl
+ ândia Vôlei 🇧🇷
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260405-praia-clube-uberlandia-volei-sil-volei-guarulhos@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260405T200000Z
+DTEND:20260405T214500Z
+SUMMARY:Praia Clube Uberlândia Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260410-sil-volei-guarulhos-praia-clube-uberlandia-volei-d
+ ia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J24 | 🏟️ | Praia Clube Uber
+ lândia Vôlei 🇧🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260410-sil-volei-guarulhos-praia-clube-uberlandia-volei@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260410T213000Z
+DTEND:20260410T231500Z
+SUMMARY:Sil Vôlei Guarulhos - Praia Clube Uberlândia Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260416-praia-clube-uberlandia-volei-sil-volei-guarulhos-d
+ ia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:SIL VÔLEI GUARULHOS | Superliga | J25 | ✈️ | Praia Clube Uberl
+ ândia Vôlei 🇧🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260416-praia-clube-uberlandia-volei-sil-volei-guarulhos@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260416T213000Z
+DTEND:20260416T231500Z
+SUMMARY:Praia Clube Uberlândia Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+END:VCALENDAR

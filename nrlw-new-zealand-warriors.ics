@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Zealand Warriors · NRLW
+BEGIN:VEVENT
+UID:nrlw-20260705-new-zealand-warriors-canterbury-bankstown-bulldogs-dia@sp
+ ortcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J1 | 🏟️ | Canterbury-Bankstown B
+ ulldogs 🇦🇺
+DESCRIPTION:Inici: 03:45 (Europe/Madrid) · NRLW\nEstadi: FMG Stadium Waika
+ to
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260705-new-zealand-warriors-canterbury-bankstown-bulldogs@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART:20260705T014500Z
+DTEND:20260705T033000Z
+SUMMARY:New Zealand Warriors - Canterbury-Bankstown Bulldogs
+DESCRIPTION:NRLW
+LOCATION:FMG Stadium Waikato
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260712-canberra-raiders-new-zealand-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J2 | ✈️ | Canberra Raiders 🇦
+ 🇺
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NRLW\nEstadi: GIO Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260712-canberra-raiders-new-zealand-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260712T020000Z
+DTEND:20260712T034500Z
+SUMMARY:Canberra Raiders - New Zealand Warriors
+DESCRIPTION:NRLW
+LOCATION:GIO Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260718-new-zealand-warriors-north-queensland-cowboys-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J3 | 🏟️ | North Queensland Cowbo
+ ys 🇦🇺
+DESCRIPTION:Inici: 05:15 (Europe/Madrid) · NRLW\nEstadi: Go Media Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260718-new-zealand-warriors-north-queensland-cowboys@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260718T031500Z
+DTEND:20260718T050000Z
+SUMMARY:New Zealand Warriors - North Queensland Cowboys
+DESCRIPTION:NRLW
+LOCATION:Go Media Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260726-parramatta-eels-new-zealand-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J4 | ✈️ | Parramatta Eels 🇦
+ 🇺
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NRLW\nEstadi: Eric Tweedale Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260726-parramatta-eels-new-zealand-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260726T020000Z
+DTEND:20260726T034500Z
+SUMMARY:Parramatta Eels - New Zealand Warriors
+DESCRIPTION:NRLW
+LOCATION:Eric Tweedale Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260802-new-zealand-warriors-gold-coast-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J5 | 🏟️ | Gold Coast Titans 🇦
+ 🇺
+DESCRIPTION:Inici: 05:25 (Europe/Madrid) · NRLW\nEstadi: Geohex Park\, Wag
+ ga Wagga
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260802-new-zealand-warriors-gold-coast-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T032500Z
+DTEND:20260802T051000Z
+SUMMARY:New Zealand Warriors - Gold Coast Titans
+DESCRIPTION:NRLW
+LOCATION:Geohex Park\, Wagga Wagga
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260808-new-zealand-warriors-newcastle-knights-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J6 | 🏟️ | Newcastle Knights 🇦
+ 🇺
+DESCRIPTION:Inici: 07:15 (Europe/Madrid) · NRLW\nEstadi: FMG Stadium Waika
+ to
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260808-new-zealand-warriors-newcastle-knights@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260808T051500Z
+DTEND:20260808T070000Z
+SUMMARY:New Zealand Warriors - Newcastle Knights
+DESCRIPTION:NRLW
+LOCATION:FMG Stadium Waikato
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260816-wests-tigers-new-zealand-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J7 | ✈️ | Wests Tigers 🇦🇺
+DESCRIPTION:Inici: 05:45 (Europe/Madrid) · NRLW\nEstadi: CommBank Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260816-wests-tigers-new-zealand-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260816T034500Z
+DTEND:20260816T053000Z
+SUMMARY:Wests Tigers - New Zealand Warriors
+DESCRIPTION:NRLW
+LOCATION:CommBank Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260823-sydney-roosters-new-zealand-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J8 | ✈️ | Sydney Roosters 🇦
+ 🇺
+DESCRIPTION:Inici: 05:45 (Europe/Madrid) · NRLW\nEstadi: Allianz Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260823-sydney-roosters-new-zealand-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T034500Z
+DTEND:20260823T053000Z
+SUMMARY:Sydney Roosters - New Zealand Warriors
+DESCRIPTION:NRLW
+LOCATION:Allianz Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260830-new-zealand-warriors-st-george-illawarra-dragons-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J9 | 🏟️ | St. George Illawarra D
+ ragons 🇦🇺
+DESCRIPTION:Inici: 01:50 (Europe/Madrid) · NRLW\nEstadi: Go Media Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260830-new-zealand-warriors-st-george-illawarra-dragons@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260829T235000Z
+DTEND:20260830T013500Z
+SUMMARY:New Zealand Warriors - St. George Illawarra Dragons
+DESCRIPTION:NRLW
+LOCATION:Go Media Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260905-new-zealand-warriors-cronulla-sutherland-sharks-dia@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J10 | 🏟️ | Cronulla-Sutherland S
+ harks 🇦🇺
+DESCRIPTION:Inici: 02:45 (Europe/Madrid) · NRLW\nEstadi: Go Media Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260905-new-zealand-warriors-cronulla-sutherland-sharks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260905T004500Z
+DTEND:20260905T023000Z
+SUMMARY:New Zealand Warriors - Cronulla-Sutherland Sharks
+DESCRIPTION:NRLW
+LOCATION:Go Media Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260913-brisbane-broncos-new-zealand-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:NEW ZEALAND WARRIORS | NRLW | J11 | ✈️ | Brisbane Broncos 🇦
+ 🇺
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NRLW\nEstadi: Totally Workwear 
+ Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260913-brisbane-broncos-new-zealand-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260913T020000Z
+DTEND:20260913T034500Z
+SUMMARY:Brisbane Broncos - New Zealand Warriors
+DESCRIPTION:NRLW
+LOCATION:Totally Workwear Stadium
+END:VEVENT
+END:VCALENDAR

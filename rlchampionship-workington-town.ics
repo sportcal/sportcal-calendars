@@ -1,0 +1,452 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Workington Town · Championship
+BEGIN:VEVENT
+UID:rlchampionship-20260118-barrow-raiders-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:WORKINGTON TOWN | Championship | J1 | ✈️ | Barrow Raiders 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Craven Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260118-barrow-raiders-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260118T150000Z
+DTEND:20260118T164500Z
+SUMMARY:Barrow Raiders - Workington Town
+DESCRIPTION:Championship
+LOCATION:Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-rochdale-hornets-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:WORKINGTON TOWN | Championship | J2 | ✈️ | Rochdale Hornets 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Spotland 
+ Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-rochdale-hornets-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260201T150000Z
+DTEND:20260201T164500Z
+SUMMARY:Rochdale Hornets - Workington Town
+DESCRIPTION:Championship
+LOCATION:Spotland Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260215-workington-town-widnes-vikings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:WORKINGTON TOWN | Championship | J3 | 🏟️ | Widnes Vikings 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260215-workington-town-widnes-vikings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260215T150000Z
+DTEND:20260215T164500Z
+SUMMARY:Workington Town - Widnes Vikings
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-keighley-cougars-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:WORKINGTON TOWN | Championship | J4 | ✈️ | Keighley Cougars 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Cougar Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-keighley-cougars-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T150000Z
+DTEND:20260301T164500Z
+SUMMARY:Keighley Cougars - Workington Town
+DESCRIPTION:Championship
+LOCATION:Cougar Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-workington-town-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:WORKINGTON TOWN | Championship | J5 | 🏟️ | Salford 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-workington-town-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T150000Z
+DTEND:20260308T164500Z
+SUMMARY:Workington Town - Salford
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260322-workington-town-dewsbury-rams-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:WORKINGTON TOWN | Championship | J6 | 🏟️ | Dewsbury Rams 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260322-workington-town-dewsbury-rams@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260322T150000Z
+DTEND:20260322T164500Z
+SUMMARY:Workington Town - Dewsbury Rams
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-newcastle-thunder-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:WORKINGTON TOWN | Championship | J7 | ✈️ | Newcastle Thunder 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-newcastle-thunder-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T140000Z
+DTEND:20260329T154500Z
+SUMMARY:Newcastle Thunder - Workington Town
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260403-whitehaven-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:WORKINGTON TOWN | Championship | J8 | ✈️ | Whitehaven 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260403-whitehaven-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260403T120000Z
+DTEND:20260403T134500Z
+SUMMARY:Whitehaven - Workington Town
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-workington-town-midlands-hurricanes-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:WORKINGTON TOWN | Championship | J9 | 🏟️ | Midlands Hurricanes
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-workington-town-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260412T140000Z
+DTEND:20260412T154500Z
+SUMMARY:Workington Town - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-oldham-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:WORKINGTON TOWN | Championship | J9 | ✈️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Bower Fol
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-oldham-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260426T140000Z
+DTEND:20260426T154500Z
+SUMMARY:Oldham - Workington Town
+DESCRIPTION:Championship
+LOCATION:Bower Fold
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-hunslet-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:WORKINGTON TOWN | Championship | J11 | ✈️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-hunslet-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T140000Z
+DTEND:20260503T154500Z
+SUMMARY:Hunslet - Workington Town
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-workington-town-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:WORKINGTON TOWN | Championship | J12 | 🏟️ | Sheffield Eagles 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-workington-town-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T140000Z
+DTEND:20260510T154500Z
+SUMMARY:Workington Town - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-dewsbury-rams-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:WORKINGTON TOWN | Championship | J13 | ✈️ | Dewsbury Rams 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Crown Fla
+ tt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-dewsbury-rams-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Dewsbury Rams - Workington Town
+DESCRIPTION:Championship
+LOCATION:Crown Flatt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260607-workington-town-barrow-raiders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:WORKINGTON TOWN | Championship | J14 | 🏟️ | Barrow Raiders 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260607-workington-town-barrow-raiders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260607T140000Z
+DTEND:20260607T154500Z
+SUMMARY:Workington Town - Barrow Raiders
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-workington-town-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:WORKINGTON TOWN | Championship | J14 | 🏟️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-workington-town-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260614T140000Z
+DTEND:20260614T154500Z
+SUMMARY:Workington Town - Oldham
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-salford-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:WORKINGTON TOWN | Championship | J16 | ✈️ | Salford 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-salford-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260621T140000Z
+DTEND:20260621T154500Z
+SUMMARY:Salford - Workington Town
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-workington-town-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:WORKINGTON TOWN | Championship | J17 | 🏟️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-workington-town-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260628T140000Z
+DTEND:20260628T154500Z
+SUMMARY:Workington Town - Hunslet
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-sheffield-eagles-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:WORKINGTON TOWN | Championship | J18 | ✈️ | Sheffield Eagles 
+ 🇬🇧
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-sheffield-eagles-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T123000Z
+DTEND:20260719T141500Z
+SUMMARY:Sheffield Eagles - Workington Town
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-workington-town-keighley-cougars-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:WORKINGTON TOWN | Championship | J19 | 🏟️ | Keighley Cougars 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-workington-town-keighley-cougars@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260726T140000Z
+DTEND:20260726T154500Z
+SUMMARY:Workington Town - Keighley Cougars
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-workington-town-newcastle-thunder-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:WORKINGTON TOWN | Championship | J20 | 🏟️ | Newcastle Thunder 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-workington-town-newcastle-thunder@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T140000Z
+DTEND:20260802T154500Z
+SUMMARY:Workington Town - Newcastle Thunder
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-midlands-hurricanes-workington-town-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:WORKINGTON TOWN | Championship | J21 | ✈️ | Midlands Hurricanes
+  🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-midlands-hurricanes-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260809T130000Z
+DTEND:20260809T144500Z
+SUMMARY:Midlands Hurricanes - Workington Town
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-workington-town-rochdale-hornets-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:WORKINGTON TOWN | Championship | J22 | 🏟️ | Rochdale Hornets 
+ 🇬🇧
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-workington-town-rochdale-hornets@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260816T150000Z
+DTEND:20260816T164500Z
+SUMMARY:Workington Town - Rochdale Hornets
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-widnes-vikings-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:WORKINGTON TOWN | Championship | J23 | ✈️ | Widnes Vikings 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Halton St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-widnes-vikings-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T140000Z
+DTEND:20260823T154500Z
+SUMMARY:Widnes Vikings - Workington Town
+DESCRIPTION:Championship
+LOCATION:Halton Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-workington-town-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:WORKINGTON TOWN | Championship | J24 | 🏟️ | Whitehaven 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-workington-town-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260830T140000Z
+DTEND:20260830T154500Z
+SUMMARY:Workington Town - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+END:VCALENDAR

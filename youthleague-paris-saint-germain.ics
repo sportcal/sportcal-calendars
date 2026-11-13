@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Paris Saint-Germain · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-paris-saint-germain-roma-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:PARIS SAINT-GERMAIN | Youth League | Matchday 5 | 🏟️ | Roma
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · UEFA Youth League\nEstadi: Camp
+ us PSG\, Poissy
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-paris-saint-germain-roma@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T133000Z
+DTEND:20261125T151500Z
+SUMMARY:Paris Saint-Germain - Roma
+DESCRIPTION:UEFA Youth League
+LOCATION:Campus PSG\, Poissy
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-aston-villa-paris-saint-germain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:PARIS SAINT-GERMAIN | Youth League | Matchday 6 | ✈️ | Aston Vi
+ lla 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Asto
+ n Villa FC Training Ground\, Tamworth
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-aston-villa-paris-saint-germain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T140000Z
+DTEND:20261208T154500Z
+SUMMARY:Aston Villa - Paris Saint-Germain
+DESCRIPTION:UEFA Youth League
+LOCATION:Aston Villa FC Training Ground\, Tamworth
+END:VEVENT
+END:VCALENDAR

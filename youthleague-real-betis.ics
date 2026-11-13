@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Real Betis · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-slovan-bratislava-real-betis-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:REAL BETIS | Youth League | Matchday 5 | ✈️ | Slovan Bratislava
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Nati
+ onal Training Centre\, Senec
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-slovan-bratislava-real-betis@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T130000Z
+DTEND:20261124T144500Z
+SUMMARY:Slovan Bratislava - Real Betis
+DESCRIPTION:UEFA Youth League
+LOCATION:National Training Centre\, Senec
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-real-betis-como-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:REAL BETIS | Youth League | Matchday 6 | 🏟️ | Como 🇮🇹
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Ciud
+ ad Deportiva Luis del Sol\, Seville
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-real-betis-como@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T120000Z
+DTEND:20261209T134500Z
+SUMMARY:Real Betis - Como
+DESCRIPTION:UEFA Youth League
+LOCATION:Ciudad Deportiva Luis del Sol\, Seville
+END:VEVENT
+END:VCALENDAR

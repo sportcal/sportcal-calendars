@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:France · World Championship
+BEGIN:VEVENT
+UID:ihfwc-20270114-france-kuwait-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:FRANCE | World Championship | Preliminary Group D | 🏟️ | Kuwai
+ t
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270114-france-kuwait@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270114T193000Z
+DTEND:20270114T211500Z
+SUMMARY:France - Kuwait
+DESCRIPTION:IHF World Championship
+LOCATION:Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270116-france-brazil-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:FRANCE | World Championship | Preliminary Group D | 🏟️ | Brazi
+ l
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270116-france-brazil@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:France - Brazil
+DESCRIPTION:IHF World Championship
+LOCATION:Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270118-argentina-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:FRANCE | World Championship | Preliminary Group D | ✈️ | Argent
+ ina
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270118-argentina-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270118T193000Z
+DTEND:20270118T211500Z
+SUMMARY:Argentina - France
+DESCRIPTION:IHF World Championship
+LOCATION:Porsche-Arena\, Stuttgart
+END:VEVENT
+END:VCALENDAR

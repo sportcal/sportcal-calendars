@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Elite Individual Time Trials · UCI Worlds
+BEGIN:VEVENT
+UID:uciworlds-20270901-elite-individual-time-trials@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:UCI WORLDS | Elite Individual Time Trials
+DESCRIPTION:Elite Individual Time Trials · UCI Road World Championships
+END:VEVENT
+END:VCALENDAR

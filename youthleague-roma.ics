@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Roma · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-paris-saint-germain-roma-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:ROMA | Youth League | Matchday 5 | ✈️ | Paris Saint-Germain 
+ 🇫🇷
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · UEFA Youth League\nEstadi: Camp
+ us PSG\, Poissy
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-paris-saint-germain-roma@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T133000Z
+DTEND:20261125T151500Z
+SUMMARY:Paris Saint-Germain - Roma
+DESCRIPTION:UEFA Youth League
+LOCATION:Campus PSG\, Poissy
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-roma-sporting-cp-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:ROMA | Youth League | Matchday 6 | 🏟️ | Sporting CP 🇵🇹
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Stad
+ io Tre Fontane\, Rome
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-roma-sporting-cp@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T130000Z
+DTEND:20261208T144500Z
+SUMMARY:Roma - Sporting CP
+DESCRIPTION:UEFA Youth League
+LOCATION:Stadio Tre Fontane\, Rome
+END:VEVENT
+END:VCALENDAR

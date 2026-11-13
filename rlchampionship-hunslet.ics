@@ -1,0 +1,435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hunslet · Championship
+BEGIN:VEVENT
+UID:rlchampionship-20260118-hunslet-dewsbury-rams-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:HUNSLET | Championship | J1 | 🏟️ | Dewsbury Rams 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260118-hunslet-dewsbury-rams@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260118T150000Z
+DTEND:20260118T164500Z
+SUMMARY:Hunslet - Dewsbury Rams
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260215-salford-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:HUNSLET | Championship | J3 | ✈️ | Salford 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260215-salford-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260215T150000Z
+DTEND:20260215T164500Z
+SUMMARY:Salford - Hunslet
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260222-rochdale-hornets-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:HUNSLET | Championship | J4 | ✈️ | Rochdale Hornets 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Spotland 
+ Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260222-rochdale-hornets-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260222T150000Z
+DTEND:20260222T164500Z
+SUMMARY:Rochdale Hornets - Hunslet
+DESCRIPTION:Championship
+LOCATION:Spotland Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-hunslet-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:HUNSLET | Championship | J4 | 🏟️ | Sheffield Eagles 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-hunslet-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T150000Z
+DTEND:20260301T164500Z
+SUMMARY:Hunslet - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-widnes-vikings-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:HUNSLET | Championship | J5 | ✈️ | Widnes Vikings 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Halton St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-widnes-vikings-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T150000Z
+DTEND:20260308T164500Z
+SUMMARY:Widnes Vikings - Hunslet
+DESCRIPTION:Championship
+LOCATION:Halton Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260322-hunslet-barrow-raiders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:HUNSLET | Championship | J6 | 🏟️ | Barrow Raiders 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260322-hunslet-barrow-raiders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260322T150000Z
+DTEND:20260322T164500Z
+SUMMARY:Hunslet - Barrow Raiders
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-oldham-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:HUNSLET | Championship | J7 | ✈️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Bower Fol
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-oldham-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T140000Z
+DTEND:20260329T154500Z
+SUMMARY:Oldham - Hunslet
+DESCRIPTION:Championship
+LOCATION:Bower Fold
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260404-keighley-cougars-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:HUNSLET | Championship | J8 | ✈️ | Keighley Cougars 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Championship\nEstadi: Cougar Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260404-keighley-cougars-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260404T120000Z
+DTEND:20260404T134500Z
+SUMMARY:Keighley Cougars - Hunslet
+DESCRIPTION:Championship
+LOCATION:Cougar Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-hunslet-newcastle-thunder-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:HUNSLET | Championship | J9 | 🏟️ | Newcastle Thunder 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-hunslet-newcastle-thunder@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260412T140000Z
+DTEND:20260412T154500Z
+SUMMARY:Hunslet - Newcastle Thunder
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-whitehaven-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:HUNSLET | Championship | J10 | ✈️ | Whitehaven 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-whitehaven-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260426T140000Z
+DTEND:20260426T154500Z
+SUMMARY:Whitehaven - Hunslet
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-hunslet-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:HUNSLET | Championship | J11 | 🏟️ | Workington Town 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-hunslet-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T140000Z
+DTEND:20260503T154500Z
+SUMMARY:Hunslet - Workington Town
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-barrow-raiders-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:HUNSLET | Championship | J13 | ✈️ | Barrow Raiders 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Craven Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-barrow-raiders-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Barrow Raiders - Hunslet
+DESCRIPTION:Championship
+LOCATION:Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260531-hunslet-london-broncos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:HUNSLET | Championship | J13 | 🏟️ | London Broncos 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260531-hunslet-london-broncos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260531T140000Z
+DTEND:20260531T154500Z
+SUMMARY:Hunslet - London Broncos
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260606-newcastle-thunder-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:HUNSLET | Championship | J14 | ✈️ | Newcastle Thunder 🇬🇧
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260606-newcastle-thunder-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260606T150000Z
+DTEND:20260606T164500Z
+SUMMARY:Newcastle Thunder - Hunslet
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-hunslet-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:HUNSLET | Championship | J15 | 🏟️ | Salford 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-hunslet-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260614T140000Z
+DTEND:20260614T154500Z
+SUMMARY:Hunslet - Salford
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-hunslet-widnes-vikings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:HUNSLET | Championship | J15 | 🏟️ | Widnes Vikings 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-hunslet-widnes-vikings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260621T140000Z
+DTEND:20260621T154500Z
+SUMMARY:Hunslet - Widnes Vikings
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-workington-town-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:HUNSLET | Championship | J17 | ✈️ | Workington Town 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-workington-town-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260628T140000Z
+DTEND:20260628T154500Z
+SUMMARY:Workington Town - Hunslet
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260704-london-broncos-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:HUNSLET | Championship | J18 | ✈️ | London Broncos 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Stonebrid
+ ge Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260704-london-broncos-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260704T140000Z
+DTEND:20260704T154500Z
+SUMMARY:London Broncos - Hunslet
+DESCRIPTION:Championship
+LOCATION:Stonebridge Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-hunslet-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:HUNSLET | Championship | J18 | 🏟️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-hunslet-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T140000Z
+DTEND:20260719T154500Z
+SUMMARY:Hunslet - Oldham
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-hunslet-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:HUNSLET | Championship | J20 | 🏟️ | Whitehaven 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-hunslet-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260726T140000Z
+DTEND:20260726T154500Z
+SUMMARY:Hunslet - Whitehaven
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-dewsbury-rams-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:HUNSLET | Championship | J20 | ✈️ | Dewsbury Rams 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Crown Fla
+ tt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-dewsbury-rams-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T140000Z
+DTEND:20260802T154500Z
+SUMMARY:Dewsbury Rams - Hunslet
+DESCRIPTION:Championship
+LOCATION:Crown Flatt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-hunslet-keighley-cougars-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:HUNSLET | Championship | J21 | 🏟️ | Keighley Cougars 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-hunslet-keighley-cougars@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260809T140000Z
+DTEND:20260809T154500Z
+SUMMARY:Hunslet - Keighley Cougars
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-sheffield-eagles-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:HUNSLET | Championship | J22 | ✈️ | Sheffield Eagles 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-sheffield-eagles-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260816T140000Z
+DTEND:20260816T154500Z
+SUMMARY:Sheffield Eagles - Hunslet
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-hunslet-rochdale-hornets-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:HUNSLET | Championship | J23 | 🏟️ | Rochdale Hornets 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-hunslet-rochdale-hornets@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T140000Z
+DTEND:20260823T154500Z
+SUMMARY:Hunslet - Rochdale Hornets
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+END:VCALENDAR

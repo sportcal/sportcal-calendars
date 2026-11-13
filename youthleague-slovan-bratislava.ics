@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Slovan Bratislava · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-slovan-bratislava-real-betis-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:SLOVAN BRATISLAVA | Youth League | Matchday 5 | 🏟️ | Real Beti
+ s 🇪🇸
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Nati
+ onal Training Centre\, Senec
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-slovan-bratislava-real-betis@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T130000Z
+DTEND:20261124T144500Z
+SUMMARY:Slovan Bratislava - Real Betis
+DESCRIPTION:UEFA Youth League
+LOCATION:National Training Centre\, Senec
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-slovan-bratislava-shakhtar-donetsk-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:SLOVAN BRATISLAVA | Youth League | Matchday 6 | 🏟️ | Shakhtar 
+ Donetsk 🇺🇦
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Nati
+ onal Training Centre\, Senec
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-slovan-bratislava-shakhtar-donetsk@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T120000Z
+DTEND:20261209T134500Z
+SUMMARY:Slovan Bratislava - Shakhtar Donetsk
+DESCRIPTION:UEFA Youth League
+LOCATION:National Training Centre\, Senec
+END:VEVENT
+END:VCALENDAR

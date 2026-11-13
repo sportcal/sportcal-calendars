@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Göztepe Yuppo · Sultanlar Ligi
+BEGIN:VEVENT
+UID:sultanlar-20261115-goztepe-yuppo-galatasaray-daikin-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:GÖZTEPE YUPPO | Sultanlar Ligi | J9 | 🏟️ | Galatasaray Daikin
+  🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-goztepe-yuppo-galatasaray-daikin@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Göztepe Yuppo - Galatasaray Daikin
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-sinnada-hotels-afyon-bld-yuntas-goztepe-yuppo-dia@sp
+ ortcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:GÖZTEPE YUPPO | Sultanlar Ligi | J10 | ✈️ | Sinnada Hotels Afy
+ on Bld. Yüntaş 🇹🇷
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-sinnada-hotels-afyon-bld-yuntas-goztepe-yuppo@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART:20261122T120000Z
+DTEND:20261122T134500Z
+SUMMARY:Sinnada Hotels Afyon Bld. Yüntaş - Göztepe Yuppo
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+END:VCALENDAR

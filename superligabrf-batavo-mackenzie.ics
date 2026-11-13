@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Batavo Mackenzie · Superliga Feminina
+BEGIN:VEVENT
+UID:superligabrf-20261113-dentil-praia-clube-batavo-mackenzie-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:BATAVO MACKENZIE | Superliga Feminina | J5 | ✈️ | Dentil Praia 
+ Clube 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261113-dentil-praia-clube-batavo-mackenzie@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261113T213000Z
+DTEND:20261113T231500Z
+SUMMARY:Dentil Praia Clube - Batavo Mackenzie
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261119-batavo-mackenzie-abel-moda-volei-brusque-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:BATAVO MACKENZIE | Superliga Feminina | J6 | 🏟️ | ABEL Moda V
+ ôlei Brusque 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261119-batavo-mackenzie-abel-moda-volei-brusque@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261119T213000Z
+DTEND:20261119T231500Z
+SUMMARY:Batavo Mackenzie - ABEL Moda Vôlei Brusque
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261125-paulistano-barueri-batavo-mackenzie-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BATAVO MACKENZIE | Superliga Feminina | J7 | ✈️ | Paulistano Ba
+ rueri 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261125-paulistano-barueri-batavo-mackenzie@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T213000Z
+DTEND:20261125T231500Z
+SUMMARY:Paulistano Barueri - Batavo Mackenzie
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261204-batavo-mackenzie-brasilia-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:BATAVO MACKENZIE | Superliga Feminina | J8 | 🏟️ | Brasília V
+ ôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261204-batavo-mackenzie-brasilia-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261204T213000Z
+DTEND:20261204T231500Z
+SUMMARY:Batavo Mackenzie - Brasília Vôlei
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261208-batavo-mackenzie-pinheiros-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:BATAVO MACKENZIE | Superliga Feminina | J9 | 🏟️ | Pinheiros 
+ 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261208-batavo-mackenzie-pinheiros@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T213000Z
+DTEND:20261208T231500Z
+SUMMARY:Batavo Mackenzie - Pinheiros
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261215-sancor-seguros-volei-londrina-batavo-mackenzie-di
+ a@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:BATAVO MACKENZIE | Superliga Feminina | J10 | ✈️ | Sancor Segur
+ os Vôlei Londrina 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261215-sancor-seguros-volei-londrina-batavo-mackenzie@sp
+ ortcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261215T213000Z
+DTEND:20261215T231500Z
+SUMMARY:Sancor Seguros Vôlei Londrina - Batavo Mackenzie
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261219-batavo-mackenzie-fluminense-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:BATAVO MACKENZIE | Superliga Feminina | J11 | 🏟️ | Fluminense 
+ 🇧🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261219-batavo-mackenzie-fluminense@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:Batavo Mackenzie - Fluminense
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+END:VCALENDAR

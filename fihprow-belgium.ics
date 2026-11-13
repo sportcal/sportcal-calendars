@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belgium · Pro League W
+BEGIN:VEVENT
+UID:fihprow-20261214-netherlands-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:BELGIUM | Pro League W | J1 | ✈️ | Netherlands
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261214-netherlands-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261214T110000Z
+DTEND:20261214T124500Z
+SUMMARY:Netherlands - Belgium
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261216-belgium-germany-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:BELGIUM | Pro League W | J2 | 🏟️ | Germany
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261216-belgium-germany@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261216T110000Z
+DTEND:20261216T124500Z
+SUMMARY:Belgium - Germany
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261217-spain-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:BELGIUM | Pro League W | J3 | ✈️ | Spain
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261217-spain-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261217T170000Z
+DTEND:20261217T184500Z
+SUMMARY:Spain - Belgium
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261219-belgium-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:BELGIUM | Pro League W | J4 | 🏟️ | Netherlands
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261219-belgium-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261219T133000Z
+DTEND:20261219T151500Z
+SUMMARY:Belgium - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261220-germany-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:BELGIUM | Pro League W | J5 | ✈️ | Germany
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261220-germany-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261220T120000Z
+DTEND:20261220T134500Z
+SUMMARY:Germany - Belgium
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261222-spain-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:BELGIUM | Pro League W | J6 | ✈️ | Spain
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261222-spain-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261222T130000Z
+DTEND:20261222T144500Z
+SUMMARY:Spain - Belgium
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270213-belgium-china-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:BELGIUM | Pro League W | J7 | 🏟️ | China
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270213-belgium-china@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270213T000000Z
+DTEND:20270213T014500Z
+SUMMARY:Belgium - China
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270214-australia-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:BELGIUM | Pro League W | J8 | ✈️ | Australia
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270214-australia-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270214T040000Z
+DTEND:20270214T054500Z
+SUMMARY:Australia - Belgium
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270220-china-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:BELGIUM | Pro League W | J9 | ✈️ | China
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270220-china-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270220T000000Z
+DTEND:20270220T014500Z
+SUMMARY:China - Belgium
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270221-australia-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:BELGIUM | Pro League W | J10 | ✈️ | Australia
+DESCRIPTION:Inici: 05:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270221-australia-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270221T040000Z
+DTEND:20270221T054500Z
+SUMMARY:Australia - Belgium
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270612-belgium-great-britain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:BELGIUM | Pro League W | J11 | 🏟️ | Great Britain
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270612-belgium-great-britain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270612T153000Z
+DTEND:20270612T171500Z
+SUMMARY:Belgium - Great Britain
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270613-belgium-great-britain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:BELGIUM | Pro League W | J12 | 🏟️ | Great Britain
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270613-belgium-great-britain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270613T153000Z
+DTEND:20270613T171500Z
+SUMMARY:Belgium - Great Britain
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270619-belgium-argentina-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:BELGIUM | Pro League W | J13 | 🏟️ | Argentina
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270619-belgium-argentina@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270619T140000Z
+DTEND:20270619T154500Z
+SUMMARY:Belgium - Argentina
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270620-belgium-argentina-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:BELGIUM | Pro League W | J13 | 🏟️ | Argentina
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270620-belgium-argentina@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270620T113000Z
+DTEND:20270620T131500Z
+SUMMARY:Belgium - Argentina
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270626-belgium-india-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:BELGIUM | Pro League W | J15 | 🏟️ | India
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270626-belgium-india@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270626T113000Z
+DTEND:20270626T131500Z
+SUMMARY:Belgium - India
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270627-belgium-india-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:BELGIUM | Pro League W | J16 | 🏟️ | India
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270627-belgium-india@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270627T113000Z
+DTEND:20270627T131500Z
+SUMMARY:Belgium - India
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Belfius Hockey Arena\, Wavre
+END:VEVENT
+END:VCALENDAR

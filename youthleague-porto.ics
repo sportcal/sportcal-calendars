@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Porto · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-feyenoord-porto-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:PORTO | Youth League | Matchday 5 | ✈️ | Feyenoord 🇳🇱
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Spor
+ tcomplex Varkenoord\, Rotterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-feyenoord-porto@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T130000Z
+DTEND:20261124T144500Z
+SUMMARY:Feyenoord - Porto
+DESCRIPTION:UEFA Youth League
+LOCATION:Sportcomplex Varkenoord\, Rotterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-liverpool-porto-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:PORTO | Youth League | Matchday 6 | ✈️ | Liverpool 🇬🇧
+DESCRIPTION:Hora pendent de confirmació · UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-liverpool-porto@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Liverpool - Porto · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · UEFA Youth League
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mumbai Indians · IPL
+BEGIN:VEVENT
+UID:ipl-20260329-mumbai-indians-kolkata-knight-riders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:MUMBAI INDIANS | IPL | 🏟️ | Kolkata Knight Riders
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260329-mumbai-indians-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T140000Z
+DTEND:20260329T154500Z
+SUMMARY:Mumbai Indians - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260404-delhi-capitals-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:MUMBAI INDIANS | IPL | ✈️ | Delhi Capitals
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260404-delhi-capitals-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260404T100000Z
+DTEND:20260404T114500Z
+SUMMARY:Delhi Capitals - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260407-rajasthan-royals-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:MUMBAI INDIANS | IPL | ✈️ | Rajasthan Royals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Barsapara Cricket 
+ Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260407-rajasthan-royals-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260407T140000Z
+DTEND:20260407T154500Z
+SUMMARY:Rajasthan Royals - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Barsapara Cricket Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260412-mumbai-indians-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:MUMBAI INDIANS | IPL | 🏟️ | Royal Challengers Bengaluru
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260412-mumbai-indians-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260412T140000Z
+DTEND:20260412T154500Z
+SUMMARY:Mumbai Indians - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260416-mumbai-indians-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:MUMBAI INDIANS | IPL | 🏟️ | Punjab Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260416-mumbai-indians-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260416T140000Z
+DTEND:20260416T154500Z
+SUMMARY:Mumbai Indians - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260420-gujarat-titans-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:MUMBAI INDIANS | IPL | ✈️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Narendra Modi Stad
+ ium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260420-gujarat-titans-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260420T140000Z
+DTEND:20260420T154500Z
+SUMMARY:Gujarat Titans - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Narendra Modi Stadium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260423-mumbai-indians-chennai-super-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:MUMBAI INDIANS | IPL | 🏟️ | Chennai Super Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260423-mumbai-indians-chennai-super-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260423T140000Z
+DTEND:20260423T154500Z
+SUMMARY:Mumbai Indians - Chennai Super Kings
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260429-mumbai-indians-sunrisers-hyderabad-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:MUMBAI INDIANS | IPL | 🏟️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260429-mumbai-indians-sunrisers-hyderabad@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260429T140000Z
+DTEND:20260429T154500Z
+SUMMARY:Mumbai Indians - Sunrisers Hyderabad
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260502-chennai-super-kings-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:MUMBAI INDIANS | IPL | ✈️ | Chennai Super Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: MA Chidambaram Sta
+ dium\, Chepauk\, Chennai\, Chennai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260502-chennai-super-kings-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260502T140000Z
+DTEND:20260502T154500Z
+SUMMARY:Chennai Super Kings - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:MA Chidambaram Stadium\, Chepauk\, Chennai\, Chennai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260504-mumbai-indians-lucknow-super-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:MUMBAI INDIANS | IPL | 🏟️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260504-mumbai-indians-lucknow-super-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260504T140000Z
+DTEND:20260504T154500Z
+SUMMARY:Mumbai Indians - Lucknow Super Giants
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260510-royal-challengers-bengaluru-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:MUMBAI INDIANS | IPL | ✈️ | Royal Challengers Bengaluru
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Shaheed Veer Naray
+ an Singh International Stadium\, Raipur\, Raipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260510-royal-challengers-bengaluru-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T140000Z
+DTEND:20260510T154500Z
+SUMMARY:Royal Challengers Bengaluru - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Shaheed Veer Narayan Singh International Stadium\, Raipur\, Raipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260514-punjab-kings-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:MUMBAI INDIANS | IPL | ✈️ | Punjab Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Himachal Pradesh C
+ ricket Association Stadium\, Dharamsala\, Dharamsala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260514-punjab-kings-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260514T140000Z
+DTEND:20260514T154500Z
+SUMMARY:Punjab Kings - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala\, Dharam
+ sala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260520-kolkata-knight-riders-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:MUMBAI INDIANS | IPL | ✈️ | Kolkata Knight Riders
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260520-kolkata-knight-riders-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260520T140000Z
+DTEND:20260520T154500Z
+SUMMARY:Kolkata Knight Riders - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260524-mumbai-indians-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:MUMBAI INDIANS | IPL | 🏟️ | Rajasthan Royals
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260524-mumbai-indians-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T100000Z
+DTEND:20260524T114500Z
+SUMMARY:Mumbai Indians - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+END:VCALENDAR

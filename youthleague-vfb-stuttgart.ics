@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VfB Stuttgart · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-inter-milan-vfb-stuttgart-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:VFB STUTTGART | Youth League | Matchday 5 | ✈️ | Inter Milan
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Yout
+ h Development Training Center\, Milan
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-inter-milan-vfb-stuttgart@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T140000Z
+DTEND:20261125T154500Z
+SUMMARY:Inter Milan - VfB Stuttgart
+DESCRIPTION:UEFA Youth League
+LOCATION:Youth Development Training Center\, Milan
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-vfb-stuttgart-lille-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:VFB STUTTGART | Youth League | Matchday 6 | 🏟️ | Lille 🇫
+ 🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: WIRm
+ achenDRUCK Arena\, Aspach
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-vfb-stuttgart-lille@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T140000Z
+DTEND:20261209T154500Z
+SUMMARY:VfB Stuttgart - Lille
+DESCRIPTION:UEFA Youth League
+LOCATION:WIRmachenDRUCK Arena\, Aspach
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,518 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Toulouse Olympique · Super League
+BEGIN:VEVENT
+UID:superleague-20260214-wakefield-trinity-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J1 | ✈️ | Wakefield Trinity
+  🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: DIY Kitch
+ ens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260214-wakefield-trinity-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260214T200000Z
+DTEND:20260214T214500Z
+SUMMARY:Wakefield Trinity - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:DIY Kitchens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260221-toulouse-olympique-castleford-tigers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J2 | 🏟️ | Castleford Tiger
+ s 🇬🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est-Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260221-toulouse-olympique-castleford-tigers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260221T180000Z
+DTEND:20260221T194500Z
+SUMMARY:Toulouse Olympique - Castleford Tigers
+DESCRIPTION:Super League
+LOCATION:Stade Ernest-Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260301-bradford-bulls-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J3 | ✈️ | Bradford Bulls 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260301-bradford-bulls-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T150000Z
+DTEND:20260301T164500Z
+SUMMARY:Bradford Bulls - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260307-toulouse-olympique-wigan-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J4 | 🏟️ | Wigan Warriors 
+ 🇬🇧
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260307-toulouse-olympique-wigan-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260307T170000Z
+DTEND:20260307T184500Z
+SUMMARY:Toulouse Olympique - Wigan Warriors
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260320-toulouse-olympique-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J5 | 🏟️ | St Helens 🇬
+ 🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260320-toulouse-olympique-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260320T180000Z
+DTEND:20260320T194500Z
+SUMMARY:Toulouse Olympique - St Helens
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260328-leigh-leopards-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J6 | ✈️ | Leigh Leopards 
+ 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260328-leigh-leopards-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260328T173000Z
+DTEND:20260328T191500Z
+SUMMARY:Leigh Leopards - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260404-catalans-dragons-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J7 | ✈️ | Catalans Dragons 
+ 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Gil
+ bert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260404-catalans-dragons-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260404T170000Z
+DTEND:20260404T184500Z
+SUMMARY:Catalans Dragons - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260417-toulouse-olympique-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J8 | 🏟️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260417-toulouse-olympique-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260417T173000Z
+DTEND:20260417T191500Z
+SUMMARY:Toulouse Olympique - Hull KR
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260423-york-knights-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J9 | ✈️ | York Knights 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: York Comm
+ unity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260423-york-knights-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260423T190000Z
+DTEND:20260423T204500Z
+SUMMARY:York Knights - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:York Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260503-hull-f-c-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J10 | ✈️ | Hull F.C. 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: MKM Stadi
+ um
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260503-hull-f-c-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T140000Z
+DTEND:20260503T154500Z
+SUMMARY:Hull F.C. - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:MKM Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260516-toulouse-olympique-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J11 | 🏟️ | Warrington Wolv
+ es 🇬🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Mic
+ hel Bendichou
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260516-toulouse-olympique-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260516T170000Z
+DTEND:20260516T184500Z
+SUMMARY:Toulouse Olympique - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Stade Michel Bendichou
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260523-toulouse-olympique-wakefield-trinity-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J12 | 🏟️ | Wakefield Trini
+ ty 🇬🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260523-toulouse-olympique-wakefield-trinity@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260523T170000Z
+DTEND:20260523T184500Z
+SUMMARY:Toulouse Olympique - Wakefield Trinity
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260606-huddersfield-giants-toulouse-olympique-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J13 | ✈️ | Huddersfield Gia
+ nts 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: FLAIR Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260606-huddersfield-giants-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260606T140000Z
+DTEND:20260606T154500Z
+SUMMARY:Huddersfield Giants - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:FLAIR Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260612-toulouse-olympique-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J14 | 🏟️ | Leeds Rhinos 
+ 🇬🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260612-toulouse-olympique-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260612T170000Z
+DTEND:20260612T184500Z
+SUMMARY:Toulouse Olympique - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260620-castleford-tigers-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J15 | ✈️ | Castleford Tiger
+ s 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: OneBore S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260620-castleford-tigers-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260620T190000Z
+DTEND:20260620T204500Z
+SUMMARY:Castleford Tigers - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:OneBore Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260627-toulouse-olympique-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J16 | 🏟️ | Leigh Leopards 
+ 🇬🇧
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260627-toulouse-olympique-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260627T160000Z
+DTEND:20260627T174500Z
+SUMMARY:Toulouse Olympique - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260704-catalans-dragons-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J17 | ✈️ | Catalans Dragons
+  🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Stade Pie
+ rre-Fabre
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260704-catalans-dragons-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260704T190000Z
+DTEND:20260704T204500Z
+SUMMARY:Catalans Dragons - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Stade Pierre-Fabre
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260712-st-helens-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J18 | ✈️ | St Helens 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260712-st-helens-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260712T140000Z
+DTEND:20260712T154500Z
+SUMMARY:St Helens - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260718-toulouse-olympique-york-knights-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J19 | 🏟️ | York Knights 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260718-toulouse-olympique-york-knights@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260718T190000Z
+DTEND:20260718T204500Z
+SUMMARY:Toulouse Olympique - York Knights
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260725-toulouse-olympique-catalans-dragons-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J20 | 🏟️ | Catalans Dragon
+ s 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260725-toulouse-olympique-catalans-dragons@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260725T190000Z
+DTEND:20260725T204500Z
+SUMMARY:Toulouse Olympique - Catalans Dragons
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-leeds-rhinos-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J21 | ✈️ | Leeds Rhinos 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Tara Jone
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-leeds-rhinos-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260731T190000Z
+DTEND:20260731T204500Z
+SUMMARY:Leeds Rhinos - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Tara Jones
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260808-wigan-warriors-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J22 | ✈️ | Wigan Warriors 
+ 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Brick Com
+ munity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260808-wigan-warriors-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260808T163000Z
+DTEND:20260808T181500Z
+SUMMARY:Wigan Warriors - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Brick Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260815-toulouse-olympique-huddersfield-giants-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J23 | 🏟️ | Huddersfield Gi
+ ants 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260815-toulouse-olympique-huddersfield-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260815T190000Z
+DTEND:20260815T204500Z
+SUMMARY:Toulouse Olympique - Huddersfield Giants
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260822-hull-kr-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J24 | ✈️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260822-hull-kr-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260822T163000Z
+DTEND:20260822T181500Z
+SUMMARY:Hull KR - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260829-toulouse-olympique-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J25 | 🏟️ | Bradford Bulls 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260829-toulouse-olympique-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260829T190000Z
+DTEND:20260829T204500Z
+SUMMARY:Toulouse Olympique - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260904-toulouse-olympique-hull-f-c-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J26 | 🏟️ | Hull F.C. 🇬
+ 🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260904-toulouse-olympique-hull-f-c@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260904T170000Z
+DTEND:20260904T184500Z
+SUMMARY:Toulouse Olympique - Hull F.C.
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-warrington-wolves-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:TOULOUSE OLYMPIQUE | Super League | J27 | ✈️ | Warrington Wolve
+ s 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-warrington-wolves-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260911T190000Z
+DTEND:20260911T204500Z
+SUMMARY:Warrington Wolves - Toulouse Olympique
+DESCRIPTION:Super League
+END:VEVENT
+END:VCALENDAR

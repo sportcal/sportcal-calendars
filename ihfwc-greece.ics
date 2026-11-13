@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Greece · World Championship
+BEGIN:VEVENT
+UID:ihfwc-20270114-sweden-greece-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:GREECE | World Championship | Preliminary Group E | ✈️ | Sweden
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270114-sweden-greece@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270114T170000Z
+DTEND:20270114T184500Z
+SUMMARY:Sweden - Greece
+DESCRIPTION:IHF World Championship
+LOCATION:Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270116-norway-greece-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:GREECE | World Championship | Preliminary Group E | ✈️ | Norway
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270116-norway-greece@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270116T193000Z
+DTEND:20270116T211500Z
+SUMMARY:Norway - Greece
+DESCRIPTION:IHF World Championship
+LOCATION:Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270118-greece-qatar-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:GREECE | World Championship | Preliminary Group E | 🏟️ | Qatar
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270118-greece-qatar@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270118T170000Z
+DTEND:20270118T184500Z
+SUMMARY:Greece - Qatar
+DESCRIPTION:IHF World Championship
+LOCATION:Wunderino Arena\, Kiel
+END:VEVENT
+END:VCALENDAR

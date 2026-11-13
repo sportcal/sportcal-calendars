@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlético Madrid · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-atletico-madrid-viking-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:ATLÉTICO MADRID | Youth League | Matchday 5 | 🏟️ | Viking
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Atl
+ ético de Madrid Centro Deportivo Alcalá de Henares\, Alcalá de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-atletico-madrid-viking@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T150000Z
+DTEND:20261125T164500Z
+SUMMARY:Atlético Madrid - Viking
+DESCRIPTION:UEFA Youth League
+LOCATION:Atlético de Madrid Centro Deportivo Alcalá de Henares\, Alcalá 
+ de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-psv-eindhoven-atletico-madrid-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:ATLÉTICO MADRID | Youth League | Matchday 6 | ✈️ | PSV Eindhov
+ en 🇳🇱
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: De H
+ erdgang\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-psv-eindhoven-atletico-madrid@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T130000Z
+DTEND:20261209T144500Z
+SUMMARY:PSV Eindhoven - Atlético Madrid
+DESCRIPTION:UEFA Youth League
+LOCATION:De Herdgang\, Eindhoven
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,510 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oldham · Championship
+BEGIN:VEVENT
+UID:rlchampionship-20260116-salford-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:OLDHAM | Championship | J1 | ✈️ | Salford 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260116-salford-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260116T200000Z
+DTEND:20260116T214500Z
+SUMMARY:Salford - Oldham
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-london-broncos-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:OLDHAM | Championship | J2 | ✈️ | London Broncos 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Plough La
+ ne
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-london-broncos-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260201T150000Z
+DTEND:20260201T164500Z
+SUMMARY:London Broncos - Oldham
+DESCRIPTION:Championship
+LOCATION:Plough Lane
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260220-oldham-widnes-vikings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:OLDHAM | Championship | J4 | 🏟️ | Widnes Vikings 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Championship\nEstadi: Bower Fol
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260220-oldham-widnes-vikings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260220T194500Z
+DTEND:20260220T213000Z
+SUMMARY:Oldham - Widnes Vikings
+DESCRIPTION:Championship
+LOCATION:Bower Fold
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-midlands-hurricanes-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:OLDHAM | Championship | J4 | ✈️ | Midlands Hurricanes 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-midlands-hurricanes-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T140000Z
+DTEND:20260301T154500Z
+SUMMARY:Midlands Hurricanes - Oldham
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260321-sheffield-eagles-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:OLDHAM | Championship | J5 | ✈️ | Sheffield Eagles 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Steel Cit
+ y Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260321-sheffield-eagles-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260321T150000Z
+DTEND:20260321T164500Z
+SUMMARY:Sheffield Eagles - Oldham
+DESCRIPTION:Championship
+LOCATION:Steel City Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-oldham-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:OLDHAM | Championship | J7 | 🏟️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Bower Fol
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-oldham-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T140000Z
+DTEND:20260329T154500Z
+SUMMARY:Oldham - Hunslet
+DESCRIPTION:Championship
+LOCATION:Bower Fold
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260403-oldham-rochdale-hornets-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:OLDHAM | Championship | J8 | 🏟️ | Rochdale Hornets 🇬🇧
+DESCRIPTION:Inici: 16:45 (Europe/Madrid) · Championship\nEstadi: Bower Fol
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260403-oldham-rochdale-hornets@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260403T144500Z
+DTEND:20260403T163000Z
+SUMMARY:Oldham - Rochdale Hornets
+DESCRIPTION:Championship
+LOCATION:Bower Fold
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-halifax-panthers-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:OLDHAM | Championship | J9 | ✈️ | Halifax Panthers 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: The Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-halifax-panthers-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260412T140000Z
+DTEND:20260412T154500Z
+SUMMARY:Halifax Panthers - Oldham
+DESCRIPTION:Championship
+LOCATION:The Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-oldham-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:OLDHAM | Championship | J9 | 🏟️ | Workington Town 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Bower Fol
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-oldham-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260426T140000Z
+DTEND:20260426T154500Z
+SUMMARY:Oldham - Workington Town
+DESCRIPTION:Championship
+LOCATION:Bower Fold
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-barrow-raiders-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:OLDHAM | Championship | J11 | ✈️ | Barrow Raiders 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Craven Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-barrow-raiders-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T140000Z
+DTEND:20260503T154500Z
+SUMMARY:Barrow Raiders - Oldham
+DESCRIPTION:Championship
+LOCATION:Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260508-oldham-doncaster-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:OLDHAM | Championship | J12 | 🏟️ | Doncaster 🇬🇧
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260508-oldham-doncaster@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260508T183000Z
+DTEND:20260508T201500Z
+SUMMARY:Oldham - Doncaster
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260522-oldham-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:OLDHAM | Championship | J13 | 🏟️ | Midlands Hurricanes 🇬
+ 🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260522-oldham-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260522T184500Z
+DTEND:20260522T203000Z
+SUMMARY:Oldham - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-workington-town-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:OLDHAM | Championship | J14 | ✈️ | Workington Town 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-workington-town-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260614T140000Z
+DTEND:20260614T154500Z
+SUMMARY:Workington Town - Oldham
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-oldham-batley-bulldogs-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:OLDHAM | Championship | J15 | 🏟️ | Batley Bulldogs 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Crown Fla
+ tt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-oldham-batley-bulldogs@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260621T140000Z
+DTEND:20260621T154500Z
+SUMMARY:Oldham - Batley Bulldogs
+DESCRIPTION:Championship
+LOCATION:Crown Flatt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260626-widnes-vikings-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:OLDHAM | Championship | J15 | ✈️ | Widnes Vikings 🇬🇧
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Championship\nEstadi: Halton St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260626-widnes-vikings-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260626T183000Z
+DTEND:20260626T201500Z
+SUMMARY:Widnes Vikings - Oldham
+DESCRIPTION:Championship
+LOCATION:Halton Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260703-batley-bulldogs-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:OLDHAM | Championship | J18 | ✈️ | Batley Bulldogs 🇬🇧
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Championship\nEstadi: Mount Ple
+ asant
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260703-batley-bulldogs-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260703T183000Z
+DTEND:20260703T201500Z
+SUMMARY:Batley Bulldogs - Oldham
+DESCRIPTION:Championship
+LOCATION:Mount Pleasant
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-oldham-halifax-panthers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:OLDHAM | Championship | J17 | 🏟️ | Halifax Panthers 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-oldham-halifax-panthers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260712T140000Z
+DTEND:20260712T154500Z
+SUMMARY:Oldham - Halifax Panthers
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-hunslet-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:OLDHAM | Championship | J18 | ✈️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-hunslet-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T140000Z
+DTEND:20260719T154500Z
+SUMMARY:Hunslet - Oldham
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-oldham-barrow-raiders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:OLDHAM | Championship | J19 | 🏟️ | Barrow Raiders 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-oldham-barrow-raiders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260726T140000Z
+DTEND:20260726T154500Z
+SUMMARY:Oldham - Barrow Raiders
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-doncaster-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:OLDHAM | Championship | J20 | ✈️ | Doncaster 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Club Donc
+ aster Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-doncaster-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T140000Z
+DTEND:20260802T154500Z
+SUMMARY:Doncaster - Oldham
+DESCRIPTION:Championship
+LOCATION:Club Doncaster Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-oldham-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:OLDHAM | Championship | J21 | 🏟️ | Sheffield Eagles 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-oldham-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260809T140000Z
+DTEND:20260809T154500Z
+SUMMARY:Oldham - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-oldham-london-broncos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:OLDHAM | Championship | J22 | 🏟️ | London Broncos 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-oldham-london-broncos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260816T140000Z
+DTEND:20260816T154500Z
+SUMMARY:Oldham - London Broncos
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-oldham-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:OLDHAM | Championship | J23 | 🏟️ | Salford 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-oldham-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T140000Z
+DTEND:20260823T154500Z
+SUMMARY:Oldham - Salford
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-rochdale-hornets-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:OLDHAM | Championship | J24 | ✈️ | Rochdale Hornets 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Spotland 
+ Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-rochdale-hornets-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260830T140000Z
+DTEND:20260830T154500Z
+SUMMARY:Rochdale Hornets - Oldham
+DESCRIPTION:Championship
+LOCATION:Spotland Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260906-oldham-widnes-vikings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:OLDHAM | Championship | J25 | 🏟️ | Widnes Vikings 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260906-oldham-widnes-vikings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260906T140000Z
+DTEND:20260906T154500Z
+SUMMARY:Oldham - Widnes Vikings
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260913-oldham-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:OLDHAM | Championship | J26 | 🏟️ | Midlands Hurricanes 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260913-oldham-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260913T140000Z
+DTEND:20260913T154500Z
+SUMMARY:Oldham - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260920-widnes-vikings-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:OLDHAM | Championship | J27 | ✈️ | Widnes Vikings 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: DCBL Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260920-widnes-vikings-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260920T140000Z
+DTEND:20260920T154500Z
+SUMMARY:Widnes Vikings - Oldham
+DESCRIPTION:Championship
+LOCATION:DCBL Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260927-london-broncos-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:OLDHAM | Championship | J25 | ✈️ | London Broncos 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Plough La
+ ne
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260927-london-broncos-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260927T140000Z
+DTEND:20260927T154500Z
+SUMMARY:London Broncos - Oldham
+DESCRIPTION:Championship
+LOCATION:Plough Lane
+END:VEVENT
+END:VCALENDAR

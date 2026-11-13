@@ -1,0 +1,261 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Delhi Capitals · IPL
+BEGIN:VEVENT
+UID:ipl-20260401-lucknow-super-giants-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:DELHI CAPITALS | IPL | ✈️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Bharat Ratna Shri 
+ Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\, Lucknow
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260401-lucknow-super-giants-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260401T140000Z
+DTEND:20260401T154500Z
+SUMMARY:Lucknow Super Giants - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Luc
+ know\, Lucknow
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260404-delhi-capitals-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:DELHI CAPITALS | IPL | 🏟️ | Mumbai Indians
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260404-delhi-capitals-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260404T100000Z
+DTEND:20260404T114500Z
+SUMMARY:Delhi Capitals - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260408-delhi-capitals-gujarat-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:DELHI CAPITALS | IPL | 🏟️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260408-delhi-capitals-gujarat-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260408T140000Z
+DTEND:20260408T154500Z
+SUMMARY:Delhi Capitals - Gujarat Titans
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260411-chennai-super-kings-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:DELHI CAPITALS | IPL | ✈️ | Chennai Super Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: MA Chidambaram Sta
+ dium\, Chepauk\, Chennai\, Chennai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260411-chennai-super-kings-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260411T140000Z
+DTEND:20260411T154500Z
+SUMMARY:Chennai Super Kings - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:MA Chidambaram Stadium\, Chepauk\, Chennai\, Chennai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260418-royal-challengers-bengaluru-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:DELHI CAPITALS | IPL | ✈️ | Royal Challengers Bengaluru
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: M.Chinnaswamy Stad
+ ium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260418-royal-challengers-bengaluru-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260418T100000Z
+DTEND:20260418T114500Z
+SUMMARY:Royal Challengers Bengaluru - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:M.Chinnaswamy Stadium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260421-sunrisers-hyderabad-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:DELHI CAPITALS | IPL | ✈️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Rajiv Gandhi Inter
+ national Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260421-sunrisers-hyderabad-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260421T140000Z
+DTEND:20260421T154500Z
+SUMMARY:Sunrisers Hyderabad - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:Rajiv Gandhi International Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260425-delhi-capitals-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:DELHI CAPITALS | IPL | 🏟️ | Punjab Kings
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260425-delhi-capitals-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260425T100000Z
+DTEND:20260425T114500Z
+SUMMARY:Delhi Capitals - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260427-delhi-capitals-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:DELHI CAPITALS | IPL | 🏟️ | Royal Challengers Bengaluru
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260427-delhi-capitals-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260427T140000Z
+DTEND:20260427T154500Z
+SUMMARY:Delhi Capitals - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260501-rajasthan-royals-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:DELHI CAPITALS | IPL | ✈️ | Rajasthan Royals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Sawai Mansingh Sta
+ dium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260501-rajasthan-royals-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260501T140000Z
+DTEND:20260501T154500Z
+SUMMARY:Rajasthan Royals - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:Sawai Mansingh Stadium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260505-delhi-capitals-chennai-super-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:DELHI CAPITALS | IPL | 🏟️ | Chennai Super Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260505-delhi-capitals-chennai-super-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260505T140000Z
+DTEND:20260505T154500Z
+SUMMARY:Delhi Capitals - Chennai Super Kings
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260508-delhi-capitals-kolkata-knight-riders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:DELHI CAPITALS | IPL | 🏟️ | Kolkata Knight Riders
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260508-delhi-capitals-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260508T140000Z
+DTEND:20260508T154500Z
+SUMMARY:Delhi Capitals - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260511-punjab-kings-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:DELHI CAPITALS | IPL | ✈️ | Punjab Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Himachal Pradesh C
+ ricket Association Stadium\, Dharamsala\, Dharamsala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260511-punjab-kings-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260511T140000Z
+DTEND:20260511T154500Z
+SUMMARY:Punjab Kings - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala\, Dharam
+ sala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260517-delhi-capitals-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:DELHI CAPITALS | IPL | 🏟️ | Rajasthan Royals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260517-delhi-capitals-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260517T140000Z
+DTEND:20260517T154500Z
+SUMMARY:Delhi Capitals - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260524-kolkata-knight-riders-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:DELHI CAPITALS | IPL | ✈️ | Kolkata Knight Riders
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260524-kolkata-knight-riders-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Kolkata Knight Riders - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+END:VCALENDAR

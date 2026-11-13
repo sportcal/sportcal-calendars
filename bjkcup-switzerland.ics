@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Switzerland · Billie Jean King Cup
+BEGIN:VEVENT
+UID:bjkcup-2026-tha-sui@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:SWITZERLAND | BJK Cup | Play-offs | ✈️ | Thailand
+DESCRIPTION:Billie Jean King Cup · Play-offs · National Tennis Developmen
+ t Center\, Nonthaburi
+END:VEVENT
+END:VCALENDAR

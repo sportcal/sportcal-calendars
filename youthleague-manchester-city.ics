@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manchester City · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-manchester-city-napoli-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:MANCHESTER CITY | Youth League | Matchday 5 | 🏟️ | Napoli 🇮
+ 🇹
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · UEFA Youth League\nEstadi: MCFC
+  Academy Stadium\, Manchester
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-manchester-city-napoli@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T150000Z
+DTEND:20261124T164500Z
+SUMMARY:Manchester City - Napoli
+DESCRIPTION:UEFA Youth League
+LOCATION:MCFC Academy Stadium\, Manchester
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-barcelona-manchester-city-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:MANCHESTER CITY | Youth League | Matchday 6 | ✈️ | Barcelona
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Joha
+ n Cruyff Stadium\, Sant Joan Despí
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-barcelona-manchester-city@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T150000Z
+DTEND:20261208T164500Z
+SUMMARY:Barcelona - Manchester City
+DESCRIPTION:UEFA Youth League
+LOCATION:Johan Cruyff Stadium\, Sant Joan Despí
+END:VEVENT
+END:VCALENDAR

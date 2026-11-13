@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Punjab Kings · IPL
+BEGIN:VEVENT
+UID:ipl-20260331-punjab-kings-gujarat-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:PUNJAB KINGS | IPL | 🏟️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Maharaja Yadavindr
+ a Singh International Cricket Stadium\, New Chandigarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260331-punjab-kings-gujarat-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260331T140000Z
+DTEND:20260331T154500Z
+SUMMARY:Punjab Kings - Gujarat Titans
+DESCRIPTION:IPL
+LOCATION:Maharaja Yadavindra Singh International Cricket Stadium\, New Chan
+ digarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260403-chennai-super-kings-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:PUNJAB KINGS | IPL | ✈️ | Chennai Super Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: MA Chidambaram Sta
+ dium\, Chepauk\, Chennai\, Chennai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260403-chennai-super-kings-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260403T140000Z
+DTEND:20260403T154500Z
+SUMMARY:Chennai Super Kings - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:MA Chidambaram Stadium\, Chepauk\, Chennai\, Chennai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260406-kolkata-knight-riders-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:PUNJAB KINGS | IPL | ✈️ | Kolkata Knight Riders
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260406-kolkata-knight-riders-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260406T140000Z
+DTEND:20260406T154500Z
+SUMMARY:Kolkata Knight Riders - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260411-punjab-kings-sunrisers-hyderabad-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:PUNJAB KINGS | IPL | 🏟️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Maharaja Yadavindr
+ a Singh International Cricket Stadium\, New Chandigarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260411-punjab-kings-sunrisers-hyderabad@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260411T100000Z
+DTEND:20260411T114500Z
+SUMMARY:Punjab Kings - Sunrisers Hyderabad
+DESCRIPTION:IPL
+LOCATION:Maharaja Yadavindra Singh International Cricket Stadium\, New Chan
+ digarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260416-mumbai-indians-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:PUNJAB KINGS | IPL | ✈️ | Mumbai Indians
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260416-mumbai-indians-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260416T140000Z
+DTEND:20260416T154500Z
+SUMMARY:Mumbai Indians - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260419-punjab-kings-lucknow-super-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:PUNJAB KINGS | IPL | 🏟️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Maharaja Yadavindr
+ a Singh International Cricket Stadium\, New Chandigarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260419-punjab-kings-lucknow-super-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260419T140000Z
+DTEND:20260419T154500Z
+SUMMARY:Punjab Kings - Lucknow Super Giants
+DESCRIPTION:IPL
+LOCATION:Maharaja Yadavindra Singh International Cricket Stadium\, New Chan
+ digarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260425-delhi-capitals-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:PUNJAB KINGS | IPL | ✈️ | Delhi Capitals
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260425-delhi-capitals-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260425T100000Z
+DTEND:20260425T114500Z
+SUMMARY:Delhi Capitals - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260428-punjab-kings-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:PUNJAB KINGS | IPL | 🏟️ | Rajasthan Royals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Maharaja Yadavindr
+ a Singh International Cricket Stadium\, New Chandigarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260428-punjab-kings-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260428T140000Z
+DTEND:20260428T154500Z
+SUMMARY:Punjab Kings - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Maharaja Yadavindra Singh International Cricket Stadium\, New Chan
+ digarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260503-gujarat-titans-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:PUNJAB KINGS | IPL | ✈️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Narendra Modi Stad
+ ium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260503-gujarat-titans-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T140000Z
+DTEND:20260503T154500Z
+SUMMARY:Gujarat Titans - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:Narendra Modi Stadium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260506-sunrisers-hyderabad-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:PUNJAB KINGS | IPL | ✈️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Rajiv Gandhi Inter
+ national Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260506-sunrisers-hyderabad-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260506T140000Z
+DTEND:20260506T154500Z
+SUMMARY:Sunrisers Hyderabad - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:Rajiv Gandhi International Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260511-punjab-kings-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:PUNJAB KINGS | IPL | 🏟️ | Delhi Capitals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Himachal Pradesh C
+ ricket Association Stadium\, Dharamsala\, Dharamsala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260511-punjab-kings-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260511T140000Z
+DTEND:20260511T154500Z
+SUMMARY:Punjab Kings - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala\, Dharam
+ sala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260514-punjab-kings-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:PUNJAB KINGS | IPL | 🏟️ | Mumbai Indians
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Himachal Pradesh C
+ ricket Association Stadium\, Dharamsala\, Dharamsala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260514-punjab-kings-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260514T140000Z
+DTEND:20260514T154500Z
+SUMMARY:Punjab Kings - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala\, Dharam
+ sala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260517-punjab-kings-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:PUNJAB KINGS | IPL | 🏟️ | Royal Challengers Bengaluru
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Himachal Pradesh C
+ ricket Association Stadium\, Dharamsala\, Dharamsala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260517-punjab-kings-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260517T100000Z
+DTEND:20260517T114500Z
+SUMMARY:Punjab Kings - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala\, Dharam
+ sala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260523-lucknow-super-giants-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:PUNJAB KINGS | IPL | ✈️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Bharat Ratna Shri 
+ Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\, Lucknow
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260523-lucknow-super-giants-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260523T140000Z
+DTEND:20260523T154500Z
+SUMMARY:Lucknow Super Giants - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Luc
+ know\, Lucknow
+END:VEVENT
+END:VCALENDAR

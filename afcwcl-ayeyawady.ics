@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ayeyawady · AFC WCL
+BEGIN:VEVENT
+UID:afcwcl-20261101-naegohyang-ayeyawady-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:AYEYAWADY | AFC WCL | Group A | ✈️ | Naegohyang 🇰🇵
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Thuwunna Stadium\, Yangon
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261101-naegohyang-ayeyawady@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261101T123000Z
+DTEND:20261101T141500Z
+SUMMARY:Naegohyang - Ayeyawady
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Thuwunna Stadium\, Yangon
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261104-ayeyawady-kobe-leonessa-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:AYEYAWADY | AFC WCL | Group A | 🏟️ | Kobe Leonessa 🇯🇵
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Thuwunna Stadium\, Yangon
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261104-ayeyawady-kobe-leonessa@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261104T123000Z
+DTEND:20261104T141500Z
+SUMMARY:Ayeyawady - Kobe Leonessa
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Thuwunna Stadium\, Yangon
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261107-bam-khatoon-ayeyawady-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:AYEYAWADY | AFC WCL | Group A | ✈️ | Bam Khatoon 🇮🇷
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Thuwunna Stadium\, Yangon
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261107-bam-khatoon-ayeyawady@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261107T123000Z
+DTEND:20261107T141500Z
+SUMMARY:Bam Khatoon - Ayeyawady
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Thuwunna Stadium\, Yangon
+END:VEVENT
+END:VCALENDAR

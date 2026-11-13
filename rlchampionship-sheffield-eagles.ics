@@ -1,0 +1,473 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sheffield Eagles · Championship
+BEGIN:VEVENT
+UID:rlchampionship-20260118-whitehaven-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:SHEFFIELD EAGLES | Championship | J1 | ✈️ | Whitehaven 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260118-whitehaven-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260118T150000Z
+DTEND:20260118T164500Z
+SUMMARY:Whitehaven - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260221-sheffield-eagles-barrow-raiders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:SHEFFIELD EAGLES | Championship | J4 | 🏟️ | Barrow Raiders 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Steel Cit
+ y Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260221-sheffield-eagles-barrow-raiders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260221T150000Z
+DTEND:20260221T164500Z
+SUMMARY:Sheffield Eagles - Barrow Raiders
+DESCRIPTION:Championship
+LOCATION:Steel City Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-hunslet-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:SHEFFIELD EAGLES | Championship | J4 | ✈️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-hunslet-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T150000Z
+DTEND:20260301T164500Z
+SUMMARY:Hunslet - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-rochdale-hornets-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:SHEFFIELD EAGLES | Championship | J5 | ✈️ | Rochdale Hornets 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Spotland 
+ Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-rochdale-hornets-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T150000Z
+DTEND:20260308T164500Z
+SUMMARY:Rochdale Hornets - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Spotland Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260321-sheffield-eagles-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:SHEFFIELD EAGLES | Championship | J5 | 🏟️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Steel Cit
+ y Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260321-sheffield-eagles-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260321T150000Z
+DTEND:20260321T164500Z
+SUMMARY:Sheffield Eagles - Oldham
+DESCRIPTION:Championship
+LOCATION:Steel City Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-dewsbury-rams-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:SHEFFIELD EAGLES | Championship | J7 | ✈️ | Dewsbury Rams 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Crown Fla
+ tt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-dewsbury-rams-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T140000Z
+DTEND:20260329T154500Z
+SUMMARY:Dewsbury Rams - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Crown Flatt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260403-sheffield-eagles-doncaster-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:SHEFFIELD EAGLES | Championship | J8 | 🏟️ | Doncaster 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Steel Cit
+ y Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260403-sheffield-eagles-doncaster@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260403T140000Z
+DTEND:20260403T154500Z
+SUMMARY:Sheffield Eagles - Doncaster
+DESCRIPTION:Championship
+LOCATION:Steel City Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260411-london-broncos-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:SHEFFIELD EAGLES | Championship | J8 | ✈️ | London Broncos 🇬
+ 🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Championship\nEstadi: Plough La
+ ne
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260411-london-broncos-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260411T170000Z
+DTEND:20260411T184500Z
+SUMMARY:London Broncos - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Plough Lane
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-sheffield-eagles-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:SHEFFIELD EAGLES | Championship | J9 | 🏟️ | Salford 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Steel Cit
+ y Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-sheffield-eagles-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260426T140000Z
+DTEND:20260426T154500Z
+SUMMARY:Sheffield Eagles - Salford
+DESCRIPTION:Championship
+LOCATION:Steel City Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-widnes-vikings-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:SHEFFIELD EAGLES | Championship | J11 | ✈️ | Widnes Vikings 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Halton St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-widnes-vikings-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T140000Z
+DTEND:20260503T154500Z
+SUMMARY:Widnes Vikings - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Halton Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-workington-town-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:SHEFFIELD EAGLES | Championship | J12 | ✈️ | Workington Town 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-workington-town-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T140000Z
+DTEND:20260510T154500Z
+SUMMARY:Workington Town - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260515-halifax-panthers-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:SHEFFIELD EAGLES | Championship | J13 | ✈️ | Halifax Panthers 
+ 🇬🇧
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Championship\nEstadi: The Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260515-halifax-panthers-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260515T183000Z
+DTEND:20260515T201500Z
+SUMMARY:Halifax Panthers - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:The Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-sheffield-eagles-london-broncos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:SHEFFIELD EAGLES | Championship | J13 | 🏟️ | London Broncos 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-sheffield-eagles-london-broncos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Sheffield Eagles - London Broncos
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260613-barrow-raiders-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:SHEFFIELD EAGLES | Championship | J15 | ✈️ | Barrow Raiders 
+ 🇬🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Championship\nEstadi: Craven Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260613-barrow-raiders-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260613T170000Z
+DTEND:20260613T184500Z
+SUMMARY:Barrow Raiders - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-sheffield-eagles-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:SHEFFIELD EAGLES | Championship | J15 | 🏟️ | Whitehaven 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-sheffield-eagles-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260621T140000Z
+DTEND:20260621T154500Z
+SUMMARY:Sheffield Eagles - Whitehaven
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-sheffield-eagles-dewsbury-rams-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:SHEFFIELD EAGLES | Championship | J16 | 🏟️ | Dewsbury Rams 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-sheffield-eagles-dewsbury-rams@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260628T140000Z
+DTEND:20260628T154500Z
+SUMMARY:Sheffield Eagles - Dewsbury Rams
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-salford-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:SHEFFIELD EAGLES | Championship | J17 | ✈️ | Salford 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-salford-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260712T140000Z
+DTEND:20260712T154500Z
+SUMMARY:Salford - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-sheffield-eagles-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:SHEFFIELD EAGLES | Championship | J18 | 🏟️ | Workington Town 
+ 🇬🇧
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-sheffield-eagles-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T123000Z
+DTEND:20260719T141500Z
+SUMMARY:Sheffield Eagles - Workington Town
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-sheffield-eagles-rochdale-hornets-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:SHEFFIELD EAGLES | Championship | J19 | 🏟️ | Rochdale Hornets 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-sheffield-eagles-rochdale-hornets@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260726T140000Z
+DTEND:20260726T154500Z
+SUMMARY:Sheffield Eagles - Rochdale Hornets
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-sheffield-eagles-halifax-panthers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:SHEFFIELD EAGLES | Championship | J20 | 🏟️ | Halifax Panthers 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-sheffield-eagles-halifax-panthers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T140000Z
+DTEND:20260802T154500Z
+SUMMARY:Sheffield Eagles - Halifax Panthers
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-oldham-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:SHEFFIELD EAGLES | Championship | J21 | ✈️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-oldham-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260809T140000Z
+DTEND:20260809T154500Z
+SUMMARY:Oldham - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-sheffield-eagles-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:SHEFFIELD EAGLES | Championship | J22 | 🏟️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-sheffield-eagles-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260816T140000Z
+DTEND:20260816T154500Z
+SUMMARY:Sheffield Eagles - Hunslet
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-doncaster-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:SHEFFIELD EAGLES | Championship | J23 | ✈️ | Doncaster 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Club Donc
+ aster Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-doncaster-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T140000Z
+DTEND:20260823T154500Z
+SUMMARY:Doncaster - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Club Doncaster Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260827-sheffield-eagles-widnes-vikings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:SHEFFIELD EAGLES | Championship | J24 | 🏟️ | Widnes Vikings 
+ 🇬🇧
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260827-sheffield-eagles-widnes-vikings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260827T183000Z
+DTEND:20260827T201500Z
+SUMMARY:Sheffield Eagles - Widnes Vikings
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260906-sheffield-eagles-batley-bulldogs-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:SHEFFIELD EAGLES | Championship | J25 | 🏟️ | Batley Bulldogs 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260906-sheffield-eagles-batley-bulldogs@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260906T140000Z
+DTEND:20260906T154500Z
+SUMMARY:Sheffield Eagles - Batley Bulldogs
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260913-barrow-raiders-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:SHEFFIELD EAGLES | Championship | J26 | ✈️ | Barrow Raiders 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Craven Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260913-barrow-raiders-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260913T140000Z
+DTEND:20260913T154500Z
+SUMMARY:Barrow Raiders - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Craven Park
+END:VEVENT
+END:VCALENDAR

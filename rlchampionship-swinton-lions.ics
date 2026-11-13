@@ -1,0 +1,454 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swinton Lions · Championship
+BEGIN:VEVENT
+UID:rlchampionship-20260118-swinton-lions-rochdale-hornets-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:SWINTON LIONS | Championship | J1 | 🏟️ | Rochdale Hornets 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260118-swinton-lions-rochdale-hornets@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260118T150000Z
+DTEND:20260118T164500Z
+SUMMARY:Swinton Lions - Rochdale Hornets
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-swinton-lions-goole-vikings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:SWINTON LIONS | Championship | J2 | 🏟️ | Goole Vikings 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-swinton-lions-goole-vikings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260201T150000Z
+DTEND:20260201T164500Z
+SUMMARY:Swinton Lions - Goole Vikings
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260214-north-wales-crusaders-swinton-lions-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:SWINTON LIONS | Championship | J3 | ✈️ | North Wales Crusaders 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Eirias St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260214-north-wales-crusaders-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260214T150000Z
+DTEND:20260214T164500Z
+SUMMARY:North Wales Crusaders - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Eirias Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260222-swinton-lions-london-broncos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:SWINTON LIONS | Championship | J4 | 🏟️ | London Broncos 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260222-swinton-lions-london-broncos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260222T150000Z
+DTEND:20260222T164500Z
+SUMMARY:Swinton Lions - London Broncos
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-batley-bulldogs-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:SWINTON LIONS | Championship | J4 | ✈️ | Batley Bulldogs 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Fox's Bis
+ cuits Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-batley-bulldogs-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T150000Z
+DTEND:20260301T164500Z
+SUMMARY:Batley Bulldogs - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Fox's Biscuits Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-swinton-lions-newcastle-thunder-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:SWINTON LIONS | Championship | J5 | 🏟️ | Newcastle Thunder 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-swinton-lions-newcastle-thunder@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T150000Z
+DTEND:20260308T164500Z
+SUMMARY:Swinton Lions - Newcastle Thunder
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-doncaster-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:SWINTON LIONS | Championship | J7 | ✈️ | Doncaster 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Eco-Power
+  Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-doncaster-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T140000Z
+DTEND:20260329T154500Z
+SUMMARY:Doncaster - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Eco-Power Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260405-swinton-lions-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:SWINTON LIONS | Championship | J8 | 🏟️ | Salford 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260405-swinton-lions-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260405T130000Z
+DTEND:20260405T144500Z
+SUMMARY:Swinton Lions - Salford
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-swinton-lions-keighley-cougars-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:SWINTON LIONS | Championship | J9 | 🏟️ | Keighley Cougars 🇬
+ 🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-swinton-lions-keighley-cougars@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260426T130000Z
+DTEND:20260426T144500Z
+SUMMARY:Swinton Lions - Keighley Cougars
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-swinton-lions-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:SWINTON LIONS | Championship | J11 | 🏟️ | Midlands Hurricanes 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-swinton-lions-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T140000Z
+DTEND:20260503T154500Z
+SUMMARY:Swinton Lions - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-swinton-lions-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:SWINTON LIONS | Championship | J12 | 🏟️ | Whitehaven 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-swinton-lions-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T140000Z
+DTEND:20260510T154500Z
+SUMMARY:Swinton Lions - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-rochdale-hornets-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:SWINTON LIONS | Championship | J13 | ✈️ | Rochdale Hornets 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Spotland 
+ Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-rochdale-hornets-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Rochdale Hornets - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Spotland Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260607-swinton-lions-halifax-panthers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:SWINTON LIONS | Championship | J13 | 🏟️ | Halifax Panthers 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Edge Hall
+  Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260607-swinton-lions-halifax-panthers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260607T140000Z
+DTEND:20260607T154500Z
+SUMMARY:Swinton Lions - Halifax Panthers
+DESCRIPTION:Championship
+LOCATION:Edge Hall Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260620-midlands-hurricanes-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:SWINTON LIONS | Championship | J15 | ✈️ | Midlands Hurricanes 
+ 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260620-midlands-hurricanes-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260620T120000Z
+DTEND:20260620T134500Z
+SUMMARY:Midlands Hurricanes - Swinton Lions
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-keighley-cougars-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:SWINTON LIONS | Championship | J17 | ✈️ | Keighley Cougars 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Cougar Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-keighley-cougars-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260628T140000Z
+DTEND:20260628T154500Z
+SUMMARY:Keighley Cougars - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Cougar Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260705-halifax-panthers-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:SWINTON LIONS | Championship | J18 | ✈️ | Halifax Panthers 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: The Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260705-halifax-panthers-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260705T140000Z
+DTEND:20260705T154500Z
+SUMMARY:Halifax Panthers - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:The Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-whitehaven-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:SWINTON LIONS | Championship | J17 | ✈️ | Whitehaven 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-whitehaven-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260712T140000Z
+DTEND:20260712T154500Z
+SUMMARY:Whitehaven - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-swinton-lions-doncaster-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:SWINTON LIONS | Championship | J18 | 🏟️ | Doncaster 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-swinton-lions-doncaster@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T140000Z
+DTEND:20260719T154500Z
+SUMMARY:Swinton Lions - Doncaster
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260725-newcastle-thunder-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:SWINTON LIONS | Championship | J19 | ✈️ | Newcastle Thunder 
+ 🇬🇧
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260725-newcastle-thunder-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260725T150000Z
+DTEND:20260725T164500Z
+SUMMARY:Newcastle Thunder - Swinton Lions
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-swinton-lions-batley-bulldogs-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:SWINTON LIONS | Championship | J20 | 🏟️ | Batley Bulldogs 🇬
+ 🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-swinton-lions-batley-bulldogs@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T130000Z
+DTEND:20260802T144500Z
+SUMMARY:Swinton Lions - Batley Bulldogs
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260808-salford-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:SWINTON LIONS | Championship | J21 | ✈️ | Salford 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship\nEstadi: Brick Com
+ munity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260808-salford-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260808T130000Z
+DTEND:20260808T144500Z
+SUMMARY:Salford - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Brick Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-swinton-lions-north-wales-crusaders-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:SWINTON LIONS | Championship | J22 | 🏟️ | North Wales Crusader
+ s 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-swinton-lions-north-wales-crusaders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260816T120000Z
+DTEND:20260816T134500Z
+SUMMARY:Swinton Lions - North Wales Crusaders
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260822-goole-vikings-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:SWINTON LIONS | Championship | J23 | ✈️ | Goole Vikings 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Victoria 
+ Pleasure Grounds
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260822-goole-vikings-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260822T140000Z
+DTEND:20260822T154500Z
+SUMMARY:Goole Vikings - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Victoria Pleasure Grounds
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260905-london-broncos-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:SWINTON LIONS | Championship | J24 | ✈️ | London Broncos 🇬
+ 🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship\nEstadi: Richmond 
+ Athletic Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260905-london-broncos-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260905T130000Z
+DTEND:20260905T144500Z
+SUMMARY:London Broncos - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Richmond Athletic Ground
+END:VEVENT
+END:VCALENDAR

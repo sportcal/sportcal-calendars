@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Iceland · World Championship
+BEGIN:VEVENT
+UID:ihfwc-20270115-iceland-bahrain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:ICELAND | World Championship | Preliminary Group H | 🏟️ | Bahr
+ ain
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · IHF World Championship\nEstadi:
+  GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270115-iceland-bahrain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270115T193000Z
+DTEND:20270115T211500Z
+SUMMARY:Iceland - Bahrain
+DESCRIPTION:IHF World Championship
+LOCATION:GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270117-japan-iceland-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:ICELAND | World Championship | Preliminary Group H | ✈️ | Japan
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · IHF World Championship\nEstadi:
+  GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270117-japan-iceland@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270117T193000Z
+DTEND:20270117T211500Z
+SUMMARY:Japan - Iceland
+DESCRIPTION:IHF World Championship
+LOCATION:GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270119-iceland-north-macedonia-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:ICELAND | World Championship | Preliminary Group H | 🏟️ | Nort
+ h Macedonia
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · IHF World Championship\nEstadi:
+  GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270119-iceland-north-macedonia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270119T193000Z
+DTEND:20270119T211500Z
+SUMMARY:Iceland - North Macedonia
+DESCRIPTION:IHF World Championship
+LOCATION:GETEC Arena\, Magdeburg
+END:VEVENT
+END:VCALENDAR

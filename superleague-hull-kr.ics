@@ -1,0 +1,505 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hull KR · Super League
+BEGIN:VEVENT
+UID:superleague-20260212-york-knights-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:HULL KR | Super League | J1 | ✈️ | York Knights 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: York Comm
+ unity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260212-york-knights-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260212T200000Z
+DTEND:20260212T214500Z
+SUMMARY:York Knights - Hull KR
+DESCRIPTION:Super League
+LOCATION:York Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260301-hull-kr-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:HULL KR | Super League | J3 | 🏟️ | Leeds Rhinos 🇬🇧
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Super League\nEstadi: Allegiant
+  Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260301-hull-kr-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T000000Z
+DTEND:20260301T014500Z
+SUMMARY:Hull KR - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Allegiant Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260308-huddersfield-giants-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:HULL KR | Super League | J4 | ✈️ | Huddersfield Giants 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260308-huddersfield-giants-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T150000Z
+DTEND:20260308T164500Z
+SUMMARY:Huddersfield Giants - Hull KR
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260321-catalans-dragons-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:HULL KR | Super League | J6 | ✈️ | Catalans Dragons 🇫🇷
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Stade Gil
+ bert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260321-catalans-dragons-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260321T173000Z
+DTEND:20260321T191500Z
+SUMMARY:Catalans Dragons - Hull KR
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260327-hull-kr-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:HULL KR | Super League | J6 | 🏟️ | St Helens 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260327-hull-kr-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260327T200000Z
+DTEND:20260327T214500Z
+SUMMARY:Hull KR - St Helens
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260403-hull-kr-hull-f-c-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:HULL KR | Super League | J7 | 🏟️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260403-hull-kr-hull-f-c@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260403T113000Z
+DTEND:20260403T131500Z
+SUMMARY:Hull KR - Hull F.C.
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260417-toulouse-olympique-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:HULL KR | Super League | J8 | ✈️ | Toulouse Olympique 🇫🇷
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260417-toulouse-olympique-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260417T173000Z
+DTEND:20260417T191500Z
+SUMMARY:Toulouse Olympique - Hull KR
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260425-bradford-bulls-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:HULL KR | Super League | J9 | ✈️ | Bradford Bulls 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260425-bradford-bulls-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260425T140000Z
+DTEND:20260425T154500Z
+SUMMARY:Bradford Bulls - Hull KR
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260430-hull-kr-castleford-tigers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:HULL KR | Super League | J10 | 🏟️ | Castleford Tigers 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260430-hull-kr-castleford-tigers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260430T190000Z
+DTEND:20260430T204500Z
+SUMMARY:Hull KR - Castleford Tigers
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260516-leigh-leopards-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:HULL KR | Super League | J11 | ✈️ | Leigh Leopards 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260516-leigh-leopards-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260516T163000Z
+DTEND:20260516T181500Z
+SUMMARY:Leigh Leopards - Hull KR
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260521-hull-kr-wigan-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:HULL KR | Super League | J12 | 🏟️ | Wigan Warriors 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260521-hull-kr-wigan-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260521T190000Z
+DTEND:20260521T204500Z
+SUMMARY:Hull KR - Wigan Warriors
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260606-wakefield-trinity-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:HULL KR | Super League | J13 | ✈️ | Wakefield Trinity 🇬🇧
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Super League\nEstadi: DIY Kitch
+ ens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260606-wakefield-trinity-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260606T153000Z
+DTEND:20260606T171500Z
+SUMMARY:Wakefield Trinity - Hull KR
+DESCRIPTION:Super League
+LOCATION:DIY Kitchens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260612-hull-kr-york-knights-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:HULL KR | Super League | J14 | 🏟️ | York Knights 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260612-hull-kr-york-knights@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260612T190000Z
+DTEND:20260612T204500Z
+SUMMARY:Hull KR - York Knights
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260619-hull-kr-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:HULL KR | Super League | J15 | 🏟️ | Leigh Leopards 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Chris Ken
+ dall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260619-hull-kr-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260619T190000Z
+DTEND:20260619T204500Z
+SUMMARY:Hull KR - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Chris Kendall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260626-leeds-rhinos-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:HULL KR | Super League | J16 | ✈️ | Leeds Rhinos 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260626-leeds-rhinos-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260626T190000Z
+DTEND:20260626T204500Z
+SUMMARY:Leeds Rhinos - Hull KR
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260704-hull-kr-hull-f-c-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:HULL KR | Super League | J17 | 🏟️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260704-hull-kr-hull-f-c@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260704T140000Z
+DTEND:20260704T154500Z
+SUMMARY:Hull KR - Hull F.C.
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260711-hull-kr-wakefield-trinity-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:HULL KR | Super League | J18 | 🏟️ | Wakefield Trinity 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260711-hull-kr-wakefield-trinity@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260711T163000Z
+DTEND:20260711T181500Z
+SUMMARY:Hull KR - Wakefield Trinity
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260718-warrington-wolves-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:HULL KR | Super League | J18 | ✈️ | Warrington Wolves 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260718-warrington-wolves-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260718T140000Z
+DTEND:20260718T154500Z
+SUMMARY:Warrington Wolves - Hull KR
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260723-hull-f-c-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:HULL KR | Super League | J20 | ✈️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: MKM Stadi
+ um
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260723-hull-f-c-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260723T190000Z
+DTEND:20260723T204500Z
+SUMMARY:Hull F.C. - Hull KR
+DESCRIPTION:Super League
+LOCATION:MKM Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-hull-kr-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:HULL KR | Super League | J21 | 🏟️ | Bradford Bulls 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-hull-kr-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260731T190000Z
+DTEND:20260731T204500Z
+SUMMARY:Hull KR - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260807-castleford-tigers-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:HULL KR | Super League | J22 | ✈️ | Castleford Tigers 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: OneBore S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260807-castleford-tigers-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260807T190000Z
+DTEND:20260807T204500Z
+SUMMARY:Castleford Tigers - Hull KR
+DESCRIPTION:Super League
+LOCATION:OneBore Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260813-hull-kr-catalans-dragons-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:HULL KR | Super League | J23 | 🏟️ | Catalans Dragons 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260813-hull-kr-catalans-dragons@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260813T190000Z
+DTEND:20260813T204500Z
+SUMMARY:Hull KR - Catalans Dragons
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260818-hull-kr-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:HULL KR | Super League | J23 | 🏟️ | Warrington Wolves 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260818-hull-kr-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260818T190000Z
+DTEND:20260818T204500Z
+SUMMARY:Hull KR - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260822-hull-kr-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:HULL KR | Super League | J24 | 🏟️ | Toulouse Olympique 🇫
+ 🇷
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260822-hull-kr-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260822T163000Z
+DTEND:20260822T181500Z
+SUMMARY:Hull KR - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260827-wigan-warriors-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:HULL KR | Super League | J25 | ✈️ | Wigan Warriors 🇬🇧
+DESCRIPTION:Inici: 21:02 (Europe/Madrid) · Super League\nEstadi: Brick Com
+ munity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260827-wigan-warriors-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260827T190200Z
+DTEND:20260827T204700Z
+SUMMARY:Wigan Warriors - Hull KR
+DESCRIPTION:Super League
+LOCATION:Brick Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260904-hull-kr-huddersfield-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:HULL KR | Super League | J26 | 🏟️ | Huddersfield Giants 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260904-hull-kr-huddersfield-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260904T190000Z
+DTEND:20260904T204500Z
+SUMMARY:Hull KR - Huddersfield Giants
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-st-helens-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:HULL KR | Super League | J27 | ✈️ | St Helens 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-st-helens-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260911T190000Z
+DTEND:20260911T204500Z
+SUMMARY:St Helens - Hull KR
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260919-warrington-wolves-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:HULL KR | Super League | J28 | ✈️ | Warrington Wolves 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260919-warrington-wolves-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260919T163000Z
+DTEND:20260919T181500Z
+SUMMARY:Warrington Wolves - Hull KR
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+END:VCALENDAR

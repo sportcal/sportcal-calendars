@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bedford Blues · Champ Rugby
+BEGIN:VEVENT
+UID:champrugby-20261113-bedford-blues-doncaster-knights-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:BEDFORD BLUES | Champ Rugby | J8 | 🏟️ | Doncaster Knights 🇬
+ 🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Champ Rugby\nEstadi: Goldington
+  Road
+END:VEVENT
+BEGIN:VEVENT
+UID:champrugby-20261113-bedford-blues-doncaster-knights@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261113T194500Z
+DTEND:20261113T213000Z
+SUMMARY:Bedford Blues - Doncaster Knights
+DESCRIPTION:Champ Rugby
+LOCATION:Goldington Road
+END:VEVENT
+END:VCALENDAR

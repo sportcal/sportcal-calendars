@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sultanlar Ligi
+BEGIN:VEVENT
+UID:sultanlar-dia-20261115-j9@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SULTANLAR LIGI | J9
+DESCRIPTION:11:00 Fenerbahçe Medicana - Nilüfer Belediyespor Eker\n12:00 
+ Zeren Spor - Eczacıbaşı Peron İstanbul\n12:00 VakıfBank - Aras Kargo\
+ n14:00 Göztepe Yuppo - Galatasaray Daikin\n14:00 Manisa Büyükşehir Bel
+ ediyespor - Türk Hava Yolları\n15:00 Kuzeyboru - İlbank\n17:00 Beşikta
+ ş - Sinnada Hotels Afyon Bld. Yüntaş
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-dia-20261121-j10@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SULTANLAR LIGI | J10
+DESCRIPTION:12:00 Eczacıbaşı Peron İstanbul - Kuzeyboru\n13:00 Aras Kar
+ go - Fenerbahçe Medicana
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-dia-20261122-j10@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SULTANLAR LIGI | J10
+DESCRIPTION:11:00 Galatasaray Daikin - Zeren Spor\n13:00 Sinnada Hotels Afy
+ on Bld. Yüntaş - Göztepe Yuppo\n14:00 İlbank - VakıfBank\n14:00 Nilü
+ fer Belediyespor Eker - Manisa Büyükşehir Belediyespor\n17:00 Türk Hav
+ a Yolları - Beşiktaş
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-fenerbahce-medicana-nilufer-belediyespor-eker@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T100000Z
+DTEND:20261115T114500Z
+SUMMARY:Fenerbahçe Medicana - Nilüfer Belediyespor Eker
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-zeren-spor-eczac-bas-peron-istanbul@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T110000Z
+DTEND:20261115T124500Z
+SUMMARY:Zeren Spor - Eczacıbaşı Peron İstanbul
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-vak-fbank-aras-kargo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T110000Z
+DTEND:20261115T124500Z
+SUMMARY:VakıfBank - Aras Kargo
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-goztepe-yuppo-galatasaray-daikin@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Göztepe Yuppo - Galatasaray Daikin
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-manisa-buyuksehir-belediyespor-turk-hava-yollar@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Manisa Büyükşehir Belediyespor - Türk Hava Yolları
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-kuzeyboru-ilbank@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Kuzeyboru - İlbank
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-besiktas-sinnada-hotels-afyon-bld-yuntas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T160000Z
+DTEND:20261115T174500Z
+SUMMARY:Beşiktaş - Sinnada Hotels Afyon Bld. Yüntaş
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261121-eczac-bas-peron-istanbul-kuzeyboru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261121T110000Z
+DTEND:20261121T124500Z
+SUMMARY:Eczacıbaşı Peron İstanbul - Kuzeyboru
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261121-aras-kargo-fenerbahce-medicana@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261121T120000Z
+DTEND:20261121T134500Z
+SUMMARY:Aras Kargo - Fenerbahçe Medicana
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-galatasaray-daikin-zeren-spor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261122T100000Z
+DTEND:20261122T114500Z
+SUMMARY:Galatasaray Daikin - Zeren Spor
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-sinnada-hotels-afyon-bld-yuntas-goztepe-yuppo@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART:20261122T120000Z
+DTEND:20261122T134500Z
+SUMMARY:Sinnada Hotels Afyon Bld. Yüntaş - Göztepe Yuppo
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-ilbank-vak-fbank@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:İlbank - VakıfBank
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-nilufer-belediyespor-eker-manisa-buyuksehir-belediye
+ spor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:Nilüfer Belediyespor Eker - Manisa Büyükşehir Belediyespor
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-turk-hava-yollar-besiktas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261122T160000Z
+DTEND:20261122T174500Z
+SUMMARY:Türk Hava Yolları - Beşiktaş
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+END:VCALENDAR

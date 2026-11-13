@@ -1,0 +1,508 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bradford Bulls · Super League
+BEGIN:VEVENT
+UID:superleague-20260214-hull-f-c-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:BRADFORD BULLS | Super League | J1 | ✈️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: MKM Stadi
+ um
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260214-hull-f-c-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260214T173000Z
+DTEND:20260214T191500Z
+SUMMARY:Hull F.C. - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:MKM Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260220-bradford-bulls-catalans-dragons-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:BRADFORD BULLS | Super League | J2 | 🏟️ | Catalans Dragons 
+ 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260220-bradford-bulls-catalans-dragons@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260220T200000Z
+DTEND:20260220T214500Z
+SUMMARY:Bradford Bulls - Catalans Dragons
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260301-bradford-bulls-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:BRADFORD BULLS | Super League | J3 | 🏟️ | Toulouse Olympique 
+ 🇫🇷
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260301-bradford-bulls-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T150000Z
+DTEND:20260301T164500Z
+SUMMARY:Bradford Bulls - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260307-st-helens-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:BRADFORD BULLS | Super League | J4 | ✈️ | St Helens 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260307-st-helens-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260307T173000Z
+DTEND:20260307T191500Z
+SUMMARY:St Helens - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260320-bradford-bulls-huddersfield-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:BRADFORD BULLS | Super League | J5 | 🏟️ | Huddersfield Giants 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260320-bradford-bulls-huddersfield-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260320T200000Z
+DTEND:20260320T214500Z
+SUMMARY:Bradford Bulls - Huddersfield Giants
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260326-castleford-tigers-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:BRADFORD BULLS | Super League | J6 | ✈️ | Castleford Tigers 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: OneBore S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260326-castleford-tigers-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260326T200000Z
+DTEND:20260326T214500Z
+SUMMARY:Castleford Tigers - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:OneBore Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260403-bradford-bulls-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:BRADFORD BULLS | Super League | J7 | 🏟️ | Leeds Rhinos 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260403-bradford-bulls-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260403T190000Z
+DTEND:20260403T204500Z
+SUMMARY:Bradford Bulls - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260418-wakefield-trinity-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:BRADFORD BULLS | Super League | J8 | ✈️ | Wakefield Trinity 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: DIY Kitch
+ ens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260418-wakefield-trinity-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260418T140000Z
+DTEND:20260418T154500Z
+SUMMARY:Wakefield Trinity - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:DIY Kitchens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260425-bradford-bulls-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:BRADFORD BULLS | Super League | J9 | 🏟️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260425-bradford-bulls-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260425T140000Z
+DTEND:20260425T154500Z
+SUMMARY:Bradford Bulls - Hull KR
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260502-wigan-warriors-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:BRADFORD BULLS | Super League | J10 | ✈️ | Wigan Warriors 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Brick Com
+ munity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260502-wigan-warriors-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260502T140000Z
+DTEND:20260502T154500Z
+SUMMARY:Wigan Warriors - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Brick Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260517-bradford-bulls-hull-f-c-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:BRADFORD BULLS | Super League | J11 | 🏟️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260517-bradford-bulls-hull-f-c@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260517T140000Z
+DTEND:20260517T154500Z
+SUMMARY:Bradford Bulls - Hull F.C.
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260524-warrington-wolves-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:BRADFORD BULLS | Super League | J13 | ✈️ | Warrington Wolves 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260524-warrington-wolves-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Warrington Wolves - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260605-bradford-bulls-york-knights-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:BRADFORD BULLS | Super League | J13 | 🏟️ | York Knights 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260605-bradford-bulls-york-knights@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260605T190000Z
+DTEND:20260605T204500Z
+SUMMARY:Bradford Bulls - York Knights
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260614-bradford-bulls-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:BRADFORD BULLS | Super League | J14 | 🏟️ | Leigh Leopards 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260614-bradford-bulls-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260614T140000Z
+DTEND:20260614T154500Z
+SUMMARY:Bradford Bulls - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260620-catalans-dragons-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:BRADFORD BULLS | Super League | J15 | ✈️ | Catalans Dragons 
+ 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Gil
+ bert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260620-catalans-dragons-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260620T170000Z
+DTEND:20260620T184500Z
+SUMMARY:Catalans Dragons - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260627-bradford-bulls-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:BRADFORD BULLS | Super League | J16 | 🏟️ | St Helens 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260627-bradford-bulls-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260627T190000Z
+DTEND:20260627T204500Z
+SUMMARY:Bradford Bulls - St Helens
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260705-leeds-rhinos-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:BRADFORD BULLS | Super League | J17 | ✈️ | Leeds Rhinos 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260705-leeds-rhinos-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260705T140000Z
+DTEND:20260705T154500Z
+SUMMARY:Leeds Rhinos - Bradford Bulls
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260710-huddersfield-giants-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:BRADFORD BULLS | Super League | J18 | ✈️ | Huddersfield Giants 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Accu Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260710-huddersfield-giants-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260710T190000Z
+DTEND:20260710T204500Z
+SUMMARY:Huddersfield Giants - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Accu Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260716-bradford-bulls-wakefield-trinity-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:BRADFORD BULLS | Super League | J19 | 🏟️ | Wakefield Trinity 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260716-bradford-bulls-wakefield-trinity@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260716T190000Z
+DTEND:20260716T204500Z
+SUMMARY:Bradford Bulls - Wakefield Trinity
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260726-leeds-rhinos-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:BRADFORD BULLS | Super League | J20 | ✈️ | Leeds Rhinos 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260726-leeds-rhinos-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260726T140000Z
+DTEND:20260726T154500Z
+SUMMARY:Leeds Rhinos - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Headingley Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-hull-kr-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:BRADFORD BULLS | Super League | J21 | ✈️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-hull-kr-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260731T190000Z
+DTEND:20260731T204500Z
+SUMMARY:Hull KR - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260808-bradford-bulls-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:BRADFORD BULLS | Super League | J22 | 🏟️ | Warrington Wolves 
+ 🇬🇧
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260808-bradford-bulls-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260808T173000Z
+DTEND:20260808T191500Z
+SUMMARY:Bradford Bulls - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260815-bradford-bulls-wigan-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:BRADFORD BULLS | Super League | J23 | 🏟️ | Wigan Warriors 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260815-bradford-bulls-wigan-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260815T140000Z
+DTEND:20260815T154500Z
+SUMMARY:Bradford Bulls - Wigan Warriors
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260821-leigh-leopards-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:BRADFORD BULLS | Super League | J24 | ✈️ | Leigh Leopards 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260821-leigh-leopards-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260821T190000Z
+DTEND:20260821T204500Z
+SUMMARY:Leigh Leopards - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260829-toulouse-olympique-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:BRADFORD BULLS | Super League | J25 | ✈️ | Toulouse Olympique 
+ 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260829-toulouse-olympique-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260829T190000Z
+DTEND:20260829T204500Z
+SUMMARY:Toulouse Olympique - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260903-bradford-bulls-castleford-tigers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:BRADFORD BULLS | Super League | J26 | 🏟️ | Castleford Tigers 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260903-bradford-bulls-castleford-tigers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260903T190000Z
+DTEND:20260903T204500Z
+SUMMARY:Bradford Bulls - Castleford Tigers
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260910-york-knights-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:BRADFORD BULLS | Super League | J27 | ✈️ | York Knights 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: York Comm
+ unity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260910-york-knights-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260910T190000Z
+DTEND:20260910T204500Z
+SUMMARY:York Knights - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:York Community Stadium
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PSV Eindhoven · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-real-madrid-psv-eindhoven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:PSV EINDHOVEN | Youth League | Matchday 5 | ✈️ | Real Madrid 
+ 🇪🇸
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Alfr
+ edo Di Stéfano Stadium\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-real-madrid-psv-eindhoven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T150000Z
+DTEND:20261124T164500Z
+SUMMARY:Real Madrid - PSV Eindhoven
+DESCRIPTION:UEFA Youth League
+LOCATION:Alfredo Di Stéfano Stadium\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-psv-eindhoven-atletico-madrid-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:PSV EINDHOVEN | Youth League | Matchday 6 | 🏟️ | Atlético Mad
+ rid 🇪🇸
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: De H
+ erdgang\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-psv-eindhoven-atletico-madrid@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T130000Z
+DTEND:20261209T144500Z
+SUMMARY:PSV Eindhoven - Atlético Madrid
+DESCRIPTION:UEFA Youth League
+LOCATION:De Herdgang\, Eindhoven
+END:VEVENT
+END:VCALENDAR

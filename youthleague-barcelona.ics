@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Barcelona · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-sabah-barcelona-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BARCELONA | Youth League | Matchday 5 | ✈️ | Sabah 🇦🇿
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Alin
+ ja Stadium\, Baku
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-sabah-barcelona@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T110000Z
+DTEND:20261125T124500Z
+SUMMARY:Sabah - Barcelona
+DESCRIPTION:UEFA Youth League
+LOCATION:Alinja Stadium\, Baku
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-barcelona-manchester-city-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:BARCELONA | Youth League | Matchday 6 | 🏟️ | Manchester City 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Joha
+ n Cruyff Stadium\, Sant Joan Despí
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-barcelona-manchester-city@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T150000Z
+DTEND:20261208T164500Z
+SUMMARY:Barcelona - Manchester City
+DESCRIPTION:UEFA Youth League
+LOCATION:Johan Cruyff Stadium\, Sant Joan Despí
+END:VEVENT
+END:VCALENDAR

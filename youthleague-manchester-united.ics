@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manchester United · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-sporting-cp-manchester-united-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:MANCHESTER UNITED | Youth League | Matchday 5 | ✈️ | Sporting C
+ P 🇵🇹
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Acad
+ emia Cristiano Ronaldo\, Alcochete
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-sporting-cp-manchester-united@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T140000Z
+DTEND:20261125T154500Z
+SUMMARY:Sporting CP - Manchester United
+DESCRIPTION:UEFA Youth League
+LOCATION:Academia Cristiano Ronaldo\, Alcochete
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-manchester-united-rb-leipzig-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:MANCHESTER UNITED | Youth League | Matchday 6 | 🏟️ | RB Leipzi
+ g 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Leig
+ h Sports Village\, Leigh
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-manchester-united-rb-leipzig@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T140000Z
+DTEND:20261208T154500Z
+SUMMARY:Manchester United - RB Leipzig
+DESCRIPTION:UEFA Youth League
+LOCATION:Leigh Sports Village\, Leigh
+END:VEVENT
+END:VCALENDAR

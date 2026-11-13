@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Como · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-como-aek-athens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:COMO | Youth League | Matchday 5 | 🏟️ | AEK Athens
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Camp
+ o Sportivo Comunale "Angelo Volonte"\, Rovello Porro
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-como-aek-athens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T140000Z
+DTEND:20261124T154500Z
+SUMMARY:Como - AEK Athens
+DESCRIPTION:UEFA Youth League
+LOCATION:Campo Sportivo Comunale "Angelo Volonte"\, Rovello Porro
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-real-betis-como-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:COMO | Youth League | Matchday 6 | ✈️ | Real Betis 🇪🇸
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Ciud
+ ad Deportiva Luis del Sol\, Seville
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-real-betis-como@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T120000Z
+DTEND:20261209T134500Z
+SUMMARY:Real Betis - Como
+DESCRIPTION:UEFA Youth League
+LOCATION:Ciudad Deportiva Luis del Sol\, Seville
+END:VEVENT
+END:VCALENDAR

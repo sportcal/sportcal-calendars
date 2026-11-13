@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arsenal · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-arsenal-borussia-dortmund-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:ARSENAL | Youth League | Matchday 5 | 🏟️ | Borussia Dortmund 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Mead
+ ow Park\, Borehamwood
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-arsenal-borussia-dortmund@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T130000Z
+DTEND:20261124T144500Z
+SUMMARY:Arsenal - Borussia Dortmund
+DESCRIPTION:UEFA Youth League
+LOCATION:Meadow Park\, Borehamwood
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-arsenal-real-madrid-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:ARSENAL | Youth League | Matchday 6 | 🏟️ | Real Madrid 🇪
+ 🇸
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Mead
+ ow Park\, Borehamwood
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-arsenal-real-madrid@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T130000Z
+DTEND:20261209T144500Z
+SUMMARY:Arsenal - Real Madrid
+DESCRIPTION:UEFA Youth League
+LOCATION:Meadow Park\, Borehamwood
+END:VEVENT
+END:VCALENDAR

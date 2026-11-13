@@ -1,0 +1,515 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Leeds Rhinos · Super League
+BEGIN:VEVENT
+UID:superleague-20260213-leigh-leopards-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:LEEDS RHINOS | Super League | J1 | ✈️ | Leigh Leopards 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260213-leigh-leopards-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260213T200000Z
+DTEND:20260213T214500Z
+SUMMARY:Leigh Leopards - Leeds Rhinos
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260220-leeds-rhinos-york-knights-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:LEEDS RHINOS | Super League | J2 | 🏟️ | York Knights 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260220-leeds-rhinos-york-knights@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260220T200000Z
+DTEND:20260220T214500Z
+SUMMARY:Leeds Rhinos - York Knights
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260301-hull-kr-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:LEEDS RHINOS | Super League | J3 | ✈️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Super League\nEstadi: Allegiant
+  Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260301-hull-kr-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T000000Z
+DTEND:20260301T014500Z
+SUMMARY:Hull KR - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Allegiant Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260308-leeds-rhinos-castleford-tigers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:LEEDS RHINOS | Super League | J4 | 🏟️ | Castleford Tigers 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260308-leeds-rhinos-castleford-tigers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T150000Z
+DTEND:20260308T164500Z
+SUMMARY:Leeds Rhinos - Castleford Tigers
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260322-hull-f-c-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:LEEDS RHINOS | Super League | J5 | ✈️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: MKM Stadi
+ um
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260322-hull-f-c-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260322T150000Z
+DTEND:20260322T164500Z
+SUMMARY:Hull F.C. - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:MKM Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260329-leeds-rhinos-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:LEEDS RHINOS | Super League | J6 | 🏟️ | Warrington Wolves 🇬
+ 🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260329-leeds-rhinos-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T163000Z
+DTEND:20260329T181500Z
+SUMMARY:Leeds Rhinos - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260403-bradford-bulls-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:LEEDS RHINOS | Super League | J7 | ✈️ | Bradford Bulls 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260403-bradford-bulls-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260403T190000Z
+DTEND:20260403T204500Z
+SUMMARY:Bradford Bulls - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260417-huddersfield-giants-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:LEEDS RHINOS | Super League | J8 | ✈️ | Huddersfield Giants 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Accu Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260417-huddersfield-giants-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260417T190000Z
+DTEND:20260417T204500Z
+SUMMARY:Huddersfield Giants - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Accu Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260424-leeds-rhinos-catalans-dragons-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:LEEDS RHINOS | Super League | J9 | 🏟️ | Catalans Dragons 🇫
+ 🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260424-leeds-rhinos-catalans-dragons@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260424T190000Z
+DTEND:20260424T204500Z
+SUMMARY:Leeds Rhinos - Catalans Dragons
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260501-leeds-rhinos-wakefield-trinity-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:LEEDS RHINOS | Super League | J10 | 🏟️ | Wakefield Trinity 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260501-leeds-rhinos-wakefield-trinity@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260501T190000Z
+DTEND:20260501T204500Z
+SUMMARY:Leeds Rhinos - Wakefield Trinity
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260515-wigan-warriors-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:LEEDS RHINOS | Super League | J11 | ✈️ | Wigan Warriors 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Brick Com
+ munity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260515-wigan-warriors-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260515T190000Z
+DTEND:20260515T204500Z
+SUMMARY:Wigan Warriors - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Brick Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260522-leeds-rhinos-huddersfield-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:LEEDS RHINOS | Super League | J12 | 🏟️ | Huddersfield Giants 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260522-leeds-rhinos-huddersfield-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260522T190000Z
+DTEND:20260522T204500Z
+SUMMARY:Leeds Rhinos - Huddersfield Giants
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260604-leeds-rhinos-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:LEEDS RHINOS | Super League | J13 | 🏟️ | St Helens 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260604-leeds-rhinos-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260604T190000Z
+DTEND:20260604T204500Z
+SUMMARY:Leeds Rhinos - St Helens
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260612-toulouse-olympique-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:LEEDS RHINOS | Super League | J14 | ✈️ | Toulouse Olympique 
+ 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260612-toulouse-olympique-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260612T170000Z
+DTEND:20260612T184500Z
+SUMMARY:Toulouse Olympique - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260618-warrington-wolves-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:LEEDS RHINOS | Super League | J15 | ✈️ | Warrington Wolves 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260618-warrington-wolves-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260618T190000Z
+DTEND:20260618T204500Z
+SUMMARY:Warrington Wolves - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260626-leeds-rhinos-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:LEEDS RHINOS | Super League | J16 | 🏟️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260626-leeds-rhinos-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260626T190000Z
+DTEND:20260626T204500Z
+SUMMARY:Leeds Rhinos - Hull KR
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260705-leeds-rhinos-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:LEEDS RHINOS | Super League | J17 | 🏟️ | Bradford Bulls 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260705-leeds-rhinos-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260705T140000Z
+DTEND:20260705T154500Z
+SUMMARY:Leeds Rhinos - Bradford Bulls
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260711-catalans-dragons-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:LEEDS RHINOS | Super League | J18 | ✈️ | Catalans Dragons 🇫
+ 🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Stade Gil
+ bert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260711-catalans-dragons-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260711T190000Z
+DTEND:20260711T204500Z
+SUMMARY:Catalans Dragons - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260719-castleford-tigers-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:LEEDS RHINOS | Super League | J19 | ✈️ | Castleford Tigers 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: OneBore S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260719-castleford-tigers-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T140000Z
+DTEND:20260719T154500Z
+SUMMARY:Castleford Tigers - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:OneBore Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260726-leeds-rhinos-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:LEEDS RHINOS | Super League | J20 | 🏟️ | Bradford Bulls 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260726-leeds-rhinos-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260726T140000Z
+DTEND:20260726T154500Z
+SUMMARY:Leeds Rhinos - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Headingley Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-leeds-rhinos-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:LEEDS RHINOS | Super League | J21 | 🏟️ | Toulouse Olympique 
+ 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Tara Jone
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260731-leeds-rhinos-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260731T190000Z
+DTEND:20260731T204500Z
+SUMMARY:Leeds Rhinos - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:Tara Jones
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260807-wakefield-trinity-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:LEEDS RHINOS | Super League | J22 | ✈️ | Wakefield Trinity 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260807-wakefield-trinity-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260807T190000Z
+DTEND:20260807T204500Z
+SUMMARY:Wakefield Trinity - Leeds Rhinos
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260813-leeds-rhinos-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:LEEDS RHINOS | Super League | J23 | 🏟️ | Leigh Leopards 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Chris Ken
+ dall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260813-leeds-rhinos-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260813T190000Z
+DTEND:20260813T204500Z
+SUMMARY:Leeds Rhinos - Leigh Leopards
+DESCRIPTION:Super League
+LOCATION:Chris Kendall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260823-york-knights-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:LEEDS RHINOS | Super League | J24 | ✈️ | York Knights 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260823-york-knights-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T140000Z
+DTEND:20260823T154500Z
+SUMMARY:York Knights - Leeds Rhinos
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260828-st-helens-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:LEEDS RHINOS | Super League | J25 | ✈️ | St Helens 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260828-st-helens-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260828T190000Z
+DTEND:20260828T204500Z
+SUMMARY:St Helens - Leeds Rhinos
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260905-leeds-rhinos-wigan-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:LEEDS RHINOS | Super League | J26 | 🏟️ | Wigan Warriors 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260905-leeds-rhinos-wigan-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260905T190000Z
+DTEND:20260905T204500Z
+SUMMARY:Leeds Rhinos - Wigan Warriors
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-leeds-rhinos-hull-f-c-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:LEEDS RHINOS | Super League | J27 | 🏟️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-leeds-rhinos-hull-f-c@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260911T190000Z
+DTEND:20260911T204500Z
+SUMMARY:Leeds Rhinos - Hull F.C.
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260925-leeds-rhinos-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:LEEDS RHINOS | Super League | J28 | 🏟️ | Warrington Wolves 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260925-leeds-rhinos-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260925T190000Z
+DTEND:20260925T204500Z
+SUMMARY:Leeds Rhinos - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Headingley
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,562 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Warrington Wolves · Super League
+BEGIN:VEVENT
+UID:superleague-20260213-warrington-wolves-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:WARRINGTON WOLVES | Super League | J1 | 🏟️ | St Helens 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260213-warrington-wolves-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260213T200000Z
+DTEND:20260213T214500Z
+SUMMARY:Warrington Wolves - St Helens
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260228-warrington-wolves-wakefield-trinity-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:WARRINGTON WOLVES | Super League | J3 | 🏟️ | Wakefield Trinity
+  🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260228-warrington-wolves-wakefield-trinity@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260228T173000Z
+DTEND:20260228T191500Z
+SUMMARY:Warrington Wolves - Wakefield Trinity
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260306-york-knights-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:WARRINGTON WOLVES | Super League | J4 | ✈️ | York Knights 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: York Comm
+ unity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260306-york-knights-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260306T200000Z
+DTEND:20260306T214500Z
+SUMMARY:York Knights - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:York Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260321-warrington-wolves-castleford-tigers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:WARRINGTON WOLVES | Super League | J6 | 🏟️ | Castleford Tigers
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260321-warrington-wolves-castleford-tigers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260321T150000Z
+DTEND:20260321T164500Z
+SUMMARY:Warrington Wolves - Castleford Tigers
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260329-leeds-rhinos-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:WARRINGTON WOLVES | Super League | J6 | ✈️ | Leeds Rhinos 🇬
+ 🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260329-leeds-rhinos-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T163000Z
+DTEND:20260329T181500Z
+SUMMARY:Leeds Rhinos - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260404-warrington-wolves-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:WARRINGTON WOLVES | Super League | J7 | 🏟️ | Leigh Leopards 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260404-warrington-wolves-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260404T140000Z
+DTEND:20260404T154500Z
+SUMMARY:Warrington Wolves - Leigh Leopards
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260418-catalans-dragons-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:WARRINGTON WOLVES | Super League | J8 | ✈️ | Catalans Dragons 
+ 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Gil
+ bert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260418-catalans-dragons-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260418T170000Z
+DTEND:20260418T184500Z
+SUMMARY:Catalans Dragons - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260424-warrington-wolves-wigan-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:WARRINGTON WOLVES | Super League | J9 | 🏟️ | Wigan Warriors 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260424-warrington-wolves-wigan-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260424T190000Z
+DTEND:20260424T204500Z
+SUMMARY:Warrington Wolves - Wigan Warriors
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260502-huddersfield-giants-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:WARRINGTON WOLVES | Super League | J10 | ✈️ | Huddersfield Gian
+ ts 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Accu Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260502-huddersfield-giants-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260502T190000Z
+DTEND:20260502T204500Z
+SUMMARY:Huddersfield Giants - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Accu Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260516-toulouse-olympique-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:WARRINGTON WOLVES | Super League | J11 | ✈️ | Toulouse Olympiqu
+ e 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Mic
+ hel Bendichou
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260516-toulouse-olympique-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260516T170000Z
+DTEND:20260516T184500Z
+SUMMARY:Toulouse Olympique - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Stade Michel Bendichou
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260524-warrington-wolves-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:WARRINGTON WOLVES | Super League | J13 | 🏟️ | Bradford Bulls 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260524-warrington-wolves-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Warrington Wolves - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260605-warrington-wolves-hull-f-c-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:WARRINGTON WOLVES | Super League | J13 | 🏟️ | Hull F.C. 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260605-warrington-wolves-hull-f-c@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260605T190000Z
+DTEND:20260605T204500Z
+SUMMARY:Warrington Wolves - Hull F.C.
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260611-st-helens-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:WARRINGTON WOLVES | Super League | J14 | ✈️ | St Helens 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260611-st-helens-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260611T190000Z
+DTEND:20260611T204500Z
+SUMMARY:St Helens - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260618-warrington-wolves-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:WARRINGTON WOLVES | Super League | J15 | 🏟️ | Leeds Rhinos 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260618-warrington-wolves-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260618T190000Z
+DTEND:20260618T204500Z
+SUMMARY:Warrington Wolves - Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260625-warrington-wolves-catalans-dragons-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:WARRINGTON WOLVES | Super League | J16 | 🏟️ | Catalans Dragons
+  🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260625-warrington-wolves-catalans-dragons@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260625T190000Z
+DTEND:20260625T204500Z
+SUMMARY:Warrington Wolves - Catalans Dragons
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260704-leigh-leopards-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:WARRINGTON WOLVES | Super League | J17 | ✈️ | Leigh Leopards 
+ 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260704-leigh-leopards-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260704T163000Z
+DTEND:20260704T181500Z
+SUMMARY:Leigh Leopards - Warrington Wolves
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260710-wigan-warriors-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:WARRINGTON WOLVES | Super League | J18 | ✈️ | Wigan Warriors 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260710-wigan-warriors-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260710T190000Z
+DTEND:20260710T204500Z
+SUMMARY:Wigan Warriors - Warrington Wolves
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260718-warrington-wolves-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:WARRINGTON WOLVES | Super League | J18 | 🏟️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260718-warrington-wolves-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260718T140000Z
+DTEND:20260718T154500Z
+SUMMARY:Warrington Wolves - Hull KR
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260725-leigh-leopards-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:WARRINGTON WOLVES | Super League | J20 | ✈️ | Leigh Leopards 
+ 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Leigh Spo
+ rts Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260725-leigh-leopards-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260725T163000Z
+DTEND:20260725T181500Z
+SUMMARY:Leigh Leopards - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260801-castleford-tigers-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:WARRINGTON WOLVES | Super League | J21 | ✈️ | Castleford Tigers
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: OneBore S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260801-castleford-tigers-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260801T140000Z
+DTEND:20260801T154500Z
+SUMMARY:Castleford Tigers - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:OneBore Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260808-bradford-bulls-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:WARRINGTON WOLVES | Super League | J22 | ✈️ | Bradford Bulls 
+ 🇬🇧
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260808-bradford-bulls-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260808T173000Z
+DTEND:20260808T191500Z
+SUMMARY:Bradford Bulls - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260813-warrington-wolves-york-knights-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:WARRINGTON WOLVES | Super League | J23 | 🏟️ | York Knights 
+ 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260813-warrington-wolves-york-knights@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260813T190000Z
+DTEND:20260813T204500Z
+SUMMARY:Warrington Wolves - York Knights
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260818-hull-kr-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:WARRINGTON WOLVES | Super League | J23 | ✈️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260818-hull-kr-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260818T190000Z
+DTEND:20260818T204500Z
+SUMMARY:Hull KR - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260823-warrington-wolves-huddersfield-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:WARRINGTON WOLVES | Super League | J24 | 🏟️ | Huddersfield Gia
+ nts 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260823-warrington-wolves-huddersfield-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T140000Z
+DTEND:20260823T154500Z
+SUMMARY:Warrington Wolves - Huddersfield Giants
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260829-hull-f-c-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:WARRINGTON WOLVES | Super League | J25 | ✈️ | Hull F.C. 🇬
+ 🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: MKM Stadi
+ um
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260829-hull-f-c-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260829T163000Z
+DTEND:20260829T181500Z
+SUMMARY:Hull F.C. - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:MKM Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260905-wakefield-trinity-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:WARRINGTON WOLVES | Super League | J26 | ✈️ | Wakefield Trinity
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: DIY Kitch
+ ens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260905-wakefield-trinity-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260905T140000Z
+DTEND:20260905T154500Z
+SUMMARY:Wakefield Trinity - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:DIY Kitchens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-warrington-wolves-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:WARRINGTON WOLVES | Super League | J27 | 🏟️ | Toulouse Olympiq
+ ue 🇫🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-warrington-wolves-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260911T190000Z
+DTEND:20260911T204500Z
+SUMMARY:Warrington Wolves - Toulouse Olympique
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260919-warrington-wolves-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:WARRINGTON WOLVES | Super League | J28 | 🏟️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260919-warrington-wolves-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260919T163000Z
+DTEND:20260919T181500Z
+SUMMARY:Warrington Wolves - Hull KR
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260925-leeds-rhinos-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:WARRINGTON WOLVES | Super League | J28 | ✈️ | Leeds Rhinos 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260925-leeds-rhinos-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260925T190000Z
+DTEND:20260925T204500Z
+SUMMARY:Leeds Rhinos - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:Headingley
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20261003-warrington-wolves-wakefield-trinity-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:WARRINGTON WOLVES | Super League | J30 | 🏟️ | Wakefield Trinit
+ y 🇬🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Old Traff
+ ord
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20261003-warrington-wolves-wakefield-trinity@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261003T170000Z
+DTEND:20261003T184500Z
+SUMMARY:Warrington Wolves - Wakefield Trinity
+DESCRIPTION:Super League
+LOCATION:Old Trafford
+END:VEVENT
+END:VCALENDAR

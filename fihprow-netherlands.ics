@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Netherlands · Pro League W
+BEGIN:VEVENT
+UID:fihprow-20261214-netherlands-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:NETHERLANDS | Pro League W | J1 | 🏟️ | Belgium
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261214-netherlands-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261214T110000Z
+DTEND:20261214T124500Z
+SUMMARY:Netherlands - Belgium
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261216-spain-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:NETHERLANDS | Pro League W | J2 | ✈️ | Spain
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261216-spain-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261216T160000Z
+DTEND:20261216T174500Z
+SUMMARY:Spain - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261217-germany-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:NETHERLANDS | Pro League W | J3 | ✈️ | Germany
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261217-germany-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261217T120000Z
+DTEND:20261217T134500Z
+SUMMARY:Germany - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261219-belgium-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:NETHERLANDS | Pro League W | J4 | ✈️ | Belgium
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261219-belgium-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261219T133000Z
+DTEND:20261219T151500Z
+SUMMARY:Belgium - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261220-spain-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:NETHERLANDS | Pro League W | J5 | ✈️ | Spain
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261220-spain-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261220T170000Z
+DTEND:20261220T184500Z
+SUMMARY:Spain - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261222-netherlands-germany-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:NETHERLANDS | Pro League W | J6 | 🏟️ | Germany
+DESCRIPTION:Inici: 09:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261222-netherlands-germany@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261222T080000Z
+DTEND:20261222T094500Z
+SUMMARY:Netherlands - Germany
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270213-australia-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:NETHERLANDS | Pro League W | J7 | ✈️ | Australia
+DESCRIPTION:Inici: 06:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270213-australia-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270213T050000Z
+DTEND:20270213T064500Z
+SUMMARY:Australia - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270214-netherlands-china-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:NETHERLANDS | Pro League W | J8 | 🏟️ | China
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270214-netherlands-china@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270214T013000Z
+DTEND:20270214T031500Z
+SUMMARY:Netherlands - China
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270220-australia-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:NETHERLANDS | Pro League W | J9 | ✈️ | Australia
+DESCRIPTION:Inici: 06:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270220-australia-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270220T050000Z
+DTEND:20270220T064500Z
+SUMMARY:Australia - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270221-china-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:NETHERLANDS | Pro League W | J10 | ✈️ | China
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270221-china-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270221T013000Z
+DTEND:20270221T031500Z
+SUMMARY:China - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270615-great-britain-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:NETHERLANDS | Pro League W | J11 | ✈️ | Great Britain
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: SV Kampong\, Utrecht
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270615-great-britain-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270615T153000Z
+DTEND:20270615T171500Z
+SUMMARY:Great Britain - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:SV Kampong\, Utrecht
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270616-netherlands-great-britain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:NETHERLANDS | Pro League W | J12 | 🏟️ | Great Britain
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: SV Kampong\, Utrecht
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270616-netherlands-great-britain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270616T153000Z
+DTEND:20270616T171500Z
+SUMMARY:Netherlands - Great Britain
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:SV Kampong\, Utrecht
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270622-netherlands-india-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:NETHERLANDS | Pro League W | J13 | 🏟️ | India
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: HC 's-Hertogenbosch\, 's-Hertogenbosch
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270622-netherlands-india@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270622T153000Z
+DTEND:20270622T171500Z
+SUMMARY:Netherlands - India
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:HC 's-Hertogenbosch\, 's-Hertogenbosch
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270623-netherlands-india-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:NETHERLANDS | Pro League W | J14 | 🏟️ | India
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: HC 's-Hertogenbosch\, 's-Hertogenbosch
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270623-netherlands-india@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270623T153000Z
+DTEND:20270623T171500Z
+SUMMARY:Netherlands - India
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:HC 's-Hertogenbosch\, 's-Hertogenbosch
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270626-netherlands-argentina-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:NETHERLANDS | Pro League W | J15 | 🏟️ | Argentina
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: HC 's-Hertogenbosch\, 's-Hertogenbosch
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270626-netherlands-argentina@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270626T120000Z
+DTEND:20270626T134500Z
+SUMMARY:Netherlands - Argentina
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:HC 's-Hertogenbosch\, 's-Hertogenbosch
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270627-netherlands-argentina-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:NETHERLANDS | Pro League W | J16 | 🏟️ | Argentina
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: HC 's-Hertogenbosch\, 's-Hertogenbosch
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270627-netherlands-argentina@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270627T110000Z
+DTEND:20270627T124500Z
+SUMMARY:Netherlands - Argentina
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:HC 's-Hertogenbosch\, 's-Hertogenbosch
+END:VEVENT
+END:VCALENDAR

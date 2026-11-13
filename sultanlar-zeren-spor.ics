@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zeren Spor · Sultanlar Ligi
+BEGIN:VEVENT
+UID:sultanlar-20261115-zeren-spor-eczac-bas-peron-istanbul-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ZEREN SPOR | Sultanlar Ligi | J9 | 🏟️ | Eczacıbaşı Peron İ
+ stanbul 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-zeren-spor-eczac-bas-peron-istanbul@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T110000Z
+DTEND:20261115T124500Z
+SUMMARY:Zeren Spor - Eczacıbaşı Peron İstanbul
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-galatasaray-daikin-zeren-spor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ZEREN SPOR | Sultanlar Ligi | J10 | ✈️ | Galatasaray Daikin 
+ 🇹🇷
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-galatasaray-daikin-zeren-spor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261122T100000Z
+DTEND:20261122T114500Z
+SUMMARY:Galatasaray Daikin - Zeren Spor
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+END:VCALENDAR

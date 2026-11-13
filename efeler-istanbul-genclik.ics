@@ -1,0 +1,435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:İstanbul Gençlik · Efeler Ligi
+BEGIN:VEVENT
+UID:efeler-20251025-istanbul-genclik-gaziantep-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J1 | 🏟️ | Gaziantep Gençli
+ k 🇹🇷
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251025-istanbul-genclik-gaziantep-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251025T110000Z
+DTEND:20251025T124500Z
+SUMMARY:İstanbul Gençlik - Gaziantep Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251028-istanbul-buyuksehir-belediyesi-istanbul-genclik-dia@spo
+ rtcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J2 | ✈️ | İstanbul Büyük
+ şehir Belediyesi 🇹🇷
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251028-istanbul-buyuksehir-belediyesi-istanbul-genclik@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART:20251028T133000Z
+DTEND:20251028T151500Z
+SUMMARY:İstanbul Büyükşehir Belediyesi - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251116-istanbul-genclik-akkus-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251117
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J3 | 🏟️ | Akkuş Belediyesp
+ or 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251116-istanbul-genclik-akkus-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251116T110000Z
+DTEND:20251116T124500Z
+SUMMARY:İstanbul Gençlik - Akkuş Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251119-fenerbahce-medicana-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251120
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J4 | ✈️ | Fenerbahçe Medica
+ na 🇹🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251119-fenerbahce-medicana-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251119T140000Z
+DTEND:20251119T154500Z
+SUMMARY:Fenerbahçe Medicana - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251122-istanbul-genclik-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J5 | 🏟️ | Gebze Belediyespo
+ r 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251122-istanbul-genclik-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251122T110000Z
+DTEND:20251122T124500Z
+SUMMARY:İstanbul Gençlik - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251125-ziraat-bankkart-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251126
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J6 | ✈️ | Ziraat Bankkart 
+ 🇹🇷
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251125-ziraat-bankkart-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251125T133000Z
+DTEND:20251125T151500Z
+SUMMARY:Ziraat Bankkart - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251129-istanbul-genclik-spor-toto-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J7 | 🏟️ | Spor Toto 🇹
+ 🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251129-istanbul-genclik-spor-toto@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251129T110000Z
+DTEND:20251129T124500Z
+SUMMARY:İstanbul Gençlik - Spor Toto
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251202-cizre-belediyespor-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J8 | ✈️ | Cizre Belediyespor
+  🇹🇷
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251202-cizre-belediyespor-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251202T100000Z
+DTEND:20251202T114500Z
+SUMMARY:Cizre Belediyespor - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251206-bursa-belediye-spor-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J9 | ✈️ | Bursa Belediye Spo
+ r 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251206-bursa-belediye-spor-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251206T130000Z
+DTEND:20251206T144500Z
+SUMMARY:Bursa Belediye Spor - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251213-istanbul-genclik-on-hotels-alanya-belediyespor-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J10 | 🏟️ | ON Hotels Alanya
+  Belediyespor 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251213-istanbul-genclik-on-hotels-alanya-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251213T110000Z
+DTEND:20251213T124500Z
+SUMMARY:İstanbul Gençlik - ON Hotels Alanya Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251216-galatasaray-mades-mobilya-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251216
+DTEND;VALUE=DATE:20251217
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J11 | ✈️ | Galatasaray Made
+ ş Mobilya 🇹🇷
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251216-galatasaray-mades-mobilya-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251216T150000Z
+DTEND:20251216T164500Z
+SUMMARY:Galatasaray Madeş Mobilya - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251220-istanbul-genclik-altekma-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J12 | 🏟️ | Altekma 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251220-istanbul-genclik-altekma@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251220T110000Z
+DTEND:20251220T124500Z
+SUMMARY:İstanbul Gençlik - Altekma
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251227-halkbank-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J13 | ✈️ | Halkbank 🇹🇷
+DESCRIPTION:Inici: 12:30 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251227-halkbank-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251227T113000Z
+DTEND:20251227T131500Z
+SUMMARY:Halkbank - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260111-gaziantep-genclik-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J14 | ✈️ | Gaziantep Gençli
+ k 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260111-gaziantep-genclik-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260111T110000Z
+DTEND:20260111T124500Z
+SUMMARY:Gaziantep Gençlik - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260118-istanbul-genclik-istanbul-buyuksehir-belediyesi-dia@spo
+ rtcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J15 | 🏟️ | İstanbul Büyü
+ kşehir Belediyesi 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260118-istanbul-genclik-istanbul-buyuksehir-belediyesi@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART:20260118T110000Z
+DTEND:20260118T124500Z
+SUMMARY:İstanbul Gençlik - İstanbul Büyükşehir Belediyesi
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260125-akkus-belediyespor-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J16 | ✈️ | Akkuş Belediyesp
+ or 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260125-akkus-belediyespor-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260125T130000Z
+DTEND:20260125T144500Z
+SUMMARY:Akkuş Belediyespor - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260201-istanbul-genclik-fenerbahce-medicana-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J17 | 🏟️ | Fenerbahçe Medi
+ cana 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260201-istanbul-genclik-fenerbahce-medicana@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260201T110000Z
+DTEND:20260201T124500Z
+SUMMARY:İstanbul Gençlik - Fenerbahçe Medicana
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260208-gebze-belediyespor-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J18 | ✈️ | Gebze Belediyespo
+ r 🇹🇷
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260208-gebze-belediyespor-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260208T120000Z
+DTEND:20260208T134500Z
+SUMMARY:Gebze Belediyespor - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260215-istanbul-genclik-ziraat-bankkart-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J19 | 🏟️ | Ziraat Bankkart 
+ 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260215-istanbul-genclik-ziraat-bankkart@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260215T110000Z
+DTEND:20260215T124500Z
+SUMMARY:İstanbul Gençlik - Ziraat Bankkart
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260222-spor-toto-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J20 | ✈️ | Spor Toto 🇹
+ 🇷
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260222-spor-toto-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260222T100000Z
+DTEND:20260222T114500Z
+SUMMARY:Spor Toto - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260301-istanbul-genclik-bursa-belediye-spor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J21 | 🏟️ | Bursa Belediye S
+ por 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260301-istanbul-genclik-bursa-belediye-spor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T110000Z
+DTEND:20260301T124500Z
+SUMMARY:İstanbul Gençlik - Bursa Belediye Spor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260308-on-hotels-alanya-belediyespor-istanbul-genclik-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J22 | ✈️ | ON Hotels Alanya 
+ Belediyespor 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260308-on-hotels-alanya-belediyespor-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T110000Z
+DTEND:20260308T124500Z
+SUMMARY:ON Hotels Alanya Belediyespor - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260315-istanbul-genclik-galatasaray-mades-mobilya-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J23 | 🏟️ | Galatasaray Made
+ ş Mobilya 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260315-istanbul-genclik-galatasaray-mades-mobilya@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260315T110000Z
+DTEND:20260315T124500Z
+SUMMARY:İstanbul Gençlik - Galatasaray Madeş Mobilya
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260318-altekma-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J24 | ✈️ | Altekma 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260318-altekma-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260318T130000Z
+DTEND:20260318T144500Z
+SUMMARY:Altekma - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260322-istanbul-genclik-halkbank-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:İSTANBUL GENÇLIK | Efeler Ligi | J25 | 🏟️ | Halkbank 🇹
+ 🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260322-istanbul-genclik-halkbank@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260322T110000Z
+DTEND:20260322T124500Z
+SUMMARY:İstanbul Gençlik - Halkbank
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting CP · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-sporting-cp-manchester-united-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:SPORTING CP | Youth League | Matchday 5 | 🏟️ | Manchester Unit
+ ed 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Acad
+ emia Cristiano Ronaldo\, Alcochete
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-sporting-cp-manchester-united@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T140000Z
+DTEND:20261125T154500Z
+SUMMARY:Sporting CP - Manchester United
+DESCRIPTION:UEFA Youth League
+LOCATION:Academia Cristiano Ronaldo\, Alcochete
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-roma-sporting-cp-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:SPORTING CP | Youth League | Matchday 6 | ✈️ | Roma
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Stad
+ io Tre Fontane\, Rome
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-roma-sporting-cp@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T130000Z
+DTEND:20261208T144500Z
+SUMMARY:Roma - Sporting CP
+DESCRIPTION:UEFA Youth League
+LOCATION:Stadio Tre Fontane\, Rome
+END:VEVENT
+END:VCALENDAR

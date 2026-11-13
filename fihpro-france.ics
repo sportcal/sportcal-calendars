@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:France · Pro League
+BEGIN:VEVENT
+UID:fihpro-20261208-france-great-britain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:FRANCE | Pro League | J1 | 🏟️ | Great Britain
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Estadio Municipal de Hockey de Córdoba\, Córdoba
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20261208-france-great-britain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T220000Z
+DTEND:20261208T234500Z
+SUMMARY:France - Great Britain
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Estadio Municipal de Hockey de Córdoba\, Córdoba
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20261209-argentina-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:FRANCE | Pro League | J1 | ✈️ | Argentina
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Estadio Municipal de Hockey de Córdoba\, Córdoba
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20261209-argentina-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T220000Z
+DTEND:20261209T234500Z
+SUMMARY:Argentina - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Estadio Municipal de Hockey de Córdoba\, Córdoba
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20261211-great-britain-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:FRANCE | Pro League | J3 | ✈️ | Great Britain
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Estadio Municipal de Hockey de Córdoba\, Córdoba
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20261211-great-britain-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261211T220000Z
+DTEND:20261211T234500Z
+SUMMARY:Great Britain - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Estadio Municipal de Hockey de Córdoba\, Córdoba
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20261212-argentina-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:FRANCE | Pro League | J1 | ✈️ | Argentina
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Estadio Municipal de Hockey de Córdoba\, Córdoba
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20261212-argentina-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261212T220000Z
+DTEND:20261212T234500Z
+SUMMARY:Argentina - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Estadio Municipal de Hockey de Córdoba\, Córdoba
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270213-belgium-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:FRANCE | Pro League | J7 | ✈️ | Belgium
+DESCRIPTION:Inici: 03:30 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270213-belgium-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270213T023000Z
+DTEND:20270213T041500Z
+SUMMARY:Belgium - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270214-netherlands-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:FRANCE | Pro League | J8 | ✈️ | Netherlands
+DESCRIPTION:Inici: 10:00 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270214-netherlands-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270214T090000Z
+DTEND:20270214T104500Z
+SUMMARY:Netherlands - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270216-australia-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:FRANCE | Pro League | J9 | ✈️ | Australia
+DESCRIPTION:Inici: 07:30 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270216-australia-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270216T063000Z
+DTEND:20270216T081500Z
+SUMMARY:Australia - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270217-australia-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:FRANCE | Pro League | J4 | ✈️ | Australia
+DESCRIPTION:Inici: 07:30 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270217-australia-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270217T063000Z
+DTEND:20270217T081500Z
+SUMMARY:Australia - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270220-france-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:FRANCE | Pro League | J9 | 🏟️ | Belgium
+DESCRIPTION:Inici: 03:30 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270220-france-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270220T023000Z
+DTEND:20270220T041500Z
+SUMMARY:France - Belgium
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270221-france-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:FRANCE | Pro League | J10 | 🏟️ | Netherlands
+DESCRIPTION:Inici: 10:00 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270221-france-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270221T090000Z
+DTEND:20270221T104500Z
+SUMMARY:France - Netherlands
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Gold Coast Hockey Centre\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270612-india-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:FRANCE | Pro League | J11 | ✈️ | India
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270612-india-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270612T113000Z
+DTEND:20270612T131500Z
+SUMMARY:India - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270613-france-india-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:FRANCE | Pro League | J12 | 🏟️ | India
+DESCRIPTION:Inici: 12:30 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270613-france-india@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270613T103000Z
+DTEND:20270613T121500Z
+SUMMARY:France - India
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270615-germany-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:FRANCE | Pro League | J13 | ✈️ | Germany
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270615-germany-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270615T183000Z
+DTEND:20270615T201500Z
+SUMMARY:Germany - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270616-germany-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:FRANCE | Pro League | J14 | ✈️ | Germany
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270616-germany-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270616T183000Z
+DTEND:20270616T201500Z
+SUMMARY:Germany - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270622-france-spain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:FRANCE | Pro League | J13 | 🏟️ | Spain
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270622-france-spain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270622T183000Z
+DTEND:20270622T201500Z
+SUMMARY:France - Spain
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270623-spain-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:FRANCE | Pro League | J14 | ✈️ | Spain
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · FIH Hockey Pro League\nEstadi: 
+ Belfius Hockey Arena\, Wavre
+END:VEVENT
+BEGIN:VEVENT
+UID:fihpro-20270623-spain-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270623T190000Z
+DTEND:20270623T204500Z
+SUMMARY:Spain - France
+DESCRIPTION:FIH Hockey Pro League
+LOCATION:Belfius Hockey Arena\, Wavre
+END:VEVENT
+END:VCALENDAR

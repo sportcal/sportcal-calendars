@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ślepsk Malow Suwałki · Tauron Liga
+BEGIN:VEVENT
+UID:plusliga-20261114-slepsk-malow-suwa-ki-zaksa-kedzierzyn-kozle-dia@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:ŚLEPSK MALOW SUWAŁKI | Tauron Liga | J6 | 🏟️ | ZAKSA Kędzie
+ rzyn-Koźle 🇵🇱
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261114-slepsk-malow-suwa-ki-zaksa-kedzierzyn-kozle@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Ślepsk Malow Suwałki - ZAKSA Kędzierzyn-Koźle
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261121-aluron-cmc-warta-zawiercie-slepsk-malow-suwa-ki-dia@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ŚLEPSK MALOW SUWAŁKI | Tauron Liga | J7 | ✈️ | Aluron CMC War
+ ta Zawiercie 🇵🇱
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261121-aluron-cmc-warta-zawiercie-slepsk-malow-suwa-ki@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Aluron CMC Warta Zawiercie - Ślepsk Malow Suwałki
+DESCRIPTION:Tauron Liga
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Neonet Norwid Częstochowa · Tauron Liga
+BEGIN:VEVENT
+UID:plusliga-20261113-gks-katowice-neonet-norwid-czestochowa-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:NEONET NORWID CZĘSTOCHOWA | Tauron Liga | J6 | ✈️ | GKS Katowi
+ ce 🇵🇱
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261113-gks-katowice-neonet-norwid-czestochowa@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261113T193000Z
+DTEND:20261113T211500Z
+SUMMARY:GKS Katowice - Neonet Norwid Częstochowa
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261119-neonet-norwid-czestochowa-pge-projekt-warsaw-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:NEONET NORWID CZĘSTOCHOWA | Tauron Liga | J7 | 🏟️ | PGE Proje
+ kt Warsaw 🇵🇱
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261119-neonet-norwid-czestochowa-pge-projekt-warsaw@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261119T163000Z
+DTEND:20261119T181500Z
+SUMMARY:Neonet Norwid Częstochowa - PGE Projekt Warsaw
+DESCRIPTION:Tauron Liga
+END:VEVENT
+END:VCALENDAR

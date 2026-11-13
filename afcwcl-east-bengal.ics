@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Bengal · AFC WCL
+BEGIN:VEVENT
+UID:afcwcl-20261101-ho-chi-minh-city-east-bengal-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:EAST BENGAL | AFC WCL | Group B | ✈️ | Hồ Chí Minh City 🇻
+ 🇳
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261101-ho-chi-minh-city-east-bengal@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261101T143000Z
+DTEND:20261101T161500Z
+SUMMARY:Hồ Chí Minh City - East Bengal
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261104-east-bengal-hwacheon-kspo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:EAST BENGAL | AFC WCL | Group B | 🏟️ | Hwacheon KSPO 🇰🇷
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261104-east-bengal-hwacheon-kspo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261104T143000Z
+DTEND:20261104T161500Z
+SUMMARY:East Bengal - Hwacheon KSPO
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261107-east-bengal-april-25-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:EAST BENGAL | AFC WCL | Group B | 🏟️ | April 25 🇰🇵
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261107-east-bengal-april-25@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261107T143000Z
+DTEND:20261107T161500Z
+SUMMARY:East Bengal - April 25
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+END:VCALENDAR

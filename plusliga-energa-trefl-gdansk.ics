@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Energa Trefl Gdańsk · Tauron Liga
+BEGIN:VEVENT
+UID:plusliga-20261115-energa-trefl-gdansk-jastrzebie-barkom-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ENERGA TREFL GDAŃSK | Tauron Liga | J6 | 🏟️ | Jastrzębie Bar
+ kom 🇵🇱
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261115-energa-trefl-gdansk-jastrzebie-barkom@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T170000Z
+DTEND:20261115T184500Z
+SUMMARY:Energa Trefl Gdańsk - Jastrzębie Barkom
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261121-podziemia-kredowe-chks-che-m-energa-trefl-gdansk-dia@
+ sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ENERGA TREFL GDAŃSK | Tauron Liga | J7 | ✈️ | Podziemia Kredow
+ e ChKS Chełm 🇵🇱
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261121-podziemia-kredowe-chks-che-m-energa-trefl-gdansk@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261121T193000Z
+DTEND:20261121T211500Z
+SUMMARY:Podziemia Kredowe ChKS Chełm - Energa Trefl Gdańsk
+DESCRIPTION:Tauron Liga
+END:VEVENT
+END:VCALENDAR

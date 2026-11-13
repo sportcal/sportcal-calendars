@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Worcester Warriors · Champ Rugby
+BEGIN:VEVENT
+UID:champrugby-20261115-worcester-warriors-ampthill-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:WORCESTER WARRIORS | Champ Rugby | J8 | 🏟️ | Ampthill 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Sixways St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:champrugby-20261115-worcester-warriors-ampthill@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T150000Z
+DTEND:20261115T164500Z
+SUMMARY:Worcester Warriors - Ampthill
+DESCRIPTION:Champ Rugby
+LOCATION:Sixways Stadium
+END:VEVENT
+END:VCALENDAR

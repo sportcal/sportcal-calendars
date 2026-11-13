@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sancor Seguros Vôlei Londrina · Superliga Feminina
+BEGIN:VEVENT
+UID:superligabrf-20261119-sancor-seguros-volei-londrina-dentil-praia-clube-
+ dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:SANCOR SEGUROS VÔLEI LONDRINA | Superliga Feminina | J6 | 🏟️ 
+ | Dentil Praia Clube 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261119-sancor-seguros-volei-londrina-dentil-praia-clube@
+ sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261119T000000Z
+DTEND:20261119T014500Z
+SUMMARY:Sancor Seguros Vôlei Londrina - Dentil Praia Clube
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261201-abel-moda-volei-brusque-sancor-seguros-volei-lond
+ rina-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:SANCOR SEGUROS VÔLEI LONDRINA | Superliga Feminina | J7 | ✈️ |
+  ABEL Moda Vôlei Brusque 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261201-abel-moda-volei-brusque-sancor-seguros-volei-lond
+ rina@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261201T213000Z
+DTEND:20261201T231500Z
+SUMMARY:ABEL Moda Vôlei Brusque - Sancor Seguros Vôlei Londrina
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261205-sancor-seguros-volei-londrina-paulistano-barueri-
+ dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:SANCOR SEGUROS VÔLEI LONDRINA | Superliga Feminina | J8 | 🏟️ 
+ | Paulistano Barueri 🇧🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261205-sancor-seguros-volei-londrina-paulistano-barueri@
+ sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Sancor Seguros Vôlei Londrina - Paulistano Barueri
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261209-brasilia-volei-sancor-seguros-volei-londrina-dia@
+ sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:SANCOR SEGUROS VÔLEI LONDRINA | Superliga Feminina | J9 | ✈️ |
+  Brasília Vôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261209-brasilia-volei-sancor-seguros-volei-londrina@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T213000Z
+DTEND:20261209T231500Z
+SUMMARY:Brasília Vôlei - Sancor Seguros Vôlei Londrina
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261215-sancor-seguros-volei-londrina-batavo-mackenzie-di
+ a@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:SANCOR SEGUROS VÔLEI LONDRINA | Superliga Feminina | J10 | 🏟️
+  | Batavo Mackenzie 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261215-sancor-seguros-volei-londrina-batavo-mackenzie@sp
+ ortcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261215T213000Z
+DTEND:20261215T231500Z
+SUMMARY:Sancor Seguros Vôlei Londrina - Batavo Mackenzie
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261220-pinheiros-sancor-seguros-volei-londrina-dia@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:SANCOR SEGUROS VÔLEI LONDRINA | Superliga Feminina | J11 | ✈️ 
+ | Pinheiros 🇧🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261220-pinheiros-sancor-seguros-volei-londrina@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Pinheiros - Sancor Seguros Vôlei Londrina
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,799 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Connecticut Sun · WNBA
+BEGIN:VEVENT
+UID:wnba-20260509-new-york-liberty-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | New York Liberty 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Barclays Center\,
+  Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260509-new-york-liberty-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260508T233000Z
+DTEND:20260509T011500Z
+SUMMARY:New York Liberty - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Barclays Center\, Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260510-connecticut-sun-seattle-storm-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Seattle Storm 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260510-connecticut-sun-seattle-storm@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T170000Z
+DTEND:20260510T184500Z
+SUMMARY:Connecticut Sun - Seattle Storm
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260514-connecticut-sun-las-vegas-aces-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Las Vegas Aces 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260514-connecticut-sun-las-vegas-aces@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260514T000000Z
+DTEND:20260514T014500Z
+SUMMARY:Connecticut Sun - Las Vegas Aces
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260516-connecticut-sun-las-vegas-aces-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Las Vegas Aces 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260516-connecticut-sun-las-vegas-aces@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260515T233000Z
+DTEND:20260516T011500Z
+SUMMARY:Connecticut Sun - Las Vegas Aces
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260519-portland-fire-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Portland Fire 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Moda Center\, Por
+ tland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260519-portland-fire-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260519T020000Z
+DTEND:20260519T034500Z
+SUMMARY:Portland Fire - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260521-seattle-storm-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Seattle Storm 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Climate Pledge Ar
+ ena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260521-seattle-storm-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260521T020000Z
+DTEND:20260521T034500Z
+SUMMARY:Seattle Storm - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260523-seattle-storm-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Seattle Storm 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Climate Pledge Ar
+ ena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260523-seattle-storm-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260523T020000Z
+DTEND:20260523T034500Z
+SUMMARY:Seattle Storm - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260526-golden-state-valkyries-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Golden State Valkyries 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Chase Center\, Sa
+ n Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260526-golden-state-valkyries-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260526T020000Z
+DTEND:20260526T034500Z
+SUMMARY:Golden State Valkyries - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Chase Center\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260528-portland-fire-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Portland Fire 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Moda Center\, Por
+ tland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260528-portland-fire-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260528T020000Z
+DTEND:20260528T034500Z
+SUMMARY:Portland Fire - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260531-connecticut-sun-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Los Angeles Sparks 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · WNBA\nEstadi: PeoplesBank Arena
+ \, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260531-connecticut-sun-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260530T220000Z
+DTEND:20260530T234500Z
+SUMMARY:Connecticut Sun - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260603-atlanta-dream-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Atlanta Dream 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Gateway Center\, 
+ College Park\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260603-atlanta-dream-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260602T233000Z
+DTEND:20260603T011500Z
+SUMMARY:Atlanta Dream - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Gateway Center\, College Park\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260606-chicago-sky-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Chicago Sky 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Wintrust Arena\, 
+ Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260606-chicago-sky-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260605T233000Z
+DTEND:20260606T011500Z
+SUMMARY:Chicago Sky - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Wintrust Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260609-connecticut-sun-new-york-liberty-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | New York Liberty 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260609-connecticut-sun-new-york-liberty@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260608T230000Z
+DTEND:20260609T004500Z
+SUMMARY:Connecticut Sun - New York Liberty
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260611-toronto-tempo-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Toronto Tempo 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Coca-Cola Coliseu
+ m\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260611-toronto-tempo-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260610T230000Z
+DTEND:20260611T004500Z
+SUMMARY:Toronto Tempo - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Coca-Cola Coliseum\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260614-connecticut-sun-indiana-fever-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Indiana Fever 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260614-connecticut-sun-indiana-fever@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260613T220000Z
+DTEND:20260613T234500Z
+SUMMARY:Connecticut Sun - Indiana Fever
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260618-connecticut-sun-washington-mystics-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Washington Mystics 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260618-connecticut-sun-washington-mystics@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260617T230000Z
+DTEND:20260618T004500Z
+SUMMARY:Connecticut Sun - Washington Mystics
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260620-connecticut-sun-toronto-tempo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Toronto Tempo 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260620-connecticut-sun-toronto-tempo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260619T233000Z
+DTEND:20260620T011500Z
+SUMMARY:Connecticut Sun - Toronto Tempo
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260623-connecticut-sun-chicago-sky-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Chicago Sky 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260623-connecticut-sun-chicago-sky@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260622T230000Z
+DTEND:20260623T004500Z
+SUMMARY:Connecticut Sun - Chicago Sky
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260627-connecticut-sun-washington-mystics-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Washington Mystics 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260627-connecticut-sun-washington-mystics@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260626T233000Z
+DTEND:20260627T011500Z
+SUMMARY:Connecticut Sun - Washington Mystics
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260703-connecticut-sun-dallas-wings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Dallas Wings 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: PeoplesBank Arena
+ \, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260703-connecticut-sun-dallas-wings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260703T000000Z
+DTEND:20260703T014500Z
+SUMMARY:Connecticut Sun - Dallas Wings
+DESCRIPTION:WNBA
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260707-minnesota-lynx-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Minnesota Lynx 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: Target Center\, M
+ inneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260707-minnesota-lynx-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260707T000000Z
+DTEND:20260707T014500Z
+SUMMARY:Minnesota Lynx - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Target Center\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260709-connecticut-sun-minnesota-lynx-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Minnesota Lynx 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260709-connecticut-sun-minnesota-lynx@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260708T233000Z
+DTEND:20260709T011500Z
+SUMMARY:Connecticut Sun - Minnesota Lynx
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260711-connecticut-sun-golden-state-valkyries-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Golden State Valkyries 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260711-connecticut-sun-golden-state-valkyries@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260710T233000Z
+DTEND:20260711T011500Z
+SUMMARY:Connecticut Sun - Golden State Valkyries
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260714-connecticut-sun-portland-fire-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Portland Fire 🇺🇸
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260714-connecticut-sun-portland-fire@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260714T150000Z
+DTEND:20260714T164500Z
+SUMMARY:Connecticut Sun - Portland Fire
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260718-phoenix-mercury-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Phoenix Mercury 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Mortgage Matchup 
+ Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260718-phoenix-mercury-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260718T020000Z
+DTEND:20260718T034500Z
+SUMMARY:Phoenix Mercury - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260720-phoenix-mercury-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Phoenix Mercury 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Mortgage Matchup 
+ Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260720-phoenix-mercury-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T230000Z
+DTEND:20260720T004500Z
+SUMMARY:Phoenix Mercury - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260723-indiana-fever-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Indiana Fever 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: Gainbridge Fieldh
+ ouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260723-indiana-fever-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260723T000000Z
+DTEND:20260723T014500Z
+SUMMARY:Indiana Fever - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260729-washington-mystics-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Washington Mystics 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: CareFirst Arena\,
+  Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260729-washington-mystics-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260728T233000Z
+DTEND:20260729T011500Z
+SUMMARY:Washington Mystics - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:CareFirst Arena\, Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260731-chicago-sky-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Chicago Sky 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: Wintrust Arena\, 
+ Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260731-chicago-sky-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260731T000000Z
+DTEND:20260731T014500Z
+SUMMARY:Chicago Sky - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Wintrust Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260803-dallas-wings-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Dallas Wings 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: College Park Cent
+ er\, Arlington\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260803-dallas-wings-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T230000Z
+DTEND:20260803T004500Z
+SUMMARY:Dallas Wings - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:College Park Center\, Arlington\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260808-connecticut-sun-phoenix-mercury-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Phoenix Mercury 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260808-connecticut-sun-phoenix-mercury@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260807T233000Z
+DTEND:20260808T011500Z
+SUMMARY:Connecticut Sun - Phoenix Mercury
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260814-connecticut-sun-atlanta-dream-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Atlanta Dream 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260814-connecticut-sun-atlanta-dream@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260813T230000Z
+DTEND:20260814T004500Z
+SUMMARY:Connecticut Sun - Atlanta Dream
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260815-connecticut-sun-new-york-liberty-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | New York Liberty 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260815-connecticut-sun-new-york-liberty@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260815T170000Z
+DTEND:20260815T184500Z
+SUMMARY:Connecticut Sun - New York Liberty
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260819-connecticut-sun-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Los Angeles Sparks 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: TD Garden\, Bosto
+ n\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260819-connecticut-sun-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260818T230000Z
+DTEND:20260819T004500Z
+SUMMARY:Connecticut Sun - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:TD Garden\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260821-las-vegas-aces-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Las Vegas Aces 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Michelob ULTRA Ar
+ ena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260821-las-vegas-aces-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260821T020000Z
+DTEND:20260821T034500Z
+SUMMARY:Las Vegas Aces - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260823-los-angeles-sparks-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Los Angeles Sparks 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260823-los-angeles-sparks-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T010000Z
+DTEND:20260823T024500Z
+SUMMARY:Los Angeles Sparks - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260826-connecticut-sun-chicago-sky-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Chicago Sky 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260826-connecticut-sun-chicago-sky@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260825T230000Z
+DTEND:20260826T004500Z
+SUMMARY:Connecticut Sun - Chicago Sky
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260827-connecticut-sun-golden-state-valkyries-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Golden State Valkyries 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260827-connecticut-sun-golden-state-valkyries@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260826T230000Z
+DTEND:20260827T004500Z
+SUMMARY:Connecticut Sun - Golden State Valkyries
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260829-indiana-fever-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Indiana Fever 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Gainbridge Fieldh
+ ouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260829-indiana-fever-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260828T233000Z
+DTEND:20260829T011500Z
+SUMMARY:Indiana Fever - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260831-dallas-wings-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Dallas Wings 🇺🇸
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · WNBA\nEstadi: College Park Cent
+ er\, Arlington\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260831-dallas-wings-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260831T003000Z
+DTEND:20260831T021500Z
+SUMMARY:Dallas Wings - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:College Park Center\, Arlington\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260918-atlanta-dream-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Atlanta Dream 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Gateway Center\, 
+ College Park\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260918-atlanta-dream-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260917T233000Z
+DTEND:20260918T011500Z
+SUMMARY:Atlanta Dream - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:Gateway Center\, College Park\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260920-connecticut-sun-minnesota-lynx-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Minnesota Lynx 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260920-connecticut-sun-minnesota-lynx@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260920T170000Z
+DTEND:20260920T184500Z
+SUMMARY:Connecticut Sun - Minnesota Lynx
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260923-washington-mystics-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:CONNECTICUT SUN | WNBA | ✈️ | Washington Mystics 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: CareFirst Arena\,
+  Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260923-washington-mystics-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260922T233000Z
+DTEND:20260923T011500Z
+SUMMARY:Washington Mystics - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:CareFirst Arena\, Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260925-connecticut-sun-toronto-tempo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:CONNECTICUT SUN | WNBA | 🏟️ | Toronto Tempo 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Mohegan Sun Arena
+ \, Uncasville\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260925-connecticut-sun-toronto-tempo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260924T230000Z
+DTEND:20260925T004500Z
+SUMMARY:Connecticut Sun - Toronto Tempo
+DESCRIPTION:WNBA
+LOCATION:Mohegan Sun Arena\, Uncasville\, CT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Papua New Guinea · RLWC W
+BEGIN:VEVENT
+UID:rlwcw-20261017-papua-new-guinea-france-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:PAPUA NEW GUINEA | RLWC W | J1 | 🏟️ | France
+DESCRIPTION:Inici: 04:15 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: PNG Football Stadium\, Port Moresby
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261017-papua-new-guinea-france@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261017T021500Z
+DTEND:20261017T040000Z
+SUMMARY:Papua New Guinea - France
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:PNG Football Stadium\, Port Moresby
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261024-papua-new-guinea-fiji-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:PAPUA NEW GUINEA | RLWC W | J2 | 🏟️ | Fiji
+DESCRIPTION:Inici: 04:15 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: PNG Football Stadium\, Port Moresby
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261024-papua-new-guinea-fiji@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261024T021500Z
+DTEND:20261024T040000Z
+SUMMARY:Papua New Guinea - Fiji
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:PNG Football Stadium\, Port Moresby
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261031-new-zealand-papua-new-guinea-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:PAPUA NEW GUINEA | RLWC W | J3 | ✈️ | New Zealand
+DESCRIPTION:Inici: 07:55 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Robina Stadium\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261031-new-zealand-papua-new-guinea@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261031T065500Z
+DTEND:20261031T084000Z
+SUMMARY:New Zealand - Papua New Guinea
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Robina Stadium\, Gold Coast
+END:VEVENT
+END:VCALENDAR

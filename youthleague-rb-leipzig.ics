@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RB Leipzig · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-rb-leipzig-lens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:RB LEIPZIG | Youth League | Matchday 5 | 🏟️ | Lens 🇫🇷
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · UEFA Youth League\nEstadi: RB L
+ eipzig Fußball-Akademie\, Leipzig
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-rb-leipzig-lens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T150000Z
+DTEND:20261124T164500Z
+SUMMARY:RB Leipzig - Lens
+DESCRIPTION:UEFA Youth League
+LOCATION:RB Leipzig Fußball-Akademie\, Leipzig
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-manchester-united-rb-leipzig-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:RB LEIPZIG | Youth League | Matchday 6 | ✈️ | Manchester United
+  🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Leig
+ h Sports Village\, Leigh
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-manchester-united-rb-leipzig@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T140000Z
+DTEND:20261208T154500Z
+SUMMARY:Manchester United - RB Leipzig
+DESCRIPTION:UEFA Youth League
+LOCATION:Leigh Sports Village\, Leigh
+END:VEVENT
+END:VCALENDAR

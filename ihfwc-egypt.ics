@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Egypt · World Championship
+BEGIN:VEVENT
+UID:ihfwc-20270113-egypt-cape-verde-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:EGYPT | World Championship | Preliminary Group B | 🏟️ | Cape V
+ erde
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270113-egypt-cape-verde@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270113T193000Z
+DTEND:20270113T211500Z
+SUMMARY:Egypt - Cape Verde
+DESCRIPTION:IHF World Championship
+LOCATION:Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270115-saudi-arabia-egypt-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:EGYPT | World Championship | Preliminary Group B | ✈️ | Saudi A
+ rabia
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270115-saudi-arabia-egypt@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270115T170000Z
+DTEND:20270115T184500Z
+SUMMARY:Saudi Arabia - Egypt
+DESCRIPTION:IHF World Championship
+LOCATION:Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270117-egypt-italy-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:EGYPT | World Championship | Preliminary Group B | 🏟️ | Italy
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Porsche-Arena\, Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270117-egypt-italy@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270117T193000Z
+DTEND:20270117T211500Z
+SUMMARY:Egypt - Italy
+DESCRIPTION:IHF World Championship
+LOCATION:Porsche-Arena\, Stuttgart
+END:VEVENT
+END:VCALENDAR

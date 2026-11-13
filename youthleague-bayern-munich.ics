@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bayern Munich · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-lille-bayern-munich-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BAYERN MUNICH | Youth League | Matchday 5 | ✈️ | Lille 🇫🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Doma
+ ine de Luchin\, Camphin-en-Pévèle
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-lille-bayern-munich@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T140000Z
+DTEND:20261125T154500Z
+SUMMARY:Lille - Bayern Munich
+DESCRIPTION:UEFA Youth League
+LOCATION:Domaine de Luchin\, Camphin-en-Pévèle
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-bayern-munich-slavia-prague-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:BAYERN MUNICH | Youth League | Matchday 6 | 🏟️ | Slavia Prague
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · UEFA Youth League\nEstadi: FC B
+ ayern Campus\, Munich
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-bayern-munich-slavia-prague@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T150000Z
+DTEND:20261208T164500Z
+SUMMARY:Bayern Munich - Slavia Prague
+DESCRIPTION:UEFA Youth League
+LOCATION:FC Bayern Campus\, Munich
+END:VEVENT
+END:VCALENDAR

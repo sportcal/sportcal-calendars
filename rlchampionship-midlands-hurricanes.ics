@@ -1,0 +1,484 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Midlands Hurricanes · Championship
+BEGIN:VEVENT
+UID:rlchampionship-20260118-midlands-hurricanes-newcastle-thunder-dia@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:MIDLANDS HURRICANES | Championship | J1 | 🏟️ | Newcastle Thund
+ er 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260118-midlands-hurricanes-newcastle-thunder@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260118T140000Z
+DTEND:20260118T154500Z
+SUMMARY:Midlands Hurricanes - Newcastle Thunder
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-midlands-hurricanes-doncaster-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:MIDLANDS HURRICANES | Championship | J2 | 🏟️ | Doncaster 🇬
+ 🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-midlands-hurricanes-doncaster@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260201T140000Z
+DTEND:20260201T154500Z
+SUMMARY:Midlands Hurricanes - Doncaster
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260214-goole-vikings-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:MIDLANDS HURRICANES | Championship | J3 | ✈️ | Goole Vikings 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Victoria 
+ Pleasure Grounds
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260214-goole-vikings-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260214T150000Z
+DTEND:20260214T164500Z
+SUMMARY:Goole Vikings - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Victoria Pleasure Grounds
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260222-midlands-hurricanes-batley-bulldogs-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:MIDLANDS HURRICANES | Championship | J4 | 🏟️ | Batley Bulldogs
+  🇬🇧
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260222-midlands-hurricanes-batley-bulldogs@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260222T143000Z
+DTEND:20260222T161500Z
+SUMMARY:Midlands Hurricanes - Batley Bulldogs
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-midlands-hurricanes-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:MIDLANDS HURRICANES | Championship | J4 | 🏟️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-midlands-hurricanes-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T140000Z
+DTEND:20260301T154500Z
+SUMMARY:Midlands Hurricanes - Oldham
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-whitehaven-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:MIDLANDS HURRICANES | Championship | J6 | ✈️ | Whitehaven 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-whitehaven-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T150000Z
+DTEND:20260308T164500Z
+SUMMARY:Whitehaven - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260322-rochdale-hornets-midlands-hurricanes-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:MIDLANDS HURRICANES | Championship | J7 | ✈️ | Rochdale Hornets
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Spotland 
+ Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260322-rochdale-hornets-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260322T150000Z
+DTEND:20260322T164500Z
+SUMMARY:Rochdale Hornets - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Spotland Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-keighley-cougars-midlands-hurricanes-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:MIDLANDS HURRICANES | Championship | J7 | ✈️ | Keighley Cougars
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Cougar Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-keighley-cougars-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T140000Z
+DTEND:20260329T154500Z
+SUMMARY:Keighley Cougars - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Cougar Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260405-north-wales-crusaders-midlands-hurricanes-dia@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:MIDLANDS HURRICANES | Championship | J8 | ✈️ | North Wales Crus
+ aders 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Eirias St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260405-north-wales-crusaders-midlands-hurricanes@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART:20260405T140000Z
+DTEND:20260405T154500Z
+SUMMARY:North Wales Crusaders - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Eirias Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-workington-town-midlands-hurricanes-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:MIDLANDS HURRICANES | Championship | J9 | ✈️ | Workington Town 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-workington-town-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260412T140000Z
+DTEND:20260412T154500Z
+SUMMARY:Workington Town - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-swinton-lions-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:MIDLANDS HURRICANES | Championship | J11 | ✈️ | Swinton Lions 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-swinton-lions-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T140000Z
+DTEND:20260503T154500Z
+SUMMARY:Swinton Lions - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-london-broncos-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:MIDLANDS HURRICANES | Championship | J12 | ✈️ | London Broncos 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Plough La
+ ne
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-london-broncos-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T140000Z
+DTEND:20260510T154500Z
+SUMMARY:London Broncos - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Plough Lane
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260522-oldham-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:MIDLANDS HURRICANES | Championship | J13 | ✈️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260522-oldham-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260522T184500Z
+DTEND:20260522T203000Z
+SUMMARY:Oldham - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260606-midlands-hurricanes-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:MIDLANDS HURRICANES | Championship | J14 | 🏟️ | Whitehaven 
+ 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260606-midlands-hurricanes-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260606T130000Z
+DTEND:20260606T144500Z
+SUMMARY:Midlands Hurricanes - Whitehaven
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260620-midlands-hurricanes-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:MIDLANDS HURRICANES | Championship | J15 | 🏟️ | Swinton Lions 
+ 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260620-midlands-hurricanes-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260620T120000Z
+DTEND:20260620T134500Z
+SUMMARY:Midlands Hurricanes - Swinton Lions
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260623-midlands-hurricanes-goole-vikings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:MIDLANDS HURRICANES | Championship | J16 | 🏟️ | Goole Vikings 
+ 🇬🇧
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260623-midlands-hurricanes-goole-vikings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260623T183000Z
+DTEND:20260623T201500Z
+SUMMARY:Midlands Hurricanes - Goole Vikings
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-batley-bulldogs-midlands-hurricanes-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:MIDLANDS HURRICANES | Championship | J17 | ✈️ | Batley Bulldogs
+  🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Mount Ple
+ asant
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-batley-bulldogs-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260712T140000Z
+DTEND:20260712T154500Z
+SUMMARY:Batley Bulldogs - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Mount Pleasant
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-midlands-hurricanes-rochdale-hornets-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:MIDLANDS HURRICANES | Championship | J18 | 🏟️ | Rochdale Horne
+ ts 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-midlands-hurricanes-rochdale-hornets@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T120000Z
+DTEND:20260719T134500Z
+SUMMARY:Midlands Hurricanes - Rochdale Hornets
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-midlands-hurricanes-london-broncos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:MIDLANDS HURRICANES | Championship | J19 | 🏟️ | London Broncos
+  🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-midlands-hurricanes-london-broncos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260726T130000Z
+DTEND:20260726T144500Z
+SUMMARY:Midlands Hurricanes - London Broncos
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-midlands-hurricanes-keighley-cougars-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:MIDLANDS HURRICANES | Championship | J20 | 🏟️ | Keighley Couga
+ rs 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260802-midlands-hurricanes-keighley-cougars@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T130000Z
+DTEND:20260802T144500Z
+SUMMARY:Midlands Hurricanes - Keighley Cougars
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-midlands-hurricanes-workington-town-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:MIDLANDS HURRICANES | Championship | J21 | 🏟️ | Workington Tow
+ n 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-midlands-hurricanes-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260809T130000Z
+DTEND:20260809T144500Z
+SUMMARY:Midlands Hurricanes - Workington Town
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-doncaster-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:MIDLANDS HURRICANES | Championship | J22 | ✈️ | Doncaster 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Club Donc
+ aster Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-doncaster-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260816T140000Z
+DTEND:20260816T154500Z
+SUMMARY:Doncaster - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Club Doncaster Sports Village
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260822-newcastle-thunder-midlands-hurricanes-dia@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:MIDLANDS HURRICANES | Championship | J23 | ✈️ | Newcastle Thund
+ er 🇬🇧
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260822-newcastle-thunder-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260822T150000Z
+DTEND:20260822T164500Z
+SUMMARY:Newcastle Thunder - Midlands Hurricanes
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-midlands-hurricanes-north-wales-crusaders-dia@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:MIDLANDS HURRICANES | Championship | J24 | 🏟️ | North Wales Cr
+ usaders 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-midlands-hurricanes-north-wales-crusaders@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART:20260830T130000Z
+DTEND:20260830T144500Z
+SUMMARY:Midlands Hurricanes - North Wales Crusaders
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260905-midlands-hurricanes-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:MIDLANDS HURRICANES | Championship | J25 | 🏟️ | Whitehaven 
+ 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260905-midlands-hurricanes-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260905T130000Z
+DTEND:20260905T144500Z
+SUMMARY:Midlands Hurricanes - Whitehaven
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260913-oldham-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:MIDLANDS HURRICANES | Championship | J26 | ✈️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260913-oldham-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260913T140000Z
+DTEND:20260913T154500Z
+SUMMARY:Oldham - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+END:VCALENDAR

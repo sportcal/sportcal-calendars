@@ -1,0 +1,502 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sada Cruzeiro Vôlei · Superliga
+BEGIN:VEVENT
+UID:superligabr-20251021-sada-cruzeiro-volei-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J1 | 🏟️ | JF Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251021-sada-cruzeiro-volei-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251021T213000Z
+DTEND:20251021T231500Z
+SUMMARY:Sada Cruzeiro Vôlei - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251028-sada-cruzeiro-volei-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J2 | 🏟️ | SESI Bauru 🇧
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251028-sada-cruzeiro-volei-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251028T000000Z
+DTEND:20251028T014500Z
+SUMMARY:Sada Cruzeiro Vôlei - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251102-azulim-sicoob-aracoop-monte-carmelo-sada-cruzeiro-
+ volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251102
+DTEND;VALUE=DATE:20251103
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J3 | ✈️ | Azulim Sicoob Arac
+ oop Monte Carmelo 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251102-azulim-sicoob-aracoop-monte-carmelo-sada-cruzeiro-
+ volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251102T213000Z
+DTEND:20251102T231500Z
+SUMMARY:Azulim Sicoob Aracoop Monte Carmelo - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251107-sada-cruzeiro-volei-joinville-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J4 | 🏟️ | Joinville Vôlei 
+ 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251107-sada-cruzeiro-volei-joinville-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251107T000000Z
+DTEND:20251107T014500Z
+SUMMARY:Sada Cruzeiro Vôlei - Joinville Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251109-sada-cruzeiro-volei-itambe-minas-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251109
+DTEND;VALUE=DATE:20251110
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J5 | 🏟️ | Itambé Minas 
+ 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251109-sada-cruzeiro-volei-itambe-minas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251109T000000Z
+DTEND:20251109T014500Z
+SUMMARY:Sada Cruzeiro Vôlei - Itambé Minas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251113-sada-cruzeiro-volei-volei-renata-campinas-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J5 | 🏟️ | Vôlei Renata Cam
+ pinas 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251113-sada-cruzeiro-volei-volei-renata-campinas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251113T000000Z
+DTEND:20251113T014500Z
+SUMMARY:Sada Cruzeiro Vôlei - Vôlei Renata Campinas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251115-saneago-goias-volei-sada-cruzeiro-volei-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J6 | ✈️ | Saneago Goiás Vô
+ lei 🇧🇷
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251115-saneago-goias-volei-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251115T220000Z
+DTEND:20251115T234500Z
+SUMMARY:Saneago Goiás Vôlei - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251122-sada-cruzeiro-volei-suzano-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J7 | 🏟️ | Suzano Vôlei 
+ 🇧🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251122-sada-cruzeiro-volei-suzano-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251122T190000Z
+DTEND:20251122T204500Z
+SUMMARY:Sada Cruzeiro Vôlei - Suzano Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251126-viapol-volei-sao-jose-sada-cruzeiro-volei-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J8 | ✈️ | Viapol Vôlei São
+  José 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251126-viapol-volei-sao-jose-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251126T213000Z
+DTEND:20251126T231500Z
+SUMMARY:Viapol Vôlei São José - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251202-sada-cruzeiro-volei-praia-clube-uberlandia-volei-d
+ ia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J10 | 🏟️ | Praia Clube Uber
+ lândia Vôlei 🇧🇷
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251202-sada-cruzeiro-volei-praia-clube-uberlandia-volei@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251202T220000Z
+DTEND:20251202T234500Z
+SUMMARY:Sada Cruzeiro Vôlei - Praia Clube Uberlândia Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251208-sil-volei-guarulhos-sada-cruzeiro-volei-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J9 | ✈️ | Sil Vôlei Guarulh
+ os 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251208-sil-volei-guarulhos-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251208T213000Z
+DTEND:20251208T231500Z
+SUMMARY:Sil Vôlei Guarulhos - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260109-jf-volei-sada-cruzeiro-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J12 | ✈️ | JF Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260109-jf-volei-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260109T213000Z
+DTEND:20260109T231500Z
+SUMMARY:JF Vôlei - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260116-sesi-bauru-sada-cruzeiro-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J13 | ✈️ | SESI Bauru 🇧
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260116-sesi-bauru-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260116T000000Z
+DTEND:20260116T014500Z
+SUMMARY:SESI Bauru - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260122-sada-cruzeiro-volei-azulim-sicoob-aracoop-monte-ca
+ rmelo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J14 | 🏟️ | Azulim Sicoob Ar
+ acoop Monte Carmelo 🇧🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260122-sada-cruzeiro-volei-azulim-sicoob-aracoop-monte-ca
+ rmelo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260122T223000Z
+DTEND:20260123T001500Z
+SUMMARY:Sada Cruzeiro Vôlei - Azulim Sicoob Aracoop Monte Carmelo
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260202-itambe-minas-sada-cruzeiro-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J15 | ✈️ | Itambé Minas 
+ 🇧🇷
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260202-itambe-minas-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260201T230000Z
+DTEND:20260202T004500Z
+SUMMARY:Itambé Minas - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260207-sada-cruzeiro-volei-saneago-goias-volei-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J16 | 🏟️ | Saneago Goiás V
+ ôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260207-sada-cruzeiro-volei-saneago-goias-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260207T213000Z
+DTEND:20260207T231500Z
+SUMMARY:Sada Cruzeiro Vôlei - Saneago Goiás Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260213-suzano-volei-sada-cruzeiro-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J17 | ✈️ | Suzano Vôlei 
+ 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260213-suzano-volei-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260213T000000Z
+DTEND:20260213T014500Z
+SUMMARY:Suzano Vôlei - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260221-sada-cruzeiro-volei-viapol-volei-sao-jose-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J18 | 🏟️ | Viapol Vôlei S
+ ão José 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260221-sada-cruzeiro-volei-viapol-volei-sao-jose@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260221T213000Z
+DTEND:20260221T231500Z
+SUMMARY:Sada Cruzeiro Vôlei - Viapol Vôlei São José
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260315-sada-cruzeiro-volei-sil-volei-guarulhos-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J20 | 🏟️ | Sil Vôlei Guaru
+ lhos 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260315-sada-cruzeiro-volei-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260315T000000Z
+DTEND:20260315T014500Z
+SUMMARY:Sada Cruzeiro Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260318-praia-clube-uberlandia-volei-sada-cruzeiro-volei-d
+ ia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J20 | ✈️ | Praia Clube Uberl
+ ândia Vôlei 🇧🇷
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260318-praia-clube-uberlandia-volei-sada-cruzeiro-volei@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260318T220000Z
+DTEND:20260318T234500Z
+SUMMARY:Praia Clube Uberlândia Vôlei - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260322-joinville-volei-sada-cruzeiro-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J21 | ✈️ | Joinville Vôlei 
+ 🇧🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260322-joinville-volei-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260322T223000Z
+DTEND:20260323T001500Z
+SUMMARY:Joinville Vôlei - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260328-volei-renata-campinas-sada-cruzeiro-volei-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J22 | ✈️ | Vôlei Renata Cam
+ pinas 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260328-volei-renata-campinas-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260328T000000Z
+DTEND:20260328T014500Z
+SUMMARY:Vôlei Renata Campinas - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260405-sada-cruzeiro-volei-saneago-goias-volei-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J23 | 🏟️ | Saneago Goiás V
+ ôlei 🇧🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260405-sada-cruzeiro-volei-saneago-goias-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260405T000000Z
+DTEND:20260405T014500Z
+SUMMARY:Sada Cruzeiro Vôlei - Saneago Goiás Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260410-saneago-goias-volei-sada-cruzeiro-volei-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J24 | ✈️ | Saneago Goiás V
+ ôlei 🇧🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260410-saneago-goias-volei-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260410T000000Z
+DTEND:20260410T014500Z
+SUMMARY:Saneago Goiás Vôlei - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260423-sada-cruzeiro-volei-itambe-minas-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J26 | 🏟️ | Itambé Minas 
+ 🇧🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260423-sada-cruzeiro-volei-itambe-minas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260423T000000Z
+DTEND:20260423T014500Z
+SUMMARY:Sada Cruzeiro Vôlei - Itambé Minas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260428-itambe-minas-sada-cruzeiro-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J23 | ✈️ | Itambé Minas 
+ 🇧🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260428-itambe-minas-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260428T000000Z
+DTEND:20260428T014500Z
+SUMMARY:Itambé Minas - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260502-sada-cruzeiro-volei-itambe-minas-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J23 | 🏟️ | Itambé Minas 
+ 🇧🇷
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260502-sada-cruzeiro-volei-itambe-minas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260501T220000Z
+DTEND:20260501T234500Z
+SUMMARY:Sada Cruzeiro Vôlei - Itambé Minas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260510-sada-cruzeiro-volei-volei-renata-campinas-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:SADA CRUZEIRO VÔLEI | Superliga | J23 | 🏟️ | Vôlei Renata Ca
+ mpinas 🇧🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260510-sada-cruzeiro-volei-volei-renata-campinas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T130000Z
+DTEND:20260510T144500Z
+SUMMARY:Sada Cruzeiro Vôlei - Vôlei Renata Campinas
+DESCRIPTION:Superliga
+END:VEVENT
+END:VCALENDAR

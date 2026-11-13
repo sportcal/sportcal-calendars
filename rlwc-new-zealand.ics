@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Zealand · RLWC
+BEGIN:VEVENT
+UID:rlwc-20261015-australia-new-zealand-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:NEW ZEALAND | RLWC | J1 | ✈️ | Australia
+DESCRIPTION:Inici: 11:05 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  Sydney Football Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261015-australia-new-zealand@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261015T090500Z
+DTEND:20261015T105000Z
+SUMMARY:Australia - New Zealand
+DESCRIPTION:Rugby League World Cup
+LOCATION:Sydney Football Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261025-new-zealand-cook-islands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:NEW ZEALAND | RLWC | J2 | 🏟️ | Cook Islands
+DESCRIPTION:Inici: 06:05 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  Te Kaha Stadium\, Christchurch
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261025-new-zealand-cook-islands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261025T050500Z
+DTEND:20261025T065000Z
+SUMMARY:New Zealand - Cook Islands
+DESCRIPTION:Rugby League World Cup
+LOCATION:Te Kaha Stadium\, Christchurch
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261031-new-zealand-fiji-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:NEW ZEALAND | RLWC | J3 | 🏟️ | Fiji
+DESCRIPTION:Inici: 05:45 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  Robina Stadium\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261031-new-zealand-fiji@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261031T044500Z
+DTEND:20261031T063000Z
+SUMMARY:New Zealand - Fiji
+DESCRIPTION:Rugby League World Cup
+LOCATION:Robina Stadium\, Gold Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261107-new-zealand-tonga-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:NEW ZEALAND | RLWC | J4 | 🏟️ | Tonga
+DESCRIPTION:Inici: 10:05 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  Newcastle International Sports Centre\, Newcastle
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261107-new-zealand-tonga@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261107T090500Z
+DTEND:20261107T105000Z
+SUMMARY:New Zealand - Tonga
+DESCRIPTION:Rugby League World Cup
+LOCATION:Newcastle International Sports Centre\, Newcastle
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261115-australia-new-zealand-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:NEW ZEALAND | RLWC | J5 | ✈️ | Australia
+DESCRIPTION:Inici: 09:35 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  Lang Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261115-australia-new-zealand@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T083500Z
+DTEND:20261115T102000Z
+SUMMARY:Australia - New Zealand
+DESCRIPTION:Rugby League World Cup
+LOCATION:Lang Park\, Brisbane
+END:VEVENT
+END:VCALENDAR

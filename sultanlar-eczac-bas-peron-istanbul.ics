@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eczacıbaşı Peron İstanbul · Sultanlar Ligi
+BEGIN:VEVENT
+UID:sultanlar-20261115-zeren-spor-eczac-bas-peron-istanbul-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ECZACIBAŞI PERON İSTANBUL | Sultanlar Ligi | J9 | ✈️ | Zeren 
+ Spor 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-zeren-spor-eczac-bas-peron-istanbul@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T110000Z
+DTEND:20261115T124500Z
+SUMMARY:Zeren Spor - Eczacıbaşı Peron İstanbul
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261121-eczac-bas-peron-istanbul-kuzeyboru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ECZACIBAŞI PERON İSTANBUL | Sultanlar Ligi | J10 | 🏟️ | Kuze
+ yboru 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261121-eczac-bas-peron-istanbul-kuzeyboru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261121T110000Z
+DTEND:20261121T124500Z
+SUMMARY:Eczacıbaşı Peron İstanbul - Kuzeyboru
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+END:VCALENDAR

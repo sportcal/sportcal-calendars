@@ -1,0 +1,379 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SESI Bauru · Superliga
+BEGIN:VEVENT
+UID:superligabr-20251023-sesi-bauru-joinville-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:SESI BAURU | Superliga | J1 | 🏟️ | Joinville Vôlei 🇧🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251023-sesi-bauru-joinville-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251023T213000Z
+DTEND:20251023T231500Z
+SUMMARY:SESI Bauru - Joinville Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251028-sada-cruzeiro-volei-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
+SUMMARY:SESI BAURU | Superliga | J2 | ✈️ | Sada Cruzeiro Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251028-sada-cruzeiro-volei-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251028T000000Z
+DTEND:20251028T014500Z
+SUMMARY:Sada Cruzeiro Vôlei - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251110-sesi-bauru-suzano-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251111
+SUMMARY:SESI BAURU | Superliga | J5 | 🏟️ | Suzano Vôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251110-sesi-bauru-suzano-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251110T213000Z
+DTEND:20251110T231500Z
+SUMMARY:SESI Bauru - Suzano Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251117-sesi-bauru-praia-clube-uberlandia-volei-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251118
+SUMMARY:SESI BAURU | Superliga | J6 | 🏟️ | Praia Clube Uberlândia Vô
+ lei 🇧🇷
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251117-sesi-bauru-praia-clube-uberlandia-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251117T220000Z
+DTEND:20251117T234500Z
+SUMMARY:SESI Bauru - Praia Clube Uberlândia Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251123-volei-renata-campinas-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251124
+SUMMARY:SESI BAURU | Superliga | J7 | ✈️ | Vôlei Renata Campinas 🇧
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251123-volei-renata-campinas-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251123T000000Z
+DTEND:20251123T014500Z
+SUMMARY:Vôlei Renata Campinas - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251130-sesi-bauru-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+SUMMARY:SESI BAURU | Superliga | J8 | 🏟️ | JF Vôlei 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251130-sesi-bauru-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251130T000000Z
+DTEND:20251130T014500Z
+SUMMARY:SESI Bauru - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251203-azulim-sicoob-aracoop-monte-carmelo-sesi-bauru-dia
+ @sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251203
+DTEND;VALUE=DATE:20251204
+SUMMARY:SESI BAURU | Superliga | J9 | ✈️ | Azulim Sicoob Aracoop Monte 
+ Carmelo 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251203-azulim-sicoob-aracoop-monte-carmelo-sesi-bauru@spo
+ rtcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251203T213000Z
+DTEND:20251203T231500Z
+SUMMARY:Azulim Sicoob Aracoop Monte Carmelo - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251209-sesi-bauru-saneago-goias-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251209
+DTEND;VALUE=DATE:20251210
+SUMMARY:SESI BAURU | Superliga | J10 | 🏟️ | Saneago Goiás Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251209-sesi-bauru-saneago-goias-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251209T213000Z
+DTEND:20251209T231500Z
+SUMMARY:SESI Bauru - Saneago Goiás Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251213-sesi-bauru-sil-volei-guarulhos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:SESI BAURU | Superliga | J10 | 🏟️ | Sil Vôlei Guarulhos 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251213-sesi-bauru-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251213T213000Z
+DTEND:20251213T231500Z
+SUMMARY:SESI Bauru - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251217-itambe-minas-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251217
+DTEND;VALUE=DATE:20251218
+SUMMARY:SESI BAURU | Superliga | J10 | ✈️ | Itambé Minas 🇧🇷
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251217-itambe-minas-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251217T220000Z
+DTEND:20251217T234500Z
+SUMMARY:Itambé Minas - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251221-viapol-volei-sao-jose-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251221
+DTEND;VALUE=DATE:20251222
+SUMMARY:SESI BAURU | Superliga | J11 | ✈️ | Viapol Vôlei São José 
+ 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251221-viapol-volei-sao-jose-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251221T000000Z
+DTEND:20251221T014500Z
+SUMMARY:Viapol Vôlei São José - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260109-joinville-volei-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:SESI BAURU | Superliga | J12 | ✈️ | Joinville Vôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260109-joinville-volei-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260109T213000Z
+DTEND:20260109T231500Z
+SUMMARY:Joinville Vôlei - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260116-sesi-bauru-sada-cruzeiro-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:SESI BAURU | Superliga | J13 | 🏟️ | Sada Cruzeiro Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260116-sesi-bauru-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260116T000000Z
+DTEND:20260116T014500Z
+SUMMARY:SESI Bauru - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260123-sesi-bauru-itambe-minas-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:SESI BAURU | Superliga | J14 | 🏟️ | Itambé Minas 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260123-sesi-bauru-itambe-minas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260123T000000Z
+DTEND:20260123T014500Z
+SUMMARY:SESI Bauru - Itambé Minas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260203-suzano-volei-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:SESI BAURU | Superliga | J15 | ✈️ | Suzano Vôlei 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260203-suzano-volei-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260203T000000Z
+DTEND:20260203T014500Z
+SUMMARY:Suzano Vôlei - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260210-praia-clube-uberlandia-volei-sesi-bauru-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:SESI BAURU | Superliga | J16 | ✈️ | Praia Clube Uberlândia Vô
+ lei 🇧🇷
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260210-praia-clube-uberlandia-volei-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260210T003000Z
+DTEND:20260210T021500Z
+SUMMARY:Praia Clube Uberlândia Vôlei - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260214-sesi-bauru-volei-renata-campinas-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:SESI BAURU | Superliga | J17 | 🏟️ | Vôlei Renata Campinas 
+ 🇧🇷
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260214-sesi-bauru-volei-renata-campinas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260214T003000Z
+DTEND:20260214T021500Z
+SUMMARY:SESI Bauru - Vôlei Renata Campinas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260222-jf-volei-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:SESI BAURU | Superliga | J18 | ✈️ | JF Vôlei 🇧🇷
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260222-jf-volei-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260222T210000Z
+DTEND:20260222T224500Z
+SUMMARY:JF Vôlei - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260303-sesi-bauru-azulim-sicoob-aracoop-monte-carmelo-dia
+ @sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:SESI BAURU | Superliga | J19 | 🏟️ | Azulim Sicoob Aracoop Mont
+ e Carmelo 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260303-sesi-bauru-azulim-sicoob-aracoop-monte-carmelo@spo
+ rtcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260303T213000Z
+DTEND:20260303T231500Z
+SUMMARY:SESI Bauru - Azulim Sicoob Aracoop Monte Carmelo
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260316-saneago-goias-volei-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:SESI BAURU | Superliga | J20 | ✈️ | Saneago Goiás Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260316-saneago-goias-volei-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260316T000000Z
+DTEND:20260316T014500Z
+SUMMARY:Saneago Goiás Vôlei - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260321-sil-volei-guarulhos-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:SESI BAURU | Superliga | J21 | ✈️ | Sil Vôlei Guarulhos 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260321-sil-volei-guarulhos-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260321T213000Z
+DTEND:20260321T231500Z
+SUMMARY:Sil Vôlei Guarulhos - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260328-sesi-bauru-viapol-volei-sao-jose-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:SESI BAURU | Superliga | J22 | 🏟️ | Viapol Vôlei São José 
+ 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260328-sesi-bauru-viapol-volei-sao-jose@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260328T000000Z
+DTEND:20260328T014500Z
+SUMMARY:SESI Bauru - Viapol Vôlei São José
+DESCRIPTION:Superliga
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aston Villa · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-galatasaray-aston-villa-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:ASTON VILLA | Youth League | Matchday 5 | ✈️ | Galatasaray 🇹
+ 🇷
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Kas
+ ımpasa Recep Tayyip Erdoğan\, Istanbul
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-galatasaray-aston-villa@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T100000Z
+DTEND:20261124T114500Z
+SUMMARY:Galatasaray - Aston Villa
+DESCRIPTION:UEFA Youth League
+LOCATION:Kasımpasa Recep Tayyip Erdoğan\, Istanbul
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-aston-villa-paris-saint-germain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:ASTON VILLA | Youth League | Matchday 6 | 🏟️ | Paris Saint-Ger
+ main 🇫🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Asto
+ n Villa FC Training Ground\, Tamworth
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-aston-villa-paris-saint-germain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T140000Z
+DTEND:20261208T154500Z
+SUMMARY:Aston Villa - Paris Saint-Germain
+DESCRIPTION:UEFA Youth League
+LOCATION:Aston Villa FC Training Ground\, Tamworth
+END:VEVENT
+END:VCALENDAR

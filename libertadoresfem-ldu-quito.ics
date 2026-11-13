@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LDU Quito · Libertadores Fem
+BEGIN:VEVENT
+UID:libertadoresfem-20261017-cruzeiro-ldu-quito-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:LDU QUITO | Libertadores Fem | Group C | ✈️ | Cruzeiro 🇧🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261017-cruzeiro-ldu-quito@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261017T000000Z
+DTEND:20261017T014500Z
+SUMMARY:Cruzeiro - LDU Quito
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261020-ldu-quito-olimpia-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:LDU QUITO | Libertadores Fem | Group C | 🏟️ | Olimpia 🇵🇾
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261020-ldu-quito-olimpia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261020T000000Z
+DTEND:20261020T014500Z
+SUMMARY:LDU Quito - Olimpia
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261023-ldu-quito-bolivar-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:LDU QUITO | Libertadores Fem | Group C | 🏟️ | Bolívar 🇧
+ 🇴
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261023-ldu-quito-bolivar@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261023T000000Z
+DTEND:20261023T014500Z
+SUMMARY:LDU Quito - Bolívar
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+END:VCALENDAR

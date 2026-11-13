@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ealing Trailfinders · Champ Rugby
+BEGIN:VEVENT
+UID:champrugby-20261115-ealing-trailfinders-coventry-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:EALING TRAILFINDERS | Champ Rugby | J8 | 🏟️ | Coventry 🇬
+ 🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Champ Rugby\nEstadi: Trailfinde
+ rs Sports Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:champrugby-20261115-ealing-trailfinders-coventry@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Ealing Trailfinders - Coventry
+DESCRIPTION:Champ Rugby
+LOCATION:Trailfinders Sports Ground
+END:VEVENT
+END:VCALENDAR

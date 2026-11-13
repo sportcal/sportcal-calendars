@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Royal Challengers Bengaluru · IPL
+BEGIN:VEVENT
+UID:ipl-20260328-royal-challengers-bengaluru-sunrisers-hyderabad-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | 🏟️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · IPL\nEstadi: M.Chinnaswamy Stad
+ ium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260328-royal-challengers-bengaluru-sunrisers-hyderabad@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260328T140000Z
+DTEND:20260328T154500Z
+SUMMARY:Royal Challengers Bengaluru - Sunrisers Hyderabad
+DESCRIPTION:IPL
+LOCATION:M.Chinnaswamy Stadium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260405-royal-challengers-bengaluru-chennai-super-kings-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | 🏟️ | Chennai Super Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: M.Chinnaswamy Stad
+ ium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260405-royal-challengers-bengaluru-chennai-super-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260405T140000Z
+DTEND:20260405T154500Z
+SUMMARY:Royal Challengers Bengaluru - Chennai Super Kings
+DESCRIPTION:IPL
+LOCATION:M.Chinnaswamy Stadium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260410-rajasthan-royals-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | ✈️ | Rajasthan Royals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Barsapara Cricket 
+ Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260410-rajasthan-royals-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260410T140000Z
+DTEND:20260410T154500Z
+SUMMARY:Rajasthan Royals - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Barsapara Cricket Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260412-mumbai-indians-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | ✈️ | Mumbai Indians
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260412-mumbai-indians-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260412T140000Z
+DTEND:20260412T154500Z
+SUMMARY:Mumbai Indians - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260415-royal-challengers-bengaluru-lucknow-super-giants-dia@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | 🏟️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: M.Chinnaswamy Stad
+ ium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260415-royal-challengers-bengaluru-lucknow-super-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260415T140000Z
+DTEND:20260415T154500Z
+SUMMARY:Royal Challengers Bengaluru - Lucknow Super Giants
+DESCRIPTION:IPL
+LOCATION:M.Chinnaswamy Stadium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260418-royal-challengers-bengaluru-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | 🏟️ | Delhi Capitals
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: M.Chinnaswamy Stad
+ ium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260418-royal-challengers-bengaluru-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260418T100000Z
+DTEND:20260418T114500Z
+SUMMARY:Royal Challengers Bengaluru - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:M.Chinnaswamy Stadium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260424-royal-challengers-bengaluru-gujarat-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | 🏟️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: M.Chinnaswamy Stad
+ ium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260424-royal-challengers-bengaluru-gujarat-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260424T140000Z
+DTEND:20260424T154500Z
+SUMMARY:Royal Challengers Bengaluru - Gujarat Titans
+DESCRIPTION:IPL
+LOCATION:M.Chinnaswamy Stadium\, Bengaluru\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260427-delhi-capitals-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | ✈️ | Delhi Capitals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260427-delhi-capitals-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260427T140000Z
+DTEND:20260427T154500Z
+SUMMARY:Delhi Capitals - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260430-gujarat-titans-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | ✈️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Narendra Modi Stad
+ ium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260430-gujarat-titans-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260430T140000Z
+DTEND:20260430T154500Z
+SUMMARY:Gujarat Titans - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Narendra Modi Stadium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260507-lucknow-super-giants-royal-challengers-bengaluru-dia@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | ✈️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Bharat Ratna Shri 
+ Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\, Lucknow
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260507-lucknow-super-giants-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260507T140000Z
+DTEND:20260507T154500Z
+SUMMARY:Lucknow Super Giants - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Luc
+ know\, Lucknow
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260510-royal-challengers-bengaluru-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | 🏟️ | Mumbai Indians
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Shaheed Veer Naray
+ an Singh International Stadium\, Raipur\, Raipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260510-royal-challengers-bengaluru-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T140000Z
+DTEND:20260510T154500Z
+SUMMARY:Royal Challengers Bengaluru - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Shaheed Veer Narayan Singh International Stadium\, Raipur\, Raipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260513-royal-challengers-bengaluru-kolkata-knight-riders-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | 🏟️ | Kolkata Knight Riders
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Shaheed Veer Naray
+ an Singh International Stadium\, Raipur\, Raipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260513-royal-challengers-bengaluru-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260513T140000Z
+DTEND:20260513T154500Z
+SUMMARY:Royal Challengers Bengaluru - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:Shaheed Veer Narayan Singh International Stadium\, Raipur\, Raipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260517-punjab-kings-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | ✈️ | Punjab Kings
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Himachal Pradesh C
+ ricket Association Stadium\, Dharamsala\, Dharamsala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260517-punjab-kings-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260517T100000Z
+DTEND:20260517T114500Z
+SUMMARY:Punjab Kings - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala\, Dharam
+ sala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260522-sunrisers-hyderabad-royal-challengers-bengaluru-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | ✈️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Rajiv Gandhi Inter
+ national Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260522-sunrisers-hyderabad-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260522T140000Z
+DTEND:20260522T154500Z
+SUMMARY:Sunrisers Hyderabad - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Rajiv Gandhi International Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260526-royal-challengers-bengaluru-gujarat-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | 🏟️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Himachal Pradesh C
+ ricket Association Stadium\, Dharamsala\, Dharamsala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260526-royal-challengers-bengaluru-gujarat-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260526T140000Z
+DTEND:20260526T154500Z
+SUMMARY:Royal Challengers Bengaluru - Gujarat Titans
+DESCRIPTION:IPL
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala\, Dharam
+ sala
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260531-royal-challengers-bengaluru-gujarat-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:ROYAL CHALLENGERS BENGALURU | IPL | 🏟️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Narendra Modi Stad
+ ium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260531-royal-challengers-bengaluru-gujarat-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260531T140000Z
+DTEND:20260531T154500Z
+SUMMARY:Royal Challengers Bengaluru - Gujarat Titans
+DESCRIPTION:IPL
+LOCATION:Narendra Modi Stadium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+END:VCALENDAR

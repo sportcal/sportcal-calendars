@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Borussia Dortmund · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-arsenal-borussia-dortmund-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:BORUSSIA DORTMUND | Youth League | Matchday 5 | ✈️ | Arsenal 
+ 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Mead
+ ow Park\, Borehamwood
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-arsenal-borussia-dortmund@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T130000Z
+DTEND:20261124T144500Z
+SUMMARY:Arsenal - Borussia Dortmund
+DESCRIPTION:UEFA Youth League
+LOCATION:Meadow Park\, Borehamwood
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-borussia-dortmund-inter-milan-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:BORUSSIA DORTMUND | Youth League | Matchday 6 | 🏟️ | Inter Mil
+ an
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Dort
+ mund Brackel Training Ground\, Dortmund
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-borussia-dortmund-inter-milan@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T150000Z
+DTEND:20261209T164500Z
+SUMMARY:Borussia Dortmund - Inter Milan
+DESCRIPTION:UEFA Youth League
+LOCATION:Dortmund Brackel Training Ground\, Dortmund
+END:VEVENT
+END:VCALENDAR

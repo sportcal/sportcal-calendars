@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gebze Belediyespor · Efeler Ligi
+BEGIN:VEVENT
+UID:efeler-20251025-bursa-belediye-spor-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J1 | ✈️ | Bursa Belediye Spo
+ r 🇹🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251025-bursa-belediye-spor-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251025T130000Z
+DTEND:20251025T144500Z
+SUMMARY:Bursa Belediye Spor - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251028-gebze-belediyespor-ziraat-bankkart-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J2 | 🏟️ | Ziraat Bankkart 
+ 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251028-gebze-belediyespor-ziraat-bankkart@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251028T110000Z
+DTEND:20251028T124500Z
+SUMMARY:Gebze Belediyespor - Ziraat Bankkart
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251116-spor-toto-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251117
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J3 | ✈️ | Spor Toto 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251116-spor-toto-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251116T110000Z
+DTEND:20251116T124500Z
+SUMMARY:Spor Toto - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251119-gebze-belediyespor-cizre-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251120
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J4 | 🏟️ | Cizre Belediyespo
+ r 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251119-gebze-belediyespor-cizre-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251119T110000Z
+DTEND:20251119T124500Z
+SUMMARY:Gebze Belediyespor - Cizre Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251122-istanbul-genclik-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J5 | ✈️ | İstanbul Gençlik
+  🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251122-istanbul-genclik-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251122T110000Z
+DTEND:20251122T124500Z
+SUMMARY:İstanbul Gençlik - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251125-gebze-belediyespor-on-hotels-alanya-belediyespor-dia@sp
+ ortcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251126
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J6 | 🏟️ | ON Hotels Alanya 
+ Belediyespor 🇹🇷
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251125-gebze-belediyespor-on-hotels-alanya-belediyespor@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART:20251125T150000Z
+DTEND:20251125T164500Z
+SUMMARY:Gebze Belediyespor - ON Hotels Alanya Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251129-galatasaray-mades-mobilya-gebze-belediyespor-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J7 | ✈️ | Galatasaray Madeş
+  Mobilya 🇹🇷
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251129-galatasaray-mades-mobilya-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251129T100000Z
+DTEND:20251129T114500Z
+SUMMARY:Galatasaray Madeş Mobilya - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251202-gebze-belediyespor-altekma-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J8 | 🏟️ | Altekma 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251202-gebze-belediyespor-altekma@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251202T110000Z
+DTEND:20251202T124500Z
+SUMMARY:Gebze Belediyespor - Altekma
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251206-halkbank-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J9 | ✈️ | Halkbank 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251206-halkbank-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251206T110000Z
+DTEND:20251206T124500Z
+SUMMARY:Halkbank - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251213-gebze-belediyespor-gaziantep-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J10 | 🏟️ | Gaziantep Gençl
+ ik 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251213-gebze-belediyespor-gaziantep-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251213T110000Z
+DTEND:20251213T124500Z
+SUMMARY:Gebze Belediyespor - Gaziantep Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251216-istanbul-buyuksehir-belediyesi-gebze-belediyespor-dia@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251216
+DTEND;VALUE=DATE:20251217
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J11 | ✈️ | İstanbul Büyük
+ şehir Belediyesi 🇹🇷
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251216-istanbul-buyuksehir-belediyesi-gebze-belediyespor@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART:20251216T133000Z
+DTEND:20251216T151500Z
+SUMMARY:İstanbul Büyükşehir Belediyesi - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251220-gebze-belediyespor-akkus-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J12 | 🏟️ | Akkuş Belediyes
+ por 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251220-gebze-belediyespor-akkus-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251220T110000Z
+DTEND:20251220T124500Z
+SUMMARY:Gebze Belediyespor - Akkuş Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251224-fenerbahce-medicana-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J13 | ✈️ | Fenerbahçe Medic
+ ana 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20251224-fenerbahce-medicana-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251224T110000Z
+DTEND:20251224T124500Z
+SUMMARY:Fenerbahçe Medicana - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260111-gebze-belediyespor-bursa-belediye-spor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J14 | 🏟️ | Bursa Belediye S
+ por 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260111-gebze-belediyespor-bursa-belediye-spor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260111T110000Z
+DTEND:20260111T124500Z
+SUMMARY:Gebze Belediyespor - Bursa Belediye Spor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260117-ziraat-bankkart-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J15 | ✈️ | Ziraat Bankkart 
+ 🇹🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260117-ziraat-bankkart-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260117T140000Z
+DTEND:20260117T154500Z
+SUMMARY:Ziraat Bankkart - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260125-gebze-belediyespor-spor-toto-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J16 | 🏟️ | Spor Toto 🇹
+ 🇷
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260125-gebze-belediyespor-spor-toto@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260125T133000Z
+DTEND:20260125T151500Z
+SUMMARY:Gebze Belediyespor - Spor Toto
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260208-gebze-belediyespor-istanbul-genclik-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J18 | 🏟️ | İstanbul Gençl
+ ik 🇹🇷
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260208-gebze-belediyespor-istanbul-genclik@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260208T120000Z
+DTEND:20260208T134500Z
+SUMMARY:Gebze Belediyespor - İstanbul Gençlik
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260215-on-hotels-alanya-belediyespor-gebze-belediyespor-dia@sp
+ ortcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J19 | ✈️ | ON Hotels Alanya 
+ Belediyespor 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260215-on-hotels-alanya-belediyespor-gebze-belediyespor@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART:20260215T110000Z
+DTEND:20260215T124500Z
+SUMMARY:ON Hotels Alanya Belediyespor - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260222-gebze-belediyespor-galatasaray-mades-mobilya-dia@sportc
+ al
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J20 | 🏟️ | Galatasaray Made
+ ş Mobilya 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260222-gebze-belediyespor-galatasaray-mades-mobilya@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260222T110000Z
+DTEND:20260222T124500Z
+SUMMARY:Gebze Belediyespor - Galatasaray Madeş Mobilya
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260225-altekma-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J21 | ✈️ | Altekma 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260225-altekma-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260225T130000Z
+DTEND:20260225T144500Z
+SUMMARY:Altekma - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260301-gebze-belediyespor-halkbank-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J22 | 🏟️ | Halkbank 🇹
+ 🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260301-gebze-belediyespor-halkbank@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T110000Z
+DTEND:20260301T124500Z
+SUMMARY:Gebze Belediyespor - Halkbank
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260308-gaziantep-genclik-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J22 | ✈️ | Gaziantep Gençli
+ k 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260308-gaziantep-genclik-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T130000Z
+DTEND:20260308T144500Z
+SUMMARY:Gaziantep Gençlik - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260315-gebze-belediyespor-istanbul-buyuksehir-belediyesi-dia@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J23 | 🏟️ | İstanbul Büyü
+ kşehir Belediyesi 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260315-gebze-belediyespor-istanbul-buyuksehir-belediyesi@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART:20260315T110000Z
+DTEND:20260315T124500Z
+SUMMARY:Gebze Belediyespor - İstanbul Büyükşehir Belediyesi
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260318-akkus-belediyespor-gebze-belediyespor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J24 | ✈️ | Akkuş Belediyesp
+ or 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260318-akkus-belediyespor-gebze-belediyespor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260318T130000Z
+DTEND:20260318T144500Z
+SUMMARY:Akkuş Belediyespor - Gebze Belediyespor
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260322-gebze-belediyespor-fenerbahce-medicana-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:GEBZE BELEDIYESPOR | Efeler Ligi | J25 | 🏟️ | Fenerbahçe Medi
+ cana 🇹🇷
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Efeler Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:efeler-20260322-gebze-belediyespor-fenerbahce-medicana@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260322T110000Z
+DTEND:20260322T124500Z
+SUMMARY:Gebze Belediyespor - Fenerbahçe Medicana
+DESCRIPTION:Efeler Ligi
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gold Coast Titans · NRLW
+BEGIN:VEVENT
+UID:nrlw-20260704-gold-coast-titans-sydney-roosters-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:GOLD COAST TITANS | NRLW | J1 | 🏟️ | Sydney Roosters 🇦🇺
+DESCRIPTION:Inici: 04:45 (Europe/Madrid) · NRLW\nEstadi: Cbus Super Stadiu
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260704-gold-coast-titans-sydney-roosters@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260704T024500Z
+DTEND:20260704T043000Z
+SUMMARY:Gold Coast Titans - Sydney Roosters
+DESCRIPTION:NRLW
+LOCATION:Cbus Super Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260711-canterbury-bankstown-bulldogs-gold-coast-titans-dia@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:GOLD COAST TITANS | NRLW | J2 | ✈️ | Canterbury-Bankstown Bulld
+ ogs 🇦🇺
+DESCRIPTION:Inici: 07:15 (Europe/Madrid) · NRLW\nEstadi: Accor Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260711-canterbury-bankstown-bulldogs-gold-coast-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260711T051500Z
+DTEND:20260711T070000Z
+SUMMARY:Canterbury-Bankstown Bulldogs - Gold Coast Titans
+DESCRIPTION:NRLW
+LOCATION:Accor Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260719-gold-coast-titans-parramatta-eels-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:GOLD COAST TITANS | NRLW | J3 | 🏟️ | Parramatta Eels 🇦🇺
+DESCRIPTION:Inici: 03:50 (Europe/Madrid) · NRLW\nEstadi: Cbus Super Stadiu
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260719-gold-coast-titans-parramatta-eels@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T015000Z
+DTEND:20260719T033500Z
+SUMMARY:Gold Coast Titans - Parramatta Eels
+DESCRIPTION:NRLW
+LOCATION:Cbus Super Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260725-north-queensland-cowboys-gold-coast-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:GOLD COAST TITANS | NRLW | J4 | ✈️ | North Queensland Cowboys 
+ 🇦🇺
+DESCRIPTION:Inici: 09:15 (Europe/Madrid) · NRLW\nEstadi: Queensland Countr
+ y Bank Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260725-north-queensland-cowboys-gold-coast-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260725T071500Z
+DTEND:20260725T090000Z
+SUMMARY:North Queensland Cowboys - Gold Coast Titans
+DESCRIPTION:NRLW
+LOCATION:Queensland Country Bank Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260802-new-zealand-warriors-gold-coast-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:GOLD COAST TITANS | NRLW | J5 | ✈️ | New Zealand Warriors 🇳
+ 🇿
+DESCRIPTION:Inici: 05:25 (Europe/Madrid) · NRLW\nEstadi: Geohex Park\, Wag
+ ga Wagga
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260802-new-zealand-warriors-gold-coast-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T032500Z
+DTEND:20260802T051000Z
+SUMMARY:New Zealand Warriors - Gold Coast Titans
+DESCRIPTION:NRLW
+LOCATION:Geohex Park\, Wagga Wagga
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260808-cronulla-sutherland-sharks-gold-coast-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:GOLD COAST TITANS | NRLW | J6 | ✈️ | Cronulla-Sutherland Sharks
+  🇦🇺
+DESCRIPTION:Inici: 07:15 (Europe/Madrid) · NRLW\nEstadi: Ocean Protect Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260808-cronulla-sutherland-sharks-gold-coast-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260808T051500Z
+DTEND:20260808T070000Z
+SUMMARY:Cronulla-Sutherland Sharks - Gold Coast Titans
+DESCRIPTION:NRLW
+LOCATION:Ocean Protect Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260815-gold-coast-titans-st-george-illawarra-dragons-dia@sportca
+ l
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:GOLD COAST TITANS | NRLW | J7 | 🏟️ | St. George Illawarra Drag
+ ons 🇦🇺
+DESCRIPTION:Inici: 04:45 (Europe/Madrid) · NRLW\nEstadi: Cbus Super Stadiu
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260815-gold-coast-titans-st-george-illawarra-dragons@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260815T024500Z
+DTEND:20260815T043000Z
+SUMMARY:Gold Coast Titans - St. George Illawarra Dragons
+DESCRIPTION:NRLW
+LOCATION:Cbus Super Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260823-gold-coast-titans-brisbane-broncos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:GOLD COAST TITANS | NRLW | J8 | 🏟️ | Brisbane Broncos 🇦🇺
+DESCRIPTION:Inici: 03:50 (Europe/Madrid) · NRLW\nEstadi: Cbus Super Stadiu
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260823-gold-coast-titans-brisbane-broncos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T015000Z
+DTEND:20260823T033500Z
+SUMMARY:Gold Coast Titans - Brisbane Broncos
+DESCRIPTION:NRLW
+LOCATION:Cbus Super Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260829-gold-coast-titans-canberra-raiders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:GOLD COAST TITANS | NRLW | J9 | 🏟️ | Canberra Raiders 🇦🇺
+DESCRIPTION:Inici: 04:45 (Europe/Madrid) · NRLW\nEstadi: Cbus Super Stadiu
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260829-gold-coast-titans-canberra-raiders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260829T024500Z
+DTEND:20260829T043000Z
+SUMMARY:Gold Coast Titans - Canberra Raiders
+DESCRIPTION:NRLW
+LOCATION:Cbus Super Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260906-wests-tigers-gold-coast-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:GOLD COAST TITANS | NRLW | J10 | ✈️ | Wests Tigers 🇦🇺
+DESCRIPTION:Inici: 05:45 (Europe/Madrid) · NRLW\nEstadi: Campbelltown Spor
+ ts Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260906-wests-tigers-gold-coast-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260906T034500Z
+DTEND:20260906T053000Z
+SUMMARY:Wests Tigers - Gold Coast Titans
+DESCRIPTION:NRLW
+LOCATION:Campbelltown Sports Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260913-newcastle-knights-gold-coast-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:GOLD COAST TITANS | NRLW | J11 | ✈️ | Newcastle Knights 🇦
+ 🇺
+DESCRIPTION:Inici: 05:45 (Europe/Madrid) · NRLW\nEstadi: McDonald Jones St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260913-newcastle-knights-gold-coast-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260913T034500Z
+DTEND:20260913T053000Z
+SUMMARY:Newcastle Knights - Gold Coast Titans
+DESCRIPTION:NRLW
+LOCATION:McDonald Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260927-gold-coast-titans-brisbane-broncos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:GOLD COAST TITANS | NRLW | J12 | 🏟️ | Brisbane Broncos 🇦
+ 🇺
+DESCRIPTION:Inici: 05:05 (Europe/Madrid) · NRLW\nEstadi: Cbus Super Stadiu
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:nrlw-20260927-gold-coast-titans-brisbane-broncos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260927T030500Z
+DTEND:20260927T045000Z
+SUMMARY:Gold Coast Titans - Brisbane Broncos
+DESCRIPTION:NRLW
+LOCATION:Cbus Super Stadium
+END:VEVENT
+END:VCALENDAR

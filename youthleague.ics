@@ -1,0 +1,378 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UEFA Youth League
+BEGIN:VEVENT
+UID:youthleague-dia-20261124-matchday-5@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:YOUTH LEAGUE | Matchday 5
+DESCRIPTION:11:00 Bodø/Glimt - LASK\n11:00 Galatasaray - Aston Villa\n14:0
+ 0 Arsenal - Borussia Dortmund\n14:00 Feyenoord - Porto\n14:00 Slovan Brati
+ slava - Real Betis\n15:00 Como - AEK Athens\n16:00 Manchester City - Napol
+ i\n16:00 RB Leipzig - Lens\n16:00 Real Madrid - PSV Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-dia-20261125-matchday-5@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:YOUTH LEAGUE | Matchday 5
+DESCRIPTION:12:00 Sabah - Barcelona\n13:00 Slavia Prague - Villarreal\n13:0
+ 0 Shakhtar Donetsk - Fenerbahçe\n14:30 Paris Saint-Germain - Roma\n15:00 
+ Club Brugge - Liverpool\n15:00 Inter Milan - VfB Stuttgart\n15:00 Lille - 
+ Bayern Munich\n15:00 Sporting CP - Manchester United\n16:00 Atlético Madr
+ id - Viking
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-dia-20261208-matchday-6@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:YOUTH LEAGUE | Matchday 6
+DESCRIPTION:12:00 Viking - Feyenoord\n12:00 Villarreal - Sabah\n14:00 AEK A
+ thens - Galatasaray\n14:00 Roma - Sporting CP\n14:00 Napoli - Club Brugge\
+ n15:00 Aston Villa - Paris Saint-Germain\n15:00 Manchester United - RB Lei
+ pzig\n16:00 Barcelona - Manchester City\n16:00 Bayern Munich - Slavia Prag
+ ue
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-dia-20261209-matchday-6@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:YOUTH LEAGUE | Matchday 6
+DESCRIPTION:TBD Liverpool - Porto\n13:00 Real Betis - Como\n13:00 Slovan Br
+ atislava - Shakhtar Donetsk\n14:00 Arsenal - Real Madrid\n14:00 PSV Eindho
+ ven - Atlético Madrid\n14:00 Lens - Bodø/Glimt\n15:00 LASK - Fenerbahçe
+ \n15:00 VfB Stuttgart - Lille\n16:00 Borussia Dortmund - Inter Milan
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-bod-glimt-lask@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T100000Z
+DTEND:20261124T114500Z
+SUMMARY:Bodø/Glimt - LASK
+DESCRIPTION:UEFA Youth League
+LOCATION:Aspmyra\, Bodø
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-galatasaray-aston-villa@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T100000Z
+DTEND:20261124T114500Z
+SUMMARY:Galatasaray - Aston Villa
+DESCRIPTION:UEFA Youth League
+LOCATION:Kasımpasa Recep Tayyip Erdoğan\, Istanbul
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-arsenal-borussia-dortmund@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T130000Z
+DTEND:20261124T144500Z
+SUMMARY:Arsenal - Borussia Dortmund
+DESCRIPTION:UEFA Youth League
+LOCATION:Meadow Park\, Borehamwood
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-feyenoord-porto@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T130000Z
+DTEND:20261124T144500Z
+SUMMARY:Feyenoord - Porto
+DESCRIPTION:UEFA Youth League
+LOCATION:Sportcomplex Varkenoord\, Rotterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-slovan-bratislava-real-betis@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T130000Z
+DTEND:20261124T144500Z
+SUMMARY:Slovan Bratislava - Real Betis
+DESCRIPTION:UEFA Youth League
+LOCATION:National Training Centre\, Senec
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-como-aek-athens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T140000Z
+DTEND:20261124T154500Z
+SUMMARY:Como - AEK Athens
+DESCRIPTION:UEFA Youth League
+LOCATION:Campo Sportivo Comunale "Angelo Volonte"\, Rovello Porro
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-manchester-city-napoli@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T150000Z
+DTEND:20261124T164500Z
+SUMMARY:Manchester City - Napoli
+DESCRIPTION:UEFA Youth League
+LOCATION:MCFC Academy Stadium\, Manchester
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-rb-leipzig-lens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T150000Z
+DTEND:20261124T164500Z
+SUMMARY:RB Leipzig - Lens
+DESCRIPTION:UEFA Youth League
+LOCATION:RB Leipzig Fußball-Akademie\, Leipzig
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-real-madrid-psv-eindhoven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T150000Z
+DTEND:20261124T164500Z
+SUMMARY:Real Madrid - PSV Eindhoven
+DESCRIPTION:UEFA Youth League
+LOCATION:Alfredo Di Stéfano Stadium\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-sabah-barcelona@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T110000Z
+DTEND:20261125T124500Z
+SUMMARY:Sabah - Barcelona
+DESCRIPTION:UEFA Youth League
+LOCATION:Alinja Stadium\, Baku
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-slavia-prague-villarreal@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T120000Z
+DTEND:20261125T134500Z
+SUMMARY:Slavia Prague - Villarreal
+DESCRIPTION:UEFA Youth League
+LOCATION:Sports Centre Radotin\, Prague
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-shakhtar-donetsk-fenerbahce@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T120000Z
+DTEND:20261125T134500Z
+SUMMARY:Shakhtar Donetsk - Fenerbahçe
+DESCRIPTION:UEFA Youth League
+LOCATION:Kingsmeadow (stadium) Kingsmeadow\, Kingston\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-paris-saint-germain-roma@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T133000Z
+DTEND:20261125T151500Z
+SUMMARY:Paris Saint-Germain - Roma
+DESCRIPTION:UEFA Youth League
+LOCATION:Campus PSG\, Poissy
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-club-brugge-liverpool@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T140000Z
+DTEND:20261125T154500Z
+SUMMARY:Club Brugge - Liverpool
+DESCRIPTION:UEFA Youth League
+LOCATION:Schiervelde Stadion\, Roeselare
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-inter-milan-vfb-stuttgart@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T140000Z
+DTEND:20261125T154500Z
+SUMMARY:Inter Milan - VfB Stuttgart
+DESCRIPTION:UEFA Youth League
+LOCATION:Youth Development Training Center\, Milan
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-lille-bayern-munich@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T140000Z
+DTEND:20261125T154500Z
+SUMMARY:Lille - Bayern Munich
+DESCRIPTION:UEFA Youth League
+LOCATION:Domaine de Luchin\, Camphin-en-Pévèle
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-sporting-cp-manchester-united@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T140000Z
+DTEND:20261125T154500Z
+SUMMARY:Sporting CP - Manchester United
+DESCRIPTION:UEFA Youth League
+LOCATION:Academia Cristiano Ronaldo\, Alcochete
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-atletico-madrid-viking@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T150000Z
+DTEND:20261125T164500Z
+SUMMARY:Atlético Madrid - Viking
+DESCRIPTION:UEFA Youth League
+LOCATION:Atlético de Madrid Centro Deportivo Alcalá de Henares\, Alcalá 
+ de Henares
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-viking-feyenoord@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T110000Z
+DTEND:20261208T124500Z
+SUMMARY:Viking - Feyenoord
+DESCRIPTION:UEFA Youth League
+LOCATION:Sandnes Ulf Arena\, Sandnes
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-villarreal-sabah@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T110000Z
+DTEND:20261208T124500Z
+SUMMARY:Villarreal - Sabah
+DESCRIPTION:UEFA Youth League
+LOCATION:Mini Estadi de la Ciudad Deportiva del Villarreal\, Villarreal
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-aek-athens-galatasaray@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T130000Z
+DTEND:20261208T144500Z
+SUMMARY:AEK Athens - Galatasaray
+DESCRIPTION:UEFA Youth League
+LOCATION:Spata Training Centre\, Spata
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-roma-sporting-cp@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T130000Z
+DTEND:20261208T144500Z
+SUMMARY:Roma - Sporting CP
+DESCRIPTION:UEFA Youth League
+LOCATION:Stadio Tre Fontane\, Rome
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-napoli-club-brugge@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T130000Z
+DTEND:20261208T144500Z
+SUMMARY:Napoli - Club Brugge
+DESCRIPTION:UEFA Youth League
+LOCATION:Giuseppe Piccolo\, Cercola
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-aston-villa-paris-saint-germain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T140000Z
+DTEND:20261208T154500Z
+SUMMARY:Aston Villa - Paris Saint-Germain
+DESCRIPTION:UEFA Youth League
+LOCATION:Aston Villa FC Training Ground\, Tamworth
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-manchester-united-rb-leipzig@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T140000Z
+DTEND:20261208T154500Z
+SUMMARY:Manchester United - RB Leipzig
+DESCRIPTION:UEFA Youth League
+LOCATION:Leigh Sports Village\, Leigh
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-barcelona-manchester-city@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T150000Z
+DTEND:20261208T164500Z
+SUMMARY:Barcelona - Manchester City
+DESCRIPTION:UEFA Youth League
+LOCATION:Johan Cruyff Stadium\, Sant Joan Despí
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-bayern-munich-slavia-prague@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T150000Z
+DTEND:20261208T164500Z
+SUMMARY:Bayern Munich - Slavia Prague
+DESCRIPTION:UEFA Youth League
+LOCATION:FC Bayern Campus\, Munich
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-liverpool-porto@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Liverpool - Porto · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-real-betis-como@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T120000Z
+DTEND:20261209T134500Z
+SUMMARY:Real Betis - Como
+DESCRIPTION:UEFA Youth League
+LOCATION:Ciudad Deportiva Luis del Sol\, Seville
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-slovan-bratislava-shakhtar-donetsk@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T120000Z
+DTEND:20261209T134500Z
+SUMMARY:Slovan Bratislava - Shakhtar Donetsk
+DESCRIPTION:UEFA Youth League
+LOCATION:National Training Centre\, Senec
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-arsenal-real-madrid@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T130000Z
+DTEND:20261209T144500Z
+SUMMARY:Arsenal - Real Madrid
+DESCRIPTION:UEFA Youth League
+LOCATION:Meadow Park\, Borehamwood
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-psv-eindhoven-atletico-madrid@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T130000Z
+DTEND:20261209T144500Z
+SUMMARY:PSV Eindhoven - Atlético Madrid
+DESCRIPTION:UEFA Youth League
+LOCATION:De Herdgang\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-lens-bod-glimt@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T130000Z
+DTEND:20261209T144500Z
+SUMMARY:Lens - Bodø/Glimt
+DESCRIPTION:UEFA Youth League
+LOCATION:CTS La Gaillette\, Avion
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-lask-fenerbahce@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T140000Z
+DTEND:20261209T154500Z
+SUMMARY:LASK - Fenerbahçe
+DESCRIPTION:UEFA Youth League
+LOCATION:Waldstadion\, Pasching
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-vfb-stuttgart-lille@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T140000Z
+DTEND:20261209T154500Z
+SUMMARY:VfB Stuttgart - Lille
+DESCRIPTION:UEFA Youth League
+LOCATION:WIRmachenDRUCK Arena\, Aspach
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-borussia-dortmund-inter-milan@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T150000Z
+DTEND:20261209T164500Z
+SUMMARY:Borussia Dortmund - Inter Milan
+DESCRIPTION:UEFA Youth League
+LOCATION:Dortmund Brackel Training Ground\, Dortmund
+END:VEVENT
+END:VCALENDAR

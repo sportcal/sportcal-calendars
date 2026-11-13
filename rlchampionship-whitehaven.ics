@@ -1,0 +1,461 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Whitehaven · Championship
+BEGIN:VEVENT
+UID:rlchampionship-20260118-whitehaven-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:WHITEHAVEN | Championship | J1 | 🏟️ | Sheffield Eagles 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260118-whitehaven-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260118T150000Z
+DTEND:20260118T164500Z
+SUMMARY:Whitehaven - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-whitehaven-newcastle-thunder-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:WHITEHAVEN | Championship | J2 | 🏟️ | Newcastle Thunder 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260201-whitehaven-newcastle-thunder@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260201T150000Z
+DTEND:20260201T164500Z
+SUMMARY:Whitehaven - Newcastle Thunder
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260215-whitehaven-barrow-raiders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:WHITEHAVEN | Championship | J3 | 🏟️ | Barrow Raiders 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260215-whitehaven-barrow-raiders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260215T150000Z
+DTEND:20260215T164500Z
+SUMMARY:Whitehaven - Barrow Raiders
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260222-keighley-cougars-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:WHITEHAVEN | Championship | J4 | ✈️ | Keighley Cougars 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Cougar Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260222-keighley-cougars-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260222T150000Z
+DTEND:20260222T164500Z
+SUMMARY:Keighley Cougars - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Cougar Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-whitehaven-rochdale-hornets-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:WHITEHAVEN | Championship | J5 | 🏟️ | Rochdale Hornets 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-whitehaven-rochdale-hornets@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T150000Z
+DTEND:20260301T164500Z
+SUMMARY:Whitehaven - Rochdale Hornets
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-whitehaven-midlands-hurricanes-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:WHITEHAVEN | Championship | J6 | 🏟️ | Midlands Hurricanes 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-whitehaven-midlands-hurricanes@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T150000Z
+DTEND:20260308T164500Z
+SUMMARY:Whitehaven - Midlands Hurricanes
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-north-wales-crusaders-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:WHITEHAVEN | Championship | J7 | ✈️ | North Wales Crusaders 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Eirias St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260329-north-wales-crusaders-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T140000Z
+DTEND:20260329T154500Z
+SUMMARY:North Wales Crusaders - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Eirias Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260403-whitehaven-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:WHITEHAVEN | Championship | J8 | 🏟️ | Workington Town 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260403-whitehaven-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260403T120000Z
+DTEND:20260403T134500Z
+SUMMARY:Whitehaven - Workington Town
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-goole-vikings-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:WHITEHAVEN | Championship | J9 | ✈️ | Goole Vikings 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Victoria 
+ Pleasure Grounds
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-goole-vikings-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260412T140000Z
+DTEND:20260412T154500Z
+SUMMARY:Goole Vikings - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Victoria Pleasure Grounds
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-whitehaven-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:WHITEHAVEN | Championship | J10 | 🏟️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-whitehaven-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260426T140000Z
+DTEND:20260426T154500Z
+SUMMARY:Whitehaven - Hunslet
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-dewsbury-rams-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:WHITEHAVEN | Championship | J11 | ✈️ | Dewsbury Rams 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Crown Fla
+ tt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260503-dewsbury-rams-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T140000Z
+DTEND:20260503T154500Z
+SUMMARY:Dewsbury Rams - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Crown Flatt
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-swinton-lions-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:WHITEHAVEN | Championship | J12 | ✈️ | Swinton Lions 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-swinton-lions-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T140000Z
+DTEND:20260510T154500Z
+SUMMARY:Swinton Lions - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-whitehaven-keighley-cougars-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:WHITEHAVEN | Championship | J13 | 🏟️ | Keighley Cougars 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-whitehaven-keighley-cougars@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Whitehaven - Keighley Cougars
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260606-midlands-hurricanes-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:WHITEHAVEN | Championship | J14 | ✈️ | Midlands Hurricanes 🇬
+ 🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260606-midlands-hurricanes-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260606T130000Z
+DTEND:20260606T144500Z
+SUMMARY:Midlands Hurricanes - Whitehaven
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-whitehaven-north-wales-crusaders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:WHITEHAVEN | Championship | J14 | 🏟️ | North Wales Crusaders 
+ 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-whitehaven-north-wales-crusaders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260614T140000Z
+DTEND:20260614T154500Z
+SUMMARY:Whitehaven - North Wales Crusaders
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-sheffield-eagles-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:WHITEHAVEN | Championship | J15 | ✈️ | Sheffield Eagles 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-sheffield-eagles-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260621T140000Z
+DTEND:20260621T154500Z
+SUMMARY:Sheffield Eagles - Whitehaven
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260627-newcastle-thunder-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:WHITEHAVEN | Championship | J17 | ✈️ | Newcastle Thunder 🇬
+ 🇧
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260627-newcastle-thunder-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260627T150000Z
+DTEND:20260627T164500Z
+SUMMARY:Newcastle Thunder - Whitehaven
+DESCRIPTION:Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-whitehaven-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:WHITEHAVEN | Championship | J17 | 🏟️ | Swinton Lions 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-whitehaven-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260712T140000Z
+DTEND:20260712T154500Z
+SUMMARY:Whitehaven - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-whitehaven-goole-vikings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:WHITEHAVEN | Championship | J19 | 🏟️ | Goole Vikings 🇬🇧
+DESCRIPTION:Inici: 14:30 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-whitehaven-goole-vikings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T123000Z
+DTEND:20260719T141500Z
+SUMMARY:Whitehaven - Goole Vikings
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-hunslet-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:WHITEHAVEN | Championship | J20 | ✈️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260726-hunslet-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260726T140000Z
+DTEND:20260726T154500Z
+SUMMARY:Hunslet - Whitehaven
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-rochdale-hornets-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:WHITEHAVEN | Championship | J21 | ✈️ | Rochdale Hornets 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Spotland 
+ Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260809-rochdale-hornets-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260809T140000Z
+DTEND:20260809T154500Z
+SUMMARY:Rochdale Hornets - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Spotland Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-whitehaven-dewsbury-rams-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:WHITEHAVEN | Championship | J22 | 🏟️ | Dewsbury Rams 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Recreatio
+ n Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260816-whitehaven-dewsbury-rams@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260816T140000Z
+DTEND:20260816T154500Z
+SUMMARY:Whitehaven - Dewsbury Rams
+DESCRIPTION:Championship
+LOCATION:Recreation Ground
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-barrow-raiders-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:WHITEHAVEN | Championship | J23 | ✈️ | Barrow Raiders 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Craven Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-barrow-raiders-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T140000Z
+DTEND:20260823T154500Z
+SUMMARY:Barrow Raiders - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-workington-town-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:WHITEHAVEN | Championship | J24 | ✈️ | Workington Town 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-workington-town-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260830T140000Z
+DTEND:20260830T154500Z
+SUMMARY:Workington Town - Whitehaven
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260905-midlands-hurricanes-whitehaven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:WHITEHAVEN | Championship | J25 | ✈️ | Midlands Hurricanes 🇬
+ 🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260905-midlands-hurricanes-whitehaven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260905T130000Z
+DTEND:20260905T144500Z
+SUMMARY:Midlands Hurricanes - Whitehaven
+DESCRIPTION:Championship
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,291 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Germany · Pro League W
+BEGIN:VEVENT
+UID:fihprow-20261214-spain-germany-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:GERMANY | Pro League W | J1 | ✈️ | Spain
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261214-spain-germany@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261214T160000Z
+DTEND:20261214T174500Z
+SUMMARY:Spain - Germany
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261216-belgium-germany-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:GERMANY | Pro League W | J2 | ✈️ | Belgium
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261216-belgium-germany@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261216T110000Z
+DTEND:20261216T124500Z
+SUMMARY:Belgium - Germany
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261217-germany-netherlands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:GERMANY | Pro League W | J3 | 🏟️ | Netherlands
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261217-germany-netherlands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261217T120000Z
+DTEND:20261217T134500Z
+SUMMARY:Germany - Netherlands
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261219-spain-germany-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:GERMANY | Pro League W | J4 | ✈️ | Spain
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261219-spain-germany@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261219T160000Z
+DTEND:20261219T174500Z
+SUMMARY:Spain - Germany
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261220-germany-belgium-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:GERMANY | Pro League W | J5 | 🏟️ | Belgium
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261220-germany-belgium@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261220T120000Z
+DTEND:20261220T134500Z
+SUMMARY:Germany - Belgium
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261222-netherlands-germany-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:GERMANY | Pro League W | J6 | ✈️ | Netherlands
+DESCRIPTION:Inici: 09:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20261222-netherlands-germany@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261222T080000Z
+DTEND:20261222T094500Z
+SUMMARY:Netherlands - Germany
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Estadio Betero\, Valencia
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270209-india-germany-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:GERMANY | Pro League W | J7 | ✈️ | India
+DESCRIPTION:Hora pendent de confirmació · Women's FIH Hockey Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270209-india-germany@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:India - Germany · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's FIH Hockey Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270211-argentina-germany-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:GERMANY | Pro League W | J7 | ✈️ | Argentina
+DESCRIPTION:Hora pendent de confirmació · Women's FIH Hockey Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270211-argentina-germany@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Argentina - Germany · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's FIH Hockey Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270212-germany-india-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:GERMANY | Pro League W | J7 | 🏟️ | India
+DESCRIPTION:Hora pendent de confirmació · Women's FIH Hockey Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270212-germany-india@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Germany - India · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's FIH Hockey Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270214-argentina-germany-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:GERMANY | Pro League W | J8 | ✈️ | Argentina
+DESCRIPTION:Hora pendent de confirmació · Women's FIH Hockey Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270214-argentina-germany@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Argentina - Germany · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Women's FIH Hockey Pro League
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270612-germany-australia-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:GERMANY | Pro League W | J11 | 🏟️ | Australia
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270612-germany-australia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270612T140000Z
+DTEND:20270612T154500Z
+SUMMARY:Germany - Australia
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270613-germany-australia-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:GERMANY | Pro League W | J12 | 🏟️ | Australia
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270613-germany-australia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270613T130000Z
+DTEND:20270613T144500Z
+SUMMARY:Germany - Australia
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270615-germany-china-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:GERMANY | Pro League W | J13 | 🏟️ | China
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270615-germany-china@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270615T160000Z
+DTEND:20270615T174500Z
+SUMMARY:Germany - China
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270616-germany-china-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:GERMANY | Pro League W | J14 | 🏟️ | China
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270616-germany-china@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270616T160000Z
+DTEND:20270616T174500Z
+SUMMARY:Germany - China
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Ernst Reuter Sportfeld\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270626-germany-great-britain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:GERMANY | Pro League W | J15 | 🏟️ | Great Britain
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Hamburger Polo Club\, Hamburg
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270626-germany-great-britain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270626T120000Z
+DTEND:20270626T134500Z
+SUMMARY:Germany - Great Britain
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Hamburger Polo Club\, Hamburg
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270627-germany-great-britain-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:GERMANY | Pro League W | J16 | 🏟️ | Great Britain
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Women's FIH Hockey Pro League\n
+ Estadi: Hamburger Polo Club\, Hamburg
+END:VEVENT
+BEGIN:VEVENT
+UID:fihprow-20270627-germany-great-britain@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270627T110000Z
+DTEND:20270627T124500Z
+SUMMARY:Germany - Great Britain
+DESCRIPTION:Women's FIH Hockey Pro League
+LOCATION:Hamburger Polo Club\, Hamburg
+END:VEVENT
+END:VCALENDAR

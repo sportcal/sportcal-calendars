@@ -1,0 +1,802 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles Sparks · WNBA
+BEGIN:VEVENT
+UID:wnba-20260511-los-angeles-sparks-las-vegas-aces-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Las Vegas Aces 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260511-los-angeles-sparks-las-vegas-aces@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T220000Z
+DTEND:20260510T234500Z
+SUMMARY:Los Angeles Sparks - Las Vegas Aces
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260514-los-angeles-sparks-indiana-fever-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Indiana Fever 🇺🇸
+DESCRIPTION:Inici: 04:30 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260514-los-angeles-sparks-indiana-fever@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260514T023000Z
+DTEND:20260514T041500Z
+SUMMARY:Los Angeles Sparks - Indiana Fever
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260516-los-angeles-sparks-toronto-tempo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Toronto Tempo 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260516-los-angeles-sparks-toronto-tempo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260516T020000Z
+DTEND:20260516T034500Z
+SUMMARY:Los Angeles Sparks - Toronto Tempo
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260518-los-angeles-sparks-toronto-tempo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Toronto Tempo 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260518-los-angeles-sparks-toronto-tempo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260517T230000Z
+DTEND:20260518T004500Z
+SUMMARY:Los Angeles Sparks - Toronto Tempo
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260522-phoenix-mercury-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Phoenix Mercury 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Mortgage Matchup 
+ Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260522-phoenix-mercury-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260522T020000Z
+DTEND:20260522T034500Z
+SUMMARY:Phoenix Mercury - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260524-las-vegas-aces-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Las Vegas Aces 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: Michelob ULTRA Ar
+ ena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260524-las-vegas-aces-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T000000Z
+DTEND:20260524T014500Z
+SUMMARY:Las Vegas Aces - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260530-washington-mystics-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Washington Mystics 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: CareFirst Arena\,
+  Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260530-washington-mystics-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260529T233000Z
+DTEND:20260530T011500Z
+SUMMARY:Washington Mystics - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:CareFirst Arena\, Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260531-connecticut-sun-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Connecticut Sun 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · WNBA\nEstadi: PeoplesBank Arena
+ \, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260531-connecticut-sun-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260530T220000Z
+DTEND:20260530T234500Z
+SUMMARY:Connecticut Sun - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260603-los-angeles-sparks-las-vegas-aces-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Las Vegas Aces 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260603-los-angeles-sparks-las-vegas-aces@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260603T020000Z
+DTEND:20260603T034500Z
+SUMMARY:Los Angeles Sparks - Las Vegas Aces
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260606-los-angeles-sparks-dallas-wings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Dallas Wings 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260606-los-angeles-sparks-dallas-wings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260606T020000Z
+DTEND:20260606T034500Z
+SUMMARY:Los Angeles Sparks - Dallas Wings
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260608-los-angeles-sparks-portland-fire-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Portland Fire 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260608-los-angeles-sparks-portland-fire@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260607T230000Z
+DTEND:20260608T004500Z
+SUMMARY:Los Angeles Sparks - Portland Fire
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260611-seattle-storm-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Seattle Storm 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Climate Pledge Ar
+ ena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260611-seattle-storm-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260611T020000Z
+DTEND:20260611T034500Z
+SUMMARY:Seattle Storm - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260614-phoenix-mercury-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Phoenix Mercury 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Mortgage Matchup 
+ Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260614-phoenix-mercury-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260614T020000Z
+DTEND:20260614T034500Z
+SUMMARY:Phoenix Mercury - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260616-golden-state-valkyries-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Golden State Valkyries 🇺
+ 🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Chase Center\, Sa
+ n Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260616-golden-state-valkyries-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260616T020000Z
+DTEND:20260616T034500Z
+SUMMARY:Golden State Valkyries - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Chase Center\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260618-los-angeles-sparks-minnesota-lynx-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Minnesota Lynx 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260618-los-angeles-sparks-minnesota-lynx@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260618T020000Z
+DTEND:20260618T034500Z
+SUMMARY:Los Angeles Sparks - Minnesota Lynx
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260622-los-angeles-sparks-new-york-liberty-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | New York Liberty 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260622-los-angeles-sparks-new-york-liberty@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260622T000000Z
+DTEND:20260622T014500Z
+SUMMARY:Los Angeles Sparks - New York Liberty
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260626-toronto-tempo-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Toronto Tempo 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Coca-Cola Coliseu
+ m\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260626-toronto-tempo-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260625T230000Z
+DTEND:20260626T004500Z
+SUMMARY:Toronto Tempo - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Coca-Cola Coliseum\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260628-indiana-fever-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Indiana Fever 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: Gainbridge Fieldh
+ ouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260628-indiana-fever-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260628T000000Z
+DTEND:20260628T014500Z
+SUMMARY:Indiana Fever - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260707-los-angeles-sparks-seattle-storm-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Seattle Storm 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260707-los-angeles-sparks-seattle-storm@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260707T020000Z
+DTEND:20260707T034500Z
+SUMMARY:Los Angeles Sparks - Seattle Storm
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260709-los-angeles-sparks-indiana-fever-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Indiana Fever 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260709-los-angeles-sparks-indiana-fever@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260709T020000Z
+DTEND:20260709T034500Z
+SUMMARY:Los Angeles Sparks - Indiana Fever
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260711-los-angeles-sparks-chicago-sky-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Chicago Sky 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260711-los-angeles-sparks-chicago-sky@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260711T020000Z
+DTEND:20260711T034500Z
+SUMMARY:Los Angeles Sparks - Chicago Sky
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260714-atlanta-dream-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Atlanta Dream 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: Gateway Center\, 
+ College Park\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260714-atlanta-dream-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260713T230000Z
+DTEND:20260714T004500Z
+SUMMARY:Atlanta Dream - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Gateway Center\, College Park\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260715-minnesota-lynx-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Minnesota Lynx 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · WNBA\nEstadi: Target Center\, M
+ inneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260715-minnesota-lynx-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260715T170000Z
+DTEND:20260715T184500Z
+SUMMARY:Minnesota Lynx - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Target Center\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260718-chicago-sky-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Chicago Sky 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: Wintrust Arena\, 
+ Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260718-chicago-sky-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260717T233000Z
+DTEND:20260718T011500Z
+SUMMARY:Chicago Sky - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Wintrust Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260719-dallas-wings-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Dallas Wings 🇺🇸
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · WNBA\nEstadi: College Park Cent
+ er\, Arlington\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260719-dallas-wings-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T170000Z
+DTEND:20260719T184500Z
+SUMMARY:Dallas Wings - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:College Park Center\, Arlington\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260722-los-angeles-sparks-phoenix-mercury-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Phoenix Mercury 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260722-los-angeles-sparks-phoenix-mercury@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260722T190000Z
+DTEND:20260722T204500Z
+SUMMARY:Los Angeles Sparks - Phoenix Mercury
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260729-los-angeles-sparks-new-york-liberty-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | New York Liberty 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260729-los-angeles-sparks-new-york-liberty@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260729T020000Z
+DTEND:20260729T034500Z
+SUMMARY:Los Angeles Sparks - New York Liberty
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260802-portland-fire-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Portland Fire 🇺🇸
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · WNBA\nEstadi: Moda Center\, Por
+ tland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260802-portland-fire-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260802T193000Z
+DTEND:20260802T211500Z
+SUMMARY:Portland Fire - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260806-chicago-sky-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Chicago Sky 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · WNBA\nEstadi: Wintrust Arena\, 
+ Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260806-chicago-sky-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260806T010000Z
+DTEND:20260806T024500Z
+SUMMARY:Chicago Sky - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Wintrust Arena\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260807-minnesota-lynx-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Minnesota Lynx 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · WNBA\nEstadi: Target Center\, M
+ inneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260807-minnesota-lynx-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260807T010000Z
+DTEND:20260807T024500Z
+SUMMARY:Minnesota Lynx - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Target Center\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260810-los-angeles-sparks-golden-state-valkyries-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Golden State Valkyries 🇺
+ 🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260810-los-angeles-sparks-golden-state-valkyries@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260809T230000Z
+DTEND:20260810T004500Z
+SUMMARY:Los Angeles Sparks - Golden State Valkyries
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260812-los-angeles-sparks-phoenix-mercury-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Phoenix Mercury 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Galen Center\, Lo
+ s Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260812-los-angeles-sparks-phoenix-mercury@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260812T020000Z
+DTEND:20260812T034500Z
+SUMMARY:Los Angeles Sparks - Phoenix Mercury
+DESCRIPTION:WNBA
+LOCATION:Galen Center\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260814-new-york-liberty-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | New York Liberty 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: Barclays Center\,
+  Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260814-new-york-liberty-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260814T000000Z
+DTEND:20260814T014500Z
+SUMMARY:New York Liberty - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Barclays Center\, Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260816-washington-mystics-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Washington Mystics 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · WNBA\nEstadi: CareFirst Arena\,
+  Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260816-washington-mystics-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260815T233000Z
+DTEND:20260816T011500Z
+SUMMARY:Washington Mystics - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:CareFirst Arena\, Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260819-connecticut-sun-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Connecticut Sun 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: TD Garden\, Bosto
+ n\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260819-connecticut-sun-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260818T230000Z
+DTEND:20260819T004500Z
+SUMMARY:Connecticut Sun - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:TD Garden\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260821-los-angeles-sparks-atlanta-dream-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Atlanta Dream 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260821-los-angeles-sparks-atlanta-dream@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260821T020000Z
+DTEND:20260821T034500Z
+SUMMARY:Los Angeles Sparks - Atlanta Dream
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260823-los-angeles-sparks-connecticut-sun-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Connecticut Sun 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260823-los-angeles-sparks-connecticut-sun@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T010000Z
+DTEND:20260823T024500Z
+SUMMARY:Los Angeles Sparks - Connecticut Sun
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260825-los-angeles-sparks-atlanta-dream-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Atlanta Dream 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260825-los-angeles-sparks-atlanta-dream@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260825T020000Z
+DTEND:20260825T034500Z
+SUMMARY:Los Angeles Sparks - Atlanta Dream
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260829-los-angeles-sparks-washington-mystics-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Washington Mystics 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260829-los-angeles-sparks-washington-mystics@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260829T020000Z
+DTEND:20260829T034500Z
+SUMMARY:Los Angeles Sparks - Washington Mystics
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260830-seattle-storm-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Seattle Storm 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · WNBA\nEstadi: Climate Pledge Ar
+ ena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260830-seattle-storm-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260830T210000Z
+DTEND:20260830T224500Z
+SUMMARY:Seattle Storm - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260918-dallas-wings-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Dallas Wings 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · WNBA\nEstadi: College Park Cent
+ er\, Arlington\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260918-dallas-wings-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260918T000000Z
+DTEND:20260918T014500Z
+SUMMARY:Dallas Wings - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:College Park Center\, Arlington\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260921-los-angeles-sparks-portland-fire-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Portland Fire 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260921-los-angeles-sparks-portland-fire@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260920T230000Z
+DTEND:20260921T004500Z
+SUMMARY:Los Angeles Sparks - Portland Fire
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260923-las-vegas-aces-los-angeles-sparks-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:LOS ANGELES SPARKS | WNBA | ✈️ | Las Vegas Aces 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: Michelob ULTRA Ar
+ ena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260923-las-vegas-aces-los-angeles-sparks@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260923T020000Z
+DTEND:20260923T034500Z
+SUMMARY:Las Vegas Aces - Los Angeles Sparks
+DESCRIPTION:WNBA
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260925-los-angeles-sparks-golden-state-valkyries-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:LOS ANGELES SPARKS | WNBA | 🏟️ | Golden State Valkyries 🇺
+ 🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · WNBA\nEstadi: crypto.com Arena\
+ , Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:wnba-20260925-los-angeles-sparks-golden-state-valkyries@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260925T020000Z
+DTEND:20260925T034500Z
+SUMMARY:Los Angeles Sparks - Golden State Valkyries
+DESCRIPTION:WNBA
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+END:VCALENDAR

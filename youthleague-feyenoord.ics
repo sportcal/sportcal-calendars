@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Feyenoord · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-feyenoord-porto-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:FEYENOORD | Youth League | Matchday 5 | 🏟️ | Porto
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Spor
+ tcomplex Varkenoord\, Rotterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-feyenoord-porto@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T130000Z
+DTEND:20261124T144500Z
+SUMMARY:Feyenoord - Porto
+DESCRIPTION:UEFA Youth League
+LOCATION:Sportcomplex Varkenoord\, Rotterdam
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-viking-feyenoord-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:FEYENOORD | Youth League | Matchday 6 | ✈️ | Viking
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Sand
+ nes Ulf Arena\, Sandnes
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-viking-feyenoord@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T110000Z
+DTEND:20261208T124500Z
+SUMMARY:Viking - Feyenoord
+DESCRIPTION:UEFA Youth League
+LOCATION:Sandnes Ulf Arena\, Sandnes
+END:VEVENT
+END:VCALENDAR

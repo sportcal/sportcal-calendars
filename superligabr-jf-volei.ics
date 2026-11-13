@@ -1,0 +1,375 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JF Vôlei · Superliga
+BEGIN:VEVENT
+UID:superligabr-20251021-sada-cruzeiro-volei-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+SUMMARY:JF VÔLEI | Superliga | J1 | ✈️ | Sada Cruzeiro Vôlei 🇧🇷
+DESCRIPTION:Inici: 23:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251021-sada-cruzeiro-volei-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251021T213000Z
+DTEND:20251021T231500Z
+SUMMARY:Sada Cruzeiro Vôlei - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251027-jf-volei-azulim-sicoob-aracoop-monte-carmelo-dia@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251028
+SUMMARY:JF VÔLEI | Superliga | J2 | 🏟️ | Azulim Sicoob Aracoop Monte 
+ Carmelo 🇧🇷
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251027-jf-volei-azulim-sicoob-aracoop-monte-carmelo@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART:20251026T230000Z
+DTEND:20251027T004500Z
+SUMMARY:JF Vôlei - Azulim Sicoob Aracoop Monte Carmelo
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251102-saneago-goias-volei-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251102
+DTEND;VALUE=DATE:20251103
+SUMMARY:JF VÔLEI | Superliga | J3 | ✈️ | Saneago Goiás Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251102-saneago-goias-volei-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251102T000000Z
+DTEND:20251102T014500Z
+SUMMARY:Saneago Goiás Vôlei - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251105-praia-clube-uberlandia-volei-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251105
+DTEND;VALUE=DATE:20251106
+SUMMARY:JF VÔLEI | Superliga | J4 | ✈️ | Praia Clube Uberlândia Vôle
+ i 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251105-praia-clube-uberlandia-volei-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251105T213000Z
+DTEND:20251105T231500Z
+SUMMARY:Praia Clube Uberlândia Vôlei - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251109-jf-volei-viapol-volei-sao-jose-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251109
+DTEND;VALUE=DATE:20251110
+SUMMARY:JF VÔLEI | Superliga | J5 | 🏟️ | Viapol Vôlei São José 
+ 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251109-jf-volei-viapol-volei-sao-jose@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251109T213000Z
+DTEND:20251109T231500Z
+SUMMARY:JF Vôlei - Viapol Vôlei São José
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251116-sil-volei-guarulhos-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251117
+SUMMARY:JF VÔLEI | Superliga | J6 | ✈️ | Sil Vôlei Guarulhos 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251116-sil-volei-guarulhos-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251116T213000Z
+DTEND:20251116T231500Z
+SUMMARY:Sil Vôlei Guarulhos - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251122-joinville-volei-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:JF VÔLEI | Superliga | J7 | ✈️ | Joinville Vôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251122-joinville-volei-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251122T213000Z
+DTEND:20251122T231500Z
+SUMMARY:Joinville Vôlei - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251130-sesi-bauru-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+SUMMARY:JF VÔLEI | Superliga | J8 | ✈️ | SESI Bauru 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251130-sesi-bauru-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251130T000000Z
+DTEND:20251130T014500Z
+SUMMARY:SESI Bauru - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251203-jf-volei-itambe-minas-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251203
+DTEND;VALUE=DATE:20251204
+SUMMARY:JF VÔLEI | Superliga | J9 | 🏟️ | Itambé Minas 🇧🇷
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251203-jf-volei-itambe-minas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251203T220000Z
+DTEND:20251203T234500Z
+SUMMARY:JF Vôlei - Itambé Minas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251208-jf-volei-suzano-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+SUMMARY:JF VÔLEI | Superliga | J9 | 🏟️ | Suzano Vôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251208-jf-volei-suzano-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251208T213000Z
+DTEND:20251208T231500Z
+SUMMARY:JF Vôlei - Suzano Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251212-volei-renata-campinas-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:JF VÔLEI | Superliga | J11 | ✈️ | Vôlei Renata Campinas 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20251212-volei-renata-campinas-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20251212T213000Z
+DTEND:20251212T231500Z
+SUMMARY:Vôlei Renata Campinas - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260109-jf-volei-sada-cruzeiro-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:JF VÔLEI | Superliga | J12 | 🏟️ | Sada Cruzeiro Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260109-jf-volei-sada-cruzeiro-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260109T213000Z
+DTEND:20260109T231500Z
+SUMMARY:JF Vôlei - Sada Cruzeiro Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260115-azulim-sicoob-aracoop-monte-carmelo-jf-volei-dia@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:JF VÔLEI | Superliga | J13 | ✈️ | Azulim Sicoob Aracoop Monte 
+ Carmelo 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260115-azulim-sicoob-aracoop-monte-carmelo-jf-volei@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART:20260115T213000Z
+DTEND:20260115T231500Z
+SUMMARY:Azulim Sicoob Aracoop Monte Carmelo - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260122-jf-volei-saneago-goias-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:JF VÔLEI | Superliga | J14 | 🏟️ | Saneago Goiás Vôlei 🇧
+ 🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260122-jf-volei-saneago-goias-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260122T213000Z
+DTEND:20260122T231500Z
+SUMMARY:JF Vôlei - Saneago Goiás Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260201-viapol-volei-sao-jose-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:JF VÔLEI | Superliga | J15 | ✈️ | Viapol Vôlei São José 
+ 🇧🇷
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260201-viapol-volei-sao-jose-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260201T203000Z
+DTEND:20260201T221500Z
+SUMMARY:Viapol Vôlei São José - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260208-jf-volei-sil-volei-guarulhos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:JF VÔLEI | Superliga | J16 | 🏟️ | Sil Vôlei Guarulhos 🇧
+ 🇷
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260208-jf-volei-sil-volei-guarulhos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260208T210000Z
+DTEND:20260208T224500Z
+SUMMARY:JF Vôlei - Sil Vôlei Guarulhos
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260213-jf-volei-joinville-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:JF VÔLEI | Superliga | J17 | 🏟️ | Joinville Vôlei 🇧🇷
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260213-jf-volei-joinville-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260212T230000Z
+DTEND:20260213T004500Z
+SUMMARY:JF Vôlei - Joinville Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260222-jf-volei-sesi-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:JF VÔLEI | Superliga | J18 | 🏟️ | SESI Bauru 🇧🇷
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260222-jf-volei-sesi-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260222T210000Z
+DTEND:20260222T224500Z
+SUMMARY:JF Vôlei - SESI Bauru
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260307-itambe-minas-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:JF VÔLEI | Superliga | J19 | ✈️ | Itambé Minas 🇧🇷
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260307-itambe-minas-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260307T193000Z
+DTEND:20260307T211500Z
+SUMMARY:Itambé Minas - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260315-suzano-volei-jf-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:JF VÔLEI | Superliga | J20 | ✈️ | Suzano Vôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260315-suzano-volei-jf-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260315T213000Z
+DTEND:20260315T231500Z
+SUMMARY:Suzano Vôlei - JF Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260322-jf-volei-volei-renata-campinas-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:JF VÔLEI | Superliga | J21 | 🏟️ | Vôlei Renata Campinas 🇧
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260322-jf-volei-volei-renata-campinas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260322T000000Z
+DTEND:20260322T014500Z
+SUMMARY:JF Vôlei - Vôlei Renata Campinas
+DESCRIPTION:Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260328-jf-volei-praia-clube-uberlandia-volei-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:JF VÔLEI | Superliga | J22 | 🏟️ | Praia Clube Uberlândia Vô
+ lei 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabr-20260328-jf-volei-praia-clube-uberlandia-volei@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260328T000000Z
+DTEND:20260328T014500Z
+SUMMARY:JF Vôlei - Praia Clube Uberlândia Vôlei
+DESCRIPTION:Superliga
+END:VEVENT
+END:VCALENDAR

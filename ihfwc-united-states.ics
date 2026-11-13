@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United States · World Championship
+BEGIN:VEVENT
+UID:ihfwc-20270115-denmark-united-states-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:UNITED STATES | World Championship | Preliminary Group G | ✈️ |
+  Denmark
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270115-denmark-united-states@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270115T193000Z
+DTEND:20270115T211500Z
+SUMMARY:Denmark - United States
+DESCRIPTION:IHF World Championship
+LOCATION:Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270117-slovenia-united-states-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:UNITED STATES | World Championship | Preliminary Group G | ✈️ |
+  Slovenia
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270117-slovenia-united-states@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270117T170000Z
+DTEND:20270117T184500Z
+SUMMARY:Slovenia - United States
+DESCRIPTION:IHF World Championship
+LOCATION:Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270119-united-states-angola-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:UNITED STATES | World Championship | Preliminary Group G | 🏟️ 
+ | Angola
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · IHF World Championship\nEstadi:
+  Wunderino Arena\, Kiel
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270119-united-states-angola@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270119T170000Z
+DTEND:20270119T184500Z
+SUMMARY:United States - Angola
+DESCRIPTION:IHF World Championship
+LOCATION:Wunderino Arena\, Kiel
+END:VEVENT
+END:VCALENDAR

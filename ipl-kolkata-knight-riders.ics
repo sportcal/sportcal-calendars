@@ -1,0 +1,261 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kolkata Knight Riders · IPL
+BEGIN:VEVENT
+UID:ipl-20260329-mumbai-indians-kolkata-knight-riders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | ✈️ | Mumbai Indians
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260329-mumbai-indians-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260329T140000Z
+DTEND:20260329T154500Z
+SUMMARY:Mumbai Indians - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260402-kolkata-knight-riders-sunrisers-hyderabad-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | 🏟️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260402-kolkata-knight-riders-sunrisers-hyderabad@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260402T140000Z
+DTEND:20260402T154500Z
+SUMMARY:Kolkata Knight Riders - Sunrisers Hyderabad
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260406-kolkata-knight-riders-punjab-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | 🏟️ | Punjab Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260406-kolkata-knight-riders-punjab-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260406T140000Z
+DTEND:20260406T154500Z
+SUMMARY:Kolkata Knight Riders - Punjab Kings
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260409-kolkata-knight-riders-lucknow-super-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | 🏟️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260409-kolkata-knight-riders-lucknow-super-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260409T140000Z
+DTEND:20260409T154500Z
+SUMMARY:Kolkata Knight Riders - Lucknow Super Giants
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260414-chennai-super-kings-kolkata-knight-riders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | ✈️ | Chennai Super Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: MA Chidambaram Sta
+ dium\, Chepauk\, Chennai\, Chennai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260414-chennai-super-kings-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260414T140000Z
+DTEND:20260414T154500Z
+SUMMARY:Chennai Super Kings - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:MA Chidambaram Stadium\, Chepauk\, Chennai\, Chennai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260417-gujarat-titans-kolkata-knight-riders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | ✈️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Narendra Modi Stad
+ ium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260417-gujarat-titans-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260417T140000Z
+DTEND:20260417T154500Z
+SUMMARY:Gujarat Titans - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:Narendra Modi Stadium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260419-kolkata-knight-riders-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | 🏟️ | Rajasthan Royals
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260419-kolkata-knight-riders-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260419T100000Z
+DTEND:20260419T114500Z
+SUMMARY:Kolkata Knight Riders - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260426-lucknow-super-giants-kolkata-knight-riders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | ✈️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Bharat Ratna Shri 
+ Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\, Lucknow
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260426-lucknow-super-giants-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260426T140000Z
+DTEND:20260426T154500Z
+SUMMARY:Lucknow Super Giants - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Luc
+ know\, Lucknow
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260503-sunrisers-hyderabad-kolkata-knight-riders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | ✈️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Rajiv Gandhi Inter
+ national Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260503-sunrisers-hyderabad-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260503T100000Z
+DTEND:20260503T114500Z
+SUMMARY:Sunrisers Hyderabad - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:Rajiv Gandhi International Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260508-delhi-capitals-kolkata-knight-riders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | ✈️ | Delhi Capitals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260508-delhi-capitals-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260508T140000Z
+DTEND:20260508T154500Z
+SUMMARY:Delhi Capitals - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260513-royal-challengers-bengaluru-kolkata-knight-riders-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | ✈️ | Royal Challengers Bengaluru
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Shaheed Veer Naray
+ an Singh International Stadium\, Raipur\, Raipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260513-royal-challengers-bengaluru-kolkata-knight-riders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260513T140000Z
+DTEND:20260513T154500Z
+SUMMARY:Royal Challengers Bengaluru - Kolkata Knight Riders
+DESCRIPTION:IPL
+LOCATION:Shaheed Veer Narayan Singh International Stadium\, Raipur\, Raipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260516-kolkata-knight-riders-gujarat-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | 🏟️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260516-kolkata-knight-riders-gujarat-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260516T140000Z
+DTEND:20260516T154500Z
+SUMMARY:Kolkata Knight Riders - Gujarat Titans
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260520-kolkata-knight-riders-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | 🏟️ | Mumbai Indians
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260520-kolkata-knight-riders-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260520T140000Z
+DTEND:20260520T154500Z
+SUMMARY:Kolkata Knight Riders - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260524-kolkata-knight-riders-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:KOLKATA KNIGHT RIDERS | IPL | 🏟️ | Delhi Capitals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260524-kolkata-knight-riders-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Kolkata Knight Riders - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+END:VCALENDAR

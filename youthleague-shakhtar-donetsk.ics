@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shakhtar Donetsk · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-shakhtar-donetsk-fenerbahce-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:SHAKHTAR DONETSK | Youth League | Matchday 5 | 🏟️ | Fenerbahç
+ e 🇹🇷
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · UEFA Youth League\nEstadi: King
+ smeadow (stadium) Kingsmeadow\, Kingston\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-shakhtar-donetsk-fenerbahce@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T120000Z
+DTEND:20261125T134500Z
+SUMMARY:Shakhtar Donetsk - Fenerbahçe
+DESCRIPTION:UEFA Youth League
+LOCATION:Kingsmeadow (stadium) Kingsmeadow\, Kingston\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-slovan-bratislava-shakhtar-donetsk-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:SHAKHTAR DONETSK | Youth League | Matchday 6 | ✈️ | Slovan Brat
+ islava
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Nati
+ onal Training Centre\, Senec
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-slovan-bratislava-shakhtar-donetsk@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T120000Z
+DTEND:20261209T134500Z
+SUMMARY:Slovan Bratislava - Shakhtar Donetsk
+DESCRIPTION:UEFA Youth League
+LOCATION:National Training Centre\, Senec
+END:VEVENT
+END:VCALENDAR

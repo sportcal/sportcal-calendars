@@ -1,0 +1,440 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Salford · Championship
+BEGIN:VEVENT
+UID:rlchampionship-20260116-salford-oldham-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:SALFORD | Championship | J1 | 🏟️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260116-salford-oldham@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260116T200000Z
+DTEND:20260116T214500Z
+SUMMARY:Salford - Oldham
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260131-barrow-raiders-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:SALFORD | Championship | J2 | ✈️ | Barrow Raiders 🇬🇧
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Championship\nEstadi: Craven Pa
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260131-barrow-raiders-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260131T180000Z
+DTEND:20260131T194500Z
+SUMMARY:Barrow Raiders - Salford
+DESCRIPTION:Championship
+LOCATION:Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260215-salford-hunslet-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:SALFORD | Championship | J3 | 🏟️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260215-salford-hunslet@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260215T150000Z
+DTEND:20260215T164500Z
+SUMMARY:Salford - Hunslet
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-doncaster-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:SALFORD | Championship | J4 | ✈️ | Doncaster 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Eco-Power
+  Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260301-doncaster-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260301T150000Z
+DTEND:20260301T164500Z
+SUMMARY:Doncaster - Salford
+DESCRIPTION:Championship
+LOCATION:Eco-Power Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-workington-town-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:SALFORD | Championship | J5 | ✈️ | Workington Town 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Derwent P
+ ark
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260308-workington-town-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260308T150000Z
+DTEND:20260308T164500Z
+SUMMARY:Workington Town - Salford
+DESCRIPTION:Championship
+LOCATION:Derwent Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260322-london-broncos-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:SALFORD | Championship | J6 | ✈️ | London Broncos 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Plough La
+ ne
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260322-london-broncos-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260322T150000Z
+DTEND:20260322T164500Z
+SUMMARY:London Broncos - Salford
+DESCRIPTION:Championship
+LOCATION:Plough Lane
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260327-salford-halifax-panthers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:SALFORD | Championship | J7 | 🏟️ | Halifax Panthers 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260327-salford-halifax-panthers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260327T200000Z
+DTEND:20260327T214500Z
+SUMMARY:Salford - Halifax Panthers
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260405-swinton-lions-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:SALFORD | Championship | J8 | ✈️ | Swinton Lions 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship\nEstadi: Heywood R
+ oad
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260405-swinton-lions-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260405T130000Z
+DTEND:20260405T144500Z
+SUMMARY:Swinton Lions - Salford
+DESCRIPTION:Championship
+LOCATION:Heywood Road
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-salford-batley-bulldogs-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:SALFORD | Championship | J9 | 🏟️ | Batley Bulldogs 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260412-salford-batley-bulldogs@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260412T140000Z
+DTEND:20260412T154500Z
+SUMMARY:Salford - Batley Bulldogs
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-sheffield-eagles-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:SALFORD | Championship | J9 | ✈️ | Sheffield Eagles 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Steel Cit
+ y Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260426-sheffield-eagles-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260426T140000Z
+DTEND:20260426T154500Z
+SUMMARY:Sheffield Eagles - Salford
+DESCRIPTION:Championship
+LOCATION:Steel City Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-salford-widnes-vikings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:SALFORD | Championship | J12 | 🏟️ | Widnes Vikings 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260510-salford-widnes-vikings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260510T140000Z
+DTEND:20260510T154500Z
+SUMMARY:Salford - Widnes Vikings
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-halifax-panthers-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:SALFORD | Championship | J12 | ✈️ | Halifax Panthers 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: The Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260524-halifax-panthers-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T140000Z
+DTEND:20260524T154500Z
+SUMMARY:Halifax Panthers - Salford
+DESCRIPTION:Championship
+LOCATION:The Shay
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260531-north-wales-crusaders-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:SALFORD | Championship | J13 | ✈️ | North Wales Crusaders 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Eirias St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260531-north-wales-crusaders-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260531T140000Z
+DTEND:20260531T154500Z
+SUMMARY:North Wales Crusaders - Salford
+DESCRIPTION:Championship
+LOCATION:Eirias Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260607-salford-doncaster-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:SALFORD | Championship | J14 | 🏟️ | Doncaster 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260607-salford-doncaster@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260607T140000Z
+DTEND:20260607T154500Z
+SUMMARY:Salford - Doncaster
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-hunslet-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:SALFORD | Championship | J15 | ✈️ | Hunslet 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: South Lee
+ ds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260614-hunslet-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260614T140000Z
+DTEND:20260614T154500Z
+SUMMARY:Hunslet - Salford
+DESCRIPTION:Championship
+LOCATION:South Leeds Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-salford-workington-town-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:SALFORD | Championship | J16 | 🏟️ | Workington Town 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260621-salford-workington-town@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260621T140000Z
+DTEND:20260621T154500Z
+SUMMARY:Salford - Workington Town
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-salford-barrow-raiders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:SALFORD | Championship | J17 | 🏟️ | Barrow Raiders 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260628-salford-barrow-raiders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260628T140000Z
+DTEND:20260628T154500Z
+SUMMARY:Salford - Barrow Raiders
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260705-salford-north-wales-crusaders-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:SALFORD | Championship | J18 | 🏟️ | North Wales Crusaders 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260705-salford-north-wales-crusaders@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260705T140000Z
+DTEND:20260705T154500Z
+SUMMARY:Salford - North Wales Crusaders
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-salford-sheffield-eagles-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:SALFORD | Championship | J17 | 🏟️ | Sheffield Eagles 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260712-salford-sheffield-eagles@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260712T140000Z
+DTEND:20260712T154500Z
+SUMMARY:Salford - Sheffield Eagles
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-salford-london-broncos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:SALFORD | Championship | J18 | 🏟️ | London Broncos 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Salford C
+ ommunity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260719-salford-london-broncos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260719T140000Z
+DTEND:20260719T154500Z
+SUMMARY:Salford - London Broncos
+DESCRIPTION:Championship
+LOCATION:Salford Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260724-widnes-vikings-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:SALFORD | Championship | J19 | ✈️ | Widnes Vikings 🇬🇧
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Championship\nEstadi: Halton St
+ adium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260724-widnes-vikings-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260724T183000Z
+DTEND:20260724T201500Z
+SUMMARY:Widnes Vikings - Salford
+DESCRIPTION:Championship
+LOCATION:Halton Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260808-salford-swinton-lions-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:SALFORD | Championship | J21 | 🏟️ | Swinton Lions 🇬🇧
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Championship\nEstadi: Brick Com
+ munity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260808-salford-swinton-lions@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260808T130000Z
+DTEND:20260808T144500Z
+SUMMARY:Salford - Swinton Lions
+DESCRIPTION:Championship
+LOCATION:Brick Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-oldham-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:SALFORD | Championship | J23 | ✈️ | Oldham 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Boundary 
+ Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260823-oldham-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260823T140000Z
+DTEND:20260823T154500Z
+SUMMARY:Oldham - Salford
+DESCRIPTION:Championship
+LOCATION:Boundary Park
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-batley-bulldogs-salford-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:SALFORD | Championship | J24 | ✈️ | Batley Bulldogs 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Championship\nEstadi: Mount Ple
+ asant
+END:VEVENT
+BEGIN:VEVENT
+UID:rlchampionship-20260830-batley-bulldogs-salford@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260830T140000Z
+DTEND:20260830T154500Z
+SUMMARY:Batley Bulldogs - Salford
+DESCRIPTION:Championship
+LOCATION:Mount Pleasant
+END:VEVENT
+END:VCALENDAR

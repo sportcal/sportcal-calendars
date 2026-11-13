@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hwacheon KSPO · AFC WCL
+BEGIN:VEVENT
+UID:afcwcl-20261101-hwacheon-kspo-april-25-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:HWACHEON KSPO | AFC WCL | Group B | 🏟️ | April 25 🇰🇵
+DESCRIPTION:Inici: 09:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261101-hwacheon-kspo-april-25@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261101T083000Z
+DTEND:20261101T101500Z
+SUMMARY:Hwacheon KSPO - April 25
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261104-east-bengal-hwacheon-kspo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:HWACHEON KSPO | AFC WCL | Group B | ✈️ | East Bengal 🇮🇳
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261104-east-bengal-hwacheon-kspo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261104T143000Z
+DTEND:20261104T161500Z
+SUMMARY:East Bengal - Hwacheon KSPO
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261107-hwacheon-kspo-ho-chi-minh-city-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:HWACHEON KSPO | AFC WCL | Group B | 🏟️ | Hồ Chí Minh City 
+ 🇻🇳
+DESCRIPTION:Inici: 09:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261107-hwacheon-kspo-ho-chi-minh-city@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261107T083000Z
+DTEND:20261107T101500Z
+SUMMARY:Hwacheon KSPO - Hồ Chí Minh City
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Kishore Bharati Krirangan\, Kolkata
+END:VEVENT
+END:VCALENDAR

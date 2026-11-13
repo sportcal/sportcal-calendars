@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Olimpia · Libertadores Fem
+BEGIN:VEVENT
+UID:libertadoresfem-20261016-bolivar-olimpia-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:OLIMPIA | Libertadores Fem | Group C | ✈️ | Bolívar 🇧🇴
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261016-bolivar-olimpia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261016T200000Z
+DTEND:20261016T214500Z
+SUMMARY:Bolívar - Olimpia
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261020-ldu-quito-olimpia-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:OLIMPIA | Libertadores Fem | Group C | ✈️ | LDU Quito 🇪🇨
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261020-ldu-quito-olimpia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261020T000000Z
+DTEND:20261020T014500Z
+SUMMARY:LDU Quito - Olimpia
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261023-olimpia-cruzeiro-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:OLIMPIA | Libertadores Fem | Group C | 🏟️ | Cruzeiro 🇧🇷
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Banco Guayaquil\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261023-olimpia-cruzeiro@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261023T000000Z
+DTEND:20261023T014500Z
+SUMMARY:Olimpia - Cruzeiro
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Banco Guayaquil\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261025-deportivo-cali-olimpia-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:OLIMPIA | Libertadores Fem | Quarter-finals | ✈️ | Deportivo Ca
+ li 🇨🇴
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Banco Guayaquil\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261025-deportivo-cali-olimpia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261025T200000Z
+DTEND:20261025T214500Z
+SUMMARY:Deportivo Cali - Olimpia
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Banco Guayaquil\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261029-cruzeiro-olimpia-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:OLIMPIA | Libertadores Fem | Semi-finals | ✈️ | Cruzeiro 🇧
+ 🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261029-cruzeiro-olimpia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261029T000000Z
+DTEND:20261029T014500Z
+SUMMARY:Cruzeiro - Olimpia
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261031-olimpia-santa-fe-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:OLIMPIA | Libertadores Fem | Third place | 🏟️ | Santa Fe 🇨
+ 🇴
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261031-olimpia-santa-fe@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261031T200000Z
+DTEND:20261031T214500Z
+SUMMARY:Olimpia - Santa Fe
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Algeria · World Championship
+BEGIN:VEVENT
+UID:ihfwc-20270114-faroe-islands-algeria-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:ALGERIA | World Championship | Preliminary Group F | ✈️ | Faroe
+  Islands
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · IHF World Championship\nEstadi:
+  GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270114-faroe-islands-algeria@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270114T170000Z
+DTEND:20270114T184500Z
+SUMMARY:Faroe Islands - Algeria
+DESCRIPTION:IHF World Championship
+LOCATION:GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270116-algeria-portugal-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:ALGERIA | World Championship | Preliminary Group F | 🏟️ | Port
+ ugal
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · IHF World Championship\nEstadi:
+  GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270116-algeria-portugal@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Algeria - Portugal
+DESCRIPTION:IHF World Championship
+LOCATION:GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270118-poland-algeria-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:ALGERIA | World Championship | Preliminary Group F | ✈️ | Polan
+ d
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · IHF World Championship\nEstadi:
+  GETEC Arena\, Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+UID:ihfwc-20270118-poland-algeria@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20270118T170000Z
+DTEND:20270118T184500Z
+SUMMARY:Poland - Algeria
+DESCRIPTION:IHF World Championship
+LOCATION:GETEC Arena\, Magdeburg
+END:VEVENT
+END:VCALENDAR

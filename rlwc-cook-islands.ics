@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cook Islands · RLWC
+BEGIN:VEVENT
+UID:rlwc-20261018-fiji-cook-islands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:COOK ISLANDS | RLWC | J1 | ✈️ | Fiji
+DESCRIPTION:Inici: 07:05 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  Newcastle International Sports Centre\, Newcastle
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261018-fiji-cook-islands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261018T050500Z
+DTEND:20261018T065000Z
+SUMMARY:Fiji - Cook Islands
+DESCRIPTION:Rugby League World Cup
+LOCATION:Newcastle International Sports Centre\, Newcastle
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261025-new-zealand-cook-islands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:COOK ISLANDS | RLWC | J2 | ✈️ | New Zealand
+DESCRIPTION:Inici: 06:05 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  Te Kaha Stadium\, Christchurch
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261025-new-zealand-cook-islands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261025T050500Z
+DTEND:20261025T065000Z
+SUMMARY:New Zealand - Cook Islands
+DESCRIPTION:Rugby League World Cup
+LOCATION:Te Kaha Stadium\, Christchurch
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261031-australia-cook-islands-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:COOK ISLANDS | RLWC | J3 | ✈️ | Australia
+DESCRIPTION:Inici: 10:05 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  North Queensland Stadium\, Townsville
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261031-australia-cook-islands@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261031T090500Z
+DTEND:20261031T105000Z
+SUMMARY:Australia - Cook Islands
+DESCRIPTION:Rugby League World Cup
+LOCATION:North Queensland Stadium\, Townsville
+END:VEVENT
+END:VCALENDAR

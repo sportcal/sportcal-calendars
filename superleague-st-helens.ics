@@ -1,0 +1,491 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St Helens · Super League
+BEGIN:VEVENT
+UID:superleague-20260213-warrington-wolves-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:ST HELENS | Super League | J1 | ✈️ | Warrington Wolves 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Halliwell
+  Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260213-warrington-wolves-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260213T200000Z
+DTEND:20260213T214500Z
+SUMMARY:Warrington Wolves - St Helens
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260220-st-helens-leigh-leopards-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:ST HELENS | Super League | J2 | 🏟️ | Leigh Leopards 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260220-st-helens-leigh-leopards@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260220T200000Z
+DTEND:20260220T214500Z
+SUMMARY:St Helens - Leigh Leopards
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260228-catalans-dragons-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:ST HELENS | Super League | J3 | ✈️ | Catalans Dragons 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Gil
+ bert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260228-catalans-dragons-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260228T180000Z
+DTEND:20260228T194500Z
+SUMMARY:Catalans Dragons - St Helens
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260307-st-helens-bradford-bulls-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:ST HELENS | Super League | J4 | 🏟️ | Bradford Bulls 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260307-st-helens-bradford-bulls@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260307T173000Z
+DTEND:20260307T191500Z
+SUMMARY:St Helens - Bradford Bulls
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260320-toulouse-olympique-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:ST HELENS | Super League | J5 | ✈️ | Toulouse Olympique 🇫
+ 🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Super League\nEstadi: Stade Ern
+ est Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260320-toulouse-olympique-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260320T180000Z
+DTEND:20260320T194500Z
+SUMMARY:Toulouse Olympique - St Helens
+DESCRIPTION:Super League
+LOCATION:Stade Ernest Wallon
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260327-hull-kr-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:ST HELENS | Super League | J6 | ✈️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Sewell Gr
+ oup Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260327-hull-kr-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260327T200000Z
+DTEND:20260327T214500Z
+SUMMARY:Hull KR - St Helens
+DESCRIPTION:Super League
+LOCATION:Sewell Group Craven Park
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260403-st-helens-wigan-warriors-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:ST HELENS | Super League | J7 | 🏟️ | Wigan Warriors 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260403-st-helens-wigan-warriors@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260403T140000Z
+DTEND:20260403T154500Z
+SUMMARY:St Helens - Wigan Warriors
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260416-hull-f-c-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:ST HELENS | Super League | J8 | ✈️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: MKM Stadi
+ um
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260416-hull-f-c-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260416T190000Z
+DTEND:20260416T204500Z
+SUMMARY:Hull F.C. - St Helens
+DESCRIPTION:Super League
+LOCATION:MKM Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260425-st-helens-wakefield-trinity-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:ST HELENS | Super League | J9 | 🏟️ | Wakefield Trinity 🇬
+ 🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260425-st-helens-wakefield-trinity@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260425T163000Z
+DTEND:20260425T181500Z
+SUMMARY:St Helens - Wakefield Trinity
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260501-st-helens-york-knights-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:ST HELENS | Super League | J10 | 🏟️ | York Knights 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260501-st-helens-york-knights@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260501T190000Z
+DTEND:20260501T204500Z
+SUMMARY:St Helens - York Knights
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260514-huddersfield-giants-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:ST HELENS | Super League | J11 | ✈️ | Huddersfield Giants 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Accu Stad
+ ium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260514-huddersfield-giants-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260514T190000Z
+DTEND:20260514T204500Z
+SUMMARY:Huddersfield Giants - St Helens
+DESCRIPTION:Super League
+LOCATION:Accu Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260523-castleford-tigers-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:ST HELENS | Super League | J12 | ✈️ | Castleford Tigers 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: OneBore S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260523-castleford-tigers-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260523T140000Z
+DTEND:20260523T154500Z
+SUMMARY:Castleford Tigers - St Helens
+DESCRIPTION:Super League
+LOCATION:OneBore Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260604-leeds-rhinos-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:ST HELENS | Super League | J13 | ✈️ | Leeds Rhinos 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Headingle
+ y Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260604-leeds-rhinos-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260604T190000Z
+DTEND:20260604T204500Z
+SUMMARY:Leeds Rhinos - St Helens
+DESCRIPTION:Super League
+LOCATION:Headingley Rugby Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260611-st-helens-warrington-wolves-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:ST HELENS | Super League | J14 | 🏟️ | Warrington Wolves 🇬
+ 🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260611-st-helens-warrington-wolves@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260611T190000Z
+DTEND:20260611T204500Z
+SUMMARY:St Helens - Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260621-st-helens-huddersfield-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:ST HELENS | Super League | J15 | 🏟️ | Huddersfield Giants 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260621-st-helens-huddersfield-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260621T140000Z
+DTEND:20260621T154500Z
+SUMMARY:St Helens - Huddersfield Giants
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260627-bradford-bulls-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:ST HELENS | Super League | J16 | ✈️ | Bradford Bulls 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Odsal Sta
+ dium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260627-bradford-bulls-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260627T190000Z
+DTEND:20260627T204500Z
+SUMMARY:Bradford Bulls - St Helens
+DESCRIPTION:Super League
+LOCATION:Odsal Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260705-wigan-warriors-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:ST HELENS | Super League | J17 | ✈️ | Wigan Warriors 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: Chris Ken
+ dall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260705-wigan-warriors-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260705T163000Z
+DTEND:20260705T181500Z
+SUMMARY:Wigan Warriors - St Helens
+DESCRIPTION:Super League
+LOCATION:Chris Kendall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260712-st-helens-toulouse-olympique-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:ST HELENS | Super League | J18 | 🏟️ | Toulouse Olympique 🇫
+ 🇷
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260712-st-helens-toulouse-olympique@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260712T140000Z
+DTEND:20260712T154500Z
+SUMMARY:St Helens - Toulouse Olympique
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260717-st-helens-catalans-dragons-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:ST HELENS | Super League | J19 | 🏟️ | Catalans Dragons 🇫
+ 🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260717-st-helens-catalans-dragons@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260717T190000Z
+DTEND:20260717T204500Z
+SUMMARY:St Helens - Catalans Dragons
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260724-wigan-warriors-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:ST HELENS | Super League | J20 | ✈️ | Wigan Warriors 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260724-wigan-warriors-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260724T190000Z
+DTEND:20260724T204500Z
+SUMMARY:Wigan Warriors - St Helens
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260801-york-knights-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:ST HELENS | Super League | J21 | ✈️ | York Knights 🇬🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: York Comm
+ unity Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260801-york-knights-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260801T163000Z
+DTEND:20260801T181500Z
+SUMMARY:York Knights - St Helens
+DESCRIPTION:Super League
+LOCATION:York Community Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260806-st-helens-hull-f-c-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:ST HELENS | Super League | J22 | 🏟️ | Hull F.C. 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260806-st-helens-hull-f-c@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260806T190000Z
+DTEND:20260806T204500Z
+SUMMARY:St Helens - Hull F.C.
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260815-wakefield-trinity-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:ST HELENS | Super League | J23 | ✈️ | Wakefield Trinity 🇬
+ 🇧
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Super League\nEstadi: DIY Kitch
+ ens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260815-wakefield-trinity-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260815T163000Z
+DTEND:20260815T181500Z
+SUMMARY:Wakefield Trinity - St Helens
+DESCRIPTION:Super League
+LOCATION:DIY Kitchens Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260822-st-helens-castleford-tigers-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:ST HELENS | Super League | J24 | 🏟️ | Castleford Tigers 🇬
+ 🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Super League\nEstadi: BrewDog S
+ tadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260822-st-helens-castleford-tigers@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260822T140000Z
+DTEND:20260822T154500Z
+SUMMARY:St Helens - Castleford Tigers
+DESCRIPTION:Super League
+LOCATION:BrewDog Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260828-st-helens-leeds-rhinos-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:ST HELENS | Super League | J25 | 🏟️ | Leeds Rhinos 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260828-st-helens-leeds-rhinos@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260828T190000Z
+DTEND:20260828T204500Z
+SUMMARY:St Helens - Leeds Rhinos
+DESCRIPTION:Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260904-leigh-leopards-st-helens-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:ST HELENS | Super League | J26 | ✈️ | Leigh Leopards 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League\nEstadi: Chris Ken
+ dall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260904-leigh-leopards-st-helens@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260904T190000Z
+DTEND:20260904T204500Z
+SUMMARY:Leigh Leopards - St Helens
+DESCRIPTION:Super League
+LOCATION:Chris Kendall
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-st-helens-hull-kr-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:ST HELENS | Super League | J27 | 🏟️ | Hull KR 🇬🇧
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Super League
+END:VEVENT
+BEGIN:VEVENT
+UID:superleague-20260911-st-helens-hull-kr@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260911T190000Z
+DTEND:20260911T204500Z
+SUMMARY:St Helens - Hull KR
+DESCRIPTION:Super League
+END:VEVENT
+END:VCALENDAR

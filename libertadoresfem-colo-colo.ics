@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Colo-Colo · Libertadores Fem
+BEGIN:VEVENT
+UID:libertadoresfem-20261015-corinthians-colo-colo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:COLO-COLO | Libertadores Fem | Group A | ✈️ | Corinthians 🇧
+ 🇷
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261015-corinthians-colo-colo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261015T200000Z
+DTEND:20261015T214500Z
+SUMMARY:Corinthians - Colo-Colo
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261018-colo-colo-santa-fe-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:COLO-COLO | Libertadores Fem | Group A | 🏟️ | Santa Fe 🇨
+ 🇴
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261018-colo-colo-santa-fe@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261018T200000Z
+DTEND:20261018T214500Z
+SUMMARY:Colo-Colo - Santa Fe
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261021-colo-colo-caracas-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:COLO-COLO | Libertadores Fem | Group A | 🏟️ | Caracas 🇻🇪
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Copa Libertadores Femenina\nEst
+ adi: Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+BEGIN:VEVENT
+UID:libertadoresfem-20261021-colo-colo-caracas@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261021T200000Z
+DTEND:20261021T214500Z
+SUMMARY:Colo-Colo - Caracas
+DESCRIPTION:Copa Libertadores Femenina
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+END:VEVENT
+END:VCALENDAR

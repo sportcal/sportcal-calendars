@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nasaf · AFC WCL
+BEGIN:VEVENT
+UID:afcwcl-20261101-melbourne-city-nasaf-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:NASAF | AFC WCL | Group C | ✈️ | Melbourne City 🇦🇺
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Markaziy Stadium\, Qarshi
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261101-melbourne-city-nasaf@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261101T143000Z
+DTEND:20261101T161500Z
+SUMMARY:Melbourne City - Nasaf
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Markaziy Stadium\, Qarshi
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261104-nasaf-beijing-jingtan-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:NASAF | AFC WCL | Group C | 🏟️ | Beijing Jingtan 🇨🇳
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Markaziy Stadium\, Qarshi
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261104-nasaf-beijing-jingtan@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261104T143000Z
+DTEND:20261104T161500Z
+SUMMARY:Nasaf - Beijing Jingtan
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Markaziy Stadium\, Qarshi
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261107-kaya-iloilo-nasaf-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:NASAF | AFC WCL | Group C | ✈️ | Kaya–Iloilo 🇵🇭
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · AFC Women's Champions League\nE
+ stadi: Markaziy Stadium\, Qarshi
+END:VEVENT
+BEGIN:VEVENT
+UID:afcwcl-20261107-kaya-iloilo-nasaf@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261107T143000Z
+DTEND:20261107T161500Z
+SUMMARY:Kaya–Iloilo - Nasaf
+DESCRIPTION:AFC Women's Champions League
+LOCATION:Markaziy Stadium\, Qarshi
+END:VEVENT
+END:VCALENDAR

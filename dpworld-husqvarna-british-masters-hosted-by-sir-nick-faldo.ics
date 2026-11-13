@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Husqvarna British Masters hosted by Sir Nick Faldo · DP World
+  Tour
+BEGIN:VEVENT
+UID:dpworld-401921655@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270823
+SUMMARY:DP WORLD TOUR | Husqvarna British Masters hosted by Sir Nick Faldo
+DESCRIPTION:Husqvarna British Masters hosted by Sir Nick Faldo · DP World 
+ Tour
+END:VEVENT
+END:VCALENDAR

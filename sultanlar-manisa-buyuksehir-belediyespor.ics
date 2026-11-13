@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manisa Büyükşehir Belediyespor · Sultanlar Ligi
+BEGIN:VEVENT
+UID:sultanlar-20261115-manisa-buyuksehir-belediyespor-turk-hava-yollar-dia@
+ sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:MANISA BÜYÜKŞEHIR BELEDIYESPOR | Sultanlar Ligi | J9 | 🏟️ |
+  Türk Hava Yolları 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261115-manisa-buyuksehir-belediyespor-turk-hava-yollar@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Manisa Büyükşehir Belediyespor - Türk Hava Yolları
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-nilufer-belediyespor-eker-manisa-buyuksehir-belediye
+ spor-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:MANISA BÜYÜKŞEHIR BELEDIYESPOR | Sultanlar Ligi | J10 | ✈️ |
+  Nilüfer Belediyespor Eker 🇹🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Sultanlar Ligi
+END:VEVENT
+BEGIN:VEVENT
+UID:sultanlar-20261122-nilufer-belediyespor-eker-manisa-buyuksehir-belediye
+ spor@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:Nilüfer Belediyespor Eker - Manisa Büyükşehir Belediyespor
+DESCRIPTION:Sultanlar Ligi
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Papua New Guinea · RLWC
+BEGIN:VEVENT
+UID:rlwc-20261017-papua-new-guinea-lebanon-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:PAPUA NEW GUINEA | RLWC | J1 | 🏟️ | Lebanon
+DESCRIPTION:Inici: 06:25 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  PNG Football Stadium\, Port Moresby
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261017-papua-new-guinea-lebanon@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261017T042500Z
+DTEND:20261017T061000Z
+SUMMARY:Papua New Guinea - Lebanon
+DESCRIPTION:Rugby League World Cup
+LOCATION:PNG Football Stadium\, Port Moresby
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261024-papua-new-guinea-samoa-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:PAPUA NEW GUINEA | RLWC | J2 | 🏟️ | Samoa
+DESCRIPTION:Inici: 06:25 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  PNG Football Stadium\, Port Moresby
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261024-papua-new-guinea-samoa@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261024T042500Z
+DTEND:20261024T061000Z
+SUMMARY:Papua New Guinea - Samoa
+DESCRIPTION:Rugby League World Cup
+LOCATION:PNG Football Stadium\, Port Moresby
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261030-england-papua-new-guinea-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:PAPUA NEW GUINEA | RLWC | J3 | ✈️ | England
+DESCRIPTION:Inici: 10:05 (Europe/Madrid) · Rugby League World Cup\nEstadi:
+  Wollongong Showground\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwc-20261030-england-papua-new-guinea@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261030T090500Z
+DTEND:20261030T105000Z
+SUMMARY:England - Papua New Guinea
+DESCRIPTION:Rugby League World Cup
+LOCATION:Wollongong Showground\, Wollongong
+END:VEVENT
+END:VCALENDAR

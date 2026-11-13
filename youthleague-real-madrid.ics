@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Real Madrid · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261124-real-madrid-psv-eindhoven-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:REAL MADRID | Youth League | Matchday 5 | 🏟️ | PSV Eindhoven 
+ 🇳🇱
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Alfr
+ edo Di Stéfano Stadium\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261124-real-madrid-psv-eindhoven@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261124T150000Z
+DTEND:20261124T164500Z
+SUMMARY:Real Madrid - PSV Eindhoven
+DESCRIPTION:UEFA Youth League
+LOCATION:Alfredo Di Stéfano Stadium\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-arsenal-real-madrid-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:REAL MADRID | Youth League | Matchday 6 | ✈️ | Arsenal 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Mead
+ ow Park\, Borehamwood
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261209-arsenal-real-madrid@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261209T130000Z
+DTEND:20261209T144500Z
+SUMMARY:Arsenal - Real Madrid
+DESCRIPTION:UEFA Youth League
+LOCATION:Meadow Park\, Borehamwood
+END:VEVENT
+END:VCALENDAR

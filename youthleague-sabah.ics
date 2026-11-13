@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sabah · Youth League
+BEGIN:VEVENT
+UID:youthleague-20261125-sabah-barcelona-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:SABAH | Youth League | Matchday 5 | 🏟️ | Barcelona
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Alin
+ ja Stadium\, Baku
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261125-sabah-barcelona@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261125T110000Z
+DTEND:20261125T124500Z
+SUMMARY:Sabah - Barcelona
+DESCRIPTION:UEFA Youth League
+LOCATION:Alinja Stadium\, Baku
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-villarreal-sabah-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:SABAH | Youth League | Matchday 6 | ✈️ | Villarreal 🇪🇸
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · UEFA Youth League\nEstadi: Mini
+  Estadi de la Ciudad Deportiva del Villarreal\, Villarreal
+END:VEVENT
+BEGIN:VEVENT
+UID:youthleague-20261208-villarreal-sabah@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261208T110000Z
+DTEND:20261208T124500Z
+SUMMARY:Villarreal - Sabah
+DESCRIPTION:UEFA Youth League
+LOCATION:Mini Estadi de la Ciudad Deportiva del Villarreal\, Villarreal
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Samoa · RLWC W
+BEGIN:VEVENT
+UID:rlwcw-20261016-australia-samoa-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:SAMOA | RLWC W | J1 | ✈️ | Australia
+DESCRIPTION:Inici: 11:05 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Western Sydney Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261016-australia-samoa@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261016T090500Z
+DTEND:20261016T105000Z
+SUMMARY:Australia - Samoa
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Western Sydney Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261023-samoa-wales-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:SAMOA | RLWC W | J2 | 🏟️ | Wales
+DESCRIPTION:Inici: 08:50 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Western Sydney Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261023-samoa-wales@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261023T065000Z
+DTEND:20261023T083500Z
+SUMMARY:Samoa - Wales
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Western Sydney Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261030-england-samoa-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:SAMOA | RLWC W | J3 | ✈️ | England
+DESCRIPTION:Inici: 07:50 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Wollongong Showground\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261030-england-samoa@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261030T065000Z
+DTEND:20261030T083500Z
+SUMMARY:England - Samoa
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Wollongong Showground\, Wollongong
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261107-new-zealand-samoa-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:SAMOA | RLWC W | J4 | ✈️ | New Zealand
+DESCRIPTION:Inici: 07:55 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Newcastle International Sports Centre\, Newcastle
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261107-new-zealand-samoa@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261107T065500Z
+DTEND:20261107T084000Z
+SUMMARY:New Zealand - Samoa
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Newcastle International Sports Centre\, Newcastle
+END:VEVENT
+END:VCALENDAR

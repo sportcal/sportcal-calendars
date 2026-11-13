@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rajasthan Royals · IPL
+BEGIN:VEVENT
+UID:ipl-20260330-rajasthan-royals-chennai-super-kings-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:RAJASTHAN ROYALS | IPL | 🏟️ | Chennai Super Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Barsapara Cricket 
+ Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260330-rajasthan-royals-chennai-super-kings@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260330T140000Z
+DTEND:20260330T154500Z
+SUMMARY:Rajasthan Royals - Chennai Super Kings
+DESCRIPTION:IPL
+LOCATION:Barsapara Cricket Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260404-gujarat-titans-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:RAJASTHAN ROYALS | IPL | ✈️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Narendra Modi Stad
+ ium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260404-gujarat-titans-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260404T140000Z
+DTEND:20260404T154500Z
+SUMMARY:Gujarat Titans - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Narendra Modi Stadium\, Motera\, Ahmedabad\, Ahmedabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260407-rajasthan-royals-mumbai-indians-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:RAJASTHAN ROYALS | IPL | 🏟️ | Mumbai Indians
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Barsapara Cricket 
+ Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260407-rajasthan-royals-mumbai-indians@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260407T140000Z
+DTEND:20260407T154500Z
+SUMMARY:Rajasthan Royals - Mumbai Indians
+DESCRIPTION:IPL
+LOCATION:Barsapara Cricket Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260410-rajasthan-royals-royal-challengers-bengaluru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:RAJASTHAN ROYALS | IPL | 🏟️ | Royal Challengers Bengaluru
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Barsapara Cricket 
+ Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260410-rajasthan-royals-royal-challengers-bengaluru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260410T140000Z
+DTEND:20260410T154500Z
+SUMMARY:Rajasthan Royals - Royal Challengers Bengaluru
+DESCRIPTION:IPL
+LOCATION:Barsapara Cricket Stadium\, Guwahati\, Guwahati
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260413-sunrisers-hyderabad-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:RAJASTHAN ROYALS | IPL | ✈️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Rajiv Gandhi Inter
+ national Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260413-sunrisers-hyderabad-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260413T140000Z
+DTEND:20260413T154500Z
+SUMMARY:Sunrisers Hyderabad - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Rajiv Gandhi International Stadium\, Uppal\, Hyderabad\, Hyderabad
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260419-kolkata-knight-riders-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:RAJASTHAN ROYALS | IPL | ✈️ | Kolkata Knight Riders
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Eden Gardens\, Kol
+ kata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260419-kolkata-knight-riders-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260419T100000Z
+DTEND:20260419T114500Z
+SUMMARY:Kolkata Knight Riders - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Eden Gardens\, Kolkata\, Kolkata
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260422-lucknow-super-giants-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:RAJASTHAN ROYALS | IPL | ✈️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Bharat Ratna Shri 
+ Atal Bihari Vajpayee Ekana Cricket Stadium\, Lucknow\, Lucknow
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260422-lucknow-super-giants-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260422T140000Z
+DTEND:20260422T154500Z
+SUMMARY:Lucknow Super Giants - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium\, Luc
+ know\, Lucknow
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260425-rajasthan-royals-sunrisers-hyderabad-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:RAJASTHAN ROYALS | IPL | 🏟️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Sawai Mansingh Sta
+ dium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260425-rajasthan-royals-sunrisers-hyderabad@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260425T140000Z
+DTEND:20260425T154500Z
+SUMMARY:Rajasthan Royals - Sunrisers Hyderabad
+DESCRIPTION:IPL
+LOCATION:Sawai Mansingh Stadium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260428-punjab-kings-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:RAJASTHAN ROYALS | IPL | ✈️ | Punjab Kings
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Maharaja Yadavindr
+ a Singh International Cricket Stadium\, New Chandigarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260428-punjab-kings-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260428T140000Z
+DTEND:20260428T154500Z
+SUMMARY:Punjab Kings - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Maharaja Yadavindra Singh International Cricket Stadium\, New Chan
+ digarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260501-rajasthan-royals-delhi-capitals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:RAJASTHAN ROYALS | IPL | 🏟️ | Delhi Capitals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Sawai Mansingh Sta
+ dium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260501-rajasthan-royals-delhi-capitals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260501T140000Z
+DTEND:20260501T154500Z
+SUMMARY:Rajasthan Royals - Delhi Capitals
+DESCRIPTION:IPL
+LOCATION:Sawai Mansingh Stadium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260509-rajasthan-royals-gujarat-titans-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:RAJASTHAN ROYALS | IPL | 🏟️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Sawai Mansingh Sta
+ dium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260509-rajasthan-royals-gujarat-titans@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260509T140000Z
+DTEND:20260509T154500Z
+SUMMARY:Rajasthan Royals - Gujarat Titans
+DESCRIPTION:IPL
+LOCATION:Sawai Mansingh Stadium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260517-delhi-capitals-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:RAJASTHAN ROYALS | IPL | ✈️ | Delhi Capitals
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Arun Jaitley Stadi
+ um\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260517-delhi-capitals-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260517T140000Z
+DTEND:20260517T154500Z
+SUMMARY:Delhi Capitals - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Arun Jaitley Stadium\, Delhi\, Delhi
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260519-rajasthan-royals-lucknow-super-giants-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:RAJASTHAN ROYALS | IPL | 🏟️ | Lucknow Super Giants
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Sawai Mansingh Sta
+ dium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260519-rajasthan-royals-lucknow-super-giants@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260519T140000Z
+DTEND:20260519T154500Z
+SUMMARY:Rajasthan Royals - Lucknow Super Giants
+DESCRIPTION:IPL
+LOCATION:Sawai Mansingh Stadium\, Jaipur\, Jaipur
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260524-mumbai-indians-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:RAJASTHAN ROYALS | IPL | ✈️ | Mumbai Indians
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · IPL\nEstadi: Wankhede Stadium\,
+  Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260524-mumbai-indians-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260524T100000Z
+DTEND:20260524T114500Z
+SUMMARY:Mumbai Indians - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Wankhede Stadium\, Mumbai\, Mumbai
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260527-rajasthan-royals-sunrisers-hyderabad-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:RAJASTHAN ROYALS | IPL | 🏟️ | Sunrisers Hyderabad
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Maharaja Yadavindr
+ a Singh International Cricket Stadium\, New Chandigarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260527-rajasthan-royals-sunrisers-hyderabad@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260527T140000Z
+DTEND:20260527T154500Z
+SUMMARY:Rajasthan Royals - Sunrisers Hyderabad
+DESCRIPTION:IPL
+LOCATION:Maharaja Yadavindra Singh International Cricket Stadium\, New Chan
+ digarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260529-gujarat-titans-rajasthan-royals-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:RAJASTHAN ROYALS | IPL | ✈️ | Gujarat Titans
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · IPL\nEstadi: Maharaja Yadavindr
+ a Singh International Cricket Stadium\, New Chandigarh\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl-20260529-gujarat-titans-rajasthan-royals@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20260529T140000Z
+DTEND:20260529T154500Z
+SUMMARY:Gujarat Titans - Rajasthan Royals
+DESCRIPTION:IPL
+LOCATION:Maharaja Yadavindra Singh International Cricket Stadium\, New Chan
+ digarh\, New Chandigarh
+END:VEVENT
+END:VCALENDAR

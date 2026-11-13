@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sesi Vôlei Bauru · Superliga Feminina
+BEGIN:VEVENT
+UID:superligabrf-20261114-osasco-sao-cristovao-saude-sesi-volei-bauru-dia@s
+ portcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:SESI VÔLEI BAURU | Superliga Feminina | J6 | ✈️ | Osasco São 
+ Cristóvão Saúde 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261114-osasco-sao-cristovao-saude-sesi-volei-bauru@sport
+ cal
+DTSTAMP:20261113T144837Z
+DTSTART:20261114T000000Z
+DTEND:20261114T014500Z
+SUMMARY:Osasco São Cristóvão Saúde - Sesi Vôlei Bauru
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261118-sesi-volei-bauru-sesc-rj-flamengo-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:SESI VÔLEI BAURU | Superliga Feminina | J6 | 🏟️ | Sesc RJ Fla
+ mengo 🇧🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261118-sesi-volei-bauru-sesc-rj-flamengo@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261118T000000Z
+DTEND:20261118T014500Z
+SUMMARY:Sesi Vôlei Bauru - Sesc RJ Flamengo
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261123-gerdau-minas-sesi-volei-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:SESI VÔLEI BAURU | Superliga Feminina | J7 | ✈️ | Gerdau Minas
+  🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261123-gerdau-minas-sesi-volei-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261123T213000Z
+DTEND:20261123T231500Z
+SUMMARY:Gerdau Minas - Sesi Vôlei Bauru
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261204-sesi-volei-bauru-dentil-praia-clube-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:SESI VÔLEI BAURU | Superliga Feminina | J9 | 🏟️ | Dentil Prai
+ a Clube 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261204-sesi-volei-bauru-dentil-praia-clube@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261204T213000Z
+DTEND:20261204T231500Z
+SUMMARY:Sesi Vôlei Bauru - Dentil Praia Clube
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261218-brasilia-volei-sesi-volei-bauru-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:SESI VÔLEI BAURU | Superliga Feminina | J11 | ✈️ | Brasília V
+ ôlei 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261218-brasilia-volei-sesi-volei-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261218T213000Z
+DTEND:20261218T231500Z
+SUMMARY:Brasília Vôlei - Sesi Vôlei Bauru
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261222-abel-moda-volei-brusque-sesi-volei-bauru-dia@spor
+ tcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:SESI VÔLEI BAURU | Superliga Feminina | J11 | ✈️ | ABEL Moda V
+ ôlei Brusque 🇧🇷
+DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Superliga Feminina
+END:VEVENT
+BEGIN:VEVENT
+UID:superligabrf-20261222-abel-moda-volei-brusque-sesi-volei-bauru@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261222T213000Z
+DTEND:20261222T231500Z
+SUMMARY:ABEL Moda Vôlei Brusque - Sesi Vôlei Bauru
+DESCRIPTION:Superliga Feminina
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Australia · RLWC W
+BEGIN:VEVENT
+UID:rlwcw-20261016-australia-samoa-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:AUSTRALIA | RLWC W | J1 | 🏟️ | Samoa
+DESCRIPTION:Inici: 11:05 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Western Sydney Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261016-australia-samoa@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261016T090500Z
+DTEND:20261016T105000Z
+SUMMARY:Australia - Samoa
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Western Sydney Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261024-australia-england-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:AUSTRALIA | RLWC W | J2 | 🏟️ | England
+DESCRIPTION:Inici: 11:05 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Perth Rectangular Stadium\, Perth
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261024-australia-england@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261024T090500Z
+DTEND:20261024T105000Z
+SUMMARY:Australia - England
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Perth Rectangular Stadium\, Perth
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261101-australia-wales-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:AUSTRALIA | RLWC W | J3 | 🏟️ | Wales
+DESCRIPTION:Inici: 05:45 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Western Sydney Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261101-australia-wales@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261101T044500Z
+DTEND:20261101T063000Z
+SUMMARY:Australia - Wales
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Western Sydney Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261108-australia-fiji-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:AUSTRALIA | RLWC W | J4 | 🏟️ | Fiji
+DESCRIPTION:Inici: 07:55 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Sydney Football Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261108-australia-fiji@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261108T065500Z
+DTEND:20261108T084000Z
+SUMMARY:Australia - Fiji
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Sydney Football Stadium\, Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261115-new-zealand-australia-dia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:AUSTRALIA | RLWC W | J5 | ✈️ | New Zealand
+DESCRIPTION:Inici: 06:15 (Europe/Madrid) · Women's Rugby League World Cup\
+ nEstadi: Lang Park\, Brisbane
+END:VEVENT
+BEGIN:VEVENT
+UID:rlwcw-20261115-new-zealand-australia@sportcal
+DTSTAMP:20261113T144837Z
+DTSTART:20261115T051500Z
+DTEND:20261115T070000Z
+SUMMARY:New Zealand - Australia
+DESCRIPTION:Women's Rugby League World Cup
+LOCATION:Lang Park\, Brisbane
+END:VEVENT
+END:VCALENDAR
