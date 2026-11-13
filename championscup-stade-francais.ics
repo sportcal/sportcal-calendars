@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stade Français · Champions Cup
+BEGIN:VEVENT
+UID:championscup-20261211-stade-francais-northampton-saints-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:STADE FRANÇAIS | Champions Cup | J2 | 🏟️ | Northampton Saints
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Stade Jean Bouin\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20261211-stade-francais-northampton-saints@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261211T200000Z
+DTEND:20261211T214500Z
+SUMMARY:Stade Français - Northampton Saints
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Stade Jean Bouin\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-stade-francais-cardiff-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:STADE FRANÇAIS | Champions Cup | J3 | 🏟️ | Cardiff
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Stade Jean Bouin\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-stade-francais-cardiff@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270109T200000Z
+DTEND:20270109T214500Z
+SUMMARY:Stade Français - Cardiff
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Stade Jean Bouin\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270117-bath-stade-francais-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:STADE FRANÇAIS | Champions Cup | J4 | ✈️ | Bath
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Recreation Ground\, Bath\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270117-bath-stade-francais@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270117T173000Z
+DTEND:20270117T191500Z
+SUMMARY:Bath - Stade Français
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Recreation Ground\, Bath\, England
+END:VEVENT
+END:VCALENDAR

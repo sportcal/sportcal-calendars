@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vannes · Challenge Cup
+BEGIN:VEVENT
+UID:challengecup-20261213-vannes-edinburgh-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:VANNES | Challenge Cup | J2 | 🏟️ | Edinburgh
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Stade de la Rabine\, Vannes\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20261213-vannes-edinburgh@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261213T130000Z
+DTEND:20261213T144500Z
+SUMMARY:Vannes - Edinburgh
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Stade de la Rabine\, Vannes\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270110-vannes-black-lion-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:VANNES | Challenge Cup | J3 | 🏟️ | Black Lion
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Stade de la Rabine\, Vannes\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270110-vannes-black-lion@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270110T130000Z
+DTEND:20270110T144500Z
+SUMMARY:Vannes - Black Lion
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Stade de la Rabine\, Vannes\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270116-ospreys-vannes-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:VANNES | Challenge Cup | J4 | ✈️ | Ospreys
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270116-ospreys-vannes@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270116T200000Z
+DTEND:20270116T214500Z
+SUMMARY:Ospreys - Vannes
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+END:VEVENT
+END:VCALENDAR

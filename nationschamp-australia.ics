@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Australia · Nations Champ
+BEGIN:VEVENT
+UID:nationschamp-20261115-scotland-australia-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:AUSTRALIA | Nations Champ | J5 | ✈️ | Scotland
+DESCRIPTION:Inici: 16:10 (Europe/Madrid) · Nations Championship\nEstadi: S
+ cottish Gas Murrayfield\, Edinburgh\, Scotland
+END:VEVENT
+BEGIN:VEVENT
+UID:nationschamp-20261115-scotland-australia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261115T151000Z
+DTEND:20261115T165500Z
+SUMMARY:Scotland - Australia
+DESCRIPTION:Nations Championship
+LOCATION:Scottish Gas Murrayfield\, Edinburgh\, Scotland
+END:VEVENT
+BEGIN:VEVENT
+UID:nationschamp-20261121-wales-australia-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:AUSTRALIA | Nations Champ | J6 | ✈️ | Wales
+DESCRIPTION:Inici: 21:10 (Europe/Madrid) · Nations Championship\nEstadi: P
+ rincipality Stadium\, Cardiff\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:nationschamp-20261121-wales-australia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261121T201000Z
+DTEND:20261121T215500Z
+SUMMARY:Wales - Australia
+DESCRIPTION:Nations Championship
+LOCATION:Principality Stadium\, Cardiff\, Wales
+END:VEVENT
+END:VCALENDAR

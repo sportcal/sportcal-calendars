@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:La Rochelle · Champions Cup
+BEGIN:VEVENT
+UID:championscup-20261212-saracens-la-rochelle-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:LA ROCHELLE | Champions Cup | J2 | ✈️ | Saracens
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: StoneX Stadium\, London\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20261212-saracens-la-rochelle@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261212T173000Z
+DTEND:20261212T191500Z
+SUMMARY:Saracens - La Rochelle
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:StoneX Stadium\, London\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-exeter-chiefs-la-rochelle-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:LA ROCHELLE | Champions Cup | J3 | ✈️ | Exeter Chiefs
+DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Sandy Park\, Exeter\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-exeter-chiefs-la-rochelle@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270109T151500Z
+DTEND:20270109T170000Z
+SUMMARY:Exeter Chiefs - La Rochelle
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Sandy Park\, Exeter\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-la-rochelle-connacht-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:LA ROCHELLE | Champions Cup | J4 | 🏟️ | Connacht
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Stade Marcel-Deflandre\, La Rochelle\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-la-rochelle-connacht@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270116T173000Z
+DTEND:20270116T191500Z
+SUMMARY:La Rochelle - Connacht
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Stade Marcel-Deflandre\, La Rochelle\, France
+END:VEVENT
+END:VCALENDAR

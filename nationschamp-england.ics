@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:England · Nations Champ
+BEGIN:VEVENT
+UID:nationschamp-20261114-england-japan-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:ENGLAND | Nations Champ | J5 | 🏟️ | Japan
+DESCRIPTION:Inici: 17:40 (Europe/Madrid) · Nations Championship\nEstadi: A
+ llianz Stadium\, London\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:nationschamp-20261114-england-japan@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261114T164000Z
+DTEND:20261114T182500Z
+SUMMARY:England - Japan
+DESCRIPTION:Nations Championship
+LOCATION:Allianz Stadium\, London\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:nationschamp-20261121-england-new-zealand-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ENGLAND | Nations Champ | J6 | 🏟️ | New Zealand
+DESCRIPTION:Inici: 15:10 (Europe/Madrid) · Nations Championship\nEstadi: A
+ llianz Stadium\, London\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:nationschamp-20261121-england-new-zealand@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261121T141000Z
+DTEND:20261121T155500Z
+SUMMARY:England - New Zealand
+DESCRIPTION:Nations Championship
+LOCATION:Allianz Stadium\, London\, England
+END:VEVENT
+END:VCALENDAR

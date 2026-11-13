@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ireland · RWC
+BEGIN:VEVENT
+UID:rugbyworldcup-20271004-ireland-portugal-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:IRELAND | RWC | J1 | 🏟️ | Portugal
+DESCRIPTION:Inici: 08:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
+ z Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271004-ireland-portugal@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271004T061500Z
+DTEND:20271004T080000Z
+SUMMARY:Ireland - Portugal
+DESCRIPTION:Rugby World Cup
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271010-ireland-scotland-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:IRELAND | RWC | J2 | 🏟️ | Scotland
+DESCRIPTION:Inici: 11:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Optus 
+ Stadium\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271010-ireland-scotland@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271010T094500Z
+DTEND:20271010T113000Z
+SUMMARY:Ireland - Scotland
+DESCRIPTION:Rugby World Cup
+LOCATION:Optus Stadium\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271017-ireland-uruguay-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:IRELAND | RWC | J3 | 🏟️ | Uruguay
+DESCRIPTION:Inici: 05:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Marvel
+  Stadium\, Melbourne\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271017-ireland-uruguay@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271017T034500Z
+DTEND:20271017T053000Z
+SUMMARY:Ireland - Uruguay
+DESCRIPTION:Rugby World Cup
+LOCATION:Marvel Stadium\, Melbourne\, Australia
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clermont · Champions Cup
+BEGIN:VEVENT
+UID:championscup-20261212-leicester-tigers-clermont-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:CLERMONT | Champions Cup | J2 | ✈️ | Leicester Tigers
+DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Mattioli Woods Welford Road Stadium\, Leicester\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20261212-leicester-tigers-clermont@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261212T151500Z
+DTEND:20261212T170000Z
+SUMMARY:Leicester Tigers - Clermont
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Mattioli Woods Welford Road Stadium\, Leicester\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270110-sale-sharks-clermont-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:CLERMONT | Champions Cup | J3 | ✈️ | Sale Sharks
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: CorpAcq Stadium\, Salford\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270110-sale-sharks-clermont@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270110T173000Z
+DTEND:20270110T191500Z
+SUMMARY:Sale Sharks - Clermont
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:CorpAcq Stadium\, Salford\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-clermont-glasgow-warriors-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:CLERMONT | Champions Cup | J4 | 🏟️ | Glasgow Warriors
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Stade Marcel Michelin\, Clermont-Ferrand\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-clermont-glasgow-warriors@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270116T200000Z
+DTEND:20270116T214500Z
+SUMMARY:Clermont - Glasgow Warriors
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand\, France
+END:VEVENT
+END:VCALENDAR

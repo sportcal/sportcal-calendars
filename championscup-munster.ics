@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Munster · Champions Cup
+BEGIN:VEVENT
+UID:championscup-20261212-bristol-bears-munster-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:MUNSTER | Champions Cup | J2 | ✈️ | Bristol Bears
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Ashton Gate\, Bristol\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20261212-bristol-bears-munster@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261212T200000Z
+DTEND:20261212T214500Z
+SUMMARY:Bristol Bears - Munster
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Ashton Gate\, Bristol\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270110-bordeaux-begles-munster-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:MUNSTER | Champions Cup | J3 | ✈️ | Bordeaux Bègles
+DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Stade Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270110-bordeaux-begles-munster@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270110T151500Z
+DTEND:20270110T170000Z
+SUMMARY:Bordeaux Bègles - Munster
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Stade Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-munster-gloucester-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:MUNSTER | Champions Cup | J4 | 🏟️ | Gloucester
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Thomond Park\, Limerick\, Ireland
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-munster-gloucester@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270116T173000Z
+DTEND:20270116T191500Z
+SUMMARY:Munster - Gloucester
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Thomond Park\, Limerick\, Ireland
+END:VEVENT
+END:VCALENDAR

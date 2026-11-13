@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Saracens · Champions Cup
+BEGIN:VEVENT
+UID:championscup-20261212-saracens-la-rochelle-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:SARACENS | Champions Cup | J2 | 🏟️ | La Rochelle
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: StoneX Stadium\, London\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20261212-saracens-la-rochelle@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261212T173000Z
+DTEND:20261212T191500Z
+SUMMARY:Saracens - La Rochelle
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:StoneX Stadium\, London\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270110-saracens-lions-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:SARACENS | Champions Cup | J3 | 🏟️ | Lions
+DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: StoneX Stadium\, London\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270110-saracens-lions@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270110T151500Z
+DTEND:20270110T170000Z
+SUMMARY:Saracens - Lions
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:StoneX Stadium\, London\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270117-toulouse-saracens-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:SARACENS | Champions Cup | J4 | ✈️ | Toulouse
+DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Stade Ernest-Wallon\, Toulouse\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270117-toulouse-saracens@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270117T151500Z
+DTEND:20270117T170000Z
+SUMMARY:Toulouse - Saracens
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Stade Ernest-Wallon\, Toulouse\, France
+END:VEVENT
+END:VCALENDAR

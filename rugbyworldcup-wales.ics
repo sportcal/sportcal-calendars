@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wales · RWC
+BEGIN:VEVENT
+UID:rugbyworldcup-20271002-wales-zimbabwe-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:WALES | RWC | J1 | 🏟️ | Zimbabwe
+DESCRIPTION:Inici: 04:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Adelai
+ de Oval\, Adelaide\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271002-wales-zimbabwe@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271002T024500Z
+DTEND:20271002T043000Z
+SUMMARY:Wales - Zimbabwe
+DESCRIPTION:Rugby World Cup
+LOCATION:Adelaide Oval\, Adelaide\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271008-wales-tonga-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:WALES | RWC | J2 | 🏟️ | Tonga
+DESCRIPTION:Inici: 09:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Marvel
+  Stadium\, Melbourne\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271008-wales-tonga@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271008T071500Z
+DTEND:20271008T090000Z
+SUMMARY:Wales - Tonga
+DESCRIPTION:Rugby World Cup
+LOCATION:Marvel Stadium\, Melbourne\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271016-england-wales-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:WALES | RWC | J3 | ✈️ | England
+DESCRIPTION:Inici: 10:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Accor 
+ Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271016-england-wales@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271016T084500Z
+DTEND:20271016T103000Z
+SUMMARY:England - Wales
+DESCRIPTION:Rugby World Cup
+LOCATION:Accor Stadium\, Sydney\, Australia
+END:VEVENT
+END:VCALENDAR

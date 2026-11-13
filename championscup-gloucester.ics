@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gloucester · Champions Cup
+BEGIN:VEVENT
+UID:championscup-20261213-racing-92-gloucester-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:GLOUCESTER | Champions Cup | J2 | ✈️ | Racing 92
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Paris La Defense Arena\, Nanterre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20261213-racing-92-gloucester@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261213T173000Z
+DTEND:20261213T191500Z
+SUMMARY:Racing 92 - Gloucester
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Paris La Defense Arena\, Nanterre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-gloucester-stormers-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:GLOUCESTER | Champions Cup | J3 | 🏟️ | Stormers
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Kingsholm\, Gloucester\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-gloucester-stormers@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270109T130000Z
+DTEND:20270109T144500Z
+SUMMARY:Gloucester - Stormers
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Kingsholm\, Gloucester\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-munster-gloucester-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:GLOUCESTER | Champions Cup | J4 | ✈️ | Munster
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Thomond Park\, Limerick\, Ireland
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-munster-gloucester@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270116T173000Z
+DTEND:20270116T191500Z
+SUMMARY:Munster - Gloucester
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Thomond Park\, Limerick\, Ireland
+END:VEVENT
+END:VCALENDAR

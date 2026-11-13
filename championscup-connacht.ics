@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Connacht · Champions Cup
+BEGIN:VEVENT
+UID:championscup-20261213-exeter-chiefs-connacht-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:CONNACHT | Champions Cup | J2 | ✈️ | Exeter Chiefs
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Sandy Park\, Exeter\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20261213-exeter-chiefs-connacht@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261213T130000Z
+DTEND:20261213T144500Z
+SUMMARY:Exeter Chiefs - Connacht
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Sandy Park\, Exeter\, England
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-connacht-toulouse-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:CONNACHT | Champions Cup | J3 | 🏟️ | Toulouse
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Dexcom Stadium\, Galway\, Ireland
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-connacht-toulouse@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270109T200000Z
+DTEND:20270109T214500Z
+SUMMARY:Connacht - Toulouse
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Dexcom Stadium\, Galway\, Ireland
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-la-rochelle-connacht-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:CONNACHT | Champions Cup | J4 | ✈️ | La Rochelle
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Stade Marcel-Deflandre\, La Rochelle\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270116-la-rochelle-connacht@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270116T173000Z
+DTEND:20270116T191500Z
+SUMMARY:La Rochelle - Connacht
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Stade Marcel-Deflandre\, La Rochelle\, France
+END:VEVENT
+END:VCALENDAR

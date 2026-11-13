@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Romania · RWC
+BEGIN:VEVENT
+UID:rugbyworldcup-20271003-georgia-romania-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:ROMANIA | RWC | J1 | ✈️ | Georgia
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Queens
+ land Country Bank Stadium\, Townsville\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271003-georgia-romania@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271003T101500Z
+DTEND:20271003T120000Z
+SUMMARY:Georgia - Romania
+DESCRIPTION:Rugby World Cup
+LOCATION:Queensland Country Bank Stadium\, Townsville\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271011-italy-romania-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:ROMANIA | RWC | J2 | ✈️ | Italy
+DESCRIPTION:Inici: 10:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
+ z Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271011-italy-romania@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271011T084500Z
+DTEND:20271011T103000Z
+SUMMARY:Italy - Romania
+DESCRIPTION:Rugby World Cup
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271017-south-africa-romania-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:ROMANIA | RWC | J3 | ✈️ | South Africa
+DESCRIPTION:Inici: 13:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Optus 
+ Stadium\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271017-south-africa-romania@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271017T111500Z
+DTEND:20271017T130000Z
+SUMMARY:South Africa - Romania
+DESCRIPTION:Rugby World Cup
+LOCATION:Optus Stadium\, Perth\, Australia
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Zealand · RWC
+BEGIN:VEVENT
+UID:rugbyworldcup-20271002-new-zealand-chile-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:NEW ZEALAND | RWC | J1 | 🏟️ | Chile
+DESCRIPTION:Inici: 07:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Optus 
+ Stadium\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271002-new-zealand-chile@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271002T051500Z
+DTEND:20271002T070000Z
+SUMMARY:New Zealand - Chile
+DESCRIPTION:Rugby World Cup
+LOCATION:Optus Stadium\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271009-new-zealand-australia-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:NEW ZEALAND | RWC | J2 | 🏟️ | Australia
+DESCRIPTION:Inici: 08:10 (Europe/Madrid) · Rugby World Cup\nEstadi: Accor 
+ Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271009-new-zealand-australia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271009T061000Z
+DTEND:20271009T075500Z
+SUMMARY:New Zealand - Australia
+DESCRIPTION:Rugby World Cup
+LOCATION:Accor Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271015-new-zealand-hong-kong-china-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:NEW ZEALAND | RWC | J3 | 🏟️ | Hong Kong China
+DESCRIPTION:Inici: 08:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Marvel
+  Stadium\, Melbourne\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271015-new-zealand-hong-kong-china@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271015T061500Z
+DTEND:20271015T080000Z
+SUMMARY:New Zealand - Hong Kong China
+DESCRIPTION:Rugby World Cup
+LOCATION:Marvel Stadium\, Melbourne\, Australia
+END:VEVENT
+END:VCALENDAR

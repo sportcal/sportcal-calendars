@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portugal · RWC
+BEGIN:VEVENT
+UID:rugbyworldcup-20271004-ireland-portugal-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:PORTUGAL | RWC | J1 | ✈️ | Ireland
+DESCRIPTION:Inici: 08:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
+ z Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271004-ireland-portugal@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271004T061500Z
+DTEND:20271004T080000Z
+SUMMARY:Ireland - Portugal
+DESCRIPTION:Rugby World Cup
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271011-uruguay-portugal-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:PORTUGAL | RWC | J2 | ✈️ | Uruguay
+DESCRIPTION:Inici: 08:15 (Europe/Madrid) · Rugby World Cup\nEstadi: McDona
+ ld Jones Stadium\, Newcastle\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271011-uruguay-portugal@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271011T061500Z
+DTEND:20271011T080000Z
+SUMMARY:Uruguay - Portugal
+DESCRIPTION:Rugby World Cup
+LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271017-scotland-portugal-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:PORTUGAL | RWC | J3 | ✈️ | Scotland
+DESCRIPTION:Inici: 08:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Suncor
+ p Stadium\, Brisbane\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271017-scotland-portugal@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271017T061500Z
+DTEND:20271017T080000Z
+SUMMARY:Scotland - Portugal
+DESCRIPTION:Rugby World Cup
+LOCATION:Suncorp Stadium\, Brisbane\, Australia
+END:VEVENT
+END:VCALENDAR

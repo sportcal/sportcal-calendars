@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blues · Super Rugby
+BEGIN:VEVENT
+UID:superrugby-20270213-blues-hurricanes-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:BLUES | Super Rugby | J1 | 🏟️ | Hurricanes
+DESCRIPTION:Inici: 07:05 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Ed
+ en Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270213-blues-hurricanes@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270213T060500Z
+DTEND:20270213T075000Z
+SUMMARY:Blues - Hurricanes
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Eden Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270220-highlanders-blues-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:BLUES | Super Rugby | J2 | ✈️ | Highlanders
+DESCRIPTION:Inici: 07:05 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Fo
+ rsyth Barr Stadium\, Dunedin\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270220-highlanders-blues@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270220T060500Z
+DTEND:20270220T075000Z
+SUMMARY:Highlanders - Blues
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Forsyth Barr Stadium\, Dunedin\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270228-blues-crusaders-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:BLUES | Super Rugby | J3 | 🏟️ | Crusaders
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Ed
+ en Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270228-blues-crusaders@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270228T030000Z
+DTEND:20270228T044500Z
+SUMMARY:Blues - Crusaders
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Eden Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270306-blues-queensland-reds-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:BLUES | Super Rugby | J4 | 🏟️ | Queensland Reds
+DESCRIPTION:Inici: 04:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Ed
+ en Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270306-blues-queensland-reds@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270306T033500Z
+DTEND:20270306T052000Z
+SUMMARY:Blues - Queensland Reds
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Eden Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270313-chiefs-blues-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:BLUES | Super Rugby | J5 | ✈️ | Chiefs
+DESCRIPTION:Inici: 07:05 (Europe/Madrid) · Super Rugby Pacific\nEstadi: FM
+ G Stadium Waikato\, Hamilton\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270313-chiefs-blues@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270313T060500Z
+DTEND:20270313T075000Z
+SUMMARY:Chiefs - Blues
+DESCRIPTION:Super Rugby Pacific
+LOCATION:FMG Stadium Waikato\, Hamilton\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270320-fijian-drua-blues-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:BLUES | Super Rugby | J6 | ✈️ | Fijian Drua
+DESCRIPTION:Inici: 04:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Ch
+ urchill Park\, Lautoka\, Fiji
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270320-fijian-drua-blues@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270320T033500Z
+DTEND:20270320T052000Z
+SUMMARY:Fijian Drua - Blues
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Churchill Park\, Lautoka\, Fiji
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270326-crusaders-blues-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:BLUES | Super Rugby | J7 | ✈️ | Crusaders
+DESCRIPTION:Inici: 07:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: On
+ e NZ Stadium\, Christchurch\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270326-crusaders-blues@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270326T063500Z
+DTEND:20270326T082000Z
+SUMMARY:Crusaders - Blues
+DESCRIPTION:Super Rugby Pacific
+LOCATION:One NZ Stadium\, Christchurch\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270403-blues-new-south-wales-waratahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:BLUES | Super Rugby | J8 | 🏟️ | New South Wales Waratahs
+DESCRIPTION:Inici: 08:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: On
+ e NZ Stadium\, Christchurch\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270403-blues-new-south-wales-waratahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270403T063500Z
+DTEND:20270403T082000Z
+SUMMARY:Blues - New South Wales Waratahs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:One NZ Stadium\, Christchurch\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270409-blues-chiefs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:BLUES | Super Rugby | J9 | 🏟️ | Chiefs
+DESCRIPTION:Inici: 09:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Ed
+ en Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270409-blues-chiefs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270409T073500Z
+DTEND:20270409T092000Z
+SUMMARY:Blues - Chiefs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Eden Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270424-queensland-reds-blues-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:BLUES | Super Rugby | J10 | ✈️ | Queensland Reds
+DESCRIPTION:Inici: 11:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Su
+ ncorp Stadium\, Brisbane\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270424-queensland-reds-blues@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270424T093500Z
+DTEND:20270424T112000Z
+SUMMARY:Queensland Reds - Blues
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Suncorp Stadium\, Brisbane\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270501-blues-brumbies-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:BLUES | Super Rugby | J11 | 🏟️ | Brumbies
+DESCRIPTION:Inici: 09:05 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Ed
+ en Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270501-blues-brumbies@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270501T070500Z
+DTEND:20270501T085000Z
+SUMMARY:Blues - Brumbies
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Eden Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270507-blues-fijian-drua-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:BLUES | Super Rugby | J12 | 🏟️ | Fijian Drua
+DESCRIPTION:Inici: 09:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Ed
+ en Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270507-blues-fijian-drua@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270507T073500Z
+DTEND:20270507T092000Z
+SUMMARY:Blues - Fijian Drua
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Eden Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270515-western-force-blues-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:BLUES | Super Rugby | J13 | ✈️ | Western Force
+DESCRIPTION:Inici: 11:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: HB
+ F Park\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270515-western-force-blues@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270515T093500Z
+DTEND:20270515T112000Z
+SUMMARY:Western Force - Blues
+DESCRIPTION:Super Rugby Pacific
+LOCATION:HBF Park\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270522-new-south-wales-waratahs-blues-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:BLUES | Super Rugby | J14 | ✈️ | New South Wales Waratahs
+DESCRIPTION:Inici: 11:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Al
+ lianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270522-new-south-wales-waratahs-blues@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270522T093500Z
+DTEND:20270522T112000Z
+SUMMARY:New South Wales Waratahs - Blues
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270529-blues-highlanders-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:BLUES | Super Rugby | J15 | 🏟️ | Highlanders
+DESCRIPTION:Inici: 09:05 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Ed
+ en Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270529-blues-highlanders@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270529T070500Z
+DTEND:20270529T085000Z
+SUMMARY:Blues - Highlanders
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Eden Park\, Auckland\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270604-hurricanes-blues-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:BLUES | Super Rugby | J16 | ✈️ | Hurricanes
+DESCRIPTION:Inici: 09:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Hn
+ ry Stadium\, Wellington\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270604-hurricanes-blues@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270604T073500Z
+DTEND:20270604T092000Z
+SUMMARY:Hurricanes - Blues
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Hnry Stadium\, Wellington\, New Zealand
+END:VEVENT
+END:VCALENDAR

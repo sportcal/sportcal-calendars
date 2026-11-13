@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cardiff · Champions Cup
+BEGIN:VEVENT
+UID:championscup-20261212-cardiff-bath-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:CARDIFF | Champions Cup | J2 | 🏟️ | Bath
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Cardiff Arms Park\, Cardiff\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20261212-cardiff-bath@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261212T200000Z
+DTEND:20261212T214500Z
+SUMMARY:Cardiff - Bath
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Cardiff Arms Park\, Cardiff\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-stade-francais-cardiff-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:CARDIFF | Champions Cup | J3 | ✈️ | Stade Français
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Stade Jean Bouin\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270109-stade-francais-cardiff@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270109T200000Z
+DTEND:20270109T214500Z
+SUMMARY:Stade Français - Cardiff
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Stade Jean Bouin\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270115-cardiff-montpellier-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:CARDIFF | Champions Cup | J4 | 🏟️ | Montpellier
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Cardiff Arms Park\, Cardiff\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:championscup-20270115-cardiff-montpellier@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270115T200000Z
+DTEND:20270115T214500Z
+SUMMARY:Cardiff - Montpellier
+DESCRIPTION:European Rugby Champions Cup
+LOCATION:Cardiff Arms Park\, Cardiff\, Wales
+END:VEVENT
+END:VCALENDAR

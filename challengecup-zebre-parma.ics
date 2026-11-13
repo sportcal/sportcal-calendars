@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zebre Parma · Challenge Cup
+BEGIN:VEVENT
+UID:challengecup-20261213-perpignan-zebre-parma-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:ZEBRE PARMA | Challenge Cup | J2 | ✈️ | Perpignan
+DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Stade Aime Giral\, Perpignan\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20261213-perpignan-zebre-parma@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261213T151500Z
+DTEND:20261213T170000Z
+SUMMARY:Perpignan - Zebre Parma
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Stade Aime Giral\, Perpignan\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270110-zebre-parma-cheetahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:ZEBRE PARMA | Challenge Cup | J3 | 🏟️ | Cheetahs
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Stadio Sergio Lanfranchi\, Parma\, Italy
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270110-zebre-parma-cheetahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270110T173000Z
+DTEND:20270110T191500Z
+SUMMARY:Zebre Parma - Cheetahs
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Stadio Sergio Lanfranchi\, Parma\, Italy
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270116-bayonne-zebre-parma-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:ZEBRE PARMA | Challenge Cup | J4 | ✈️ | Bayonne
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Stade Jean Dauger\, Bayonne\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270116-bayonne-zebre-parma@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270116T130000Z
+DTEND:20270116T144500Z
+SUMMARY:Bayonne - Zebre Parma
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Stade Jean Dauger\, Bayonne\, France
+END:VEVENT
+END:VCALENDAR

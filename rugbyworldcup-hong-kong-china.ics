@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hong Kong China · RWC
+BEGIN:VEVENT
+UID:rugbyworldcup-20271001-australia-hong-kong-china-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:HONG KONG CHINA | RWC | J1 | ✈️ | Australia
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Optus 
+ Stadium\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271001-australia-hong-kong-china@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271001T104500Z
+DTEND:20271001T123000Z
+SUMMARY:Australia - Hong Kong China
+DESCRIPTION:Rugby World Cup
+LOCATION:Optus Stadium\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271009-chile-hong-kong-china-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:HONG KONG CHINA | RWC | J2 | ✈️ | Chile
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Queens
+ land Country Bank Stadium\, Townsville\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271009-chile-hong-kong-china@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271009T101500Z
+DTEND:20271009T120000Z
+SUMMARY:Chile - Hong Kong China
+DESCRIPTION:Rugby World Cup
+LOCATION:Queensland Country Bank Stadium\, Townsville\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271015-new-zealand-hong-kong-china-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:HONG KONG CHINA | RWC | J3 | ✈️ | New Zealand
+DESCRIPTION:Inici: 08:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Marvel
+  Stadium\, Melbourne\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271015-new-zealand-hong-kong-china@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271015T061500Z
+DTEND:20271015T080000Z
+SUMMARY:New Zealand - Hong Kong China
+DESCRIPTION:Rugby World Cup
+LOCATION:Marvel Stadium\, Melbourne\, Australia
+END:VEVENT
+END:VCALENDAR

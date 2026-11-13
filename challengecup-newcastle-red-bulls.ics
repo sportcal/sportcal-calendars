@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newcastle Red Bulls · Challenge Cup
+BEGIN:VEVENT
+UID:challengecup-20261212-newcastle-red-bulls-castres-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:NEWCASTLE RED BULLS | Challenge Cup | J2 | 🏟️ | Castres
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Kingston Park\, Newcastle\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20261212-newcastle-red-bulls-castres@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261212T200000Z
+DTEND:20261212T214500Z
+SUMMARY:Newcastle Red Bulls - Castres
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Kingston Park\, Newcastle\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270108-newcastle-red-bulls-benetton-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:NEWCASTLE RED BULLS | Challenge Cup | J3 | 🏟️ | Benetton
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Kingston Park\, Newcastle\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270108-newcastle-red-bulls-benetton@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270108T200000Z
+DTEND:20270108T214500Z
+SUMMARY:Newcastle Red Bulls - Benetton
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Kingston Park\, Newcastle\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270117-lyon-newcastle-red-bulls-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:NEWCASTLE RED BULLS | Challenge Cup | J4 | ✈️ | Lyon
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Matmut Stadium de Gerland\, Lyon\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270117-lyon-newcastle-red-bulls@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270117T130000Z
+DTEND:20270117T144500Z
+SUMMARY:Lyon - Newcastle Red Bulls
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Matmut Stadium de Gerland\, Lyon\, France
+END:VEVENT
+END:VCALENDAR

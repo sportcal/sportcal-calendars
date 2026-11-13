@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dragons · Challenge Cup
+BEGIN:VEVENT
+UID:challengecup-20261213-cheetahs-dragons-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:DRAGONS | Challenge Cup | J2 | ✈️ | Cheetahs
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20261213-cheetahs-dragons@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261213T130000Z
+DTEND:20261213T144500Z
+SUMMARY:Cheetahs - Dragons
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270108-dragons-bayonne-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:DRAGONS | Challenge Cup | J3 | 🏟️ | Bayonne
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Rodney Parade\, Newport\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270108-dragons-bayonne@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270108T200000Z
+DTEND:20270108T214500Z
+SUMMARY:Dragons - Bayonne
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Rodney Parade\, Newport\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270116-ulster-dragons-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:DRAGONS | Challenge Cup | J4 | ✈️ | Ulster
+DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Affidea Stadium\, Belfast\, Ireland
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270116-ulster-dragons@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270116T151500Z
+DTEND:20270116T170000Z
+SUMMARY:Ulster - Dragons
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Affidea Stadium\, Belfast\, Ireland
+END:VEVENT
+END:VCALENDAR

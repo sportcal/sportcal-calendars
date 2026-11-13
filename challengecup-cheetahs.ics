@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cheetahs · Challenge Cup
+BEGIN:VEVENT
+UID:challengecup-20261213-cheetahs-dragons-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:CHEETAHS | Challenge Cup | J2 | 🏟️ | Dragons
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20261213-cheetahs-dragons@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261213T130000Z
+DTEND:20261213T144500Z
+SUMMARY:Cheetahs - Dragons
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270110-zebre-parma-cheetahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:CHEETAHS | Challenge Cup | J3 | ✈️ | Zebre Parma
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Stadio Sergio Lanfranchi\, Parma\, Italy
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270110-zebre-parma-cheetahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270110T173000Z
+DTEND:20270110T191500Z
+SUMMARY:Zebre Parma - Cheetahs
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Stadio Sergio Lanfranchi\, Parma\, Italy
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270117-cheetahs-perpignan-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:CHEETAHS | Challenge Cup | J4 | 🏟️ | Perpignan
+DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+END:VEVENT
+BEGIN:VEVENT
+UID:challengecup-20270117-cheetahs-perpignan@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270117T151500Z
+DTEND:20270117T170000Z
+SUMMARY:Cheetahs - Perpignan
+DESCRIPTION:European Rugby Challenge Cup
+LOCATION:St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+END:VEVENT
+END:VCALENDAR

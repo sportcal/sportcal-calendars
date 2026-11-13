@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New South Wales Waratahs · Super Rugby
+BEGIN:VEVENT
+UID:superrugby-20270212-brumbies-new-south-wales-waratahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J1 | ✈️ | Brumbies
+DESCRIPTION:Inici: 09:45 (Europe/Madrid) · Super Rugby Pacific\nEstadi: GI
+ O Stadium\, Canberra\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270212-brumbies-new-south-wales-waratahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270212T084500Z
+DTEND:20270212T103000Z
+SUMMARY:Brumbies - New South Wales Waratahs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:GIO Stadium\, Canberra\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270220-new-south-wales-waratahs-fijian-drua-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J2 | 🏟️ | Fijian Drua
+DESCRIPTION:Inici: 09:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Al
+ lianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270220-new-south-wales-waratahs-fijian-drua@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270220T083500Z
+DTEND:20270220T102000Z
+SUMMARY:New South Wales Waratahs - Fijian Drua
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270227-chiefs-new-south-wales-waratahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J3 | ✈️ | Chiefs
+DESCRIPTION:Inici: 07:05 (Europe/Madrid) · Super Rugby Pacific\nEstadi: FM
+ G Stadium Waikato\, Hamilton\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270227-chiefs-new-south-wales-waratahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270227T060500Z
+DTEND:20270227T075000Z
+SUMMARY:Chiefs - New South Wales Waratahs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:FMG Stadium Waikato\, Hamilton\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270305-new-south-wales-waratahs-hurricanes-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J4 | 🏟️ | Hurricanes
+DESCRIPTION:Inici: 09:45 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Al
+ lianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270305-new-south-wales-waratahs-hurricanes@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270305T084500Z
+DTEND:20270305T103000Z
+SUMMARY:New South Wales Waratahs - Hurricanes
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270313-new-south-wales-waratahs-brumbies-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J5 | 🏟️ | Brumbies
+DESCRIPTION:Inici: 09:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Al
+ lianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270313-new-south-wales-waratahs-brumbies@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270313T083500Z
+DTEND:20270313T102000Z
+SUMMARY:New South Wales Waratahs - Brumbies
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270320-queensland-reds-new-south-wales-waratahs-dia@sportc
+ al
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J6 | ✈️ | Queensland R
+ eds
+DESCRIPTION:Inici: 09:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Su
+ ncorp Stadium\, Brisbane\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270320-queensland-reds-new-south-wales-waratahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270320T083500Z
+DTEND:20270320T102000Z
+SUMMARY:Queensland Reds - New South Wales Waratahs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Suncorp Stadium\, Brisbane\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270327-western-force-new-south-wales-waratahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J7 | ✈️ | Western Forc
+ e
+DESCRIPTION:Inici: 09:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: HB
+ F Park\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270327-western-force-new-south-wales-waratahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270327T083500Z
+DTEND:20270327T102000Z
+SUMMARY:Western Force - New South Wales Waratahs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:HBF Park\, Perth\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270403-blues-new-south-wales-waratahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J8 | ✈️ | Blues
+DESCRIPTION:Inici: 08:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: On
+ e NZ Stadium\, Christchurch\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270403-blues-new-south-wales-waratahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270403T063500Z
+DTEND:20270403T082000Z
+SUMMARY:Blues - New South Wales Waratahs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:One NZ Stadium\, Christchurch\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270411-new-south-wales-waratahs-crusaders-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J9 | 🏟️ | Crusaders
+DESCRIPTION:Inici: 06:00 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Al
+ lianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270411-new-south-wales-waratahs-crusaders@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270411T040000Z
+DTEND:20270411T054500Z
+SUMMARY:New South Wales Waratahs - Crusaders
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270417-highlanders-new-south-wales-waratahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J10 | ✈️ | Highlanders
+DESCRIPTION:Inici: 09:05 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Fo
+ rsyth Barr Stadium\, Dunedin\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270417-highlanders-new-south-wales-waratahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270417T070500Z
+DTEND:20270417T085000Z
+SUMMARY:Highlanders - New South Wales Waratahs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Forsyth Barr Stadium\, Dunedin\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270502-new-south-wales-waratahs-western-force-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J11 | 🏟️ | Western Fo
+ rce
+DESCRIPTION:Inici: 08:00 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Al
+ lianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270502-new-south-wales-waratahs-western-force@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270502T060000Z
+DTEND:20270502T074500Z
+SUMMARY:New South Wales Waratahs - Western Force
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270508-new-south-wales-waratahs-queensland-reds-dia@sportc
+ al
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J12 | 🏟️ | Queensland
+  Reds
+DESCRIPTION:Inici: 11:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Al
+ lianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270508-new-south-wales-waratahs-queensland-reds@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270508T093500Z
+DTEND:20270508T112000Z
+SUMMARY:New South Wales Waratahs - Queensland Reds
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270515-crusaders-new-south-wales-waratahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J13 | ✈️ | Crusaders
+DESCRIPTION:Inici: 09:05 (Europe/Madrid) · Super Rugby Pacific\nEstadi: On
+ e NZ Stadium\, Christchurch\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270515-crusaders-new-south-wales-waratahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270515T070500Z
+DTEND:20270515T085000Z
+SUMMARY:Crusaders - New South Wales Waratahs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:One NZ Stadium\, Christchurch\, New Zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270522-new-south-wales-waratahs-blues-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J14 | 🏟️ | Blues
+DESCRIPTION:Inici: 11:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Al
+ lianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270522-new-south-wales-waratahs-blues@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270522T093500Z
+DTEND:20270522T112000Z
+SUMMARY:New South Wales Waratahs - Blues
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270529-fijian-drua-new-south-wales-waratahs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J15 | ✈️ | Fijian Drua
+DESCRIPTION:Inici: 06:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Fo
+ ur R Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270529-fijian-drua-new-south-wales-waratahs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270529T043500Z
+DTEND:20270529T062000Z
+SUMMARY:Fijian Drua - New South Wales Waratahs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Four R Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270605-new-south-wales-waratahs-chiefs-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:NEW SOUTH WALES WARATAHS | Super Rugby | J16 | 🏟️ | Chiefs
+DESCRIPTION:Inici: 11:35 (Europe/Madrid) · Super Rugby Pacific\nEstadi: Al
+ lianz Stadium\, Sydney\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:superrugby-20270605-new-south-wales-waratahs-chiefs@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20270605T093500Z
+DTEND:20270605T112000Z
+SUMMARY:New South Wales Waratahs - Chiefs
+DESCRIPTION:Super Rugby Pacific
+LOCATION:Allianz Stadium\, Sydney\, Australia
+END:VEVENT
+END:VCALENDAR

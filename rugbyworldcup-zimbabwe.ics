@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zimbabwe · RWC
+BEGIN:VEVENT
+UID:rugbyworldcup-20271002-wales-zimbabwe-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:ZIMBABWE | RWC | J1 | ✈️ | Wales
+DESCRIPTION:Inici: 04:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Adelai
+ de Oval\, Adelaide\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271002-wales-zimbabwe@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271002T024500Z
+DTEND:20271002T043000Z
+SUMMARY:Wales - Zimbabwe
+DESCRIPTION:Rugby World Cup
+LOCATION:Adelaide Oval\, Adelaide\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271008-england-zimbabwe-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:ZIMBABWE | RWC | J2 | ✈️ | England
+DESCRIPTION:Inici: 11:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Adelai
+ de Oval\, Adelaide\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271008-england-zimbabwe@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271008T094500Z
+DTEND:20271008T113000Z
+SUMMARY:England - Zimbabwe
+DESCRIPTION:Rugby World Cup
+LOCATION:Adelaide Oval\, Adelaide\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271015-tonga-zimbabwe-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:ZIMBABWE | RWC | J3 | ✈️ | Tonga
+DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Queens
+ land Country Bank Stadium\, Townsville\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271015-tonga-zimbabwe@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271015T101500Z
+DTEND:20271015T120000Z
+SUMMARY:Tonga - Zimbabwe
+DESCRIPTION:Rugby World Cup
+LOCATION:Queensland Country Bank Stadium\, Townsville\, Australia
+END:VEVENT
+END:VCALENDAR

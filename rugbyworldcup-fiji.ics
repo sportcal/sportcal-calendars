@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fiji · RWC
+BEGIN:VEVENT
+UID:rugbyworldcup-20271004-fiji-spain-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:FIJI | RWC | J1 | 🏟️ | Spain
+DESCRIPTION:Inici: 05:15 (Europe/Madrid) · Rugby World Cup\nEstadi: McDona
+ ld Jones Stadium\, Newcastle\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271004-fiji-spain@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271004T031500Z
+DTEND:20271004T050000Z
+SUMMARY:Fiji - Spain
+DESCRIPTION:Rugby World Cup
+LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271010-fiji-canada-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:FIJI | RWC | J2 | 🏟️ | Canada
+DESCRIPTION:Inici: 03:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Adelai
+ de Oval\, Adelaide\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271010-fiji-canada@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271010T014500Z
+DTEND:20271010T033000Z
+SUMMARY:Fiji - Canada
+DESCRIPTION:Rugby World Cup
+LOCATION:Adelaide Oval\, Adelaide\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271016-argentina-fiji-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:FIJI | RWC | J3 | ✈️ | Argentina
+DESCRIPTION:Inici: 04:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Adelai
+ de Oval\, Adelaide\, Australia
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20271016-argentina-fiji@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20271016T024500Z
+DTEND:20271016T043000Z
+SUMMARY:Argentina - Fiji
+DESCRIPTION:Rugby World Cup
+LOCATION:Adelaide Oval\, Adelaide\, Australia
+END:VEVENT
+END:VCALENDAR

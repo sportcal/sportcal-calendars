@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Argentina · Nations Champ
+BEGIN:VEVENT
+UID:nationschamp-20261114-italy-argentina-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:ARGENTINA | Nations Champ | J5 | ✈️ | Italy
+DESCRIPTION:Inici: 12:40 (Europe/Madrid) · Nations Championship\nEstadi: S
+ tadio Luigi Ferraris\, Genova\, Italy
+END:VEVENT
+BEGIN:VEVENT
+UID:nationschamp-20261114-italy-argentina@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261114T114000Z
+DTEND:20261114T132500Z
+SUMMARY:Italy - Argentina
+DESCRIPTION:Nations Championship
+LOCATION:Stadio Luigi Ferraris\, Genova\, Italy
+END:VEVENT
+BEGIN:VEVENT
+UID:nationschamp-20261121-france-argentina-dia@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ARGENTINA | Nations Champ | J6 | ✈️ | France
+DESCRIPTION:Inici: 21:10 (Europe/Madrid) · Nations Championship\nEstadi: S
+ tade de France\, Saint-Denis\, Reunion
+END:VEVENT
+BEGIN:VEVENT
+UID:nationschamp-20261121-france-argentina@sportcal
+DTSTAMP:20261113T125916Z
+DTSTART:20261121T201000Z
+DTEND:20261121T215500Z
+SUMMARY:France - Argentina
+DESCRIPTION:Nations Championship
+LOCATION:Stade de France\, Saint-Denis\, Reunion
+END:VEVENT
+END:VCALENDAR
