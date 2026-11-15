@@ -6,19 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:Osmanlispor FK [TC] · Turkish Cup
 BEGIN:VEVENT
 UID:turkishcup-20261201-band-rmaspor-osmanlispor-fk-tc-dia@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:OSMANLISPOR FK [TC] | Turkish Cup | ✈️ | Bandırmaspor 🇹🇷
-DESCRIPTION:Hora pendent de confirmació · Turkish Cup
+DESCRIPTION:Inici: 11:30 (Europe/Madrid) · Turkish Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:turkishcup-20261201-band-rmaspor-osmanlispor-fk-tc@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Bandırmaspor - Osmanlispor FK [TC] · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Turkish Cup
+DTSTAMP:20261115T095717Z
+DTSTART:20261201T103000Z
+DTEND:20261201T121500Z
+SUMMARY:Bandırmaspor - Osmanlispor FK [TC]
+DESCRIPTION:Turkish Cup
 END:VEVENT
 END:VCALENDAR

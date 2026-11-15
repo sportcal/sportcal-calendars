@@ -5,19 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Plymouth Argyle [FA] · FA Cup
 BEGIN:VEVENT
-UID:facup-20261205-crewe-alexandra-fc-plymouth-argyle-fa-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
+UID:facup-20261206-crewe-alexandra-fc-plymouth-argyle-fa-dia@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
 SUMMARY:PLYMOUTH ARGYLE [FA] | FA Cup | ✈️ | Crewe Alexandra FC 🇬
  🇧
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · FA Cup\nEstadi: Mornflake
+DESCRIPTION:Inici: 16:15 (Europe/Madrid) · FA Cup\nEstadi: Mornflake
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-crewe-alexandra-fc-plymouth-argyle-fa@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261205T150000Z
-DTEND:20261205T164500Z
+UID:facup-20261206-crewe-alexandra-fc-plymouth-argyle-fa@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261206T151500Z
+DTEND:20261206T170000Z
 SUMMARY:Crewe Alexandra FC - Plymouth Argyle [FA]
 DESCRIPTION:FA Cup
 LOCATION:Mornflake

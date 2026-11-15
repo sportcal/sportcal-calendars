@@ -5,27 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Deportivo Armenio · Primera B
 BEGIN:VEVENT
-UID:primerab-20261114-deportivo-armenio-sportivo-italiano-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:DEPORTIVO ARMENIO | Primera B | J43 | 🏟️ | Sportivo Italiano 
- 🇦🇷
-DESCRIPTION:Inici: 19:30 (Europe/Madrid) · Primera B\nEstadi: Estadio Arme
- nia
-END:VEVENT
-BEGIN:VEVENT
-UID:primerab-20261114-deportivo-armenio-sportivo-italiano@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T183000Z
-DTEND:20261114T201500Z
-SUMMARY:Deportivo Armenio - Sportivo Italiano
-DESCRIPTION:Primera B
-LOCATION:Estadio Armenia
-END:VEVENT
-BEGIN:VEVENT
 UID:primerab-20261121-sportivo-italiano-deportivo-armenio-dia@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:DEPORTIVO ARMENIO | Primera B | J44 | ✈️ | Sportivo Italiano 
@@ -34,7 +15,7 @@ DESCRIPTION:Hora pendent de confirmació · Primera B
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-sportivo-italiano-deportivo-armenio@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Sportivo Italiano - Deportivo Armenio · TBD

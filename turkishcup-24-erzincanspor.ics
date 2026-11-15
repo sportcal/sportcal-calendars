@@ -5,20 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:24 Erzincanspor · Turkish Cup
 BEGIN:VEVENT
-UID:turkishcup-20261201-24-erzincanspor-pendikspor-tc-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
+UID:turkishcup-20261202-24-erzincanspor-pendikspor-tc-dia@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
 SUMMARY:24 ERZINCANSPOR | Turkish Cup | 🏟️ | Pendikspor [TC] 🇹🇷
-DESCRIPTION:Hora pendent de confirmació · Turkish Cup
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Turkish Cup
 END:VEVENT
 BEGIN:VEVENT
-UID:turkishcup-20261201-24-erzincanspor-pendikspor-tc@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:24 Erzincanspor - Pendikspor [TC] · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Turkish Cup
+UID:turkishcup-20261202-24-erzincanspor-pendikspor-tc@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261202T120000Z
+DTEND:20261202T134500Z
+SUMMARY:24 Erzincanspor - Pendikspor [TC]
+DESCRIPTION:Turkish Cup
 END:VEVENT
 END:VCALENDAR

@@ -5,24 +5,24 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Elina Svitolina · WTA
 BEGIN:VEVENT
-UID:wta-espn-382-2026-187379-dia@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:ELINA SVITOLINA | FAGE WTA Finals Indian Wells | Group Stage | vs A
- ryna Sabalenka
-DESCRIPTION:Inici: 22:30 (Europe/Madrid) · FAGE WTA Finals Indian Wells 
- — Group Stage — Womens Singles · Elina Svitolina · WTA\nPista: India
- n Wells\, USA (Indian Wells Tennis Garden)
+UID:wta-espn-382-2026-187442-dia@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ELINA SVITOLINA | FAGE WTA Finals Indian Wells | Final | vs Mirra A
+ ndreeva
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · FAGE WTA Finals Indian Wells 
+ — Final — Womens Singles · Elina Svitolina · WTA\nPista: Indian Well
+ s\, USA (Indian Wells Tennis Garden)
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-382-2026-187379@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T213000Z
-DTEND:20261114T000000Z
-SUMMARY:Elina Svitolina - Aryna Sabalenka
-DESCRIPTION:FAGE WTA Finals Indian Wells — Group Stage — Womens Singles
-  · Elina Svitolina · WTA
+UID:wta-espn-382-2026-187442@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261115T200000Z
+DTEND:20261115T223000Z
+SUMMARY:Mirra Andreeva - Elina Svitolina
+DESCRIPTION:FAGE WTA Finals Indian Wells — Final — Womens Singles · El
+ ina Svitolina · WTA
 LOCATION:Indian Wells\, USA (Indian Wells Tennis Garden)
 END:VEVENT
 END:VCALENDAR

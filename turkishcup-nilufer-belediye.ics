@@ -6,19 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:Nilüfer Belediye · Turkish Cup
 BEGIN:VEVENT
 UID:turkishcup-20261201-nilufer-belediye-rizespor-tc-dia@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:NILÜFER BELEDIYE | Turkish Cup | 🏟️ | Rizespor [TC] 🇹🇷
-DESCRIPTION:Hora pendent de confirmació · Turkish Cup
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · Turkish Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:turkishcup-20261201-nilufer-belediye-rizespor-tc@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Nilüfer Belediye - Rizespor [TC] · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Turkish Cup
+DTSTAMP:20261115T095717Z
+DTSTART:20261201T100000Z
+DTEND:20261201T114500Z
+SUMMARY:Nilüfer Belediye - Rizespor [TC]
+DESCRIPTION:Turkish Cup
 END:VEVENT
 END:VCALENDAR

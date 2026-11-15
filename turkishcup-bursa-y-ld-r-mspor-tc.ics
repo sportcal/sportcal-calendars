@@ -5,21 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bursa Yıldırımspor [TC] · Turkish Cup
 BEGIN:VEVENT
-UID:turkishcup-20261201-antalyaspor-bursa-y-ld-r-mspor-tc-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
+UID:turkishcup-20261202-antalyaspor-bursa-y-ld-r-mspor-tc-dia@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
 SUMMARY:BURSA YILDIRIMSPOR [TC] | Turkish Cup | ✈️ | Antalyaspor 🇹
  🇷
-DESCRIPTION:Hora pendent de confirmació · Turkish Cup
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Turkish Cup
 END:VEVENT
 BEGIN:VEVENT
-UID:turkishcup-20261201-antalyaspor-bursa-y-ld-r-mspor-tc@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Antalyaspor - Bursa Yıldırımspor [TC] · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Turkish Cup
+UID:turkishcup-20261202-antalyaspor-bursa-y-ld-r-mspor-tc@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261202T120000Z
+DTEND:20261202T134500Z
+SUMMARY:Antalyaspor - Bursa Yıldırımspor [TC]
+DESCRIPTION:Turkish Cup
 END:VEVENT
 END:VCALENDAR

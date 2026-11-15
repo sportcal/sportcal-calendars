@@ -5,54 +5,56 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:WTA
 BEGIN:VEVENT
-UID:wta-dia-20261114-directv-open-presentado-por-compesar-final@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:WTA | DIRECTV Open Presentado por Compesar | Final
-DESCRIPTION:Partits per determinar (2)
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-dia-20261114-fage-wta-finals-indian-wells-group-stage@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:WTA | FAGE WTA Finals Indian Wells | Group Stage
-DESCRIPTION:00:00 Womens Doubles — Su-Wei Hsieh / Jelena Ostapenko - Gabr
- iela Dabrowski / Luisa Stefani\n01:30 Womens Doubles — Elise Mertens / Z
- hang Shuai - Guo Hanyu / Kristina Mladenovic
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-dia-20261114-fage-wta-finals-indian-wells-semifinal@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:WTA | FAGE WTA Finals Indian Wells | Semifinal
-DESCRIPTION:TBD Womens Singles - TBD (time to be confirmed) — Mirra Andre
- eva - Jessica Pegula\nTBD Womens Doubles - TBD (time to be confirmed) — 
- TBD - Katerina Siniakova / Taylor Townsend\nTBD Womens Singles - TBD (time
-  to be confirmed) — TBD - Linda Noskova\nTBD Womens Doubles - TBD (time 
- to be confirmed) — TBD - Sara Errani / Jasmine Paolini
-END:VEVENT
-BEGIN:VEVENT
 UID:wta-dia-20261115-fage-wta-finals-indian-wells-final@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:WTA | FAGE WTA Finals Indian Wells | Final
-DESCRIPTION:Partits per determinar (2)
+DESCRIPTION:21:00 Womens Singles — Mirra Andreeva - Elina Svitolina\n23:1
+ 5 Womens Doubles — Sara Errani / Jasmine Paolini - Katerina Siniakova / 
+ Taylor Townsend
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-dia-20261115-lp-open-by-ind-qualifying-final@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:WTA | LP Open by IND | Qualifying Final
+DESCRIPTION:15:30 Womens Singles — Alexandra Osborne - Diletta Cherubini\
+ n15:30 Womens Singles — Samantha Alvarez - Martina Trevisan\n17:00 Women
+ s Singles — Camila Rodero Contreras - Ariana Geerlings\n17:00 Womens Sin
+ gles — Valeriya Strakhova - Zhibek Kulambayeva
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261116-lp-open-by-ind-round-1@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:WTA | LP Open by IND | Round 1
-DESCRIPTION:Partits per determinar (16)
+DESCRIPTION:TBD Womens Singles - TBD (time to be confirmed) — Alicia Herr
+ ero Linana - Lucia Bronzetti\nTBD Womens Singles - TBD (time to be confirm
+ ed) — Anastasia Zolotareva - Katrina Scott\nTBD Womens Singles - TBD (ti
+ me to be confirmed) — Andrea Lazaro Garcia - Barbara Gatica\nTBD Womens 
+ Singles - TBD (time to be confirmed) — Antonia Vergara Rivera - Fernanda
+  Labrana\nTBD Womens Singles - TBD (time to be confirmed) — Carole Monne
+ t - Victoria Jimenez Kasintseva\nTBD Womens Singles - TBD (time to be conf
+ irmed) — Darja Semenistaja - Irene Burillo\nTBD Womens Singles - TBD (ti
+ me to be confirmed) — Ipek Oz - Leyre Romero Gormaz\nTBD Womens Singles 
+ - TBD (time to be confirmed) — Laura Samson - Despina Papamichail\nTBD W
+ omens Singles - TBD (time to be confirmed) — Miriam Bulgaru - Polona Her
+ cog\nTBD Womens Singles - TBD (time to be confirmed) — Nuria Brancaccio 
+ - Sofia Costoulas\nTBD Womens Singles - TBD (time to be confirmed) — TBD
+  - Anastasia Tikhonova\nTBD Womens Singles - TBD (time to be confirmed) 
+ — TBD - Guiomar Maristany Zuleta De Reales\nTBD Womens Singles - TBD (ti
+ me to be confirmed) — TBD - Luisina Giovannini\nTBD Womens Singles - TBD
+  (time to be confirmed) — TBD - Rebeka Masarova\nTBD Womens Singles - TB
+ D (time to be confirmed) — Varvara Lepchenko - Nadia Podoroska\nTBD Wome
+ ns Singles - TBD (time to be confirmed) — Veronika Erjavec - Maria Lourd
+ es Carle
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261118-lp-open-by-ind-round-2@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:WTA | LP Open by IND | Round 2
@@ -61,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261118-lp-open-by-ind-womens-doubles-tbd-time-to-be-confirmed
  @sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:WTA | LP Open by IND | Womens Doubles - TBD (time to be confirmed)
@@ -69,7 +71,7 @@ DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261120-lp-open-by-ind-quarterfinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:WTA | LP Open by IND | Quarterfinal
@@ -78,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261120-lp-open-by-ind-womens-doubles-tbd-time-to-be-confirmed
  @sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:WTA | LP Open by IND | Womens Doubles - TBD (time to be confirmed)
@@ -86,7 +88,7 @@ DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261121-lp-open-by-ind-semifinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:WTA | LP Open by IND | Semifinal
@@ -94,7 +96,7 @@ DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261122-lp-open-by-ind-final@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:WTA | LP Open by IND | Final
@@ -102,7 +104,7 @@ DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261123-ieb-argentina-open-round-1@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:WTA | IEB+ Argentina Open | Round 1
@@ -110,7 +112,7 @@ DESCRIPTION:Partits per determinar (16)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261125-ieb-argentina-open-quarterfinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:WTA | IEB+ Argentina Open | Quarterfinal
@@ -118,7 +120,7 @@ DESCRIPTION:Partits per determinar (4)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261125-ieb-argentina-open-round-2@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:WTA | IEB+ Argentina Open | Round 2
@@ -126,7 +128,7 @@ DESCRIPTION:Partits per determinar (8)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261127-ieb-argentina-open-quarterfinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:WTA | IEB+ Argentina Open | Quarterfinal
@@ -134,7 +136,7 @@ DESCRIPTION:Partits per determinar (4)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261127-ieb-argentina-open-semifinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:WTA | IEB+ Argentina Open | Semifinal
@@ -142,7 +144,7 @@ DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261128-ieb-argentina-open-semifinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:WTA | IEB+ Argentina Open | Semifinal
@@ -150,7 +152,7 @@ DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261129-ieb-argentina-open-final@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:WTA | IEB+ Argentina Open | Final
@@ -158,7 +160,7 @@ DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261130-open-angers-loire-trelaze-round-1@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:WTA | Open Angers Loire Trélazé | Round 1
@@ -166,7 +168,7 @@ DESCRIPTION:Partits per determinar (16)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261130-quito-open-round-1@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:WTA | Quito Open | Round 1
@@ -174,7 +176,7 @@ DESCRIPTION:Partits per determinar (17)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261202-open-angers-loire-trelaze-quarterfinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:WTA | Open Angers Loire Trélazé | Quarterfinal
@@ -182,7 +184,7 @@ DESCRIPTION:Partits per determinar (4)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261202-open-angers-loire-trelaze-round-2@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:WTA | Open Angers Loire Trélazé | Round 2
@@ -190,7 +192,7 @@ DESCRIPTION:Partits per determinar (8)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261202-quito-open-quarterfinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:WTA | Quito Open | Quarterfinal
@@ -198,7 +200,7 @@ DESCRIPTION:Partits per determinar (4)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261202-quito-open-round-2@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:WTA | Quito Open | Round 2
@@ -206,7 +208,7 @@ DESCRIPTION:Partits per determinar (8)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261204-open-angers-loire-trelaze-quarterfinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:WTA | Open Angers Loire Trélazé | Quarterfinal
@@ -214,7 +216,7 @@ DESCRIPTION:Partits per determinar (4)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261204-open-angers-loire-trelaze-semifinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:WTA | Open Angers Loire Trélazé | Semifinal
@@ -222,7 +224,7 @@ DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261204-quito-open-quarterfinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:WTA | Quito Open | Quarterfinal
@@ -230,7 +232,7 @@ DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261204-quito-open-semifinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:WTA | Quito Open | Semifinal
@@ -238,7 +240,7 @@ DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261205-open-angers-loire-trelaze-semifinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:WTA | Open Angers Loire Trélazé | Semifinal
@@ -246,7 +248,7 @@ DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261205-quito-open-semifinal@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:WTA | Quito Open | Semifinal
@@ -254,7 +256,7 @@ DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261206-open-angers-loire-trelaze-final@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:WTA | Open Angers Loire Trélazé | Final
@@ -262,71 +264,227 @@ DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-dia-20261206-quito-open-final@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:WTA | Quito Open | Final
 DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-382-2026-187441@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Mirra Andreeva - Jessica Pegula · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · FAGE WTA Finals Indian Wells — Semifinal — Womens Singles - TBD
-  (time to be confirmed) · WTA
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-382-2026-187444@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:TBD - Katerina Siniakova / Taylor Townsend · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · FAGE WTA Finals Indian Wells — Semifinal — Womens Doubles - TBD
-  (time to be confirmed) · WTA
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-382-2026-187440@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:TBD - Linda Noskova · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · FAGE WTA Finals Indian Wells — Semifinal — Womens Singles - TBD
-  (time to be confirmed) · WTA
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-382-2026-187443@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:TBD - Sara Errani / Jasmine Paolini · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · FAGE WTA Finals Indian Wells — Semifinal — Womens Doubles - TBD
-  (time to be confirmed) · WTA
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-382-2026-187380@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261113T230000Z
-DTEND:20261114T013000Z
-SUMMARY:Su-Wei Hsieh / Jelena Ostapenko - Gabriela Dabrowski / Luisa Stefan
- i
-DESCRIPTION:FAGE WTA Finals Indian Wells — Group Stage — Womens Doubles
-  · WTA
+UID:wta-espn-382-2026-187442@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261115T200000Z
+DTEND:20261115T223000Z
+SUMMARY:Mirra Andreeva - Elina Svitolina
+DESCRIPTION:FAGE WTA Finals Indian Wells — Final — Womens Singles · WT
+ A
 LOCATION:Indian Wells\, USA (Indian Wells Tennis Garden)
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-382-2026-187387@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T003000Z
-DTEND:20261114T030000Z
-SUMMARY:Elise Mertens / Zhang Shuai - Guo Hanyu / Kristina Mladenovic
-DESCRIPTION:FAGE WTA Finals Indian Wells — Group Stage — Womens Doubles
-  · WTA
+UID:wta-espn-382-2026-187445@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261115T221500Z
+DTEND:20261116T004500Z
+SUMMARY:Sara Errani / Jasmine Paolini - Katerina Siniakova / Taylor Townsen
+ d
+DESCRIPTION:FAGE WTA Finals Indian Wells — Final — Womens Doubles · WT
+ A
 LOCATION:Indian Wells\, USA (Indian Wells Tennis Garden)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-187535@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261115T143000Z
+DTEND:20261115T170000Z
+SUMMARY:Alexandra Osborne - Diletta Cherubini
+DESCRIPTION:LP Open by IND — Qualifying Final — Womens Singles · WTA
+LOCATION:Colina\, Chile (Center Court)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-187534@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261115T143000Z
+DTEND:20261115T170000Z
+SUMMARY:Samantha Alvarez - Martina Trevisan
+DESCRIPTION:LP Open by IND — Qualifying Final — Womens Singles · WTA
+LOCATION:Colina\, Chile (Grandstand)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-187533@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261115T160000Z
+DTEND:20261115T183000Z
+SUMMARY:Camila Rodero Contreras - Ariana Geerlings
+DESCRIPTION:LP Open by IND — Qualifying Final — Womens Singles · WTA
+LOCATION:Colina\, Chile (Center Court)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-187536@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261115T160000Z
+DTEND:20261115T183000Z
+SUMMARY:Valeriya Strakhova - Zhibek Kulambayeva
+DESCRIPTION:LP Open by IND — Qualifying Final — Womens Singles · WTA
+LOCATION:Colina\, Chile (Grandstand)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186785@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Alicia Herrero Linana - Lucia Bronzetti · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186789@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Anastasia Zolotareva - Katrina Scott · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186794@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Andrea Lazaro Garcia - Barbara Gatica · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186795@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Antonia Vergara Rivera - Fernanda Labrana · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186784@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Carole Monnet - Victoria Jimenez Kasintseva · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186787@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Darja Semenistaja - Irene Burillo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186793@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Ipek Oz - Leyre Romero Gormaz · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186786@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Laura Samson - Despina Papamichail · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186790@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Miriam Bulgaru - Polona Hercog · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186796@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Nuria Brancaccio - Sofia Costoulas · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186783@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:TBD - Anastasia Tikhonova · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186797@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:TBD - Guiomar Maristany Zuleta De Reales · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186788@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:TBD - Luisina Giovannini · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186792@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:TBD - Rebeka Masarova · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186791@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Varvara Lepchenko - Nadia Podoroska · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186782@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Veronika Erjavec - Maria Lourdes Carle · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
+ firmed) · WTA
 END:VEVENT
 END:VCALENDAR

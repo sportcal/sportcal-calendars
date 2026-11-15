@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AS Douanes (Mauritania) · CAF Confed.
+BEGIN:VEVENT
+UID:cafconfed-20261123-as-douanes-mauritania-cr-belouizdad-dia@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:AS DOUANES (MAURITANIA) | CAF Confed. | J3 | 🏟️ | CR Belouizda
+ d
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · CAF Confederation Cup\nEstadi: 
+ Stade Cheikha Ould Boïdiya
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261123-as-douanes-mauritania-cr-belouizdad@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261123T170000Z
+DTEND:20261123T184500Z
+SUMMARY:AS Douanes (Mauritania) - CR Belouizdad
+DESCRIPTION:CAF Confederation Cup
+LOCATION:Stade Cheikha Ould Boïdiya
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127-cr-belouizdad-as-douanes-mauritania-dia@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:AS DOUANES (MAURITANIA) | CAF Confed. | J5 | ✈️ | CR Belouizdad
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · CAF Confederation Cup\nEstadi: 
+ Stade de Nelson Mandela
+END:VEVENT
+BEGIN:VEVENT
+UID:cafconfed-20261127-cr-belouizdad-as-douanes-mauritania@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:CR Belouizdad - AS Douanes (Mauritania)
+DESCRIPTION:CAF Confederation Cup
+LOCATION:Stade de Nelson Mandela
+END:VEVENT
+END:VCALENDAR

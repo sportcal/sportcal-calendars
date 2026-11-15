@@ -5,24 +5,24 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Stephen F. Austin Ladyjacks · NCAA WVB
 BEGIN:VEVENT
-UID:ncaavbw-20261114-lsu-new-orleans-privateers-stephen-f-austin-ladyjacks-
- dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:STEPHEN F. AUSTIN LADYJACKS | NCAA WVB | J1 | ✈️ | LSU New Orle
- ans Privateers 🇺🇸
-DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Volleybal
- l\nEstadi: Human Performance Center\, New Orleans\, Louisiana
+UID:ncaavbw-20261120-stephen-f-austin-ladyjacks-texas-a-m-corpus-christi-is
+ landers-dia@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:STEPHEN F. AUSTIN LADYJACKS | NCAA WVB | J2 | 🏟️ | Texas A&M-C
+ orpus Christi Islanders 🇺🇸
+DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Dugan Wellness Center\, Corpus Christi\, Texas
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaavbw-20261114-lsu-new-orleans-privateers-stephen-f-austin-ladyjacks@
- sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T190000Z
-DTEND:20261114T204500Z
-SUMMARY:LSU New Orleans Privateers - Stephen F. Austin Ladyjacks
+UID:ncaavbw-20261120-stephen-f-austin-ladyjacks-texas-a-m-corpus-christi-is
+ landers@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261120T220000Z
+DTEND:20261120T234500Z
+SUMMARY:Stephen F. Austin Ladyjacks - Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Human Performance Center\, New Orleans\, Louisiana
+LOCATION:Dugan Wellness Center\, Corpus Christi\, Texas
 END:VEVENT
 END:VCALENDAR

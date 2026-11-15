@@ -6,19 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:Balıkesirspor · Turkish Cup
 BEGIN:VEVENT
 UID:turkishcup-20261201-bal-kesirspor-istanbulspor-tc-dia@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:BALIKESIRSPOR | Turkish Cup | 🏟️ | İstanbulspor [TC] 🇹🇷
-DESCRIPTION:Hora pendent de confirmació · Turkish Cup
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Turkish Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:turkishcup-20261201-bal-kesirspor-istanbulspor-tc@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Balıkesirspor - İstanbulspor [TC] · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Turkish Cup
+DTSTAMP:20261115T095717Z
+DTSTART:20261201T120000Z
+DTEND:20261201T134500Z
+SUMMARY:Balıkesirspor - İstanbulspor [TC]
+DESCRIPTION:Turkish Cup
 END:VEVENT
 END:VCALENDAR

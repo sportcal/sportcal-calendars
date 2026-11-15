@@ -5,22 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Erzurumspor [TC] · Turkish Cup
 BEGIN:VEVENT
-UID:turkishcup-20261201-kahramanmaras-istiklalspor-erzurumspor-tc-dia@sport
+UID:turkishcup-20261202-kahramanmaras-istiklalspor-erzurumspor-tc-dia@sport
  cal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
 SUMMARY:ERZURUMSPOR [TC] | Turkish Cup | ✈️ | Kahramanmaraş İstiklals
  por 🇹🇷
-DESCRIPTION:Hora pendent de confirmació · Turkish Cup
+DESCRIPTION:Inici: 11:00 (Europe/Madrid) · Turkish Cup
 END:VEVENT
 BEGIN:VEVENT
-UID:turkishcup-20261201-kahramanmaras-istiklalspor-erzurumspor-tc@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Kahramanmaraş İstiklalspor - Erzurumspor [TC] · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Turkish Cup
+UID:turkishcup-20261202-kahramanmaras-istiklalspor-erzurumspor-tc@sportcal
+DTSTAMP:20261115T095717Z
+DTSTART:20261202T100000Z
+DTEND:20261202T114500Z
+SUMMARY:Kahramanmaraş İstiklalspor - Erzurumspor [TC]
+DESCRIPTION:Turkish Cup
 END:VEVENT
 END:VCALENDAR

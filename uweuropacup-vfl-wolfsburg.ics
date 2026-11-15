@@ -6,36 +6,38 @@ METHOD:PUBLISH
 X-WR-CALNAME:VfL Wolfsburg · UEFA Women's Europa Cup
 BEGIN:VEVENT
 UID:uweuropacup-20270203-br-ndby-if-vfl-wolfsburg-dia@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:VFL WOLFSBURG | UEFA Women's Europa Cup | J1 | ✈️ | Brøndby IF
   🇩🇰
-DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Women's Europa Cup
+DESCRIPTION:Hora pendent de confirmació · UEFA Women's Europa Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:uweuropacup-20270203-br-ndby-if-vfl-wolfsburg@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20270203T200000Z
-DTEND:20270203T214500Z
-SUMMARY:Brøndby IF - VfL Wolfsburg
-DESCRIPTION:UEFA Women's Europa Cup
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Brøndby IF - VfL Wolfsburg · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · UEFA Women's Europa Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:uweuropacup-20270210-vfl-wolfsburg-br-ndby-if-dia@sportcal
-DTSTAMP:20261113T230656Z
+DTSTAMP:20261115T095717Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:VFL WOLFSBURG | UEFA Women's Europa Cup | J2 | 🏟️ | Brøndby I
  F 🇩🇰
-DESCRIPTION:Inici: 21:00 (Europe/Madrid) · UEFA Women's Europa Cup
+DESCRIPTION:Hora pendent de confirmació · UEFA Women's Europa Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:uweuropacup-20270210-vfl-wolfsburg-br-ndby-if@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20270210T200000Z
-DTEND:20270210T214500Z
-SUMMARY:VfL Wolfsburg - Brøndby IF
-DESCRIPTION:UEFA Women's Europa Cup
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:VfL Wolfsburg - Brøndby IF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · UEFA Women's Europa Cup
 END:VEVENT
 END:VCALENDAR

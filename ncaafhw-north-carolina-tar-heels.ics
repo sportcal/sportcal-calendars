@@ -5,22 +5,23 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:North Carolina Tar Heels · NCAA WFH
 BEGIN:VEVENT
-UID:ncaafhw-20261113-north-carolina-tar-heels-miami-oh-redhawks-dia@sportca
- l
-DTSTAMP:20261113T133901Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:NORTH CAROLINA TAR HEELS | NCAA WFH | J1 | 🏟️ | Miami (OH) Red
- Hawks 🇺🇸
-DESCRIPTION:Inici: 21:30 (Europe/Madrid) · NCAA Division I Women Field Hoc
+UID:ncaafhw-20261115-northwestern-wildcats-north-carolina-tar-heels-dia@spo
+ rtcal
+DTSTAMP:20261115T095717Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:NORTH CAROLINA TAR HEELS | NCAA WFH | J2 | ✈️ | Northwestern Wi
+ ldcats 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Field Hoc
  key
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafhw-20261113-north-carolina-tar-heels-miami-oh-redhawks@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T203000Z
-DTEND:20261113T221500Z
-SUMMARY:North Carolina Tar Heels - Miami (OH) RedHawks
+UID:ncaafhw-20261115-northwestern-wildcats-north-carolina-tar-heels@sportca
+ l
+DTSTAMP:20261115T095717Z
+DTSTART:20261115T190000Z
+DTEND:20261115T204500Z
+SUMMARY:Northwestern Wildcats - North Carolina Tar Heels
 DESCRIPTION:NCAA Division I Women Field Hockey
 END:VEVENT
 END:VCALENDAR
