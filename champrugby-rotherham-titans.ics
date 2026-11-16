@@ -5,21 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rotherham Titans · Champ Rugby
 BEGIN:VEVENT
-UID:champrugby-20261114-rotherham-titans-hartpury-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:ROTHERHAM TITANS | Champ Rugby | J8 | 🏟️ | Hartpury 🇬🇧
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Clifton La
- ne
+UID:champrugby-20261121-blackheath-rotherham-titans-dia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ROTHERHAM TITANS | Champ Rugby | J9 | ✈️ | Blackheath 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Well Hall
 END:VEVENT
 BEGIN:VEVENT
-UID:champrugby-20261114-rotherham-titans-hartpury@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T150000Z
-DTEND:20261114T164500Z
-SUMMARY:Rotherham Titans - Hartpury
+UID:champrugby-20261121-blackheath-rotherham-titans@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Blackheath - Rotherham Titans
 DESCRIPTION:Champ Rugby
-LOCATION:Clifton Lane
+LOCATION:Well Hall
 END:VEVENT
 END:VCALENDAR

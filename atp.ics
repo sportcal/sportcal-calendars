@@ -5,19 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:ATP
 BEGIN:VEVENT
-UID:atp-dia-20261115-nitto-atp-finals-group-stage@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:ATP | Nitto ATP Finals | Group Stage
-DESCRIPTION:11:30 Mens Doubles — Orlando Luz / Rafael Matos - Harri Helio
- vaara / Henry Patten\n14:00 Mens Singles — Rafael Jodar - Alexander Zver
- ev\n18:00 Mens Doubles — Theo Arribage / Albano Olivetti - Marcelo Areva
- lo / Mate Pavic\n20:30 Mens Singles — Arthur Fils - Ben Shelton
-END:VEVENT
-BEGIN:VEVENT
 UID:atp-dia-20261116-nitto-atp-finals-group-stage@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:ATP | Nitto ATP Finals | Group Stage
@@ -29,31 +18,43 @@ DESCRIPTION:11:30 Mens Doubles — Simone Bolelli / Andrea Vavassori - Marc
 END:VEVENT
 BEGIN:VEVENT
 UID:atp-dia-20261117-nitto-atp-finals-group-stage@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:ATP | Nitto ATP Finals | Group Stage
+DESCRIPTION:TBD Mens Singles - TBD (time to be confirmed) — Frances Tiafo
+ e - Daniil Medvedev\nTBD Mens Singles - TBD (time to be confirmed) — Fra
+ nces Tiafoe - Flavio Cobolli\n11:30 Mens Doubles — Marcelo Arevalo / Mat
+ e Pavic - Harri Heliovaara / Henry Patten\n14:00 Mens Singles — Rafael J
+ odar - Arthur Fils\n18:00 Mens Doubles — Orlando Luz / Rafael Matos - Th
+ eo Arribage / Albano Olivetti\n20:30 Mens Singles — Ben Shelton - Alexan
+ der Zverev
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-dia-20261118-nitto-atp-finals-group-stage@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ATP | Nitto ATP Finals | Group Stage
 DESCRIPTION:TBD Mens Singles - TBD (time to be confirmed) — Arthur Fils -
-  Alexander Zverev\nTBD Mens Singles - TBD (time to be confirmed) — Ben S
- helton - Alexander Zverev\nTBD Mens Singles - TBD (time to be confirmed) 
- — Daniil Medvedev - Carlos Alcaraz\nTBD Mens Singles - TBD (time to be c
- onfirmed) — Frances Tiafoe - Daniil Medvedev\nTBD Mens Doubles - TBD (ti
- me to be confirmed) — Marcel Granollers / Horacio Zeballos - Christian H
- arrison / Neal Skupski\nTBD Mens Doubles - TBD (time to be confirmed) — 
- Marcelo Arevalo / Mate Pavic - Harri Heliovaara / Henry Patten\nTBD Mens D
- oubles - TBD (time to be confirmed) — Orlando Luz / Rafael Matos - Marce
- lo Arevalo / Mate Pavic\nTBD Mens Doubles - TBD (time to be confirmed) —
-  Orlando Luz / Rafael Matos - Theo Arribage / Albano Olivetti\nTBD Mens Si
- ngles - TBD (time to be confirmed) — Rafael Jodar - Arthur Fils\nTBD Men
- s Singles - TBD (time to be confirmed) — Rafael Jodar - Ben Shelton\nTBD
-  Mens Doubles - TBD (time to be confirmed) — Simone Bolelli / Andrea Vav
- assori - Christian Harrison / Neal Skupski\nTBD Mens Doubles - TBD (time t
- o be confirmed) — Theo Arribage / Albano Olivetti - Harri Heliovaara / H
- enry Patten
+  Alexander Zverev\nTBD Mens Singles - TBD (time to be confirmed) — Danii
+ l Medvedev - Carlos Alcaraz\nTBD Mens Singles - TBD (time to be confirmed)
+  — Flavio Cobolli - Carlos Alcaraz\nTBD Mens Doubles - TBD (time to be c
+ onfirmed) — Kevin Krawietz / Tim Puetz - Marcel Granollers / Horacio Zeb
+ allos\nTBD Mens Doubles - TBD (time to be confirmed) — Kevin Krawietz / 
+ Tim Puetz - Simone Bolelli / Andrea Vavassori\nTBD Mens Doubles - TBD (tim
+ e to be confirmed) — Marcel Granollers / Horacio Zeballos - Christian Ha
+ rrison / Neal Skupski\nTBD Mens Doubles - TBD (time to be confirmed) — O
+ rlando Luz / Rafael Matos - Marcelo Arevalo / Mate Pavic\nTBD Mens Singles
+  - TBD (time to be confirmed) — Rafael Jodar - Ben Shelton\nTBD Mens Dou
+ bles - TBD (time to be confirmed) — Simone Bolelli / Andrea Vavassori - 
+ Christian Harrison / Neal Skupski\nTBD Mens Doubles - TBD (time to be conf
+ irmed) — Theo Arribage / Albano Olivetti - Harri Heliovaara / Henry Patt
+ en
 END:VEVENT
 BEGIN:VEVENT
 UID:atp-dia-20261121-nitto-atp-finals-semifinal@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:ATP | Nitto ATP Finals | Semifinal
@@ -61,51 +62,15 @@ DESCRIPTION:Partits per determinar (4)
 END:VEVENT
 BEGIN:VEVENT
 UID:atp-dia-20261122-nitto-atp-finals-final@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:ATP | Nitto ATP Finals | Final
 DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
-UID:atp-espn-339-2026-187517@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T103000Z
-DTEND:20261115T130000Z
-SUMMARY:Orlando Luz / Rafael Matos - Harri Heliovaara / Henry Patten
-DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Doubles · ATP
-LOCATION:Turin\, Italy (Inalpi Arena)
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187505@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T130000Z
-DTEND:20261115T153000Z
-SUMMARY:Rafael Jodar - Alexander Zverev
-DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · ATP
-LOCATION:Turin\, Italy (Inalpi Arena)
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187518@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T170000Z
-DTEND:20261115T193000Z
-SUMMARY:Theo Arribage / Albano Olivetti - Marcelo Arevalo / Mate Pavic
-DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Doubles · ATP
-LOCATION:Turin\, Italy (Inalpi Arena)
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187506@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T193000Z
-DTEND:20261115T220000Z
-SUMMARY:Arthur Fils - Ben Shelton
-DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · ATP
-LOCATION:Turin\, Italy (Inalpi Arena)
-END:VEVENT
-BEGIN:VEVENT
 UID:atp-espn-339-2026-187524@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART:20261116T103000Z
 DTEND:20261116T130000Z
 SUMMARY:Simone Bolelli / Andrea Vavassori - Marcel Granollers / Horacio Zeb
@@ -115,7 +80,7 @@ LOCATION:Turin\, Italy (Inalpi Arena)
 END:VEVENT
 BEGIN:VEVENT
 UID:atp-espn-339-2026-187511@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART:20261116T130000Z
 DTEND:20261116T153000Z
 SUMMARY:Frances Tiafoe - Carlos Alcaraz
@@ -124,7 +89,7 @@ LOCATION:Turin\, Italy (Inalpi Arena)
 END:VEVENT
 BEGIN:VEVENT
 UID:atp-espn-339-2026-187523@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART:20261116T170000Z
 DTEND:20261116T193000Z
 SUMMARY:Kevin Krawietz / Tim Puetz - Christian Harrison / Neal Skupski
@@ -133,7 +98,7 @@ LOCATION:Turin\, Italy (Inalpi Arena)
 END:VEVENT
 BEGIN:VEVENT
 UID:atp-espn-339-2026-187512@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART:20261116T193000Z
 DTEND:20261116T220000Z
 SUMMARY:Flavio Cobolli - Daniil Medvedev
@@ -141,38 +106,8 @@ DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · ATP
 LOCATION:Turin\, Italy (Inalpi Arena)
 END:VEVENT
 BEGIN:VEVENT
-UID:atp-espn-339-2026-187504@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Arthur Fils - Alexander Zverev · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
-  confirmed) · ATP
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187503@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Ben Shelton - Alexander Zverev · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
-  confirmed) · ATP
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187509@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Daniil Medvedev - Carlos Alcaraz · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
-  confirmed) · ATP
-END:VEVENT
-BEGIN:VEVENT
 UID:atp-espn-339-2026-187513@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Frances Tiafoe - Daniil Medvedev · TBD
@@ -181,10 +116,108 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
   confirmed) · ATP
 END:VEVENT
 BEGIN:VEVENT
-UID:atp-espn-339-2026-187521@sportcal
-DTSTAMP:20261115T095717Z
+UID:atp-espn-339-2026-187514@sportcal
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
+SUMMARY:Frances Tiafoe - Flavio Cobolli · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
+  confirmed) · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187515@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261117T103000Z
+DTEND:20261117T130000Z
+SUMMARY:Marcelo Arevalo / Mate Pavic - Harri Heliovaara / Henry Patten
+DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Doubles · ATP
+LOCATION:Turin\, Italy (Inalpi Arena)
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187508@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261117T130000Z
+DTEND:20261117T153000Z
+SUMMARY:Rafael Jodar - Arthur Fils
+DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · ATP
+LOCATION:Turin\, Italy (Inalpi Arena)
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187520@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261117T170000Z
+DTEND:20261117T193000Z
+SUMMARY:Orlando Luz / Rafael Matos - Theo Arribage / Albano Olivetti
+DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Doubles · ATP
+LOCATION:Turin\, Italy (Inalpi Arena)
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187503@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261117T193000Z
+DTEND:20261117T220000Z
+SUMMARY:Ben Shelton - Alexander Zverev
+DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · ATP
+LOCATION:Turin\, Italy (Inalpi Arena)
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187504@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Arthur Fils - Alexander Zverev · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
+  confirmed) · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187509@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Daniil Medvedev - Carlos Alcaraz · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
+  confirmed) · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187510@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Flavio Cobolli - Carlos Alcaraz · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
+  confirmed) · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187525@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Kevin Krawietz / Tim Puetz - Marcel Granollers / Horacio Zeballos 
+ · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nitto ATP Finals — Group Stage — Mens Doubles - TBD (time to be
+  confirmed) · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187526@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Kevin Krawietz / Tim Puetz - Simone Bolelli / Andrea Vavassori · T
+ BD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nitto ATP Finals — Group Stage — Mens Doubles - TBD (time to be
+  confirmed) · ATP
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-espn-339-2026-187521@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
 SUMMARY:Marcel Granollers / Horacio Zeballos - Christian Harrison / Neal Sk
  upski · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
@@ -192,51 +225,20 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
   confirmed) · ATP
 END:VEVENT
 BEGIN:VEVENT
-UID:atp-espn-339-2026-187515@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Marcelo Arevalo / Mate Pavic - Harri Heliovaara / Henry Patten · T
- BD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Nitto ATP Finals — Group Stage — Mens Doubles - TBD (time to be
-  confirmed) · ATP
-END:VEVENT
-BEGIN:VEVENT
 UID:atp-espn-339-2026-187519@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
 SUMMARY:Orlando Luz / Rafael Matos - Marcelo Arevalo / Mate Pavic · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Nitto ATP Finals — Group Stage — Mens Doubles - TBD (time to be
   confirmed) · ATP
 END:VEVENT
 BEGIN:VEVENT
-UID:atp-espn-339-2026-187520@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Orlando Luz / Rafael Matos - Theo Arribage / Albano Olivetti · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Nitto ATP Finals — Group Stage — Mens Doubles - TBD (time to be
-  confirmed) · ATP
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187508@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Rafael Jodar - Arthur Fils · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
-  confirmed) · ATP
-END:VEVENT
-BEGIN:VEVENT
 UID:atp-espn-339-2026-187507@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
 SUMMARY:Rafael Jodar - Ben Shelton · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
@@ -244,9 +246,9 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:atp-espn-339-2026-187522@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
 SUMMARY:Simone Bolelli / Andrea Vavassori - Christian Harrison / Neal Skups
  ki · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
@@ -255,9 +257,9 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:atp-espn-339-2026-187516@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
 SUMMARY:Theo Arribage / Albano Olivetti - Harri Heliovaara / Henry Patten 
  · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici

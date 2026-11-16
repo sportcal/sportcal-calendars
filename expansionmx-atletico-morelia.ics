@@ -5,22 +5,39 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Atlético Morelia · Expansión MX
 BEGIN:VEVENT
-UID:expansionmx-20261115-leones-negros-udg-atletico-morelia-dia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:ATLÉTICO MORELIA | Expansión MX | J19 | ✈️ | Leones Negros UD
- G 🇲🇽
-DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Liga de Expansión MX\nEstadi: 
- Estadio Jalisco
+UID:expansionmx-20261121-atletico-morelia-ca-la-paz-dia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ATLÉTICO MORELIA | Expansión MX | J20 | 🏟️ | CA La Paz 🇲
+ 🇽
+DESCRIPTION:Hora pendent de confirmació · Liga de Expansión MX
 END:VEVENT
 BEGIN:VEVENT
-UID:expansionmx-20261115-leones-negros-udg-atletico-morelia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T180000Z
-DTEND:20261115T194500Z
-SUMMARY:Leones Negros UDG - Atlético Morelia
-DESCRIPTION:Liga de Expansión MX
-LOCATION:Estadio Jalisco
+UID:expansionmx-20261121-atletico-morelia-ca-la-paz@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Atlético Morelia - CA La Paz · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Liga de Expansión MX
+END:VEVENT
+BEGIN:VEVENT
+UID:expansionmx-20261128-ca-la-paz-atletico-morelia-dia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ATLÉTICO MORELIA | Expansión MX | J21 | ✈️ | CA La Paz 🇲
+ 🇽
+DESCRIPTION:Hora pendent de confirmació · Liga de Expansión MX
+END:VEVENT
+BEGIN:VEVENT
+UID:expansionmx-20261128-ca-la-paz-atletico-morelia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:CA La Paz - Atlético Morelia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Liga de Expansión MX
 END:VEVENT
 END:VCALENDAR

@@ -5,21 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Chinnor · Champ Rugby
 BEGIN:VEVENT
-UID:champrugby-20261114-chinnor-blackheath-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:CHINNOR | Champ Rugby | J8 | 🏟️ | Blackheath 🇬🇧
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Kingsey Ro
- ad
+UID:champrugby-20261121-doncaster-knights-chinnor-dia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CHINNOR | Champ Rugby | J9 | ✈️ | Doncaster Knights 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Castle Par
+ k
 END:VEVENT
 BEGIN:VEVENT
-UID:champrugby-20261114-chinnor-blackheath@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T150000Z
-DTEND:20261114T164500Z
-SUMMARY:Chinnor - Blackheath
+UID:champrugby-20261121-doncaster-knights-chinnor@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Doncaster Knights - Chinnor
 DESCRIPTION:Champ Rugby
-LOCATION:Kingsey Road
+LOCATION:Castle Park
 END:VEVENT
 END:VCALENDAR

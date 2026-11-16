@@ -5,47 +5,40 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:LP Open by IND · WTA
 BEGIN:VEVENT
-UID:wta-lp-open-by-ind-dia-20261115-lp-open-by-ind-qualifying-final@sportca
- l
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:WTA | LP Open by IND | Qualifying Final
-DESCRIPTION:15:30 Womens Singles — Alexandra Osborne - Diletta Cherubini\
- n15:30 Womens Singles — Samantha Alvarez - Martina Trevisan\n17:00 Women
- s Singles — Camila Rodero Contreras - Ariana Geerlings\n17:00 Womens Sin
- gles — Valeriya Strakhova - Zhibek Kulambayeva
-END:VEVENT
-BEGIN:VEVENT
 UID:wta-lp-open-by-ind-dia-20261116-lp-open-by-ind-round-1@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:WTA | LP Open by IND | Round 1
+DESCRIPTION:15:00 Womens Singles — Anastasia Zolotareva - Katrina Scott\n
+ 15:00 Womens Singles — Diletta Cherubini - Rebeka Masarova\n16:30 Womens
+  Singles — Martina Trevisan - Guiomar Maristany Zuleta De Reales\n16:30 
+ Womens Singles — Nuria Brancaccio - Sofia Costoulas\n18:00 Womens Single
+ s — Carole Monnet - Victoria Jimenez Kasintseva\n18:00 Womens Singles 
+ — Ipek Oz - Leyre Romero Gormaz\n22:00 Womens Singles — Anastasia Tikh
+ onova - Valeriya Strakhova\n23:00 Womens Singles — Ariana Geerlings - Lu
+ isina Giovannini
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-lp-open-by-ind-dia-20261117-lp-open-by-ind-round-1@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:WTA | LP Open by IND | Round 1
 DESCRIPTION:TBD Womens Singles - TBD (time to be confirmed) — Alicia Herr
  ero Linana - Lucia Bronzetti\nTBD Womens Singles - TBD (time to be confirm
- ed) — Anastasia Zolotareva - Katrina Scott\nTBD Womens Singles - TBD (ti
- me to be confirmed) — Andrea Lazaro Garcia - Barbara Gatica\nTBD Womens 
- Singles - TBD (time to be confirmed) — Antonia Vergara Rivera - Fernanda
-  Labrana\nTBD Womens Singles - TBD (time to be confirmed) — Carole Monne
- t - Victoria Jimenez Kasintseva\nTBD Womens Singles - TBD (time to be conf
- irmed) — Darja Semenistaja - Irene Burillo\nTBD Womens Singles - TBD (ti
- me to be confirmed) — Ipek Oz - Leyre Romero Gormaz\nTBD Womens Singles 
- - TBD (time to be confirmed) — Laura Samson - Despina Papamichail\nTBD W
- omens Singles - TBD (time to be confirmed) — Miriam Bulgaru - Polona Her
- cog\nTBD Womens Singles - TBD (time to be confirmed) — Nuria Brancaccio 
- - Sofia Costoulas\nTBD Womens Singles - TBD (time to be confirmed) — TBD
-  - Anastasia Tikhonova\nTBD Womens Singles - TBD (time to be confirmed) 
- — TBD - Guiomar Maristany Zuleta De Reales\nTBD Womens Singles - TBD (ti
- me to be confirmed) — TBD - Luisina Giovannini\nTBD Womens Singles - TBD
-  (time to be confirmed) — TBD - Rebeka Masarova\nTBD Womens Singles - TB
- D (time to be confirmed) — Varvara Lepchenko - Nadia Podoroska\nTBD Wome
- ns Singles - TBD (time to be confirmed) — Veronika Erjavec - Maria Lourd
- es Carle
+ ed) — Andrea Lazaro Garcia - Barbara Gatica\nTBD Womens Singles - TBD (t
+ ime to be confirmed) — Antonia Vergara Rivera - Fernanda Labrana\nTBD Wo
+ mens Singles - TBD (time to be confirmed) — Darja Semenistaja - Irene Bu
+ rillo\nTBD Womens Singles - TBD (time to be confirmed) — Laura Samson - 
+ Despina Papamichail\nTBD Womens Singles - TBD (time to be confirmed) — M
+ iriam Bulgaru - Polona Hercog\nTBD Womens Singles - TBD (time to be confir
+ med) — Varvara Lepchenko - Nadia Podoroska\nTBD Womens Singles - TBD (ti
+ me to be confirmed) — Veronika Erjavec - Maria Lourdes Carle
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-lp-open-by-ind-dia-20261118-lp-open-by-ind-round-2@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:WTA | LP Open by IND | Round 2
@@ -54,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wta-lp-open-by-ind-dia-20261118-lp-open-by-ind-womens-doubles-tbd-time-
  to-be-confirmed@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:WTA | LP Open by IND | Womens Doubles - TBD (time to be confirmed)
@@ -62,7 +55,7 @@ DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-lp-open-by-ind-dia-20261120-lp-open-by-ind-quarterfinal@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:WTA | LP Open by IND | Quarterfinal
@@ -71,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wta-lp-open-by-ind-dia-20261120-lp-open-by-ind-womens-doubles-tbd-time-
  to-be-confirmed@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:WTA | LP Open by IND | Womens Doubles - TBD (time to be confirmed)
@@ -79,7 +72,7 @@ DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-lp-open-by-ind-dia-20261121-lp-open-by-ind-semifinal@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:WTA | LP Open by IND | Semifinal
@@ -87,77 +80,107 @@ DESCRIPTION:Partits per determinar (2)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-lp-open-by-ind-dia-20261122-lp-open-by-ind-final@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:WTA | LP Open by IND | Final
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-904-2026-187535@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T143000Z
-DTEND:20261115T170000Z
-SUMMARY:Alexandra Osborne - Diletta Cherubini
-DESCRIPTION:LP Open by IND — Qualifying Final — Womens Singles · LP Op
- en by IND · WTA
-LOCATION:Colina\, Chile (Center Court)
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-904-2026-187534@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T143000Z
-DTEND:20261115T170000Z
-SUMMARY:Samantha Alvarez - Martina Trevisan
-DESCRIPTION:LP Open by IND — Qualifying Final — Womens Singles · LP Op
- en by IND · WTA
+UID:wta-espn-904-2026-186789@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261116T140000Z
+DTEND:20261116T163000Z
+SUMMARY:Anastasia Zolotareva - Katrina Scott
+DESCRIPTION:LP Open by IND — Round 1 — Womens Singles · LP Open by IND
+  · WTA
 LOCATION:Colina\, Chile (Grandstand)
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-904-2026-187533@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T160000Z
-DTEND:20261115T183000Z
-SUMMARY:Camila Rodero Contreras - Ariana Geerlings
-DESCRIPTION:LP Open by IND — Qualifying Final — Womens Singles · LP Op
- en by IND · WTA
+UID:wta-espn-904-2026-186792@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261116T140000Z
+DTEND:20261116T163000Z
+SUMMARY:Diletta Cherubini - Rebeka Masarova
+DESCRIPTION:LP Open by IND — Round 1 — Womens Singles · LP Open by IND
+  · WTA
 LOCATION:Colina\, Chile (Center Court)
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-904-2026-187536@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T160000Z
-DTEND:20261115T183000Z
-SUMMARY:Valeriya Strakhova - Zhibek Kulambayeva
-DESCRIPTION:LP Open by IND — Qualifying Final — Womens Singles · LP Op
- en by IND · WTA
+UID:wta-espn-904-2026-186797@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261116T153000Z
+DTEND:20261116T180000Z
+SUMMARY:Martina Trevisan - Guiomar Maristany Zuleta De Reales
+DESCRIPTION:LP Open by IND — Round 1 — Womens Singles · LP Open by IND
+  · WTA
+LOCATION:Colina\, Chile (Center Court)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186796@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261116T153000Z
+DTEND:20261116T180000Z
+SUMMARY:Nuria Brancaccio - Sofia Costoulas
+DESCRIPTION:LP Open by IND — Round 1 — Womens Singles · LP Open by IND
+  · WTA
 LOCATION:Colina\, Chile (Grandstand)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186784@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261116T170000Z
+DTEND:20261116T193000Z
+SUMMARY:Carole Monnet - Victoria Jimenez Kasintseva
+DESCRIPTION:LP Open by IND — Round 1 — Womens Singles · LP Open by IND
+  · WTA
+LOCATION:Colina\, Chile (Grandstand)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186793@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261116T170000Z
+DTEND:20261116T193000Z
+SUMMARY:Ipek Oz - Leyre Romero Gormaz
+DESCRIPTION:LP Open by IND — Round 1 — Womens Singles · LP Open by IND
+  · WTA
+LOCATION:Colina\, Chile (Center Court)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186783@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261116T210000Z
+DTEND:20261116T233000Z
+SUMMARY:Anastasia Tikhonova - Valeriya Strakhova
+DESCRIPTION:LP Open by IND — Round 1 — Womens Singles · LP Open by IND
+  · WTA
+LOCATION:Colina\, Chile (Grandstand)
+END:VEVENT
+BEGIN:VEVENT
+UID:wta-espn-904-2026-186788@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261116T220000Z
+DTEND:20261117T003000Z
+SUMMARY:Ariana Geerlings - Luisina Giovannini
+DESCRIPTION:LP Open by IND — Round 1 — Womens Singles · LP Open by IND
+  · WTA
+LOCATION:Colina\, Chile (Center Court)
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-espn-904-2026-186785@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:Alicia Herrero Linana - Lucia Bronzetti · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
  firmed) · LP Open by IND · WTA
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-904-2026-186789@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Anastasia Zolotareva - Katrina Scott · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
- firmed) · LP Open by IND · WTA
-END:VEVENT
-BEGIN:VEVENT
 UID:wta-espn-904-2026-186794@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:Andrea Lazaro Garcia - Barbara Gatica · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
@@ -165,49 +188,29 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-espn-904-2026-186795@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:Antonia Vergara Rivera - Fernanda Labrana · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
  firmed) · LP Open by IND · WTA
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-904-2026-186784@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Carole Monnet - Victoria Jimenez Kasintseva · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
- firmed) · LP Open by IND · WTA
-END:VEVENT
-BEGIN:VEVENT
 UID:wta-espn-904-2026-186787@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:Darja Semenistaja - Irene Burillo · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
  firmed) · LP Open by IND · WTA
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-904-2026-186793@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Ipek Oz - Leyre Romero Gormaz · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
- firmed) · LP Open by IND · WTA
-END:VEVENT
-BEGIN:VEVENT
 UID:wta-espn-904-2026-186786@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:Laura Samson - Despina Papamichail · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
@@ -215,69 +218,19 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-espn-904-2026-186790@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:Miriam Bulgaru - Polona Hercog · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
  firmed) · LP Open by IND · WTA
 END:VEVENT
 BEGIN:VEVENT
-UID:wta-espn-904-2026-186796@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Nuria Brancaccio - Sofia Costoulas · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
- firmed) · LP Open by IND · WTA
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-904-2026-186783@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:TBD - Anastasia Tikhonova · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
- firmed) · LP Open by IND · WTA
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-904-2026-186797@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:TBD - Guiomar Maristany Zuleta De Reales · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
- firmed) · LP Open by IND · WTA
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-904-2026-186788@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:TBD - Luisina Giovannini · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
- firmed) · LP Open by IND · WTA
-END:VEVENT
-BEGIN:VEVENT
-UID:wta-espn-904-2026-186792@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:TBD - Rebeka Masarova · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
- firmed) · LP Open by IND · WTA
-END:VEVENT
-BEGIN:VEVENT
 UID:wta-espn-904-2026-186791@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:Varvara Lepchenko - Nadia Podoroska · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con
@@ -285,9 +238,9 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-espn-904-2026-186782@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:Veronika Erjavec - Maria Lourdes Carle · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · LP Open by IND — Round 1 — Womens Singles - TBD (time to be con

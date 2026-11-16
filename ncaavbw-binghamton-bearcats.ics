@@ -5,20 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Binghamton Bearcats · NCAA WVB
 BEGIN:VEVENT
-UID:ncaavbw-20261115-umbc-retrievers-binghamton-bearcats-dia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:BINGHAMTON BEARCATS | NCAA WVB | J2 | ✈️ | UMBC Retrievers 🇺
+UID:ncaavbw-20261119-umbc-retrievers-binghamton-bearcats-dia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:BINGHAMTON BEARCATS | NCAA WVB | J3 | ✈️ | UMBC Retrievers 🇺
  🇸
-DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women Volleybal
  l\nEstadi: Chesapeake Employers Insurance Arena\, Baltimore\, Maryland
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaavbw-20261115-umbc-retrievers-binghamton-bearcats@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T180000Z
-DTEND:20261115T194500Z
+UID:ncaavbw-20261119-umbc-retrievers-binghamton-bearcats@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261119T210000Z
+DTEND:20261119T224500Z
 SUMMARY:UMBC Retrievers - Binghamton Bearcats
 DESCRIPTION:NCAA Division I Women Volleyball
 LOCATION:Chesapeake Employers Insurance Arena\, Baltimore\, Maryland

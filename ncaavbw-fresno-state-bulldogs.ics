@@ -5,27 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Fresno State Bulldogs · NCAA WVB
 BEGIN:VEVENT
-UID:ncaavbw-20261115-boise-state-broncos-fresno-state-bulldogs-dia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:FRESNO STATE BULLDOGS | NCAA WVB | J1 | ✈️ | Boise State Bronco
- s 🇺🇸
-DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Volleybal
- l\nEstadi: Bronco Gym\, Boise\, Idaho
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261115-boise-state-broncos-fresno-state-bulldogs@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T180000Z
-DTEND:20261115T194500Z
-SUMMARY:Boise State Broncos - Fresno State Bulldogs
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Bronco Gym\, Boise\, Idaho
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaavbw-20261118-fresno-state-bulldogs-utah-state-aggies-dia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:FRESNO STATE BULLDOGS | NCAA WVB | J2 | 🏟️ | Utah State Aggies
@@ -35,7 +16,7 @@ DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women Volleybal
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261118-fresno-state-bulldogs-utah-state-aggies@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART:20261118T020000Z
 DTEND:20261118T034500Z
 SUMMARY:Fresno State Bulldogs - Utah State Aggies
@@ -44,17 +25,17 @@ LOCATION:Save Mart Center\, Fresno\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261120-fresno-state-bulldogs-texas-state-bobcats-dia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:FRESNO STATE BULLDOGS | NCAA WVB | J9 | 🏟️ | Texas State Bobca
+SUMMARY:FRESNO STATE BULLDOGS | NCAA WVB | J1 | 🏟️ | Texas State Bobca
  ts 🇺🇸
 DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women Volleybal
  l\nEstadi: Save Mart Center\, Fresno\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261120-fresno-state-bulldogs-texas-state-bobcats@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART:20261120T020000Z
 DTEND:20261120T034500Z
 SUMMARY:Fresno State Bulldogs - Texas State Bobcats

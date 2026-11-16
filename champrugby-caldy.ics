@@ -5,21 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Caldy · Champ Rugby
 BEGIN:VEVENT
-UID:champrugby-20261114-cornish-pirates-caldy-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:CALDY | Champ Rugby | J8 | ✈️ | Cornish Pirates 🇬🇧
-DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Champ Rugby\nEstadi: Mennaye Fi
- eld
+UID:champrugby-20261121-caldy-ealing-trailfinders-dia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CALDY | Champ Rugby | J9 | 🏟️ | Ealing Trailfinders 🇬🇧
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Champ Rugby\nEstadi: Paton Fiel
+ d
 END:VEVENT
 BEGIN:VEVENT
-UID:champrugby-20261114-cornish-pirates-caldy@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T130000Z
-DTEND:20261114T144500Z
-SUMMARY:Cornish Pirates - Caldy
+UID:champrugby-20261121-caldy-ealing-trailfinders@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261121T130000Z
+DTEND:20261121T144500Z
+SUMMARY:Caldy - Ealing Trailfinders
 DESCRIPTION:Champ Rugby
-LOCATION:Mennaye Field
+LOCATION:Paton Field
 END:VEVENT
 END:VCALENDAR

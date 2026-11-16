@@ -5,21 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Richmond · Champ Rugby
 BEGIN:VEVENT
-UID:champrugby-20261114-richmond-nottingham-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:RICHMOND | Champ Rugby | J8 | 🏟️ | Nottingham 🇬🇧
-DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Champ Rugby\nEstadi: Athletic G
- round
+UID:champrugby-20261121-hartpury-richmond-dia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:RICHMOND | Champ Rugby | J9 | ✈️ | Hartpury 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Hartpury S
+ tadium
 END:VEVENT
 BEGIN:VEVENT
-UID:champrugby-20261114-richmond-nottingham@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T130000Z
-DTEND:20261114T144500Z
-SUMMARY:Richmond - Nottingham
+UID:champrugby-20261121-hartpury-richmond@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Hartpury - Richmond
 DESCRIPTION:Champ Rugby
-LOCATION:Athletic Ground
+LOCATION:Hartpury Stadium
 END:VEVENT
 END:VCALENDAR

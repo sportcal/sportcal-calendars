@@ -5,22 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Doncaster Knights · Champ Rugby
 BEGIN:VEVENT
-UID:champrugby-20261113-bedford-blues-doncaster-knights-dia@sportcal
-DTSTAMP:20261113T144837Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:DONCASTER KNIGHTS | Champ Rugby | J8 | ✈️ | Bedford Blues 🇬
- 🇧
-DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Champ Rugby\nEstadi: Goldington
-  Road
+UID:champrugby-20261121-doncaster-knights-chinnor-dia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:DONCASTER KNIGHTS | Champ Rugby | J9 | 🏟️ | Chinnor 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Castle Par
+ k
 END:VEVENT
 BEGIN:VEVENT
-UID:champrugby-20261113-bedford-blues-doncaster-knights@sportcal
-DTSTAMP:20261113T144837Z
-DTSTART:20261113T194500Z
-DTEND:20261113T213000Z
-SUMMARY:Bedford Blues - Doncaster Knights
+UID:champrugby-20261121-doncaster-knights-chinnor@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Doncaster Knights - Chinnor
 DESCRIPTION:Champ Rugby
-LOCATION:Goldington Road
+LOCATION:Castle Park
 END:VEVENT
 END:VCALENDAR

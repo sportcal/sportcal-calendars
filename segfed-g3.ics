@@ -5,20 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Segunda Federación Grupo 3
 BEGIN:VEVENT
-UID:segfed-g3-dia-20261115-j11@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:SEGUNDA FEDERACIÓN G3 | J11
-DESCRIPTION:TBD CD Alcoyano - CF Intercity\nTBD CD Cieza - SCR Peña Deport
- iva\nTBD CD Minera - UD Poblense\nTBD CF La Nucía - Valencia CF Mestalla\
- nTBD CF Lorca Deportiva - RCD Mallorca B\nTBD Elche Ilicitano - CD Atléti
- co Baleares\nTBD Real Murcia Imperial - UCAM Murcia CF\nTBD UD Castellonen
- se - Orihuela CF\nTBD Yeclano Deportivo - CD Castellón B
-END:VEVENT
-BEGIN:VEVENT
 UID:segfed-g3-dia-20261121-j12@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J12
@@ -26,7 +14,7 @@ DESCRIPTION:TBD CF Intercity - UD Poblense\nTBD Elche Ilicitano - CD Minera
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20261122-j12@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J12
@@ -37,7 +25,7 @@ DESCRIPTION:TBD CD Atlético Baleares - Real Murcia Imperial\nTBD CD Castel
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20261125-j12@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J12
@@ -45,27 +33,27 @@ DESCRIPTION:TBD CF Intercity - Real Murcia Imperial
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20261128-j13@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J13
 DESCRIPTION:TBD CD Alcoyano - CF Lorca Deportiva\nTBD CD Atlético Baleares
-  - Orihuela CF
+  - Orihuela CF\nTBD Real Murcia Imperial - CD Castellón B\nTBD Yeclano De
+ portivo - CD Cieza
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20261129-j13@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J13
 DESCRIPTION:TBD CD Minera - Valencia CF Mestalla\nTBD CF Intercity - SCR Pe
- ña Deportiva\nTBD CF La Nucía - UCAM Murcia CF\nTBD Real Murcia Imperial
-  - CD Castellón B\nTBD UD Castellonense - Elche Ilicitano\nTBD UD Poblens
- e - RCD Mallorca B\nTBD Yeclano Deportivo - CD Cieza
+ ña Deportiva\nTBD CF La Nucía - UCAM Murcia CF\nTBD UD Castellonense - E
+ lche Ilicitano\nTBD UD Poblense - RCD Mallorca B
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20261206-j14@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J14
@@ -77,7 +65,7 @@ DESCRIPTION:TBD CD Cieza - CD Castellón B\nTBD CF Lorca Deportiva - CD Min
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20261213-j15@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J15
@@ -89,7 +77,7 @@ DESCRIPTION:TBD CD Alcoyano - Yeclano Deportivo\nTBD CD Castellón B - RCD
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20261220-j16@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J16
@@ -101,7 +89,7 @@ DESCRIPTION:TBD CD Atlético Baleares - CD Castellón B\nTBD CD Cieza - Rea
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270110-j17@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J17
@@ -113,7 +101,7 @@ DESCRIPTION:TBD CD Atlético Baleares - UD Castellonense\nTBD CD Castellón
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270117-j18@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J18
@@ -125,7 +113,7 @@ DESCRIPTION:TBD CD Alcoyano - CD Atlético Baleares\nTBD CD Minera - CD Cie
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270124-j19@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J19
@@ -137,7 +125,7 @@ DESCRIPTION:TBD CD Alcoyano - RCD Mallorca B\nTBD CD Atlético Baleares - E
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270131-j20@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J20
@@ -149,7 +137,7 @@ DESCRIPTION:TBD CD Minera - CD Castellón B\nTBD CF Intercity - CD Cieza\nT
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270206-j21@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J21
@@ -161,7 +149,7 @@ DESCRIPTION:TBD CD Alcoyano - Valencia CF Mestalla\nTBD CD Atlético Balear
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270207-j21@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J21
@@ -169,7 +157,7 @@ DESCRIPTION:TBD SCR Peña Deportiva - CD Minera
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270214-j22@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J22
@@ -181,7 +169,7 @@ DESCRIPTION:TBD CD Cieza - Yeclano Deportivo\nTBD CD Minera - Elche Ilicita
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270221-j23@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J23
@@ -193,7 +181,7 @@ DESCRIPTION:TBD CD Alcoyano - Orihuela CF\nTBD CD Atlético Baleares - CD C
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270228-j24@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J24
@@ -205,7 +193,7 @@ DESCRIPTION:TBD CD Cieza - CD Alcoyano\nTBD CD Minera - UCAM Murcia CF\nTBD
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270307-j25@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J25
@@ -217,7 +205,7 @@ DESCRIPTION:TBD CD Alcoyano - CF La Nucía\nTBD CD Atlético Baleares - CD
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270314-j26@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J26
@@ -229,7 +217,7 @@ DESCRIPTION:TBD CD Cieza - RCD Mallorca B\nTBD CF La Nucía - CD Atlético
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270321-j27@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J27
@@ -241,7 +229,7 @@ DESCRIPTION:TBD CD Alcoyano - UD Castellonense\nTBD CD Atlético Baleares -
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270328-j28@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J28
@@ -253,7 +241,7 @@ DESCRIPTION:TBD CD Castellón B - Yeclano Deportivo\nTBD CF La Nucía - Ori
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270404-j29@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J29
@@ -265,7 +253,7 @@ DESCRIPTION:TBD CD Alcoyano - CD Castellón B\nTBD CD Atlético Baleares -
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270411-j30@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J30
@@ -277,7 +265,7 @@ DESCRIPTION:TBD CD Castellón B - Real Murcia Imperial\nTBD CD Minera - RCD
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270418-j31@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J31
@@ -289,7 +277,7 @@ DESCRIPTION:TBD CD Alcoyano - UCAM Murcia CF\nTBD CD Atlético Baleares - V
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270425-j32@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J32
@@ -301,7 +289,7 @@ DESCRIPTION:TBD CD Castellón B - CD Atlético Baleares\nTBD CD Minera - CF
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270502-j33@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J33
@@ -313,7 +301,7 @@ DESCRIPTION:TBD CD Alcoyano - SCR Peña Deportiva\nTBD CD Atlético Baleare
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-dia-20270509-j34@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:SEGUNDA FEDERACIÓN G3 | J34
@@ -324,89 +312,8 @@ DESCRIPTION:TBD CD Castellón B - Elche Ilicitano\nTBD CD Minera - CD Alcoy
  l Murcia Imperial\nTBD Yeclano Deportivo - RCD Mallorca B
 END:VEVENT
 BEGIN:VEVENT
-UID:segfed-g3-20261115-cd-alcoyano-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:CD Alcoyano - CF Intercity · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
-UID:segfed-g3-20261115-cd-cieza-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:CD Cieza - SCR Peña Deportiva · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
-UID:segfed-g3-20261115-cd-minera-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:CD Minera - UD Poblense · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
-UID:segfed-g3-20261115-cf-la-nucia-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:CF La Nucía - Valencia CF Mestalla · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
-UID:segfed-g3-20261115-cf-lorca-deportiva-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:CF Lorca Deportiva - RCD Mallorca B · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
-UID:segfed-g3-20261115-elche-ilicitano-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Elche Ilicitano - CD Atlético Baleares · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
-UID:segfed-g3-20261115-real-murcia-imperial-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Real Murcia Imperial - UCAM Murcia CF · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
-UID:segfed-g3-20261115-ud-castellonense-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:UD Castellonense - Orihuela CF · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
-UID:segfed-g3-20261115-yeclano-deportivo-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Yeclano Deportivo - CD Castellón B · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
 UID:segfed-g3-20261121-cf-intercity-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:CF Intercity - UD Poblense · TBD
@@ -415,7 +322,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261121-elche-ilicitano-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Elche Ilicitano - CD Minera · TBD
@@ -424,7 +331,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261122-cd-atletico-baleares-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:CD Atlético Baleares - Real Murcia Imperial · TBD
@@ -433,7 +340,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261122-cd-castellon-b-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:CD Castellón B - UD Castellonense · TBD
@@ -442,7 +349,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261122-orihuela-cf-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Orihuela CF - CF La Nucía · TBD
@@ -451,7 +358,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261122-rcd-mallorca-b-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:RCD Mallorca B - CD Cieza · TBD
@@ -460,7 +367,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261122-scr-pena-deportiva-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:SCR Peña Deportiva - CF Lorca Deportiva · TBD
@@ -469,7 +376,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261122-ucam-murcia-cf-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:UCAM Murcia CF - Yeclano Deportivo · TBD
@@ -478,7 +385,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261122-valencia-cf-mestalla-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Valencia CF Mestalla - CD Alcoyano · TBD
@@ -487,7 +394,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261125-cf-intercity-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:CF Intercity - Real Murcia Imperial · TBD
@@ -496,7 +403,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261128-cd-alcoyano-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:CD Alcoyano - CF Lorca Deportiva · TBD
@@ -505,7 +412,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261128-cd-atletico-baleares-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:CD Atlético Baleares - Orihuela CF · TBD
@@ -513,8 +420,26 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Segunda Federación Grupo 3
 END:VEVENT
 BEGIN:VEVENT
+UID:segfed-g3-20261128-real-murcia-imperial-cd-castellon-b@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Real Murcia Imperial - CD Castellón B · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Segunda Federación Grupo 3
+END:VEVENT
+BEGIN:VEVENT
+UID:segfed-g3-20261128-yeclano-deportivo-cd-cieza@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Yeclano Deportivo - CD Cieza · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Segunda Federación Grupo 3
+END:VEVENT
+BEGIN:VEVENT
 UID:segfed-g3-20261129-cd-minera-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:CD Minera - Valencia CF Mestalla · TBD
@@ -523,7 +448,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261129-cf-intercity-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:CF Intercity - SCR Peña Deportiva · TBD
@@ -532,7 +457,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261129-cf-la-nucia-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:CF La Nucía - UCAM Murcia CF · TBD
@@ -540,17 +465,8 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Segunda Federación Grupo 3
 END:VEVENT
 BEGIN:VEVENT
-UID:segfed-g3-20261129-real-murcia-imperial-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:Real Murcia Imperial - CD Castellón B · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
 UID:segfed-g3-20261129-ud-castellonense-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:UD Castellonense - Elche Ilicitano · TBD
@@ -559,7 +475,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261129-ud-poblense-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:UD Poblense - RCD Mallorca B · TBD
@@ -567,17 +483,8 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Segunda Federación Grupo 3
 END:VEVENT
 BEGIN:VEVENT
-UID:segfed-g3-20261129-yeclano-deportivo-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:Yeclano Deportivo - CD Cieza · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Segunda Federación Grupo 3
-END:VEVENT
-BEGIN:VEVENT
 UID:segfed-g3-20261206-cd-cieza-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:CD Cieza - CD Castellón B · TBD
@@ -586,7 +493,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261206-cf-lorca-deportiva-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:CF Lorca Deportiva - CD Minera · TBD
@@ -595,7 +502,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261206-elche-ilicitano-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Elche Ilicitano - Real Murcia Imperial · TBD
@@ -604,7 +511,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261206-orihuela-cf-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Orihuela CF - CD Alcoyano · TBD
@@ -613,7 +520,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261206-rcd-mallorca-b-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:RCD Mallorca B - CF Intercity · TBD
@@ -622,7 +529,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261206-scr-pena-deportiva-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:SCR Peña Deportiva - CF La Nucía · TBD
@@ -631,7 +538,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261206-ucam-murcia-cf-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:UCAM Murcia CF - UD Poblense · TBD
@@ -640,7 +547,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261206-valencia-cf-mestalla-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Valencia CF Mestalla - CD Atlético Baleares · TBD
@@ -649,7 +556,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261206-yeclano-deportivo-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Yeclano Deportivo - UD Castellonense · TBD
@@ -658,7 +565,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261213-cd-alcoyano-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:CD Alcoyano - Yeclano Deportivo · TBD
@@ -667,7 +574,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261213-cd-castellon-b-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:CD Castellón B - RCD Mallorca B · TBD
@@ -676,7 +583,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261213-cd-minera-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:CD Minera - CD Atlético Baleares · TBD
@@ -685,7 +592,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261213-cf-intercity-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:CF Intercity - Orihuela CF · TBD
@@ -694,7 +601,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261213-cf-la-nucia-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:CF La Nucía - CD Cieza · TBD
@@ -703,7 +610,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261213-cf-lorca-deportiva-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:CF Lorca Deportiva - UCAM Murcia CF · TBD
@@ -712,7 +619,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261213-real-murcia-imperial-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Real Murcia Imperial - Valencia CF Mestalla · TBD
@@ -721,7 +628,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261213-ud-castellonense-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:UD Castellonense - SCR Peña Deportiva · TBD
@@ -730,7 +637,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261213-ud-poblense-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:UD Poblense - Elche Ilicitano · TBD
@@ -739,7 +646,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261220-cd-atletico-baleares-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:CD Atlético Baleares - CD Castellón B · TBD
@@ -748,7 +655,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261220-cd-cieza-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:CD Cieza - Real Murcia Imperial · TBD
@@ -757,7 +664,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261220-elche-ilicitano-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Elche Ilicitano - CF La Nucía · TBD
@@ -766,7 +673,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261220-rcd-mallorca-b-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:RCD Mallorca B - UD Castellonense · TBD
@@ -775,7 +682,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261220-scr-pena-deportiva-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:SCR Peña Deportiva - CD Alcoyano · TBD
@@ -784,7 +691,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261220-ucam-murcia-cf-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:UCAM Murcia CF - CD Minera · TBD
@@ -793,7 +700,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261220-ud-poblense-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:UD Poblense - Orihuela CF · TBD
@@ -802,7 +709,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261220-valencia-cf-mestalla-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Valencia CF Mestalla - CF Intercity · TBD
@@ -811,7 +718,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20261220-yeclano-deportivo-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Yeclano Deportivo - CF Lorca Deportiva · TBD
@@ -820,7 +727,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270110-cd-atletico-baleares-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:CD Atlético Baleares - UD Castellonense · TBD
@@ -829,7 +736,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270110-cd-castellon-b-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:CD Castellón B - UCAM Murcia CF · TBD
@@ -838,7 +745,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270110-cd-cieza-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:CD Cieza - CF Lorca Deportiva · TBD
@@ -847,7 +754,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270110-cf-intercity-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:CF Intercity - CD Minera · TBD
@@ -856,7 +763,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270110-cf-la-nucia-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:CF La Nucía - CD Alcoyano · TBD
@@ -865,7 +772,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270110-orihuela-cf-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Orihuela CF - Elche Ilicitano · TBD
@@ -874,7 +781,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270110-rcd-mallorca-b-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:RCD Mallorca B - SCR Peña Deportiva · TBD
@@ -883,7 +790,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270110-real-murcia-imperial-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Real Murcia Imperial - UD Poblense · TBD
@@ -892,7 +799,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270110-valencia-cf-mestalla-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Valencia CF Mestalla - Yeclano Deportivo · TBD
@@ -901,7 +808,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270117-cd-alcoyano-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:CD Alcoyano - CD Atlético Baleares · TBD
@@ -910,7 +817,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270117-cd-minera-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:CD Minera - CD Cieza · TBD
@@ -919,7 +826,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270117-cf-intercity-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:CF Intercity - CD Castellón B · TBD
@@ -928,7 +835,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270117-cf-lorca-deportiva-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:CF Lorca Deportiva - Real Murcia Imperial · TBD
@@ -937,7 +844,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270117-elche-ilicitano-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Elche Ilicitano - RCD Mallorca B · TBD
@@ -946,7 +853,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270117-orihuela-cf-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Orihuela CF - Yeclano Deportivo · TBD
@@ -955,7 +862,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270117-ucam-murcia-cf-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:UCAM Murcia CF - SCR Peña Deportiva · TBD
@@ -964,7 +871,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270117-ud-castellonense-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:UD Castellonense - Valencia CF Mestalla · TBD
@@ -973,7 +880,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270117-ud-poblense-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:UD Poblense - CF La Nucía · TBD
@@ -982,7 +889,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270124-cd-alcoyano-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:CD Alcoyano - RCD Mallorca B · TBD
@@ -991,7 +898,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270124-cd-atletico-baleares-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:CD Atlético Baleares - Elche Ilicitano · TBD
@@ -1000,7 +907,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270124-cd-castellon-b-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:CD Castellón B - Orihuela CF · TBD
@@ -1009,7 +916,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270124-cd-cieza-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:CD Cieza - UCAM Murcia CF · TBD
@@ -1018,7 +925,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270124-real-murcia-imperial-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Real Murcia Imperial - CF Intercity · TBD
@@ -1027,7 +934,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270124-scr-pena-deportiva-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:SCR Peña Deportiva - UD Poblense · TBD
@@ -1036,7 +943,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270124-ud-castellonense-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:UD Castellonense - CF Lorca Deportiva · TBD
@@ -1045,7 +952,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270124-valencia-cf-mestalla-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Valencia CF Mestalla - CF La Nucía · TBD
@@ -1054,7 +961,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270124-yeclano-deportivo-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Yeclano Deportivo - CD Minera · TBD
@@ -1063,7 +970,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270131-cd-minera-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:CD Minera - CD Castellón B · TBD
@@ -1072,7 +979,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270131-cf-intercity-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:CF Intercity - CD Cieza · TBD
@@ -1081,7 +988,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270131-cf-la-nucia-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:CF La Nucía - UD Castellonense · TBD
@@ -1090,7 +997,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270131-cf-lorca-deportiva-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:CF Lorca Deportiva - Valencia CF Mestalla · TBD
@@ -1099,7 +1006,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270131-elche-ilicitano-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Elche Ilicitano - CD Alcoyano · TBD
@@ -1108,7 +1015,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270131-orihuela-cf-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Orihuela CF - SCR Peña Deportiva · TBD
@@ -1117,7 +1024,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270131-rcd-mallorca-b-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:RCD Mallorca B - CD Atlético Baleares · TBD
@@ -1126,7 +1033,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270131-ucam-murcia-cf-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:UCAM Murcia CF - Real Murcia Imperial · TBD
@@ -1135,7 +1042,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270131-ud-poblense-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:UD Poblense - Yeclano Deportivo · TBD
@@ -1144,7 +1051,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270206-cd-alcoyano-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:CD Alcoyano - Valencia CF Mestalla · TBD
@@ -1153,7 +1060,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270206-cd-atletico-baleares-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:CD Atlético Baleares - CF Intercity · TBD
@@ -1162,7 +1069,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270206-cd-castellon-b-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:CD Castellón B - UD Poblense · TBD
@@ -1171,7 +1078,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270206-cd-cieza-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:CD Cieza - Orihuela CF · TBD
@@ -1180,7 +1087,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270206-elche-ilicitano-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Elche Ilicitano - UD Castellonense · TBD
@@ -1189,7 +1096,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270206-rcd-mallorca-b-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:RCD Mallorca B - CF Lorca Deportiva · TBD
@@ -1198,7 +1105,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270206-real-murcia-imperial-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Real Murcia Imperial - CF La Nucía · TBD
@@ -1207,7 +1114,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270206-yeclano-deportivo-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Yeclano Deportivo - UCAM Murcia CF · TBD
@@ -1216,7 +1123,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270207-scr-pena-deportiva-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:SCR Peña Deportiva - CD Minera · TBD
@@ -1225,7 +1132,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270214-cd-cieza-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:CD Cieza - Yeclano Deportivo · TBD
@@ -1234,7 +1141,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270214-cd-minera-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:CD Minera - Elche Ilicitano · TBD
@@ -1243,7 +1150,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270214-cf-intercity-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:CF Intercity - CD Alcoyano · TBD
@@ -1252,7 +1159,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270214-cf-la-nucia-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:CF La Nucía - SCR Peña Deportiva · TBD
@@ -1261,7 +1168,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270214-cf-lorca-deportiva-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:CF Lorca Deportiva - CD Castellón B · TBD
@@ -1270,7 +1177,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270214-orihuela-cf-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Orihuela CF - RCD Mallorca B · TBD
@@ -1279,7 +1186,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270214-real-murcia-imperial-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Real Murcia Imperial - CD Atlético Baleares · TBD
@@ -1288,7 +1195,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270214-ud-castellonense-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:UD Castellonense - UD Poblense · TBD
@@ -1297,7 +1204,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270214-valencia-cf-mestalla-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Valencia CF Mestalla - UCAM Murcia CF · TBD
@@ -1306,7 +1213,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270221-cd-alcoyano-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:CD Alcoyano - Orihuela CF · TBD
@@ -1315,7 +1222,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270221-cd-atletico-baleares-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:CD Atlético Baleares - CD Cieza · TBD
@@ -1324,7 +1231,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270221-cd-castellon-b-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:CD Castellón B - Valencia CF Mestalla · TBD
@@ -1333,7 +1240,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270221-elche-ilicitano-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Elche Ilicitano - CF Intercity · TBD
@@ -1342,7 +1249,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270221-rcd-mallorca-b-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:RCD Mallorca B - CF La Nucía · TBD
@@ -1351,7 +1258,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270221-scr-pena-deportiva-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:SCR Peña Deportiva - UD Castellonense · TBD
@@ -1360,7 +1267,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270221-ucam-murcia-cf-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:UCAM Murcia CF - CF Lorca Deportiva · TBD
@@ -1369,7 +1276,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270221-ud-poblense-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:UD Poblense - CD Minera · TBD
@@ -1378,7 +1285,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270221-yeclano-deportivo-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Yeclano Deportivo - Real Murcia Imperial · TBD
@@ -1387,7 +1294,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270228-cd-cieza-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:CD Cieza - CD Alcoyano · TBD
@@ -1396,7 +1303,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270228-cd-minera-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:CD Minera - UCAM Murcia CF · TBD
@@ -1405,7 +1312,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270228-cf-intercity-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:CF Intercity - RCD Mallorca B · TBD
@@ -1414,7 +1321,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270228-cf-la-nucia-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:CF La Nucía - Yeclano Deportivo · TBD
@@ -1423,7 +1330,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270228-cf-lorca-deportiva-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:CF Lorca Deportiva - SCR Peña Deportiva · TBD
@@ -1432,7 +1339,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270228-orihuela-cf-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Orihuela CF - CD Atlético Baleares · TBD
@@ -1441,7 +1348,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270228-real-murcia-imperial-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Real Murcia Imperial - Elche Ilicitano · TBD
@@ -1450,7 +1357,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270228-ud-castellonense-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:UD Castellonense - CD Castellón B · TBD
@@ -1459,7 +1366,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270228-valencia-cf-mestalla-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Valencia CF Mestalla - UD Poblense · TBD
@@ -1468,7 +1375,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270307-cd-alcoyano-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:CD Alcoyano - CF La Nucía · TBD
@@ -1477,7 +1384,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270307-cd-atletico-baleares-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:CD Atlético Baleares - CD Minera · TBD
@@ -1486,7 +1393,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270307-cd-castellon-b-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:CD Castellón B - CD Cieza · TBD
@@ -1495,7 +1402,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270307-elche-ilicitano-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Elche Ilicitano - Orihuela CF · TBD
@@ -1504,7 +1411,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270307-rcd-mallorca-b-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:RCD Mallorca B - Real Murcia Imperial · TBD
@@ -1513,7 +1420,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270307-scr-pena-deportiva-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:SCR Peña Deportiva - Valencia CF Mestalla · TBD
@@ -1522,7 +1429,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270307-ucam-murcia-cf-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:UCAM Murcia CF - UD Castellonense · TBD
@@ -1531,7 +1438,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270307-ud-poblense-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:UD Poblense - CF Lorca Deportiva · TBD
@@ -1540,7 +1447,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270307-yeclano-deportivo-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Yeclano Deportivo - CF Intercity · TBD
@@ -1549,7 +1456,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270314-cd-cieza-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:CD Cieza - RCD Mallorca B · TBD
@@ -1558,7 +1465,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270314-cf-la-nucia-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:CF La Nucía - CD Atlético Baleares · TBD
@@ -1567,7 +1474,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270314-cf-lorca-deportiva-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:CF Lorca Deportiva - Yeclano Deportivo · TBD
@@ -1576,7 +1483,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270314-orihuela-cf-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Orihuela CF - CF Intercity · TBD
@@ -1585,7 +1492,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270314-real-murcia-imperial-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Real Murcia Imperial - CD Alcoyano · TBD
@@ -1594,7 +1501,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270314-scr-pena-deportiva-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:SCR Peña Deportiva - CD Castellón B · TBD
@@ -1603,7 +1510,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270314-ud-castellonense-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:UD Castellonense - CD Minera · TBD
@@ -1612,7 +1519,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270314-ud-poblense-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:UD Poblense - UCAM Murcia CF · TBD
@@ -1621,7 +1528,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270314-valencia-cf-mestalla-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Valencia CF Mestalla - Elche Ilicitano · TBD
@@ -1630,7 +1537,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270321-cd-alcoyano-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:CD Alcoyano - UD Castellonense · TBD
@@ -1639,7 +1546,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270321-cd-atletico-baleares-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:CD Atlético Baleares - SCR Peña Deportiva · TBD
@@ -1648,7 +1555,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270321-cd-minera-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:CD Minera - CF Lorca Deportiva · TBD
@@ -1657,7 +1564,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270321-cf-intercity-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:CF Intercity - CF La Nucía · TBD
@@ -1666,7 +1573,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270321-elche-ilicitano-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Elche Ilicitano - CD Cieza · TBD
@@ -1675,7 +1582,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270321-orihuela-cf-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Orihuela CF - Real Murcia Imperial · TBD
@@ -1684,7 +1591,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270321-rcd-mallorca-b-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:RCD Mallorca B - UD Poblense · TBD
@@ -1693,7 +1600,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270321-ucam-murcia-cf-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:UCAM Murcia CF - CD Castellón B · TBD
@@ -1702,7 +1609,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270321-yeclano-deportivo-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Yeclano Deportivo - Valencia CF Mestalla · TBD
@@ -1711,7 +1618,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270328-cd-castellon-b-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:CD Castellón B - Yeclano Deportivo · TBD
@@ -1720,7 +1627,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270328-cf-la-nucia-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:CF La Nucía - Orihuela CF · TBD
@@ -1729,7 +1636,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270328-cf-lorca-deportiva-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:CF Lorca Deportiva - CD Alcoyano · TBD
@@ -1738,7 +1645,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270328-real-murcia-imperial-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Real Murcia Imperial - CD Cieza · TBD
@@ -1747,7 +1654,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270328-scr-pena-deportiva-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:SCR Peña Deportiva - RCD Mallorca B · TBD
@@ -1756,7 +1663,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270328-ucam-murcia-cf-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:UCAM Murcia CF - Elche Ilicitano · TBD
@@ -1765,7 +1672,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270328-ud-castellonense-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:UD Castellonense - CF Intercity · TBD
@@ -1774,7 +1681,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270328-ud-poblense-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:UD Poblense - CD Atlético Baleares · TBD
@@ -1783,7 +1690,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270328-valencia-cf-mestalla-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Valencia CF Mestalla - CD Minera · TBD
@@ -1792,7 +1699,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270404-cd-alcoyano-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:CD Alcoyano - CD Castellón B · TBD
@@ -1801,7 +1708,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270404-cd-atletico-baleares-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:CD Atlético Baleares - CF Lorca Deportiva · TBD
@@ -1810,7 +1717,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270404-cd-cieza-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:CD Cieza - CF La Nucía · TBD
@@ -1819,7 +1726,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270404-cd-minera-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:CD Minera - Real Murcia Imperial · TBD
@@ -1828,7 +1735,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270404-cf-intercity-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:CF Intercity - Valencia CF Mestalla · TBD
@@ -1837,7 +1744,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270404-elche-ilicitano-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Elche Ilicitano - UD Poblense · TBD
@@ -1846,7 +1753,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270404-orihuela-cf-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Orihuela CF - UD Castellonense · TBD
@@ -1855,7 +1762,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270404-rcd-mallorca-b-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:RCD Mallorca B - UCAM Murcia CF · TBD
@@ -1864,7 +1771,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270404-yeclano-deportivo-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Yeclano Deportivo - SCR Peña Deportiva · TBD
@@ -1873,7 +1780,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270411-cd-castellon-b-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:CD Castellón B - Real Murcia Imperial · TBD
@@ -1882,7 +1789,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270411-cd-minera-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:CD Minera - RCD Mallorca B · TBD
@@ -1891,7 +1798,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270411-cf-la-nucia-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:CF La Nucía - Elche Ilicitano · TBD
@@ -1900,7 +1807,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270411-cf-lorca-deportiva-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:CF Lorca Deportiva - CD Cieza · TBD
@@ -1909,7 +1816,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270411-scr-pena-deportiva-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:SCR Peña Deportiva - CF Intercity · TBD
@@ -1918,7 +1825,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270411-ucam-murcia-cf-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:UCAM Murcia CF - CD Atlético Baleares · TBD
@@ -1927,7 +1834,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270411-ud-castellonense-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:UD Castellonense - Yeclano Deportivo · TBD
@@ -1936,7 +1843,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270411-ud-poblense-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:UD Poblense - CD Alcoyano · TBD
@@ -1945,7 +1852,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270411-valencia-cf-mestalla-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Valencia CF Mestalla - Orihuela CF · TBD
@@ -1954,7 +1861,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270418-cd-alcoyano-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:CD Alcoyano - UCAM Murcia CF · TBD
@@ -1963,7 +1870,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270418-cd-atletico-baleares-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:CD Atlético Baleares - Valencia CF Mestalla · TBD
@@ -1972,7 +1879,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270418-cd-cieza-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:CD Cieza - UD Castellonense · TBD
@@ -1981,7 +1888,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270418-cf-intercity-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:CF Intercity - CF Lorca Deportiva · TBD
@@ -1990,7 +1897,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270418-cf-la-nucia-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:CF La Nucía - CD Minera · TBD
@@ -1999,7 +1906,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270418-elche-ilicitano-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Elche Ilicitano - Yeclano Deportivo · TBD
@@ -2008,7 +1915,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270418-orihuela-cf-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Orihuela CF - UD Poblense · TBD
@@ -2017,7 +1924,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270418-rcd-mallorca-b-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:RCD Mallorca B - CD Castellón B · TBD
@@ -2026,7 +1933,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270418-real-murcia-imperial-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Real Murcia Imperial - SCR Peña Deportiva · TBD
@@ -2035,7 +1942,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270425-cd-castellon-b-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:CD Castellón B - CD Atlético Baleares · TBD
@@ -2044,7 +1951,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270425-cd-minera-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:CD Minera - CF Intercity · TBD
@@ -2053,7 +1960,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270425-cf-lorca-deportiva-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:CF Lorca Deportiva - Orihuela CF · TBD
@@ -2062,7 +1969,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270425-scr-pena-deportiva-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:SCR Peña Deportiva - Elche Ilicitano · TBD
@@ -2071,7 +1978,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270425-ucam-murcia-cf-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:UCAM Murcia CF - CF La Nucía · TBD
@@ -2080,7 +1987,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270425-ud-castellonense-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:UD Castellonense - RCD Mallorca B · TBD
@@ -2089,7 +1996,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270425-ud-poblense-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:UD Poblense - Real Murcia Imperial · TBD
@@ -2098,7 +2005,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270425-valencia-cf-mestalla-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:Valencia CF Mestalla - CD Cieza · TBD
@@ -2107,7 +2014,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270425-yeclano-deportivo-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:Yeclano Deportivo - CD Alcoyano · TBD
@@ -2116,7 +2023,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270502-cd-alcoyano-scr-pena-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:CD Alcoyano - SCR Peña Deportiva · TBD
@@ -2125,7 +2032,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270502-cd-atletico-baleares-yeclano-deportivo@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:CD Atlético Baleares - Yeclano Deportivo · TBD
@@ -2134,7 +2041,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270502-cd-cieza-ud-poblense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:CD Cieza - UD Poblense · TBD
@@ -2143,7 +2050,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270502-cf-intercity-ucam-murcia-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:CF Intercity - UCAM Murcia CF · TBD
@@ -2152,7 +2059,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270502-cf-la-nucia-cd-castellon-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:CF La Nucía - CD Castellón B · TBD
@@ -2161,7 +2068,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270502-elche-ilicitano-cf-lorca-deportiva@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Elche Ilicitano - CF Lorca Deportiva · TBD
@@ -2170,7 +2077,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270502-orihuela-cf-cd-minera@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Orihuela CF - CD Minera · TBD
@@ -2179,7 +2086,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270502-rcd-mallorca-b-valencia-cf-mestalla@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:RCD Mallorca B - Valencia CF Mestalla · TBD
@@ -2188,7 +2095,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270502-real-murcia-imperial-ud-castellonense@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Real Murcia Imperial - UD Castellonense · TBD
@@ -2197,7 +2104,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270509-cd-castellon-b-elche-ilicitano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:CD Castellón B - Elche Ilicitano · TBD
@@ -2206,7 +2113,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270509-cd-minera-cd-alcoyano@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:CD Minera - CD Alcoyano · TBD
@@ -2215,7 +2122,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270509-cf-lorca-deportiva-cf-la-nucia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:CF Lorca Deportiva - CF La Nucía · TBD
@@ -2224,7 +2131,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270509-scr-pena-deportiva-cd-cieza@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:SCR Peña Deportiva - CD Cieza · TBD
@@ -2233,7 +2140,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270509-ucam-murcia-cf-orihuela-cf@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:UCAM Murcia CF - Orihuela CF · TBD
@@ -2242,7 +2149,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270509-ud-castellonense-cd-atletico-baleares@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:UD Castellonense - CD Atlético Baleares · TBD
@@ -2251,7 +2158,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270509-ud-poblense-cf-intercity@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:UD Poblense - CF Intercity · TBD
@@ -2260,7 +2167,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270509-valencia-cf-mestalla-real-murcia-imperial@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Valencia CF Mestalla - Real Murcia Imperial · TBD
@@ -2269,7 +2176,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:segfed-g3-20270509-yeclano-deportivo-rcd-mallorca-b@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Yeclano Deportivo - RCD Mallorca B · TBD

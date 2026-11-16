@@ -5,22 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bedford Blues · Champ Rugby
 BEGIN:VEVENT
-UID:champrugby-20261113-bedford-blues-doncaster-knights-dia@sportcal
-DTSTAMP:20261113T144837Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:BEDFORD BLUES | Champ Rugby | J8 | 🏟️ | Doncaster Knights 🇬
- 🇧
-DESCRIPTION:Inici: 20:45 (Europe/Madrid) · Champ Rugby\nEstadi: Goldington
-  Road
+UID:champrugby-20261121-ampthill-bedford-blues-dia@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:BEDFORD BLUES | Champ Rugby | J9 | ✈️ | Ampthill 🇬🇧
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Champ Rugby\nEstadi: Dillingham
+  Park
 END:VEVENT
 BEGIN:VEVENT
-UID:champrugby-20261113-bedford-blues-doncaster-knights@sportcal
-DTSTAMP:20261113T144837Z
-DTSTART:20261113T194500Z
-DTEND:20261113T213000Z
-SUMMARY:Bedford Blues - Doncaster Knights
+UID:champrugby-20261121-ampthill-bedford-blues@sportcal
+DTSTAMP:20261116T103333Z
+DTSTART:20261121T120000Z
+DTEND:20261121T134500Z
+SUMMARY:Ampthill - Bedford Blues
 DESCRIPTION:Champ Rugby
-LOCATION:Goldington Road
+LOCATION:Dillingham Park
 END:VEVENT
 END:VCALENDAR

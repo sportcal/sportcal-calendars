@@ -5,26 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Scotland · Nations Champ
 BEGIN:VEVENT
-UID:nationschamp-20261115-scotland-australia-dia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:SCOTLAND | Nations Champ | J5 | 🏟️ | Australia
-DESCRIPTION:Inici: 16:10 (Europe/Madrid) · Nations Championship\nEstadi: S
- cottish Gas Murrayfield\, Edinburgh\, Scotland
-END:VEVENT
-BEGIN:VEVENT
-UID:nationschamp-20261115-scotland-australia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T151000Z
-DTEND:20261115T165500Z
-SUMMARY:Scotland - Australia
-DESCRIPTION:Nations Championship
-LOCATION:Scottish Gas Murrayfield\, Edinburgh\, Scotland
-END:VEVENT
-BEGIN:VEVENT
 UID:nationschamp-20261121-scotland-japan-dia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:SCOTLAND | Nations Champ | J6 | 🏟️ | Japan
@@ -33,7 +15,7 @@ DESCRIPTION:Inici: 15:10 (Europe/Madrid) · Nations Championship\nEstadi: S
 END:VEVENT
 BEGIN:VEVENT
 UID:nationschamp-20261121-scotland-japan@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART:20261121T141000Z
 DTEND:20261121T155500Z
 SUMMARY:Scotland - Japan

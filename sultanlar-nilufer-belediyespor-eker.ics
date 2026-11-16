@@ -5,28 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Nilüfer Belediyespor Eker · Sultanlar Ligi
 BEGIN:VEVENT
-UID:sultanlar-20261115-fenerbahce-medicana-nilufer-belediyespor-eker-dia@sp
- ortcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:NILÜFER BELEDIYESPOR EKER | Sultanlar Ligi | J9 | ✈️ | Fenerba
- hçe Medicana 🇹🇷
-DESCRIPTION:Inici: 11:00 (Europe/Madrid) · Sultanlar Ligi
-END:VEVENT
-BEGIN:VEVENT
-UID:sultanlar-20261115-fenerbahce-medicana-nilufer-belediyespor-eker@sportc
- al
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T100000Z
-DTEND:20261115T114500Z
-SUMMARY:Fenerbahçe Medicana - Nilüfer Belediyespor Eker
-DESCRIPTION:Sultanlar Ligi
-END:VEVENT
-BEGIN:VEVENT
 UID:sultanlar-20261122-nilufer-belediyespor-eker-manisa-buyuksehir-belediye
  spor-dia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:NILÜFER BELEDIYESPOR EKER | Sultanlar Ligi | J10 | 🏟️ | Manis
@@ -36,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sultanlar-20261122-nilufer-belediyespor-eker-manisa-buyuksehir-belediye
  spor@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART:20261122T130000Z
 DTEND:20261122T144500Z
 SUMMARY:Nilüfer Belediyespor Eker - Manisa Büyükşehir Belediyespor
@@ -44,7 +25,7 @@ DESCRIPTION:Sultanlar Ligi
 END:VEVENT
 BEGIN:VEVENT
 UID:sultanlar-20261129-besiktas-nilufer-belediyespor-eker-dia@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:NILÜFER BELEDIYESPOR EKER | Sultanlar Ligi | J11 | ✈️ | Beşik
@@ -53,7 +34,7 @@ DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Sultanlar Ligi
 END:VEVENT
 BEGIN:VEVENT
 UID:sultanlar-20261129-besiktas-nilufer-belediyespor-eker@sportcal
-DTSTAMP:20261115T095717Z
+DTSTAMP:20261116T103333Z
 DTSTART:20261129T160000Z
 DTEND:20261129T174500Z
 SUMMARY:Beşiktaş - Nilüfer Belediyespor Eker
