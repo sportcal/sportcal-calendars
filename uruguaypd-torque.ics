@@ -5,20 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Torque · Primera División
 BEGIN:VEVENT
-UID:uruguaypd-20261113-torque-racing-club-de-montevideo-dia@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:TORQUE | Primera División | J36 | 🏟️ | Racing Club de Montevi
- deo 🇺🇾
+UID:uruguaypd-20261119-progreso-torque-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:TORQUE | Primera División | J37 | ✈️ | Progreso 🇺🇾
 DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Uruguayan Primera División
 END:VEVENT
 BEGIN:VEVENT
-UID:uruguaypd-20261113-torque-racing-club-de-montevideo@sportcal
-DTSTAMP:20261113T133901Z
-DTSTART:20261113T193000Z
-DTEND:20261113T211500Z
-SUMMARY:Torque - Racing Club de Montevideo
+UID:uruguaypd-20261119-progreso-torque@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261119T193000Z
+DTEND:20261119T211500Z
+SUMMARY:Progreso - Torque
 DESCRIPTION:Uruguayan Primera División
 END:VEVENT
 END:VCALENDAR

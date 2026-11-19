@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Missouri State Bears · NCAA MS
+BEGIN:VEVENT
+UID:ncaasoccerm-20261120-missouri-state-bears-saint-louis-billikens-dia@spo
+ rtcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:MISSOURI STATE BEARS | NCAA MS | J2 | 🏟️ | Saint Louis Billike
+ ns 🇺🇸
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I Men Soccer\nEst
+ adi: Betty and Bobby Allison South Stadium\, Springfield
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261120-missouri-state-bears-saint-louis-billikens@sportca
+ l
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T003000Z
+DTEND:20261120T021500Z
+SUMMARY:Missouri State Bears - Saint Louis Billikens
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Betty and Bobby Allison South Stadium\, Springfield
+END:VEVENT
+END:VCALENDAR

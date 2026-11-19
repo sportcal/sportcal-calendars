@@ -6,28 +6,69 @@ METHOD:PUBLISH
 X-WR-CALNAME:NCAA Division I Women Soccer
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261120-j1@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J1
-DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
- erminar\nPartits per determinar\nPartits per determinar\nPartits per deter
- minar\nPartits per determinar\nPartits per determinar\nPartits per determi
- nar\nPartits per determinar\nPartits per determinar\nPartits per determina
- r\nPartits per determinar\nPartits per determinar\nPartits per determinar\
- nPartits per determinar\nPartits per determinar\nPartits per determinar\nP
- artits per determinar\nPartits per determinar\nPartits per determinar\nPar
- tits per determinar\nPartits per determinar\nPartits per determinar\nParti
- ts per determinar\nPartits per determinar\nPartits per determinar\nPartits
-  per determinar\nPartits per determinar\nPartits per determinar\nPartits p
- er determinar\nPartits per determinar
+DESCRIPTION:23:00 Florida State Seminoles - UCF Knights
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerw-dia-20261127-j65@sportcal
-DTSTAMP:20261116T103333Z
+UID:ncaasoccerw-dia-20261120-j2@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:NCAA DIVISION I WOMEN SOCCER | J2
+DESCRIPTION:20:00 Purdue Boilermakers - Southern Illinois Salukis\n21:00 Vi
+ rginia Cavaliers - Bryant Bulldogs
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-dia-20261121-j1@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:NCAA DIVISION I WOMEN SOCCER | J1
+DESCRIPTION:00:00 Louisville Cardinals - Wisconsin Badgers\n00:00 Michigan 
+ Wolverines - Western Michigan Broncos\n00:00 Notre Dame Fighting Irish - M
+ ilwaukee Panthers\n00:00 Ohio State Buckeyes - Lipscomb Bisons\n00:00 Penn
+  State Nittany Lions - Villanova Wildcats\n00:00 Tennessee Volunteers - Li
+ berty Lady Flames\n00:30 Kansas Jayhawks - Oral Roberts Golden Eagles\n01:
+ 00 Mississippi State Bulldogs - Samford Bulldogs\n01:00 Texas Longhorns - 
+ Houston Cougars\n01:00 Texas Tech Red Raiders - Abilene Christian Wildcats
+ \n01:00 Vanderbilt Commodores - UT Martin Skyhawks\n01:00 West Virginia Mo
+ untaineers - Old Dominion Monarchs\n01:30 Auburn Tigers - Washington Huski
+ es\n01:30 Kentucky Wildcats - Virginia Tech Hokies\n02:00 Alabama Crimson 
+ Tide - Jackson State Tigers\n02:00 BYU Cougars - Weber State Wildcats\n03:
+ 00 Colorado Buffaloes - Air Force Falcons\n03:00 Stanford Cardinal - Santa
+  Clara Broncos\n20:00 Duke Blue Devils - UNC Wilmington Seahawks\n23:00 Cl
+ emson Tigers - Brown Bears
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-dia-20261121-j2@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:NCAA DIVISION I WOMEN SOCCER | J2
+DESCRIPTION:00:00 South Carolina Gamecocks - UAB Blazers\n02:00 Baylor Bear
+ s - Lamar Lady Cardinals\n02:00 Utah State Aggies - Utah Valley Wolverines
+ \n21:30 Michigan State Spartans - Central Connecticut Blue Devils
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-dia-20261122-j2@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:NCAA DIVISION I WOMEN SOCCER | J2
+DESCRIPTION:00:00 North Carolina Tar Heels - UNC Asheville Bulldogs\n00:00 
+ Wake Forest Demon Deacons - Boston University Terriers\n00:30 Xavier Muske
+ teers - Oklahoma Sooners\n01:00 Arkansas Razorbacks - Saint Louis Billiken
+ s\n04:00 UCLA Bruins - Quinnipiac Bobcats
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-dia-20261127-j1@sportcal
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:NCAA DIVISION I WOMEN SOCCER | J65
+SUMMARY:NCAA DIVISION I WOMEN SOCCER | J1
 DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
  erminar\nPartits per determinar\nPartits per determinar\nPartits per deter
  minar\nPartits per determinar\nPartits per determinar\nPartits per determi
@@ -36,46 +77,345 @@ DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
  nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerw-dia-20261130-j97@sportcal
-DTSTAMP:20261116T103333Z
+UID:ncaasoccerw-dia-20261130-j33@sportcal
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:NCAA DIVISION I WOMEN SOCCER | J97
+SUMMARY:NCAA DIVISION I WOMEN SOCCER | J33
 DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
  erminar\nPartits per determinar\nPartits per determinar\nPartits per deter
  minar\nPartits per determinar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerw-dia-20261205-j113@sportcal
-DTSTAMP:20261116T103333Z
+UID:ncaasoccerw-dia-20261205-j49@sportcal
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:NCAA DIVISION I WOMEN SOCCER | J113
+SUMMARY:NCAA DIVISION I WOMEN SOCCER | J49
 DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
  erminar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerw-dia-20261210-j121@sportcal
-DTSTAMP:20261116T103333Z
+UID:ncaasoccerw-dia-20261210-j57@sportcal
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:NCAA DIVISION I WOMEN SOCCER | J121
+SUMMARY:NCAA DIVISION I WOMEN SOCCER | J57
 DESCRIPTION:Partits per determinar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerw-dia-20261213-j125@sportcal
-DTSTAMP:20261116T103333Z
+UID:ncaasoccerw-dia-20261213-j61@sportcal
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-SUMMARY:NCAA DIVISION I WOMEN SOCCER | J125
+SUMMARY:NCAA DIVISION I WOMEN SOCCER | J61
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-dia-20261230-j2@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:NCAA DIVISION I WOMEN SOCCER | J2
 DESCRIPTION:Partits per determinar
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261120-purdue-boilermakers-southern-illinois-salukis@spor
+ tcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T190000Z
+DTEND:20261120T204500Z
+SUMMARY:Purdue Boilermakers - Southern Illinois Salukis
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Folk Field\, West Lafayette
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261120-virginia-cavaliers-bryant-bulldogs@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T200000Z
+DTEND:20261120T214500Z
+SUMMARY:Virginia Cavaliers - Bryant Bulldogs
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Klockner Stadium\, Charlottesville
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261120-florida-state-seminoles-ucf-knights@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T220000Z
+DTEND:20261120T234500Z
+SUMMARY:Florida State Seminoles - UCF Knights
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Seminole Soccer Complex\, Tallahassee
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-louisville-cardinals-wisconsin-badgers@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
+SUMMARY:Louisville Cardinals - Wisconsin Badgers
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Dr. Mark and Cindy Lynn Stadium\, Louisville\, Kentucky
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-michigan-wolverines-western-michigan-broncos@sport
+ cal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
+SUMMARY:Michigan Wolverines - Western Michigan Broncos
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:U-M Soccer Stadium\, Ann Arbor\, Michigan
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-notre-dame-fighting-irish-milwaukee-panthers@sport
+ cal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
+SUMMARY:Notre Dame Fighting Irish - Milwaukee Panthers
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Alumni Stadium\, Notre Dame\, Indiana
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-ohio-state-buckeyes-lipscomb-bisons@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
+SUMMARY:Ohio State Buckeyes - Lipscomb Bisons
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Jesse Owens Memorial Stadium\, Columbus\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-penn-state-nittany-lions-villanova-wildcats@sportc
+ al
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
+SUMMARY:Penn State Nittany Lions - Villanova Wildcats
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Jeffrey Field\, University Park
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-south-carolina-gamecocks-uab-blazers@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
+SUMMARY:South Carolina Gamecocks - UAB Blazers
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Eugene E. Stone III Stadium\, Columbia\, South Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-tennessee-volunteers-liberty-lady-flames@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
+SUMMARY:Tennessee Volunteers - Liberty Lady Flames
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Regal Soccer Stadium\, Knoxville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-kansas-jayhawks-oral-roberts-golden-eagles@sportca
+ l
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T233000Z
+DTEND:20261121T011500Z
+SUMMARY:Kansas Jayhawks - Oral Roberts Golden Eagles
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Rock Chalk Park\, Lawrenceville
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-mississippi-state-bulldogs-samford-bulldogs@sportc
+ al
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Mississippi State Bulldogs - Samford Bulldogs
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:MSU Soccer Field\, Mississippi State
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-texas-longhorns-houston-cougars@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Texas Longhorns - Houston Cougars
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Mike A. Myers Stadium and Soccer Field\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-texas-tech-red-raiders-abilene-christian-wildcats@
+ sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Texas Tech Red Raiders - Abilene Christian Wildcats
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:John Walker Soccer Complex\, Lubbock\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-vanderbilt-commodores-ut-martin-skyhawks@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:Vanderbilt Commodores - UT Martin Skyhawks
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Vanderbilt Soccer/Lacrosse Complex\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-west-virginia-mountaineers-old-dominion-monarchs@s
+ portcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T000000Z
+DTEND:20261121T014500Z
+SUMMARY:West Virginia Mountaineers - Old Dominion Monarchs
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Dick Dlesk Soccer Stadium\, Morgantown
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-auburn-tigers-washington-huskies@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T003000Z
+DTEND:20261121T021500Z
+SUMMARY:Auburn Tigers - Washington Huskies
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Auburn Soccer Complex\, Auburn
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-kentucky-wildcats-virginia-tech-hokies@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T003000Z
+DTEND:20261121T021500Z
+SUMMARY:Kentucky Wildcats - Virginia Tech Hokies
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Wendell & Vickie Bell Soccer Complex\, Lexington\, Kentucky
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-alabama-crimson-tide-jackson-state-tigers@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T010000Z
+DTEND:20261121T024500Z
+SUMMARY:Alabama Crimson Tide - Jackson State Tigers
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Alabama Soccer Complex\, Tuscaloosa\, Alabama
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-byu-cougars-weber-state-wildcats@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T010000Z
+DTEND:20261121T024500Z
+SUMMARY:BYU Cougars - Weber State Wildcats
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:South Field (UT)\, Provo
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-baylor-bears-lamar-lady-cardinals@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T010000Z
+DTEND:20261121T024500Z
+SUMMARY:Baylor Bears - Lamar Lady Cardinals
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Betty Lou Mays Field\, Waco
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-utah-state-aggies-utah-valley-wolverines@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T010000Z
+DTEND:20261121T024500Z
+SUMMARY:Utah State Aggies - Utah Valley Wolverines
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Chuck & Gloria Bell Soccer Field\, Logan
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-colorado-buffaloes-air-force-falcons@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T020000Z
+DTEND:20261121T034500Z
+SUMMARY:Colorado Buffaloes - Air Force Falcons
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Prentup Field\, Boulder
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-stanford-cardinal-santa-clara-broncos@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T020000Z
+DTEND:20261121T034500Z
+SUMMARY:Stanford Cardinal - Santa Clara Broncos
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Maloney Field at Laird Q. Cagan Stadium\, Stanford\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-duke-blue-devils-unc-wilmington-seahawks@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Duke Blue Devils - UNC Wilmington Seahawks
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Freeman Field at Koskinen Stadium\, Durham\, New Hampshire
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-michigan-state-spartans-central-connecticut-blue-d
+ evils@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T203000Z
+DTEND:20261121T221500Z
+SUMMARY:Michigan State Spartans - Central Connecticut Blue Devils
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:DeMartin Stadium\, East Lansing
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-clemson-tigers-brown-bears@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T220000Z
+DTEND:20261121T234500Z
+SUMMARY:Clemson Tigers - Brown Bears
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Historic Riggs Field\, Clemson\, South Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261122-north-carolina-tar-heels-unc-asheville-bulldogs@sp
+ ortcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T230000Z
+DTEND:20261122T004500Z
+SUMMARY:North Carolina Tar Heels - UNC Asheville Bulldogs
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Dorrance Field\, Chapel Hill\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261122-wake-forest-demon-deacons-boston-university-terrie
+ rs@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T230000Z
+DTEND:20261122T004500Z
+SUMMARY:Wake Forest Demon Deacons - Boston University Terriers
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Spry Stadium\, Winston-Salem
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261122-xavier-musketeers-oklahoma-sooners@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T233000Z
+DTEND:20261122T011500Z
+SUMMARY:Xavier Musketeers - Oklahoma Sooners
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Corcoran Field\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261122-arkansas-razorbacks-saint-louis-billikens@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261122T000000Z
+DTEND:20261122T014500Z
+SUMMARY:Arkansas Razorbacks - Saint Louis Billikens
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Razorback Field\, Fayetteville
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261122-ucla-bruins-quinnipiac-bobcats@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261122T030000Z
+DTEND:20261122T044500Z
+SUMMARY:UCLA Bruins - Quinnipiac Bobcats
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Wallis Annenberg Stadium\, Los Angeles\, California
 END:VEVENT
 END:VCALENDAR

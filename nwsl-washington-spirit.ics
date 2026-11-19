@@ -5,20 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Washington Spirit · NWSL
 BEGIN:VEVENT
-UID:nwsl-20261114-washington-spirit-utah-royals-fc-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:WASHINGTON SPIRIT | NWSL | J32 | 🏟️ | Utah Royals FC 🇺🇸
-DESCRIPTION:Inici: 18:00 (Europe/Madrid) · National Women's Soccer League\
+UID:nwsl-20261122-washington-spirit-kansas-city-current-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:WASHINGTON SPIRIT | NWSL | J33 | 🏟️ | Kansas City Current 🇺
+ 🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · National Women's Soccer League\
  nEstadi: Audi Field
 END:VEVENT
 BEGIN:VEVENT
-UID:nwsl-20261114-washington-spirit-utah-royals-fc@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T170000Z
-DTEND:20261114T184500Z
-SUMMARY:Washington Spirit - Utah Royals FC
+UID:nwsl-20261122-washington-spirit-kansas-city-current@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261122T010000Z
+DTEND:20261122T024500Z
+SUMMARY:Washington Spirit - Kansas City Current
 DESCRIPTION:National Women's Soccer League
 LOCATION:Audi Field
 END:VEVENT

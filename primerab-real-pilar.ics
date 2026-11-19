@@ -6,19 +6,20 @@ METHOD:PUBLISH
 X-WR-CALNAME:Real Pilar · Primera B
 BEGIN:VEVENT
 UID:primerab-20261121-talleres-remedios-real-pilar-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:REAL PILAR | Primera B | J44 | ✈️ | Talleres Remedios 🇦🇷
-DESCRIPTION:Hora pendent de confirmació · Primera B
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Primera B\nEstadi: Estadio Pabl
+ o Comelli
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-talleres-remedios-real-pilar@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Talleres Remedios - Real Pilar · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Talleres Remedios - Real Pilar
+DESCRIPTION:Primera B
+LOCATION:Estadio Pablo Comelli
 END:VEVENT
 END:VCALENDAR

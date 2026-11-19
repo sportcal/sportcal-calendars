@@ -5,20 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Penarol · Primera División
 BEGIN:VEVENT
-UID:uruguaypd-20261116-defensor-sporting-penarol-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:PENAROL | Primera División | J37 | ✈️ | Defensor Sporting 🇺
- 🇾
-DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Uruguayan Primera División
+UID:uruguaypd-20261119-penarol-cerro-largo-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:PENAROL | Primera División | J37 | 🏟️ | Cerro Largo 🇺🇾
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Uruguayan Primera División
 END:VEVENT
 BEGIN:VEVENT
-UID:uruguaypd-20261116-defensor-sporting-penarol@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART:20261115T230000Z
-DTEND:20261116T004500Z
-SUMMARY:Defensor Sporting - Penarol
+UID:uruguaypd-20261119-penarol-cerro-largo@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261119T193000Z
+DTEND:20261119T211500Z
+SUMMARY:Penarol - Cerro Largo
 DESCRIPTION:Uruguayan Primera División
 END:VEVENT
 END:VCALENDAR

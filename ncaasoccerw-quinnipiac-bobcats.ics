@@ -5,22 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Quinnipiac Bobcats · NCAA WS
 BEGIN:VEVENT
-UID:ncaasoccerw-20261115-quinnipiac-bobcats-fairfield-stags-dia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:QUINNIPIAC BOBCATS | NCAA WS | J1 | 🏟️ | Fairfield Stags 🇺
- 🇸
-DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
- stadi: Quinnipiac Soccer & Lacrosse Stadium\, Hamden\, Connecticut
+UID:ncaasoccerw-20261122-ucla-bruins-quinnipiac-bobcats-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:QUINNIPIAC BOBCATS | NCAA WS | J2 | ✈️ | UCLA Bruins 🇺🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: Wallis Annenberg Stadium\, Los Angeles\, California
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerw-20261115-quinnipiac-bobcats-fairfield-stags@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T180000Z
-DTEND:20261115T194500Z
-SUMMARY:Quinnipiac Bobcats - Fairfield Stags
+UID:ncaasoccerw-20261122-ucla-bruins-quinnipiac-bobcats@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261122T030000Z
+DTEND:20261122T044500Z
+SUMMARY:UCLA Bruins - Quinnipiac Bobcats
 DESCRIPTION:NCAA Division I Women Soccer
-LOCATION:Quinnipiac Soccer & Lacrosse Stadium\, Hamden\, Connecticut
+LOCATION:Wallis Annenberg Stadium\, Los Angeles\, California
 END:VEVENT
 END:VCALENDAR

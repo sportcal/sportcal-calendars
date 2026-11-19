@@ -5,22 +5,22 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Kansas City Current · NWSL
 BEGIN:VEVENT
-UID:nwsl-20261115-nj-ny-gotham-fc-kansas-city-current-dia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:KANSAS CITY CURRENT | NWSL | J32 | ✈️ | NJ/NY Gotham FC 🇺
+UID:nwsl-20261122-washington-spirit-kansas-city-current-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:KANSAS CITY CURRENT | NWSL | J33 | ✈️ | Washington Spirit 🇺
  🇸
-DESCRIPTION:Inici: 21:00 (Europe/Madrid) · National Women's Soccer League\
- nEstadi: Icahn
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · National Women's Soccer League\
+ nEstadi: Audi Field
 END:VEVENT
 BEGIN:VEVENT
-UID:nwsl-20261115-nj-ny-gotham-fc-kansas-city-current@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T200000Z
-DTEND:20261115T214500Z
-SUMMARY:NJ/NY Gotham FC - Kansas City Current
+UID:nwsl-20261122-washington-spirit-kansas-city-current@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261122T010000Z
+DTEND:20261122T024500Z
+SUMMARY:Washington Spirit - Kansas City Current
 DESCRIPTION:National Women's Soccer League
-LOCATION:Icahn
+LOCATION:Audi Field
 END:VEVENT
 END:VCALENDAR

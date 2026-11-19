@@ -5,42 +5,23 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Alexander Zverev · ATP
 BEGIN:VEVENT
-UID:atp-espn-339-2026-187503-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:ALEXANDER ZVEREV | Nitto ATP Finals | Group Stage | vs Ben Shelton
+UID:atp-espn-339-2026-187504-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:ALEXANDER ZVEREV | Nitto ATP Finals | Group Stage | vs Arthur Fils
 DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Nitto ATP Finals — Group Stag
  e — Mens Singles · Alexander Zverev · ATP\nPista: Turin\, Italy (Inalp
  i Arena)
 END:VEVENT
 BEGIN:VEVENT
-UID:atp-espn-339-2026-187503@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART:20261117T193000Z
-DTEND:20261117T220000Z
-SUMMARY:Ben Shelton - Alexander Zverev
+UID:atp-espn-339-2026-187504@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261119T193000Z
+DTEND:20261119T220000Z
+SUMMARY:Arthur Fils - Alexander Zverev
 DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · Alexander 
  Zverev · ATP
 LOCATION:Turin\, Italy (Inalpi Arena)
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187504-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:ALEXANDER ZVEREV | Nitto ATP Finals | Group Stage | vs Arthur Fils
-DESCRIPTION:Hora pendent de confirmació · Nitto ATP Finals — Group Stag
- e — Mens Singles - TBD (time to be confirmed) · Alexander Zverev · ATP
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187504@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Arthur Fils - Alexander Zverev · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
-  confirmed) · Alexander Zverev · ATP
 END:VEVENT
 END:VCALENDAR

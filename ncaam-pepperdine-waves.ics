@@ -6,17 +6,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pepperdine Waves · NCAA
 BEGIN:VEVENT
 UID:ncaam-20261120-pepperdine-waves-uc-santa-barbara-gauchos-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:PEPPERDINE WAVES | NCAA | J13 | 🏟️ | UC Santa Barbara Gauchos 
+SUMMARY:PEPPERDINE WAVES | NCAA | J2 | 🏟️ | UC Santa Barbara Gauchos 
  🇺🇸
 DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
  one Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261120-pepperdine-waves-uc-santa-barbara-gauchos@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261120T020000Z
 DTEND:20261120T034500Z
 SUMMARY:Pepperdine Waves - UC Santa Barbara Gauchos
@@ -24,18 +24,37 @@ DESCRIPTION:NCAA Division I
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaam-20261121-pepperdine-waves-west-coast-baptist-eagles-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:PEPPERDINE WAVES | NCAA | J1 | 🏟️ | West Coast Baptist Eagles 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
+ one Fieldhouse\, Malibu\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261121-pepperdine-waves-west-coast-baptist-eagles@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T010000Z
+DTEND:20261121T024500Z
+SUMMARY:Pepperdine Waves - West Coast Baptist Eagles
+DESCRIPTION:NCAA Division I
+LOCATION:Firestone Fieldhouse\, Malibu\, CA
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaam-20261124-pepperdine-waves-unc-greensboro-spartans-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:PEPPERDINE WAVES | NCAA | J4 | 🏟️ | UNC Greensboro Spartans 
+SUMMARY:PEPPERDINE WAVES | NCAA | J3 | 🏟️ | UNC Greensboro Spartans 
  🇺🇸
 DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
  one Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261124-pepperdine-waves-unc-greensboro-spartans@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261124T023000Z
 DTEND:20261124T041500Z
 SUMMARY:Pepperdine Waves - UNC Greensboro Spartans
@@ -45,18 +64,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261126-pepperdine-waves-cal-state-bakersfield-roadrunners-dia@s
  portcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:PEPPERDINE WAVES | NCAA | J3 | 🏟️ | Cal State Bakersfield Road
- runners 🇺🇸
+SUMMARY:PEPPERDINE WAVES | NCAA | J43 | 🏟️ | Cal State Bakersfield Roa
+ drunners 🇺🇸
 DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
  one Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261126-pepperdine-waves-cal-state-bakersfield-roadrunners@sport
  cal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261126T010000Z
 DTEND:20261126T024500Z
 SUMMARY:Pepperdine Waves - Cal State Bakersfield Roadrunners
@@ -65,17 +84,17 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261128-pepperdine-waves-lehigh-mountain-hawks-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:PEPPERDINE WAVES | NCAA | J4 | 🏟️ | Lehigh Mountain Hawks 🇺
+SUMMARY:PEPPERDINE WAVES | NCAA | J5 | 🏟️ | Lehigh Mountain Hawks 🇺
  🇸
 DESCRIPTION:Inici: 19:30 (Europe/Madrid) · NCAA Division I\nEstadi: Gilber
  t Arena\, Thousand Oaks\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261128-pepperdine-waves-lehigh-mountain-hawks@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261128T183000Z
 DTEND:20261128T201500Z
 SUMMARY:Pepperdine Waves - Lehigh Mountain Hawks
@@ -84,17 +103,17 @@ LOCATION:Gilbert Arena\, Thousand Oaks\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261202-abilene-christian-wildcats-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:PEPPERDINE WAVES | NCAA | J4 | ✈️ | Abilene Christian Wildcats 
+SUMMARY:PEPPERDINE WAVES | NCAA | J6 | ✈️ | Abilene Christian Wildcats 
  🇺🇸
 DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Moody 
  Coliseum (Abilene)\, Abilene\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261202-abilene-christian-wildcats-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261202T010000Z
 DTEND:20261202T024500Z
 SUMMARY:Abilene Christian Wildcats - Pepperdine Waves
@@ -103,17 +122,17 @@ LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261206-pepperdine-waves-florida-gulf-coast-eagles-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:PEPPERDINE WAVES | NCAA | J6 | 🏟️ | Florida Gulf Coast Eagles 
+SUMMARY:PEPPERDINE WAVES | NCAA | J7 | 🏟️ | Florida Gulf Coast Eagles 
  🇺🇸
 DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
  one Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261206-pepperdine-waves-florida-gulf-coast-eagles@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261206T010000Z
 DTEND:20261206T024500Z
 SUMMARY:Pepperdine Waves - Florida Gulf Coast Eagles
@@ -122,7 +141,7 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261210-pepperdine-waves-prairie-view-a-m-panthers-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:PEPPERDINE WAVES | NCAA | J8 | 🏟️ | Prairie View A&M Panthers 
@@ -132,7 +151,7 @@ DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261210-pepperdine-waves-prairie-view-a-m-panthers@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261210T023000Z
 DTEND:20261210T041500Z
 SUMMARY:Pepperdine Waves - Prairie View A&M Panthers
@@ -141,7 +160,7 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261213-sacramento-state-hornets-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:PEPPERDINE WAVES | NCAA | J9 | ✈️ | Sacramento State Hornets 
@@ -151,7 +170,7 @@ DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hornet
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261213-sacramento-state-hornets-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261213T220000Z
 DTEND:20261213T234500Z
 SUMMARY:Sacramento State Hornets - Pepperdine Waves
@@ -160,7 +179,7 @@ LOCATION:Hornet Pavilion\, Sacramento\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-montana-grizzlies-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:PEPPERDINE WAVES | NCAA | J9 | ✈️ | Montana Grizzlies 🇺🇸
@@ -169,7 +188,7 @@ DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Dahlbe
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-montana-grizzlies-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261219T020000Z
 DTEND:20261219T034500Z
 SUMMARY:Montana Grizzlies - Pepperdine Waves
@@ -178,17 +197,17 @@ LOCATION:Dahlberg Arena\, Missoula\, MT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261222-pepperdine-waves-quinnipiac-bobcats-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:PEPPERDINE WAVES | NCAA | J117 | 🏟️ | Quinnipiac Bobcats 🇺
+SUMMARY:PEPPERDINE WAVES | NCAA | J101 | 🏟️ | Quinnipiac Bobcats 🇺
  🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
  one Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261222-pepperdine-waves-quinnipiac-bobcats@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261222T000000Z
 DTEND:20261222T014500Z
 SUMMARY:Pepperdine Waves - Quinnipiac Bobcats
@@ -197,17 +216,17 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261230-loyola-marymount-lions-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:PEPPERDINE WAVES | NCAA | J10 | ✈️ | Loyola Marymount Lions 
+SUMMARY:PEPPERDINE WAVES | NCAA | J12 | ✈️ | Loyola Marymount Lions 
  🇺🇸
 DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Gerste
  n Pavilion\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261230-loyola-marymount-lions-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261230T030000Z
 DTEND:20261230T044500Z
 SUMMARY:Loyola Marymount Lions - Pepperdine Waves
@@ -216,15 +235,15 @@ LOCATION:Gersten Pavilion\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-portland-pilots-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:PEPPERDINE WAVES | NCAA | J11 | ✈️ | Portland Pilots 🇺🇸
+SUMMARY:PEPPERDINE WAVES | NCAA | J13 | ✈️ | Portland Pilots 🇺🇸
 DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-portland-pilots-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:Portland Pilots - Pepperdine Waves · TBD
@@ -233,17 +252,17 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270107-seattle-u-redhawks-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:PEPPERDINE WAVES | NCAA | J13 | ✈️ | Seattle U Redhawks 🇺
+SUMMARY:PEPPERDINE WAVES | NCAA | J14 | ✈️ | Seattle U Redhawks 🇺
  🇸
 DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Redhaw
  k Center\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270107-seattle-u-redhawks-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270107T030000Z
 DTEND:20270107T044500Z
 SUMMARY:Seattle U Redhawks - Pepperdine Waves
@@ -252,17 +271,17 @@ LOCATION:Redhawk Center\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270110-pepperdine-waves-loyola-marymount-lions-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-SUMMARY:PEPPERDINE WAVES | NCAA | J14 | 🏟️ | Loyola Marymount Lions 
+SUMMARY:PEPPERDINE WAVES | NCAA | J15 | 🏟️ | Loyola Marymount Lions 
  🇺🇸
 DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
  one Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270110-pepperdine-waves-loyola-marymount-lions@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270110T020000Z
 DTEND:20270110T034500Z
 SUMMARY:Pepperdine Waves - Loyola Marymount Lions
@@ -271,7 +290,7 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270114-pepperdine-waves-denver-pioneers-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:PEPPERDINE WAVES | NCAA | J16 | 🏟️ | Denver Pioneers 🇺🇸
@@ -280,7 +299,7 @@ DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270114-pepperdine-waves-denver-pioneers@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270114T023000Z
 DTEND:20270114T041500Z
 SUMMARY:Pepperdine Waves - Denver Pioneers
@@ -289,16 +308,16 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270116-pepperdine-waves-saint-mary-s-gaels-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:PEPPERDINE WAVES | NCAA | J16 | 🏟️ | Saint Mary's Gaels 🇺
+SUMMARY:PEPPERDINE WAVES | NCAA | J15 | 🏟️ | Saint Mary's Gaels 🇺
  🇸
 DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270116-pepperdine-waves-saint-mary-s-gaels@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Pepperdine Waves - Saint Mary's Gaels · TBD
@@ -307,17 +326,17 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270121-santa-clara-broncos-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:PEPPERDINE WAVES | NCAA | J17 | ✈️ | Santa Clara Broncos 🇺
+SUMMARY:PEPPERDINE WAVES | NCAA | J18 | ✈️ | Santa Clara Broncos 🇺
  🇸
 DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Leavey
   Center\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270121-santa-clara-broncos-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270121T030000Z
 DTEND:20270121T044500Z
 SUMMARY:Santa Clara Broncos - Pepperdine Waves
@@ -326,17 +345,17 @@ LOCATION:Leavey Center\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270124-san-francisco-dons-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-SUMMARY:PEPPERDINE WAVES | NCAA | J18 | ✈️ | San Francisco Dons 🇺
+SUMMARY:PEPPERDINE WAVES | NCAA | J19 | ✈️ | San Francisco Dons 🇺
  🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: The So
  brato Center\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270124-san-francisco-dons-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270124T000000Z
 DTEND:20270124T014500Z
 SUMMARY:San Francisco Dons - Pepperdine Waves
@@ -345,7 +364,7 @@ LOCATION:The Sobrato Center\, San Francisco\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270128-pepperdine-waves-san-diego-toreros-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:PEPPERDINE WAVES | NCAA | J20 | 🏟️ | San Diego Toreros 🇺
@@ -355,7 +374,7 @@ DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270128-pepperdine-waves-san-diego-toreros@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270128T023000Z
 DTEND:20270128T041500Z
 SUMMARY:Pepperdine Waves - San Diego Toreros
@@ -364,15 +383,15 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270130-pacific-tigers-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:PEPPERDINE WAVES | NCAA | J20 | ✈️ | Pacific Tigers 🇺🇸
+SUMMARY:PEPPERDINE WAVES | NCAA | J21 | ✈️ | Pacific Tigers 🇺🇸
 DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270130-pacific-tigers-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Pacific Tigers - Pepperdine Waves · TBD
@@ -381,15 +400,15 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270206-denver-pioneers-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:PEPPERDINE WAVES | NCAA | J19 | ✈️ | Denver Pioneers 🇺🇸
+SUMMARY:PEPPERDINE WAVES | NCAA | J21 | ✈️ | Denver Pioneers 🇺🇸
 DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270206-denver-pioneers-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Denver Pioneers - Pepperdine Waves · TBD
@@ -398,17 +417,17 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270211-pepperdine-waves-seattle-u-redhawks-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:PEPPERDINE WAVES | NCAA | J22 | 🏟️ | Seattle U Redhawks 🇺
+SUMMARY:PEPPERDINE WAVES | NCAA | J21 | 🏟️ | Seattle U Redhawks 🇺
  🇸
 DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
  one Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270211-pepperdine-waves-seattle-u-redhawks@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270211T023000Z
 DTEND:20270211T041500Z
 SUMMARY:Pepperdine Waves - Seattle U Redhawks
@@ -417,17 +436,17 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270214-pepperdine-waves-santa-clara-broncos-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-SUMMARY:PEPPERDINE WAVES | NCAA | J21 | 🏟️ | Santa Clara Broncos 🇺
+SUMMARY:PEPPERDINE WAVES | NCAA | J24 | 🏟️ | Santa Clara Broncos 🇺
  🇸
 DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
  one Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270214-pepperdine-waves-santa-clara-broncos@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270214T020000Z
 DTEND:20270214T034500Z
 SUMMARY:Pepperdine Waves - Santa Clara Broncos
@@ -436,15 +455,15 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270217-san-diego-toreros-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:PEPPERDINE WAVES | NCAA | J24 | ✈️ | San Diego Toreros 🇺🇸
+SUMMARY:PEPPERDINE WAVES | NCAA | J23 | ✈️ | San Diego Toreros 🇺🇸
 DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270217-san-diego-toreros-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:San Diego Toreros - Pepperdine Waves · TBD
@@ -453,17 +472,17 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270222-saint-mary-s-gaels-pepperdine-waves-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-SUMMARY:PEPPERDINE WAVES | NCAA | J27 | ✈️ | Saint Mary's Gaels 🇺
+SUMMARY:PEPPERDINE WAVES | NCAA | J26 | ✈️ | Saint Mary's Gaels 🇺
  🇸
 DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Univer
  sity Credit Union Pavilion\, Moraga\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270222-saint-mary-s-gaels-pepperdine-waves@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270222T010000Z
 DTEND:20270222T024500Z
 SUMMARY:Saint Mary's Gaels - Pepperdine Waves
@@ -472,16 +491,16 @@ LOCATION:University Credit Union Pavilion\, Moraga\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270225-pepperdine-waves-portland-pilots-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:PEPPERDINE WAVES | NCAA | J28 | 🏟️ | Portland Pilots 🇺🇸
+SUMMARY:PEPPERDINE WAVES | NCAA | J27 | 🏟️ | Portland Pilots 🇺🇸
 DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
  one Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270225-pepperdine-waves-portland-pilots@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270225T023000Z
 DTEND:20270225T041500Z
 SUMMARY:Pepperdine Waves - Portland Pilots
@@ -490,7 +509,7 @@ LOCATION:Firestone Fieldhouse\, Malibu\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270228-pepperdine-waves-pacific-tigers-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:PEPPERDINE WAVES | NCAA | J29 | 🏟️ | Pacific Tigers 🇺🇸
@@ -499,7 +518,7 @@ DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Firest
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270228-pepperdine-waves-pacific-tigers@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20270228T020000Z
 DTEND:20270228T034500Z
 SUMMARY:Pepperdine Waves - Pacific Tigers

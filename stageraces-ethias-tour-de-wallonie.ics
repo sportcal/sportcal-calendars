@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ethias-Tour de Wallonie · Stage Races
+BEGIN:VEVENT
+UID:stageraces-20270531-ethias-tour-de-wallonie-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:STAGE RACES | Ethias-Tour de Wallonie
+DESCRIPTION:Ethias-Tour de Wallonie\nTBC BEL · Stage Races
+END:VEVENT
+BEGIN:VEVENT
+UID:stageraces-20270531-ethias-tour-de-wallonie@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Ethias-Tour de Wallonie · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Stage Races
+END:VEVENT
+END:VCALENDAR

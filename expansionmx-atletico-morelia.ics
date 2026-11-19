@@ -5,39 +5,41 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Atlético Morelia · Expansión MX
 BEGIN:VEVENT
-UID:expansionmx-20261121-atletico-morelia-ca-la-paz-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+UID:expansionmx-20261122-atletico-morelia-ca-la-paz-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
 SUMMARY:ATLÉTICO MORELIA | Expansión MX | J20 | 🏟️ | CA La Paz 🇲
  🇽
-DESCRIPTION:Hora pendent de confirmació · Liga de Expansión MX
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · Liga de Expansión MX\nEstadi: 
+ Estadio Morelos
 END:VEVENT
 BEGIN:VEVENT
-UID:expansionmx-20261121-atletico-morelia-ca-la-paz@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Atlético Morelia - CA La Paz · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Liga de Expansión MX
+UID:expansionmx-20261122-atletico-morelia-ca-la-paz@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261122T020000Z
+DTEND:20261122T034500Z
+SUMMARY:Atlético Morelia - CA La Paz
+DESCRIPTION:Liga de Expansión MX
+LOCATION:Estadio Morelos
 END:VEVENT
 BEGIN:VEVENT
-UID:expansionmx-20261128-ca-la-paz-atletico-morelia-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
+UID:expansionmx-20261129-ca-la-paz-atletico-morelia-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
 SUMMARY:ATLÉTICO MORELIA | Expansión MX | J21 | ✈️ | CA La Paz 🇲
  🇽
-DESCRIPTION:Hora pendent de confirmació · Liga de Expansión MX
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · Liga de Expansión MX\nEstadi: 
+ Estadio Guaycura
 END:VEVENT
 BEGIN:VEVENT
-UID:expansionmx-20261128-ca-la-paz-atletico-morelia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:CA La Paz - Atlético Morelia · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Liga de Expansión MX
+UID:expansionmx-20261129-ca-la-paz-atletico-morelia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261129T030000Z
+DTEND:20261129T044500Z
+SUMMARY:CA La Paz - Atlético Morelia
+DESCRIPTION:Liga de Expansión MX
+LOCATION:Estadio Guaycura
 END:VEVENT
 END:VCALENDAR

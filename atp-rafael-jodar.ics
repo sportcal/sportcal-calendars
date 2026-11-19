@@ -5,42 +5,23 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rafael Jodar · ATP
 BEGIN:VEVENT
-UID:atp-espn-339-2026-187508-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:RAFAEL JODAR | Nitto ATP Finals | Group Stage | vs Arthur Fils
+UID:atp-espn-339-2026-187507-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:RAFAEL JODAR | Nitto ATP Finals | Group Stage | vs Ben Shelton
 DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Nitto ATP Finals — Group Stag
  e — Mens Singles · Rafael Jodar · ATP\nPista: Turin\, Italy (Inalpi Ar
  ena)
 END:VEVENT
 BEGIN:VEVENT
-UID:atp-espn-339-2026-187508@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART:20261117T130000Z
-DTEND:20261117T153000Z
-SUMMARY:Rafael Jodar - Arthur Fils
+UID:atp-espn-339-2026-187507@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261119T130000Z
+DTEND:20261119T153000Z
+SUMMARY:Rafael Jodar - Ben Shelton
 DESCRIPTION:Nitto ATP Finals — Group Stage — Mens Singles · Rafael Jod
  ar · ATP
 LOCATION:Turin\, Italy (Inalpi Arena)
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187507-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:RAFAEL JODAR | Nitto ATP Finals | Group Stage | vs Ben Shelton
-DESCRIPTION:Hora pendent de confirmació · Nitto ATP Finals — Group Stag
- e — Mens Singles - TBD (time to be confirmed) · Rafael Jodar · ATP
-END:VEVENT
-BEGIN:VEVENT
-UID:atp-espn-339-2026-187507@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Rafael Jodar - Ben Shelton · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Nitto ATP Finals — Group Stage — Mens Singles - TBD (time to be
-  confirmed) · Rafael Jodar · ATP
 END:VEVENT
 END:VCALENDAR

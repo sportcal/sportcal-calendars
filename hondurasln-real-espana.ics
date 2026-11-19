@@ -6,23 +6,25 @@ METHOD:PUBLISH
 X-WR-CALNAME:Real España · Liga Nacional
 BEGIN:VEVENT
 UID:hondurasln-20261122-real-espana-cd-marathon-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:REAL ESPAÑA | Liga Nacional | J1 | 🏟️ | CD Marathón 🇭🇳
-DESCRIPTION:Inici: 02:30 (Europe/Madrid) · Liga Nacional
+DESCRIPTION:Inici: 02:30 (Europe/Madrid) · Liga Nacional\nEstadi: Estadio 
+ Francisco Morazán\, San Pedro Sula
 END:VEVENT
 BEGIN:VEVENT
 UID:hondurasln-20261122-real-espana-cd-marathon@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261122T013000Z
 DTEND:20261122T031500Z
 SUMMARY:Real España - CD Marathón
 DESCRIPTION:Liga Nacional
+LOCATION:Estadio Francisco Morazán\, San Pedro Sula
 END:VEVENT
 BEGIN:VEVENT
 UID:hondurasln-20261128-atletico-choloma-real-espana-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:REAL ESPAÑA | Liga Nacional | J2 | ✈️ | Atlético Choloma 🇭
@@ -31,7 +33,7 @@ DESCRIPTION:Hora pendent de confirmació · Liga Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:hondurasln-20261128-atletico-choloma-real-espana@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Atlético Choloma - Real España · TBD

@@ -5,22 +5,40 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Tristán Suárez · Primera Nacional
 BEGIN:VEVENT
-UID:nacionalb-20261115-godoy-cruz-tristan-suarez-dia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:TRISTÁN SUÁREZ | Primera Nacional | J37 | ✈️ | Godoy Cruz 
- 🇦🇷
-DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Primera Nacional\nEstadi: El Gi
- gante de Alberdi
+UID:nacionalb-20261123-gimnasia-y-tiro-tristan-suarez-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:TRISTÁN SUÁREZ | Primera Nacional | J38 | ✈️ | Gimnasia y Tir
+ o 🇦🇷
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Primera Nacional\nEstadi: Monum
+ ental de Vicente López
 END:VEVENT
 BEGIN:VEVENT
-UID:nacionalb-20261115-godoy-cruz-tristan-suarez@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T200000Z
-DTEND:20261115T214500Z
-SUMMARY:Godoy Cruz - Tristán Suárez
+UID:nacionalb-20261123-gimnasia-y-tiro-tristan-suarez@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261123T000000Z
+DTEND:20261123T014500Z
+SUMMARY:Gimnasia y Tiro - Tristán Suárez
 DESCRIPTION:Primera Nacional
-LOCATION:El Gigante de Alberdi
+LOCATION:Monumental de Vicente López
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261128-tristan-suarez-gimnasia-y-tiro-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:TRISTÁN SUÁREZ | Primera Nacional | J39 | 🏟️ | Gimnasia y Ti
+ ro 🇦🇷
+DESCRIPTION:Hora pendent de confirmació · Primera Nacional
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261128-tristan-suarez-gimnasia-y-tiro@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Tristán Suárez - Gimnasia y Tiro · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primera Nacional
 END:VEVENT
 END:VCALENDAR

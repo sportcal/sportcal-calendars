@@ -5,22 +5,40 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Deportivo Madryn · Primera Nacional
 BEGIN:VEVENT
-UID:nacionalb-20261114-deportivo-madryn-deportivo-maipu-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:DEPORTIVO MADRYN | Primera Nacional | J37 | 🏟️ | Deportivo Mai
- pú 🇦🇷
-DESCRIPTION:Inici: 23:00 (Europe/Madrid) · Primera Nacional\nEstadi: Colis
- eo del Golfo
+UID:nacionalb-20261122-gimnasia-jujuy-deportivo-madryn-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:DEPORTIVO MADRYN | Primera Nacional | J38 | ✈️ | Gimnasia Jujuy
+  🇦🇷
+DESCRIPTION:Inici: 01:30 (Europe/Madrid) · Primera Nacional\nEstadi: 23 de
+  Agosto
 END:VEVENT
 BEGIN:VEVENT
-UID:nacionalb-20261114-deportivo-madryn-deportivo-maipu@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T220000Z
-DTEND:20261114T234500Z
-SUMMARY:Deportivo Madryn - Deportivo Maipú
+UID:nacionalb-20261122-gimnasia-jujuy-deportivo-madryn@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261122T003000Z
+DTEND:20261122T021500Z
+SUMMARY:Gimnasia Jujuy - Deportivo Madryn
 DESCRIPTION:Primera Nacional
-LOCATION:Coliseo del Golfo
+LOCATION:23 de Agosto
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261128-deportivo-madryn-gimnasia-jujuy-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:DEPORTIVO MADRYN | Primera Nacional | J39 | 🏟️ | Gimnasia Juju
+ y 🇦🇷
+DESCRIPTION:Hora pendent de confirmació · Primera Nacional
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261128-deportivo-madryn-gimnasia-jujuy@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Deportivo Madryn - Gimnasia Jujuy · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primera Nacional
 END:VEVENT
 END:VCALENDAR

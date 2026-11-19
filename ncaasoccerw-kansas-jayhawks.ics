@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kansas Jayhawks · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-kansas-jayhawks-oral-roberts-golden-eagles-dia@spo
+ rtcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:KANSAS JAYHAWKS | NCAA WS | J1 | 🏟️ | Oral Roberts Golden Eagl
+ es 🇺🇸
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: Rock Chalk Park\, Lawrenceville
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-kansas-jayhawks-oral-roberts-golden-eagles@sportca
+ l
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T233000Z
+DTEND:20261121T011500Z
+SUMMARY:Kansas Jayhawks - Oral Roberts Golden Eagles
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Rock Chalk Park\, Lawrenceville
+END:VEVENT
+END:VCALENDAR

@@ -6,48 +6,48 @@ METHOD:PUBLISH
 X-WR-CALNAME:Primera B
 BEGIN:VEVENT
 UID:primerab-dia-20261121-j44@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:PRIMERA B | J44
-DESCRIPTION:TBD Arsenal de Sarandí - Comunicaciones\nTBD Deportivo Camione
- ros - Villa Dálmine\nTBD Talleres Remedios - Real Pilar\nTBD Sportivo Ita
- liano - Deportivo Armenio
+DESCRIPTION:19:00 Arsenal de Sarandí - Comunicaciones\n19:00 Deportivo Cam
+ ioneros - Villa Dálmine\n19:00 Talleres Remedios - Real Pilar\n19:00 Spor
+ tivo Italiano - Deportivo Armenio
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-arsenal-de-sarandi-comunicaciones@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Arsenal de Sarandí - Comunicaciones · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Arsenal de Sarandí - Comunicaciones
+DESCRIPTION:Primera B
+LOCATION:Julio Humberto Grondona
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-deportivo-camioneros-villa-dalmine@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Deportivo Camioneros - Villa Dálmine · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Deportivo Camioneros - Villa Dálmine
+DESCRIPTION:Primera B
+LOCATION:Estadio Hugo Moyano
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-talleres-remedios-real-pilar@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Talleres Remedios - Real Pilar · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Talleres Remedios - Real Pilar
+DESCRIPTION:Primera B
+LOCATION:Estadio Pablo Comelli
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-sportivo-italiano-deportivo-armenio@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Sportivo Italiano - Deportivo Armenio · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Sportivo Italiano - Deportivo Armenio
+DESCRIPTION:Primera B
+LOCATION:República de Italia
 END:VEVENT
 END:VCALENDAR

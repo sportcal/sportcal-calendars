@@ -6,38 +6,36 @@ METHOD:PUBLISH
 X-WR-CALNAME:Sporting CP · Futsal CL
 BEGIN:VEVENT
 UID:futsalcl-20261123-tfk-beitar-sporting-cp-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:SPORTING CP | Futsal CL | R16 1st leg | ✈️ | TFK Beitar 🇱
  🇻
-DESCRIPTION:Hora pendent de confirmació · UEFA Futsal Champions League
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20261123-tfk-beitar-sporting-cp@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:TFK Beitar - Sporting CP · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+DTSTAMP:20261119T093809Z
+DTSTART:20261123T180000Z
+DTEND:20261123T194500Z
+SUMMARY:TFK Beitar - Sporting CP
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
-UID:futsalcl-20261204-sporting-cp-tfk-beitar-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
+UID:futsalcl-20261205-sporting-cp-tfk-beitar-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
 SUMMARY:SPORTING CP | Futsal CL | R16 2nd leg | 🏟️ | TFK Beitar 🇱
  🇻
-DESCRIPTION:Hora pendent de confirmació · UEFA Futsal Champions League
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
-UID:futsalcl-20261204-sporting-cp-tfk-beitar@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Sporting CP - TFK Beitar · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+UID:futsalcl-20261205-sporting-cp-tfk-beitar@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Sporting CP - TFK Beitar
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 END:VCALENDAR

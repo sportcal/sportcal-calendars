@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vermont Catamounts · NCAA MS
+BEGIN:VEVENT
+UID:ncaasoccerm-20261120-vermont-catamounts-north-florida-ospreys-dia@sport
+ cal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:VERMONT CATAMOUNTS | NCAA MS | J2 | 🏟️ | North Florida Ospreys
+  🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Soccer\nEst
+ adi: Virtue Field\, Burlington\, Vermont
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261120-vermont-catamounts-north-florida-ospreys@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T000000Z
+DTEND:20261120T014500Z
+SUMMARY:Vermont Catamounts - North Florida Ospreys
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Virtue Field\, Burlington\, Vermont
+END:VEVENT
+END:VCALENDAR

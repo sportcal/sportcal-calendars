@@ -5,22 +5,23 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sacramento Republic FC · USL Championship
 BEGIN:VEVENT
-UID:uslchamp-20261116-new-mexico-united-sacramento-republic-fc-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:SACRAMENTO REPUBLIC FC | USL Championship | J33 | ✈️ | New Mexi
- co United 🇺🇸
-DESCRIPTION:Inici: 01:00 (Europe/Madrid) · USL Championship\nEstadi: Isoto
- pes Park
+UID:uslchamp-20261121-sacramento-republic-fc-louisville-city-fc-dia@sportca
+ l
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SACRAMENTO REPUBLIC FC | USL Championship | J34 | 🏟️ | Louisvi
+ lle City FC 🇺🇸
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · USL Championship\nEstadi: Heart
+  Health Park
 END:VEVENT
 BEGIN:VEVENT
-UID:uslchamp-20261116-new-mexico-united-sacramento-republic-fc@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART:20261116T000000Z
-DTEND:20261116T014500Z
-SUMMARY:New Mexico United - Sacramento Republic FC
+UID:uslchamp-20261121-sacramento-republic-fc-louisville-city-fc@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Sacramento Republic FC - Louisville City FC
 DESCRIPTION:USL Championship
-LOCATION:Isotopes Park
+LOCATION:Heart Health Park
 END:VEVENT
 END:VCALENDAR

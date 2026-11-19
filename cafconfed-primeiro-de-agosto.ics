@@ -5,42 +5,44 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Primeiro de Agosto · CAF Confed.
 BEGIN:VEVENT
-UID:cafconfed-20261127-al-ahly-primeiro-de-agosto-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
+UID:cafconfed-20261129-al-ahly-primeiro-de-agosto-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
 SUMMARY:PRIMEIRO DE AGOSTO | CAF Confed. | J5 | ✈️ | Al Ahly
-DESCRIPTION:Hora pendent de confirmació · CAF Confederation Cup
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · CAF Confederation Cup\nEstadi: 
+ Cairo International
 END:VEVENT
 BEGIN:VEVENT
-UID:cafconfed-20261127-al-ahly-primeiro-de-agosto@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Al Ahly - Primeiro de Agosto · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · CAF Confederation Cup
+UID:cafconfed-20261129-al-ahly-primeiro-de-agosto@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261129T160000Z
+DTEND:20261129T174500Z
+SUMMARY:Al Ahly - Primeiro de Agosto
+DESCRIPTION:CAF Confederation Cup
+LOCATION:Cairo International
 END:VEVENT
 BEGIN:VEVENT
-UID:cafconfed-20261204-primeiro-de-agosto-raja-casablanca-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:PRIMEIRO DE AGOSTO | CAF Confed. | J6 | 🏟️ | Raja Casablanca
-DESCRIPTION:Hora pendent de confirmació · CAF Confederation Cup
+UID:cafconfed-20261205-primeiro-de-agosto-raja-casablanca-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:PRIMEIRO DE AGOSTO | CAF Confed. | J3 | 🏟️ | Raja Casablanca
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · CAF Confederation Cup\nEstadi: 
+ Estádio 11 de Novembro
 END:VEVENT
 BEGIN:VEVENT
-UID:cafconfed-20261204-primeiro-de-agosto-raja-casablanca@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Primeiro de Agosto - Raja Casablanca · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · CAF Confederation Cup
+UID:cafconfed-20261205-primeiro-de-agosto-raja-casablanca@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261205T160000Z
+DTEND:20261205T174500Z
+SUMMARY:Primeiro de Agosto - Raja Casablanca
+DESCRIPTION:CAF Confederation Cup
+LOCATION:Estádio 11 de Novembro
 END:VEVENT
 BEGIN:VEVENT
 UID:cafconfed-20261218-primeiro-de-agosto-asko-kara-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:PRIMEIRO DE AGOSTO | CAF Confed. | 🏟️ | ASKO Kara
@@ -48,7 +50,7 @@ DESCRIPTION:Hora pendent de confirmació · CAF Confederation Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:cafconfed-20261218-primeiro-de-agosto-asko-kara@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Primeiro de Agosto - ASKO Kara · TBD
@@ -57,7 +59,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:cafconfed-20270108-asko-kara-primeiro-de-agosto-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:PRIMEIRO DE AGOSTO | CAF Confed. | ✈️ | ASKO Kara
@@ -65,7 +67,7 @@ DESCRIPTION:Hora pendent de confirmació · CAF Confederation Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:cafconfed-20270108-asko-kara-primeiro-de-agosto@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:ASKO Kara - Primeiro de Agosto · TBD
@@ -74,7 +76,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:cafconfed-20270115-primeiro-de-agosto-al-ahly-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:PRIMEIRO DE AGOSTO | CAF Confed. | 🏟️ | Al Ahly
@@ -82,7 +84,7 @@ DESCRIPTION:Hora pendent de confirmació · CAF Confederation Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:cafconfed-20270115-primeiro-de-agosto-al-ahly@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Primeiro de Agosto - Al Ahly · TBD
@@ -91,7 +93,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:cafconfed-20270127-raja-casablanca-primeiro-de-agosto-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:PRIMEIRO DE AGOSTO | CAF Confed. | ✈️ | Raja Casablanca
@@ -99,7 +101,7 @@ DESCRIPTION:Hora pendent de confirmació · CAF Confederation Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:cafconfed-20270127-raja-casablanca-primeiro-de-agosto@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Raja Casablanca - Primeiro de Agosto · TBD

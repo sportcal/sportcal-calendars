@@ -6,29 +6,45 @@ METHOD:PUBLISH
 X-WR-CALNAME:UEFA Futsal Champions League
 BEGIN:VEVENT
 UID:futsalcl-dia-20261123-r16-1st-leg@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:FUTSAL CL | R16 1st leg
-DESCRIPTION:TBD L84 Torino - HIT Kyiv\nTBD Athletic Futsal - Futsal Club Se
- mey\nTBD ElPozo Murcia - Anderlecht\nTBD Piast Gliwice - Kairat\nTBD Futsa
- l Minerva - Stalitsa Minsk\nTBD MNK Olmissum - Barça\nTBD TFK Beitar - Sp
- orting CP\nTBD Kauno Žalgiris - SL Benfica
+DESCRIPTION:18:30 Futsal Minerva - Stalitsa Minsk\n19:00 Piast Gliwice - Ka
+ irat\n19:00 TFK Beitar - Sporting CP\n19:00 Kauno Žalgiris - SL Benfica\n
+ 20:00 MNK Olmissum - Barça\n20:30 ElPozo Murcia - Anderlecht\n21:00 L84 T
+ orino - HIT Kyiv
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-dia-20261124-r16-1st-leg@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:FUTSAL CL | R16 1st leg
+DESCRIPTION:18:00 Athletic Futsal - Futsal Club Semey
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-dia-20261204-r16-2nd-leg@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:FUTSAL CL | R16 2nd leg
-DESCRIPTION:TBD HIT Kyiv - L84 Torino\nTBD Futsal Club Semey - Athletic Fut
- sal\nTBD Anderlecht - ElPozo Murcia\nTBD Kairat - Piast Gliwice\nTBD Stali
- tsa Minsk - Futsal Minerva\nTBD Barça - MNK Olmissum\nTBD Sporting CP - T
- FK Beitar\nTBD SL Benfica - Kauno Žalgiris
+DESCRIPTION:14:30 Stalitsa Minsk - Futsal Minerva\n16:00 Kairat - Piast Gli
+ wice\n18:00 HIT Kyiv - L84 Torino\n20:00 SL Benfica - Kauno Žalgiris\n20:
+ 30 Anderlecht - ElPozo Murcia\n20:30 Barça - MNK Olmissum
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-dia-20261205-r16-2nd-leg@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:FUTSAL CL | R16 2nd leg
+DESCRIPTION:15:00 Futsal Club Semey - Athletic Futsal\n20:00 Sporting CP - 
+ TFK Beitar
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-dia-20270208-qf-1st-leg@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:FUTSAL CL | QF 1st leg
@@ -37,7 +53,7 @@ DESCRIPTION:TBD Winner R16-1 - Winner R16-2\nTBD Winner R16-3 - Winner R16-
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-dia-20270219-qf-2nd-leg@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:FUTSAL CL | QF 2nd leg
@@ -46,7 +62,7 @@ DESCRIPTION:TBD Winner R16-2 - Winner R16-1\nTBD Winner R16-4 - Winner R16-
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-dia-20270507-semi-finals@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:FUTSAL CL | Semi-finals
@@ -54,7 +70,7 @@ DESCRIPTION:TBD Winner QF1 - Winner QF2\nTBD Winner QF3 - Winner QF4
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-dia-20270509-final@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:FUTSAL CL | Final
@@ -62,159 +78,143 @@ DESCRIPTION:TBD Winner SF1 - Winner SF2
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-dia-20270509-third-place@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:FUTSAL CL | Third place
 DESCRIPTION:TBD Loser SF1 - Loser SF2
 END:VEVENT
 BEGIN:VEVENT
-UID:futsalcl-20261123-l84-torino-hit-kyiv@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:L84 Torino - HIT Kyiv · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
-END:VEVENT
-BEGIN:VEVENT
-UID:futsalcl-20261123-athletic-futsal-futsal-club-semey@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Athletic Futsal - Futsal Club Semey · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
-END:VEVENT
-BEGIN:VEVENT
-UID:futsalcl-20261123-elpozo-murcia-anderlecht@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:ElPozo Murcia - Anderlecht · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+UID:futsalcl-20261123-futsal-minerva-stalitsa-minsk@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261123T173000Z
+DTEND:20261123T191500Z
+SUMMARY:Futsal Minerva - Stalitsa Minsk
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20261123-piast-gliwice-kairat@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Piast Gliwice - Kairat · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
-END:VEVENT
-BEGIN:VEVENT
-UID:futsalcl-20261123-futsal-minerva-stalitsa-minsk@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Futsal Minerva - Stalitsa Minsk · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
-END:VEVENT
-BEGIN:VEVENT
-UID:futsalcl-20261123-mnk-olmissum-barca@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:MNK Olmissum - Barça · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+DTSTAMP:20261119T093809Z
+DTSTART:20261123T180000Z
+DTEND:20261123T194500Z
+SUMMARY:Piast Gliwice - Kairat
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20261123-tfk-beitar-sporting-cp@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:TFK Beitar - Sporting CP · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+DTSTAMP:20261119T093809Z
+DTSTART:20261123T180000Z
+DTEND:20261123T194500Z
+SUMMARY:TFK Beitar - Sporting CP
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20261123-kauno-zalgiris-sl-benfica@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Kauno Žalgiris - SL Benfica · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+DTSTAMP:20261119T093809Z
+DTSTART:20261123T180000Z
+DTEND:20261123T194500Z
+SUMMARY:Kauno Žalgiris - SL Benfica
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
-UID:futsalcl-20261204-hit-kyiv-l84-torino@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:HIT Kyiv - L84 Torino · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+UID:futsalcl-20261123-mnk-olmissum-barca@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261123T190000Z
+DTEND:20261123T204500Z
+SUMMARY:MNK Olmissum - Barça
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
-UID:futsalcl-20261204-futsal-club-semey-athletic-futsal@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Futsal Club Semey - Athletic Futsal · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+UID:futsalcl-20261123-elpozo-murcia-anderlecht@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261123T193000Z
+DTEND:20261123T211500Z
+SUMMARY:ElPozo Murcia - Anderlecht
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
-UID:futsalcl-20261204-anderlecht-elpozo-murcia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Anderlecht - ElPozo Murcia · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+UID:futsalcl-20261123-l84-torino-hit-kyiv@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261123T200000Z
+DTEND:20261123T214500Z
+SUMMARY:L84 Torino - HIT Kyiv
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
-UID:futsalcl-20261204-kairat-piast-gliwice@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Kairat - Piast Gliwice · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+UID:futsalcl-20261124-athletic-futsal-futsal-club-semey@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261124T170000Z
+DTEND:20261124T184500Z
+SUMMARY:Athletic Futsal - Futsal Club Semey
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20261204-stalitsa-minsk-futsal-minerva@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Stalitsa Minsk - Futsal Minerva · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+DTSTAMP:20261119T093809Z
+DTSTART:20261204T133000Z
+DTEND:20261204T151500Z
+SUMMARY:Stalitsa Minsk - Futsal Minerva
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
-UID:futsalcl-20261204-barca-mnk-olmissum@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Barça - MNK Olmissum · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+UID:futsalcl-20261204-kairat-piast-gliwice@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261204T150000Z
+DTEND:20261204T164500Z
+SUMMARY:Kairat - Piast Gliwice
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
-UID:futsalcl-20261204-sporting-cp-tfk-beitar@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Sporting CP - TFK Beitar · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+UID:futsalcl-20261204-hit-kyiv-l84-torino@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261204T170000Z
+DTEND:20261204T184500Z
+SUMMARY:HIT Kyiv - L84 Torino
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20261204-sl-benfica-kauno-zalgiris@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:SL Benfica - Kauno Žalgiris · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Futsal Champions League
+DTSTAMP:20261119T093809Z
+DTSTART:20261204T190000Z
+DTEND:20261204T204500Z
+SUMMARY:SL Benfica - Kauno Žalgiris
+DESCRIPTION:UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261204-anderlecht-elpozo-murcia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261204T193000Z
+DTEND:20261204T211500Z
+SUMMARY:Anderlecht - ElPozo Murcia
+DESCRIPTION:UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261204-barca-mnk-olmissum@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261204T193000Z
+DTEND:20261204T211500Z
+SUMMARY:Barça - MNK Olmissum
+DESCRIPTION:UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261205-futsal-club-semey-athletic-futsal@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261205T140000Z
+DTEND:20261205T154500Z
+SUMMARY:Futsal Club Semey - Athletic Futsal
+DESCRIPTION:UEFA Futsal Champions League
+END:VEVENT
+BEGIN:VEVENT
+UID:futsalcl-20261205-sporting-cp-tfk-beitar@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Sporting CP - TFK Beitar
+DESCRIPTION:UEFA Futsal Champions League
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270208-winner-r16-1-winner-r16-2@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Winner R16-1 - Winner R16-2 · TBD
@@ -223,7 +223,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270208-winner-r16-3-winner-r16-4@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Winner R16-3 - Winner R16-4 · TBD
@@ -232,7 +232,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270208-winner-r16-5-winner-r16-6@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Winner R16-5 - Winner R16-6 · TBD
@@ -241,7 +241,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270208-winner-r16-7-winner-r16-8@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Winner R16-7 - Winner R16-8 · TBD
@@ -250,7 +250,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270219-winner-r16-2-winner-r16-1@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:Winner R16-2 - Winner R16-1 · TBD
@@ -259,7 +259,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270219-winner-r16-4-winner-r16-3@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:Winner R16-4 - Winner R16-3 · TBD
@@ -268,7 +268,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270219-winner-r16-6-winner-r16-5@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:Winner R16-6 - Winner R16-5 · TBD
@@ -277,7 +277,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270219-winner-r16-8-winner-r16-7@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:Winner R16-8 - Winner R16-7 · TBD
@@ -286,7 +286,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270507-winner-qf1-winner-qf2@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:Winner QF1 - Winner QF2 · TBD
@@ -295,7 +295,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270507-winner-qf3-winner-qf4@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:Winner QF3 - Winner QF4 · TBD
@@ -304,7 +304,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270509-winner-sf1-winner-sf2@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Winner SF1 - Winner SF2 · TBD
@@ -313,7 +313,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20270509-loser-sf1-loser-sf2@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Loser SF1 - Loser SF2 · TBD

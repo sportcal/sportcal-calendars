@@ -5,20 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Boston River · Primera División
 BEGIN:VEVENT
-UID:uruguaypd-20261114-central-espanol-boston-river-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:BOSTON RIVER | Primera División | J36 | ✈️ | Central Español 
- 🇺🇾
-DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Uruguayan Primera División
+UID:uruguaypd-20261119-boston-river-deportivo-maldonado-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:BOSTON RIVER | Primera División | J37 | 🏟️ | Deportivo Maldon
+ ado 🇺🇾
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Uruguayan Primera División
 END:VEVENT
 BEGIN:VEVENT
-UID:uruguaypd-20261114-central-espanol-boston-river@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T130000Z
-DTEND:20261114T144500Z
-SUMMARY:Central Español - Boston River
+UID:uruguaypd-20261119-boston-river-deportivo-maldonado@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261119T193000Z
+DTEND:20261119T211500Z
+SUMMARY:Boston River - Deportivo Maldonado
 DESCRIPTION:Uruguayan Primera División
 END:VEVENT
 END:VCALENDAR

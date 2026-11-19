@@ -5,22 +5,40 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Deportivo Morón · Primera Nacional
 BEGIN:VEVENT
-UID:nacionalb-20261115-deportivo-moron-colegiales-dia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:DEPORTIVO MORÓN | Primera Nacional | J37 | 🏟️ | Colegiales 
- 🇦🇷
-DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Primera Nacional\nEstadi: Estad
- io Nuevo Francisco Urbano
+UID:nacionalb-20261121-colon-santa-fe-deportivo-moron-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:DEPORTIVO MORÓN | Primera Nacional | J38 | ✈️ | Colón Santa F
+ e 🇦🇷
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · Primera Nacional\nEstadi: Briga
+ dier Gral. Estanislao López
 END:VEVENT
 BEGIN:VEVENT
-UID:nacionalb-20261115-deportivo-moron-colegiales@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T180000Z
-DTEND:20261115T194500Z
-SUMMARY:Deportivo Morón - Colegiales
+UID:nacionalb-20261121-colon-santa-fe-deportivo-moron@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T203000Z
+DTEND:20261121T221500Z
+SUMMARY:Colón Santa Fe - Deportivo Morón
 DESCRIPTION:Primera Nacional
-LOCATION:Estadio Nuevo Francisco Urbano
+LOCATION:Brigadier Gral. Estanislao López
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261128-deportivo-moron-colon-santa-fe-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:DEPORTIVO MORÓN | Primera Nacional | J39 | 🏟️ | Colón Santa 
+ Fe 🇦🇷
+DESCRIPTION:Hora pendent de confirmació · Primera Nacional
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261128-deportivo-moron-colon-santa-fe@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Deportivo Morón - Colón Santa Fe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primera Nacional
 END:VEVENT
 END:VCALENDAR

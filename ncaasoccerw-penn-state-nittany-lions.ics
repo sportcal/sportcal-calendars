@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Penn State Nittany Lions · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-penn-state-nittany-lions-villanova-wildcats-dia@sp
+ ortcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:PENN STATE NITTANY LIONS | NCAA WS | J1 | 🏟️ | Villanova Wildc
+ ats 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: Jeffrey Field\, University Park
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-penn-state-nittany-lions-villanova-wildcats@sportc
+ al
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
+SUMMARY:Penn State Nittany Lions - Villanova Wildcats
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:Jeffrey Field\, University Park
+END:VEVENT
+END:VCALENDAR

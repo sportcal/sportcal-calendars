@@ -5,22 +5,40 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Atlanta · Primera Nacional
 BEGIN:VEVENT
-UID:nacionalb-20261114-atlanta-estudiantes-caseros-dia@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:ATLANTA | Primera Nacional | J37 | 🏟️ | Estudiantes Caseros 
- 🇦🇷
-DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Primera Nacional\nEstadi: Don L
- eón Kolbovsky
+UID:nacionalb-20261121-ciudad-de-bolivar-atlanta-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ATLANTA | Primera Nacional | J38 | ✈️ | Ciudad de Bolívar 🇦
+ 🇷
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Primera Nacional\nEstadi: Estad
+ io Municipal Eva Perón
 END:VEVENT
 BEGIN:VEVENT
-UID:nacionalb-20261114-atlanta-estudiantes-caseros@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART:20261114T180000Z
-DTEND:20261114T194500Z
-SUMMARY:Atlanta - Estudiantes Caseros
+UID:nacionalb-20261121-ciudad-de-bolivar-atlanta@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T200000Z
+DTEND:20261121T214500Z
+SUMMARY:Ciudad de Bolívar - Atlanta
 DESCRIPTION:Primera Nacional
-LOCATION:Don León Kolbovsky
+LOCATION:Estadio Municipal Eva Perón
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261128-atlanta-ciudad-de-bolivar-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ATLANTA | Primera Nacional | J39 | 🏟️ | Ciudad de Bolívar 
+ 🇦🇷
+DESCRIPTION:Hora pendent de confirmació · Primera Nacional
+END:VEVENT
+BEGIN:VEVENT
+UID:nacionalb-20261128-atlanta-ciudad-de-bolivar@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Atlanta - Ciudad de Bolívar · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primera Nacional
 END:VEVENT
 END:VCALENDAR

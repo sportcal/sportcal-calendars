@@ -6,20 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:Comunicaciones · Primera B
 BEGIN:VEVENT
 UID:primerab-20261121-arsenal-de-sarandi-comunicaciones-dia@sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:COMUNICACIONES | Primera B | J44 | ✈️ | Arsenal de Sarandí 
  🇦🇷
-DESCRIPTION:Hora pendent de confirmació · Primera B
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Primera B\nEstadi: Julio Humber
+ to Grondona
 END:VEVENT
 BEGIN:VEVENT
 UID:primerab-20261121-arsenal-de-sarandi-comunicaciones@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Arsenal de Sarandí - Comunicaciones · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Primera B
+DTSTAMP:20261119T093809Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Arsenal de Sarandí - Comunicaciones
+DESCRIPTION:Primera B
+LOCATION:Julio Humberto Grondona
 END:VEVENT
 END:VCALENDAR

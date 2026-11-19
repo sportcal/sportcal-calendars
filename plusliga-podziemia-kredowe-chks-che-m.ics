@@ -7,7 +7,7 @@ X-WR-CALNAME:Podziemia Kredowe ChKS Chełm · Tauron Liga
 BEGIN:VEVENT
 UID:plusliga-20261121-podziemia-kredowe-chks-che-m-energa-trefl-gdansk-dia@
  sportcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:PODZIEMIA KREDOWE CHKS CHEŁM | Tauron Liga | J7 | 🏟️ | Energa
@@ -17,10 +17,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:plusliga-20261121-podziemia-kredowe-chks-che-m-energa-trefl-gdansk@spor
  tcal
-DTSTAMP:20261116T103333Z
+DTSTAMP:20261119T093809Z
 DTSTART:20261121T193000Z
 DTEND:20261121T211500Z
 SUMMARY:Podziemia Kredowe ChKS Chełm - Energa Trefl Gdańsk
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261202-zaksa-kedzierzyn-kozle-podziemia-kredowe-chks-che-m-d
+ ia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:PODZIEMIA KREDOWE CHKS CHEŁM | Tauron Liga | J8 | ✈️ | ZAKSA K
+ ędzierzyn-Koźle 🇵🇱
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261202-zaksa-kedzierzyn-kozle-podziemia-kredowe-chks-che-m@s
+ portcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261202T163000Z
+DTEND:20261202T181500Z
+SUMMARY:ZAKSA Kędzierzyn-Koźle - Podziemia Kredowe ChKS Chełm
 DESCRIPTION:Tauron Liga
 END:VEVENT
 END:VCALENDAR

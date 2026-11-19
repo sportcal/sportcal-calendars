@@ -5,21 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Laval [CdF] · Coupe de France
 BEGIN:VEVENT
-UID:coupedefrance-20261115-ea-saint-renan-laval-cdf-dia@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:LAVAL [CDF] | Coupe de France | ✈️ | EA Saint-Renan 🇫🇷
-DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
- Abbé-Le-Gall
+UID:coupedefrance-20261128-lannion-laval-cdf-dia@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:LAVAL [CDF] | Coupe de France | ✈️ | Lannion 🇫🇷
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Coupe de France
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261115-ea-saint-renan-laval-cdf@sportcal
-DTSTAMP:20261115T095717Z
-DTSTART:20261115T130000Z
-DTEND:20261115T144500Z
-SUMMARY:EA Saint-Renan - Laval [CdF]
+UID:coupedefrance-20261128-lannion-laval-cdf@sportcal
+DTSTAMP:20261119T093809Z
+DTSTART:20261128T123000Z
+DTEND:20261128T141500Z
+SUMMARY:Lannion - Laval [CdF]
 DESCRIPTION:Coupe de France
-LOCATION:Stade Abbé-Le-Gall
 END:VEVENT
 END:VCALENDAR

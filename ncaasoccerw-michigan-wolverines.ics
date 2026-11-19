@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Michigan Wolverines · NCAA WS
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-michigan-wolverines-western-michigan-broncos-dia@s
+ portcal
+DTSTAMP:20261119T093809Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:MICHIGAN WOLVERINES | NCAA WS | J1 | 🏟️ | Western Michigan Bro
+ ncos 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Soccer\nE
+ stadi: U-M Soccer Stadium\, Ann Arbor\, Michigan
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261121-michigan-wolverines-western-michigan-broncos@sport
+ cal
+DTSTAMP:20261119T093809Z
+DTSTART:20261120T230000Z
+DTEND:20261121T004500Z
+SUMMARY:Michigan Wolverines - Western Michigan Broncos
+DESCRIPTION:NCAA Division I Women Soccer
+LOCATION:U-M Soccer Stadium\, Ann Arbor\, Michigan
+END:VEVENT
+END:VCALENDAR
