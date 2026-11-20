@@ -4,6 +4,8 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:UEFA Youth League
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:youthleague-dia-20261124-matchday-5@sportcal
 DTSTAMP:20261119T093809Z
