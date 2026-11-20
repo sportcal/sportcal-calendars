@@ -5,2764 +5,2655 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:LaLiga
 BEGIN:VEVENT
-UID:laliga-dia-20261120-j13@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:LALIGA | J13
-DESCRIPTION:21:00 Athletic de Bilbao - Espanyol
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261121-j13@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:LALIGA | J13
-DESCRIPTION:14:00 Deportivo Alavés - RC Deportivo\n16:15 Rayo Vallecano - 
- Valencia\n18:30 Sevilla FC - Real Betis\n21:00 Real Madrid - Celta de Vigo
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-dia-20261122-j13@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:LALIGA | J13
-DESCRIPTION:14:00 FC Barcelona - Villarreal\n16:15 Racing de Santander - Re
- al Sociedad\n18:30 CA Osasuna - Malaga\n21:00 Getafe - Atlético Madrid
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261123-j13@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:LALIGA | J13
-DESCRIPTION:21:00 Levante - Elche CF
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261127-j14@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:LALIGA | J14
-DESCRIPTION:21:00 Levante - Racing de Santander
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261128-j14@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:LALIGA | J14
-DESCRIPTION:14:00 Real Betis - Rayo Vallecano\n16:15 Malaga - Athletic de B
- ilbao\n18:30 Elche CF - Atlético Madrid\n21:00 Real Madrid - Deportivo Al
- avés
+DESCRIPTION:TBD Athletic de Bilbao - Espanyol\nTBD FC Barcelona - Villarrea
+ l\nTBD Racing de Santander - Real Sociedad\nTBD Rayo Vallecano - Valencia\
+ nTBD CA Osasuna - Malaga\nTBD Getafe - Atlético Madrid\nTBD Real Madrid -
+  Celta de Vigo\nTBD Deportivo Alavés - RC Deportivo\nTBD Sevilla FC - Rea
+ l Betis\nTBD Levante - Elche CF
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20261129-j14@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:LALIGA | J14
-DESCRIPTION:14:00 Valencia - CA Osasuna\n16:15 RC Deportivo - FC Barcelona\
- n18:30 Celta de Vigo - Villarreal\n21:00 Real Sociedad - Sevilla FC
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261130-j14@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:LALIGA | J14
-DESCRIPTION:21:00 Espanyol - Getafe
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261202-j15@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:LALIGA | J15
-DESCRIPTION:19:00 Real Sociedad - Real Madrid\n21:30 FC Barcelona - Atléti
- co Madrid
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261204-j15@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:LALIGA | J15
-DESCRIPTION:21:00 Deportivo Alavés - Espanyol
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261205-j15@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:LALIGA | J15
-DESCRIPTION:14:00 Racing de Santander - RC Deportivo\n16:15 Rayo Vallecano 
- - Levante\n18:30 Villarreal - Real Sociedad\n21:00 FC Barcelona - Celta de
-  Vigo
+DESCRIPTION:TBD Celta de Vigo - Villarreal\nTBD Elche CF - Atlético Madrid
+ \nTBD Real Betis - Rayo Vallecano\nTBD Valencia - CA Osasuna\nTBD Real Mad
+ rid - Deportivo Alavés\nTBD Espanyol - Getafe\nTBD Real Sociedad - Sevill
+ a FC\nTBD Levante - Racing de Santander\nTBD RC Deportivo - FC Barcelona\n
+ TBD Malaga - Athletic de Bilbao
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20261206-j15@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:LALIGA | J15
-DESCRIPTION:14:00 CA Osasuna - Elche CF\n16:15 Athletic de Bilbao - Real Ma
- drid\n18:30 Getafe - Valencia\n21:00 Atlético Madrid - Real Betis
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261207-j15@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:LALIGA | J15
-DESCRIPTION:21:00 Sevilla FC - Malaga
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261209-j15@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:LALIGA | J15
-DESCRIPTION:20:00 Rayo Vallecano - Athletic de Bilbao
+DESCRIPTION:TBD CA Osasuna - Elche CF\nTBD Sevilla FC - Malaga\nTBD Deporti
+ vo Alavés - Espanyol\nTBD Atlético Madrid - Real Betis\nTBD Racing de Sa
+ ntander - RC Deportivo\nTBD FC Barcelona - Celta de Vigo\nTBD Getafe - Val
+ encia\nTBD Athletic de Bilbao - Real Madrid\nTBD Villarreal - Real Socieda
+ d\nTBD Rayo Vallecano - Levante
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20261213-j16@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:LALIGA | J16
-DESCRIPTION:21:00 Atlético Madrid - Valencia\n21:00 RC Deportivo - Athleti
- c de Bilbao\n21:00 Elche CF - Sevilla FC\n21:00 Espanyol - Celta de Vigo\n
- 21:00 Levante - Deportivo Alavés\n21:00 Malaga - FC Barcelona\n21:00 Real
-  Betis - Racing de Santander\n21:00 Real Madrid - CA Osasuna\n21:00 Real S
- ociedad - Getafe\n21:00 Villarreal - Rayo Vallecano
+DESCRIPTION:TBD Espanyol - Celta de Vigo\nTBD Malaga - FC Barcelona\nTBD Re
+ al Madrid - CA Osasuna\nTBD RC Deportivo - Athletic de Bilbao\nTBD Levante
+  - Deportivo Alavés\nTBD Elche CF - Sevilla FC\nTBD Villarreal - Rayo Val
+ lecano\nTBD Real Betis - Racing de Santander\nTBD Real Sociedad - Getafe\n
+ TBD Atlético Madrid - Valencia
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20261220-j17@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:LALIGA | J17
-DESCRIPTION:21:00 Deportivo Alavés - Elche CF\n21:00 Athletic de Bilbao - 
- Real Betis\n21:00 Celta de Vigo - Atlético Madrid\n21:00 RC Deportivo - R
- eal Madrid\n21:00 Getafe - Levante\n21:00 CA Osasuna - Villarreal\n21:00 R
- ayo Vallecano - Malaga\n21:00 Sevilla FC - Racing de Santander\n21:00 Vale
- ncia - Espanyol
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20261220-j18@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:LALIGA | J18
-DESCRIPTION:21:00 FC Barcelona - Real Sociedad
+DESCRIPTION:TBD Athletic de Bilbao - Real Betis\nTBD Getafe - Levante\nTBD 
+ Deportivo Alavés - Elche CF\nTBD Valencia - Espanyol\nTBD CA Osasuna - Vi
+ llarreal\nTBD FC Barcelona - Real Sociedad\nTBD Celta de Vigo - Atlético 
+ Madrid\nTBD Rayo Vallecano - Malaga\nTBD RC Deportivo - Real Madrid\nTBD S
+ evilla FC - Racing de Santander
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270103-j18@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:LALIGA | J18
-DESCRIPTION:21:00 Celta de Vigo - RC Deportivo\n21:00 Espanyol - FC Barcelo
- na\n21:00 Levante - Valencia\n21:00 Malaga - Elche CF\n21:00 Racing de San
- tander - Athletic de Bilbao\n21:00 Rayo Vallecano - Atlético Madrid\n21:0
- 0 Real Betis - Deportivo Alavés\n21:00 Real Madrid - Getafe\n21:00 Real S
- ociedad - CA Osasuna\n21:00 Villarreal - Sevilla FC
+DESCRIPTION:TBD Real Madrid - Getafe\nTBD Real Sociedad - CA Osasuna\nTBD L
+ evante - Valencia\nTBD Racing de Santander - Athletic de Bilbao\nTBD Malag
+ a - Elche CF\nTBD Real Betis - Deportivo Alavés\nTBD Celta de Vigo - RC D
+ eportivo\nTBD Espanyol - FC Barcelona\nTBD Villarreal - Sevilla FC\nTBD Ra
+ yo Vallecano - Atlético Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270110-j19@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:LALIGA | J19
-DESCRIPTION:21:00 Deportivo Alavés - Real Sociedad\n21:00 Athletic de Bilb
- ao - Villarreal\n21:00 Atlético Madrid - Racing de Santander\n21:00 RC De
- portivo - Rayo Vallecano\n21:00 Elche CF - Getafe\n21:00 Espanyol - Real B
- etis\n21:00 CA Osasuna - FC Barcelona\n21:00 Real Madrid - Levante\n21:00 
- Sevilla FC - Celta de Vigo\n21:00 Valencia - Malaga
+DESCRIPTION:TBD Athletic de Bilbao - Villarreal\nTBD Elche CF - Getafe\nTBD
+  Real Madrid - Levante\nTBD CA Osasuna - FC Barcelona\nTBD RC Deportivo - 
+ Rayo Vallecano\nTBD Atlético Madrid - Racing de Santander\nTBD Deportivo 
+ Alavés - Real Sociedad\nTBD Sevilla FC - Celta de Vigo\nTBD Espanyol - Re
+ al Betis\nTBD Valencia - Malaga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270117-j20@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:LALIGA | J20
-DESCRIPTION:21:00 Celta de Vigo - Valencia\n21:00 Getafe - Athletic de Bilb
- ao\n21:00 Levante - Espanyol\n21:00 Racing de Santander - CA Osasuna\n21:0
- 0 Rayo Vallecano - Sevilla FC\n21:00 Real Betis - RC Deportivo\n21:00 Vill
- arreal - Deportivo Alavés
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-dia-20270117-j21@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270118
-SUMMARY:LALIGA | J21
-DESCRIPTION:21:00 Atlético Madrid - Real Sociedad\n21:00 FC Barcelona - El
- che CF\n21:00 Malaga - Real Madrid
+DESCRIPTION:TBD Malaga - Real Madrid\nTBD FC Barcelona - Elche CF\nTBD Vill
+ arreal - Deportivo Alavés\nTBD Racing de Santander - CA Osasuna\nTBD Leva
+ nte - Espanyol\nTBD Celta de Vigo - Valencia\nTBD Getafe - Athletic de Bil
+ bao\nTBD Rayo Vallecano - Sevilla FC\nTBD Real Betis - RC Deportivo\nTBD A
+ tlético Madrid - Real Sociedad
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270124-j21@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:LALIGA | J21
-DESCRIPTION:21:00 Deportivo Alavés - FC Barcelona\n21:00 Athletic de Bilba
- o - Levante\n21:00 RC Deportivo - Atlético Madrid\n21:00 Elche CF - Rayo 
- Vallecano\n21:00 Espanyol - Villarreal\n21:00 Getafe - CA Osasuna\n21:00 R
- acing de Santander - Celta de Vigo\n21:00 Real Madrid - Real Betis\n21:00 
- Real Sociedad - Malaga\n21:00 Valencia - Sevilla FC
+DESCRIPTION:TBD Real Madrid - Real Betis\nTBD Getafe - CA Osasuna\nTBD Vale
+ ncia - Sevilla FC\nTBD Elche CF - Rayo Vallecano\nTBD Deportivo Alavés - 
+ FC Barcelona\nTBD Real Sociedad - Malaga\nTBD Racing de Santander - Celta 
+ de Vigo\nTBD Athletic de Bilbao - Levante\nTBD Espanyol - Villarreal\nTBD 
+ RC Deportivo - Atlético Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270131-j22@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:LALIGA | J22
-DESCRIPTION:21:00 Atlético Madrid - Espanyol\n21:00 FC Barcelona - Valenci
- a\n21:00 Celta de Vigo - Getafe\n21:00 Levante - Real Sociedad\n21:00 Mala
- ga - Deportivo Alavés\n21:00 CA Osasuna - RC Deportivo\n21:00 Rayo Vallec
- ano - Real Madrid\n21:00 Real Betis - Elche CF\n21:00 Sevilla FC - Athleti
- c de Bilbao\n21:00 Villarreal - Racing de Santander
+DESCRIPTION:TBD Real Betis - Elche CF\nTBD Rayo Vallecano - Real Madrid\nTB
+ D Atlético Madrid - Espanyol\nTBD Celta de Vigo - Getafe\nTBD Villarreal 
+ - Racing de Santander\nTBD Levante - Real Sociedad\nTBD FC Barcelona - Val
+ encia\nTBD Sevilla FC - Athletic de Bilbao\nTBD CA Osasuna - RC Deportivo\
+ nTBD Malaga - Deportivo Alavés
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270207-j23@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:LALIGA | J23
-DESCRIPTION:21:00 Deportivo Alavés - Celta de Vigo\n21:00 Athletic de Bilb
- ao - CA Osasuna\n21:00 RC Deportivo - Malaga\n21:00 Elche CF - Levante\n21
- :00 Espanyol - Rayo Vallecano\n21:00 Getafe - Villarreal\n21:00 Real Betis
-  - Sevilla FC\n21:00 Valencia - Racing de Santander
+DESCRIPTION:TBD Athletic de Bilbao - CA Osasuna\nTBD Deportivo Alavés - Ce
+ lta de Vigo\nTBD Real Betis - Sevilla FC\nTBD Elche CF - Levante\nTBD Espa
+ nyol - Rayo Vallecano\nTBD Getafe - Villarreal\nTBD RC Deportivo - Malaga\
+ nTBD Real Sociedad - Real Madrid\nTBD Valencia - Racing de Santander\nTBD 
+ FC Barcelona - Atlético Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270214-j24@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:LALIGA | J24
-DESCRIPTION:21:00 Celta de Vigo - Rayo Vallecano\n21:00 Elche CF - RC Depor
- tivo\n21:00 Levante - Malaga\n21:00 CA Osasuna - Atlético Madrid\n21:00 R
- acing de Santander - Getafe\n21:00 Real Madrid - Athletic de Bilbao\n21:00
-  Real Sociedad - Real Betis\n21:00 Sevilla FC - Espanyol\n21:00 Valencia -
-  Deportivo Alavés\n21:00 Villarreal - FC Barcelona
+DESCRIPTION:TBD Sevilla FC - Espanyol\nTBD CA Osasuna - Atlético Madrid\nT
+ BD Celta de Vigo - Rayo Vallecano\nTBD Villarreal - FC Barcelona\nTBD Real
+  Sociedad - Real Betis\nTBD Elche CF - RC Deportivo\nTBD Valencia - Deport
+ ivo Alavés\nTBD Levante - Malaga\nTBD Racing de Santander - Getafe\nTBD R
+ eal Madrid - Athletic de Bilbao
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270221-j25@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:LALIGA | J25
-DESCRIPTION:21:00 Deportivo Alavés - Racing de Santander\n21:00 Athletic d
- e Bilbao - Celta de Vigo\n21:00 Atlético Madrid - Elche CF\n21:00 FC Barc
- elona - Levante\n21:00 RC Deportivo - Real Sociedad\n21:00 Espanyol - CA O
- sasuna\n21:00 Malaga - Real Betis\n21:00 Rayo Vallecano - Getafe\n21:00 Se
- villa FC - Real Madrid\n21:00 Villarreal - Valencia
+DESCRIPTION:TBD Deportivo Alavés - Racing de Santander\nTBD Malaga - Real 
+ Betis\nTBD Villarreal - Valencia\nTBD FC Barcelona - Levante\nTBD Athletic
+  de Bilbao - Celta de Vigo\nTBD Espanyol - CA Osasuna\nTBD Sevilla FC - Re
+ al Madrid\nTBD Atlético Madrid - Elche CF\nTBD RC Deportivo - Real Socied
+ ad\nTBD Rayo Vallecano - Getafe
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270228-j26@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:LALIGA | J26
-DESCRIPTION:21:00 Athletic de Bilbao - FC Barcelona\n21:00 Celta de Vigo - 
- Espanyol\n21:00 Getafe - Deportivo Alavés\n21:00 Levante - RC Deportivo\n
- 21:00 Malaga - Atlético Madrid\n21:00 CA Osasuna - Sevilla FC\n21:00 Raci
- ng de Santander - Rayo Vallecano\n21:00 Real Betis - Villarreal\n21:00 Rea
- l Madrid - Valencia\n21:00 Real Sociedad - Elche CF
+DESCRIPTION:TBD Celta de Vigo - Espanyol\nTBD Levante - RC Deportivo\nTBD M
+ alaga - Atlético Madrid\nTBD CA Osasuna - Sevilla FC\nTBD Real Madrid - V
+ alencia\nTBD Getafe - Deportivo Alavés\nTBD Athletic de Bilbao - FC Barce
+ lona\nTBD Racing de Santander - Rayo Vallecano\nTBD Real Betis - Villarrea
+ l\nTBD Real Sociedad - Elche CF
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270307-j27@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:LALIGA | J27
-DESCRIPTION:21:00 Deportivo Alavés - Athletic de Bilbao\n21:00 Atlético M
- adrid - Celta de Vigo\n21:00 FC Barcelona - Real Betis\n21:00 RC Deportivo
-  - Getafe\n21:00 Elche CF - Malaga\n21:00 Espanyol - Racing de Santander\n
- 21:00 Rayo Vallecano - CA Osasuna\n21:00 Sevilla FC - Real Sociedad\n21:00
-  Valencia - Levante\n21:00 Villarreal - Real Madrid
+DESCRIPTION:TBD FC Barcelona - Real Betis\nTBD Elche CF - Malaga\nTBD Depor
+ tivo Alavés - Athletic de Bilbao\nTBD Rayo Vallecano - CA Osasuna\nTBD Se
+ villa FC - Real Sociedad\nTBD Atlético Madrid - Celta de Vigo\nTBD Villar
+ real - Real Madrid\nTBD Valencia - Levante\nTBD RC Deportivo - Getafe\nTBD
+  Espanyol - Racing de Santander
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270314-j28@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:LALIGA | J28
-DESCRIPTION:19:00 Deportivo Alavés - Sevilla FC\n19:00 Athletic de Bilbao 
- - Valencia\n19:00 FC Barcelona - RC Deportivo\n19:00 Elche CF - Villarreal
- \n19:00 Getafe - Real Sociedad\n19:00 Malaga - Rayo Vallecano\n19:00 CA Os
- asuna - Celta de Vigo\n19:00 Racing de Santander - Atlético Madrid\n19:00
-  Real Betis - Levante\n19:00 Real Madrid - Espanyol
+DESCRIPTION:TBD CA Osasuna - Celta de Vigo\nTBD Elche CF - Villarreal\nTBD 
+ Deportivo Alavés - Sevilla FC\nTBD Athletic de Bilbao - Valencia\nTBD Rea
+ l Betis - Levante\nTBD Racing de Santander - Atlético Madrid\nTBD Malaga 
+ - Rayo Vallecano\nTBD Getafe - Real Sociedad\nTBD FC Barcelona - RC Deport
+ ivo\nTBD Real Madrid - Espanyol
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270321-j29@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:LALIGA | J29
-DESCRIPTION:19:00 Atlético Madrid - Getafe\n19:00 Celta de Vigo - Real Mad
- rid\n19:00 Espanyol - Athletic de Bilbao\n19:00 Levante - CA Osasuna\n19:0
- 0 Racing de Santander - Real Betis\n19:00 Rayo Vallecano - FC Barcelona\n1
- 9:00 Real Sociedad - Deportivo Alavés\n19:00 Sevilla FC - Elche CF\n19:00
-  Valencia - RC Deportivo\n19:00 Villarreal - Malaga
+DESCRIPTION:TBD Villarreal - Malaga\nTBD Sevilla FC - Elche CF\nTBD Levante
+  - CA Osasuna\nTBD Celta de Vigo - Real Madrid\nTBD Rayo Vallecano - FC Ba
+ rcelona\nTBD Real Sociedad - Deportivo Alavés\nTBD Espanyol - Athletic de
+  Bilbao\nTBD Racing de Santander - Real Betis\nTBD Valencia - RC Deportivo
+ \nTBD Atlético Madrid - Getafe
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270404-j30@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:LALIGA | J30
-DESCRIPTION:20:00 Athletic de Bilbao - Racing de Santander\n20:00 FC Barcel
- ona - Sevilla FC\n20:00 RC Deportivo - Villarreal\n20:00 Elche CF - Deport
- ivo Alavés\n20:00 Getafe - Espanyol\n20:00 Levante - Rayo Vallecano\n20:0
- 0 Malaga - CA Osasuna\n20:00 Real Betis - Celta de Vigo\n20:00 Real Madrid
-  - Atlético Madrid\n20:00 Real Sociedad - Valencia
+DESCRIPTION:TBD Levante - Rayo Vallecano\nTBD FC Barcelona - Sevilla FC\nTB
+ D Malaga - CA Osasuna\nTBD Athletic de Bilbao - Racing de Santander\nTBD R
+ C Deportivo - Villarreal\nTBD Real Sociedad - Valencia\nTBD Elche CF - Dep
+ ortivo Alavés\nTBD Real Madrid - Atlético Madrid\nTBD Getafe - Espanyol\
+ nTBD Real Betis - Celta de Vigo
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270411-j31@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:LALIGA | J31
-DESCRIPTION:20:00 Deportivo Alavés - Real Betis\n20:00 Atlético Madrid - 
- Levante\n20:00 Celta de Vigo - Elche CF\n20:00 Espanyol - Malaga\n20:00 CA
-  Osasuna - Real Madrid\n20:00 Racing de Santander - FC Barcelona\n20:00 Ra
- yo Vallecano - Real Sociedad\n20:00 Sevilla FC - RC Deportivo\n20:00 Valen
- cia - Getafe\n20:00 Villarreal - Athletic de Bilbao
+DESCRIPTION:TBD Rayo Vallecano - Real Sociedad\nTBD Espanyol - Malaga\nTBD 
+ Villarreal - Athletic de Bilbao\nTBD Deportivo Alavés - Real Betis\nTBD V
+ alencia - Getafe\nTBD Sevilla FC - RC Deportivo\nTBD Celta de Vigo - Elche
+  CF\nTBD Racing de Santander - FC Barcelona\nTBD CA Osasuna - Real Madrid\
+ nTBD Atlético Madrid - Levante
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270418-j32@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:LALIGA | J32
-DESCRIPTION:20:00 Deportivo Alavés - Rayo Vallecano\n20:00 Atlético Madri
- d - Sevilla FC\n20:00 FC Barcelona - Espanyol\n20:00 RC Deportivo - Celta 
- de Vigo\n20:00 Elche CF - CA Osasuna\n20:00 Getafe - Real Madrid\n20:00 Le
- vante - Villarreal\n20:00 Malaga - Valencia\n20:00 Real Betis - Athletic d
- e Bilbao\n20:00 Real Sociedad - Racing de Santander
+DESCRIPTION:TBD Atlético Madrid - Sevilla FC\nTBD FC Barcelona - Espanyol\
+ nTBD Levante - Villarreal\nTBD Real Sociedad - Racing de Santander\nTBD Ma
+ laga - Valencia\nTBD RC Deportivo - Celta de Vigo\nTBD Elche CF - CA Osasu
+ na\nTBD Deportivo Alavés - Rayo Vallecano\nTBD Real Betis - Athletic de B
+ ilbao\nTBD Getafe - Real Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270421-j33@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:LALIGA | J33
-DESCRIPTION:20:00 Athletic de Bilbao - RC Deportivo\n20:00 Celta de Vigo - 
- FC Barcelona\n20:00 Espanyol - Real Sociedad\n20:00 Getafe - Real Betis\n2
- 0:00 CA Osasuna - Deportivo Alavés\n20:00 Racing de Santander - Malaga\n2
- 0:00 Real Madrid - Elche CF\n20:00 Sevilla FC - Levante\n20:00 Valencia - 
- Rayo Vallecano\n20:00 Villarreal - Atlético Madrid
+DESCRIPTION:TBD Getafe - Real Betis\nTBD Valencia - Rayo Vallecano\nTBD Cel
+ ta de Vigo - FC Barcelona\nTBD CA Osasuna - Deportivo Alavés\nTBD Real Ma
+ drid - Elche CF\nTBD Athletic de Bilbao - RC Deportivo\nTBD Racing de Sant
+ ander - Malaga\nTBD Villarreal - Atlético Madrid\nTBD Sevilla FC - Levant
+ e\nTBD Espanyol - Real Sociedad
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270502-j34@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:LALIGA | J34
-DESCRIPTION:20:00 Atlético Madrid - Deportivo Alavés\n20:00 FC Barcelona 
- - CA Osasuna\n20:00 Celta de Vigo - Sevilla FC\n20:00 RC Deportivo - Racin
- g de Santander\n20:00 Elche CF - Espanyol\n20:00 Levante - Real Madrid\n20
- :00 Malaga - Getafe\n20:00 Rayo Vallecano - Villarreal\n20:00 Real Betis -
-  Valencia\n20:00 Real Sociedad - Athletic de Bilbao
+DESCRIPTION:TBD RC Deportivo - Racing de Santander\nTBD Celta de Vigo - Sev
+ illa FC\nTBD Real Sociedad - Athletic de Bilbao\nTBD FC Barcelona - CA Osa
+ suna\nTBD Rayo Vallecano - Villarreal\nTBD Malaga - Getafe\nTBD Real Betis
+  - Valencia\nTBD Elche CF - Espanyol\nTBD Levante - Real Madrid\nTBD Atlé
+ tico Madrid - Deportivo Alavés
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270509-j35@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:LALIGA | J35
-DESCRIPTION:20:00 Deportivo Alavés - Levante\n20:00 Athletic de Bilbao - M
- alaga\n20:00 Getafe - Elche CF\n20:00 CA Osasuna - Real Sociedad\n20:00 Ra
- cing de Santander - Sevilla FC\n20:00 Rayo Vallecano - RC Deportivo\n20:00
-  Real Betis - Espanyol\n20:00 Real Madrid - FC Barcelona\n20:00 Valencia -
-  Atlético Madrid\n20:00 Villarreal - Celta de Vigo
+DESCRIPTION:TBD Valencia - Atlético Madrid\nTBD CA Osasuna - Real Sociedad
+ \nTBD Deportivo Alavés - Levante\nTBD Athletic de Bilbao - Malaga\nTBD Ra
+ cing de Santander - Sevilla FC\nTBD Rayo Vallecano - RC Deportivo\nTBD Rea
+ l Betis - Espanyol\nTBD Real Madrid - FC Barcelona\nTBD Getafe - Elche CF\
+ nTBD Villarreal - Celta de Vigo
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270516-j36@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:LALIGA | J36
-DESCRIPTION:20:00 Atlético Madrid - Rayo Vallecano\n20:00 RC Deportivo - D
- eportivo Alavés\n20:00 Elche CF - Athletic de Bilbao\n20:00 Espanyol - Va
- lencia\n20:00 Levante - Getafe\n20:00 Malaga - Celta de Vigo\n20:00 CA Osa
- suna - Real Betis\n20:00 Real Madrid - Racing de Santander\n20:00 Real Soc
- iedad - FC Barcelona\n20:00 Sevilla FC - Villarreal
+DESCRIPTION:TBD Atlético Madrid - Rayo Vallecano\nTBD Sevilla FC - Villarr
+ eal\nTBD Real Sociedad - FC Barcelona\nTBD Elche CF - Athletic de Bilbao\n
+ TBD Malaga - Celta de Vigo\nTBD RC Deportivo - Deportivo Alavés\nTBD Leva
+ nte - Getafe\nTBD Espanyol - Valencia\nTBD Real Madrid - Racing de Santand
+ er\nTBD CA Osasuna - Real Betis
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270523-j37@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:LALIGA | J37
-DESCRIPTION:20:00 Deportivo Alavés - Real Madrid\n20:00 Atlético Madrid -
-  Athletic de Bilbao\n20:00 FC Barcelona - Malaga\n20:00 Celta de Vigo - Re
- al Sociedad\n20:00 RC Deportivo - Espanyol\n20:00 Racing de Santander - Le
- vante\n20:00 Rayo Vallecano - Real Betis\n20:00 Sevilla FC - Getafe\n20:00
-  Valencia - Elche CF\n20:00 Villarreal - CA Osasuna
+DESCRIPTION:TBD Atlético Madrid - Athletic de Bilbao\nTBD Deportivo Alavé
+ s - Real Madrid\nTBD Sevilla FC - Getafe\nTBD Villarreal - CA Osasuna\nTBD
+  Racing de Santander - Levante\nTBD RC Deportivo - Espanyol\nTBD Rayo Vall
+ ecano - Real Betis\nTBD FC Barcelona - Malaga\nTBD Valencia - Elche CF\nTB
+ D Celta de Vigo - Real Sociedad
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-dia-20270530-j38@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T102635Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:LALIGA | J38
-DESCRIPTION:20:00 Athletic de Bilbao - Rayo Vallecano\n20:00 Elche CF - Rac
- ing de Santander\n20:00 Espanyol - Deportivo Alavés\n20:00 Getafe - FC Ba
- rcelona\n20:00 Levante - Celta de Vigo\n20:00 Malaga - Sevilla FC\n20:00 C
- A Osasuna - Valencia\n20:00 Real Betis - Atlético Madrid\n20:00 Real Madr
- id - RC Deportivo\n20:00 Real Sociedad - Villarreal
+DESCRIPTION:TBD Levante - Celta de Vigo\nTBD Real Madrid - RC Deportivo\nTB
+ D Real Betis - Atlético Madrid\nTBD Real Sociedad - Villarreal\nTBD Malag
+ a - Sevilla FC\nTBD Elche CF - Racing de Santander\nTBD Athletic de Bilbao
+  - Rayo Vallecano\nTBD Espanyol - Deportivo Alavés\nTBD Getafe - FC Barce
+ lona\nTBD CA Osasuna - Valencia
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261120-athletic-de-bilbao-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261120T200000Z
-DTEND:20261120T214500Z
-SUMMARY:Athletic de Bilbao - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261121-deportivo-alaves-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261121T130000Z
-DTEND:20261121T144500Z
-SUMMARY:Deportivo Alavés - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261121-rayo-vallecano-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261121T151500Z
-DTEND:20261121T170000Z
-SUMMARY:Rayo Vallecano - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261121-sevilla-fc-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261121T173000Z
-DTEND:20261121T191500Z
-SUMMARY:Sevilla FC - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261121-real-madrid-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261121T200000Z
-DTEND:20261121T214500Z
-SUMMARY:Real Madrid - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
+UID:laliga-20261122-athletic-de-bilbao-espanyol@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Athletic de Bilbao - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261122-fc-barcelona-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261122T130000Z
-DTEND:20261122T144500Z
-SUMMARY:FC Barcelona - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:FC Barcelona - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261122-racing-de-santander-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261122T151500Z
-DTEND:20261122T170000Z
-SUMMARY:Racing de Santander - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Racing de Santander - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261122-rayo-vallecano-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Rayo Vallecano - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261122-ca-osasuna-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261122T173000Z
-DTEND:20261122T191500Z
-SUMMARY:CA Osasuna - Malaga
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:CA Osasuna - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261122-getafe-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261122T200000Z
-DTEND:20261122T214500Z
-SUMMARY:Getafe - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Getafe - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261123-levante-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261123T200000Z
-DTEND:20261123T214500Z
-SUMMARY:Levante - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
+UID:laliga-20261122-real-madrid-celta-de-vigo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Real Madrid - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261127-levante-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261127T200000Z
-DTEND:20261127T214500Z
-SUMMARY:Levante - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
+UID:laliga-20261122-deportivo-alaves-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Deportivo Alavés - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261128-real-betis-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T130000Z
-DTEND:20261128T144500Z
-SUMMARY:Real Betis - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+UID:laliga-20261122-sevilla-fc-real-betis@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Sevilla FC - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261128-malaga-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T151500Z
-DTEND:20261128T170000Z
-SUMMARY:Malaga - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261128-elche-cf-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T173000Z
-DTEND:20261128T191500Z
-SUMMARY:Elche CF - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261128-real-madrid-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T200000Z
-DTEND:20261128T214500Z
-SUMMARY:Real Madrid - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261129-valencia-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261129T130000Z
-DTEND:20261129T144500Z
-SUMMARY:Valencia - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261129-rc-deportivo-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261129T151500Z
-DTEND:20261129T170000Z
-SUMMARY:RC Deportivo - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:Riazor
+UID:laliga-20261122-levante-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Levante - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261129-celta-de-vigo-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261129T173000Z
-DTEND:20261129T191500Z
-SUMMARY:Celta de Vigo - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Celta de Vigo - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261129-elche-cf-atletico-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Elche CF - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261129-real-betis-rayo-vallecano@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Real Betis - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261129-valencia-ca-osasuna@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Valencia - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261129-real-madrid-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Real Madrid - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261129-espanyol-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Espanyol - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261129-real-sociedad-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261129T200000Z
-DTEND:20261129T214500Z
-SUMMARY:Real Sociedad - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Real Sociedad - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261130-espanyol-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261130T200000Z
-DTEND:20261130T214500Z
-SUMMARY:Espanyol - Getafe
-DESCRIPTION:LaLiga
-LOCATION:RCDE
+UID:laliga-20261129-levante-racing-de-santander@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Levante - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261202-real-sociedad-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261202T180000Z
-DTEND:20261202T194500Z
-SUMMARY:Real Sociedad - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+UID:laliga-20261129-rc-deportivo-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:RC Deportivo - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261202-fc-barcelona-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261202T203000Z
-DTEND:20261202T221500Z
-SUMMARY:FC Barcelona - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261204-deportivo-alaves-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261204T200000Z
-DTEND:20261204T214500Z
-SUMMARY:Deportivo Alavés - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261205-racing-de-santander-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261205T130000Z
-DTEND:20261205T144500Z
-SUMMARY:Racing de Santander - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261205-rayo-vallecano-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261205T151500Z
-DTEND:20261205T170000Z
-SUMMARY:Rayo Vallecano - Levante
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261205-villarreal-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261205T173000Z
-DTEND:20261205T191500Z
-SUMMARY:Villarreal - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261205-fc-barcelona-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261205T200000Z
-DTEND:20261205T214500Z
-SUMMARY:FC Barcelona - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
+UID:laliga-20261129-malaga-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Malaga - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261206-ca-osasuna-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261206T130000Z
-DTEND:20261206T144500Z
-SUMMARY:CA Osasuna - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:CA Osasuna - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261206-athletic-de-bilbao-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261206T151500Z
-DTEND:20261206T170000Z
-SUMMARY:Athletic de Bilbao - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
+UID:laliga-20261206-sevilla-fc-malaga@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Sevilla FC - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261206-getafe-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261206T173000Z
-DTEND:20261206T191500Z
-SUMMARY:Getafe - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+UID:laliga-20261206-deportivo-alaves-espanyol@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Deportivo Alavés - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261206-atletico-madrid-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261206T200000Z
-DTEND:20261206T214500Z
-SUMMARY:Atlético Madrid - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Atlético Madrid - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261207-sevilla-fc-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261207T200000Z
-DTEND:20261207T214500Z
-SUMMARY:Sevilla FC - Malaga
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
+UID:laliga-20261206-racing-de-santander-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Racing de Santander - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261209-rayo-vallecano-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261209T190000Z
-DTEND:20261209T204500Z
-SUMMARY:Rayo Vallecano - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
+UID:laliga-20261206-fc-barcelona-celta-de-vigo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:FC Barcelona - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261213-atletico-madrid-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:Atlético Madrid - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
+UID:laliga-20261206-getafe-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Getafe - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261213-rc-deportivo-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:RC Deportivo - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Riazor
+UID:laliga-20261206-athletic-de-bilbao-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Athletic de Bilbao - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261213-elche-cf-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:Elche CF - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
+UID:laliga-20261206-villarreal-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Villarreal - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261206-rayo-vallecano-levante@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Rayo Vallecano - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261213-espanyol-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:Espanyol - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:RCDE
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261213-levante-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:Levante - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Espanyol - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261213-malaga-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:Malaga - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261213-real-betis-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:Real Betis - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Malaga - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261213-real-madrid-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:Real Madrid - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Real Madrid - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261213-real-sociedad-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:Real Sociedad - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+UID:laliga-20261213-rc-deportivo-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:RC Deportivo - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261213-levante-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Levante - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261213-elche-cf-sevilla-fc@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Elche CF - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261213-villarreal-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261213T200000Z
-DTEND:20261213T214500Z
-SUMMARY:Villarreal - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Villarreal - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261220-deportivo-alaves-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:Deportivo Alavés - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
+UID:laliga-20261213-real-betis-racing-de-santander@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Real Betis - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261213-real-sociedad-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Real Sociedad - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20261213-atletico-madrid-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Atlético Madrid - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261220-athletic-de-bilbao-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:Athletic de Bilbao - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261220-fc-barcelona-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:FC Barcelona - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261220-celta-de-vigo-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:Celta de Vigo - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261220-rc-deportivo-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:RC Deportivo - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:Riazor
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Athletic de Bilbao - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261220-getafe-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:Getafe - Levante
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Getafe - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20261220-ca-osasuna-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:CA Osasuna - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261220-rayo-vallecano-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:Rayo Vallecano - Malaga
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261220-sevilla-fc-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:Sevilla FC - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
+UID:laliga-20261220-deportivo-alaves-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Deportivo Alavés - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261220-valencia-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261220T200000Z
-DTEND:20261220T214500Z
-SUMMARY:Valencia - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Valencia - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270103-celta-de-vigo-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Celta de Vigo - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
+UID:laliga-20261220-ca-osasuna-villarreal@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:CA Osasuna - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270103-espanyol-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Espanyol - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:RCDE
+UID:laliga-20261220-fc-barcelona-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:FC Barcelona - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270103-levante-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Levante - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
+UID:laliga-20261220-celta-de-vigo-atletico-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Celta de Vigo - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270103-malaga-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Malaga - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
+UID:laliga-20261220-rayo-vallecano-malaga@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Rayo Vallecano - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270103-racing-de-santander-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Racing de Santander - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
+UID:laliga-20261220-rc-deportivo-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:RC Deportivo - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270103-rayo-vallecano-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Rayo Vallecano - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270103-real-betis-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Real Betis - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+UID:laliga-20261220-sevilla-fc-racing-de-santander@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Sevilla FC - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270103-real-madrid-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Real Madrid - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Real Madrid - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270103-real-sociedad-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Real Sociedad - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Real Sociedad - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270103-levante-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Levante - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270103-racing-de-santander-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Racing de Santander - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270103-malaga-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Malaga - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270103-real-betis-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Real Betis - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270103-celta-de-vigo-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Celta de Vigo - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270103-espanyol-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Espanyol - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270103-villarreal-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270103T200000Z
-DTEND:20270103T214500Z
-SUMMARY:Villarreal - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Villarreal - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270110-deportivo-alaves-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:Deportivo Alavés - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
+UID:laliga-20270103-rayo-vallecano-atletico-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Rayo Vallecano - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270110-athletic-de-bilbao-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:Athletic de Bilbao - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270110-atletico-madrid-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:Atlético Madrid - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270110-rc-deportivo-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:RC Deportivo - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:Riazor
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Athletic de Bilbao - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270110-elche-cf-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:Elche CF - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270110-espanyol-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:Espanyol - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:RCDE
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270110-ca-osasuna-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:CA Osasuna - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Elche CF - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270110-real-madrid-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:Real Madrid - Levante
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Real Madrid - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270110-ca-osasuna-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:CA Osasuna - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270110-rc-deportivo-rayo-vallecano@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:RC Deportivo - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270110-atletico-madrid-racing-de-santander@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Atlético Madrid - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270110-deportivo-alaves-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Deportivo Alavés - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270110-sevilla-fc-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:Sevilla FC - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Sevilla FC - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270110-espanyol-real-betis@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Espanyol - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270110-valencia-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270110T200000Z
-DTEND:20270110T214500Z
-SUMMARY:Valencia - Malaga
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270117-atletico-madrid-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:Atlético Madrid - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270117-fc-barcelona-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:FC Barcelona - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270117-celta-de-vigo-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:Celta de Vigo - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270117-getafe-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:Getafe - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270117-levante-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:Levante - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Valencia - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270117-malaga-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:Malaga - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Malaga - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270117-racing-de-santander-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:Racing de Santander - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270117-rayo-vallecano-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:Rayo Vallecano - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270117-real-betis-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:Real Betis - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+UID:laliga-20270117-fc-barcelona-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:FC Barcelona - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270117-villarreal-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T200000Z
-DTEND:20270117T214500Z
-SUMMARY:Villarreal - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Villarreal - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270124-deportivo-alaves-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:Deportivo Alavés - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
+UID:laliga-20270117-racing-de-santander-ca-osasuna@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Racing de Santander - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270124-athletic-de-bilbao-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:Athletic de Bilbao - Levante
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
+UID:laliga-20270117-levante-espanyol@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Levante - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270124-rc-deportivo-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:RC Deportivo - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Riazor
+UID:laliga-20270117-celta-de-vigo-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Celta de Vigo - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270124-elche-cf-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:Elche CF - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
+UID:laliga-20270117-getafe-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Getafe - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270124-espanyol-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:Espanyol - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:RCDE
+UID:laliga-20270117-rayo-vallecano-sevilla-fc@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Rayo Vallecano - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270124-getafe-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:Getafe - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+UID:laliga-20270117-real-betis-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Real Betis - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270124-racing-de-santander-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:Racing de Santander - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
+UID:laliga-20270117-atletico-madrid-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Atlético Madrid - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270124-real-madrid-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:Real Madrid - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Real Madrid - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270124-real-sociedad-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:Real Sociedad - Malaga
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+UID:laliga-20270124-getafe-ca-osasuna@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Getafe - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270124-valencia-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270124T200000Z
-DTEND:20270124T214500Z
-SUMMARY:Valencia - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Valencia - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270131-atletico-madrid-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:Atlético Madrid - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
+UID:laliga-20270124-elche-cf-rayo-vallecano@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Elche CF - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270131-fc-barcelona-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:FC Barcelona - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
+UID:laliga-20270124-deportivo-alaves-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Deportivo Alavés - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270131-celta-de-vigo-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:Celta de Vigo - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
+UID:laliga-20270124-real-sociedad-malaga@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Real Sociedad - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270131-levante-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:Levante - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
+UID:laliga-20270124-racing-de-santander-celta-de-vigo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Racing de Santander - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270131-malaga-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:Malaga - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
+UID:laliga-20270124-athletic-de-bilbao-levante@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Athletic de Bilbao - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270131-ca-osasuna-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:CA Osasuna - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
+UID:laliga-20270124-espanyol-villarreal@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Espanyol - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270131-rayo-vallecano-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:Rayo Vallecano - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
+UID:laliga-20270124-rc-deportivo-atletico-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:RC Deportivo - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270131-real-betis-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:Real Betis - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Real Betis - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270131-sevilla-fc-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:Sevilla FC - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
+UID:laliga-20270131-rayo-vallecano-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Rayo Vallecano - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270131-atletico-madrid-espanyol@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Atlético Madrid - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270131-celta-de-vigo-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Celta de Vigo - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270131-villarreal-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270131T200000Z
-DTEND:20270131T214500Z
-SUMMARY:Villarreal - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Villarreal - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270207-deportivo-alaves-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270207T200000Z
-DTEND:20270207T214500Z
-SUMMARY:Deportivo Alavés - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
+UID:laliga-20270131-levante-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Levante - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270131-fc-barcelona-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:FC Barcelona - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270131-sevilla-fc-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Sevilla FC - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270131-ca-osasuna-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:CA Osasuna - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270131-malaga-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Malaga - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270207-athletic-de-bilbao-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270207T200000Z
-DTEND:20270207T214500Z
-SUMMARY:Athletic de Bilbao - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Athletic de Bilbao - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270207-rc-deportivo-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270207T200000Z
-DTEND:20270207T214500Z
-SUMMARY:RC Deportivo - Malaga
-DESCRIPTION:LaLiga
-LOCATION:Riazor
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270207-elche-cf-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270207T200000Z
-DTEND:20270207T214500Z
-SUMMARY:Elche CF - Levante
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270207-espanyol-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270207T200000Z
-DTEND:20270207T214500Z
-SUMMARY:Espanyol - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:RCDE
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270207-getafe-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270207T200000Z
-DTEND:20270207T214500Z
-SUMMARY:Getafe - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+UID:laliga-20270207-deportivo-alaves-celta-de-vigo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Deportivo Alavés - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270207-real-betis-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270207T200000Z
-DTEND:20270207T214500Z
-SUMMARY:Real Betis - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Real Betis - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270207-elche-cf-levante@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Elche CF - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270207-espanyol-rayo-vallecano@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Espanyol - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270207-getafe-villarreal@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Getafe - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270207-rc-deportivo-malaga@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:RC Deportivo - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270207-real-sociedad-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Real Sociedad - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270207-valencia-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270207T200000Z
-DTEND:20270207T214500Z
-SUMMARY:Valencia - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Valencia - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270214-celta-de-vigo-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:Celta de Vigo - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270214-elche-cf-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:Elche CF - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270214-levante-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:Levante - Malaga
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270214-ca-osasuna-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:CA Osasuna - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270214-racing-de-santander-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:Racing de Santander - Getafe
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270214-real-madrid-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:Real Madrid - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270214-real-sociedad-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:Real Sociedad - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+UID:laliga-20270207-fc-barcelona-atletico-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:FC Barcelona - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270214-sevilla-fc-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:Sevilla FC - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Sevilla FC - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270214-valencia-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:Valencia - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+UID:laliga-20270214-ca-osasuna-atletico-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:CA Osasuna - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270214-celta-de-vigo-rayo-vallecano@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Celta de Vigo - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270214-villarreal-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270214T200000Z
-DTEND:20270214T214500Z
-SUMMARY:Villarreal - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Villarreal - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270214-real-sociedad-real-betis@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Real Sociedad - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270214-elche-cf-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Elche CF - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270214-valencia-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Valencia - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270214-levante-malaga@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Levante - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270214-racing-de-santander-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Racing de Santander - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270214-real-madrid-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Real Madrid - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270221-deportivo-alaves-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:Deportivo Alavés - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270221-athletic-de-bilbao-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:Athletic de Bilbao - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270221-atletico-madrid-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:Atlético Madrid - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270221-fc-barcelona-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:FC Barcelona - Levante
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270221-rc-deportivo-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:RC Deportivo - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Riazor
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270221-espanyol-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:Espanyol - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:RCDE
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Deportivo Alavés - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270221-malaga-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:Malaga - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270221-rayo-vallecano-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:Rayo Vallecano - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270221-sevilla-fc-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:Sevilla FC - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Malaga - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270221-villarreal-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270221T200000Z
-DTEND:20270221T214500Z
-SUMMARY:Villarreal - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Villarreal - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270228-athletic-de-bilbao-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:Athletic de Bilbao - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
+UID:laliga-20270221-fc-barcelona-levante@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:FC Barcelona - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270221-athletic-de-bilbao-celta-de-vigo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Athletic de Bilbao - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270221-espanyol-ca-osasuna@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Espanyol - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270221-sevilla-fc-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Sevilla FC - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270221-atletico-madrid-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Atlético Madrid - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270221-rc-deportivo-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:RC Deportivo - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270221-rayo-vallecano-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Rayo Vallecano - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270228-celta-de-vigo-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:Celta de Vigo - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270228-getafe-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:Getafe - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Celta de Vigo - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270228-levante-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:Levante - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Levante - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270228-malaga-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:Malaga - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Malaga - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270228-ca-osasuna-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:CA Osasuna - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270228-racing-de-santander-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:Racing de Santander - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270228-real-betis-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:Real Betis - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:CA Osasuna - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270228-real-madrid-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:Real Madrid - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Real Madrid - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270228-getafe-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Getafe - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270228-athletic-de-bilbao-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Athletic de Bilbao - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270228-racing-de-santander-rayo-vallecano@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Racing de Santander - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270228-real-betis-villarreal@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Real Betis - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270228-real-sociedad-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270228T200000Z
-DTEND:20270228T214500Z
-SUMMARY:Real Sociedad - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270307-deportivo-alaves-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:Deportivo Alavés - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270307-atletico-madrid-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:Atlético Madrid - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Real Sociedad - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270307-fc-barcelona-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:FC Barcelona - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270307-rc-deportivo-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:RC Deportivo - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Riazor
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:FC Barcelona - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270307-elche-cf-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:Elche CF - Malaga
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Elche CF - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270307-espanyol-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:Espanyol - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:RCDE
+UID:laliga-20270307-deportivo-alaves-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Deportivo Alavés - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270307-rayo-vallecano-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:Rayo Vallecano - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Rayo Vallecano - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270307-sevilla-fc-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:Sevilla FC - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Sevilla FC - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270307-valencia-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:Valencia - Levante
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+UID:laliga-20270307-atletico-madrid-celta-de-vigo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Atlético Madrid - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270307-villarreal-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270307T200000Z
-DTEND:20270307T214500Z
-SUMMARY:Villarreal - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Villarreal - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270314-deportivo-alaves-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:Deportivo Alavés - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
+UID:laliga-20270307-valencia-levante@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Valencia - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270314-athletic-de-bilbao-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:Athletic de Bilbao - Valencia
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
+UID:laliga-20270307-rc-deportivo-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:RC Deportivo - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270314-fc-barcelona-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:FC Barcelona - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270314-elche-cf-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:Elche CF - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270314-getafe-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:Getafe - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270314-malaga-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:Malaga - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
+UID:laliga-20270307-espanyol-racing-de-santander@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Espanyol - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270314-ca-osasuna-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:CA Osasuna - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:CA Osasuna - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270314-racing-de-santander-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:Racing de Santander - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
+UID:laliga-20270314-elche-cf-villarreal@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Elche CF - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270314-deportivo-alaves-sevilla-fc@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Deportivo Alavés - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270314-athletic-de-bilbao-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Athletic de Bilbao - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270314-real-betis-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:Real Betis - Levante
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Real Betis - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270314-racing-de-santander-atletico-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Racing de Santander - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270314-malaga-rayo-vallecano@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Malaga - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270314-getafe-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Getafe - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270314-fc-barcelona-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:FC Barcelona - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270314-real-madrid-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270314T180000Z
-DTEND:20270314T194500Z
-SUMMARY:Real Madrid - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270321-atletico-madrid-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Atlético Madrid - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270321-celta-de-vigo-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Celta de Vigo - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270321-espanyol-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Espanyol - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:RCDE
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270321-levante-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Levante - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270321-racing-de-santander-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Racing de Santander - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270321-rayo-vallecano-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Rayo Vallecano - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270321-real-sociedad-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Real Sociedad - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270321-sevilla-fc-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Sevilla FC - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270321-valencia-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Valencia - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Real Madrid - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270321-villarreal-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270321T180000Z
-DTEND:20270321T194500Z
-SUMMARY:Villarreal - Malaga
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Villarreal - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270404-athletic-de-bilbao-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:Athletic de Bilbao - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
+UID:laliga-20270321-sevilla-fc-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Sevilla FC - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270404-fc-barcelona-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:FC Barcelona - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
+UID:laliga-20270321-levante-ca-osasuna@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Levante - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270404-rc-deportivo-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:RC Deportivo - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Riazor
+UID:laliga-20270321-celta-de-vigo-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Celta de Vigo - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270404-elche-cf-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:Elche CF - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
+UID:laliga-20270321-rayo-vallecano-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Rayo Vallecano - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270404-getafe-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:Getafe - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+UID:laliga-20270321-real-sociedad-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Real Sociedad - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270321-espanyol-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Espanyol - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270321-racing-de-santander-real-betis@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Racing de Santander - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270321-valencia-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Valencia - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270321-atletico-madrid-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Atlético Madrid - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270404-levante-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:Levante - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Levante - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270404-fc-barcelona-sevilla-fc@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:FC Barcelona - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270404-malaga-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:Malaga - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Malaga - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270404-real-betis-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:Real Betis - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+UID:laliga-20270404-athletic-de-bilbao-racing-de-santander@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Athletic de Bilbao - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270404-real-madrid-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:Real Madrid - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
+UID:laliga-20270404-rc-deportivo-villarreal@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:RC Deportivo - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270404-real-sociedad-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270404T180000Z
-DTEND:20270404T194500Z
-SUMMARY:Real Sociedad - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Real Sociedad - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270411-deportivo-alaves-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:Deportivo Alavés - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
+UID:laliga-20270404-elche-cf-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Elche CF - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270411-atletico-madrid-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:Atlético Madrid - Levante
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
+UID:laliga-20270404-real-madrid-atletico-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Real Madrid - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270411-celta-de-vigo-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:Celta de Vigo - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
+UID:laliga-20270404-getafe-espanyol@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Getafe - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270411-espanyol-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:Espanyol - Malaga
-DESCRIPTION:LaLiga
-LOCATION:RCDE
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270411-ca-osasuna-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:CA Osasuna - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270411-racing-de-santander-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:Racing de Santander - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
+UID:laliga-20270404-real-betis-celta-de-vigo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Real Betis - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270411-rayo-vallecano-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:Rayo Vallecano - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Rayo Vallecano - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270411-sevilla-fc-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:Sevilla FC - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270411-valencia-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:Valencia - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+UID:laliga-20270411-espanyol-malaga@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Espanyol - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270411-villarreal-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270411T180000Z
-DTEND:20270411T194500Z
-SUMMARY:Villarreal - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Villarreal - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270418-deportivo-alaves-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:Deportivo Alavés - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
+UID:laliga-20270411-deportivo-alaves-real-betis@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Deportivo Alavés - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270411-valencia-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Valencia - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270411-sevilla-fc-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Sevilla FC - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270411-celta-de-vigo-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Celta de Vigo - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270411-racing-de-santander-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Racing de Santander - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270411-ca-osasuna-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:CA Osasuna - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270411-atletico-madrid-levante@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Atlético Madrid - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270418-atletico-madrid-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:Atlético Madrid - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Atlético Madrid - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270418-fc-barcelona-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:FC Barcelona - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270418-rc-deportivo-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:RC Deportivo - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:Riazor
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270418-elche-cf-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:Elche CF - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270418-getafe-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:Getafe - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:FC Barcelona - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270418-levante-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:Levante - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270418-malaga-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:Malaga - Valencia
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270418-real-betis-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:Real Betis - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Levante - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270418-real-sociedad-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270418T180000Z
-DTEND:20270418T194500Z
-SUMMARY:Real Sociedad - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Real Sociedad - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270421-athletic-de-bilbao-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:Athletic de Bilbao - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
+UID:laliga-20270418-malaga-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Malaga - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270421-celta-de-vigo-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:Celta de Vigo - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
+UID:laliga-20270418-rc-deportivo-celta-de-vigo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:RC Deportivo - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270421-espanyol-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:Espanyol - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:RCDE
+UID:laliga-20270418-elche-cf-ca-osasuna@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Elche CF - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270418-deportivo-alaves-rayo-vallecano@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Deportivo Alavés - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270418-real-betis-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Real Betis - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270418-getafe-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Getafe - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270421-getafe-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:Getafe - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270421-ca-osasuna-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:CA Osasuna - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270421-racing-de-santander-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:Racing de Santander - Malaga
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270421-real-madrid-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:Real Madrid - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270421-sevilla-fc-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:Sevilla FC - Levante
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Getafe - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270421-valencia-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:Valencia - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Valencia - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270421-celta-de-vigo-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Celta de Vigo - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270421-ca-osasuna-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:CA Osasuna - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270421-real-madrid-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Real Madrid - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270421-athletic-de-bilbao-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Athletic de Bilbao - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270421-racing-de-santander-malaga@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Racing de Santander - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270421-villarreal-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270421T180000Z
-DTEND:20270421T194500Z
-SUMMARY:Villarreal - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Villarreal - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270502-atletico-madrid-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:Atlético Madrid - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
+UID:laliga-20270421-sevilla-fc-levante@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Sevilla FC - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270502-fc-barcelona-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:FC Barcelona - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270502-celta-de-vigo-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:Celta de Vigo - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
+UID:laliga-20270421-espanyol-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Espanyol - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270502-rc-deportivo-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:RC Deportivo - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Riazor
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:RC Deportivo - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270502-elche-cf-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:Elche CF - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270502-levante-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:Levante - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270502-malaga-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:Malaga - Getafe
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270502-rayo-vallecano-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:Rayo Vallecano - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270502-real-betis-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:Real Betis - Valencia
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+UID:laliga-20270502-celta-de-vigo-sevilla-fc@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Celta de Vigo - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270502-real-sociedad-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270502T180000Z
-DTEND:20270502T194500Z
-SUMMARY:Real Sociedad - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Real Sociedad - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270509-deportivo-alaves-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:Deportivo Alavés - Levante
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
+UID:laliga-20270502-fc-barcelona-ca-osasuna@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:FC Barcelona - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270509-athletic-de-bilbao-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:Athletic de Bilbao - Malaga
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
+UID:laliga-20270502-rayo-vallecano-villarreal@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Rayo Vallecano - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270509-getafe-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:Getafe - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+UID:laliga-20270502-malaga-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Malaga - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270509-ca-osasuna-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:CA Osasuna - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
+UID:laliga-20270502-real-betis-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Real Betis - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270509-racing-de-santander-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:Racing de Santander - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
+UID:laliga-20270502-elche-cf-espanyol@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Elche CF - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270509-rayo-vallecano-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:Rayo Vallecano - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
+UID:laliga-20270502-levante-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Levante - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270509-real-betis-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:Real Betis - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270509-real-madrid-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:Real Madrid - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
+UID:laliga-20270502-atletico-madrid-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Atlético Madrid - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270509-valencia-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:Valencia - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Valencia - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270509-ca-osasuna-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:CA Osasuna - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270509-deportivo-alaves-levante@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Deportivo Alavés - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270509-athletic-de-bilbao-malaga@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Athletic de Bilbao - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270509-racing-de-santander-sevilla-fc@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Racing de Santander - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270509-rayo-vallecano-rc-deportivo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Rayo Vallecano - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270509-real-betis-espanyol@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Real Betis - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270509-real-madrid-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Real Madrid - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270509-getafe-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Getafe - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270509-villarreal-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270509T180000Z
-DTEND:20270509T194500Z
-SUMMARY:Villarreal - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Villarreal - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270516-atletico-madrid-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:Atlético Madrid - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270516-rc-deportivo-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:RC Deportivo - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:Riazor
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270516-elche-cf-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:Elche CF - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270516-espanyol-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:Espanyol - Valencia
-DESCRIPTION:LaLiga
-LOCATION:RCDE
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270516-levante-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:Levante - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270516-malaga-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:Malaga - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270516-ca-osasuna-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:CA Osasuna - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270516-real-madrid-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:Real Madrid - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270516-real-sociedad-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:Real Sociedad - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Atlético Madrid - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270516-sevilla-fc-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270516T180000Z
-DTEND:20270516T194500Z
-SUMMARY:Sevilla FC - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Sevilla FC - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270523-deportivo-alaves-real-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:Deportivo Alavés - Real Madrid
-DESCRIPTION:LaLiga
-LOCATION:Mendizorrotza
+UID:laliga-20270516-real-sociedad-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Real Sociedad - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270516-elche-cf-athletic-de-bilbao@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Elche CF - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270516-malaga-celta-de-vigo@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Malaga - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270516-rc-deportivo-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:RC Deportivo - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270516-levante-getafe@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Levante - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270516-espanyol-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Espanyol - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270516-real-madrid-racing-de-santander@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Real Madrid - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270516-ca-osasuna-real-betis@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:CA Osasuna - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270523-atletico-madrid-athletic-de-bilbao@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:Atlético Madrid - Athletic de Bilbao
-DESCRIPTION:LaLiga
-LOCATION:Riyadh Air Metropolitano
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Atlético Madrid - Athletic de Bilbao · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270523-fc-barcelona-malaga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:FC Barcelona - Malaga
-DESCRIPTION:LaLiga
-LOCATION:Spotify Camp Nou
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270523-celta-de-vigo-real-sociedad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:Celta de Vigo - Real Sociedad
-DESCRIPTION:LaLiga
-LOCATION:Balaidos
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270523-rc-deportivo-espanyol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:RC Deportivo - Espanyol
-DESCRIPTION:LaLiga
-LOCATION:Riazor
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270523-racing-de-santander-levante@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:Racing de Santander - Levante
-DESCRIPTION:LaLiga
-LOCATION:El Sardineros
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270523-rayo-vallecano-real-betis@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:Rayo Vallecano - Real Betis
-DESCRIPTION:LaLiga
-LOCATION:Estadio de Vallecas
+UID:laliga-20270523-deportivo-alaves-real-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Deportivo Alavés - Real Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270523-sevilla-fc-getafe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:Sevilla FC - Getafe
-DESCRIPTION:LaLiga
-LOCATION:Ramón Sánchez Pizjuán
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270523-valencia-elche-cf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:Valencia - Elche CF
-DESCRIPTION:LaLiga
-LOCATION:Mestalla
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Sevilla FC - Getafe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270523-villarreal-ca-osasuna@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270523T180000Z
-DTEND:20270523T194500Z
-SUMMARY:Villarreal - CA Osasuna
-DESCRIPTION:LaLiga
-LOCATION:Estadio de la Cerámica
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Villarreal - CA Osasuna · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270530-athletic-de-bilbao-rayo-vallecano@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:Athletic de Bilbao - Rayo Vallecano
-DESCRIPTION:LaLiga
-LOCATION:San Mamés
+UID:laliga-20270523-racing-de-santander-levante@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Racing de Santander - Levante · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270530-elche-cf-racing-de-santander@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:Elche CF - Racing de Santander
-DESCRIPTION:LaLiga
-LOCATION:Estadio Martínez Valero
+UID:laliga-20270523-rc-deportivo-espanyol@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:RC Deportivo - Espanyol · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270530-espanyol-deportivo-alaves@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:Espanyol - Deportivo Alavés
-DESCRIPTION:LaLiga
-LOCATION:RCDE
+UID:laliga-20270523-rayo-vallecano-real-betis@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Rayo Vallecano - Real Betis · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-20270530-getafe-fc-barcelona@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:Getafe - FC Barcelona
-DESCRIPTION:LaLiga
-LOCATION:Estadio Coliseum
+UID:laliga-20270523-fc-barcelona-malaga@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:FC Barcelona - Malaga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270523-valencia-elche-cf@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Valencia - Elche CF · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270523-celta-de-vigo-real-sociedad@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Celta de Vigo - Real Sociedad · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270530-levante-celta-de-vigo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:Levante - Celta de Vigo
-DESCRIPTION:LaLiga
-LOCATION:Estadi Ciutat de València
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270530-malaga-sevilla-fc@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:Malaga - Sevilla FC
-DESCRIPTION:LaLiga
-LOCATION:La Rosaleda
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270530-ca-osasuna-valencia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:CA Osasuna - Valencia
-DESCRIPTION:LaLiga
-LOCATION:El Sadar
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20270530-real-betis-atletico-madrid@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:Real Betis - Atlético Madrid
-DESCRIPTION:LaLiga
-LOCATION:Estadio La Cartuja
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Levante - Celta de Vigo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270530-real-madrid-rc-deportivo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:Real Madrid - RC Deportivo
-DESCRIPTION:LaLiga
-LOCATION:Santiago Bernabéu
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Real Madrid - RC Deportivo · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270530-real-betis-atletico-madrid@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Real Betis - Atlético Madrid · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270530-real-sociedad-villarreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270530T180000Z
-DTEND:20270530T194500Z
-SUMMARY:Real Sociedad - Villarreal
-DESCRIPTION:LaLiga
-LOCATION:Reale Arena
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Real Sociedad - Villarreal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270530-malaga-sevilla-fc@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Malaga - Sevilla FC · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270530-elche-cf-racing-de-santander@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Elche CF - Racing de Santander · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270530-athletic-de-bilbao-rayo-vallecano@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Athletic de Bilbao - Rayo Vallecano · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270530-espanyol-deportivo-alaves@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Espanyol - Deportivo Alavés · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270530-getafe-fc-barcelona@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Getafe - FC Barcelona · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-20270530-ca-osasuna-valencia@sportcal
+DTSTAMP:20261120T102635Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:CA Osasuna - Valencia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · LaLiga
 END:VEVENT
 END:VCALENDAR
