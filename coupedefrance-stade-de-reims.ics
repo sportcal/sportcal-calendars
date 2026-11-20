@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stade de Reims · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261128-olympique-charleville-prix-am-stade-de-reims-dia
+ @sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:STADE DE REIMS | Coupe de France | ✈️ | Olympique Charleville P
+ rix AM 🇫🇷
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ du Petit Bois\, Charleville-Mézières
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-olympique-charleville-prix-am-stade-de-reims@spo
+ rtcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T123000Z
+DTEND:20261128T141500Z
+SUMMARY:Olympique Charleville Prix AM - Stade de Reims
+DESCRIPTION:Coupe de France
+LOCATION:Stade du Petit Bois\, Charleville-Mézières
+END:VEVENT
+END:VCALENDAR

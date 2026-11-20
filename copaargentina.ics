@@ -4,20 +4,23 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Copa Argentina
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:copaargentina-dia-20261202-j2@sportcal
-DTSTAMP:20261119T093809Z
+UID:copaargentina-dia-20261202-j6@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:COPA ARGENTINA
-DESCRIPTION:01:00 Boca Juniors - Platense [CA]
+DESCRIPTION:TBD Boca Juniors - Platense
 END:VEVENT
 BEGIN:VEVENT
-UID:copaargentina-20261202-boca-juniors-platense-ca@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261202T000000Z
-DTEND:20261202T014500Z
-SUMMARY:Boca Juniors - Platense [CA]
-DESCRIPTION:Copa Argentina
+UID:copaargentina-20261202-boca-juniors-platense@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Boca Juniors - Platense · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Copa Argentina
 END:VEVENT
 END:VCALENDAR

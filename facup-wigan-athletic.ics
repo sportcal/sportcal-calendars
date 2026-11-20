@@ -4,21 +4,24 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Wigan Athletic · FA Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:facup-20261205-wigan-athletic-barnsley-fa-dia@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-wigan-athletic-barnsley-dia@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:WIGAN ATHLETIC | FA Cup | 🏟️ | Barnsley [FA] 🇬🇧
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · FA Cup\nEstadi: DW
+SUMMARY:WIGAN ATHLETIC | FA Cup | 🏟️ | Barnsley 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · FA Cup\nEstadi: Brick Community
+  Stadium\, Wigan
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-wigan-athletic-barnsley-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-wigan-athletic-barnsley@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Wigan Athletic - Barnsley [FA]
+SUMMARY:Wigan Athletic - Barnsley
 DESCRIPTION:FA Cup
-LOCATION:DW
+LOCATION:Brick Community Stadium\, Wigan
 END:VEVENT
 END:VCALENDAR

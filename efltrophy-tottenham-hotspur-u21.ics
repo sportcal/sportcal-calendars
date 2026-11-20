@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tottenham Hotspur U21 · EFL Trophy
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:efltrophy-20261124-oxford-united-tottenham-hotspur-u21-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:TOTTENHAM HOTSPUR U21 | EFL Trophy | ✈️ | Oxford United 🇬
+ 🇧
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EFL Trophy\nEstadi: Kassam Stad
+ ium\, Oxford
+END:VEVENT
+BEGIN:VEVENT
+UID:efltrophy-20261124-oxford-united-tottenham-hotspur-u21@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261124T190000Z
+DTEND:20261124T204500Z
+SUMMARY:Oxford United - Tottenham Hotspur U21
+DESCRIPTION:EFL Trophy
+LOCATION:Kassam Stadium\, Oxford
+END:VEVENT
+END:VCALENDAR

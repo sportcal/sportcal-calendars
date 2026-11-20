@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Leyton Orient · FA Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:facup-20261205-port-vale-leyton-orient-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:LEYTON ORIENT | FA Cup | ✈️ | Port Vale 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · FA Cup\nEstadi: Vale Park\, Sto
+ ke-on-Trent
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-20261205-port-vale-leyton-orient@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Port Vale - Leyton Orient
+DESCRIPTION:FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent
+END:VEVENT
+END:VCALENDAR

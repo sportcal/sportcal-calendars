@@ -4,122 +4,280 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:coupedefrance-dia-20261128-j1@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
+UID:coupedefrance-dia-20261127-j2@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
 SUMMARY:COUPE DE FRANCE
-DESCRIPTION:13:30 Saint-Etienne - Villefranche [CdF]
+DESCRIPTION:20:00 US Le Pays du Valois - Valenciennes FC\n20:00 US Saint-Om
+ er - SM Caen
 END:VEVENT
 BEGIN:VEVENT
 UID:coupedefrance-dia-20261128-j2@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:COUPE DE FRANCE
-DESCRIPTION:TBD OCPAM - Stade de Reims [CdF]\n13:30 AS Furiani-Agliani - AS
-  Nancy [CdF]\n13:30 FC Nueillaubiers - FC Nantes [CdF]\n13:30 Lannion - La
- val [CdF]\n13:30 Tremblay FC - Red Star [CdF]\n13:30 Montluçon Football -
-  Clermont [CdF]\n13:30 Nîmes Olympique - Grenoble Foot 38 [CdF]\n13:30 US
-  Feurs - Annecy [CdF]\n13:30 SR Saint-Dié Kellermann - Sochaux [CdF]\n13:
- 30 US Castanet - Pau [CdF]\n18:30 Avenir Foot Lozère - Montpellier [CdF]
+DESCRIPTION:13:30 Vannes OC - US Concarneau\n13:30 Olympique Charleville Pr
+ ix AM - Stade de Reims\n13:30 Stade Sottevillais CC - US Quevilly\n13:30 T
+ remblay FC - Red Star FC\n15:00 CA Pontarlier - ASC Siroco Les Abymes\n15:
+ 00 SAS Épinal - Amiens SC\n17:00 ASC Biesheim - Racing Besançon\n17:00 U
+ S Reipertswiller - AS Sundhoffen\n17:00 FC Loon-Plage - Racing Club de Fra
+ nce\n17:00 Cosne UCS - CS Sedan Ardennes\n18:00 Saint-Pierre de Milizac - 
+ Stade Pontivyen\n18:00 US Vermelles - ES Thaon\n18:00 AS Saint-Ouen-l'Aum
+ ône - RC Calais\n18:00 FC Chambly Oise - US Avranches\n18:00 Saint-Pryvé
+  Saint-Hilaire FC - Is-Selongey Football\n19:00 Lannion FC - Stade Lavallo
+ is\n19:00 TA Rennes - FC Rouen\n19:00 AS Furiani-Agliani - AS Nancy Lorrai
+ ne\n19:00 SC Massay - US Orléans\n19:30 AS Étoile de Matoury - FC Fleury
+  91
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-ocpam-stade-de-reims-cdf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:OCPAM - Stade de Reims [CdF] · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Coupe de France
+UID:coupedefrance-dia-20261129-j2@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:COUPE DE FRANCE
+DESCRIPTION:12:45 La Tamponnaise - Angoulême Charente FC\n13:30 AS Talange
+  - US Oberlauterbach\n13:30 CO Les Ulis - ESA Linas-Montlhéry\n14:00 SR S
+ aint-Dié Kellermann - FC Sochaux-Montbéliard
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-as-furiani-agliani-as-nancy-cdf@sportcal
-DTSTAMP:20261119T093809Z
+UID:coupedefrance-20261127-us-le-pays-du-valois-valenciennes-fc@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:US Le Pays du Valois - Valenciennes FC
+DESCRIPTION:Coupe de France
+LOCATION:Stade Municipal Olivier Lovighi\, Le Plessis-Belleville
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261127-us-saint-omer-sm-caen@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:US Saint-Omer - SM Caen
+DESCRIPTION:Coupe de France
+LOCATION:Stade Gaston Bonnet\, Saint-Omer
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-vannes-oc-us-concarneau@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261128T123000Z
 DTEND:20261128T141500Z
-SUMMARY:AS Furiani-Agliani - AS Nancy [CdF]
+SUMMARY:Vannes OC - US Concarneau
 DESCRIPTION:Coupe de France
+LOCATION:Complexe Sportif du Pérenno\, Theix-Noyalo
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-fc-nueillaubiers-fc-nantes-cdf@sportcal
-DTSTAMP:20261119T093809Z
+UID:coupedefrance-20261128-olympique-charleville-prix-am-stade-de-reims@spo
+ rtcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261128T123000Z
 DTEND:20261128T141500Z
-SUMMARY:FC Nueillaubiers - FC Nantes [CdF]
+SUMMARY:Olympique Charleville Prix AM - Stade de Reims
 DESCRIPTION:Coupe de France
+LOCATION:Stade du Petit Bois\, Charleville-Mézières
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-lannion-laval-cdf@sportcal
-DTSTAMP:20261119T093809Z
+UID:coupedefrance-20261128-stade-sottevillais-cc-us-quevilly@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261128T123000Z
 DTEND:20261128T141500Z
-SUMMARY:Lannion - Laval [CdF]
+SUMMARY:Stade Sottevillais CC - US Quevilly
 DESCRIPTION:Coupe de France
+LOCATION:Stade Jean Adret\, Sotteville-lès-Rouen
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-tremblay-fc-red-star-cdf@sportcal
-DTSTAMP:20261119T093809Z
+UID:coupedefrance-20261128-tremblay-fc-red-star-fc@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261128T123000Z
 DTEND:20261128T141500Z
-SUMMARY:Tremblay FC - Red Star [CdF]
+SUMMARY:Tremblay FC - Red Star FC
 DESCRIPTION:Coupe de France
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-saint-etienne-villefranche-cdf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T123000Z
-DTEND:20261128T141500Z
-SUMMARY:Saint-Etienne - Villefranche [CdF]
+UID:coupedefrance-20261128-ca-pontarlier-asc-siroco-les-abymes@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T140000Z
+DTEND:20261128T154500Z
+SUMMARY:CA Pontarlier - ASC Siroco Les Abymes
 DESCRIPTION:Coupe de France
+LOCATION:Stade Paul Robbe\, Pontarlier
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-montlucon-football-clermont-cdf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T123000Z
-DTEND:20261128T141500Z
-SUMMARY:Montluçon Football - Clermont [CdF]
+UID:coupedefrance-20261128-sas-epinal-amiens-sc@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T140000Z
+DTEND:20261128T154500Z
+SUMMARY:SAS Épinal - Amiens SC
 DESCRIPTION:Coupe de France
+LOCATION:Stade de la Colombière\, Épinal
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-nimes-olympique-grenoble-foot-38-cdf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T123000Z
-DTEND:20261128T141500Z
-SUMMARY:Nîmes Olympique - Grenoble Foot 38 [CdF]
+UID:coupedefrance-20261128-asc-biesheim-racing-besancon@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:ASC Biesheim - Racing Besançon
 DESCRIPTION:Coupe de France
+LOCATION:Stade Municipal de Biesheim\, Biesheim
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-us-feurs-annecy-cdf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T123000Z
-DTEND:20261128T141500Z
-SUMMARY:US Feurs - Annecy [CdF]
+UID:coupedefrance-20261128-us-reipertswiller-as-sundhoffen@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:US Reipertswiller - AS Sundhoffen
 DESCRIPTION:Coupe de France
+LOCATION:Stade Éric Riffel\, Reipertswiller
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-sr-saint-die-kellermann-sochaux-cdf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T123000Z
-DTEND:20261128T141500Z
-SUMMARY:SR Saint-Dié Kellermann - Sochaux [CdF]
+UID:coupedefrance-20261128-fc-loon-plage-racing-club-de-france@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:FC Loon-Plage - Racing Club de France
 DESCRIPTION:Coupe de France
+LOCATION:Stade Marcel Rosseel\, Loon-Plage
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-us-castanet-pau-cdf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T123000Z
-DTEND:20261128T141500Z
-SUMMARY:US Castanet - Pau [CdF]
+UID:coupedefrance-20261128-cosne-ucs-cs-sedan-ardennes@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:Cosne UCS - CS Sedan Ardennes
 DESCRIPTION:Coupe de France
+LOCATION:Stade Raphaël Giraux\, Cosne-Cours-sur-Loire
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-avenir-foot-lozere-montpellier-cdf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T173000Z
-DTEND:20261128T191500Z
-SUMMARY:Avenir Foot Lozère - Montpellier [CdF]
+UID:coupedefrance-20261128-saint-pierre-de-milizac-stade-pontivyen@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:Saint-Pierre de Milizac - Stade Pontivyen
 DESCRIPTION:Coupe de France
+LOCATION:Stade Pen Ar Guéar\, Milizac-Guipronvel
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-us-vermelles-es-thaon@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:US Vermelles - ES Thaon
+DESCRIPTION:Coupe de France
+LOCATION:Stade François-Blin\, Avion\, Pas-de-Calais
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-as-saint-ouen-l-aumone-rc-calais@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:AS Saint-Ouen-l'Aumône - RC Calais
+DESCRIPTION:Coupe de France
+LOCATION:Parc des sports de Saint-Ouen-l'Aumône\, Saint-Ouen-l'Aumône
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-fc-chambly-oise-us-avranches@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:FC Chambly Oise - US Avranches
+DESCRIPTION:Coupe de France
+LOCATION:Stade Walter-Luzi\, Chambly\, Oise
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-saint-pryve-saint-hilaire-fc-is-selongey-footbal
+ l@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:Saint-Pryvé Saint-Hilaire FC - Is-Selongey Football
+DESCRIPTION:Coupe de France
+LOCATION:Stade du Grand Clos\, Saint-Pryvé-Saint-Mesmin
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-lannion-fc-stade-lavallois@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:Lannion FC - Stade Lavallois
+DESCRIPTION:Coupe de France
+LOCATION:Stade René Guillou\, Lannion
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-ta-rennes-fc-rouen@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:TA Rennes - FC Rouen
+DESCRIPTION:Coupe de France
+LOCATION:Stade Roger Salengro\, Rennes
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-as-furiani-agliani-as-nancy-lorraine@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:AS Furiani-Agliani - AS Nancy Lorraine
+DESCRIPTION:Coupe de France
+LOCATION:Stade Dominique Ventimila\, Bastia
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-sc-massay-us-orleans@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:SC Massay - US Orléans
+DESCRIPTION:Coupe de France
+LOCATION:Stade de Brouhot\, Vierzon
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-as-etoile-de-matoury-fc-fleury-91@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:AS Étoile de Matoury - FC Fleury 91
+DESCRIPTION:Coupe de France
+LOCATION:Stade Municipal Dr. Edmard Lama\, Remire-Montjoly\, French Guiana
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261129-la-tamponnaise-angouleme-charente-fc@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261129T114500Z
+DTEND:20261129T133000Z
+SUMMARY:La Tamponnaise - Angoulême Charente FC
+DESCRIPTION:Coupe de France
+LOCATION:Stade Michel Volnay\, Saint-Pierre\, Réunion
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261129-as-talange-us-oberlauterbach@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:AS Talange - US Oberlauterbach
+DESCRIPTION:Coupe de France
+LOCATION:Stade Maurice Baquet\, Talange
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261129-co-les-ulis-esa-linas-montlhery@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:CO Les Ulis - ESA Linas-Montlhéry
+DESCRIPTION:Coupe de France
+LOCATION:Stade Jean-Marc Salinier\, Les Ulis
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261129-sr-saint-die-kellermann-fc-sochaux-montbeliard@s
+ portcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:SR Saint-Dié Kellermann - FC Sochaux-Montbéliard
+DESCRIPTION:Coupe de France
+LOCATION:Stade Émile Jeanpierre\, Saint-Dié-des-Vosges
 END:VEVENT
 END:VCALENDAR

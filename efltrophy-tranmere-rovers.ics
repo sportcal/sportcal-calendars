@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tranmere Rovers · EFL Trophy
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:efltrophy-20261124-tranmere-rovers-everton-u21-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:TRANMERE ROVERS | EFL Trophy | 🏟️ | Everton U21 🇬🇧
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EFL Trophy\nEstadi: Prenton Par
+ k\, Birkenhead
+END:VEVENT
+BEGIN:VEVENT
+UID:efltrophy-20261124-tranmere-rovers-everton-u21@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261124T190000Z
+DTEND:20261124T204500Z
+SUMMARY:Tranmere Rovers - Everton U21
+DESCRIPTION:EFL Trophy
+LOCATION:Prenton Park\, Birkenhead
+END:VEVENT
+END:VCALENDAR

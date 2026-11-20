@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASC Biesheim · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261128-asc-biesheim-racing-besancon-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ASC BIESHEIM | Coupe de France | 🏟️ | Racing Besançon 🇫
+ 🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ Municipal de Biesheim\, Biesheim
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-asc-biesheim-racing-besancon@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:ASC Biesheim - Racing Besançon
+DESCRIPTION:Coupe de France
+LOCATION:Stade Municipal de Biesheim\, Biesheim
+END:VEVENT
+END:VCALENDAR

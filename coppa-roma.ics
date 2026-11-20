@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Roma · Coppa Italia
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coppa-20270112-roma-hellas-verona-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:ROMA | Coppa Italia | 🏟️ | Hellas Verona 🇮🇹
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Coppa Italia\nEstadi: Stadio Ol
+ impico\, Rome
+END:VEVENT
+BEGIN:VEVENT
+UID:coppa-20270112-roma-hellas-verona@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20270112T200000Z
+DTEND:20270112T214500Z
+SUMMARY:Roma - Hellas Verona
+DESCRIPTION:Coppa Italia
+LOCATION:Stadio Olimpico\, Rome
+END:VEVENT
+END:VCALENDAR

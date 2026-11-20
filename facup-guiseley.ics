@@ -4,21 +4,24 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Guiseley · FA Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:facup-20261207-guiseley-notts-county-fc-fa-dia@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261207-guiseley-notts-county-dia@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:GUISELEY | FA Cup | 🏟️ | Notts County FC [FA] 🇬🇧
+SUMMARY:GUISELEY | FA Cup | 🏟️ | Notts County 🇬🇧
 DESCRIPTION:Inici: 20:30 (Europe/Madrid) · FA Cup\nEstadi: Nethermoor Park
+ \, Guiseley
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261207-guiseley-notts-county-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261207-guiseley-notts-county@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261207T193000Z
 DTEND:20261207T211500Z
-SUMMARY:Guiseley - Notts County FC [FA]
+SUMMARY:Guiseley - Notts County
 DESCRIPTION:FA Cup
-LOCATION:Nethermoor Park
+LOCATION:Nethermoor Park\, Guiseley
 END:VEVENT
 END:VCALENDAR

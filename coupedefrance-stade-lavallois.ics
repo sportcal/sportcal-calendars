@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stade Lavallois · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261128-lannion-fc-stade-lavallois-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:STADE LAVALLOIS | Coupe de France | ✈️ | Lannion FC 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ René Guillou\, Lannion
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-lannion-fc-stade-lavallois@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:Lannion FC - Stade Lavallois
+DESCRIPTION:Coupe de France
+LOCATION:Stade René Guillou\, Lannion
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Reipertswiller · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261128-us-reipertswiller-as-sundhoffen-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:US REIPERTSWILLER | Coupe de France | 🏟️ | AS Sundhoffen 🇫
+ 🇷
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ Éric Riffel\, Reipertswiller
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-us-reipertswiller-as-sundhoffen@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:US Reipertswiller - AS Sundhoffen
+DESCRIPTION:Coupe de France
+LOCATION:Stade Éric Riffel\, Reipertswiller
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Equatorial Guinea · AFCON
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:afcon-20251224-burkina-faso-equatorial-guinea-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+SUMMARY:EQUATORIAL GUINEA | AFCON | ✈️ | Burkina Faso
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Mohammed V Stadium\, Casablanca
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251224-burkina-faso-equatorial-guinea@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20251224T123000Z
+DTEND:20251224T141500Z
+SUMMARY:Burkina Faso - Equatorial Guinea
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Mohammed V Stadium\, Casablanca
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251228-equatorial-guinea-sudan-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20251228
+DTEND;VALUE=DATE:20251229
+SUMMARY:EQUATORIAL GUINEA | AFCON | 🏟️ | Sudan
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Mohammed V Stadium\, Casablanca
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251228-equatorial-guinea-sudan@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20251228T150000Z
+DTEND:20251228T164500Z
+SUMMARY:Equatorial Guinea - Sudan
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Mohammed V Stadium\, Casablanca
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251231-equatorial-guinea-algeria-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:EQUATORIAL GUINEA | AFCON | 🏟️ | Algeria
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Moulay Hassan Stadium\, Rabat
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251231-equatorial-guinea-algeria@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20251231T160000Z
+DTEND:20251231T174500Z
+SUMMARY:Equatorial Guinea - Algeria
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Moulay Hassan Stadium\, Rabat
+END:VEVENT
+END:VCALENDAR

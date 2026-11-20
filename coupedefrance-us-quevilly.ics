@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Quevilly · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261128-stade-sottevillais-cc-us-quevilly-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:US QUEVILLY | Coupe de France | ✈️ | Stade Sottevillais CC 🇫
+ 🇷
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ Jean Adret\, Sotteville-lès-Rouen
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-stade-sottevillais-cc-us-quevilly@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T123000Z
+DTEND:20261128T141500Z
+SUMMARY:Stade Sottevillais CC - US Quevilly
+DESCRIPTION:Coupe de France
+LOCATION:Stade Jean Adret\, Sotteville-lès-Rouen
+END:VEVENT
+END:VCALENDAR

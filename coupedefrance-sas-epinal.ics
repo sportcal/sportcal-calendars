@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SAS Épinal · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261128-sas-epinal-amiens-sc-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:SAS ÉPINAL | Coupe de France | 🏟️ | Amiens SC 🇫🇷
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ de la Colombière\, Épinal
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-sas-epinal-amiens-sc@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T140000Z
+DTEND:20261128T154500Z
+SUMMARY:SAS Épinal - Amiens SC
+DESCRIPTION:Coupe de France
+LOCATION:Stade de la Colombière\, Épinal
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stockport County · FA Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:facup-20261205-reading-stockport-county-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:STOCKPORT COUNTY | FA Cup | ✈️ | Reading 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · FA Cup\nEstadi: Madejski Stadiu
+ m\, Reading
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-20261205-reading-stockport-county@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Reading - Stockport County
+DESCRIPTION:FA Cup
+LOCATION:Madejski Stadium\, Reading
+END:VEVENT
+END:VCALENDAR

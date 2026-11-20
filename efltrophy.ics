@@ -4,50 +4,52 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:EFL Trophy
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:efltrophy-dia-20261124-j2@sportcal
-DTSTAMP:20261119T093809Z
+UID:efltrophy-dia-20261124-j3@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:EFL TROPHY
-DESCRIPTION:20:00 Fleetwood Town FC - Leeds United U21 [EFLT]\n20:00 Oxford
-  United - Tottenham Hotspur U21 [EFLT]\n20:00 Salford City FC - Sunderland
-  U21 [EFLT]\n20:00 Tranmere Rovers FC - Everton U21 [EFLT]
+DESCRIPTION:20:00 Salford City - Sunderland U21\n20:00 Tranmere Rovers - Ev
+ erton U21\n20:00 Fleetwood Town - Leeds United U21\n20:00 Oxford United - 
+ Tottenham Hotspur U21
 END:VEVENT
 BEGIN:VEVENT
-UID:efltrophy-20261124-fleetwood-town-fc-leeds-united-u21-eflt@sportcal
-DTSTAMP:20261119T093809Z
+UID:efltrophy-20261124-salford-city-sunderland-u21@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261124T190000Z
 DTEND:20261124T204500Z
-SUMMARY:Fleetwood Town FC - Leeds United U21 [EFLT]
+SUMMARY:Salford City - Sunderland U21
 DESCRIPTION:EFL Trophy
-LOCATION:Highbury
+LOCATION:Moor Lane\, Salford
 END:VEVENT
 BEGIN:VEVENT
-UID:efltrophy-20261124-oxford-united-tottenham-hotspur-u21-eflt@sportcal
-DTSTAMP:20261119T093809Z
+UID:efltrophy-20261124-tranmere-rovers-everton-u21@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261124T190000Z
 DTEND:20261124T204500Z
-SUMMARY:Oxford United - Tottenham Hotspur U21 [EFLT]
+SUMMARY:Tranmere Rovers - Everton U21
 DESCRIPTION:EFL Trophy
-LOCATION:The Kassam
+LOCATION:Prenton Park\, Birkenhead
 END:VEVENT
 BEGIN:VEVENT
-UID:efltrophy-20261124-salford-city-fc-sunderland-u21-eflt@sportcal
-DTSTAMP:20261119T093809Z
+UID:efltrophy-20261124-fleetwood-town-leeds-united-u21@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261124T190000Z
 DTEND:20261124T204500Z
-SUMMARY:Salford City FC - Sunderland U21 [EFLT]
+SUMMARY:Fleetwood Town - Leeds United U21
 DESCRIPTION:EFL Trophy
-LOCATION:Peninsula
+LOCATION:Highbury Stadium\, Fleetwood
 END:VEVENT
 BEGIN:VEVENT
-UID:efltrophy-20261124-tranmere-rovers-fc-everton-u21-eflt@sportcal
-DTSTAMP:20261119T093809Z
+UID:efltrophy-20261124-oxford-united-tottenham-hotspur-u21@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261124T190000Z
 DTEND:20261124T204500Z
-SUMMARY:Tranmere Rovers FC - Everton U21 [EFLT]
+SUMMARY:Oxford United - Tottenham Hotspur U21
 DESCRIPTION:EFL Trophy
-LOCATION:Prenton Park
+LOCATION:Kassam Stadium\, Oxford
 END:VEVENT
 END:VCALENDAR

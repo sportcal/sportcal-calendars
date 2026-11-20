@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:La Tamponnaise · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261129-la-tamponnaise-angouleme-charente-fc-dia@sportca
+ l
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:LA TAMPONNAISE | Coupe de France | 🏟️ | Angoulême Charente FC
+  🇫🇷
+DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ Michel Volnay\, Saint-Pierre\, Réunion
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261129-la-tamponnaise-angouleme-charente-fc@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261129T114500Z
+DTEND:20261129T133000Z
+SUMMARY:La Tamponnaise - Angoulême Charente FC
+DESCRIPTION:Coupe de France
+LOCATION:Stade Michel Volnay\, Saint-Pierre\, Réunion
+END:VEVENT
+END:VCALENDAR

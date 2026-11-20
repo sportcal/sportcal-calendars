@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Luton Town · FA Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:facup-20261206-afc-fylde-luton-town-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:LUTON TOWN | FA Cup | ✈️ | AFC Fylde 🇬🇧
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · FA Cup\nEstadi: Mill Farm Sport
+ s Village\, Medlar-with-Wesham
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-20261206-afc-fylde-luton-town@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261206T143000Z
+DTEND:20261206T161500Z
+SUMMARY:AFC Fylde - Luton Town
+DESCRIPTION:FA Cup
+LOCATION:Mill Farm Sports Village\, Medlar-with-Wesham
+END:VEVENT
+END:VCALENDAR

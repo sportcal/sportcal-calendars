@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fleetwood Town · EFL Trophy
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:efltrophy-20261124-fleetwood-town-leeds-united-u21-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:FLEETWOOD TOWN | EFL Trophy | 🏟️ | Leeds United U21 🇬🇧
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · EFL Trophy\nEstadi: Highbury St
+ adium\, Fleetwood
+END:VEVENT
+BEGIN:VEVENT
+UID:efltrophy-20261124-fleetwood-town-leeds-united-u21@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261124T190000Z
+DTEND:20261124T204500Z
+SUMMARY:Fleetwood Town - Leeds United U21
+DESCRIPTION:EFL Trophy
+LOCATION:Highbury Stadium\, Fleetwood
+END:VEVENT
+END:VCALENDAR

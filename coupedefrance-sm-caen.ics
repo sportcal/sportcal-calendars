@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SM Caen · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261127-us-saint-omer-sm-caen-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:SM CAEN | Coupe de France | ✈️ | US Saint-Omer 🇫🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ Gaston Bonnet\, Saint-Omer
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261127-us-saint-omer-sm-caen@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:US Saint-Omer - SM Caen
+DESCRIPTION:Coupe de France
+LOCATION:Stade Gaston Bonnet\, Saint-Omer
+END:VEVENT
+END:VCALENDAR

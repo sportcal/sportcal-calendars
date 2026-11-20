@@ -4,22 +4,24 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Grêmio · Copa do Brasil
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:copadobrasil-20261206-gremio-palmeiras-cb-dia@sportcal
-DTSTAMP:20261119T093809Z
+UID:copadobrasil-20261206-gremio-palmeiras-dia@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:GRÊMIO | Copa do Brasil | 🏟️ | Palmeiras [CB] 🇧🇷
-DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Copa do Brasil\nEstadi: Arena B
- RB Mané Garrincha
+SUMMARY:GRÊMIO | Copa do Brasil | 🏟️ | Palmeiras 🇧🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Copa do Brasil\nEstadi: Estádi
+ o Nacional Mané Garrincha\, Brasília
 END:VEVENT
 BEGIN:VEVENT
-UID:copadobrasil-20261206-gremio-palmeiras-cb@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261206T000000Z
-DTEND:20261206T014500Z
-SUMMARY:Grêmio - Palmeiras [CB]
+UID:copadobrasil-20261206-gremio-palmeiras@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261206T190000Z
+DTEND:20261206T204500Z
+SUMMARY:Grêmio - Palmeiras
 DESCRIPTION:Copa do Brasil
-LOCATION:Arena BRB Mané Garrincha
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília
 END:VEVENT
 END:VCALENDAR

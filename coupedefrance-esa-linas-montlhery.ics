@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ESA Linas-Montlhéry · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261129-co-les-ulis-esa-linas-montlhery-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:ESA LINAS-MONTLHÉRY | Coupe de France | ✈️ | CO Les Ulis 🇫
+ 🇷
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ Jean-Marc Salinier\, Les Ulis
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261129-co-les-ulis-esa-linas-montlhery@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:CO Les Ulis - ESA Linas-Montlhéry
+DESCRIPTION:Coupe de France
+LOCATION:Stade Jean-Marc Salinier\, Les Ulis
+END:VEVENT
+END:VCALENDAR

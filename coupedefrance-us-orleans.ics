@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Orléans · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261128-sc-massay-us-orleans-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:US ORLÉANS | Coupe de France | ✈️ | SC Massay 🇫🇷
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ de Brouhot\, Vierzon
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-sc-massay-us-orleans@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:SC Massay - US Orléans
+DESCRIPTION:Coupe de France
+LOCATION:Stade de Brouhot\, Vierzon
+END:VEVENT
+END:VCALENDAR

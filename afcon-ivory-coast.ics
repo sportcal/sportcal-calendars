@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ivory Coast · AFCON
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:afcon-20251224-ivory-coast-mozambique-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+SUMMARY:IVORY COAST | AFCON | 🏟️ | Mozambique
+DESCRIPTION:Inici: 18:30 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251224-ivory-coast-mozambique@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20251224T173000Z
+DTEND:20251224T191500Z
+SUMMARY:Ivory Coast - Mozambique
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251228-ivory-coast-cameroon-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20251228
+DTEND;VALUE=DATE:20251229
+SUMMARY:IVORY COAST | AFCON | 🏟️ | Cameroon
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251228-ivory-coast-cameroon@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20251228T200000Z
+DTEND:20251228T214500Z
+SUMMARY:Ivory Coast - Cameroon
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251231-gabon-ivory-coast-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:IVORY COAST | AFCON | ✈️ | Gabon
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251231-gabon-ivory-coast@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20251231T190000Z
+DTEND:20251231T204500Z
+SUMMARY:Gabon - Ivory Coast
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20260106-ivory-coast-burkina-faso-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:IVORY COAST | AFCON | 🏟️ | Burkina Faso
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20260106-ivory-coast-burkina-faso@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20260106T190000Z
+DTEND:20260106T204500Z
+SUMMARY:Ivory Coast - Burkina Faso
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20260110-egypt-ivory-coast-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:IVORY COAST | AFCON | ✈️ | Egypt
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Adrar Stadium\, Agadir
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20260110-egypt-ivory-coast@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20260110T190000Z
+DTEND:20260110T204500Z
+SUMMARY:Egypt - Ivory Coast
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Adrar Stadium\, Agadir
+END:VEVENT
+END:VCALENDAR

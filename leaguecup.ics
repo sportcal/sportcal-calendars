@@ -4,61 +4,67 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:League Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:leaguecup-dia-20261215-j1@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:LEAGUE CUP
-DESCRIPTION:21:00 Manchester City - Bradford City FC [LC]
+DESCRIPTION:21:00 Manchester City - Bradford City
 END:VEVENT
 BEGIN:VEVENT
 UID:leaguecup-dia-20261216-j1@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:LEAGUE CUP
-DESCRIPTION:20:30 Crystal Palace - Sunderland [LC]\n21:00 Liverpool - AFC B
- ournemouth [LC]
+DESCRIPTION:20:30 Crystal Palace - Sunderland\n21:00 Liverpool - Bournemout
+ h
 END:VEVENT
 BEGIN:VEVENT
 UID:leaguecup-dia-20261217-j1@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:LEAGUE CUP
-DESCRIPTION:21:00 Fleetwood Town FC - Everton [LC]
+DESCRIPTION:21:00 Fleetwood Town - Everton
 END:VEVENT
 BEGIN:VEVENT
-UID:leaguecup-20261215-manchester-city-bradford-city-fc-lc@sportcal
-DTSTAMP:20261119T093809Z
+UID:leaguecup-20261215-manchester-city-bradford-city@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261215T200000Z
 DTEND:20261215T214500Z
-SUMMARY:Manchester City - Bradford City FC [LC]
+SUMMARY:Manchester City - Bradford City
 DESCRIPTION:League Cup
+LOCATION:Etihad Stadium\, Manchester
 END:VEVENT
 BEGIN:VEVENT
-UID:leaguecup-20261216-crystal-palace-sunderland-lc@sportcal
-DTSTAMP:20261119T093809Z
+UID:leaguecup-20261216-crystal-palace-sunderland@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261216T193000Z
 DTEND:20261216T211500Z
-SUMMARY:Crystal Palace - Sunderland [LC]
+SUMMARY:Crystal Palace - Sunderland
 DESCRIPTION:League Cup
+LOCATION:Selhurst Park\, Selhurst
 END:VEVENT
 BEGIN:VEVENT
-UID:leaguecup-20261216-liverpool-afc-bournemouth-lc@sportcal
-DTSTAMP:20261119T093809Z
+UID:leaguecup-20261216-liverpool-bournemouth@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261216T200000Z
 DTEND:20261216T214500Z
-SUMMARY:Liverpool - AFC Bournemouth [LC]
+SUMMARY:Liverpool - Bournemouth
 DESCRIPTION:League Cup
+LOCATION:Anfield\, Liverpool
 END:VEVENT
 BEGIN:VEVENT
-UID:leaguecup-20261217-fleetwood-town-fc-everton-lc@sportcal
-DTSTAMP:20261119T093809Z
+UID:leaguecup-20261217-fleetwood-town-everton@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261217T200000Z
 DTEND:20261217T214500Z
-SUMMARY:Fleetwood Town FC - Everton [LC]
+SUMMARY:Fleetwood Town - Everton
 DESCRIPTION:League Cup
+LOCATION:Highbury Stadium\, Fleetwood
 END:VEVENT
 END:VCALENDAR

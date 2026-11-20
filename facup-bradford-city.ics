@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bradford City · FA Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:facup-20261204-wimborne-town-bradford-city-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:BRADFORD CITY | FA Cup | ✈️ | Wimborne Town 🇬🇧
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · FA Cup\nEstadi: The Wyatt Homes
+  Stadium\, Wimborne Minster
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-20261204-wimborne-town-bradford-city@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261204T193000Z
+DTEND:20261204T211500Z
+SUMMARY:Wimborne Town - Bradford City
+DESCRIPTION:FA Cup
+LOCATION:The Wyatt Homes Stadium\, Wimborne Minster
+END:VEVENT
+END:VCALENDAR

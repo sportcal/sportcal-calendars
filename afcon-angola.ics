@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Angola · AFCON
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:afcon-20251222-south-africa-angola-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251223
+SUMMARY:ANGOLA | AFCON | ✈️ | South Africa
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251222-south-africa-angola@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20251222T170000Z
+DTEND:20251222T184500Z
+SUMMARY:South Africa - Angola
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251226-angola-zimbabwe-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:ANGOLA | AFCON | 🏟️ | Zimbabwe
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251226-angola-zimbabwe@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20251226T123000Z
+DTEND:20251226T141500Z
+SUMMARY:Angola - Zimbabwe
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Marrakesh Stadium\, Marrakesh
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251229-angola-egypt-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20251229
+DTEND;VALUE=DATE:20251230
+SUMMARY:ANGOLA | AFCON | 🏟️ | Egypt
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Africa Cup of Nations\nEstadi: 
+ Adrar Stadium\, Agadir
+END:VEVENT
+BEGIN:VEVENT
+UID:afcon-20251229-angola-egypt@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20251229T160000Z
+DTEND:20251229T174500Z
+SUMMARY:Angola - Egypt
+DESCRIPTION:Africa Cup of Nations
+LOCATION:Adrar Stadium\, Agadir
+END:VEVENT
+END:VCALENDAR

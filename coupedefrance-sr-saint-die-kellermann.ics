@@ -4,21 +4,27 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:SR Saint-Dié Kellermann · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:coupedefrance-20261128-sr-saint-die-kellermann-sochaux-cdf-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:SR SAINT-DIÉ KELLERMANN | Coupe de France | 🏟️ | Sochaux [CdF
- ] 🇫🇷
-DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Coupe de France
+UID:coupedefrance-20261129-sr-saint-die-kellermann-fc-sochaux-montbeliard-d
+ ia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:SR SAINT-DIÉ KELLERMANN | Coupe de France | 🏟️ | FC Sochaux-M
+ ontbéliard 🇫🇷
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ Émile Jeanpierre\, Saint-Dié-des-Vosges
 END:VEVENT
 BEGIN:VEVENT
-UID:coupedefrance-20261128-sr-saint-die-kellermann-sochaux-cdf@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261128T123000Z
-DTEND:20261128T141500Z
-SUMMARY:SR Saint-Dié Kellermann - Sochaux [CdF]
+UID:coupedefrance-20261129-sr-saint-die-kellermann-fc-sochaux-montbeliard@s
+ portcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:SR Saint-Dié Kellermann - FC Sochaux-Montbéliard
 DESCRIPTION:Coupe de France
+LOCATION:Stade Émile Jeanpierre\, Saint-Dié-des-Vosges
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Le Pays du Valois · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261127-us-le-pays-du-valois-valenciennes-fc-dia@sportca
+ l
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:US LE PAYS DU VALOIS | Coupe de France | 🏟️ | Valenciennes FC 
+ 🇫🇷
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ Municipal Olivier Lovighi\, Le Plessis-Belleville
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261127-us-le-pays-du-valois-valenciennes-fc@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:US Le Pays du Valois - Valenciennes FC
+DESCRIPTION:Coupe de France
+LOCATION:Stade Municipal Olivier Lovighi\, Le Plessis-Belleville
+END:VEVENT
+END:VCALENDAR

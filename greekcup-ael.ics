@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AEL · Greek Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:greekcup-20261202-a-e-kifisia-ael-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:AEL | Greek Cup | ✈️ | A.E. Kifisia 🇬🇷
+DESCRIPTION:Hora pendent de confirmació · Greek Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:greekcup-20261202-a-e-kifisia-ael@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:A.E. Kifisia - AEL · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Greek Cup
+END:VEVENT
+END:VCALENDAR

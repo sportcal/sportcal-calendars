@@ -4,234 +4,226 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:FA Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:facup-dia-20261204-j1@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-dia-20261204-j2@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:FA CUP
-DESCRIPTION:20:30 Wimborne Town - Bradford City FC [FA]\n20:45 Wycombe Wand
- erers FC - Milton Keynes Dons FC [FA]
-END:VEVENT
-BEGIN:VEVENT
-UID:facup-dia-20261205-j1@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:FA CUP
-DESCRIPTION:16:00 Chesterfield FC - Cheltenham Town FC [FA]\n16:00 Colchest
- er United FC - Mansfield Town FC [FA]\n16:00 Exeter City FC - Stevenage FC
-  [FA]\n16:00 Grimsby Town FC - Oldham Athletic AFC [FA]\n16:00 Port Vale F
- C - Leyton Orient FC [FA]\n16:00 Reading FC - Stockport County [FA]\n16:00
-  Rochdale AFC - Newport County AFC [FA]\n16:00 Rotherham United FC - Brist
- ol Rovers FC [FA]\n16:00 Shrewsbury Town FC - Burton Albion FC [FA]\n16:00
-  Wigan Athletic - Barnsley [FA]\n16:00 York City FC - Carlisle United [FA]
- \n21:00 Barrow AFC - Kidderminster Harriers [FA]
+DESCRIPTION:20:30 Wimborne Town - Bradford City\n20:45 Wycombe Wanderers - 
+ Milton Keynes Dons
 END:VEVENT
 BEGIN:VEVENT
 UID:facup-dia-20261205-j2@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:FA CUP
-DESCRIPTION:18:15 Dover Athletic - Leicester City [FA]
+DESCRIPTION:16:00 Chesterfield - Cheltenham Town\n16:00 Wigan Athletic - Ba
+ rnsley\n16:00 Exeter City - Stevenage\n16:00 York City - Carlisle United\n
+ 16:00 Colchester United - Mansfield Town\n16:00 Rochdale - Newport County\
+ n16:00 Port Vale - Leyton Orient\n16:00 Grimsby Town - Oldham Athletic\n16
+ :00 Shrewsbury Town - Burton Albion\n16:00 Rotherham United - Bristol Rove
+ rs\n16:00 Reading - Stockport County\n18:15 Dover Athletic - Leicester Cit
+ y\n21:00 Barrow - Kidderminster Harriers
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-dia-20261206-j1@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-dia-20261206-j2@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:FA CUP
-DESCRIPTION:13:15 Salisbury - Blackpool FC [FA]\n15:30 AFC Fylde - Luton To
- wn [FA]\n16:15 Crewe Alexandra FC - Plymouth Argyle [FA]\n18:30 Plymouth P
- arkway - Barnet FC [FA]
+DESCRIPTION:13:15 Salisbury - Blackpool\n15:30 AFC Fylde - Luton Town\n16:1
+ 5 Crewe Alexandra - Plymouth Argyle\n18:30 Plymouth Parkway - Barnet
 END:VEVENT
 BEGIN:VEVENT
 UID:facup-dia-20261207-j2@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:FA CUP
-DESCRIPTION:20:30 Guiseley - Notts County FC [FA]
+DESCRIPTION:20:30 Guiseley - Notts County
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261204-wimborne-town-bradford-city-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261204-wimborne-town-bradford-city@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261204T193000Z
 DTEND:20261204T211500Z
-SUMMARY:Wimborne Town - Bradford City FC [FA]
+SUMMARY:Wimborne Town - Bradford City
 DESCRIPTION:FA Cup
-LOCATION:The Wyatt Homes
+LOCATION:The Wyatt Homes Stadium\, Wimborne Minster
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261204-wycombe-wanderers-fc-milton-keynes-dons-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261204-wycombe-wanderers-milton-keynes-dons@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261204T194500Z
 DTEND:20261204T213000Z
-SUMMARY:Wycombe Wanderers FC - Milton Keynes Dons FC [FA]
+SUMMARY:Wycombe Wanderers - Milton Keynes Dons
 DESCRIPTION:FA Cup
-LOCATION:Adams Park
+LOCATION:Adams Park\, High Wycombe
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-chesterfield-fc-cheltenham-town-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-chesterfield-cheltenham-town@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Chesterfield FC - Cheltenham Town FC [FA]
+SUMMARY:Chesterfield - Cheltenham Town
 DESCRIPTION:FA Cup
-LOCATION:SMH Group
+LOCATION:SMH Group Stadium\, Chesterfield
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-colchester-united-fc-mansfield-town-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-wigan-athletic-barnsley@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Colchester United FC - Mansfield Town FC [FA]
+SUMMARY:Wigan Athletic - Barnsley
 DESCRIPTION:FA Cup
-LOCATION:JobServe Community
+LOCATION:Brick Community Stadium\, Wigan
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-exeter-city-fc-stevenage-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-exeter-city-stevenage@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Exeter City FC - Stevenage FC [FA]
+SUMMARY:Exeter City - Stevenage
 DESCRIPTION:FA Cup
-LOCATION:St James Park
+LOCATION:St James Park\, Exeter
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-grimsby-town-fc-oldham-athletic-afc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-york-city-carlisle-united@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Grimsby Town FC - Oldham Athletic AFC [FA]
+SUMMARY:York City - Carlisle United
 DESCRIPTION:FA Cup
-LOCATION:Blundell Park
+LOCATION:York Community Stadium\, York
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-port-vale-fc-leyton-orient-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-colchester-united-mansfield-town@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Port Vale FC - Leyton Orient FC [FA]
+SUMMARY:Colchester United - Mansfield Town
 DESCRIPTION:FA Cup
-LOCATION:Vale Park
+LOCATION:Colchester Community Stadium\, Colchester
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-reading-fc-stockport-county-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-rochdale-newport-county@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Reading FC - Stockport County [FA]
+SUMMARY:Rochdale - Newport County
 DESCRIPTION:FA Cup
-LOCATION:Madejski
+LOCATION:Spotland Stadium\, Rochdale
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-rochdale-afc-newport-county-afc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-port-vale-leyton-orient@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Rochdale AFC - Newport County AFC [FA]
+SUMMARY:Port Vale - Leyton Orient
 DESCRIPTION:FA Cup
-LOCATION:Crown Oil Arena
+LOCATION:Vale Park\, Stoke-on-Trent
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-rotherham-united-fc-bristol-rovers-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-grimsby-town-oldham-athletic@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Rotherham United FC - Bristol Rovers FC [FA]
+SUMMARY:Grimsby Town - Oldham Athletic
 DESCRIPTION:FA Cup
-LOCATION:AESSEAL New York
+LOCATION:Blundell Park\, Cleethorpes
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-shrewsbury-town-fc-burton-albion-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-shrewsbury-town-burton-albion@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Shrewsbury Town FC - Burton Albion FC [FA]
+SUMMARY:Shrewsbury Town - Burton Albion
 DESCRIPTION:FA Cup
-LOCATION:The Croud Meadow
+LOCATION:New Meadow\, Shrewsbury
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-wigan-athletic-barnsley-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-rotherham-united-bristol-rovers@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:Wigan Athletic - Barnsley [FA]
+SUMMARY:Rotherham United - Bristol Rovers
 DESCRIPTION:FA Cup
-LOCATION:DW
+LOCATION:New York Stadium\, Rotherham
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-york-city-fc-carlisle-united-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-reading-stockport-county@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
-SUMMARY:York City FC - Carlisle United [FA]
+SUMMARY:Reading - Stockport County
 DESCRIPTION:FA Cup
-LOCATION:LNER Community
+LOCATION:Madejski Stadium\, Reading
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-dover-athletic-leicester-city-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-dover-athletic-leicester-city@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T171500Z
 DTEND:20261205T190000Z
-SUMMARY:Dover Athletic - Leicester City [FA]
+SUMMARY:Dover Athletic - Leicester City
 DESCRIPTION:FA Cup
-LOCATION:Crabble Athletic Ground
+LOCATION:Crabble Athletic Ground\, Dover
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261205-barrow-afc-kidderminster-harriers-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261205-barrow-kidderminster-harriers@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261205T200000Z
 DTEND:20261205T214500Z
-SUMMARY:Barrow AFC - Kidderminster Harriers [FA]
+SUMMARY:Barrow - Kidderminster Harriers
 DESCRIPTION:FA Cup
-LOCATION:SO Legal
+LOCATION:Holker Street\, Barrow-in-Furness
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261206-salisbury-blackpool-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261206-salisbury-blackpool@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261206T121500Z
 DTEND:20261206T140000Z
-SUMMARY:Salisbury - Blackpool FC [FA]
+SUMMARY:Salisbury - Blackpool
 DESCRIPTION:FA Cup
-LOCATION:The Raymond McEnhill
+LOCATION:Raymond McEnhill Stadium\, Salisbury
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261206-afc-fylde-luton-town-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261206-afc-fylde-luton-town@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261206T143000Z
 DTEND:20261206T161500Z
-SUMMARY:AFC Fylde - Luton Town [FA]
+SUMMARY:AFC Fylde - Luton Town
 DESCRIPTION:FA Cup
-LOCATION:Mill Farm Sports Village
+LOCATION:Mill Farm Sports Village\, Medlar-with-Wesham
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261206-crewe-alexandra-fc-plymouth-argyle-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261206-crewe-alexandra-plymouth-argyle@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261206T151500Z
 DTEND:20261206T170000Z
-SUMMARY:Crewe Alexandra FC - Plymouth Argyle [FA]
+SUMMARY:Crewe Alexandra - Plymouth Argyle
 DESCRIPTION:FA Cup
-LOCATION:Mornflake
+LOCATION:Gresty Road\, Crewe
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261206-plymouth-parkway-barnet-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261206-plymouth-parkway-barnet@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261206T173000Z
 DTEND:20261206T191500Z
-SUMMARY:Plymouth Parkway - Barnet FC [FA]
+SUMMARY:Plymouth Parkway - Barnet
 DESCRIPTION:FA Cup
-LOCATION:Manadon Sports Hub
+LOCATION:Bolitho Park\, Plymouth
 END:VEVENT
 BEGIN:VEVENT
-UID:facup-20261207-guiseley-notts-county-fc-fa@sportcal
-DTSTAMP:20261119T093809Z
+UID:facup-20261207-guiseley-notts-county@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261207T193000Z
 DTEND:20261207T211500Z
-SUMMARY:Guiseley - Notts County FC [FA]
+SUMMARY:Guiseley - Notts County
 DESCRIPTION:FA Cup
-LOCATION:Nethermoor Park
+LOCATION:Nethermoor Park\, Guiseley
 END:VEVENT
 END:VCALENDAR

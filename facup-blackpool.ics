@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blackpool · FA Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:facup-20261206-salisbury-blackpool-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:BLACKPOOL | FA Cup | ✈️ | Salisbury 🇬🇧
+DESCRIPTION:Inici: 13:15 (Europe/Madrid) · FA Cup\nEstadi: Raymond McEnhil
+ l Stadium\, Salisbury
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-20261206-salisbury-blackpool@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261206T121500Z
+DTEND:20261206T140000Z
+SUMMARY:Salisbury - Blackpool
+DESCRIPTION:FA Cup
+LOCATION:Raymond McEnhill Stadium\, Salisbury
+END:VEVENT
+END:VCALENDAR

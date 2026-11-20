@@ -4,55 +4,29 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Greek Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:greekcup-dia-20261202-j4@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:GREEK CUP
-DESCRIPTION:TBD Kifisia - Larissa\nTBD Olympiakos Piraeus - Panathinaikos\n
- TBD Kalamata - PAOK Salonika\nTBD OFI - Volos NFC\n18:00 AEK Athene - Aste
- ras Tripolis
+DESCRIPTION:TBD Olympiacos - Panathinaikos
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-dia-20261202-j5@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:GREEK CUP
-DESCRIPTION:TBD Niki Volos - Marko\nTBD Atromitos Athens - Nestos Chrisoupo
- lis\nTBD Aris - Panserraikos
-END:VEVENT
-BEGIN:VEVENT
-UID:greekcup-20261202-kifisia-larissa@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Kifisia - Larissa · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
-END:VEVENT
-BEGIN:VEVENT
-UID:greekcup-20261202-olympiakos-piraeus-panathinaikos@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Olympiakos Piraeus - Panathinaikos · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
-END:VEVENT
-BEGIN:VEVENT
-UID:greekcup-20261202-kalamata-paok-salonika@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Kalamata - PAOK Salonika · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
+DESCRIPTION:TBD Niki Volos - Marko\nTBD Kalamata - PAOK\nTBD OFI - Volos\nT
+ BD Aris - Panserraikos\nTBD Atromitos - Nestos Chrysoupoli\nTBD A.E. Kifis
+ ia - AEL\n18:00 AEK Athens - Asteras Tripolis
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-niki-volos-marko@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Niki Volos - Marko · TBD
@@ -60,17 +34,26 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Greek Cup
 END:VEVENT
 BEGIN:VEVENT
-UID:greekcup-20261202-atromitos-athens-nestos-chrisoupolis@sportcal
-DTSTAMP:20261119T093809Z
+UID:greekcup-20261202-kalamata-paok@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:Atromitos Athens - Nestos Chrisoupolis · TBD
+SUMMARY:Kalamata - PAOK · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Greek Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:greekcup-20261202-ofi-volos@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:OFI - Volos · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Greek Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-aris-panserraikos@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Aris - Panserraikos · TBD
@@ -78,20 +61,39 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Greek Cup
 END:VEVENT
 BEGIN:VEVENT
-UID:greekcup-20261202-ofi-volos-nfc@sportcal
-DTSTAMP:20261119T093809Z
+UID:greekcup-20261202-atromitos-nestos-chrysoupoli@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:OFI - Volos NFC · TBD
+SUMMARY:Atromitos - Nestos Chrysoupoli · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Greek Cup
 END:VEVENT
 BEGIN:VEVENT
-UID:greekcup-20261202-aek-athene-asteras-tripolis@sportcal
-DTSTAMP:20261119T093809Z
+UID:greekcup-20261202-olympiacos-panathinaikos@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Olympiacos - Panathinaikos · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Greek Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:greekcup-20261202-a-e-kifisia-ael@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:A.E. Kifisia - AEL · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Greek Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:greekcup-20261202-aek-athens-asteras-tripolis@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261202T170000Z
 DTEND:20261202T184500Z
-SUMMARY:AEK Athene - Asteras Tripolis
+SUMMARY:AEK Athens - Asteras Tripolis
 DESCRIPTION:Greek Cup
+LOCATION:Agia Sophia Stadium\, Nea Filadelfeia
 END:VEVENT
 END:VCALENDAR

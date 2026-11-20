@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vannes OC · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261128-vannes-oc-us-concarneau-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:VANNES OC | Coupe de France | 🏟️ | US Concarneau 🇫🇷
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · Coupe de France\nEstadi: Comple
+ xe Sportif du Pérenno\, Theix-Noyalo
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-vannes-oc-us-concarneau@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T123000Z
+DTEND:20261128T141500Z
+SUMMARY:Vannes OC - US Concarneau
+DESCRIPTION:Coupe de France
+LOCATION:Complexe Sportif du Pérenno\, Theix-Noyalo
+END:VEVENT
+END:VCALENDAR

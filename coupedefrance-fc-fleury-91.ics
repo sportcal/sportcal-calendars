@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Fleury 91 · Coupe de France
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coupedefrance-20261128-as-etoile-de-matoury-fc-fleury-91-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:FC FLEURY 91 | Coupe de France | ✈️ | AS Étoile de Matoury 
+ 🇫🇷
+DESCRIPTION:Inici: 19:30 (Europe/Madrid) · Coupe de France\nEstadi: Stade 
+ Municipal Dr. Edmard Lama\, Remire-Montjoly\, French Guiana
+END:VEVENT
+BEGIN:VEVENT
+UID:coupedefrance-20261128-as-etoile-de-matoury-fc-fleury-91@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:AS Étoile de Matoury - FC Fleury 91
+DESCRIPTION:Coupe de France
+LOCATION:Stade Municipal Dr. Edmard Lama\, Remire-Montjoly\, French Guiana
+END:VEVENT
+END:VCALENDAR

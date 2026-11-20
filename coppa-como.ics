@@ -4,20 +4,24 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Como · Coppa Italia
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:coppa-20261202-como-cremonese-cop-dia@sportcal
-DTSTAMP:20261119T093809Z
+UID:coppa-20261202-como-cremonese-dia@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:COMO | Coppa Italia | 🏟️ | Cremonese [COP] 🇮🇹
-DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Coppa Italia
+SUMMARY:COMO | Coppa Italia | 🏟️ | Cremonese 🇮🇹
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Coppa Italia\nEstadi: Stadio Gi
+ useppe Sinigaglia\, Como
 END:VEVENT
 BEGIN:VEVENT
-UID:coppa-20261202-como-cremonese-cop@sportcal
-DTSTAMP:20261119T093809Z
+UID:coppa-20261202-como-cremonese@sportcal
+DTSTAMP:20261120T175615Z
 DTSTART:20261202T200000Z
 DTEND:20261202T214500Z
-SUMMARY:Como - Cremonese [COP]
+SUMMARY:Como - Cremonese
 DESCRIPTION:Coppa Italia
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fiorentina · Coppa Italia
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:coppa-20261216-napoli-fiorentina-dia@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:FIORENTINA | Coppa Italia | ✈️ | Napoli 🇮🇹
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Coppa Italia\nEstadi: Stadio Di
+ ego Armando Maradona\, Naples
+END:VEVENT
+BEGIN:VEVENT
+UID:coppa-20261216-napoli-fiorentina@sportcal
+DTSTAMP:20261120T175615Z
+DTSTART:20261216T200000Z
+DTEND:20261216T214500Z
+SUMMARY:Napoli - Fiorentina
+DESCRIPTION:Coppa Italia
+LOCATION:Stadio Diego Armando Maradona\, Naples
+END:VEVENT
+END:VCALENDAR
