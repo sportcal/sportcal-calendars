@@ -1,0 +1,334 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VfB Auerbach · Oberliga Süd
+X-WR-CALDESC:Daten von OpenLigaDB (www.openligadb.de)\, lizenziert unter OD
+ bL 1.0
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261121-ssc-wei-enfels-vfb-auerbach-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:VFB AUERBACH | Oberliga Süd | J12 | ✈️ | SSC Weißenfels 🇩
+ 🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261121-ssc-wei-enfels-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261121T123000Z
+DTEND:20261121T141500Z
+SUMMARY:SSC Weißenfels - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261128-vfb-auerbach-union-sandersdorf-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:VFB AUERBACH | Oberliga Süd | J13 | 🏟️ | Union Sandersdorf 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261128-vfb-auerbach-union-sandersdorf@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261128T130000Z
+DTEND:20261128T144500Z
+SUMMARY:VfB Auerbach - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261206-zfc-meuselwitz-vfb-auerbach-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:VFB AUERBACH | Oberliga Süd | J14 | ✈️ | ZFC Meuselwitz 🇩
+ 🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261206-zfc-meuselwitz-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T120000Z
+DTEND:20261206T134500Z
+SUMMARY:ZFC Meuselwitz - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261212-vfb-auerbach-germania-halberstadt-dia@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:VFB AUERBACH | Oberliga Süd | J15 | 🏟️ | Germania Halberstadt
+  🇩🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261212-vfb-auerbach-germania-halberstadt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:VfB Auerbach - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-vfb-auerbach-vfl-halle-96-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:VFB AUERBACH | Oberliga Süd | J16 | 🏟️ | VfL Halle 96 🇩
+ 🇪
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-vfb-auerbach-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:VfB Auerbach - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-vfc-plauen-vfb-auerbach-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:VFB AUERBACH | Oberliga Süd | J17 | ✈️ | VFC Plauen 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-vfc-plauen-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T123000Z
+DTEND:20270214T141500Z
+SUMMARY:VFC Plauen - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270221-vfb-auerbach-fsv-budissa-bautzen-dia@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:VFB AUERBACH | Oberliga Süd | J18 | 🏟️ | FSV Budissa Bautzen 
+ 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270221-vfb-auerbach-fsv-budissa-bautzen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T123000Z
+DTEND:20270221T141500Z
+SUMMARY:VfB Auerbach - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-dynamo-dresden-ii-vfb-auerbach-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:VFB AUERBACH | Oberliga Süd | J19 | ✈️ | Dynamo Dresden II 
+ 🇩🇪
+DESCRIPTION:Inici: 13:30 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-dynamo-dresden-ii-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T123000Z
+DTEND:20270228T141500Z
+SUMMARY:Dynamo Dresden II - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-vfb-auerbach-sc-freital-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:VFB AUERBACH | Oberliga Süd | J20 | 🏟️ | SC Freital 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-vfb-auerbach-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:VfB Auerbach - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-fc-eilenburg-vfb-auerbach-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:VFB AUERBACH | Oberliga Süd | J21 | ✈️ | FC Eilenburg 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-fc-eilenburg-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:FC Eilenburg - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-vfb-auerbach-fc-einheit-rudolstadt-dia@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:VFB AUERBACH | Oberliga Süd | J22 | 🏟️ | FC Einheit Rudolstad
+ t 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-vfb-auerbach-fc-einheit-rudolstadt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:VfB Auerbach - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-1-fc-frankfurt-vfb-auerbach-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:VFB AUERBACH | Oberliga Süd | J23 | ✈️ | 1.FC Frankfurt 🇩
+ 🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-1-fc-frankfurt-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T120000Z
+DTEND:20270404T134500Z
+SUMMARY:1.FC Frankfurt - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-einheit-wernigerode-vfb-auerbach-dia@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:VFB AUERBACH | Oberliga Süd | J24 | ✈️ | Einheit Wernigerode 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-einheit-wernigerode-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:Einheit Wernigerode - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-vfb-auerbach-vfb-empor-glauchau-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:VFB AUERBACH | Oberliga Süd | J25 | 🏟️ | VfB Empor Glauchau 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-vfb-auerbach-vfb-empor-glauchau@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:VfB Auerbach - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-vfb-1921-krieschow-vfb-auerbach-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:VFB AUERBACH | Oberliga Süd | J26 | ✈️ | VfB 1921 Krieschow 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-vfb-1921-krieschow-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T120000Z
+DTEND:20270425T134500Z
+SUMMARY:VfB 1921 Krieschow - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-vfb-auerbach-ssc-wei-enfels-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:VFB AUERBACH | Oberliga Süd | J27 | 🏟️ | SSC Weißenfels 🇩
+ 🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-vfb-auerbach-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:VfB Auerbach - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-union-sandersdorf-vfb-auerbach-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:VFB AUERBACH | Oberliga Süd | J28 | ✈️ | Union Sandersdorf 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-union-sandersdorf-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:Union Sandersdorf - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-vfb-auerbach-zfc-meuselwitz-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:VFB AUERBACH | Oberliga Süd | J29 | 🏟️ | ZFC Meuselwitz 🇩
+ 🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-vfb-auerbach-zfc-meuselwitz@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270516T120000Z
+DTEND:20270516T134500Z
+SUMMARY:VfB Auerbach - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-germania-halberstadt-vfb-auerbach-dia@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:VFB AUERBACH | Oberliga Süd | J30 | ✈️ | Germania Halberstadt 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-germania-halberstadt-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270522T120000Z
+DTEND:20270522T134500Z
+SUMMARY:Germania Halberstadt - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+END:VCALENDAR

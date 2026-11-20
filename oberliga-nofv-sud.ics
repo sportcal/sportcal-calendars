@@ -1,0 +1,1544 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NOFV-Oberliga Süd
+X-WR-CALDESC:Daten von OpenLigaDB (www.openligadb.de)\, lizenziert unter OD
+ bL 1.0
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261121-j12@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:OBERLIGA SÜD | J12
+DESCRIPTION:13:30 VfL Halle 96 - Dynamo Dresden II\n13:30 Germania Halberst
+ adt - SC Freital\n13:30 ZFC Meuselwitz - FC Eilenburg\n13:30 SSC Weißenfe
+ ls - VfB Auerbach\n13:30 VfB 1921 Krieschow - Einheit Wernigerode\n13:30 V
+ FC Plauen - FSV Budissa Bautzen\n14:00 Union Sandersdorf - FC Einheit Rudo
+ lstadt
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261122-j12@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:OBERLIGA SÜD | J12
+DESCRIPTION:13:30 VfB Empor Glauchau - 1.FC Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261128-j13@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:OBERLIGA SÜD | J13
+DESCRIPTION:13:00 FC Eilenburg - Germania Halberstadt\n13:30 1.FC Frankfurt
+  - FSV Budissa Bautzen\n13:30 Einheit Wernigerode - SSC Weißenfels\n13:30
+  SC Freital - VfL Halle 96\n14:00 VfB Auerbach - Union Sandersdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261129-j13@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:OBERLIGA SÜD | J13
+DESCRIPTION:13:30 VfB Empor Glauchau - VfB 1921 Krieschow\n13:30 FC Einheit
+  Rudolstadt - ZFC Meuselwitz\n13:30 Dynamo Dresden II - VFC Plauen
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261204-j14@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:OBERLIGA SÜD | J14
+DESCRIPTION:19:00 Union Sandersdorf - Einheit Wernigerode
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261205-j14@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:OBERLIGA SÜD | J14
+DESCRIPTION:13:00 1.FC Frankfurt - VfB 1921 Krieschow\n13:00 VFC Plauen - S
+ C Freital\n13:00 Germania Halberstadt - FC Einheit Rudolstadt\n13:00 SSC W
+ eißenfels - VfB Empor Glauchau
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261206-j14@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:OBERLIGA SÜD | J14
+DESCRIPTION:13:00 FSV Budissa Bautzen - Dynamo Dresden II\n13:00 VfL Halle 
+ 96 - FC Eilenburg\n13:00 ZFC Meuselwitz - VfB Auerbach
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261211-j15@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:OBERLIGA SÜD | J15
+DESCRIPTION:19:00 FC Eilenburg - VFC Plauen
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261212-j15@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:OBERLIGA SÜD | J15
+DESCRIPTION:13:00 VfB 1921 Krieschow - SSC Weißenfels\n13:00 Einheit Werni
+ gerode - ZFC Meuselwitz\n13:00 VfB Auerbach - Germania Halberstadt
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261213-j15@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:OBERLIGA SÜD | J15
+DESCRIPTION:13:00 VfB Empor Glauchau - Union Sandersdorf\n13:00 FC Einheit 
+ Rudolstadt - VfL Halle 96\n13:00 SC Freital - FSV Budissa Bautzen\n13:00 D
+ ynamo Dresden II - 1.FC Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20261219-j16@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:OBERLIGA SÜD | J16
+DESCRIPTION:13:00 SSC Weißenfels - 1.FC Frankfurt\n13:00 FC Eilenburg - FS
+ V Budissa Bautzen\n13:00 FC Einheit Rudolstadt - VFC Plauen\n13:00 VfB Aue
+ rbach - VfL Halle 96\n13:00 VfB Empor Glauchau - ZFC Meuselwitz\n13:00 SC 
+ Freital - Dynamo Dresden II\n13:00 Einheit Wernigerode - Germania Halberst
+ adt\n14:00 VfB 1921 Krieschow - Union Sandersdorf
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270214-j17@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:OBERLIGA SÜD | J17
+DESCRIPTION:13:30 ZFC Meuselwitz - VfB 1921 Krieschow\n13:30 Germania Halbe
+ rstadt - VfB Empor Glauchau\n13:30 VfL Halle 96 - Einheit Wernigerode\n13:
+ 30 VFC Plauen - VfB Auerbach\n13:30 FSV Budissa Bautzen - FC Einheit Rudol
+ stadt\n13:30 Dynamo Dresden II - FC Eilenburg\n13:30 1.FC Frankfurt - SC F
+ reital\n13:30 Union Sandersdorf - SSC Weißenfels
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270220-j18@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:OBERLIGA SÜD | J18
+DESCRIPTION:13:30 Einheit Wernigerode - VFC Plauen
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270221-j18@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:OBERLIGA SÜD | J18
+DESCRIPTION:13:30 Union Sandersdorf - 1.FC Frankfurt\n13:30 VfB Auerbach - 
+ FSV Budissa Bautzen\n13:30 VfB Empor Glauchau - VfL Halle 96\n13:30 VfB 19
+ 21 Krieschow - Germania Halberstadt\n13:30 SSC Weißenfels - ZFC Meuselwit
+ z\n13:30 FC Eilenburg - SC Freital\n13:30 FC Einheit Rudolstadt - Dynamo D
+ resden II
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270228-j19@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:OBERLIGA SÜD | J19
+DESCRIPTION:13:30 VfL Halle 96 - VfB 1921 Krieschow\n13:30 VFC Plauen - VfB
+  Empor Glauchau\n13:30 FSV Budissa Bautzen - Einheit Wernigerode\n13:30 Dy
+ namo Dresden II - VfB Auerbach\n13:30 SC Freital - FC Einheit Rudolstadt\n
+ 13:30 1.FC Frankfurt - FC Eilenburg\n13:30 ZFC Meuselwitz - Union Sandersd
+ orf\n13:30 Germania Halberstadt - SSC Weißenfels
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270307-j20@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:OBERLIGA SÜD | J20
+DESCRIPTION:14:00 ZFC Meuselwitz - 1.FC Frankfurt\n14:00 VfB Empor Glauchau
+  - FSV Budissa Bautzen\n14:00 VfB 1921 Krieschow - VFC Plauen\n14:00 SSC W
+ eißenfels - VfL Halle 96\n14:00 Union Sandersdorf - Germania Halberstadt\
+ n14:00 FC Einheit Rudolstadt - FC Eilenburg\n14:00 VfB Auerbach - SC Freit
+ al\n14:00 Einheit Wernigerode - Dynamo Dresden II
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270314-j21@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:OBERLIGA SÜD | J21
+DESCRIPTION:14:00 FSV Budissa Bautzen - VfB 1921 Krieschow\n14:00 Dynamo Dr
+ esden II - VfB Empor Glauchau\n14:00 SC Freital - Einheit Wernigerode\n14:
+ 00 FC Eilenburg - VfB Auerbach\n14:00 1.FC Frankfurt - FC Einheit Rudolsta
+ dt\n14:00 Germania Halberstadt - ZFC Meuselwitz\n14:00 VfL Halle 96 - Unio
+ n Sandersdorf\n14:00 VFC Plauen - SSC Weißenfels
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270321-j22@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:OBERLIGA SÜD | J22
+DESCRIPTION:14:00 Germania Halberstadt - 1.FC Frankfurt\n14:00 SSC Weißenf
+ els - FSV Budissa Bautzen\n14:00 Union Sandersdorf - VFC Plauen\n14:00 ZFC
+  Meuselwitz - VfL Halle 96\n14:00 VfB Auerbach - FC Einheit Rudolstadt\n14
+ :00 Einheit Wernigerode - FC Eilenburg\n14:00 VfB Empor Glauchau - SC Frei
+ tal\n14:00 VfB 1921 Krieschow - Dynamo Dresden II
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270404-j23@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:OBERLIGA SÜD | J23
+DESCRIPTION:14:00 SC Freital - VfB 1921 Krieschow\n14:00 FC Eilenburg - VfB
+  Empor Glauchau\n14:00 FC Einheit Rudolstadt - Einheit Wernigerode\n14:00 
+ 1.FC Frankfurt - VfB Auerbach\n14:00 VfL Halle 96 - Germania Halberstadt\n
+ 14:00 VFC Plauen - ZFC Meuselwitz\n14:00 FSV Budissa Bautzen - Union Sande
+ rsdorf\n14:00 Dynamo Dresden II - SSC Weißenfels
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270411-j24@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:OBERLIGA SÜD | J24
+DESCRIPTION:14:00 VfL Halle 96 - 1.FC Frankfurt\n14:00 ZFC Meuselwitz - FSV
+  Budissa Bautzen\n14:00 Germania Halberstadt - VFC Plauen\n14:00 Einheit W
+ ernigerode - VfB Auerbach\n14:00 VfB Empor Glauchau - FC Einheit Rudolstad
+ t\n14:00 VfB 1921 Krieschow - FC Eilenburg\n14:00 SSC Weißenfels - SC Fre
+ ital\n14:00 Union Sandersdorf - Dynamo Dresden II
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270418-j25@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:OBERLIGA SÜD | J25
+DESCRIPTION:14:00 FC Einheit Rudolstadt - VfB 1921 Krieschow\n14:00 VfB Aue
+ rbach - VfB Empor Glauchau\n14:00 1.FC Frankfurt - Einheit Wernigerode\n14
+ :00 VFC Plauen - VfL Halle 96\n14:00 FSV Budissa Bautzen - Germania Halber
+ stadt\n14:00 Dynamo Dresden II - ZFC Meuselwitz\n14:00 SC Freital - Union 
+ Sandersdorf\n14:00 FC Eilenburg - SSC Weißenfels
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270425-j26@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:OBERLIGA SÜD | J26
+DESCRIPTION:14:00 VFC Plauen - 1.FC Frankfurt\n14:00 VfL Halle 96 - FSV Bud
+ issa Bautzen\n14:00 VfB Empor Glauchau - Einheit Wernigerode\n14:00 VfB 19
+ 21 Krieschow - VfB Auerbach\n14:00 SSC Weißenfels - FC Einheit Rudolstadt
+ \n14:00 Union Sandersdorf - FC Eilenburg\n14:00 ZFC Meuselwitz - SC Freita
+ l\n14:00 Germania Halberstadt - Dynamo Dresden II
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270502-j27@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:OBERLIGA SÜD | J27
+DESCRIPTION:14:00 Einheit Wernigerode - VfB 1921 Krieschow\n14:00 1.FC Fran
+ kfurt - VfB Empor Glauchau\n14:00 FSV Budissa Bautzen - VFC Plauen\n14:00 
+ Dynamo Dresden II - VfL Halle 96\n14:00 SC Freital - Germania Halberstadt\
+ n14:00 FC Eilenburg - ZFC Meuselwitz\n14:00 FC Einheit Rudolstadt - Union 
+ Sandersdorf\n14:00 VfB Auerbach - SSC Weißenfels
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270509-j28@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:OBERLIGA SÜD | J28
+DESCRIPTION:14:00 FSV Budissa Bautzen - 1.FC Frankfurt\n14:00 VfB 1921 Krie
+ schow - VfB Empor Glauchau\n14:00 SSC Weißenfels - Einheit Wernigerode\n1
+ 4:00 Union Sandersdorf - VfB Auerbach\n14:00 ZFC Meuselwitz - FC Einheit R
+ udolstadt\n14:00 Germania Halberstadt - FC Eilenburg\n14:00 VfL Halle 96 -
+  SC Freital\n14:00 VFC Plauen - Dynamo Dresden II
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270516-j29@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:OBERLIGA SÜD | J29
+DESCRIPTION:14:00 VfB 1921 Krieschow - 1.FC Frankfurt\n14:00 Dynamo Dresden
+  II - FSV Budissa Bautzen\n14:00 SC Freital - VFC Plauen\n14:00 FC Eilenbu
+ rg - VfL Halle 96\n14:00 FC Einheit Rudolstadt - Germania Halberstadt\n14:
+ 00 VfB Auerbach - ZFC Meuselwitz\n14:00 Einheit Wernigerode - Union Sander
+ sdorf\n14:00 VfB Empor Glauchau - SSC Weißenfels
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-dia-20270522-j30@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:OBERLIGA SÜD | J30
+DESCRIPTION:14:00 SSC Weißenfels - VfB 1921 Krieschow\n14:00 Union Sanders
+ dorf - VfB Empor Glauchau\n14:00 ZFC Meuselwitz - Einheit Wernigerode\n14:
+ 00 Germania Halberstadt - VfB Auerbach\n14:00 VfL Halle 96 - FC Einheit Ru
+ dolstadt\n14:00 VFC Plauen - FC Eilenburg\n14:00 FSV Budissa Bautzen - SC 
+ Freital\n14:00 1.FC Frankfurt - Dynamo Dresden II
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261121-vfl-halle-96-dynamo-dresden-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261121T123000Z
+DTEND:20261121T141500Z
+SUMMARY:VfL Halle 96 - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261121-germania-halberstadt-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261121T123000Z
+DTEND:20261121T141500Z
+SUMMARY:Germania Halberstadt - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261121-zfc-meuselwitz-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261121T123000Z
+DTEND:20261121T141500Z
+SUMMARY:ZFC Meuselwitz - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261121-ssc-wei-enfels-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261121T123000Z
+DTEND:20261121T141500Z
+SUMMARY:SSC Weißenfels - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261121-vfb-1921-krieschow-einheit-wernigerode@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20261121T123000Z
+DTEND:20261121T141500Z
+SUMMARY:VfB 1921 Krieschow - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261121-vfc-plauen-fsv-budissa-bautzen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261121T123000Z
+DTEND:20261121T141500Z
+SUMMARY:VFC Plauen - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261121-union-sandersdorf-fc-einheit-rudolstadt@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261121T130000Z
+DTEND:20261121T144500Z
+SUMMARY:Union Sandersdorf - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261122-vfb-empor-glauchau-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T123000Z
+DTEND:20261122T141500Z
+SUMMARY:VfB Empor Glauchau - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261128-fc-eilenburg-germania-halberstadt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261128T120000Z
+DTEND:20261128T134500Z
+SUMMARY:FC Eilenburg - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261128-1-fc-frankfurt-fsv-budissa-bautzen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261128T123000Z
+DTEND:20261128T141500Z
+SUMMARY:1.FC Frankfurt - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261128-einheit-wernigerode-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261128T123000Z
+DTEND:20261128T141500Z
+SUMMARY:Einheit Wernigerode - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261128-sc-freital-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261128T123000Z
+DTEND:20261128T141500Z
+SUMMARY:SC Freital - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261128-vfb-auerbach-union-sandersdorf@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261128T130000Z
+DTEND:20261128T144500Z
+SUMMARY:VfB Auerbach - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261129-vfb-empor-glauchau-vfb-1921-krieschow@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:VfB Empor Glauchau - VfB 1921 Krieschow
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261129-fc-einheit-rudolstadt-zfc-meuselwitz@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:FC Einheit Rudolstadt - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261129-dynamo-dresden-ii-vfc-plauen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:Dynamo Dresden II - VFC Plauen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261204-union-sandersdorf-einheit-wernigerode@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20261204T180000Z
+DTEND:20261204T194500Z
+SUMMARY:Union Sandersdorf - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261205-1-fc-frankfurt-vfb-1921-krieschow@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261205T120000Z
+DTEND:20261205T134500Z
+SUMMARY:1.FC Frankfurt - VfB 1921 Krieschow
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261205-vfc-plauen-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261205T120000Z
+DTEND:20261205T134500Z
+SUMMARY:VFC Plauen - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261205-germania-halberstadt-fc-einheit-rudolstadt@s
+ portcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261205T120000Z
+DTEND:20261205T134500Z
+SUMMARY:Germania Halberstadt - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261205-ssc-wei-enfels-vfb-empor-glauchau@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261205T120000Z
+DTEND:20261205T134500Z
+SUMMARY:SSC Weißenfels - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261206-fsv-budissa-bautzen-dynamo-dresden-ii@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T120000Z
+DTEND:20261206T134500Z
+SUMMARY:FSV Budissa Bautzen - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261206-vfl-halle-96-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T120000Z
+DTEND:20261206T134500Z
+SUMMARY:VfL Halle 96 - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261206-zfc-meuselwitz-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T120000Z
+DTEND:20261206T134500Z
+SUMMARY:ZFC Meuselwitz - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261211-fc-eilenburg-vfc-plauen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261211T180000Z
+DTEND:20261211T194500Z
+SUMMARY:FC Eilenburg - VFC Plauen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261212-vfb-1921-krieschow-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:VfB 1921 Krieschow - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261212-einheit-wernigerode-zfc-meuselwitz@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:Einheit Wernigerode - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261212-vfb-auerbach-germania-halberstadt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261212T120000Z
+DTEND:20261212T134500Z
+SUMMARY:VfB Auerbach - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261213-vfb-empor-glauchau-union-sandersdorf@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20261213T120000Z
+DTEND:20261213T134500Z
+SUMMARY:VfB Empor Glauchau - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261213-fc-einheit-rudolstadt-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261213T120000Z
+DTEND:20261213T134500Z
+SUMMARY:FC Einheit Rudolstadt - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261213-sc-freital-fsv-budissa-bautzen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261213T120000Z
+DTEND:20261213T134500Z
+SUMMARY:SC Freital - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261213-dynamo-dresden-ii-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261213T120000Z
+DTEND:20261213T134500Z
+SUMMARY:Dynamo Dresden II - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-ssc-wei-enfels-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:SSC Weißenfels - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-fc-eilenburg-fsv-budissa-bautzen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:FC Eilenburg - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-fc-einheit-rudolstadt-vfc-plauen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:FC Einheit Rudolstadt - VFC Plauen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-vfb-auerbach-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:VfB Auerbach - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-vfb-empor-glauchau-zfc-meuselwitz@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:VfB Empor Glauchau - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-sc-freital-dynamo-dresden-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:SC Freital - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-einheit-wernigerode-germania-halberstadt@spo
+ rtcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261219T120000Z
+DTEND:20261219T134500Z
+SUMMARY:Einheit Wernigerode - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20261219-vfb-1921-krieschow-union-sandersdorf@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20261219T130000Z
+DTEND:20261219T144500Z
+SUMMARY:VfB 1921 Krieschow - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-zfc-meuselwitz-vfb-1921-krieschow@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T123000Z
+DTEND:20270214T141500Z
+SUMMARY:ZFC Meuselwitz - VfB 1921 Krieschow
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-germania-halberstadt-vfb-empor-glauchau@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T123000Z
+DTEND:20270214T141500Z
+SUMMARY:Germania Halberstadt - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-vfl-halle-96-einheit-wernigerode@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T123000Z
+DTEND:20270214T141500Z
+SUMMARY:VfL Halle 96 - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-vfc-plauen-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T123000Z
+DTEND:20270214T141500Z
+SUMMARY:VFC Plauen - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-fsv-budissa-bautzen-fc-einheit-rudolstadt@sp
+ ortcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T123000Z
+DTEND:20270214T141500Z
+SUMMARY:FSV Budissa Bautzen - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-dynamo-dresden-ii-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T123000Z
+DTEND:20270214T141500Z
+SUMMARY:Dynamo Dresden II - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-1-fc-frankfurt-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T123000Z
+DTEND:20270214T141500Z
+SUMMARY:1.FC Frankfurt - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270214-union-sandersdorf-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T123000Z
+DTEND:20270214T141500Z
+SUMMARY:Union Sandersdorf - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270220-einheit-wernigerode-vfc-plauen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270220T123000Z
+DTEND:20270220T141500Z
+SUMMARY:Einheit Wernigerode - VFC Plauen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270221-union-sandersdorf-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T123000Z
+DTEND:20270221T141500Z
+SUMMARY:Union Sandersdorf - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270221-vfb-auerbach-fsv-budissa-bautzen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T123000Z
+DTEND:20270221T141500Z
+SUMMARY:VfB Auerbach - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270221-vfb-empor-glauchau-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T123000Z
+DTEND:20270221T141500Z
+SUMMARY:VfB Empor Glauchau - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270221-vfb-1921-krieschow-germania-halberstadt@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T123000Z
+DTEND:20270221T141500Z
+SUMMARY:VfB 1921 Krieschow - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270221-ssc-wei-enfels-zfc-meuselwitz@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T123000Z
+DTEND:20270221T141500Z
+SUMMARY:SSC Weißenfels - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270221-fc-eilenburg-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T123000Z
+DTEND:20270221T141500Z
+SUMMARY:FC Eilenburg - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270221-fc-einheit-rudolstadt-dynamo-dresden-ii@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T123000Z
+DTEND:20270221T141500Z
+SUMMARY:FC Einheit Rudolstadt - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-vfl-halle-96-vfb-1921-krieschow@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T123000Z
+DTEND:20270228T141500Z
+SUMMARY:VfL Halle 96 - VfB 1921 Krieschow
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-vfc-plauen-vfb-empor-glauchau@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T123000Z
+DTEND:20270228T141500Z
+SUMMARY:VFC Plauen - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-fsv-budissa-bautzen-einheit-wernigerode@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T123000Z
+DTEND:20270228T141500Z
+SUMMARY:FSV Budissa Bautzen - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-dynamo-dresden-ii-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T123000Z
+DTEND:20270228T141500Z
+SUMMARY:Dynamo Dresden II - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-sc-freital-fc-einheit-rudolstadt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T123000Z
+DTEND:20270228T141500Z
+SUMMARY:SC Freital - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-1-fc-frankfurt-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T123000Z
+DTEND:20270228T141500Z
+SUMMARY:1.FC Frankfurt - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-zfc-meuselwitz-union-sandersdorf@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T123000Z
+DTEND:20270228T141500Z
+SUMMARY:ZFC Meuselwitz - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270228-germania-halberstadt-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T123000Z
+DTEND:20270228T141500Z
+SUMMARY:Germania Halberstadt - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-zfc-meuselwitz-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:ZFC Meuselwitz - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-vfb-empor-glauchau-fsv-budissa-bautzen@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:VfB Empor Glauchau - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-vfb-1921-krieschow-vfc-plauen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:VfB 1921 Krieschow - VFC Plauen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-ssc-wei-enfels-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:SSC Weißenfels - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-union-sandersdorf-germania-halberstadt@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:Union Sandersdorf - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-fc-einheit-rudolstadt-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:FC Einheit Rudolstadt - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-vfb-auerbach-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:VfB Auerbach - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270307-einheit-wernigerode-dynamo-dresden-ii@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:Einheit Wernigerode - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-fsv-budissa-bautzen-vfb-1921-krieschow@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:FSV Budissa Bautzen - VfB 1921 Krieschow
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-dynamo-dresden-ii-vfb-empor-glauchau@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:Dynamo Dresden II - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-sc-freital-einheit-wernigerode@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:SC Freital - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-fc-eilenburg-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:FC Eilenburg - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-1-fc-frankfurt-fc-einheit-rudolstadt@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:1.FC Frankfurt - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-germania-halberstadt-zfc-meuselwitz@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:Germania Halberstadt - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-vfl-halle-96-union-sandersdorf@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:VfL Halle 96 - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270314-vfc-plauen-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T130000Z
+DTEND:20270314T144500Z
+SUMMARY:VFC Plauen - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-germania-halberstadt-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:Germania Halberstadt - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-ssc-wei-enfels-fsv-budissa-bautzen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:SSC Weißenfels - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-union-sandersdorf-vfc-plauen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:Union Sandersdorf - VFC Plauen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-zfc-meuselwitz-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:ZFC Meuselwitz - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-vfb-auerbach-fc-einheit-rudolstadt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:VfB Auerbach - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-einheit-wernigerode-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:Einheit Wernigerode - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-vfb-empor-glauchau-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:VfB Empor Glauchau - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270321-vfb-1921-krieschow-dynamo-dresden-ii@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:VfB 1921 Krieschow - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-sc-freital-vfb-1921-krieschow@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T120000Z
+DTEND:20270404T134500Z
+SUMMARY:SC Freital - VfB 1921 Krieschow
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-fc-eilenburg-vfb-empor-glauchau@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T120000Z
+DTEND:20270404T134500Z
+SUMMARY:FC Eilenburg - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-fc-einheit-rudolstadt-einheit-wernigerode@sp
+ ortcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T120000Z
+DTEND:20270404T134500Z
+SUMMARY:FC Einheit Rudolstadt - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-1-fc-frankfurt-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T120000Z
+DTEND:20270404T134500Z
+SUMMARY:1.FC Frankfurt - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-vfl-halle-96-germania-halberstadt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T120000Z
+DTEND:20270404T134500Z
+SUMMARY:VfL Halle 96 - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-vfc-plauen-zfc-meuselwitz@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T120000Z
+DTEND:20270404T134500Z
+SUMMARY:VFC Plauen - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-fsv-budissa-bautzen-union-sandersdorf@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T120000Z
+DTEND:20270404T134500Z
+SUMMARY:FSV Budissa Bautzen - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270404-dynamo-dresden-ii-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T120000Z
+DTEND:20270404T134500Z
+SUMMARY:Dynamo Dresden II - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-vfl-halle-96-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:VfL Halle 96 - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-zfc-meuselwitz-fsv-budissa-bautzen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:ZFC Meuselwitz - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-germania-halberstadt-vfc-plauen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:Germania Halberstadt - VFC Plauen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-einheit-wernigerode-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:Einheit Wernigerode - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-vfb-empor-glauchau-fc-einheit-rudolstadt@spo
+ rtcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:VfB Empor Glauchau - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-vfb-1921-krieschow-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:VfB 1921 Krieschow - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-ssc-wei-enfels-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:SSC Weißenfels - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270411-union-sandersdorf-dynamo-dresden-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:Union Sandersdorf - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-fc-einheit-rudolstadt-vfb-1921-krieschow@spo
+ rtcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:FC Einheit Rudolstadt - VfB 1921 Krieschow
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-vfb-auerbach-vfb-empor-glauchau@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:VfB Auerbach - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-1-fc-frankfurt-einheit-wernigerode@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:1.FC Frankfurt - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-vfc-plauen-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:VFC Plauen - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-fsv-budissa-bautzen-germania-halberstadt@spo
+ rtcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:FSV Budissa Bautzen - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-dynamo-dresden-ii-zfc-meuselwitz@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:Dynamo Dresden II - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-sc-freital-union-sandersdorf@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:SC Freital - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270418-fc-eilenburg-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:FC Eilenburg - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-vfc-plauen-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T120000Z
+DTEND:20270425T134500Z
+SUMMARY:VFC Plauen - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-vfl-halle-96-fsv-budissa-bautzen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T120000Z
+DTEND:20270425T134500Z
+SUMMARY:VfL Halle 96 - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-vfb-empor-glauchau-einheit-wernigerode@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T120000Z
+DTEND:20270425T134500Z
+SUMMARY:VfB Empor Glauchau - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-vfb-1921-krieschow-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T120000Z
+DTEND:20270425T134500Z
+SUMMARY:VfB 1921 Krieschow - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-ssc-wei-enfels-fc-einheit-rudolstadt@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T120000Z
+DTEND:20270425T134500Z
+SUMMARY:SSC Weißenfels - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-union-sandersdorf-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T120000Z
+DTEND:20270425T134500Z
+SUMMARY:Union Sandersdorf - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-zfc-meuselwitz-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T120000Z
+DTEND:20270425T134500Z
+SUMMARY:ZFC Meuselwitz - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270425-germania-halberstadt-dynamo-dresden-ii@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T120000Z
+DTEND:20270425T134500Z
+SUMMARY:Germania Halberstadt - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-einheit-wernigerode-vfb-1921-krieschow@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:Einheit Wernigerode - VfB 1921 Krieschow
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-1-fc-frankfurt-vfb-empor-glauchau@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:1.FC Frankfurt - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-fsv-budissa-bautzen-vfc-plauen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:FSV Budissa Bautzen - VFC Plauen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-dynamo-dresden-ii-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:Dynamo Dresden II - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-sc-freital-germania-halberstadt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:SC Freital - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-fc-eilenburg-zfc-meuselwitz@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:FC Eilenburg - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-fc-einheit-rudolstadt-union-sandersdorf@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:FC Einheit Rudolstadt - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270502-vfb-auerbach-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T120000Z
+DTEND:20270502T134500Z
+SUMMARY:VfB Auerbach - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-fsv-budissa-bautzen-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:FSV Budissa Bautzen - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-vfb-1921-krieschow-vfb-empor-glauchau@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:VfB 1921 Krieschow - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-ssc-wei-enfels-einheit-wernigerode@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:SSC Weißenfels - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-union-sandersdorf-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:Union Sandersdorf - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-zfc-meuselwitz-fc-einheit-rudolstadt@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:ZFC Meuselwitz - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-germania-halberstadt-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:Germania Halberstadt - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-vfl-halle-96-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:VfL Halle 96 - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270509-vfc-plauen-dynamo-dresden-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T120000Z
+DTEND:20270509T134500Z
+SUMMARY:VFC Plauen - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-vfb-1921-krieschow-1-fc-frankfurt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270516T120000Z
+DTEND:20270516T134500Z
+SUMMARY:VfB 1921 Krieschow - 1.FC Frankfurt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-dynamo-dresden-ii-fsv-budissa-bautzen@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270516T120000Z
+DTEND:20270516T134500Z
+SUMMARY:Dynamo Dresden II - FSV Budissa Bautzen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-sc-freital-vfc-plauen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270516T120000Z
+DTEND:20270516T134500Z
+SUMMARY:SC Freital - VFC Plauen
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-fc-eilenburg-vfl-halle-96@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270516T120000Z
+DTEND:20270516T134500Z
+SUMMARY:FC Eilenburg - VfL Halle 96
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-fc-einheit-rudolstadt-germania-halberstadt@s
+ portcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270516T120000Z
+DTEND:20270516T134500Z
+SUMMARY:FC Einheit Rudolstadt - Germania Halberstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-vfb-auerbach-zfc-meuselwitz@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270516T120000Z
+DTEND:20270516T134500Z
+SUMMARY:VfB Auerbach - ZFC Meuselwitz
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-einheit-wernigerode-union-sandersdorf@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270516T120000Z
+DTEND:20270516T134500Z
+SUMMARY:Einheit Wernigerode - Union Sandersdorf
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270516-vfb-empor-glauchau-ssc-wei-enfels@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270516T120000Z
+DTEND:20270516T134500Z
+SUMMARY:VfB Empor Glauchau - SSC Weißenfels
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-ssc-wei-enfels-vfb-1921-krieschow@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270522T120000Z
+DTEND:20270522T134500Z
+SUMMARY:SSC Weißenfels - VfB 1921 Krieschow
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-union-sandersdorf-vfb-empor-glauchau@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270522T120000Z
+DTEND:20270522T134500Z
+SUMMARY:Union Sandersdorf - VfB Empor Glauchau
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-zfc-meuselwitz-einheit-wernigerode@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270522T120000Z
+DTEND:20270522T134500Z
+SUMMARY:ZFC Meuselwitz - Einheit Wernigerode
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-germania-halberstadt-vfb-auerbach@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270522T120000Z
+DTEND:20270522T134500Z
+SUMMARY:Germania Halberstadt - VfB Auerbach
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-vfl-halle-96-fc-einheit-rudolstadt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270522T120000Z
+DTEND:20270522T134500Z
+SUMMARY:VfL Halle 96 - FC Einheit Rudolstadt
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-vfc-plauen-fc-eilenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270522T120000Z
+DTEND:20270522T134500Z
+SUMMARY:VFC Plauen - FC Eilenburg
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-fsv-budissa-bautzen-sc-freital@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270522T120000Z
+DTEND:20270522T134500Z
+SUMMARY:FSV Budissa Bautzen - SC Freital
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+BEGIN:VEVENT
+UID:oberliga-nofv-sud-20270522-1-fc-frankfurt-dynamo-dresden-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270522T120000Z
+DTEND:20270522T134500Z
+SUMMARY:1.FC Frankfurt - Dynamo Dresden II
+DESCRIPTION:NOFV-Oberliga Süd
+END:VEVENT
+END:VCALENDAR

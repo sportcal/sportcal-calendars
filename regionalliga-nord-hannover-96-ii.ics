@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hannover 96 II · Regionalliga Nord
+X-WR-CALDESC:Daten von OpenLigaDB (www.openligadb.de)\, lizenziert unter OD
+ bL 1.0
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-hannover-96-ii-spvgg-drochtersen-assel-dia@s
+ portcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J19 | 🏟️ | SpVgg Drochter
+ sen/Assel 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-hannover-96-ii-spvgg-drochtersen-assel@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:Hannover 96 II - SpVgg Drochtersen/Assel
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-fc-st-pauli-ii-hannover-96-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J20 | ✈️ | FC St. Pauli II
+  🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-fc-st-pauli-ii-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:FC St. Pauli II - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-hannover-96-ii-bremer-sv-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J21 | 🏟️ | Bremer SV 🇩
+ 🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-hannover-96-ii-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:Hannover 96 II - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-1-fc-phonix-lubeck-hannover-96-ii-dia@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J22 | ✈️ | 1.FC Phönix L
+ übeck 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-1-fc-phonix-lubeck-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:1.FC Phönix Lübeck - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-eintracht-norderstedt-hannover-96-ii-dia@spo
+ rtcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J23 | ✈️ | Eintracht Norde
+ rstedt 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-eintracht-norderstedt-hannover-96-ii@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:Eintracht Norderstedt - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-hannover-96-ii-eimsbutteler-tv-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J24 | 🏟️ | Eimsbütteler 
+ TV 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-hannover-96-ii-eimsbutteler-tv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:Hannover 96 II - Eimsbütteler TV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-hsc-hannover-hannover-96-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J25 | ✈️ | HSC Hannover 
+ 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-hsc-hannover-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:HSC Hannover - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-hannover-96-ii-kickers-emden-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J26 | 🏟️ | Kickers Emden 
+ 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-hannover-96-ii-kickers-emden@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Hannover 96 II - Kickers Emden
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-vfb-lubeck-hannover-96-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J27 | ✈️ | VfB Lübeck 
+ 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-vfb-lubeck-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VfB Lübeck - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-hannover-96-ii-vfb-oldenburg-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J28 | 🏟️ | VfB Oldenburg 
+ 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-hannover-96-ii-vfb-oldenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Hannover 96 II - VfB Oldenburg
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-atlas-delmenhorst-hannover-96-ii-dia@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J29 | ✈️ | Atlas Delmenhor
+ st 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-atlas-delmenhorst-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Atlas Delmenhorst - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-hannover-96-ii-ssv-jeddeloh-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J30 | 🏟️ | SSV Jeddeloh I
+ I 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-hannover-96-ii-ssv-jeddeloh-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Hannover 96 II - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-sc-weiche-flensburg-08-hannover-96-ii-dia@sp
+ ortcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J31 | ✈️ | SC Weiche Flens
+ burg 08 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-sc-weiche-flensburg-08-hannover-96-ii@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SC Weiche Flensburg 08 - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-hannover-96-ii-hamburger-sv-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J32 | 🏟️ | Hamburger SV I
+ I 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-hannover-96-ii-hamburger-sv-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:Hannover 96 II - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-fsv-schoningen-hannover-96-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J33 | ✈️ | FSV Schöningen
+  🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-fsv-schoningen-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:FSV Schöningen - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-hannover-96-ii-werder-bremen-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:HANNOVER 96 II | Regionalliga Nord | J34 | 🏟️ | Werder Bremen 
+ II 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-hannover-96-ii-werder-bremen-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:Hannover 96 II - Werder Bremen II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+END:VCALENDAR

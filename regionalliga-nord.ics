@@ -1,0 +1,1405 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Regionalliga Nord
+X-WR-CALDESC:Daten von OpenLigaDB (www.openligadb.de)\, lizenziert unter OD
+ bL 1.0
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20261122-j19@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:REGIONALLIGA NORD | J19
+DESCRIPTION:14:00 Kickers Emden - Bremer SV\n14:00 Hannover 96 II - SpVgg D
+ rochtersen/Assel\n14:00 Werder Bremen II - Hamburger SV II\n14:00 Eintrach
+ t Norderstedt - FSV Schöningen\n14:00 Eimsbütteler TV - VfB Oldenburg\n1
+ 4:00 SV Todesfelde - Atlas Delmenhorst\n14:00 HSC Hannover - VfB Lübeck\n
+ 14:00 SSV Jeddeloh II - SC Weiche Flensburg 08\n14:00 1.FC Phönix Lübeck
+  - FC St. Pauli II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20261129-j20@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:REGIONALLIGA NORD | J20
+DESCRIPTION:14:00 Atlas Delmenhorst - SSV Jeddeloh II\n14:00 FSV Schöninge
+ n - Werder Bremen II\n14:00 1.FC Phönix Lübeck - Kickers Emden\n14:00 Br
+ emer SV - VfB Lübeck\n14:00 Eimsbütteler TV - Eintracht Norderstedt\n14:
+ 00 SC Weiche Flensburg 08 - HSC Hannover\n14:00 SpVgg Drochtersen/Assel - 
+ Hamburger SV II\n14:00 VfB Oldenburg - SV Todesfelde\n14:00 FC St. Pauli I
+ I - Hannover 96 II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20261206-j21@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:REGIONALLIGA NORD | J21
+DESCRIPTION:14:00 Hamburger SV II - SC Weiche Flensburg 08\n14:00 VfB Lübe
+ ck - 1.FC Phönix Lübeck\n14:00 SSV Jeddeloh II - Eimsbütteler TV\n14:00
+  HSC Hannover - VfB Oldenburg\n14:00 Werder Bremen II - SpVgg Drochtersen/
+ Assel\n14:00 SV Todesfelde - FSV Schöningen\n14:00 Kickers Emden - Atlas 
+ Delmenhorst\n14:00 Hannover 96 II - Bremer SV\n14:00 Eintracht Norderstedt
+  - FC St. Pauli II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270214-j22@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:REGIONALLIGA NORD | J22
+DESCRIPTION:14:00 Bremer SV - SSV Jeddeloh II\n14:00 1.FC Phönix Lübeck -
+  Hannover 96 II\n14:00 Atlas Delmenhorst - Eintracht Norderstedt\n14:00 FS
+ V Schöningen - Kickers Emden\n14:00 VfB Oldenburg - Werder Bremen II\n14:
+ 00 Eimsbütteler TV - VfB Lübeck\n14:00 Hamburger SV II - HSC Hannover\n1
+ 4:00 SC Weiche Flensburg 08 - SV Todesfelde\n14:00 FC St. Pauli II - SpVgg
+  Drochtersen/Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270221-j23@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:REGIONALLIGA NORD | J23
+DESCRIPTION:14:00 FSV Schöningen - Bremer SV\n14:00 VfB Oldenburg - Hambur
+ ger SV II\n14:00 Kickers Emden - SC Weiche Flensburg 08\n14:00 VfB Lübeck
+  - SSV Jeddeloh II\n14:00 Werder Bremen II - Eimsbütteler TV\n14:00 Eintr
+ acht Norderstedt - Hannover 96 II\n14:00 SV Todesfelde - 1.FC Phönix Lüb
+ eck\n14:00 SpVgg Drochtersen/Assel - Atlas Delmenhorst\n14:00 HSC Hannover
+  - FC St. Pauli II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270228-j24@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:REGIONALLIGA NORD | J24
+DESCRIPTION:14:00 1.FC Phönix Lübeck - SpVgg Drochtersen/Assel\n14:00 Han
+ nover 96 II - Eimsbütteler TV\n14:00 Atlas Delmenhorst - Werder Bremen II
+ \n14:00 Bremer SV - Eintracht Norderstedt\n14:00 SV Todesfelde - HSC Hanno
+ ver\n14:00 SC Weiche Flensburg 08 - FSV Schöningen\n14:00 Hamburger SV II
+  - VfB Lübeck\n14:00 SSV Jeddeloh II - Kickers Emden\n14:00 FC St. Pauli 
+ II - VfB Oldenburg
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270307-j25@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:REGIONALLIGA NORD | J25
+DESCRIPTION:15:00 Eimsbütteler TV - SC Weiche Flensburg 08\n15:00 FSV Sch
+ öningen - SSV Jeddeloh II\n15:00 SpVgg Drochtersen/Assel - Bremer SV\n15:
+ 00 HSC Hannover - Hannover 96 II\n15:00 VfB Lübeck - Atlas Delmenhorst\n1
+ 5:00 VfB Oldenburg - 1.FC Phönix Lübeck\n15:00 Eintracht Norderstedt - H
+ amburger SV II\n15:00 Werder Bremen II - SV Todesfelde\n15:00 Kickers Emde
+ n - FC St. Pauli II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270314-j26@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:REGIONALLIGA NORD | J26
+DESCRIPTION:15:00 SV Todesfelde - Eimsbütteler TV\n15:00 SC Weiche Flensbu
+ rg 08 - VfB Lübeck\n15:00 1.FC Phönix Lübeck - HSC Hannover\n15:00 SpVg
+ g Drochtersen/Assel - Eintracht Norderstedt\n15:00 Hannover 96 II - Kicker
+ s Emden\n15:00 Atlas Delmenhorst - Hamburger SV II\n15:00 Bremer SV - Werd
+ er Bremen II\n15:00 SSV Jeddeloh II - VfB Oldenburg\n15:00 FC St. Pauli II
+  - FSV Schöningen
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270321-j27@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:REGIONALLIGA NORD | J27
+DESCRIPTION:15:00 Kickers Emden - SpVgg Drochtersen/Assel\n15:00 VfB Oldenb
+ urg - SC Weiche Flensburg 08\n15:00 Atlas Delmenhorst - 1.FC Phönix Lübe
+ ck\n15:00 Hamburger SV II - FSV Schöningen\n15:00 VfB Lübeck - Hannover 
+ 96 II\n15:00 Werder Bremen II - SSV Jeddeloh II\n15:00 Eintracht Norderste
+ dt - SV Todesfelde\n15:00 HSC Hannover - Bremer SV\n15:00 Eimsbütteler TV
+  - FC St. Pauli II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270404-j28@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:REGIONALLIGA NORD | J28
+DESCRIPTION:15:00 FSV Schöningen - Eimsbütteler TV\n15:00 SpVgg Drochters
+ en/Assel - VfB Lübeck\n15:00 Bremer SV - Atlas Delmenhorst\n15:00 SV Tode
+ sfelde - Hamburger SV II\n15:00 Hannover 96 II - VfB Oldenburg\n15:00 1.FC
+  Phönix Lübeck - SC Weiche Flensburg 08\n15:00 Kickers Emden - HSC Hanno
+ ver\n15:00 Werder Bremen II - Eintracht Norderstedt\n15:00 FC St. Pauli II
+  - SSV Jeddeloh II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270411-j29@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:REGIONALLIGA NORD | J29
+DESCRIPTION:15:00 Hamburger SV II - Bremer SV\n15:00 Eintracht Norderstedt 
+ - 1.FC Phönix Lübeck\n15:00 SSV Jeddeloh II - SpVgg Drochtersen/Assel\n1
+ 5:00 HSC Hannover - Werder Bremen II\n15:00 VfB Oldenburg - FSV Schöninge
+ n\n15:00 Atlas Delmenhorst - Hannover 96 II\n15:00 Eimsbütteler TV - Kick
+ ers Emden\n15:00 VfB Lübeck - SV Todesfelde\n15:00 SC Weiche Flensburg 08
+  - FC St. Pauli II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270418-j30@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:REGIONALLIGA NORD | J30
+DESCRIPTION:15:00 Kickers Emden - VfB Oldenburg\n15:00 1.FC Phönix Lübeck
+  - Eimsbütteler TV\n15:00 Bremer SV - SV Todesfelde\n15:00 HSC Hannover -
+  Eintracht Norderstedt\n15:00 FSV Schöningen - Atlas Delmenhorst\n15:00 S
+ pVgg Drochtersen/Assel - SC Weiche Flensburg 08\n15:00 Hannover 96 II - SS
+ V Jeddeloh II\n15:00 Werder Bremen II - VfB Lübeck\n15:00 FC St. Pauli II
+  - Hamburger SV II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270425-j31@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:REGIONALLIGA NORD | J31
+DESCRIPTION:15:00 Eimsbütteler TV - SpVgg Drochtersen/Assel\n15:00 Atlas D
+ elmenhorst - HSC Hannover\n15:00 SV Todesfelde - Kickers Emden\n15:00 SC W
+ eiche Flensburg 08 - Hannover 96 II\n15:00 VfB Lübeck - FSV Schöningen\n
+ 15:00 Eintracht Norderstedt - SSV Jeddeloh II\n15:00 Hamburger SV II - 1.F
+ C Phönix Lübeck\n15:00 VfB Oldenburg - Bremer SV\n15:00 Werder Bremen II
+  - FC St. Pauli II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270502-j32@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:REGIONALLIGA NORD | J32
+DESCRIPTION:15:00 Eimsbütteler TV - Atlas Delmenhorst\n15:00 Hannover 96 I
+ I - Hamburger SV II\n15:00 1.FC Phönix Lübeck - Bremer SV\n15:00 SC Weic
+ he Flensburg 08 - Eintracht Norderstedt\n15:00 SSV Jeddeloh II - HSC Hanno
+ ver\n15:00 VfB Oldenburg - VfB Lübeck\n15:00 Kickers Emden - Werder Breme
+ n II\n15:00 SpVgg Drochtersen/Assel - FSV Schöningen\n15:00 FC St. Pauli 
+ II - SV Todesfelde
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270509-j33@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:REGIONALLIGA NORD | J33
+DESCRIPTION:15:00 Atlas Delmenhorst - SC Weiche Flensburg 08\n15:00 FSV Sch
+ öningen - Hannover 96 II\n15:00 Werder Bremen II - 1.FC Phönix Lübeck\n
+ 15:00 Eintracht Norderstedt - VfB Oldenburg\n15:00 Hamburger SV II - SSV J
+ eddeloh II\n15:00 SV Todesfelde - SpVgg Drochtersen/Assel\n15:00 HSC Hanno
+ ver - Eimsbütteler TV\n15:00 VfB Lübeck - Kickers Emden\n15:00 Bremer SV
+  - FC St. Pauli II
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-dia-20270523-j34@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:REGIONALLIGA NORD | J34
+DESCRIPTION:15:00 1.FC Phönix Lübeck - FSV Schöningen\n15:00 Eimsbüttel
+ er TV - Hamburger SV II\n15:00 Kickers Emden - Eintracht Norderstedt\n15:0
+ 0 SC Weiche Flensburg 08 - Bremer SV\n15:00 SSV Jeddeloh II - SV Todesfeld
+ e\n15:00 SpVgg Drochtersen/Assel - HSC Hannover\n15:00 Hannover 96 II - We
+ rder Bremen II\n15:00 VfB Oldenburg - Atlas Delmenhorst\n15:00 FC St. Paul
+ i II - VfB Lübeck
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-kickers-emden-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:Kickers Emden - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-hannover-96-ii-spvgg-drochtersen-assel@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:Hannover 96 II - SpVgg Drochtersen/Assel
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-werder-bremen-ii-hamburger-sv-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:Werder Bremen II - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-eintracht-norderstedt-fsv-schoningen@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:Eintracht Norderstedt - FSV Schöningen
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-eimsbutteler-tv-vfb-oldenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:Eimsbütteler TV - VfB Oldenburg
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-sv-todesfelde-atlas-delmenhorst@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:SV Todesfelde - Atlas Delmenhorst
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-hsc-hannover-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:HSC Hannover - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-ssv-jeddeloh-ii-sc-weiche-flensburg-08@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:SSV Jeddeloh II - SC Weiche Flensburg 08
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-1-fc-phonix-lubeck-fc-st-pauli-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:1.FC Phönix Lübeck - FC St. Pauli II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-atlas-delmenhorst-ssv-jeddeloh-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:Atlas Delmenhorst - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-fsv-schoningen-werder-bremen-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:FSV Schöningen - Werder Bremen II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-1-fc-phonix-lubeck-kickers-emden@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:1.FC Phönix Lübeck - Kickers Emden
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-bremer-sv-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:Bremer SV - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-eimsbutteler-tv-eintracht-norderstedt@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:Eimsbütteler TV - Eintracht Norderstedt
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-sc-weiche-flensburg-08-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:SC Weiche Flensburg 08 - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-spvgg-drochtersen-assel-hamburger-sv-ii@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:SpVgg Drochtersen/Assel - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-vfb-oldenburg-sv-todesfelde@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:VfB Oldenburg - SV Todesfelde
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-fc-st-pauli-ii-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:FC St. Pauli II - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-hamburger-sv-ii-sc-weiche-flensburg-08@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:Hamburger SV II - SC Weiche Flensburg 08
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-vfb-lubeck-1-fc-phonix-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:VfB Lübeck - 1.FC Phönix Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-ssv-jeddeloh-ii-eimsbutteler-tv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:SSV Jeddeloh II - Eimsbütteler TV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-hsc-hannover-vfb-oldenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:HSC Hannover - VfB Oldenburg
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-werder-bremen-ii-spvgg-drochtersen-assel@spo
+ rtcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:Werder Bremen II - SpVgg Drochtersen/Assel
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-sv-todesfelde-fsv-schoningen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:SV Todesfelde - FSV Schöningen
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-kickers-emden-atlas-delmenhorst@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:Kickers Emden - Atlas Delmenhorst
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-hannover-96-ii-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:Hannover 96 II - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-eintracht-norderstedt-fc-st-pauli-ii@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:Eintracht Norderstedt - FC St. Pauli II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-bremer-sv-ssv-jeddeloh-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:Bremer SV - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-1-fc-phonix-lubeck-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:1.FC Phönix Lübeck - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-atlas-delmenhorst-eintracht-norderstedt@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:Atlas Delmenhorst - Eintracht Norderstedt
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-fsv-schoningen-kickers-emden@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:FSV Schöningen - Kickers Emden
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-vfb-oldenburg-werder-bremen-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:VfB Oldenburg - Werder Bremen II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-eimsbutteler-tv-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:Eimsbütteler TV - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-hamburger-sv-ii-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:Hamburger SV II - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-sc-weiche-flensburg-08-sv-todesfelde@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:SC Weiche Flensburg 08 - SV Todesfelde
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-fc-st-pauli-ii-spvgg-drochtersen-assel@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:FC St. Pauli II - SpVgg Drochtersen/Assel
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-fsv-schoningen-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:FSV Schöningen - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-vfb-oldenburg-hamburger-sv-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:VfB Oldenburg - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-kickers-emden-sc-weiche-flensburg-08@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:Kickers Emden - SC Weiche Flensburg 08
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-vfb-lubeck-ssv-jeddeloh-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:VfB Lübeck - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-werder-bremen-ii-eimsbutteler-tv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:Werder Bremen II - Eimsbütteler TV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-eintracht-norderstedt-hannover-96-ii@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:Eintracht Norderstedt - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-sv-todesfelde-1-fc-phonix-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:SV Todesfelde - 1.FC Phönix Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-spvgg-drochtersen-assel-atlas-delmenhorst@sp
+ ortcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:SpVgg Drochtersen/Assel - Atlas Delmenhorst
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-hsc-hannover-fc-st-pauli-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:HSC Hannover - FC St. Pauli II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-1-fc-phonix-lubeck-spvgg-drochtersen-assel@s
+ portcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:1.FC Phönix Lübeck - SpVgg Drochtersen/Assel
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-hannover-96-ii-eimsbutteler-tv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:Hannover 96 II - Eimsbütteler TV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-atlas-delmenhorst-werder-bremen-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:Atlas Delmenhorst - Werder Bremen II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-bremer-sv-eintracht-norderstedt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:Bremer SV - Eintracht Norderstedt
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-sv-todesfelde-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:SV Todesfelde - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-sc-weiche-flensburg-08-fsv-schoningen@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:SC Weiche Flensburg 08 - FSV Schöningen
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-hamburger-sv-ii-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:Hamburger SV II - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-ssv-jeddeloh-ii-kickers-emden@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:SSV Jeddeloh II - Kickers Emden
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-fc-st-pauli-ii-vfb-oldenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:FC St. Pauli II - VfB Oldenburg
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-eimsbutteler-tv-sc-weiche-flensburg-08@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Eimsbütteler TV - SC Weiche Flensburg 08
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-fsv-schoningen-ssv-jeddeloh-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FSV Schöningen - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-spvgg-drochtersen-assel-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SpVgg Drochtersen/Assel - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-hsc-hannover-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:HSC Hannover - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-vfb-lubeck-atlas-delmenhorst@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VfB Lübeck - Atlas Delmenhorst
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-vfb-oldenburg-1-fc-phonix-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VfB Oldenburg - 1.FC Phönix Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-eintracht-norderstedt-hamburger-sv-ii@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Eintracht Norderstedt - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-werder-bremen-ii-sv-todesfelde@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Werder Bremen II - SV Todesfelde
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-kickers-emden-fc-st-pauli-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Kickers Emden - FC St. Pauli II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-sv-todesfelde-eimsbutteler-tv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SV Todesfelde - Eimsbütteler TV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-sc-weiche-flensburg-08-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SC Weiche Flensburg 08 - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-1-fc-phonix-lubeck-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:1.FC Phönix Lübeck - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-spvgg-drochtersen-assel-eintracht-nordersted
+ t@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SpVgg Drochtersen/Assel - Eintracht Norderstedt
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-hannover-96-ii-kickers-emden@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Hannover 96 II - Kickers Emden
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-atlas-delmenhorst-hamburger-sv-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Atlas Delmenhorst - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-bremer-sv-werder-bremen-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Bremer SV - Werder Bremen II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-ssv-jeddeloh-ii-vfb-oldenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SSV Jeddeloh II - VfB Oldenburg
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-fc-st-pauli-ii-fsv-schoningen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC St. Pauli II - FSV Schöningen
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-kickers-emden-spvgg-drochtersen-assel@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Kickers Emden - SpVgg Drochtersen/Assel
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-vfb-oldenburg-sc-weiche-flensburg-08@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VfB Oldenburg - SC Weiche Flensburg 08
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-atlas-delmenhorst-1-fc-phonix-lubeck@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Atlas Delmenhorst - 1.FC Phönix Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-hamburger-sv-ii-fsv-schoningen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Hamburger SV II - FSV Schöningen
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-vfb-lubeck-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VfB Lübeck - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-werder-bremen-ii-ssv-jeddeloh-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Werder Bremen II - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-eintracht-norderstedt-sv-todesfelde@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Eintracht Norderstedt - SV Todesfelde
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-hsc-hannover-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:HSC Hannover - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-eimsbutteler-tv-fc-st-pauli-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Eimsbütteler TV - FC St. Pauli II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-fsv-schoningen-eimsbutteler-tv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FSV Schöningen - Eimsbütteler TV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-spvgg-drochtersen-assel-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:SpVgg Drochtersen/Assel - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-bremer-sv-atlas-delmenhorst@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Bremer SV - Atlas Delmenhorst
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-sv-todesfelde-hamburger-sv-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:SV Todesfelde - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-hannover-96-ii-vfb-oldenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Hannover 96 II - VfB Oldenburg
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-1-fc-phonix-lubeck-sc-weiche-flensburg-08@sp
+ ortcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:1.FC Phönix Lübeck - SC Weiche Flensburg 08
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-kickers-emden-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Kickers Emden - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-werder-bremen-ii-eintracht-norderstedt@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Werder Bremen II - Eintracht Norderstedt
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-fc-st-pauli-ii-ssv-jeddeloh-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC St. Pauli II - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-hamburger-sv-ii-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Hamburger SV II - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-eintracht-norderstedt-1-fc-phonix-lubeck@spo
+ rtcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Eintracht Norderstedt - 1.FC Phönix Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-ssv-jeddeloh-ii-spvgg-drochtersen-assel@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SSV Jeddeloh II - SpVgg Drochtersen/Assel
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-hsc-hannover-werder-bremen-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:HSC Hannover - Werder Bremen II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-vfb-oldenburg-fsv-schoningen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VfB Oldenburg - FSV Schöningen
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-atlas-delmenhorst-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Atlas Delmenhorst - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-eimsbutteler-tv-kickers-emden@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Eimsbütteler TV - Kickers Emden
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-vfb-lubeck-sv-todesfelde@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VfB Lübeck - SV Todesfelde
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-sc-weiche-flensburg-08-fc-st-pauli-ii@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SC Weiche Flensburg 08 - FC St. Pauli II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-kickers-emden-vfb-oldenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Kickers Emden - VfB Oldenburg
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-1-fc-phonix-lubeck-eimsbutteler-tv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:1.FC Phönix Lübeck - Eimsbütteler TV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-bremer-sv-sv-todesfelde@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Bremer SV - SV Todesfelde
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-hsc-hannover-eintracht-norderstedt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:HSC Hannover - Eintracht Norderstedt
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-fsv-schoningen-atlas-delmenhorst@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FSV Schöningen - Atlas Delmenhorst
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-spvgg-drochtersen-assel-sc-weiche-flensburg-
+ 08@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SpVgg Drochtersen/Assel - SC Weiche Flensburg 08
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-hannover-96-ii-ssv-jeddeloh-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Hannover 96 II - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-werder-bremen-ii-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Werder Bremen II - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-fc-st-pauli-ii-hamburger-sv-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC St. Pauli II - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-eimsbutteler-tv-spvgg-drochtersen-assel@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Eimsbütteler TV - SpVgg Drochtersen/Assel
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-atlas-delmenhorst-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Atlas Delmenhorst - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-sv-todesfelde-kickers-emden@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SV Todesfelde - Kickers Emden
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-sc-weiche-flensburg-08-hannover-96-ii@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SC Weiche Flensburg 08 - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-vfb-lubeck-fsv-schoningen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VfB Lübeck - FSV Schöningen
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-eintracht-norderstedt-ssv-jeddeloh-ii@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Eintracht Norderstedt - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-hamburger-sv-ii-1-fc-phonix-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Hamburger SV II - 1.FC Phönix Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-vfb-oldenburg-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VfB Oldenburg - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-werder-bremen-ii-fc-st-pauli-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Werder Bremen II - FC St. Pauli II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-eimsbutteler-tv-atlas-delmenhorst@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:Eimsbütteler TV - Atlas Delmenhorst
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-hannover-96-ii-hamburger-sv-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:Hannover 96 II - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-1-fc-phonix-lubeck-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:1.FC Phönix Lübeck - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-sc-weiche-flensburg-08-eintracht-norderstedt
+ @sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:SC Weiche Flensburg 08 - Eintracht Norderstedt
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-ssv-jeddeloh-ii-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:SSV Jeddeloh II - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-vfb-oldenburg-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:VfB Oldenburg - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-kickers-emden-werder-bremen-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:Kickers Emden - Werder Bremen II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-spvgg-drochtersen-assel-fsv-schoningen@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:SpVgg Drochtersen/Assel - FSV Schöningen
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-fc-st-pauli-ii-sv-todesfelde@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:FC St. Pauli II - SV Todesfelde
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-atlas-delmenhorst-sc-weiche-flensburg-08@spo
+ rtcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:Atlas Delmenhorst - SC Weiche Flensburg 08
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-fsv-schoningen-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:FSV Schöningen - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-werder-bremen-ii-1-fc-phonix-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:Werder Bremen II - 1.FC Phönix Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-eintracht-norderstedt-vfb-oldenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:Eintracht Norderstedt - VfB Oldenburg
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-hamburger-sv-ii-ssv-jeddeloh-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:Hamburger SV II - SSV Jeddeloh II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-sv-todesfelde-spvgg-drochtersen-assel@sportc
+ al
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:SV Todesfelde - SpVgg Drochtersen/Assel
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-hsc-hannover-eimsbutteler-tv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:HSC Hannover - Eimsbütteler TV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-vfb-lubeck-kickers-emden@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:VfB Lübeck - Kickers Emden
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-bremer-sv-fc-st-pauli-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:Bremer SV - FC St. Pauli II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-1-fc-phonix-lubeck-fsv-schoningen@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:1.FC Phönix Lübeck - FSV Schöningen
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-eimsbutteler-tv-hamburger-sv-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:Eimsbütteler TV - Hamburger SV II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-kickers-emden-eintracht-norderstedt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:Kickers Emden - Eintracht Norderstedt
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-sc-weiche-flensburg-08-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:SC Weiche Flensburg 08 - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-ssv-jeddeloh-ii-sv-todesfelde@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:SSV Jeddeloh II - SV Todesfelde
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-spvgg-drochtersen-assel-hsc-hannover@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:SpVgg Drochtersen/Assel - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-hannover-96-ii-werder-bremen-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:Hannover 96 II - Werder Bremen II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-vfb-oldenburg-atlas-delmenhorst@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:VfB Oldenburg - Atlas Delmenhorst
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-fc-st-pauli-ii-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:FC St. Pauli II - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+END:VCALENDAR

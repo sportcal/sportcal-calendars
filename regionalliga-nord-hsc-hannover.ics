@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HSC Hannover · Regionalliga Nord
+X-WR-CALDESC:Daten von OpenLigaDB (www.openligadb.de)\, lizenziert unter OD
+ bL 1.0
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-hsc-hannover-vfb-lubeck-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J19 | 🏟️ | VfB Lübeck 🇩
+ 🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261122-hsc-hannover-vfb-lubeck@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:HSC Hannover - VfB Lübeck
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-sc-weiche-flensburg-08-hsc-hannover-dia@spor
+ tcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J20 | ✈️ | SC Weiche Flensbu
+ rg 08 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261129-sc-weiche-flensburg-08-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:SC Weiche Flensburg 08 - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-hsc-hannover-vfb-oldenburg-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J21 | 🏟️ | VfB Oldenburg 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20261206-hsc-hannover-vfb-oldenburg@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:HSC Hannover - VfB Oldenburg
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-hamburger-sv-ii-hsc-hannover-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J22 | ✈️ | Hamburger SV II 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270214-hamburger-sv-ii-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:Hamburger SV II - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-hsc-hannover-fc-st-pauli-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J23 | 🏟️ | FC St. Pauli II 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270221-hsc-hannover-fc-st-pauli-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:HSC Hannover - FC St. Pauli II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-sv-todesfelde-hsc-hannover-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J24 | ✈️ | SV Todesfelde 
+ 🇩🇪
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270228-sv-todesfelde-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:SV Todesfelde - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-hsc-hannover-hannover-96-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J25 | 🏟️ | Hannover 96 II 
+ 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270307-hsc-hannover-hannover-96-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:HSC Hannover - Hannover 96 II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-1-fc-phonix-lubeck-hsc-hannover-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J26 | ✈️ | 1.FC Phönix Lüb
+ eck 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270314-1-fc-phonix-lubeck-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:1.FC Phönix Lübeck - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-hsc-hannover-bremer-sv-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J27 | 🏟️ | Bremer SV 🇩
+ 🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270321-hsc-hannover-bremer-sv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:HSC Hannover - Bremer SV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-kickers-emden-hsc-hannover-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J28 | ✈️ | Kickers Emden 
+ 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270404-kickers-emden-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Kickers Emden - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-hsc-hannover-werder-bremen-ii-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J29 | 🏟️ | Werder Bremen II
+  🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270411-hsc-hannover-werder-bremen-ii@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:HSC Hannover - Werder Bremen II
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-hsc-hannover-eintracht-norderstedt-dia@sport
+ cal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J30 | 🏟️ | Eintracht Norder
+ stedt 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270418-hsc-hannover-eintracht-norderstedt@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:HSC Hannover - Eintracht Norderstedt
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-atlas-delmenhorst-hsc-hannover-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J31 | ✈️ | Atlas Delmenhorst
+  🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270425-atlas-delmenhorst-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Atlas Delmenhorst - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-ssv-jeddeloh-ii-hsc-hannover-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J32 | ✈️ | SSV Jeddeloh II 
+ 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270502-ssv-jeddeloh-ii-hsc-hannover@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270502T130000Z
+DTEND:20270502T144500Z
+SUMMARY:SSV Jeddeloh II - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-hsc-hannover-eimsbutteler-tv-dia@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J33 | 🏟️ | Eimsbütteler TV
+  🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270509-hsc-hannover-eimsbutteler-tv@sportcal
+DTSTAMP:20261120T140417Z
+DTSTART:20270509T130000Z
+DTEND:20270509T144500Z
+SUMMARY:HSC Hannover - Eimsbütteler TV
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-spvgg-drochtersen-assel-hsc-hannover-dia@spo
+ rtcal
+DTSTAMP:20261120T140417Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:HSC HANNOVER | Regionalliga Nord | J34 | ✈️ | SpVgg Drochtersen
+ /Assel 🇩🇪
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Regionalliga Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:regionalliga-nord-20270523-spvgg-drochtersen-assel-hsc-hannover@sportca
+ l
+DTSTAMP:20261120T140417Z
+DTSTART:20270523T130000Z
+DTEND:20270523T144500Z
+SUMMARY:SpVgg Drochtersen/Assel - HSC Hannover
+DESCRIPTION:Regionalliga Nord
+END:VEVENT
+END:VCALENDAR
