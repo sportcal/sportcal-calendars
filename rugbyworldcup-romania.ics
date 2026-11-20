@@ -4,58 +4,129 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Romania · RWC
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:rugbyworldcup-20230909-ireland-romania-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230910
+SUMMARY:ROMANIA | RWC | Pool B | ✈️ | Ireland
+DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Rugby World Cup\nEstadi: Nouvea
+ u Stade de Bordeaux\, Bordeaux
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230909-ireland-romania@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230909T133000Z
+DTEND:20230909T151500Z
+SUMMARY:Ireland - Romania
+DESCRIPTION:Rugby World Cup
+LOCATION:Nouveau Stade de Bordeaux\, Bordeaux
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230917-south-africa-romania-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230917
+DTEND;VALUE=DATE:20230918
+SUMMARY:ROMANIA | RWC | Pool B | ✈️ | South Africa
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Nouvea
+ u Stade de Bordeaux\, Bordeaux
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230917-south-africa-romania@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230917T130000Z
+DTEND:20230917T144500Z
+SUMMARY:South Africa - Romania
+DESCRIPTION:Rugby World Cup
+LOCATION:Nouveau Stade de Bordeaux\, Bordeaux
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230930-scotland-romania-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230930
+DTEND;VALUE=DATE:20231001
+SUMMARY:ROMANIA | RWC | Pool B | ✈️ | Scotland
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Pierre-Mauroy\, Villeneuve-d'Ascq
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230930-scotland-romania@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230930T190000Z
+DTEND:20230930T204500Z
+SUMMARY:Scotland - Romania
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Pierre-Mauroy\, Villeneuve-d'Ascq
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231008-tonga-romania-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20231008
+DTEND;VALUE=DATE:20231009
+SUMMARY:ROMANIA | RWC | Pool B | ✈️ | Tonga
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Pierre-Mauroy\, Villeneuve-d'Ascq
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231008-tonga-romania@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20231008T154500Z
+DTEND:20231008T173000Z
+SUMMARY:Tonga - Romania
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Pierre-Mauroy\, Villeneuve-d'Ascq
+END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271003-georgia-romania-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271003
 DTEND;VALUE=DATE:20271004
-SUMMARY:ROMANIA | RWC | J1 | ✈️ | Georgia
-DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Queens
- land Country Bank Stadium\, Townsville\, Australia
+SUMMARY:ROMANIA | RWC | Pool B | ✈️ | Georgia
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271003-georgia-romania@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271003T101500Z
-DTEND:20271003T120000Z
-SUMMARY:Georgia - Romania
-DESCRIPTION:Rugby World Cup
-LOCATION:Queensland Country Bank Stadium\, Townsville\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:Georgia - Romania · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271011-italy-romania-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
-SUMMARY:ROMANIA | RWC | J2 | ✈️ | Italy
-DESCRIPTION:Inici: 10:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
- z Stadium\, Sydney\, Australia
+SUMMARY:ROMANIA | RWC | Pool B | ✈️ | Italy
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271011-italy-romania@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271011T084500Z
-DTEND:20271011T103000Z
-SUMMARY:Italy - Romania
-DESCRIPTION:Rugby World Cup
-LOCATION:Allianz Stadium\, Sydney\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:Italy - Romania · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271017-south-africa-romania-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271018
-SUMMARY:ROMANIA | RWC | J3 | ✈️ | South Africa
-DESCRIPTION:Inici: 13:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Optus 
- Stadium\, Perth\, Australia
+SUMMARY:ROMANIA | RWC | Pool B | ✈️ | South Africa
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271017-south-africa-romania@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271017T111500Z
-DTEND:20271017T130000Z
-SUMMARY:South Africa - Romania
-DESCRIPTION:Rugby World Cup
-LOCATION:Optus Stadium\, Perth\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:South Africa - Romania · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 END:VCALENDAR

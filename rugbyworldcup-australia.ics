@@ -4,58 +4,129 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Australia · RWC
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:rugbyworldcup-20230909-australia-georgia-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230910
+SUMMARY:AUSTRALIA | RWC | Pool C | 🏟️ | Georgia
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ de France\, Saint-Denis
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230909-australia-georgia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230909T160000Z
+DTEND:20230909T174500Z
+SUMMARY:Australia - Georgia
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade de France\, Saint-Denis
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230917-australia-fiji-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230917
+DTEND;VALUE=DATE:20230918
+SUMMARY:AUSTRALIA | RWC | Pool C | 🏟️ | Fiji
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Geoffroy-Guichard\, Saint-Étienne
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230917-australia-fiji@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230917T154500Z
+DTEND:20230917T173000Z
+SUMMARY:Australia - Fiji
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230924-wales-australia-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230924
+DTEND;VALUE=DATE:20230925
+SUMMARY:AUSTRALIA | RWC | Pool C | ✈️ | Wales
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Parc O
+ lympique Lyonnais\, Décines-Charpieu
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230924-wales-australia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230924T190000Z
+DTEND:20230924T204500Z
+SUMMARY:Wales - Australia
+DESCRIPTION:Rugby World Cup
+LOCATION:Parc Olympique Lyonnais\, Décines-Charpieu
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231001-australia-portugal-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20231001
+DTEND;VALUE=DATE:20231002
+SUMMARY:AUSTRALIA | RWC | Pool C | 🏟️ | Portugal
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Geoffroy-Guichard\, Saint-Étienne
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231001-australia-portugal@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20231001T154500Z
+DTEND:20231001T173000Z
+SUMMARY:Australia - Portugal
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
+END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271001-australia-hong-kong-china-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
-SUMMARY:AUSTRALIA | RWC | J1 | 🏟️ | Hong Kong China
-DESCRIPTION:Inici: 12:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Optus 
- Stadium\, Perth\, Australia
+SUMMARY:AUSTRALIA | RWC | Pool A | 🏟️ | Hong Kong China
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271001-australia-hong-kong-china@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271001T104500Z
-DTEND:20271001T123000Z
-SUMMARY:Australia - Hong Kong China
-DESCRIPTION:Rugby World Cup
-LOCATION:Optus Stadium\, Perth\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Australia - Hong Kong China · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271009-new-zealand-australia-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
-SUMMARY:AUSTRALIA | RWC | J2 | ✈️ | New Zealand
-DESCRIPTION:Inici: 08:10 (Europe/Madrid) · Rugby World Cup\nEstadi: Accor 
- Stadium\, Sydney\, Australia
+SUMMARY:AUSTRALIA | RWC | Pool A | ✈️ | New Zealand
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271009-new-zealand-australia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271009T061000Z
-DTEND:20271009T075500Z
-SUMMARY:New Zealand - Australia
-DESCRIPTION:Rugby World Cup
-LOCATION:Accor Stadium\, Sydney\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:New Zealand - Australia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271016-australia-chile-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
-SUMMARY:AUSTRALIA | RWC | J3 | 🏟️ | Chile
-DESCRIPTION:Inici: 07:10 (Europe/Madrid) · Rugby World Cup\nEstadi: Suncor
- p Stadium\, Brisbane\, Australia
+SUMMARY:AUSTRALIA | RWC | Pool A | 🏟️ | Chile
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271016-australia-chile@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271016T051000Z
-DTEND:20271016T065500Z
-SUMMARY:Australia - Chile
-DESCRIPTION:Rugby World Cup
-LOCATION:Suncorp Stadium\, Brisbane\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Australia - Chile · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 END:VCALENDAR

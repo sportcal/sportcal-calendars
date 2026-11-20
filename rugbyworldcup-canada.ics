@@ -4,58 +4,57 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Canada · RWC
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:rugbyworldcup-20271004-argentina-canada-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271004
-DTEND;VALUE=DATE:20271005
-SUMMARY:CANADA | RWC | J1 | ✈️ | Argentina
-DESCRIPTION:Inici: 10:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Suncor
- p Stadium\, Brisbane\, Australia
+UID:rugbyworldcup-20271003-argentina-canada-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:CANADA | RWC | Pool C | ✈️ | Argentina
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
-UID:rugbyworldcup-20271004-argentina-canada@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271004T084500Z
-DTEND:20271004T103000Z
-SUMMARY:Argentina - Canada
-DESCRIPTION:Rugby World Cup
-LOCATION:Suncorp Stadium\, Brisbane\, Australia
+UID:rugbyworldcup-20271003-argentina-canada@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:Argentina - Canada · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271010-fiji-canada-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271010
 DTEND;VALUE=DATE:20271011
-SUMMARY:CANADA | RWC | J2 | ✈️ | Fiji
-DESCRIPTION:Inici: 03:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Adelai
- de Oval\, Adelaide\, Australia
+SUMMARY:CANADA | RWC | Pool C | ✈️ | Fiji
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271010-fiji-canada@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271010T014500Z
-DTEND:20271010T033000Z
-SUMMARY:Fiji - Canada
-DESCRIPTION:Rugby World Cup
-LOCATION:Adelaide Oval\, Adelaide\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Fiji - Canada · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
-UID:rugbyworldcup-20271016-spain-canada-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271016
-DTEND;VALUE=DATE:20271017
-SUMMARY:CANADA | RWC | J3 | ✈️ | Spain
-DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Queens
- land Country Bank Stadium\, Townsville\, Australia
+UID:rugbyworldcup-20271017-spain-canada-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:CANADA | RWC | Pool C | ✈️ | Spain
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
-UID:rugbyworldcup-20271016-spain-canada@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271016T101500Z
-DTEND:20271016T120000Z
-SUMMARY:Spain - Canada
-DESCRIPTION:Rugby World Cup
-LOCATION:Queensland Country Bank Stadium\, Townsville\, Australia
+UID:rugbyworldcup-20271017-spain-canada@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Spain - Canada · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 END:VCALENDAR

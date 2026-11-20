@@ -4,58 +4,60 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sharks · Challenge Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:challengecup-20261212-sharks-scarlets-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:SHARKS | Challenge Cup | J2 | 🏟️ | Scarlets
+SUMMARY:SHARKS | Challenge Cup | Round 2 | 🏟️ | Scarlets
 DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Challenge Cup\nE
- stadi: Hollywoodbets Kings Park\, Durban\, South Africa
+ stadi: Hollywoodbets Kings Park\, Durban
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20261212-sharks-scarlets@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20261212T173000Z
 DTEND:20261212T191500Z
 SUMMARY:Sharks - Scarlets
 DESCRIPTION:European Rugby Challenge Cup
-LOCATION:Hollywoodbets Kings Park\, Durban\, South Africa
+LOCATION:Hollywoodbets Kings Park\, Durban
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270109-sharks-castres-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:SHARKS | Challenge Cup | J3 | 🏟️ | Castres
+SUMMARY:SHARKS | Challenge Cup | Round 3 | 🏟️ | Castres
 DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
- stadi: Hollywoodbets Kings Park\, Durban\, South Africa
+ stadi: Hollywoodbets Kings Park\, Durban
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270109-sharks-castres@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20270109T130000Z
 DTEND:20270109T144500Z
 SUMMARY:Sharks - Castres
 DESCRIPTION:European Rugby Challenge Cup
-LOCATION:Hollywoodbets Kings Park\, Durban\, South Africa
+LOCATION:Hollywoodbets Kings Park\, Durban
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270116-benetton-sharks-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:SHARKS | Challenge Cup | J4 | ✈️ | Benetton
-DESCRIPTION:Inici: 18:30 (Europe/Madrid) · European Rugby Challenge Cup\nE
- stadi: Stadio Comunale di Monigo\, Treviso\, Italy
+SUMMARY:SHARKS | Challenge Cup | Round 4 | ✈️ | Benetton
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Stadio Comunale di Monigo\, Treviso
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270116-benetton-sharks@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270116T173000Z
-DTEND:20270116T191500Z
+DTSTAMP:20261120T182741Z
+DTSTART:20270116T163000Z
+DTEND:20270116T181500Z
 SUMMARY:Benetton - Sharks
 DESCRIPTION:European Rugby Challenge Cup
-LOCATION:Stadio Comunale di Monigo\, Treviso\, Italy
+LOCATION:Stadio Comunale di Monigo\, Treviso
 END:VEVENT
 END:VCALENDAR

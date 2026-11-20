@@ -4,58 +4,129 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Italy · RWC
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:rugbyworldcup-20230909-italy-namibia-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230910
+SUMMARY:ITALY | RWC | Pool A | 🏟️ | Namibia
+DESCRIPTION:Inici: 13:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Geoffroy-Guichard\, Saint-Étienne
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230909-italy-namibia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230909T110000Z
+DTEND:20230909T124500Z
+SUMMARY:Italy - Namibia
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230920-italy-uruguay-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230920
+DTEND;VALUE=DATE:20230921
+SUMMARY:ITALY | RWC | Pool A | 🏟️ | Uruguay
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
+ z Riviera\, Nice
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230920-italy-uruguay@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230920T154500Z
+DTEND:20230920T173000Z
+SUMMARY:Italy - Uruguay
+DESCRIPTION:Rugby World Cup
+LOCATION:Allianz Riviera\, Nice
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230929-new-zealand-italy-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230929
+DTEND;VALUE=DATE:20230930
+SUMMARY:ITALY | RWC | Pool A | ✈️ | New Zealand
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Parc O
+ lympique Lyonnais\, Décines-Charpieu
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230929-new-zealand-italy@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230929T190000Z
+DTEND:20230929T204500Z
+SUMMARY:New Zealand - Italy
+DESCRIPTION:Rugby World Cup
+LOCATION:Parc Olympique Lyonnais\, Décines-Charpieu
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231006-france-italy-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20231006
+DTEND;VALUE=DATE:20231007
+SUMMARY:ITALY | RWC | Pool A | ✈️ | France
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Parc O
+ lympique Lyonnais\, Décines-Charpieu
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231006-france-italy@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20231006T190000Z
+DTEND:20231006T204500Z
+SUMMARY:France - Italy
+DESCRIPTION:Rugby World Cup
+LOCATION:Parc Olympique Lyonnais\, Décines-Charpieu
+END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271003-south-africa-italy-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271003
 DTEND;VALUE=DATE:20271004
-SUMMARY:ITALY | RWC | J1 | ✈️ | South Africa
-DESCRIPTION:Inici: 05:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Adelai
- de Oval\, Adelaide\, Australia
+SUMMARY:ITALY | RWC | Pool B | ✈️ | South Africa
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271003-south-africa-italy@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271003T034500Z
-DTEND:20271003T053000Z
-SUMMARY:South Africa - Italy
-DESCRIPTION:Rugby World Cup
-LOCATION:Adelaide Oval\, Adelaide\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:South Africa - Italy · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271011-italy-romania-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
-SUMMARY:ITALY | RWC | J2 | 🏟️ | Romania
-DESCRIPTION:Inici: 10:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
- z Stadium\, Sydney\, Australia
+SUMMARY:ITALY | RWC | Pool B | 🏟️ | Romania
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271011-italy-romania@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271011T084500Z
-DTEND:20271011T103000Z
-SUMMARY:Italy - Romania
-DESCRIPTION:Rugby World Cup
-LOCATION:Allianz Stadium\, Sydney\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:Italy - Romania · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271017-italy-georgia-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271018
-SUMMARY:ITALY | RWC | J3 | 🏟️ | Georgia
-DESCRIPTION:Inici: 03:15 (Europe/Madrid) · Rugby World Cup\nEstadi: McDona
- ld Jones Stadium\, Newcastle\, Australia
+SUMMARY:ITALY | RWC | Pool B | 🏟️ | Georgia
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271017-italy-georgia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271017T011500Z
-DTEND:20271017T030000Z
-SUMMARY:Italy - Georgia
-DESCRIPTION:Rugby World Cup
-LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Italy - Georgia · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 END:VCALENDAR

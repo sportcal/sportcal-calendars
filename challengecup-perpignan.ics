@@ -4,58 +4,60 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Perpignan · Challenge Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:challengecup-20261213-perpignan-zebre-parma-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-SUMMARY:PERPIGNAN | Challenge Cup | J2 | 🏟️ | Zebre Parma
+SUMMARY:PERPIGNAN | Challenge Cup | Round 2 | 🏟️ | Zebre Parma
 DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Challenge Cup\nE
- stadi: Stade Aime Giral\, Perpignan\, France
+ stadi: Stade Aimé Giral\, Perpignan
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20261213-perpignan-zebre-parma@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20261213T151500Z
 DTEND:20261213T170000Z
 SUMMARY:Perpignan - Zebre Parma
 DESCRIPTION:European Rugby Challenge Cup
-LOCATION:Stade Aime Giral\, Perpignan\, France
+LOCATION:Stade Aimé Giral\, Perpignan
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270110-perpignan-ulster-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-SUMMARY:PERPIGNAN | Challenge Cup | J3 | 🏟️ | Ulster
+SUMMARY:PERPIGNAN | Challenge Cup | Round 3 | 🏟️ | Ulster
 DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
- stadi: Stade Aime Giral\, Perpignan\, France
+ stadi: Stade Aimé Giral\, Perpignan
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270110-perpignan-ulster@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20270110T130000Z
 DTEND:20270110T144500Z
 SUMMARY:Perpignan - Ulster
 DESCRIPTION:European Rugby Challenge Cup
-LOCATION:Stade Aime Giral\, Perpignan\, France
+LOCATION:Stade Aimé Giral\, Perpignan
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270117-cheetahs-perpignan-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:PERPIGNAN | Challenge Cup | J4 | ✈️ | Cheetahs
-DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Challenge Cup\nE
- stadi: St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+SUMMARY:PERPIGNAN | Challenge Cup | Round 4 | ✈️ | Cheetahs
+DESCRIPTION:Inici: 14:15 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: St Helen's\, Swansea
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270117-cheetahs-perpignan@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T151500Z
-DTEND:20270117T170000Z
+DTSTAMP:20261120T182741Z
+DTSTART:20270117T131500Z
+DTEND:20270117T150000Z
 SUMMARY:Cheetahs - Perpignan
 DESCRIPTION:European Rugby Challenge Cup
-LOCATION:St Helen's Rugby and Cricket Ground\, Swansea\, Wales
+LOCATION:St Helen's\, Swansea
 END:VEVENT
 END:VCALENDAR

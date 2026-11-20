@@ -4,58 +4,129 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Tonga · RWC
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:rugbyworldcup-20230916-ireland-tonga-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230916
+DTEND;VALUE=DATE:20230917
+SUMMARY:TONGA | RWC | Pool B | ✈️ | Ireland
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ de la Beaujoire\, Nantes
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230916-ireland-tonga@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230916T190000Z
+DTEND:20230916T204500Z
+SUMMARY:Ireland - Tonga
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade de la Beaujoire\, Nantes
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230924-scotland-tonga-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230924
+DTEND;VALUE=DATE:20230925
+SUMMARY:TONGA | RWC | Pool B | ✈️ | Scotland
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
+ z Riviera\, Nice
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230924-scotland-tonga@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230924T154500Z
+DTEND:20230924T173000Z
+SUMMARY:Scotland - Tonga
+DESCRIPTION:Rugby World Cup
+LOCATION:Allianz Riviera\, Nice
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231001-south-africa-tonga-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20231001
+DTEND;VALUE=DATE:20231002
+SUMMARY:TONGA | RWC | Pool B | ✈️ | South Africa
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Vélodrome\, Marseille
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231001-south-africa-tonga@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20231001T190000Z
+DTEND:20231001T204500Z
+SUMMARY:South Africa - Tonga
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Vélodrome\, Marseille
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231008-tonga-romania-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20231008
+DTEND;VALUE=DATE:20231009
+SUMMARY:TONGA | RWC | Pool B | 🏟️ | Romania
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Pierre-Mauroy\, Villeneuve-d'Ascq
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231008-tonga-romania@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20231008T154500Z
+DTEND:20231008T173000Z
+SUMMARY:Tonga - Romania
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Pierre-Mauroy\, Villeneuve-d'Ascq
+END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271002-england-tonga-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271003
-SUMMARY:TONGA | RWC | J1 | ✈️ | England
-DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Suncor
- p Stadium\, Brisbane\, Australia
+SUMMARY:TONGA | RWC | Pool F | ✈️ | England
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271002-england-tonga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271002T101500Z
-DTEND:20271002T120000Z
-SUMMARY:England - Tonga
-DESCRIPTION:Rugby World Cup
-LOCATION:Suncorp Stadium\, Brisbane\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:England - Tonga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271008-wales-tonga-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
-SUMMARY:TONGA | RWC | J2 | ✈️ | Wales
-DESCRIPTION:Inici: 09:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Marvel
-  Stadium\, Melbourne\, Australia
+SUMMARY:TONGA | RWC | Pool F | ✈️ | Wales
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271008-wales-tonga@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271008T071500Z
-DTEND:20271008T090000Z
-SUMMARY:Wales - Tonga
-DESCRIPTION:Rugby World Cup
-LOCATION:Marvel Stadium\, Melbourne\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Wales - Tonga · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271015-tonga-zimbabwe-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
-SUMMARY:TONGA | RWC | J3 | 🏟️ | Zimbabwe
-DESCRIPTION:Inici: 12:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Queens
- land Country Bank Stadium\, Townsville\, Australia
+SUMMARY:TONGA | RWC | Pool F | 🏟️ | Zimbabwe
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271015-tonga-zimbabwe@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271015T101500Z
-DTEND:20271015T120000Z
-SUMMARY:Tonga - Zimbabwe
-DESCRIPTION:Rugby World Cup
-LOCATION:Queensland Country Bank Stadium\, Townsville\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Tonga - Zimbabwe · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 END:VCALENDAR

@@ -4,58 +4,60 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bulls · Champions Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:championscup-20261212-montpellier-bulls-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:BULLS | Champions Cup | J2 | ✈️ | Montpellier
+SUMMARY:BULLS | Champions Cup | Round 2 | ✈️ | Montpellier
 DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Champions Cup\nE
- stadi: Septeo Stadium\, Montpellier\, France
+ stadi: Septeo Stadium\, Montpellier
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20261212-montpellier-bulls@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20261212T151500Z
 DTEND:20261212T170000Z
 SUMMARY:Montpellier - Bulls
 DESCRIPTION:European Rugby Champions Cup
-LOCATION:Septeo Stadium\, Montpellier\, France
+LOCATION:Septeo Stadium\, Montpellier
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270109-bulls-bath-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:BULLS | Champions Cup | J3 | 🏟️ | Bath
-DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Champions Cup\nE
- stadi: Loftus Versfeld\, Pretoria\, South Africa
+SUMMARY:BULLS | Champions Cup | Round 3 | 🏟️ | Bath
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · European Rugby Champions Cup\nE
+ stadi: Loftus Versfeld\, Pretoria
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270109-bulls-bath@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270109T151500Z
-DTEND:20270109T170000Z
+DTSTAMP:20261120T182741Z
+DTSTART:20270109T150000Z
+DTEND:20270109T164500Z
 SUMMARY:Bulls - Bath
 DESCRIPTION:European Rugby Champions Cup
-LOCATION:Loftus Versfeld\, Pretoria\, South Africa
+LOCATION:Loftus Versfeld\, Pretoria
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270115-northampton-saints-bulls-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:BULLS | Champions Cup | J4 | ✈️ | Northampton Saints
+SUMMARY:BULLS | Champions Cup | Round 4 | ✈️ | Northampton Saints
 DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
- stadi: cinch Stadium at Franklin's Gardens\, Northampton\, England
+ stadi: Franklin's Gardens\, Northampton
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270115-northampton-saints-bulls@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20270115T200000Z
 DTEND:20270115T214500Z
 SUMMARY:Northampton Saints - Bulls
 DESCRIPTION:European Rugby Champions Cup
-LOCATION:cinch Stadium at Franklin's Gardens\, Northampton\, England
+LOCATION:Franklin's Gardens\, Northampton
 END:VEVENT
 END:VCALENDAR

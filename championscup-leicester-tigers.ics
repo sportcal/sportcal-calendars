@@ -4,58 +4,61 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Leicester Tigers · Champions Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:championscup-20261212-leicester-tigers-clermont-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:LEICESTER TIGERS | Champions Cup | J2 | 🏟️ | Clermont
+SUMMARY:LEICESTER TIGERS | Champions Cup | Round 2 | 🏟️ | Clermont
 DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Champions Cup\nE
- stadi: Mattioli Woods Welford Road Stadium\, Leicester\, England
+ stadi: Mattioli Woods Welford Road\, Leicester
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20261212-leicester-tigers-clermont@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20261212T151500Z
 DTEND:20261212T170000Z
 SUMMARY:Leicester Tigers - Clermont
 DESCRIPTION:European Rugby Champions Cup
-LOCATION:Mattioli Woods Welford Road Stadium\, Leicester\, England
+LOCATION:Mattioli Woods Welford Road\, Leicester
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270108-glasgow-warriors-leicester-tigers-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:LEICESTER TIGERS | Champions Cup | J3 | ✈️ | Glasgow Warriors
+SUMMARY:LEICESTER TIGERS | Champions Cup | Round 3 | ✈️ | Glasgow Warri
+ ors
 DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
- stadi: Scotstoun Stadium\, Glasgow\, Scotland
+ stadi: Scotstoun Stadium\, Glasgow
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270108-glasgow-warriors-leicester-tigers@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20270108T200000Z
 DTEND:20270108T214500Z
 SUMMARY:Glasgow Warriors - Leicester Tigers
 DESCRIPTION:European Rugby Champions Cup
-LOCATION:Scotstoun Stadium\, Glasgow\, Scotland
+LOCATION:Scotstoun Stadium\, Glasgow
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270116-leicester-tigers-leinster-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:LEICESTER TIGERS | Champions Cup | J4 | 🏟️ | Leinster
+SUMMARY:LEICESTER TIGERS | Champions Cup | Round 4 | 🏟️ | Leinster
 DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
- stadi: Mattioli Woods Welford Road Stadium\, Leicester\, England
+ stadi: Mattioli Woods Welford Road\, Leicester
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270116-leicester-tigers-leinster@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20270116T200000Z
 DTEND:20270116T214500Z
 SUMMARY:Leicester Tigers - Leinster
 DESCRIPTION:European Rugby Champions Cup
-LOCATION:Mattioli Woods Welford Road Stadium\, Leicester\, England
+LOCATION:Mattioli Woods Welford Road\, Leicester
 END:VEVENT
 END:VCALENDAR

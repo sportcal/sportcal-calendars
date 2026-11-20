@@ -4,22 +4,23 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Scotland · Nations Champ
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:nationschamp-20261121-scotland-japan-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:SCOTLAND | Nations Champ | J6 | 🏟️ | Japan
-DESCRIPTION:Inici: 15:10 (Europe/Madrid) · Nations Championship\nEstadi: S
- cottish Gas Murrayfield\, Edinburgh\, Scotland
+SUMMARY:SCOTLAND | Nations Champ | Round 6 | 🏟️ | Japan
+DESCRIPTION:Hora pendent de confirmació · Nations Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:nationschamp-20261121-scotland-japan@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261121T141000Z
-DTEND:20261121T155500Z
-SUMMARY:Scotland - Japan
-DESCRIPTION:Nations Championship
-LOCATION:Scottish Gas Murrayfield\, Edinburgh\, Scotland
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Scotland - Japan · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Nations Championship
 END:VEVENT
 END:VCALENDAR

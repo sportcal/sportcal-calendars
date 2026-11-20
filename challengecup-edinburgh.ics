@@ -4,56 +4,60 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Edinburgh · Challenge Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:challengecup-20261213-vannes-edinburgh-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-SUMMARY:EDINBURGH | Challenge Cup | J2 | ✈️ | Vannes
+SUMMARY:EDINBURGH | Challenge Cup | Round 2 | ✈️ | Vannes
 DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
- stadi: Stade de la Rabine\, Vannes\, France
+ stadi: Stade de la Rabine\, Vannes
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20261213-vannes-edinburgh@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20261213T130000Z
 DTEND:20261213T144500Z
 SUMMARY:Vannes - Edinburgh
 DESCRIPTION:European Rugby Challenge Cup
-LOCATION:Stade de la Rabine\, Vannes\, France
+LOCATION:Stade de la Rabine\, Vannes
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270109-edinburgh-harlequins-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:EDINBURGH | Challenge Cup | J3 | 🏟️ | Harlequins
+SUMMARY:EDINBURGH | Challenge Cup | Round 3 | 🏟️ | Harlequins
 DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
- stadi: Hive Stadium\, Edinburgh\, Scotland
+ stadi: Hive Stadium\, Edinburgh
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270109-edinburgh-harlequins@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20270109T130000Z
 DTEND:20270109T144500Z
 SUMMARY:Edinburgh - Harlequins
 DESCRIPTION:European Rugby Challenge Cup
-LOCATION:Hive Stadium\, Edinburgh\, Scotland
+LOCATION:Hive Stadium\, Edinburgh
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270117-black-lion-edinburgh-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:EDINBURGH | Challenge Cup | J4 | ✈️ | Black Lion
-DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Challenge Cup
+SUMMARY:EDINBURGH | Challenge Cup | Round 4 | ✈️ | Black Lion
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · European Rugby Challenge Cup\nE
+ stadi: Avchala Rugby Stadium\, Tbilisi
 END:VEVENT
 BEGIN:VEVENT
 UID:challengecup-20270117-black-lion-edinburgh@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20270117T130000Z
-DTEND:20270117T144500Z
+DTSTAMP:20261120T182741Z
+DTSTART:20270117T160000Z
+DTEND:20270117T174500Z
 SUMMARY:Black Lion - Edinburgh
 DESCRIPTION:European Rugby Challenge Cup
+LOCATION:Avchala Rugby Stadium\, Tbilisi
 END:VEVENT
 END:VCALENDAR

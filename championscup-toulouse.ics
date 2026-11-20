@@ -4,58 +4,60 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Toulouse · Champions Cup
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:championscup-20261212-lions-toulouse-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:TOULOUSE | Champions Cup | J2 | ✈️ | Lions
+SUMMARY:TOULOUSE | Champions Cup | Round 2 | ✈️ | Lions
 DESCRIPTION:Inici: 14:00 (Europe/Madrid) · European Rugby Champions Cup\nE
- stadi: Ellis Park\, Johannesburg\, South Africa
+ stadi: Ellis Park Stadium\, Johannesburg
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20261212-lions-toulouse@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20261212T130000Z
 DTEND:20261212T144500Z
 SUMMARY:Lions - Toulouse
 DESCRIPTION:European Rugby Champions Cup
-LOCATION:Ellis Park\, Johannesburg\, South Africa
+LOCATION:Ellis Park Stadium\, Johannesburg
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270109-connacht-toulouse-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:TOULOUSE | Champions Cup | J3 | ✈️ | Connacht
+SUMMARY:TOULOUSE | Champions Cup | Round 3 | ✈️ | Connacht
 DESCRIPTION:Inici: 21:00 (Europe/Madrid) · European Rugby Champions Cup\nE
- stadi: Dexcom Stadium\, Galway\, Ireland
+ stadi: Dexcom Stadium\, Galway
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270109-connacht-toulouse@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20270109T200000Z
 DTEND:20270109T214500Z
 SUMMARY:Connacht - Toulouse
 DESCRIPTION:European Rugby Champions Cup
-LOCATION:Dexcom Stadium\, Galway\, Ireland
+LOCATION:Dexcom Stadium\, Galway
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270117-toulouse-saracens-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:TOULOUSE | Champions Cup | J4 | 🏟️ | Saracens
+SUMMARY:TOULOUSE | Champions Cup | Round 4 | 🏟️ | Saracens
 DESCRIPTION:Inici: 16:15 (Europe/Madrid) · European Rugby Champions Cup\nE
- stadi: Stade Ernest-Wallon\, Toulouse\, France
+ stadi: Stade Ernest-Wallon\, Toulouse
 END:VEVENT
 BEGIN:VEVENT
 UID:championscup-20270117-toulouse-saracens@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART:20270117T151500Z
 DTEND:20270117T170000Z
 SUMMARY:Toulouse - Saracens
 DESCRIPTION:European Rugby Champions Cup
-LOCATION:Stade Ernest-Wallon\, Toulouse\, France
+LOCATION:Stade Ernest-Wallon\, Toulouse
 END:VEVENT
 END:VCALENDAR

@@ -4,58 +4,147 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:France · RWC
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:rugbyworldcup-20230908-france-new-zealand-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230908
+DTEND;VALUE=DATE:20230909
+SUMMARY:FRANCE | RWC | Pool A | 🏟️ | New Zealand
+DESCRIPTION:Inici: 21:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ de France\, Saint-Denis
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230908-france-new-zealand@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230908T191500Z
+DTEND:20230908T210000Z
+SUMMARY:France - New Zealand
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade de France\, Saint-Denis
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230914-france-uruguay-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230914
+DTEND;VALUE=DATE:20230915
+SUMMARY:FRANCE | RWC | Pool A | 🏟️ | Uruguay
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Pierre-Mauroy\, Villeneuve-d'Ascq
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230914-france-uruguay@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230914T190000Z
+DTEND:20230914T204500Z
+SUMMARY:France - Uruguay
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Pierre-Mauroy\, Villeneuve-d'Ascq
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230921-france-namibia-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230921
+DTEND;VALUE=DATE:20230922
+SUMMARY:FRANCE | RWC | Pool A | 🏟️ | Namibia
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Vélodrome\, Marseille
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230921-france-namibia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230921T190000Z
+DTEND:20230921T204500Z
+SUMMARY:France - Namibia
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Vélodrome\, Marseille
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231006-france-italy-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20231006
+DTEND;VALUE=DATE:20231007
+SUMMARY:FRANCE | RWC | Pool A | 🏟️ | Italy
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Parc O
+ lympique Lyonnais\, Décines-Charpieu
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231006-france-italy@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20231006T190000Z
+DTEND:20231006T204500Z
+SUMMARY:France - Italy
+DESCRIPTION:Rugby World Cup
+LOCATION:Parc Olympique Lyonnais\, Décines-Charpieu
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231015-france-south-africa-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20231015
+DTEND;VALUE=DATE:20231016
+SUMMARY:FRANCE | RWC | Quarter-finals | 🏟️ | South Africa
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ de France\, Saint-Denis
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231015-france-south-africa@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20231015T190000Z
+DTEND:20231015T204500Z
+SUMMARY:France - South Africa
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade de France\, Saint-Denis
+END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271002-france-usa-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271003
-SUMMARY:FRANCE | RWC | J1 | 🏟️ | USA
-DESCRIPTION:Inici: 09:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Marvel
-  Stadium\, Melbourne\, Australia
+SUMMARY:FRANCE | RWC | Pool E | 🏟️ | USA
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271002-france-usa@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271002T074500Z
-DTEND:20271002T093000Z
-SUMMARY:France - USA
-DESCRIPTION:Rugby World Cup
-LOCATION:Marvel Stadium\, Melbourne\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:France - USA · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271009-france-japan-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
-SUMMARY:FRANCE | RWC | J2 | 🏟️ | Japan
-DESCRIPTION:Inici: 10:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Suncor
- p Stadium\, Brisbane\, Australia
+SUMMARY:FRANCE | RWC | Pool E | 🏟️ | Japan
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271009-france-japan@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271009T084500Z
-DTEND:20271009T103000Z
-SUMMARY:France - Japan
-DESCRIPTION:Rugby World Cup
-LOCATION:Suncorp Stadium\, Brisbane\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:France - Japan · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271017-france-samoa-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271018
-SUMMARY:FRANCE | RWC | J3 | 🏟️ | Samoa
-DESCRIPTION:Inici: 10:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
- z Stadium\, Sydney\, Australia
+SUMMARY:FRANCE | RWC | Pool E | 🏟️ | Samoa
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271017-france-samoa@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271017T084500Z
-DTEND:20271017T103000Z
-SUMMARY:France - Samoa
-DESCRIPTION:Rugby World Cup
-LOCATION:Allianz Stadium\, Sydney\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:France - Samoa · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 END:VCALENDAR

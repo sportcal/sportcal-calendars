@@ -4,58 +4,129 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Portugal · RWC
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:rugbyworldcup-20230916-wales-portugal-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230916
+DTEND;VALUE=DATE:20230917
+SUMMARY:PORTUGAL | RWC | Pool C | ✈️ | Wales
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
+ z Riviera\, Nice
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230916-wales-portugal@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230916T154500Z
+DTEND:20230916T173000Z
+SUMMARY:Wales - Portugal
+DESCRIPTION:Rugby World Cup
+LOCATION:Allianz Riviera\, Nice
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230923-georgia-portugal-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20230923
+DTEND;VALUE=DATE:20230924
+SUMMARY:PORTUGAL | RWC | Pool C | ✈️ | Georgia
+DESCRIPTION:Inici: 14:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stadiu
+ m de Toulouse\, Toulouse
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20230923-georgia-portugal@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20230923T120000Z
+DTEND:20230923T134500Z
+SUMMARY:Georgia - Portugal
+DESCRIPTION:Rugby World Cup
+LOCATION:Stadium de Toulouse\, Toulouse
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231001-australia-portugal-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20231001
+DTEND;VALUE=DATE:20231002
+SUMMARY:PORTUGAL | RWC | Pool C | ✈️ | Australia
+DESCRIPTION:Inici: 17:45 (Europe/Madrid) · Rugby World Cup\nEstadi: Stade 
+ Geoffroy-Guichard\, Saint-Étienne
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231001-australia-portugal@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20231001T154500Z
+DTEND:20231001T173000Z
+SUMMARY:Australia - Portugal
+DESCRIPTION:Rugby World Cup
+LOCATION:Stade Geoffroy-Guichard\, Saint-Étienne
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231008-fiji-portugal-dia@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20231008
+DTEND;VALUE=DATE:20231009
+SUMMARY:PORTUGAL | RWC | Pool C | ✈️ | Fiji
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Rugby World Cup\nEstadi: Stadiu
+ m de Toulouse\, Toulouse
+END:VEVENT
+BEGIN:VEVENT
+UID:rugbyworldcup-20231008-fiji-portugal@sportcal
+DTSTAMP:20261120T182741Z
+DTSTART:20231008T190000Z
+DTEND:20231008T204500Z
+SUMMARY:Fiji - Portugal
+DESCRIPTION:Rugby World Cup
+LOCATION:Stadium de Toulouse\, Toulouse
+END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271004-ireland-portugal-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271005
-SUMMARY:PORTUGAL | RWC | J1 | ✈️ | Ireland
-DESCRIPTION:Inici: 08:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Allian
- z Stadium\, Sydney\, Australia
+SUMMARY:PORTUGAL | RWC | Pool D | ✈️ | Ireland
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271004-ireland-portugal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271004T061500Z
-DTEND:20271004T080000Z
-SUMMARY:Ireland - Portugal
-DESCRIPTION:Rugby World Cup
-LOCATION:Allianz Stadium\, Sydney\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:Ireland - Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271011-uruguay-portugal-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
-SUMMARY:PORTUGAL | RWC | J2 | ✈️ | Uruguay
-DESCRIPTION:Inici: 08:15 (Europe/Madrid) · Rugby World Cup\nEstadi: McDona
- ld Jones Stadium\, Newcastle\, Australia
+SUMMARY:PORTUGAL | RWC | Pool D | ✈️ | Uruguay
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271011-uruguay-portugal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271011T061500Z
-DTEND:20271011T080000Z
-SUMMARY:Uruguay - Portugal
-DESCRIPTION:Rugby World Cup
-LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:Uruguay - Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271017-scotland-portugal-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261120T182741Z
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271018
-SUMMARY:PORTUGAL | RWC | J3 | ✈️ | Scotland
-DESCRIPTION:Inici: 08:15 (Europe/Madrid) · Rugby World Cup\nEstadi: Suncor
- p Stadium\, Brisbane\, Australia
+SUMMARY:PORTUGAL | RWC | Pool D | ✈️ | Scotland
+DESCRIPTION:Hora pendent de confirmació · Rugby World Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:rugbyworldcup-20271017-scotland-portugal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20271017T061500Z
-DTEND:20271017T080000Z
-SUMMARY:Scotland - Portugal
-DESCRIPTION:Rugby World Cup
-LOCATION:Suncorp Stadium\, Brisbane\, Australia
+DTSTAMP:20261120T182741Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Scotland - Portugal · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Rugby World Cup
 END:VEVENT
 END:VCALENDAR
