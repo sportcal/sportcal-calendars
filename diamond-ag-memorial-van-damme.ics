@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AG Memorial Van Damme · Diamond League
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:diamond-69484b666f639f72@wikipedia-sports-calendar
+DTSTAMP:20261120T184950Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260906
+SUMMARY:DIAMOND LEAGUE | AG Memorial Van Damme
+DESCRIPTION:AG Memorial Van Damme · Diamond League
+END:VEVENT
+END:VCALENDAR

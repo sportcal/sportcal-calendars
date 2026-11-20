@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Athletissima · Diamond League
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:diamond-5496b5c1e85c892f@wikipedia-sports-calendar
+DTSTAMP:20261120T184950Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+SUMMARY:DIAMOND LEAGUE | Athletissima
+DESCRIPTION:Athletissima · Diamond League
+END:VEVENT
+END:VCALENDAR

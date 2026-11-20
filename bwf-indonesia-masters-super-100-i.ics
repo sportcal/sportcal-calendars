@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Indonesia Masters Super 100 I · BWF
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:bwf-67b3b801dc96b8b8@wikipedia-sports-calendar
+DTSTAMP:20261120T184950Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260907
+SUMMARY:BWF | Indonesia Masters Super 100 I
+DESCRIPTION:Indonesia Masters Super 100 I · BWF World Tour
+END:VEVENT
+END:VCALENDAR

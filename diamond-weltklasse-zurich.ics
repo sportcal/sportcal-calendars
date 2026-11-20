@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weltklasse Zürich · Diamond League
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:diamond-8ad2d0b9019ced2c@wikipedia-sports-calendar
+DTSTAMP:20261120T184950Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260828
+SUMMARY:DIAMOND LEAGUE | Weltklasse Zürich
+DESCRIPTION:Weltklasse Zürich · Diamond League
+END:VEVENT
+END:VCALENDAR

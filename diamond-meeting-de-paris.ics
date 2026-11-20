@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meeting de Paris · Diamond League
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:diamond-4663884345dbcef1@wikipedia-sports-calendar
+DTSTAMP:20261120T184950Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:DIAMOND LEAGUE | Meeting de Paris
+DESCRIPTION:Meeting de Paris · Diamond League
+END:VEVENT
+END:VCALENDAR

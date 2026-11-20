@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Indonesia Masters Super 100 II · BWF
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:bwf-0d286e0c0ae04f23@wikipedia-sports-calendar
+DTSTAMP:20261120T184950Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261026
+SUMMARY:BWF | Indonesia Masters Super 100 II
+DESCRIPTION:Indonesia Masters Super 100 II · BWF World Tour
+END:VEVENT
+END:VCALENDAR

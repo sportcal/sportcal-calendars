@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Golden Gala Pietro Mennea · Diamond League
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:diamond-23722c0fc581269d@wikipedia-sports-calendar
+DTSTAMP:20261120T184950Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:DIAMOND LEAGUE | Golden Gala Pietro Mennea
+DESCRIPTION:Golden Gala Pietro Mennea · Diamond League
+END:VEVENT
+END:VCALENDAR
