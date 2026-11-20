@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Abu Dhabi Aldar Championship · DP World Tour
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:dpworld-20261105-abu-dhabi-aldar-championship@sportcal
+DTSTAMP:20261120T173256Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:DP WORLD TOUR | Abu Dhabi Aldar Championship
+DESCRIPTION:Abu Dhabi Aldar Championship · DP World Tour
+END:VEVENT
+END:VCALENDAR

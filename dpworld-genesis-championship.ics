@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Genesis Championship · DP World Tour
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:dpworld-20261022-genesis-championship@sportcal
+DTSTAMP:20261120T173256Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+SUMMARY:DP WORLD TOUR | Genesis Championship
+DESCRIPTION:Genesis Championship · DP World Tour
+END:VEVENT
+END:VCALENDAR

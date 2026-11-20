@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cincinnati Open · ATP T2
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:atp-t2-20260810-cincinnati-open@sportcal
+DTSTAMP:20261120T173256Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260824
+SUMMARY:ATP T2 | Cincinnati Open
+DESCRIPTION:Cincinnati Open · ATP · Nivell 2 — 500 + 1000 + Grand Slams
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shanghai Masters · ATP T2
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:atp-t2-20261005-shanghai-masters@sportcal
+DTSTAMP:20261120T173256Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261019
+SUMMARY:ATP T2 | Shanghai Masters
+DESCRIPTION:Shanghai Masters · ATP · Nivell 2 — 500 + 1000 + Grand Slam
+ s
+END:VEVENT
+END:VCALENDAR

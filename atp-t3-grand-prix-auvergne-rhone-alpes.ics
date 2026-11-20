@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grand Prix Auvergne-Rhône-Alpes · ATP T3
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:atp-t3-20261019-grand-prix-auvergne-rh-ne-alpes@sportcal
+DTSTAMP:20261120T173256Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261026
+SUMMARY:ATP T3 | Grand Prix Auvergne-Rhône-Alpes
+DESCRIPTION:Grand Prix Auvergne-Rhône-Alpes · ATP · Nivell 3 — Tot el 
+ circuit
+END:VEVENT
+END:VCALENDAR

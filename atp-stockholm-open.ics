@@ -4,12 +4,14 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Stockholm Open · ATP
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:atp-stockholm-open-dia-20261114-stockholm-open-final@sportcal
-DTSTAMP:20261113T230656Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:ATP | Stockholm Open | Final
-DESCRIPTION:Partits per determinar (2)
+UID:atp-20261109-stockholm-open@sportcal
+DTSTAMP:20261120T173256Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261116
+SUMMARY:ATP | Stockholm Open
+DESCRIPTION:Stockholm Open · ATP
 END:VEVENT
 END:VCALENDAR

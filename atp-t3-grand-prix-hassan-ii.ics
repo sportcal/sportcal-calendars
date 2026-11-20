@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grand Prix Hassan II · ATP T3
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:atp-t3-20260330-grand-prix-hassan-ii@sportcal
+DTSTAMP:20261120T173256Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260406
+SUMMARY:ATP T3 | Grand Prix Hassan II
+DESCRIPTION:Grand Prix Hassan II · ATP · Nivell 3 — Tot el circuit
+END:VEVENT
+END:VCALENDAR

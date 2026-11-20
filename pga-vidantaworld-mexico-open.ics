@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VidantaWorld Mexico Open · PGA Tour
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:pga-20261029-vidantaworld-mexico-open@sportcal
+DTSTAMP:20261120T173256Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
+SUMMARY:PGA TOUR | VidantaWorld Mexico Open
+DESCRIPTION:VidantaWorld Mexico Open · PGA Tour
+END:VEVENT
+END:VCALENDAR
