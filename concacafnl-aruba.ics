@@ -4,20 +4,23 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Aruba · CONCACAF NL
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org and es.wikipedia.org)\, 
+ licensed under CC BY-SA 4.0
 BEGIN:VEVENT
-UID:concacafnl-20261117-martinique-aruba-dia@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:ARUBA | CONCACAF NL | ✈️ | Martinique
-DESCRIPTION:Inici: 01:00 (Europe/Madrid) · CONCACAF Nations League
+UID:concacafnl-20270609-montserrat-aruba-dia@sportcal
+DTSTAMP:20261120T153038Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:ARUBA | CONCACAF NL | ✈️ | Montserrat
+DESCRIPTION:Hora pendent de confirmació · CONCACAF Nations League
 END:VEVENT
 BEGIN:VEVENT
-UID:concacafnl-20261117-martinique-aruba@sportcal
-DTSTAMP:20261116T103333Z
-DTSTART:20261117T000000Z
-DTEND:20261117T014500Z
-SUMMARY:Martinique - Aruba
-DESCRIPTION:CONCACAF Nations League
+UID:concacafnl-20270609-montserrat-aruba@sportcal
+DTSTAMP:20261120T153038Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Montserrat - Aruba · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · CONCACAF Nations League
 END:VEVENT
 END:VCALENDAR
