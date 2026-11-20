@@ -3,13 +3,15 @@ VERSION:2.0
 PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Mixed Team Relay · UCI Worlds
+X-WR-CALNAME:Mixed team relay · UCI Worlds
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:uciworlds-20270902-mixed-team-relay@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270902
-DTEND;VALUE=DATE:20270903
-SUMMARY:UCI WORLDS | Mixed Team Relay
-DESCRIPTION:Mixed Team Relay · UCI Road World Championships
+UID:uciworlds-20260922-mixed-team-relay@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:UCI WORLDS | Mixed team relay
+DESCRIPTION:Mixed team relay · UCI Road World Championships
 END:VEVENT
 END:VCALENDAR

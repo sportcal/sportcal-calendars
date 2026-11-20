@@ -4,19 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Amstel Gold Race · One-Day Races
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:oneday-20270418-amstel-gold-race-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
+UID:oneday-20260419-amstel-gold-race-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
 SUMMARY:ONE-DAY RACES | Amstel Gold Race
-DESCRIPTION:Amstel Gold Race\nMarkt NED · One-Day Races
+DESCRIPTION:Amstel Gold Race · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270418-amstel-gold-race@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
+UID:oneday-20260419-amstel-gold-race@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
 SUMMARY:Amstel Gold Race · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races

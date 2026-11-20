@@ -4,20 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Vuelta a Burgos Feminas · Women's Stage Races
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:stageracesf-20270506-vuelta-a-burgos-feminas-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270506
-DTEND;VALUE=DATE:20270507
+UID:stageracesf-20260521-vuelta-a-burgos-feminas-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
 SUMMARY:WOMEN'S STAGE RACES | Vuelta a Burgos Feminas
-DESCRIPTION:Vuelta a Burgos Feminas\nProvincia de Burgos ESP · Women's Sta
- ge Races
+DESCRIPTION:Vuelta a Burgos Feminas · Women's Stage Races
 END:VEVENT
 BEGIN:VEVENT
-UID:stageracesf-20270506-vuelta-a-burgos-feminas@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270506
-DTEND;VALUE=DATE:20270507
+UID:stageracesf-20260521-vuelta-a-burgos-feminas@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
 SUMMARY:Vuelta a Burgos Feminas · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Women's Stage Races

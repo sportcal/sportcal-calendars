@@ -4,19 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Copenhagen Sprint · One-Day Races
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:oneday-20270613-copenhagen-sprint-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+UID:oneday-20260614-copenhagen-sprint-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
 SUMMARY:ONE-DAY RACES | Copenhagen Sprint
-DESCRIPTION:Copenhagen Sprint\nKøbenhavn DEN · One-Day Races
+DESCRIPTION:Copenhagen Sprint · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270613-copenhagen-sprint@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+UID:oneday-20260614-copenhagen-sprint@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
 SUMMARY:Copenhagen Sprint · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races

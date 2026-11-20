@@ -4,19 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Tour de France · Grans Voltes
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:grandtours-20270702-tour-de-france-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270702
-DTEND;VALUE=DATE:20270703
+UID:grandtours-20260704-tour-de-france-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
 SUMMARY:GRANS VOLTES | Tour de France
-DESCRIPTION:Tour de France\nA DEFINIR FRA · Grans Voltes
+DESCRIPTION:Tour de France · Grans Voltes
 END:VEVENT
 BEGIN:VEVENT
-UID:grandtours-20270702-tour-de-france@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270702
-DTEND;VALUE=DATE:20270703
+UID:grandtours-20260704-tour-de-france@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
 SUMMARY:Tour de France · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Grans Voltes

@@ -4,19 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Tour de France · Stage Races
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:stageraces-20270702-tour-de-france-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270702
-DTEND;VALUE=DATE:20270703
+UID:stageraces-20260704-tour-de-france-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
 SUMMARY:STAGE RACES | Tour de France
-DESCRIPTION:Tour de France\nA DEFINIR FRA · Stage Races
+DESCRIPTION:Tour de France · Stage Races
 END:VEVENT
 BEGIN:VEVENT
-UID:stageraces-20270702-tour-de-france@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270702
-DTEND;VALUE=DATE:20270703
+UID:stageraces-20260704-tour-de-france@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
 SUMMARY:Tour de France · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Stage Races

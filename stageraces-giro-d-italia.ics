@@ -4,19 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Giro d'Italia · Stage Races
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:stageraces-20270508-giro-d-italia-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+UID:stageraces-20260508-giro-d-italia-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
 SUMMARY:STAGE RACES | Giro d'Italia
-DESCRIPTION:Giro d'Italia\nItalia ITA · Stage Races
+DESCRIPTION:Giro d'Italia · Stage Races
 END:VEVENT
 BEGIN:VEVENT
-UID:stageraces-20270508-giro-d-italia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+UID:stageraces-20260508-giro-d-italia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
 SUMMARY:Giro d'Italia · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Stage Races

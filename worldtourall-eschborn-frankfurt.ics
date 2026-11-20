@@ -3,22 +3,23 @@ VERSION:2.0
 PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Eschborn-Frankfurt · WorldTour
+X-WR-CALNAME:Eschborn–Frankfurt · WorldTour
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:worldtourall-20270501-eschborn-frankfurt-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
-SUMMARY:WORLDTOUR | Eschborn-Frankfurt
-DESCRIPTION:Eschborn-Frankfurt\nFrancfort-sur-le-Main GER · WorldTour — 
- All Races
+UID:worldtourall-20260501-eschborn-frankfurt-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:WORLDTOUR | Eschborn–Frankfurt
+DESCRIPTION:Eschborn–Frankfurt · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270501-eschborn-frankfurt@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
-SUMMARY:Eschborn-Frankfurt · TBD
+UID:worldtourall-20260501-eschborn-frankfurt@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Eschborn–Frankfurt · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT

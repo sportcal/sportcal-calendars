@@ -4,19 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Grand Prix Cycliste de Québec · One-Day Races
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:oneday-20270910-grand-prix-cycliste-de-quebec-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
+UID:oneday-20260911-grand-prix-cycliste-de-quebec-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
 SUMMARY:ONE-DAY RACES | Grand Prix Cycliste de Québec
-DESCRIPTION:Grand Prix Cycliste de Québec\nQuébec CAN · One-Day Races
+DESCRIPTION:Grand Prix Cycliste de Québec · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270910-grand-prix-cycliste-de-quebec@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
+UID:oneday-20260911-grand-prix-cycliste-de-quebec@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
 SUMMARY:Grand Prix Cycliste de Québec · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races

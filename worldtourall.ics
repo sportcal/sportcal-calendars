@@ -4,635 +4,616 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:WorldTour — All Races
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:worldtourall-20270119-santos-tour-down-under-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-SUMMARY:WORLDTOUR | Santos Tour Down Under
-DESCRIPTION:Santos Tour Down Under\nVictoria Square / Tarntanyangga AUS · 
- WorldTour — All Races
+UID:worldtourall-20260120-tour-down-under-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:WORLDTOUR | Tour Down Under
+DESCRIPTION:Tour Down Under · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270119-santos-tour-down-under@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-SUMMARY:Santos Tour Down Under · TBD
+UID:worldtourall-20260120-tour-down-under@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Tour Down Under · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270131-mapei-cadel-evans-great-ocean-road-race-men-dia@s
- portcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
-SUMMARY:WORLDTOUR | Mapei Cadel Evans Great Ocean Road Race - Men
-DESCRIPTION:Mapei Cadel Evans Great Ocean Road Race - Men\nGeelong Waterfro
- nt AUS · WorldTour — All Races
+UID:worldtourall-20260201-cadel-evans-great-ocean-road-race-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:WORLDTOUR | Cadel Evans Great Ocean Road Race
+DESCRIPTION:Cadel Evans Great Ocean Road Race · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270131-mapei-cadel-evans-great-ocean-road-race-men@sport
- cal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
-SUMMARY:Mapei Cadel Evans Great Ocean Road Race - Men · TBD
+UID:worldtourall-20260201-cadel-evans-great-ocean-road-race@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Cadel Evans Great Ocean Road Race · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270215-uae-tour-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270215
-DTEND;VALUE=DATE:20270216
+UID:worldtourall-20260216-uae-tour-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
 SUMMARY:WORLDTOUR | UAE Tour
-DESCRIPTION:UAE Tour\nAbu Dhabi UAE · WorldTour — All Races
+DESCRIPTION:UAE Tour · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270215-uae-tour@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270215
-DTEND;VALUE=DATE:20270216
+UID:worldtourall-20260216-uae-tour@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
 SUMMARY:UAE Tour · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270227-omloop-nieuwsblad-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-SUMMARY:WORLDTOUR | Omloop Nieuwsblad
-DESCRIPTION:Omloop Nieuwsblad\nCitadelpark BEL · WorldTour — All Races
+UID:worldtourall-20260228-omloop-het-nieuwsblad-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:WORLDTOUR | Omloop Het Nieuwsblad
+DESCRIPTION:Omloop Het Nieuwsblad · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270227-omloop-nieuwsblad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-SUMMARY:Omloop Nieuwsblad · TBD
+UID:worldtourall-20260228-omloop-het-nieuwsblad@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Omloop Het Nieuwsblad · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270306-strade-bianche-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
+UID:worldtourall-20260307-strade-bianche-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
 SUMMARY:WORLDTOUR | Strade Bianche
-DESCRIPTION:Strade Bianche\nSiena ITA · WorldTour — All Races
+DESCRIPTION:Strade Bianche · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270306-strade-bianche@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
+UID:worldtourall-20260307-strade-bianche@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
 SUMMARY:Strade Bianche · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270307-paris-nice-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270308
-SUMMARY:WORLDTOUR | Paris-Nice
-DESCRIPTION:Paris-Nice\nA CONFIRMER FRA · WorldTour — All Races
+UID:worldtourall-20260308-paris-nice-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:WORLDTOUR | Paris–Nice
+DESCRIPTION:Paris–Nice · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270307-paris-nice@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270308
-SUMMARY:Paris-Nice · TBD
+UID:worldtourall-20260308-paris-nice@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Paris–Nice · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270308-tirreno-adriatico-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270309
-SUMMARY:WORLDTOUR | Tirreno-Adriatico
-DESCRIPTION:Tirreno-Adriatico\nItalia ITA · WorldTour — All Races
+UID:worldtourall-20260309-tirreno-adriatico-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:WORLDTOUR | Tirreno–Adriatico
+DESCRIPTION:Tirreno–Adriatico · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270308-tirreno-adriatico@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270309
-SUMMARY:Tirreno-Adriatico · TBD
+UID:worldtourall-20260309-tirreno-adriatico@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Tirreno–Adriatico · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270320-milano-sanremo-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
-SUMMARY:WORLDTOUR | Milano-Sanremo
-DESCRIPTION:Milano-Sanremo\nSanremo ITA · WorldTour — All Races
+UID:worldtourall-20260321-milan-san-remo-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:WORLDTOUR | Milan–San Remo
+DESCRIPTION:Milan–San Remo · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270320-milano-sanremo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
-SUMMARY:Milano-Sanremo · TBD
+UID:worldtourall-20260321-milan-san-remo@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Milan–San Remo · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270322-volta-ciclista-a-catalunya-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
-SUMMARY:WORLDTOUR | Volta Ciclista a Catalunya
-DESCRIPTION:Volta Ciclista a Catalunya\nTBC ESP · WorldTour — All Races
+UID:worldtourall-20260323-volta-a-catalunya-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:WORLDTOUR | Volta a Catalunya
+DESCRIPTION:Volta a Catalunya · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270322-volta-ciclista-a-catalunya@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
-SUMMARY:Volta Ciclista a Catalunya · TBD
+UID:worldtourall-20260323-volta-a-catalunya@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Volta a Catalunya · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270324-ronde-van-brugge-tour-of-bruges-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-SUMMARY:WORLDTOUR | Ronde Van Brugge - Tour of Bruges
-DESCRIPTION:Ronde Van Brugge - Tour of Bruges\nBrugge BEL · WorldTour — 
- All Races
+UID:worldtourall-20260325-tour-of-bruges-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:WORLDTOUR | Tour of Bruges
+DESCRIPTION:Tour of Bruges · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270324-ronde-van-brugge-tour-of-bruges@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-SUMMARY:Ronde Van Brugge - Tour of Bruges · TBD
+UID:worldtourall-20260325-tour-of-bruges@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:Tour of Bruges · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270326-e3-saxo-classic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
+UID:worldtourall-20260327-e3-saxo-classic-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
 SUMMARY:WORLDTOUR | E3 Saxo Classic
-DESCRIPTION:E3 Saxo Classic\nStasegemsesteenweg 93 BEL · WorldTour — All
-  Races
+DESCRIPTION:E3 Saxo Classic · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270326-e3-saxo-classic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
+UID:worldtourall-20260327-e3-saxo-classic@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
 SUMMARY:E3 Saxo Classic · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270328-in-flanders-fields-middelkerke-wevelgem-dia@sport
- cal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
-SUMMARY:WORLDTOUR | In Flanders Fields Middelkerke - Wevelgem
-DESCRIPTION:In Flanders Fields Middelkerke - Wevelgem\nMiddelkerke BEL · W
- orldTour — All Races
+UID:worldtourall-20260329-gent-wevelgem-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:WORLDTOUR | Gent–Wevelgem
+DESCRIPTION:Gent–Wevelgem · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270328-in-flanders-fields-middelkerke-wevelgem@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
-SUMMARY:In Flanders Fields Middelkerke - Wevelgem · TBD
+UID:worldtourall-20260329-gent-wevelgem@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:Gent–Wevelgem · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270331-dwars-door-vlaanderen-a-travers-la-flandre-dia@sp
- ortcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-SUMMARY:WORLDTOUR | Dwars door Vlaanderen - A travers la Flandre
-DESCRIPTION:Dwars door Vlaanderen - A travers la Flandre\nVerbindingsweg BE
- L · WorldTour — All Races
+UID:worldtourall-20260401-dwars-door-vlaanderen-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:WORLDTOUR | Dwars door Vlaanderen
+DESCRIPTION:Dwars door Vlaanderen · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270331-dwars-door-vlaanderen-a-travers-la-flandre@sportc
- al
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-SUMMARY:Dwars door Vlaanderen - A travers la Flandre · TBD
+UID:worldtourall-20260401-dwars-door-vlaanderen@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Dwars door Vlaanderen · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270404-ronde-van-vlaanderen-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
-SUMMARY:WORLDTOUR | Ronde van Vlaanderen
-DESCRIPTION:Ronde van Vlaanderen\nMarkt BEL · WorldTour — All Races
+UID:worldtourall-20260405-tour-of-flanders-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:WORLDTOUR | Tour of Flanders
+DESCRIPTION:Tour of Flanders · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270404-ronde-van-vlaanderen@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
-SUMMARY:Ronde van Vlaanderen · TBD
+UID:worldtourall-20260405-tour-of-flanders@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Tour of Flanders · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270405-itzulia-basque-country-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270405
-DTEND;VALUE=DATE:20270406
-SUMMARY:WORLDTOUR | Itzulia Basque Country
-DESCRIPTION:Itzulia Basque Country\nPaís Vasco ESP · WorldTour — All Ra
- ces
+UID:worldtourall-20260406-tour-of-the-basque-country-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:WORLDTOUR | Tour of the Basque Country
+DESCRIPTION:Tour of the Basque Country · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270405-itzulia-basque-country@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270405
-DTEND;VALUE=DATE:20270406
-SUMMARY:Itzulia Basque Country · TBD
+UID:worldtourall-20260406-tour-of-the-basque-country@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Tour of the Basque Country · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270411-paris-roubaix-hauts-de-france-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
-SUMMARY:WORLDTOUR | Paris-Roubaix Hauts-de-France
-DESCRIPTION:Paris-Roubaix Hauts-de-France\nVélodrome  FRA · WorldTour —
-  All Races
+UID:worldtourall-20260412-paris-roubaix-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:WORLDTOUR | Paris–Roubaix
+DESCRIPTION:Paris–Roubaix · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270411-paris-roubaix-hauts-de-france@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
-SUMMARY:Paris-Roubaix Hauts-de-France · TBD
+UID:worldtourall-20260412-paris-roubaix@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Paris–Roubaix · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270418-amstel-gold-race-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
+UID:worldtourall-20260419-amstel-gold-race-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
 SUMMARY:WORLDTOUR | Amstel Gold Race
-DESCRIPTION:Amstel Gold Race\nMarkt NED · WorldTour — All Races
+DESCRIPTION:Amstel Gold Race · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270418-amstel-gold-race@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
+UID:worldtourall-20260419-amstel-gold-race@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
 SUMMARY:Amstel Gold Race · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270421-la-fleche-wallonne-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
+UID:worldtourall-20260422-la-fleche-wallonne-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
 SUMMARY:WORLDTOUR | La Flèche Wallonne
-DESCRIPTION:La Flèche Wallonne\nA DETERMINER BEL · WorldTour — All Race
- s
+DESCRIPTION:La Flèche Wallonne · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270421-la-fleche-wallonne@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
+UID:worldtourall-20260422-la-fleche-wallonne@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
 SUMMARY:La Flèche Wallonne · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270425-liege-bastogne-liege-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
-SUMMARY:WORLDTOUR | Liège-Bastogne-Liège
-DESCRIPTION:Liège-Bastogne-Liège\nLiège BEL · WorldTour — All Races
+UID:worldtourall-20260426-liege-bastogne-liege-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:WORLDTOUR | Liège–Bastogne–Liège
+DESCRIPTION:Liège–Bastogne–Liège · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270425-liege-bastogne-liege@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
-SUMMARY:Liège-Bastogne-Liège · TBD
+UID:worldtourall-20260426-liege-bastogne-liege@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Liège–Bastogne–Liège · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270427-tour-de-romandie-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270428
+UID:worldtourall-20260428-tour-de-romandie-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
 SUMMARY:WORLDTOUR | Tour de Romandie
-DESCRIPTION:Tour de Romandie\nSuisse Romande SUI · WorldTour — All Races
+DESCRIPTION:Tour de Romandie · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270427-tour-de-romandie@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270428
+UID:worldtourall-20260428-tour-de-romandie@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
 SUMMARY:Tour de Romandie · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270501-eschborn-frankfurt-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
-SUMMARY:WORLDTOUR | Eschborn-Frankfurt
-DESCRIPTION:Eschborn-Frankfurt\nFrancfort-sur-le-Main GER · WorldTour — 
- All Races
+UID:worldtourall-20260501-eschborn-frankfurt-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:WORLDTOUR | Eschborn–Frankfurt
+DESCRIPTION:Eschborn–Frankfurt · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270501-eschborn-frankfurt@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
-SUMMARY:Eschborn-Frankfurt · TBD
+UID:worldtourall-20260501-eschborn-frankfurt@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Eschborn–Frankfurt · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270508-giro-d-italia-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+UID:worldtourall-20260508-giro-d-italia-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
 SUMMARY:WORLDTOUR | Giro d'Italia
-DESCRIPTION:Giro d'Italia\nItalia ITA · WorldTour — All Races
+DESCRIPTION:Giro d'Italia · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270508-giro-d-italia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+UID:worldtourall-20260508-giro-d-italia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
 SUMMARY:Giro d'Italia · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270606-tour-auvergne-rhone-alpes-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270606
-DTEND;VALUE=DATE:20270607
-SUMMARY:WORLDTOUR | Tour Auvergne - Rhône-Alpes
-DESCRIPTION:Tour Auvergne - Rhône-Alpes\nA DETERMINER FRA · WorldTour —
-  All Races
+UID:worldtourall-20260607-tour-auvergne-rhone-alpes-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:WORLDTOUR | Tour Auvergne-Rhône-Alpes
+DESCRIPTION:Tour Auvergne-Rhône-Alpes · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270606-tour-auvergne-rhone-alpes@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270606
-DTEND;VALUE=DATE:20270607
-SUMMARY:Tour Auvergne - Rhône-Alpes · TBD
+UID:worldtourall-20260607-tour-auvergne-rhone-alpes@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Tour Auvergne-Rhône-Alpes · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270613-copenhagen-sprint-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+UID:worldtourall-20260614-copenhagen-sprint-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
 SUMMARY:WORLDTOUR | Copenhagen Sprint
-DESCRIPTION:Copenhagen Sprint\nKøbenhavn DEN · WorldTour — All Races
+DESCRIPTION:Copenhagen Sprint · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270613-copenhagen-sprint@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+UID:worldtourall-20260614-copenhagen-sprint@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
 SUMMARY:Copenhagen Sprint · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270616-tour-de-suisse-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270617
+UID:worldtourall-20260617-tour-de-suisse-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
 SUMMARY:WORLDTOUR | Tour de Suisse
-DESCRIPTION:Tour de Suisse\nVaduz SUI · WorldTour — All Races
+DESCRIPTION:Tour de Suisse · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270616-tour-de-suisse@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270617
+UID:worldtourall-20260617-tour-de-suisse@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
 SUMMARY:Tour de Suisse · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270702-tour-de-france-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270702
-DTEND;VALUE=DATE:20270703
+UID:worldtourall-20260704-tour-de-france-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
 SUMMARY:WORLDTOUR | Tour de France
-DESCRIPTION:Tour de France\nA DEFINIR FRA · WorldTour — All Races
+DESCRIPTION:Tour de France · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270702-tour-de-france@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270702
-DTEND;VALUE=DATE:20270703
+UID:worldtourall-20260704-tour-de-france@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
 SUMMARY:Tour de France · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270731-dssk-donostia-san-sebastian-klasikoa-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270801
-SUMMARY:WORLDTOUR | DSSK (Donostia San Sebastian Klasikoa)
-DESCRIPTION:DSSK (Donostia San Sebastian Klasikoa)\nPaís Vasco ESP · Worl
- dTour — All Races
+UID:worldtourall-20260801-clasica-de-san-sebastian-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:WORLDTOUR | Clásica de San Sebastián
+DESCRIPTION:Clásica de San Sebastián · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270731-dssk-donostia-san-sebastian-klasikoa@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270801
-SUMMARY:DSSK (Donostia San Sebastian Klasikoa) · TBD
+UID:worldtourall-20260801-clasica-de-san-sebastian@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Clásica de San Sebastián · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270802-tour-de-pologne-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270803
+UID:worldtourall-20260803-tour-de-pologne-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
 SUMMARY:WORLDTOUR | Tour de Pologne
-DESCRIPTION:Tour de Pologne\nPoland POL · WorldTour — All Races
+DESCRIPTION:Tour de Pologne · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270802-tour-de-pologne@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270803
+UID:worldtourall-20260803-tour-de-pologne@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
 SUMMARY:Tour de Pologne · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270815-adac-cyclassics-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270815
-DTEND;VALUE=DATE:20270816
-SUMMARY:WORLDTOUR | ADAC Cyclassics
-DESCRIPTION:ADAC Cyclassics\nHambourg GER · WorldTour — All Races
+UID:worldtourall-20260816-hamburg-cyclassics-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:WORLDTOUR | Hamburg Cyclassics
+DESCRIPTION:Hamburg Cyclassics · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270815-adac-cyclassics@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270815
-DTEND;VALUE=DATE:20270816
-SUMMARY:ADAC Cyclassics · TBD
+UID:worldtourall-20260816-hamburg-cyclassics@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Hamburg Cyclassics · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270818-renewi-tour-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270819
+UID:worldtourall-20260819-renewi-tour-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
 SUMMARY:WORLDTOUR | Renewi Tour
-DESCRIPTION:Renewi Tour\nBeringen BEL · WorldTour — All Races
+DESCRIPTION:Renewi Tour · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270818-renewi-tour@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270819
+UID:worldtourall-20260819-renewi-tour@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
 SUMMARY:Renewi Tour · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270822-bretagne-classic-cic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270823
-SUMMARY:WORLDTOUR | Bretagne Classic - CIC
-DESCRIPTION:Bretagne Classic - CIC\nPlouay FRA · WorldTour — All Races
+UID:worldtourall-20260822-vuelta-a-espana-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:WORLDTOUR | Vuelta a España
+DESCRIPTION:Vuelta a España · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270822-bretagne-classic-cic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270823
-SUMMARY:Bretagne Classic - CIC · TBD
+UID:worldtourall-20260822-vuelta-a-espana@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Vuelta a España · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270904-la-vuelta-ciclista-a-espana-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270904
-DTEND;VALUE=DATE:20270905
-SUMMARY:WORLDTOUR | La Vuelta Ciclista a España
-DESCRIPTION:La Vuelta Ciclista a España\nMadrid ESP · WorldTour — All R
- aces
+UID:worldtourall-20260830-bretagne-classic-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:WORLDTOUR | Bretagne Classic
+DESCRIPTION:Bretagne Classic · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270904-la-vuelta-ciclista-a-espana@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270904
-DTEND;VALUE=DATE:20270905
-SUMMARY:La Vuelta Ciclista a España · TBD
+UID:worldtourall-20260830-bretagne-classic@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Bretagne Classic · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270910-grand-prix-cycliste-de-quebec-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
+UID:worldtourall-20260911-grand-prix-cycliste-de-quebec-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
 SUMMARY:WORLDTOUR | Grand Prix Cycliste de Québec
-DESCRIPTION:Grand Prix Cycliste de Québec\nQuébec CAN · WorldTour — Al
- l Races
+DESCRIPTION:Grand Prix Cycliste de Québec · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270910-grand-prix-cycliste-de-quebec@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
+UID:worldtourall-20260911-grand-prix-cycliste-de-quebec@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
 SUMMARY:Grand Prix Cycliste de Québec · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270912-grand-prix-cycliste-de-montreal-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
+UID:worldtourall-20260913-grand-prix-cycliste-de-montreal-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
 SUMMARY:WORLDTOUR | Grand Prix Cycliste de Montréal
-DESCRIPTION:Grand Prix Cycliste de Montréal\nMontréal CAN · WorldTour 
- — All Races
+DESCRIPTION:Grand Prix Cycliste de Montréal · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270912-grand-prix-cycliste-de-montreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
+UID:worldtourall-20260913-grand-prix-cycliste-de-montreal@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
 SUMMARY:Grand Prix Cycliste de Montréal · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20271009-il-lombardia-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271009
-DTEND;VALUE=DATE:20271010
+UID:worldtourall-20261010-il-lombardia-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
 SUMMARY:WORLDTOUR | Il Lombardia
-DESCRIPTION:Il Lombardia\nLombardia ITA · WorldTour — All Races
+DESCRIPTION:Il Lombardia · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20271009-il-lombardia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271009
-DTEND;VALUE=DATE:20271010
+UID:worldtourall-20261010-il-lombardia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
 SUMMARY:Il Lombardia · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20271012-tour-of-guangxi-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271012
-DTEND;VALUE=DATE:20271013
+UID:worldtourall-20261013-tour-of-guangxi-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:WORLDTOUR | Tour of Guangxi
-DESCRIPTION:Tour of Guangxi\nGuangxi Zhuang Autonomous Region CHN · WorldT
- our — All Races
+DESCRIPTION:Tour of Guangxi · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20271012-tour-of-guangxi@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271012
-DTEND;VALUE=DATE:20271013
+UID:worldtourall-20261013-tour-of-guangxi@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:Tour of Guangxi · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races

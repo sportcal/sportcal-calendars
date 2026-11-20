@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Men's time trial · UCI Worlds
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:uciworlds-20260920-men-s-time-trial@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:UCI WORLDS | Men's time trial
+DESCRIPTION:Men's time trial · UCI Road World Championships
+END:VEVENT
+END:VCALENDAR

@@ -4,20 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:La Flèche Wallonne Femmes · WorldTour F
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:worldtourallf-20270421-la-fleche-wallonne-femmes-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
+UID:worldtourallf-20260422-la-fleche-wallonne-femmes-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
 SUMMARY:WORLDTOUR F | La Flèche Wallonne Femmes
-DESCRIPTION:La Flèche Wallonne Femmes\nHuy BEL · Women's WorldTour — Al
- l Races
+DESCRIPTION:La Flèche Wallonne Femmes · Women's WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourallf-20270421-la-fleche-wallonne-femmes@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
+UID:worldtourallf-20260422-la-fleche-wallonne-femmes@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
 SUMMARY:La Flèche Wallonne Femmes · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · Women's WorldTour — All Races

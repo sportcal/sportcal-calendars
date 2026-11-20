@@ -4,19 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Copenhagen Sprint · WorldTour
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:worldtourall-20270613-copenhagen-sprint-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+UID:worldtourall-20260614-copenhagen-sprint-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
 SUMMARY:WORLDTOUR | Copenhagen Sprint
-DESCRIPTION:Copenhagen Sprint\nKøbenhavn DEN · WorldTour — All Races
+DESCRIPTION:Copenhagen Sprint · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270613-copenhagen-sprint@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+UID:worldtourall-20260614-copenhagen-sprint@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
 SUMMARY:Copenhagen Sprint · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races

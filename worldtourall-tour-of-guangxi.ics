@@ -4,20 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Tour of Guangxi · WorldTour
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:worldtourall-20271012-tour-of-guangxi-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271012
-DTEND;VALUE=DATE:20271013
+UID:worldtourall-20261013-tour-of-guangxi-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:WORLDTOUR | Tour of Guangxi
-DESCRIPTION:Tour of Guangxi\nGuangxi Zhuang Autonomous Region CHN · WorldT
- our — All Races
+DESCRIPTION:Tour of Guangxi · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20271012-tour-of-guangxi@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271012
-DTEND;VALUE=DATE:20271013
+UID:worldtourall-20261013-tour-of-guangxi@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:Tour of Guangxi · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races

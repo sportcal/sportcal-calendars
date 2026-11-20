@@ -4,938 +4,362 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:One-Day Races
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:oneday-20270128-surf-coast-classic-men-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270129
-SUMMARY:ONE-DAY RACES | Surf Coast Classic - Men
-DESCRIPTION:Surf Coast Classic - Men\nLorne Beach AUS · One-Day Races
+UID:oneday-20260201-cadel-evans-great-ocean-road-race-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:ONE-DAY RACES | Cadel Evans Great Ocean Road Race
+DESCRIPTION:Cadel Evans Great Ocean Road Race · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270128-surf-coast-classic-men@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270129
-SUMMARY:Surf Coast Classic - Men · TBD
+UID:oneday-20260201-cadel-evans-great-ocean-road-race@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Cadel Evans Great Ocean Road Race · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270131-mapei-cadel-evans-great-ocean-road-race-men-dia@sportca
- l
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
-SUMMARY:ONE-DAY RACES | Mapei Cadel Evans Great Ocean Road Race - Men
-DESCRIPTION:Mapei Cadel Evans Great Ocean Road Race - Men\nGeelong Waterfro
- nt AUS · One-Day Races
+UID:oneday-20260228-omloop-het-nieuwsblad-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:ONE-DAY RACES | Omloop Het Nieuwsblad
+DESCRIPTION:Omloop Het Nieuwsblad · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270131-mapei-cadel-evans-great-ocean-road-race-men@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
-SUMMARY:Mapei Cadel Evans Great Ocean Road Race - Men · TBD
+UID:oneday-20260228-omloop-het-nieuwsblad@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Omloop Het Nieuwsblad · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270213-figueira-champions-classic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
-SUMMARY:ONE-DAY RACES | Figueira Champions Classic
-DESCRIPTION:Figueira Champions Classic\nFigueira da Foz POR · One-Day Race
- s
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270213-figueira-champions-classic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
-SUMMARY:Figueira Champions Classic · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270214-clasica-de-almeria-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270214
-DTEND;VALUE=DATE:20270215
-SUMMARY:ONE-DAY RACES | Clasica de Almeria
-DESCRIPTION:Clasica de Almeria\nRoquetas de Mar ESP · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270214-clasica-de-almeria@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270214
-DTEND;VALUE=DATE:20270215
-SUMMARY:Clasica de Almeria · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270227-omloop-nieuwsblad-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-SUMMARY:ONE-DAY RACES | Omloop Nieuwsblad
-DESCRIPTION:Omloop Nieuwsblad\nCitadelpark BEL · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270227-omloop-nieuwsblad@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-SUMMARY:Omloop Nieuwsblad · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270227-faun-ardeche-classic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-SUMMARY:ONE-DAY RACES | Faun-Ardèche Classic
-DESCRIPTION:Faun-Ardèche Classic\nGuilherand-Granges FRA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270227-faun-ardeche-classic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-SUMMARY:Faun-Ardèche Classic · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270228-faun-drome-classic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-SUMMARY:ONE-DAY RACES | Faun Drome Classic
-DESCRIPTION:Faun Drome Classic\nÉtoile-sur-Rhône FRA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270228-faun-drome-classic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-SUMMARY:Faun Drome Classic · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270228-kuurne-brussel-kuurne-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-SUMMARY:ONE-DAY RACES | Kuurne - Brussel - Kuurne
-DESCRIPTION:Kuurne - Brussel - Kuurne\nKuurne BEL · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270228-kuurne-brussel-kuurne@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-SUMMARY:Kuurne - Brussel - Kuurne · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270303-trofeo-laigueglia-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270304
-SUMMARY:ONE-DAY RACES | Trofeo Laigueglia
-DESCRIPTION:Trofeo Laigueglia\nLaigueglia ITA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270303-trofeo-laigueglia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270304
-SUMMARY:Trofeo Laigueglia · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270306-strade-bianche-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
+UID:oneday-20260307-strade-bianche-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
 SUMMARY:ONE-DAY RACES | Strade Bianche
-DESCRIPTION:Strade Bianche\nSiena ITA · One-Day Races
+DESCRIPTION:Strade Bianche · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270306-strade-bianche@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
+UID:oneday-20260307-strade-bianche@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
 SUMMARY:Strade Bianche · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270317-milano-torino-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270318
-SUMMARY:ONE-DAY RACES | Milano - Torino
-DESCRIPTION:Milano - Torino\nTorino ITA · One-Day Races
+UID:oneday-20260321-milan-san-remo-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:ONE-DAY RACES | Milan–San Remo
+DESCRIPTION:Milan–San Remo · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270317-milano-torino@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270318
-SUMMARY:Milano - Torino · TBD
+UID:oneday-20260321-milan-san-remo@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Milan–San Remo · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270317-danilith-nokere-koerse-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270318
-SUMMARY:ONE-DAY RACES | Danilith Nokere Koerse
-DESCRIPTION:Danilith Nokere Koerse\nDanilith Nokere Koerse House BEL · One
- -Day Races
+UID:oneday-20260325-tour-of-bruges-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:ONE-DAY RACES | Tour of Bruges
+DESCRIPTION:Tour of Bruges · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270317-danilith-nokere-koerse@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270318
-SUMMARY:Danilith Nokere Koerse · TBD
+UID:oneday-20260325-tour-of-bruges@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:Tour of Bruges · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270318-grand-prix-de-denain-porte-du-hainaut-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270319
-SUMMARY:ONE-DAY RACES | Grand Prix de Denain - Porte du Hainaut
-DESCRIPTION:Grand Prix de Denain - Porte du Hainaut\nDenain FRA · One-Day 
- Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270318-grand-prix-de-denain-porte-du-hainaut@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270319
-SUMMARY:Grand Prix de Denain - Porte du Hainaut · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270319-bredene-koksijde-classic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270320
-SUMMARY:ONE-DAY RACES | Bredene Koksijde Classic
-DESCRIPTION:Bredene Koksijde Classic\nKoksijde-Bad BEL · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270319-bredene-koksijde-classic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270320
-SUMMARY:Bredene Koksijde Classic · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270320-milano-sanremo-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
-SUMMARY:ONE-DAY RACES | Milano-Sanremo
-DESCRIPTION:Milano-Sanremo\nSanremo ITA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270320-milano-sanremo@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
-SUMMARY:Milano-Sanremo · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270324-ronde-van-brugge-tour-of-bruges-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-SUMMARY:ONE-DAY RACES | Ronde Van Brugge - Tour of Bruges
-DESCRIPTION:Ronde Van Brugge - Tour of Bruges\nBrugge BEL · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270324-ronde-van-brugge-tour-of-bruges@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-SUMMARY:Ronde Van Brugge - Tour of Bruges · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270326-e3-saxo-classic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
+UID:oneday-20260327-e3-saxo-classic-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
 SUMMARY:ONE-DAY RACES | E3 Saxo Classic
-DESCRIPTION:E3 Saxo Classic\nStasegemsesteenweg 93 BEL · One-Day Races
+DESCRIPTION:E3 Saxo Classic · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270326-e3-saxo-classic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
+UID:oneday-20260327-e3-saxo-classic@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
 SUMMARY:E3 Saxo Classic · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270328-in-flanders-fields-middelkerke-wevelgem-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
-SUMMARY:ONE-DAY RACES | In Flanders Fields Middelkerke - Wevelgem
-DESCRIPTION:In Flanders Fields Middelkerke - Wevelgem\nMiddelkerke BEL · O
- ne-Day Races
+UID:oneday-20260329-gent-wevelgem-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:ONE-DAY RACES | Gent–Wevelgem
+DESCRIPTION:Gent–Wevelgem · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270328-in-flanders-fields-middelkerke-wevelgem@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
-SUMMARY:In Flanders Fields Middelkerke - Wevelgem · TBD
+UID:oneday-20260329-gent-wevelgem@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:Gent–Wevelgem · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270331-dwars-door-vlaanderen-a-travers-la-flandre-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-SUMMARY:ONE-DAY RACES | Dwars door Vlaanderen - A travers la Flandre
-DESCRIPTION:Dwars door Vlaanderen - A travers la Flandre\nVerbindingsweg BE
- L · One-Day Races
+UID:oneday-20260401-dwars-door-vlaanderen-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:ONE-DAY RACES | Dwars door Vlaanderen
+DESCRIPTION:Dwars door Vlaanderen · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270331-dwars-door-vlaanderen-a-travers-la-flandre@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-SUMMARY:Dwars door Vlaanderen - A travers la Flandre · TBD
+UID:oneday-20260401-dwars-door-vlaanderen@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Dwars door Vlaanderen · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270403-gran-premio-miguel-indurain-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
-SUMMARY:ONE-DAY RACES | Gran Premio Miguel Indurain
-DESCRIPTION:Gran Premio Miguel Indurain\nEstella-Lizarra ESP · One-Day Rac
- es
+UID:oneday-20260405-tour-of-flanders-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:ONE-DAY RACES | Tour of Flanders
+DESCRIPTION:Tour of Flanders · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270403-gran-premio-miguel-indurain@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
-SUMMARY:Gran Premio Miguel Indurain · TBD
+UID:oneday-20260405-tour-of-flanders@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Tour of Flanders · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270404-ronde-van-vlaanderen-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
-SUMMARY:ONE-DAY RACES | Ronde van Vlaanderen
-DESCRIPTION:Ronde van Vlaanderen\nMarkt BEL · One-Day Races
+UID:oneday-20260412-paris-roubaix-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:ONE-DAY RACES | Paris–Roubaix
+DESCRIPTION:Paris–Roubaix · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270404-ronde-van-vlaanderen@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
-SUMMARY:Ronde van Vlaanderen · TBD
+UID:oneday-20260412-paris-roubaix@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Paris–Roubaix · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270407-scheldeprijs-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
-SUMMARY:ONE-DAY RACES | Scheldeprijs
-DESCRIPTION:Scheldeprijs\nbelgium schoten BEL · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270407-scheldeprijs@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
-SUMMARY:Scheldeprijs · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270411-paris-roubaix-hauts-de-france-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
-SUMMARY:ONE-DAY RACES | Paris-Roubaix Hauts-de-France
-DESCRIPTION:Paris-Roubaix Hauts-de-France\nVélodrome  FRA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270411-paris-roubaix-hauts-de-france@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
-SUMMARY:Paris-Roubaix Hauts-de-France · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270416-de-brabantse-pijl-la-fleche-brabanconne-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
-SUMMARY:ONE-DAY RACES | De Brabantse Pijl - La Flèche Brabançonne
-DESCRIPTION:De Brabantse Pijl - La Flèche Brabançonne\nHuizingen BEL · O
- ne-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270416-de-brabantse-pijl-la-fleche-brabanconne@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
-SUMMARY:De Brabantse Pijl - La Flèche Brabançonne · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270418-amstel-gold-race-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
+UID:oneday-20260419-amstel-gold-race-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
 SUMMARY:ONE-DAY RACES | Amstel Gold Race
-DESCRIPTION:Amstel Gold Race\nMarkt NED · One-Day Races
+DESCRIPTION:Amstel Gold Race · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270418-amstel-gold-race@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
+UID:oneday-20260419-amstel-gold-race@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
 SUMMARY:Amstel Gold Race · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270421-la-fleche-wallonne-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
+UID:oneday-20260422-la-fleche-wallonne-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
 SUMMARY:ONE-DAY RACES | La Flèche Wallonne
-DESCRIPTION:La Flèche Wallonne\nA DETERMINER BEL · One-Day Races
+DESCRIPTION:La Flèche Wallonne · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270421-la-fleche-wallonne@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
+UID:oneday-20260422-la-fleche-wallonne@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
 SUMMARY:La Flèche Wallonne · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270425-liege-bastogne-liege-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
-SUMMARY:ONE-DAY RACES | Liège-Bastogne-Liège
-DESCRIPTION:Liège-Bastogne-Liège\nLiège BEL · One-Day Races
+UID:oneday-20260426-liege-bastogne-liege-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:ONE-DAY RACES | Liège–Bastogne–Liège
+DESCRIPTION:Liège–Bastogne–Liège · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270425-liege-bastogne-liege@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
-SUMMARY:Liège-Bastogne-Liège · TBD
+UID:oneday-20260426-liege-bastogne-liege@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Liège–Bastogne–Liège · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270501-eschborn-frankfurt-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
-SUMMARY:ONE-DAY RACES | Eschborn-Frankfurt
-DESCRIPTION:Eschborn-Frankfurt\nFrancfort-sur-le-Main GER · One-Day Races
+UID:oneday-20260501-eschborn-frankfurt-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:ONE-DAY RACES | Eschborn–Frankfurt
+DESCRIPTION:Eschborn–Frankfurt · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270501-eschborn-frankfurt@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
-SUMMARY:Eschborn-Frankfurt · TBD
+UID:oneday-20260501-eschborn-frankfurt@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Eschborn–Frankfurt · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270508-grand-prix-du-morbihan-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:ONE-DAY RACES | Grand Prix du Morbihan
-DESCRIPTION:Grand Prix du Morbihan\nPlumelec FRA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270508-grand-prix-du-morbihan@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:Grand Prix du Morbihan · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270509-tro-bro-leon-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-SUMMARY:ONE-DAY RACES | Tro-Bro Léon
-DESCRIPTION:Tro-Bro Léon\nLannilis FRA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270509-tro-bro-leon@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-SUMMARY:Tro-Bro Léon · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270518-classique-dunkerque-hauts-de-france-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270519
-SUMMARY:ONE-DAY RACES | Classique Dunkerque Hauts de France
-DESCRIPTION:Classique Dunkerque Hauts de France\nDunkerque FRA · One-Day R
- aces
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270518-classique-dunkerque-hauts-de-france@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270519
-SUMMARY:Classique Dunkerque Hauts de France · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270606-brussels-cycling-classic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270606
-DTEND;VALUE=DATE:20270607
-SUMMARY:ONE-DAY RACES | Brussels Cycling Classic
-DESCRIPTION:Brussels Cycling Classic\nParc du Cinquantenaire BEL · One-Day
-  Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270606-brussels-cycling-classic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270606
-DTEND;VALUE=DATE:20270607
-SUMMARY:Brussels Cycling Classic · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270609-circuit-franco-belge-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270610
-SUMMARY:ONE-DAY RACES | Circuit Franco-Belge
-DESCRIPTION:Circuit Franco-Belge\nMont de l'Enclus BEL · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270609-circuit-franco-belge@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270610
-SUMMARY:Circuit Franco-Belge · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270613-copenhagen-sprint-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+UID:oneday-20260614-copenhagen-sprint-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
 SUMMARY:ONE-DAY RACES | Copenhagen Sprint
-DESCRIPTION:Copenhagen Sprint\nKøbenhavn DEN · One-Day Races
+DESCRIPTION:Copenhagen Sprint · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270613-copenhagen-sprint@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+UID:oneday-20260614-copenhagen-sprint@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
 SUMMARY:Copenhagen Sprint · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270731-dssk-donostia-san-sebastian-klasikoa-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270801
-SUMMARY:ONE-DAY RACES | DSSK (Donostia San Sebastian Klasikoa)
-DESCRIPTION:DSSK (Donostia San Sebastian Klasikoa)\nPaís Vasco ESP · One-
- Day Races
+UID:oneday-20260801-clasica-de-san-sebastian-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:ONE-DAY RACES | Clásica de San Sebastián
+DESCRIPTION:Clásica de San Sebastián · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270731-dssk-donostia-san-sebastian-klasikoa@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270801
-SUMMARY:DSSK (Donostia San Sebastian Klasikoa) · TBD
+UID:oneday-20260801-clasica-de-san-sebastian@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Clásica de San Sebastián · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270815-adac-cyclassics-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270815
-DTEND;VALUE=DATE:20270816
-SUMMARY:ONE-DAY RACES | ADAC Cyclassics
-DESCRIPTION:ADAC Cyclassics\nHambourg GER · One-Day Races
+UID:oneday-20260816-hamburg-cyclassics-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:ONE-DAY RACES | Hamburg Cyclassics
+DESCRIPTION:Hamburg Cyclassics · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270815-adac-cyclassics@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270815
-DTEND;VALUE=DATE:20270816
-SUMMARY:ADAC Cyclassics · TBD
+UID:oneday-20260816-hamburg-cyclassics@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Hamburg Cyclassics · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270822-bretagne-classic-cic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270823
-SUMMARY:ONE-DAY RACES | Bretagne Classic - CIC
-DESCRIPTION:Bretagne Classic - CIC\nPlouay FRA · One-Day Races
+UID:oneday-20260830-bretagne-classic-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:ONE-DAY RACES | Bretagne Classic
+DESCRIPTION:Bretagne Classic · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270822-bretagne-classic-cic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270823
-SUMMARY:Bretagne Classic - CIC · TBD
+UID:oneday-20260830-bretagne-classic@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Bretagne Classic · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270910-grand-prix-cycliste-de-quebec-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
+UID:oneday-20260911-grand-prix-cycliste-de-quebec-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
 SUMMARY:ONE-DAY RACES | Grand Prix Cycliste de Québec
-DESCRIPTION:Grand Prix Cycliste de Québec\nQuébec CAN · One-Day Races
+DESCRIPTION:Grand Prix Cycliste de Québec · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270910-grand-prix-cycliste-de-quebec@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
+UID:oneday-20260911-grand-prix-cycliste-de-quebec@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
 SUMMARY:Grand Prix Cycliste de Québec · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270912-grand-prix-cycliste-de-montreal-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
+UID:oneday-20260913-grand-prix-cycliste-de-montreal-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
 SUMMARY:ONE-DAY RACES | Grand Prix Cycliste de Montréal
-DESCRIPTION:Grand Prix Cycliste de Montréal\nMontréal CAN · One-Day Race
- s
+DESCRIPTION:Grand Prix Cycliste de Montréal · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270912-grand-prix-cycliste-de-montreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
+UID:oneday-20260913-grand-prix-cycliste-de-montreal@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
 SUMMARY:Grand Prix Cycliste de Montréal · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20270912-gp-de-fourmies-la-voix-du-nord-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
-SUMMARY:ONE-DAY RACES | GP de Fourmies / La Voix du Nord
-DESCRIPTION:GP de Fourmies / La Voix du Nord\nFourmies FRA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270912-gp-de-fourmies-la-voix-du-nord@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
-SUMMARY:GP de Fourmies / La Voix du Nord · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270915-lotto-grand-prix-de-wallonie-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270916
-SUMMARY:ONE-DAY RACES | Lotto Grand Prix de Wallonie
-DESCRIPTION:Lotto Grand Prix de Wallonie\nTBC BEL · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270915-lotto-grand-prix-de-wallonie@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270916
-SUMMARY:Lotto Grand Prix de Wallonie · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270918-flandrien-0-0-classic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270918
-DTEND;VALUE=DATE:20270919
-SUMMARY:ONE-DAY RACES | Flandrien 0.0 Classic
-DESCRIPTION:Flandrien 0.0 Classic\nFlandrien 0.0 Classic BEL · One-Day Rac
- es
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270918-flandrien-0-0-classic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270918
-DTEND;VALUE=DATE:20270919
-SUMMARY:Flandrien 0.0 Classic · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270926-gp-industria-artigianato-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270926
-DTEND;VALUE=DATE:20270927
-SUMMARY:ONE-DAY RACES | GP Industria & Artigianato
-DESCRIPTION:GP Industria & Artigianato\nLarciano ITA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270926-gp-industria-artigianato@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270926
-DTEND;VALUE=DATE:20270927
-SUMMARY:GP Industria & Artigianato · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270930-gran-premio-citta-di-peccioli-coppa-sabatini-dia@sportc
- al
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270930
-DTEND;VALUE=DATE:20271001
-SUMMARY:ONE-DAY RACES | Gran Premio città di Peccioli - Coppa Sabatini
-DESCRIPTION:Gran Premio città di Peccioli - Coppa Sabatini\nPeccioli ITA 
- · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20270930-gran-premio-citta-di-peccioli-coppa-sabatini@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270930
-DTEND;VALUE=DATE:20271001
-SUMMARY:Gran Premio città di Peccioli - Coppa Sabatini · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271002-giro-dell-emilia-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271002
-DTEND;VALUE=DATE:20271003
-SUMMARY:ONE-DAY RACES | Giro dell'Emilia
-DESCRIPTION:Giro dell'Emilia\nEmilia-Romagna ITA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271002-giro-dell-emilia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271002
-DTEND;VALUE=DATE:20271003
-SUMMARY:Giro dell'Emilia · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271003-sparkassen-munsterland-giro-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271003
-DTEND;VALUE=DATE:20271004
-SUMMARY:ONE-DAY RACES | Sparkassen Münsterland Giro
-DESCRIPTION:Sparkassen Münsterland Giro\nMünster GER · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271003-sparkassen-munsterland-giro@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271003
-DTEND;VALUE=DATE:20271004
-SUMMARY:Sparkassen Münsterland Giro · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271004-coppa-bernocchi-gp-banco-bpm-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271004
-DTEND;VALUE=DATE:20271005
-SUMMARY:ONE-DAY RACES | Coppa Bernocchi - GP Banco BPM
-DESCRIPTION:Coppa Bernocchi - GP Banco BPM\nLegnano ITA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271004-coppa-bernocchi-gp-banco-bpm@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271004
-DTEND;VALUE=DATE:20271005
-SUMMARY:Coppa Bernocchi - GP Banco BPM · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271005-tre-valli-varesine-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271005
-DTEND;VALUE=DATE:20271006
-SUMMARY:ONE-DAY RACES | Tre Valli Varesine
-DESCRIPTION:Tre Valli Varesine\nVarese ITA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271005-tre-valli-varesine@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271005
-DTEND;VALUE=DATE:20271006
-SUMMARY:Tre Valli Varesine · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271007-gran-piemonte-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271007
-DTEND;VALUE=DATE:20271008
-SUMMARY:ONE-DAY RACES | Gran Piemonte
-DESCRIPTION:Gran Piemonte\nPiemonte ITA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271007-gran-piemonte@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271007
-DTEND;VALUE=DATE:20271008
-SUMMARY:Gran Piemonte · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271009-il-lombardia-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271009
-DTEND;VALUE=DATE:20271010
+UID:oneday-20261010-il-lombardia-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
 SUMMARY:ONE-DAY RACES | Il Lombardia
-DESCRIPTION:Il Lombardia\nLombardia ITA · One-Day Races
+DESCRIPTION:Il Lombardia · One-Day Races
 END:VEVENT
 BEGIN:VEVENT
-UID:oneday-20271009-il-lombardia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271009
-DTEND;VALUE=DATE:20271010
+UID:oneday-20261010-il-lombardia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
 SUMMARY:Il Lombardia · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271010-paris-tours-elite-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271010
-DTEND;VALUE=DATE:20271011
-SUMMARY:ONE-DAY RACES | Paris - Tours Elite
-DESCRIPTION:Paris - Tours Elite\nChartres FRA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271010-paris-tours-elite@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271010
-DTEND;VALUE=DATE:20271011
-SUMMARY:Paris - Tours Elite · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271013-giro-del-veneto-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271013
-DTEND;VALUE=DATE:20271014
-SUMMARY:ONE-DAY RACES | Giro del Veneto
-DESCRIPTION:Giro del Veneto\nMarostica ITA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271013-giro-del-veneto@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271013
-DTEND;VALUE=DATE:20271014
-SUMMARY:Giro del Veneto · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271017-utsunomiya-japan-cup-road-race-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271017
-DTEND;VALUE=DATE:20271018
-SUMMARY:ONE-DAY RACES | Utsunomiya Japan Cup Road Race
-DESCRIPTION:Utsunomiya Japan Cup Road Race\nUtsunomiya Forest Park Circuit 
- JPN · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271017-utsunomiya-japan-cup-road-race@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271017
-DTEND;VALUE=DATE:20271018
-SUMMARY:Utsunomiya Japan Cup Road Race · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271017-veneto-classic-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271017
-DTEND;VALUE=DATE:20271018
-SUMMARY:ONE-DAY RACES | Veneto Classic
-DESCRIPTION:Veneto Classic\nMarostica ITA · One-Day Races
-END:VEVENT
-BEGIN:VEVENT
-UID:oneday-20271017-veneto-classic@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20271017
-DTEND;VALUE=DATE:20271018
-SUMMARY:Veneto Classic · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · One-Day Races
 END:VEVENT

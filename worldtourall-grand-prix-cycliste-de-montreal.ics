@@ -4,20 +4,21 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Grand Prix Cycliste de Montréal · WorldTour
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:worldtourall-20270912-grand-prix-cycliste-de-montreal-dia@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
+UID:worldtourall-20260913-grand-prix-cycliste-de-montreal-dia@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
 SUMMARY:WORLDTOUR | Grand Prix Cycliste de Montréal
-DESCRIPTION:Grand Prix Cycliste de Montréal\nMontréal CAN · WorldTour 
- — All Races
+DESCRIPTION:Grand Prix Cycliste de Montréal · WorldTour — All Races
 END:VEVENT
 BEGIN:VEVENT
-UID:worldtourall-20270912-grand-prix-cycliste-de-montreal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
+UID:worldtourall-20260913-grand-prix-cycliste-de-montreal@sportcal
+DTSTAMP:20261120T165948Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
 SUMMARY:Grand Prix Cycliste de Montréal · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · WorldTour — All Races
