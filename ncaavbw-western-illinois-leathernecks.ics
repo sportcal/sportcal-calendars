@@ -5,30 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Western Illinois Leathernecks · NCAA WVB
 BEGIN:VEVENT
-UID:ncaavbw-20261119-western-illinois-leathernecks-lindenwood-lions-dia@spo
- rtcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:WESTERN ILLINOIS LEATHERNECKS | NCAA WVB | J3 | 🏟️ | Lindenwoo
- d Lions 🇺🇸
-DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women Volleybal
- l\nEstadi: Western Hall\, Macomb\, Illinois
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261119-western-illinois-leathernecks-lindenwood-lions@sportca
- l
-DTSTAMP:20261119T093809Z
-DTSTART:20261119T000000Z
-DTEND:20261119T014500Z
-SUMMARY:Western Illinois Leathernecks - Lindenwood Lions
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Western Hall\, Macomb\, Illinois
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaavbw-20261123-lindenwood-lions-western-illinois-leathernecks-dia@spo
  rtcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:WESTERN ILLINOIS LEATHERNECKS | NCAA WVB | J4 | ✈️ | Lindenwood
@@ -39,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261123-lindenwood-lions-western-illinois-leathernecks@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261123T010000Z
 DTEND:20261123T024500Z
 SUMMARY:Lindenwood Lions - Western Illinois Leathernecks

@@ -7,7 +7,7 @@ X-WR-CALNAME:Texas Tech Red Raiders · NCAA WS
 BEGIN:VEVENT
 UID:ncaasoccerw-20261121-texas-tech-red-raiders-abilene-christian-wildcats-
  dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:TEXAS TECH RED RAIDERS | NCAA WS | J1 | 🏟️ | Abilene Christian
@@ -18,11 +18,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerw-20261121-texas-tech-red-raiders-abilene-christian-wildcats@
  sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261121T000000Z
 DTEND:20261121T014500Z
 SUMMARY:Texas Tech Red Raiders - Abilene Christian Wildcats
 DESCRIPTION:NCAA Division I Women Soccer
 LOCATION:John Walker Soccer Complex\, Lubbock\, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261127-texas-tech-red-raiders-villanova-wildcats-dia@spor
+ tcal
+DTSTAMP:20261121T081735Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:TEXAS TECH RED RAIDERS | NCAA WS | J1 | 🏟️ | Villanova Wildcat
+ s 🇺🇸
+DESCRIPTION:Hora pendent de confirmació · NCAA Division I Women Soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerw-20261127-texas-tech-red-raiders-villanova-wildcats@sportcal
+DTSTAMP:20261121T081735Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Texas Tech Red Raiders - Villanova Wildcats · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · NCAA Division I Women Soccer
 END:VEVENT
 END:VCALENDAR

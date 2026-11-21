@@ -5,24 +5,24 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Washington Huskies · NCAA MS
 BEGIN:VEVENT
-UID:ncaasoccerm-20261120-washington-huskies-cleveland-state-vikings-dia@spo
- rtcal
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:WASHINGTON HUSKIES | NCAA MS | J2 | 🏟️ | Cleveland State Vikin
- gs 🇺🇸
-DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I Men Soccer\nEst
- adi: Husky Soccer Stadium\, Seattle\, Washington
+UID:ncaasoccerm-20261122-west-virginia-mountaineers-washington-huskies-dia@
+ sportcal
+DTSTAMP:20261121T081735Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:WASHINGTON HUSKIES | NCAA MS | J2 | ✈️ | West Virginia Mountain
+ eers 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Men Soccer\nEst
+ adi: Dick Dlesk Soccer Stadium\, Morgantown
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerm-20261120-washington-huskies-cleveland-state-vikings@sportca
- l
-DTSTAMP:20261119T093809Z
-DTSTART:20261120T030000Z
-DTEND:20261120T044500Z
-SUMMARY:Washington Huskies - Cleveland State Vikings
+UID:ncaasoccerm-20261122-west-virginia-mountaineers-washington-huskies@spor
+ tcal
+DTSTAMP:20261121T081735Z
+DTSTART:20261122T200000Z
+DTEND:20261122T214500Z
+SUMMARY:West Virginia Mountaineers - Washington Huskies
 DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:Husky Soccer Stadium\, Seattle\, Washington
+LOCATION:Dick Dlesk Soccer Stadium\, Morgantown
 END:VEVENT
 END:VCALENDAR

@@ -6,20 +6,39 @@ METHOD:PUBLISH
 X-WR-CALNAME:Liberty Flames · NCAA WVB
 BEGIN:VEVENT
 UID:ncaavbw-20261121-liberty-flames-sam-houston-bearkats-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:LIBERTY FLAMES | NCAA WVB | J2 | 🏟️ | Sam Houston Bearkats 
  🇺🇸
-DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+DESCRIPTION:Inici: 03:30 (Europe/Madrid) · NCAA Division I Women Volleybal
  l\nEstadi: E.A. Diddle Arena\, Bowling Green\, Kentucky
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261121-liberty-flames-sam-houston-bearkats@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261121T010000Z
-DTEND:20261121T024500Z
+DTSTAMP:20261121T081735Z
+DTSTART:20261121T023000Z
+DTEND:20261121T041500Z
 SUMMARY:Liberty Flames - Sam Houston Bearkats
+DESCRIPTION:NCAA Division I Women Volleyball
+LOCATION:E.A. Diddle Arena\, Bowling Green\, Kentucky
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-missouri-state-bears-liberty-flames-dia@sportcal
+DTSTAMP:20261121T081735Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:LIBERTY FLAMES | NCAA WVB | J2 | ✈️ | Missouri State Bears 🇺
+ 🇸
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: E.A. Diddle Arena\, Bowling Green\, Kentucky
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaavbw-20261121-missouri-state-bears-liberty-flames@sportcal
+DTSTAMP:20261121T081735Z
+DTSTART:20261121T203000Z
+DTEND:20261121T221500Z
+SUMMARY:Missouri State Bears - Liberty Flames
 DESCRIPTION:NCAA Division I Women Volleyball
 LOCATION:E.A. Diddle Arena\, Bowling Green\, Kentucky
 END:VEVENT

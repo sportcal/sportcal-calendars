@@ -6,19 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:CD Águila · Primera División
 BEGIN:VEVENT
 UID:elsalvadorpd-20261121-cd-aguila-cd-platense-municipal-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:CD ÁGUILA | Primera División | J2 | 🏟️ | CD Platense Municip
  al 🇸🇻
-DESCRIPTION:Inici: 22:30 (Europe/Madrid) · Primera División
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · Primera División\nEstadi: Esta
+ dio Juan Francisco Barraza\, San Miguel
 END:VEVENT
 BEGIN:VEVENT
 UID:elsalvadorpd-20261121-cd-aguila-cd-platense-municipal@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261121T213000Z
-DTEND:20261121T231500Z
+DTSTAMP:20261121T081735Z
+DTSTART:20261121T210000Z
+DTEND:20261121T224500Z
 SUMMARY:CD Águila - CD Platense Municipal
 DESCRIPTION:Primera División
+LOCATION:Estadio Juan Francisco Barraza\, San Miguel
 END:VEVENT
 END:VCALENDAR

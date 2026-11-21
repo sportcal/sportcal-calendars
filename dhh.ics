@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:División de Honor
 BEGIN:VEVENT
 UID:dhh-dia-20261122-j10@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:DIVISIÓN DE HONOR | J10
@@ -15,7 +15,7 @@ DESCRIPTION:TBD CH Carpesa - Atlètic Terrassa Hockey Club\nTBD Sardinero H
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20261129-j11@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:DIVISIÓN DE HONOR | J11
@@ -26,7 +26,7 @@ DESCRIPTION:TBD Real Club de Campo Villa de Madrid - Atlètic Terrassa Hock
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20270307-j12@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:DIVISIÓN DE HONOR | J12
@@ -37,7 +37,7 @@ DESCRIPTION:TBD Atlètic Terrassa Hockey Club - Junior FC\nTBD Futbol Club
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20270314-j13@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:DIVISIÓN DE HONOR | J13
@@ -48,7 +48,7 @@ DESCRIPTION:TBD RC Polo - Atlètic Terrassa Hockey Club\nTBD Sanse Complute
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20270321-j14@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:DIVISIÓN DE HONOR | J14
@@ -59,7 +59,7 @@ DESCRIPTION:TBD Futbol Club Barcelona - Atlètic Terrassa Hockey Club\nTBD
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20270404-j15@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:DIVISIÓN DE HONOR | J15
@@ -70,7 +70,7 @@ DESCRIPTION:TBD Atlètic Terrassa Hockey Club - Sanse Complutense\nTBD RC P
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20270411-j16@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:DIVISIÓN DE HONOR | J16
@@ -81,7 +81,7 @@ DESCRIPTION:TBD Atlètic Terrassa Hockey Club - Unión Deportiva Taburiente
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20270418-j17@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:DIVISIÓN DE HONOR | J17
@@ -92,7 +92,7 @@ DESCRIPTION:TBD Club Egara - Atlètic Terrassa Hockey Club\nTBD Junior FC -
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20270502-j18@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:DIVISIÓN DE HONOR | J18
@@ -103,7 +103,7 @@ DESCRIPTION:TBD CD Terrassa Hockey - Atlètic Terrassa Hockey Club\nTBD Clu
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20270508-j19@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:DIVISIÓN DE HONOR | J19
@@ -114,7 +114,7 @@ DESCRIPTION:TBD RS Tenis - Atlètic Terrassa Hockey Club\nTBD Sardinero Hoc
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-dia-20270509-j20@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:DIVISIÓN DE HONOR | J20
@@ -125,7 +125,7 @@ DESCRIPTION:TBD Sardinero Hockey Club - Atlètic Terrassa Hockey Club\nTBD
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20261122-ch-carpesa-atletic-terrassa-hockey-club@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:CH Carpesa - Atlètic Terrassa Hockey Club · TBD
@@ -134,7 +134,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20261122-sardinero-hockey-club-rc-polo@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Sardinero Hockey Club - RC Polo · TBD
@@ -143,7 +143,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20261122-cd-terrassa-hockey-sanse-complutense@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:CD Terrassa Hockey - Sanse Complutense · TBD
@@ -153,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20261129-real-club-de-campo-villa-de-madrid-atletic-terrassa-hockey
  -club@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Real Club de Campo Villa de Madrid - Atlètic Terrassa Hockey Club 
@@ -163,7 +163,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20261129-sardinero-hockey-club-union-deportiva-taburiente@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Sardinero Hockey Club - Unión Deportiva Taburiente · TBD
@@ -172,7 +172,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20261129-club-egara-ch-carpesa@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Club Egara - CH Carpesa · TBD
@@ -181,7 +181,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20261129-sanse-complutense-rc-polo@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Sanse Complutense - RC Polo · TBD
@@ -190,7 +190,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20261129-cd-terrassa-hockey-rs-tenis@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:CD Terrassa Hockey - RS Tenis · TBD
@@ -199,7 +199,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20261129-junior-fc-futbol-club-barcelona@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Junior FC - Futbol Club Barcelona · TBD
@@ -208,7 +208,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270307-atletic-terrassa-hockey-club-junior-fc@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Atlètic Terrassa Hockey Club - Junior FC · TBD
@@ -217,7 +217,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270307-futbol-club-barcelona-rc-polo@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Futbol Club Barcelona - RC Polo · TBD
@@ -227,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270307-sanse-complutense-real-club-de-campo-villa-de-madrid@sport
  cal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Sanse Complutense - Real Club de Campo Villa de Madrid · TBD
@@ -236,7 +236,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270307-union-deportiva-taburiente-cd-terrassa-hockey@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Unión Deportiva Taburiente - CD Terrassa Hockey · TBD
@@ -245,7 +245,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270307-sardinero-hockey-club-club-egara@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Sardinero Hockey Club - Club Egara · TBD
@@ -254,7 +254,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270307-ch-carpesa-rs-tenis@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:CH Carpesa - RS Tenis · TBD
@@ -263,7 +263,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270314-rc-polo-atletic-terrassa-hockey-club@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:RC Polo - Atlètic Terrassa Hockey Club · TBD
@@ -272,7 +272,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270314-sanse-complutense-futbol-club-barcelona@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Sanse Complutense - Futbol Club Barcelona · TBD
@@ -281,7 +281,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270314-junior-fc-real-club-de-campo-villa-de-madrid@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Junior FC - Real Club de Campo Villa de Madrid · TBD
@@ -290,7 +290,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270314-union-deportiva-taburiente-rs-tenis@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Unión Deportiva Taburiente - RS Tenis · TBD
@@ -299,7 +299,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270314-sardinero-hockey-club-ch-carpesa@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Sardinero Hockey Club - CH Carpesa · TBD
@@ -308,7 +308,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270314-cd-terrassa-hockey-club-egara@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:CD Terrassa Hockey - Club Egara · TBD
@@ -318,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270321-futbol-club-barcelona-atletic-terrassa-hockey-club@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Futbol Club Barcelona - Atlètic Terrassa Hockey Club · TBD
@@ -327,7 +327,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270321-real-club-de-campo-villa-de-madrid-rc-polo@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Real Club de Campo Villa de Madrid - RC Polo · TBD
@@ -336,7 +336,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270321-junior-fc-sanse-complutense@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Junior FC - Sanse Complutense · TBD
@@ -345,7 +345,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270321-club-egara-union-deportiva-taburiente@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Club Egara - Unión Deportiva Taburiente · TBD
@@ -354,7 +354,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270321-ch-carpesa-cd-terrassa-hockey@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:CH Carpesa - CD Terrassa Hockey · TBD
@@ -363,7 +363,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270321-rs-tenis-sardinero-hockey-club@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:RS Tenis - Sardinero Hockey Club · TBD
@@ -372,7 +372,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270404-atletic-terrassa-hockey-club-sanse-complutense@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Atlètic Terrassa Hockey Club - Sanse Complutense · TBD
@@ -381,7 +381,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270404-rc-polo-junior-fc@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:RC Polo - Junior FC · TBD
@@ -391,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270404-real-club-de-campo-villa-de-madrid-futbol-club-barcelona@s
  portcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Real Club de Campo Villa de Madrid - Futbol Club Barcelona · TBD
@@ -400,7 +400,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270404-union-deportiva-taburiente-ch-carpesa@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Unión Deportiva Taburiente - CH Carpesa · TBD
@@ -409,7 +409,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270404-cd-terrassa-hockey-sardinero-hockey-club@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:CD Terrassa Hockey - Sardinero Hockey Club · TBD
@@ -418,7 +418,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270404-club-egara-rs-tenis@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Club Egara - RS Tenis · TBD
@@ -428,7 +428,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270411-atletic-terrassa-hockey-club-union-deportiva-taburiente@sp
  ortcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Atlètic Terrassa Hockey Club - Unión Deportiva Taburiente · TBD
@@ -437,7 +437,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270411-futbol-club-barcelona-sardinero-hockey-club@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Futbol Club Barcelona - Sardinero Hockey Club · TBD
@@ -446,7 +446,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270411-sanse-complutense-club-egara@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Sanse Complutense - Club Egara · TBD
@@ -456,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270411-real-club-de-campo-villa-de-madrid-cd-terrassa-hockey@spor
  tcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Real Club de Campo Villa de Madrid - CD Terrassa Hockey · TBD
@@ -465,7 +465,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270411-junior-fc-ch-carpesa@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Junior FC - CH Carpesa · TBD
@@ -474,7 +474,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270411-rc-polo-rs-tenis@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:RC Polo - RS Tenis · TBD
@@ -483,7 +483,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270418-club-egara-atletic-terrassa-hockey-club@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Club Egara - Atlètic Terrassa Hockey Club · TBD
@@ -492,7 +492,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270418-junior-fc-cd-terrassa-hockey@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Junior FC - CD Terrassa Hockey · TBD
@@ -501,7 +501,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270418-rs-tenis-real-club-de-campo-villa-de-madrid@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:RS Tenis - Real Club de Campo Villa de Madrid · TBD
@@ -510,7 +510,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270418-sardinero-hockey-club-sanse-complutense@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Sardinero Hockey Club - Sanse Complutense · TBD
@@ -519,7 +519,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270418-union-deportiva-taburiente-futbol-club-barcelona@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Unión Deportiva Taburiente - Futbol Club Barcelona · TBD
@@ -528,7 +528,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270418-ch-carpesa-rc-polo@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:CH Carpesa - RC Polo · TBD
@@ -537,7 +537,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270502-cd-terrassa-hockey-atletic-terrassa-hockey-club@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:CD Terrassa Hockey - Atlètic Terrassa Hockey Club · TBD
@@ -546,7 +546,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270502-club-egara-junior-fc@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Club Egara - Junior FC · TBD
@@ -556,7 +556,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270502-sardinero-hockey-club-real-club-de-campo-villa-de-madrid@s
  portcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Sardinero Hockey Club - Real Club de Campo Villa de Madrid · TBD
@@ -565,7 +565,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270502-rs-tenis-sanse-complutense@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:RS Tenis - Sanse Complutense · TBD
@@ -574,7 +574,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270502-ch-carpesa-futbol-club-barcelona@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:CH Carpesa - Futbol Club Barcelona · TBD
@@ -583,7 +583,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270502-union-deportiva-taburiente-rc-polo@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Unión Deportiva Taburiente - RC Polo · TBD
@@ -592,7 +592,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270508-rs-tenis-atletic-terrassa-hockey-club@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:RS Tenis - Atlètic Terrassa Hockey Club · TBD
@@ -601,7 +601,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270508-sardinero-hockey-club-junior-fc@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Sardinero Hockey Club - Junior FC · TBD
@@ -611,7 +611,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270508-real-club-de-campo-villa-de-madrid-union-deportiva-taburie
  nte@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Real Club de Campo Villa de Madrid - Unión Deportiva Taburiente ·
@@ -621,7 +621,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270508-sanse-complutense-ch-carpesa@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Sanse Complutense - CH Carpesa · TBD
@@ -630,7 +630,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270508-futbol-club-barcelona-club-egara@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Futbol Club Barcelona - Club Egara · TBD
@@ -639,7 +639,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270508-cd-terrassa-hockey-rc-polo@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:CD Terrassa Hockey - RC Polo · TBD
@@ -649,7 +649,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270509-sardinero-hockey-club-atletic-terrassa-hockey-club@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Sardinero Hockey Club - Atlètic Terrassa Hockey Club · TBD
@@ -658,7 +658,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270509-rs-tenis-junior-fc@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:RS Tenis - Junior FC · TBD
@@ -667,7 +667,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270509-real-club-de-campo-villa-de-madrid-ch-carpesa@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Real Club de Campo Villa de Madrid - CH Carpesa · TBD
@@ -676,7 +676,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270509-sanse-complutense-union-deportiva-taburiente@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Sanse Complutense - Unión Deportiva Taburiente · TBD
@@ -685,7 +685,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270509-cd-terrassa-hockey-futbol-club-barcelona@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:CD Terrassa Hockey - Futbol Club Barcelona · TBD
@@ -694,7 +694,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:dhh-20270509-club-egara-rc-polo@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Club Egara - RC Polo · TBD

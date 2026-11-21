@@ -5,22 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:UT Martin Skyhawks · NCAA
 BEGIN:VEVENT
-UID:ncaam-20261120-southern-illinois-salukis-ut-martin-skyhawks-dia@sportca
- l
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J2 | ✈️ | Southern Illinois Salukis
-  🇺🇸
-DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Elridg
+UID:ncaam-20261123-utah-valley-wolverines-ut-martin-skyhawks-dia@sportcal
+DTSTAMP:20261121T081735Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J1 | ✈️ | Utah Valley Wolverines 
+ 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Elridg
  e Blake Sports and Fitness Center\, Charlotte Amalie\, Virgin Islands
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaam-20261120-southern-illinois-salukis-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261120T223000Z
-DTEND:20261121T001500Z
-SUMMARY:Southern Illinois Salukis - UT Martin Skyhawks
+UID:ncaam-20261123-utah-valley-wolverines-ut-martin-skyhawks@sportcal
+DTSTAMP:20261121T081735Z
+DTSTART:20261123T010000Z
+DTEND:20261123T024500Z
+SUMMARY:Utah Valley Wolverines - UT Martin Skyhawks
 DESCRIPTION:NCAA Division I
 LOCATION:Elridge Blake Sports and Fitness Center\, Charlotte Amalie\, Virgi
  n Islands
@@ -28,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261128-ut-martin-skyhawks-kentucky-christian-knights-dia@sportc
  al
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J4 | 🏟️ | Kentucky Christian Knigh
@@ -38,7 +37,7 @@ DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261128-ut-martin-skyhawks-kentucky-christian-knights@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261128T200000Z
 DTEND:20261128T214500Z
 SUMMARY:UT Martin Skyhawks - Kentucky Christian Knights
@@ -48,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261203-eastern-kentucky-colonels-ut-martin-skyhawks-dia@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J4 | ✈️ | Eastern Kentucky Colonels
@@ -58,7 +57,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Baptis
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261203-eastern-kentucky-colonels-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261203T000000Z
 DTEND:20261203T014500Z
 SUMMARY:Eastern Kentucky Colonels - UT Martin Skyhawks
@@ -67,17 +66,17 @@ LOCATION:Baptist Health Arena\, Richmond\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261206-south-carolina-gamecocks-ut-martin-skyhawks-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J6 | ✈️ | South Carolina Gamecocks 
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J7 | ✈️ | South Carolina Gamecocks 
  🇺🇸
 DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I\nEstadi: Coloni
  al Life Arena\, Columbia\, SC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261206-south-carolina-gamecocks-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261206T170000Z
 DTEND:20261206T184500Z
 SUMMARY:South Carolina Gamecocks - UT Martin Skyhawks
@@ -86,17 +85,17 @@ LOCATION:Colonial Life Arena\, Columbia\, SC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261210-north-alabama-lions-ut-martin-skyhawks-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J7 | ✈️ | North Alabama Lions 🇺
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J8 | ✈️ | North Alabama Lions 🇺
  🇸
 DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: CB&S B
  ank Arena at Flowers Hall\, Florence\, AL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261210-north-alabama-lions-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261210T003000Z
 DTEND:20261210T021500Z
 SUMMARY:North Alabama Lions - UT Martin Skyhawks
@@ -106,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261215-ut-martin-skyhawks-northwestern-state-demons-dia@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J8 | 🏟️ | Northwestern State Demon
@@ -116,7 +115,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261215-ut-martin-skyhawks-northwestern-state-demons@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261215T000000Z
 DTEND:20261215T014500Z
 SUMMARY:UT Martin Skyhawks - Northwestern State Demons
@@ -125,7 +124,7 @@ LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261217-penn-state-nittany-lions-ut-martin-skyhawks-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J9 | ✈️ | Penn State Nittany Lions 
@@ -135,7 +134,7 @@ DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Bryce
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261217-penn-state-nittany-lions-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261216T233000Z
 DTEND:20261217T011500Z
 SUMMARY:Penn State Nittany Lions - UT Martin Skyhawks
@@ -145,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-ut-martin-skyhawks-champion-christian-tigers-dia@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J9 | 🏟️ | Champion Christian Tiger
@@ -155,7 +154,7 @@ DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-ut-martin-skyhawks-champion-christian-tigers@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261219T200000Z
 DTEND:20261219T214500Z
 SUMMARY:UT Martin Skyhawks - Champion Christian Tigers
@@ -164,17 +163,17 @@ LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261222-davidson-wildcats-ut-martin-skyhawks-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J11 | ✈️ | Davidson Wildcats 🇺
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J89 | ✈️ | Davidson Wildcats 🇺
  🇸
 DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: John M
  . Belk Arena\, Davidson\, NC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261222-davidson-wildcats-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261222T190000Z
 DTEND:20261222T204500Z
 SUMMARY:Davidson Wildcats - UT Martin Skyhawks
@@ -183,17 +182,17 @@ LOCATION:John M. Belk Arena\, Davidson\, NC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261231-ut-martin-skyhawks-morehead-state-eagles-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J10 | 🏟️ | Morehead State Eagles 
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J13 | 🏟️ | Morehead State Eagles 
  🇺🇸
 DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
  en and Tom Elam Center\, Martin\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261231-ut-martin-skyhawks-morehead-state-eagles@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20261231T020000Z
 DTEND:20261231T034500Z
 SUMMARY:UT Martin Skyhawks - Morehead State Eagles
@@ -202,17 +201,17 @@ LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-lindenwood-lions-ut-martin-skyhawks-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J13 | ✈️ | Lindenwood Lions 🇺
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J11 | ✈️ | Lindenwood Lions 🇺
  🇸
 DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Hyland
   Arena\, Saint Charles\, MO
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-lindenwood-lions-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270102T213000Z
 DTEND:20270102T231500Z
 SUMMARY:Lindenwood Lions - UT Martin Skyhawks
@@ -222,10 +221,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270108-ut-martin-skyhawks-southeast-missouri-state-redhawks-dia
  @sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J13 | 🏟️ | Southeast Missouri Stat
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J15 | 🏟️ | Southeast Missouri Stat
  e Redhawks 🇺🇸
 DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
  en and Tom Elam Center\, Martin\, TN
@@ -233,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270108-ut-martin-skyhawks-southeast-missouri-state-redhawks@spo
  rtcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270108T020000Z
 DTEND:20270108T034500Z
 SUMMARY:UT Martin Skyhawks - Southeast Missouri State Redhawks
@@ -243,10 +242,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270109-ut-martin-skyhawks-southern-indiana-screaming-eagles-dia
  @sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J15 | 🏟️ | Southern Indiana Scream
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J13 | 🏟️ | Southern Indiana Scream
  ing Eagles 🇺🇸
 DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
  en and Tom Elam Center\, Martin\, TN
@@ -254,7 +253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270109-ut-martin-skyhawks-southern-indiana-screaming-eagles@spo
  rtcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270109T213000Z
 DTEND:20270109T231500Z
 SUMMARY:UT Martin Skyhawks - Southern Indiana Screaming Eagles
@@ -263,7 +262,7 @@ LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270115-siu-edwardsville-cougars-ut-martin-skyhawks-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J16 | ✈️ | SIU Edwardsville Cougars
@@ -273,7 +272,7 @@ DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: First
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270115-siu-edwardsville-cougars-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270115T013000Z
 DTEND:20270115T031500Z
 SUMMARY:SIU Edwardsville Cougars - UT Martin Skyhawks
@@ -283,10 +282,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270116-western-illinois-leathernecks-ut-martin-skyhawks-dia@spo
  rtcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J17 | ✈️ | Western Illinois Leather
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J15 | ✈️ | Western Illinois Leather
  necks 🇺🇸
 DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Wester
  n Hall\, Macomb\, IL
@@ -294,7 +293,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270116-western-illinois-leathernecks-ut-martin-skyhawks@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270116T213000Z
 DTEND:20270116T231500Z
 SUMMARY:Western Illinois Leathernecks - UT Martin Skyhawks
@@ -304,17 +303,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270123-eastern-illinois-panthers-ut-martin-skyhawks-dia@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J18 | ✈️ | Eastern Illinois Panther
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J19 | ✈️ | Eastern Illinois Panther
  s 🇺🇸
 DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Gronig
  er Arena\, Charleston\, IL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270123-eastern-illinois-panthers-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270123T213000Z
 DTEND:20270123T231500Z
 SUMMARY:Eastern Illinois Panthers - UT Martin Skyhawks
@@ -323,7 +322,7 @@ LOCATION:Groniger Arena\, Charleston\, IL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270129-ut-martin-skyhawks-siu-edwardsville-cougars-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J19 | 🏟️ | SIU Edwardsville Cougar
@@ -333,7 +332,7 @@ DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270129-ut-martin-skyhawks-siu-edwardsville-cougars@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270129T020000Z
 DTEND:20270129T034500Z
 SUMMARY:UT Martin Skyhawks - SIU Edwardsville Cougars
@@ -342,7 +341,7 @@ LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270130-tennessee-state-tigers-ut-martin-skyhawks-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J20 | ✈️ | Tennessee State Tigers 
@@ -352,7 +351,7 @@ DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Gentry
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270130-tennessee-state-tigers-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270130T213000Z
 DTEND:20270130T231500Z
 SUMMARY:Tennessee State Tigers - UT Martin Skyhawks
@@ -362,10 +361,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270205-ut-martin-skyhawks-western-illinois-leathernecks-dia@spo
  rtcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J21 | 🏟️ | Western Illinois Leathe
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J22 | 🏟️ | Western Illinois Leathe
  rnecks 🇺🇸
 DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
  en and Tom Elam Center\, Martin\, TN
@@ -373,7 +372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270205-ut-martin-skyhawks-western-illinois-leathernecks@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270205T020000Z
 DTEND:20270205T034500Z
 SUMMARY:UT Martin Skyhawks - Western Illinois Leathernecks
@@ -382,7 +381,7 @@ LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270206-ut-martin-skyhawks-lindenwood-lions-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J22 | 🏟️ | Lindenwood Lions 🇺
@@ -392,7 +391,7 @@ DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270206-ut-martin-skyhawks-lindenwood-lions@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270206T213000Z
 DTEND:20270206T231500Z
 SUMMARY:UT Martin Skyhawks - Lindenwood Lions
@@ -402,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270212-southeast-missouri-state-redhawks-ut-martin-skyhawks-dia
  @sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J24 | ✈️ | Southeast Missouri State
@@ -413,7 +412,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270212-southeast-missouri-state-redhawks-ut-martin-skyhawks@spo
  rtcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270212T013000Z
 DTEND:20270212T031500Z
 SUMMARY:Southeast Missouri State Redhawks - UT Martin Skyhawks
@@ -423,17 +422,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270213-ut-martin-skyhawks-eastern-illinois-panthers-dia@sportca
  l
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J24 | 🏟️ | Eastern Illinois Panthe
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J22 | 🏟️ | Eastern Illinois Panthe
  rs 🇺🇸
 DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
  en and Tom Elam Center\, Martin\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270213-ut-martin-skyhawks-eastern-illinois-panthers@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270213T213000Z
 DTEND:20270213T231500Z
 SUMMARY:UT Martin Skyhawks - Eastern Illinois Panthers
@@ -443,7 +442,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270219-southern-indiana-screaming-eagles-ut-martin-skyhawks-dia
  @sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J24 | ✈️ | Southern Indiana Screami
@@ -454,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270219-southern-indiana-screaming-eagles-ut-martin-skyhawks@spo
  rtcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270219T013000Z
 DTEND:20270219T031500Z
 SUMMARY:Southern Indiana Screaming Eagles - UT Martin Skyhawks
@@ -463,17 +462,17 @@ LOCATION:Liberty Arena (IN)\, Evansville\, IN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270220-morehead-state-eagles-ut-martin-skyhawks-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:UT MARTIN SKYHAWKS | NCAA | J25 | ✈️ | Morehead State Eagles 
+SUMMARY:UT MARTIN SKYHAWKS | NCAA | J27 | ✈️ | Morehead State Eagles 
  🇺🇸
 DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Ellis 
  T. Johnson Arena\, Morehead\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270220-morehead-state-eagles-ut-martin-skyhawks@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270220T213000Z
 DTEND:20270220T231500Z
 SUMMARY:Morehead State Eagles - UT Martin Skyhawks
@@ -482,7 +481,7 @@ LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270226-ut-martin-skyhawks-tennessee-state-tigers-dia@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:UT MARTIN SKYHAWKS | NCAA | J26 | 🏟️ | Tennessee State Tigers 
@@ -492,7 +491,7 @@ DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Kathle
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270226-ut-martin-skyhawks-tennessee-state-tigers@sportcal
-DTSTAMP:20261119T093809Z
+DTSTAMP:20261121T081735Z
 DTSTART:20270226T020000Z
 DTEND:20270226T034500Z
 SUMMARY:UT Martin Skyhawks - Tennessee State Tigers
