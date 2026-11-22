@@ -5,30 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Northwestern Wildcats · NCAA FBS
 BEGIN:VEVENT
-UID:ncaafbs-20261121-minnesota-golden-gophers-northwestern-wildcats-dia@spo
- rtcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:NORTHWESTERN WILDCATS | NCAA FBS | J2 | ✈️ | Minnesota Golden G
- ophers 🇺🇸
-DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I FBS\nEstadi: Hu
- ntington Bank Stadium\, Minneapolis\, MN
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261121-minnesota-golden-gophers-northwestern-wildcats@sportca
- l
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T170000Z
-DTEND:20261121T184500Z
-SUMMARY:Minnesota Golden Gophers - Northwestern Wildcats
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaafbs-20261128-northwestern-wildcats-illinois-fighting-illini-dia@spo
  rtcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:NORTHWESTERN WILDCATS | NCAA FBS | J3 | 🏟️ | Illinois Fighting
@@ -39,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-northwestern-wildcats-illinois-fighting-illini@sportca
  l
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261128T173000Z
 DTEND:20261128T191500Z
 SUMMARY:Northwestern Wildcats - Illinois Fighting Illini

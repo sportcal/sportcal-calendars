@@ -5,25 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bristol City FC · Championship
 BEGIN:VEVENT
-UID:championship-20261121-middlesbrough-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:BRISTOL CITY FC | Championship | J16 | ✈️ | Middlesbrough 🇬
- 🇧
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-UID:championship-20261121-middlesbrough-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T150000Z
-DTEND:20261121T164500Z
-SUMMARY:Middlesbrough - Bristol City FC
-DESCRIPTION:EFL Championship
-END:VEVENT
-BEGIN:VEVENT
 UID:championship-20261124-bristol-city-fc-wrexham-afc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:BRISTOL CITY FC | Championship | J17 | 🏟️ | Wrexham AFC 🇬
@@ -32,7 +15,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261124-bristol-city-fc-wrexham-afc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261124T194500Z
 DTEND:20261124T213000Z
 SUMMARY:Bristol City FC - Wrexham AFC
@@ -40,7 +23,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261128-west-bromwich-albion-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:BRISTOL CITY FC | Championship | J18 | ✈️ | West Bromwich Albio
@@ -49,7 +32,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261128-west-bromwich-albion-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261128T150000Z
 DTEND:20261128T164500Z
 SUMMARY:West Bromwich Albion - Bristol City FC
@@ -57,7 +40,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261205-bristol-city-fc-swansea-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:BRISTOL CITY FC | Championship | J19 | 🏟️ | Swansea City 🇬
@@ -66,7 +49,7 @@ DESCRIPTION:Inici: 13:30 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261205-bristol-city-fc-swansea-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261205T123000Z
 DTEND:20261205T141500Z
 SUMMARY:Bristol City FC - Swansea City
@@ -74,7 +57,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261209-derby-county-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:BRISTOL CITY FC | Championship | J20 | ✈️ | Derby County 🇬
@@ -83,7 +66,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261209-derby-county-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261209T194500Z
 DTEND:20261209T213000Z
 SUMMARY:Derby County - Bristol City FC
@@ -91,7 +74,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261212-west-ham-united-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:BRISTOL CITY FC | Championship | J21 | ✈️ | West Ham United 
@@ -100,7 +83,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261212-west-ham-united-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261212T150000Z
 DTEND:20261212T164500Z
 SUMMARY:West Ham United - Bristol City FC
@@ -108,7 +91,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261219-bristol-city-fc-cardiff-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:BRISTOL CITY FC | Championship | J22 | 🏟️ | Cardiff City 🇬
@@ -117,7 +100,7 @@ DESCRIPTION:Inici: 13:30 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261219-bristol-city-fc-cardiff-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261219T123000Z
 DTEND:20261219T141500Z
 SUMMARY:Bristol City FC - Cardiff City
@@ -125,7 +108,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261226-queens-park-rangers-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:BRISTOL CITY FC | Championship | J23 | ✈️ | Queens Park Rangers
@@ -134,7 +117,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261226-queens-park-rangers-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261226T150000Z
 DTEND:20261226T164500Z
 SUMMARY:Queens Park Rangers - Bristol City FC
@@ -142,7 +125,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261229-bristol-city-fc-stoke-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:BRISTOL CITY FC | Championship | J24 | 🏟️ | Stoke City 🇬
@@ -151,7 +134,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261229-bristol-city-fc-stoke-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261229T194500Z
 DTEND:20261229T213000Z
 SUMMARY:Bristol City FC - Stoke City
@@ -159,7 +142,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270101-bristol-city-fc-west-ham-united-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:BRISTOL CITY FC | Championship | J25 | 🏟️ | West Ham United 
@@ -168,7 +151,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270101-bristol-city-fc-west-ham-united@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Bristol City FC - West Ham United · TBD
@@ -177,7 +160,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270116-sheffield-united-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:BRISTOL CITY FC | Championship | J26 | ✈️ | Sheffield United 
@@ -186,7 +169,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270116-sheffield-united-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Sheffield United - Bristol City FC · TBD
@@ -195,7 +178,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270123-bristol-city-fc-bolton-wanderers-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:BRISTOL CITY FC | Championship | J27 | 🏟️ | Bolton Wanderers F
@@ -204,7 +187,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270123-bristol-city-fc-bolton-wanderers-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Bristol City FC - Bolton Wanderers FC · TBD
@@ -214,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270127-wolverhampton-wanderers-bristol-city-fc-dia@sport
  cal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:BRISTOL CITY FC | Championship | J28 | ✈️ | Wolverhampton Wande
@@ -223,7 +206,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270127-wolverhampton-wanderers-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Wolverhampton Wanderers - Bristol City FC · TBD
@@ -232,7 +215,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270130-norwich-city-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:BRISTOL CITY FC | Championship | J29 | ✈️ | Norwich City 🇬
@@ -241,7 +224,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270130-norwich-city-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Norwich City - Bristol City FC · TBD
@@ -250,7 +233,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270206-bristol-city-fc-middlesbrough-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:BRISTOL CITY FC | Championship | J30 | 🏟️ | Middlesbrough 🇬
@@ -259,7 +242,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270206-bristol-city-fc-middlesbrough@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Bristol City FC - Middlesbrough · TBD
@@ -268,7 +251,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270213-bristol-city-fc-southampton-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:BRISTOL CITY FC | Championship | J31 | 🏟️ | Southampton 🇬
@@ -277,7 +260,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270213-bristol-city-fc-southampton@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Bristol City FC - Southampton · TBD
@@ -286,7 +269,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270216-blackburn-rovers-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:BRISTOL CITY FC | Championship | J32 | ✈️ | Blackburn Rovers 
@@ -295,7 +278,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270216-blackburn-rovers-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:Blackburn Rovers - Bristol City FC · TBD
@@ -304,7 +287,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270220-watford-fc-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:BRISTOL CITY FC | Championship | J33 | ✈️ | Watford FC 🇬🇧
@@ -312,7 +295,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270220-watford-fc-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Watford FC - Bristol City FC · TBD
@@ -321,7 +304,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270227-bristol-city-fc-charlton-athletic-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:BRISTOL CITY FC | Championship | J34 | 🏟️ | Charlton Athletic 
@@ -330,7 +313,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270227-bristol-city-fc-charlton-athletic@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Bristol City FC - Charlton Athletic · TBD
@@ -339,7 +322,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270302-bristol-city-fc-birmingham-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:BRISTOL CITY FC | Championship | J35 | 🏟️ | Birmingham City 
@@ -348,7 +331,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270302-bristol-city-fc-birmingham-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:Bristol City FC - Birmingham City · TBD
@@ -357,7 +340,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270306-millwall-fc-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:BRISTOL CITY FC | Championship | J36 | ✈️ | Millwall FC 🇬
@@ -366,7 +349,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270306-millwall-fc-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Millwall FC - Bristol City FC · TBD
@@ -375,7 +358,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270313-bristol-city-fc-west-bromwich-albion-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:BRISTOL CITY FC | Championship | J37 | 🏟️ | West Bromwich Albi
@@ -384,7 +367,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270313-bristol-city-fc-west-bromwich-albion@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Bristol City FC - West Bromwich Albion · TBD
@@ -393,7 +376,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270316-swansea-city-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:BRISTOL CITY FC | Championship | J38 | ✈️ | Swansea City 🇬
@@ -402,7 +385,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270316-swansea-city-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:Swansea City - Bristol City FC · TBD
@@ -411,7 +394,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270320-bristol-city-fc-queens-park-rangers-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:BRISTOL CITY FC | Championship | J39 | 🏟️ | Queens Park Ranger
@@ -420,7 +403,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270320-bristol-city-fc-queens-park-rangers@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Bristol City FC - Queens Park Rangers · TBD
@@ -429,7 +412,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270403-cardiff-city-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:BRISTOL CITY FC | Championship | J40 | ✈️ | Cardiff City 🇬
@@ -438,7 +421,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270403-cardiff-city-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:Cardiff City - Bristol City FC · TBD
@@ -447,7 +430,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270406-lincoln-city-fc-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:BRISTOL CITY FC | Championship | J41 | ✈️ | Lincoln City FC 
@@ -456,7 +439,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270406-lincoln-city-fc-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:Lincoln City FC - Bristol City FC · TBD
@@ -465,7 +448,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270410-bristol-city-fc-burnley-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:BRISTOL CITY FC | Championship | J42 | 🏟️ | Burnley FC 🇬
@@ -474,7 +457,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270410-bristol-city-fc-burnley-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:Bristol City FC - Burnley FC · TBD
@@ -483,7 +466,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270417-portsmouth-fc-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:BRISTOL CITY FC | Championship | J43 | ✈️ | Portsmouth FC 🇬
@@ -492,7 +475,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270417-portsmouth-fc-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Portsmouth FC - Bristol City FC · TBD
@@ -501,7 +484,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270421-bristol-city-fc-preston-north-end-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:BRISTOL CITY FC | Championship | J44 | 🏟️ | Preston North End 
@@ -510,7 +493,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270421-bristol-city-fc-preston-north-end-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:Bristol City FC - Preston North End FC · TBD
@@ -519,7 +502,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270424-bristol-city-fc-derby-county-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:BRISTOL CITY FC | Championship | J45 | 🏟️ | Derby County 🇬
@@ -528,7 +511,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270424-bristol-city-fc-derby-county@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Bristol City FC - Derby County · TBD
@@ -537,7 +520,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270501-wrexham-afc-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:BRISTOL CITY FC | Championship | J46 | ✈️ | Wrexham AFC 🇬
@@ -546,7 +529,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270501-wrexham-afc-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Wrexham AFC - Bristol City FC · TBD

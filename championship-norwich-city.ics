@@ -5,24 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Norwich City · Championship
 BEGIN:VEVENT
-UID:championship-20261121-norwich-city-cardiff-city-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:NORWICH CITY | Championship | J16 | 🏟️ | Cardiff City 🇬🇧
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-UID:championship-20261121-norwich-city-cardiff-city@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T150000Z
-DTEND:20261121T164500Z
-SUMMARY:Norwich City - Cardiff City
-DESCRIPTION:EFL Championship
-END:VEVENT
-BEGIN:VEVENT
 UID:championship-20261124-norwich-city-queens-park-rangers-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:NORWICH CITY | Championship | J17 | 🏟️ | Queens Park Rangers 
@@ -31,7 +15,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261124-norwich-city-queens-park-rangers@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261124T194500Z
 DTEND:20261124T213000Z
 SUMMARY:Norwich City - Queens Park Rangers
@@ -39,7 +23,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261128-preston-north-end-fc-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:NORWICH CITY | Championship | J18 | ✈️ | Preston North End FC 
@@ -48,7 +32,7 @@ DESCRIPTION:Inici: 13:30 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261128-preston-north-end-fc-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261128T123000Z
 DTEND:20261128T141500Z
 SUMMARY:Preston North End FC - Norwich City
@@ -56,7 +40,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261205-norwich-city-wrexham-afc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:NORWICH CITY | Championship | J19 | 🏟️ | Wrexham AFC 🇬🇧
@@ -64,7 +48,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261205-norwich-city-wrexham-afc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
 SUMMARY:Norwich City - Wrexham AFC
@@ -72,7 +56,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261208-blackburn-rovers-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:NORWICH CITY | Championship | J20 | ✈️ | Blackburn Rovers 🇬
@@ -81,7 +65,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261208-blackburn-rovers-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261208T194500Z
 DTEND:20261208T213000Z
 SUMMARY:Blackburn Rovers - Norwich City
@@ -89,7 +73,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261212-lincoln-city-fc-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:NORWICH CITY | Championship | J21 | ✈️ | Lincoln City FC 🇬
@@ -98,7 +82,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261212-lincoln-city-fc-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261212T150000Z
 DTEND:20261212T164500Z
 SUMMARY:Lincoln City FC - Norwich City
@@ -106,7 +90,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261219-norwich-city-wolverhampton-wanderers-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:NORWICH CITY | Championship | J22 | 🏟️ | Wolverhampton Wandere
@@ -115,7 +99,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261219-norwich-city-wolverhampton-wanderers@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261219T150000Z
 DTEND:20261219T164500Z
 SUMMARY:Norwich City - Wolverhampton Wanderers
@@ -123,7 +107,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261226-west-ham-united-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:NORWICH CITY | Championship | J23 | ✈️ | West Ham United 🇬
@@ -132,7 +116,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261226-west-ham-united-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261226T150000Z
 DTEND:20261226T164500Z
 SUMMARY:West Ham United - Norwich City
@@ -140,7 +124,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261229-norwich-city-charlton-athletic-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:NORWICH CITY | Championship | J24 | 🏟️ | Charlton Athletic 
@@ -149,7 +133,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261229-norwich-city-charlton-athletic@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261229T194500Z
 DTEND:20261229T213000Z
 SUMMARY:Norwich City - Charlton Athletic
@@ -157,7 +141,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270101-norwich-city-lincoln-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:NORWICH CITY | Championship | J25 | 🏟️ | Lincoln City FC 🇬
@@ -166,7 +150,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270101-norwich-city-lincoln-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Norwich City - Lincoln City FC · TBD
@@ -175,7 +159,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270116-portsmouth-fc-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:NORWICH CITY | Championship | J26 | ✈️ | Portsmouth FC 🇬🇧
@@ -183,7 +167,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270116-portsmouth-fc-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Portsmouth FC - Norwich City · TBD
@@ -192,7 +176,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270123-watford-fc-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:NORWICH CITY | Championship | J27 | ✈️ | Watford FC 🇬🇧
@@ -200,7 +184,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270123-watford-fc-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Watford FC - Norwich City · TBD
@@ -209,7 +193,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270126-norwich-city-derby-county-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:NORWICH CITY | Championship | J28 | 🏟️ | Derby County 🇬🇧
@@ -217,7 +201,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270126-norwich-city-derby-county@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Norwich City - Derby County · TBD
@@ -226,7 +210,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270130-norwich-city-bristol-city-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:NORWICH CITY | Championship | J29 | 🏟️ | Bristol City FC 🇬
@@ -235,7 +219,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270130-norwich-city-bristol-city-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Norwich City - Bristol City FC · TBD
@@ -244,7 +228,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270206-cardiff-city-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:NORWICH CITY | Championship | J30 | ✈️ | Cardiff City 🇬🇧
@@ -252,7 +236,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270206-cardiff-city-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Cardiff City - Norwich City · TBD
@@ -261,7 +245,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270213-norwich-city-middlesbrough-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:NORWICH CITY | Championship | J31 | 🏟️ | Middlesbrough 🇬
@@ -270,7 +254,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270213-norwich-city-middlesbrough@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Norwich City - Middlesbrough · TBD
@@ -279,7 +263,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270217-southampton-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:NORWICH CITY | Championship | J32 | ✈️ | Southampton 🇬🇧
@@ -287,7 +271,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270217-southampton-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Southampton - Norwich City · TBD
@@ -296,7 +280,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270220-bolton-wanderers-fc-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:NORWICH CITY | Championship | J33 | ✈️ | Bolton Wanderers FC 
@@ -305,7 +289,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270220-bolton-wanderers-fc-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Bolton Wanderers FC - Norwich City · TBD
@@ -314,7 +298,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270227-norwich-city-swansea-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:NORWICH CITY | Championship | J34 | 🏟️ | Swansea City 🇬🇧
@@ -322,7 +306,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270227-norwich-city-swansea-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Norwich City - Swansea City · TBD
@@ -331,7 +315,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270302-norwich-city-millwall-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:NORWICH CITY | Championship | J35 | 🏟️ | Millwall FC 🇬🇧
@@ -339,7 +323,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270302-norwich-city-millwall-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:Norwich City - Millwall FC · TBD
@@ -348,7 +332,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270306-west-bromwich-albion-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:NORWICH CITY | Championship | J36 | ✈️ | West Bromwich Albion 
@@ -357,7 +341,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270306-west-bromwich-albion-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:West Bromwich Albion - Norwich City · TBD
@@ -366,7 +350,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270313-norwich-city-preston-north-end-fc-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:NORWICH CITY | Championship | J37 | 🏟️ | Preston North End FC 
@@ -375,7 +359,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270313-norwich-city-preston-north-end-fc@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Norwich City - Preston North End FC · TBD
@@ -384,7 +368,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270316-wrexham-afc-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:NORWICH CITY | Championship | J38 | ✈️ | Wrexham AFC 🇬🇧
@@ -392,7 +376,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270316-wrexham-afc-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:Wrexham AFC - Norwich City · TBD
@@ -401,7 +385,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270320-norwich-city-west-ham-united-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:NORWICH CITY | Championship | J39 | 🏟️ | West Ham United 🇬
@@ -410,7 +394,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270320-norwich-city-west-ham-united@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Norwich City - West Ham United · TBD
@@ -419,7 +403,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270403-wolverhampton-wanderers-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:NORWICH CITY | Championship | J40 | ✈️ | Wolverhampton Wanderer
@@ -428,7 +412,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270403-wolverhampton-wanderers-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:Wolverhampton Wanderers - Norwich City · TBD
@@ -437,7 +421,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270407-birmingham-city-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:NORWICH CITY | Championship | J41 | ✈️ | Birmingham City 🇬
@@ -446,7 +430,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270407-birmingham-city-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Birmingham City - Norwich City · TBD
@@ -455,7 +439,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270410-norwich-city-sheffield-united-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:NORWICH CITY | Championship | J42 | 🏟️ | Sheffield United 🇬
@@ -464,7 +448,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270410-norwich-city-sheffield-united@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:Norwich City - Sheffield United · TBD
@@ -473,7 +457,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270417-burnley-fc-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:NORWICH CITY | Championship | J43 | ✈️ | Burnley FC 🇬🇧
@@ -481,7 +465,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270417-burnley-fc-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Burnley FC - Norwich City · TBD
@@ -490,7 +474,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270420-norwich-city-stoke-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:NORWICH CITY | Championship | J44 | 🏟️ | Stoke City 🇬🇧
@@ -498,7 +482,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270420-norwich-city-stoke-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Norwich City - Stoke City · TBD
@@ -507,7 +491,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270424-norwich-city-blackburn-rovers-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:NORWICH CITY | Championship | J45 | 🏟️ | Blackburn Rovers 🇬
@@ -516,7 +500,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270424-norwich-city-blackburn-rovers@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Norwich City - Blackburn Rovers · TBD
@@ -525,7 +509,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270501-queens-park-rangers-norwich-city-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:NORWICH CITY | Championship | J46 | ✈️ | Queens Park Rangers 
@@ -534,7 +518,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270501-queens-park-rangers-norwich-city@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Queens Park Rangers - Norwich City · TBD

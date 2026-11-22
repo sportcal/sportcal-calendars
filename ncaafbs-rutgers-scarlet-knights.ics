@@ -5,30 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rutgers Scarlet Knights · NCAA FBS
 BEGIN:VEVENT
-UID:ncaafbs-20261121-penn-state-nittany-lions-rutgers-scarlet-knights-dia@s
- portcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:RUTGERS SCARLET KNIGHTS | NCAA FBS | J2 | ✈️ | Penn State Nitta
- ny Lions 🇺🇸
-DESCRIPTION:Inici: 21:30 (Europe/Madrid) · NCAA Division I FBS\nEstadi: Be
- aver Stadium\, University Park\, PA
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261121-penn-state-nittany-lions-rutgers-scarlet-knights@sport
- cal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T203000Z
-DTEND:20261121T221500Z
-SUMMARY:Penn State Nittany Lions - Rutgers Scarlet Knights
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Beaver Stadium\, University Park\, PA
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaafbs-20261128-rutgers-scarlet-knights-michigan-state-spartans-dia@sp
  ortcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:RUTGERS SCARLET KNIGHTS | NCAA FBS | J3 | 🏟️ | Michigan State 
@@ -39,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-rutgers-scarlet-knights-michigan-state-spartans@sportc
  al
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261128T211500Z
 DTEND:20261128T230000Z
 SUMMARY:Rutgers Scarlet Knights - Michigan State Spartans

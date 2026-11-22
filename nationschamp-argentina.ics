@@ -7,20 +7,21 @@ X-WR-CALNAME:Argentina · Nations Champ
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
-UID:nationschamp-20261121-france-argentina-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:ARGENTINA | Nations Champ | Round 6 | ✈️ | France
-DESCRIPTION:Hora pendent de confirmació · Nations Championship
+UID:nationschamp-20261129-scotland-argentina-dia@sportcal
+DTSTAMP:20261122T083356Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:ARGENTINA | Nations Champ | Finals | ✈️ | Scotland
+DESCRIPTION:Inici: 14:10 (Europe/Madrid) · Nations Championship\nEstadi: T
+ wickenham Stadium\, London
 END:VEVENT
 BEGIN:VEVENT
-UID:nationschamp-20261121-france-argentina@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:France - Argentina · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Nations Championship
+UID:nationschamp-20261129-scotland-argentina@sportcal
+DTSTAMP:20261122T083356Z
+DTSTART:20261129T131000Z
+DTEND:20261129T145500Z
+SUMMARY:Scotland - Argentina
+DESCRIPTION:Nations Championship
+LOCATION:Twickenham Stadium\, London
 END:VEVENT
 END:VCALENDAR

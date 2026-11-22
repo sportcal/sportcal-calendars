@@ -5,42 +5,23 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Incarnate Word Cardinals · NCAA WVB
 BEGIN:VEVENT
-UID:ncaavbw-20261121-incarnate-word-cardinals-lamar-cardinals-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:INCARNATE WORD CARDINALS | NCAA WVB | J2 | 🏟️ | Lamar Cardinal
- s 🇺🇸
-DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+UID:ncaavbw-20261122-southeastern-louisiana-lions-incarnate-word-cardinals-
+ dia@sportcal
+DTSTAMP:20261122T083356Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:INCARNATE WORD CARDINALS | NCAA WVB | J4 | ✈️ | Southeastern Lo
+ uisiana Lions 🇺🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Volleybal
  l\nEstadi: Dugan Wellness Center\, Corpus Christi\, Texas
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaavbw-20261121-incarnate-word-cardinals-lamar-cardinals@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T010000Z
-DTEND:20261121T024500Z
-SUMMARY:Incarnate Word Cardinals - Lamar Cardinals
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Dugan Wellness Center\, Corpus Christi\, Texas
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261121-incarnate-word-cardinals-stephen-f-austin-ladyjacks-di
- a@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:INCARNATE WORD CARDINALS | NCAA WVB | J4 | 🏟️ | Stephen F. Aus
- tin Ladyjacks 🇺🇸
-DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women Volleybal
- l\nEstadi: Dugan Wellness Center\, Corpus Christi\, Texas
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261121-incarnate-word-cardinals-stephen-f-austin-ladyjacks@sp
- ortcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T220000Z
-DTEND:20261121T234500Z
-SUMMARY:Incarnate Word Cardinals - Stephen F. Austin Ladyjacks
+UID:ncaavbw-20261122-southeastern-louisiana-lions-incarnate-word-cardinals@
+ sportcal
+DTSTAMP:20261122T083356Z
+DTSTART:20261122T200000Z
+DTEND:20261122T214500Z
+SUMMARY:Southeastern Louisiana Lions - Incarnate Word Cardinals
 DESCRIPTION:NCAA Division I Women Volleyball
 LOCATION:Dugan Wellness Center\, Corpus Christi\, Texas
 END:VEVENT

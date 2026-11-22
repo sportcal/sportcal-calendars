@@ -5,37 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Green Bay Phoenix · NCAA WVB
 BEGIN:VEVENT
-UID:ncaavbw-20261121-green-bay-phoenix-milwaukee-panthers-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:GREEN BAY PHOENIX | NCAA WVB | J3 | 🏟️ | Milwaukee Panthers 
- 🇺🇸
-DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Volleybal
- l\nEstadi: C.J. McLin Gymnasium\, Dayton\, Ohio
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261121-green-bay-phoenix-milwaukee-panthers@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261120T230000Z
-DTEND:20261121T004500Z
-SUMMARY:Green Bay Phoenix - Milwaukee Panthers
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:C.J. McLin Gymnasium\, Dayton\, Ohio
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaavbw-20261122-northern-kentucky-norse-green-bay-phoenix-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:GREEN BAY PHOENIX | NCAA WVB | J1 | ✈️ | Northern Kentucky Nors
+SUMMARY:GREEN BAY PHOENIX | NCAA WVB | J4 | ✈️ | Northern Kentucky Nors
  e 🇺🇸
 DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Volleybal
  l\nEstadi: C.J. McLin Gymnasium\, Dayton\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261122-northern-kentucky-norse-green-bay-phoenix@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART:20261121T230000Z
 DTEND:20261122T004500Z
 SUMMARY:Northern Kentucky Norse - Green Bay Phoenix

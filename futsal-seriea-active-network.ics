@@ -5,25 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Active Network · Serie A Futsal
 BEGIN:VEVENT
-UID:futsal-seriea-20261121-active-network-napoli-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:ACTIVE NETWORK | Serie A Futsal | J9 | 🏟️ | Napoli 🇮🇹
-DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
-END:VEVENT
-BEGIN:VEVENT
-UID:futsal-seriea-20261121-active-network-napoli@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Active Network - Napoli · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Serie A (Futsal)
-END:VEVENT
-BEGIN:VEVENT
 UID:futsal-seriea-20261128-active-network-came-treviso-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J10 | 🏟️ | CAME Treviso 🇮
@@ -32,7 +15,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261128-active-network-came-treviso@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Active Network - CAME Treviso · TBD
@@ -41,7 +24,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261204-roma-1927-active-network-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J11 | ✈️ | Roma 1927 🇮🇹
@@ -49,7 +32,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261204-roma-1927-active-network@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Roma 1927 - Active Network · TBD
@@ -58,7 +41,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261212-active-network-sandro-abate-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J12 | 🏟️ | Sandro Abate 🇮
@@ -67,7 +50,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261212-active-network-sandro-abate@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Active Network - Sandro Abate · TBD
@@ -76,7 +59,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261218-giovinazzo-active-network-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J13 | ✈️ | Giovinazzo 🇮
@@ -85,7 +68,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20261218-giovinazzo-active-network@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Giovinazzo - Active Network · TBD
@@ -94,7 +77,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270108-feldi-eboli-active-network-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J14 | ✈️ | Feldi Eboli 🇮
@@ -103,7 +86,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270108-feldi-eboli-active-network@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Feldi Eboli - Active Network · TBD
@@ -112,7 +95,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270112-active-network-meta-catania-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J15 | 🏟️ | Meta Catania 🇮
@@ -121,7 +104,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270112-active-network-meta-catania@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Active Network - Meta Catania · TBD
@@ -130,7 +113,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270116-fortitudo-pomezia-active-network-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J16 | ✈️ | Fortitudo Pomezia 
@@ -139,7 +122,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270116-fortitudo-pomezia-active-network@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Fortitudo Pomezia - Active Network · TBD
@@ -148,7 +131,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270123-active-network-capurso-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J17 | 🏟️ | Capurso 🇮🇹
@@ -156,7 +139,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270123-active-network-capurso@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Active Network - Capurso · TBD
@@ -165,7 +148,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270130-petrarca-active-network-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J18 | ✈️ | Petrarca 🇮🇹
@@ -173,7 +156,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270130-petrarca-active-network@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Petrarca - Active Network · TBD
@@ -182,7 +165,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270205-active-network-benevento-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J19 | 🏟️ | Benevento 🇮
@@ -191,7 +174,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270205-active-network-benevento@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Active Network - Benevento · TBD
@@ -200,7 +183,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270212-l84-active-network-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J20 | ✈️ | L84 🇮🇹
@@ -208,7 +191,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270212-l84-active-network@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:L84 - Active Network · TBD
@@ -217,7 +200,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270219-active-network-sala-consilina-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J21 | 🏟️ | Sala Consilina 
@@ -226,7 +209,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270219-active-network-sala-consilina@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:Active Network - Sala Consilina · TBD
@@ -235,7 +218,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270305-napoli-active-network-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J22 | ✈️ | Napoli 🇮🇹
@@ -243,7 +226,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270305-napoli-active-network@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Napoli - Active Network · TBD
@@ -252,7 +235,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270312-came-treviso-active-network-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J23 | ✈️ | CAME Treviso 🇮
@@ -261,7 +244,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270312-came-treviso-active-network@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:CAME Treviso - Active Network · TBD
@@ -270,7 +253,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270319-active-network-roma-1927-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J24 | 🏟️ | Roma 1927 🇮
@@ -279,7 +262,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270319-active-network-roma-1927@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Active Network - Roma 1927 · TBD
@@ -288,7 +271,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270406-sandro-abate-active-network-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J25 | ✈️ | Sandro Abate 🇮
@@ -297,7 +280,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270406-sandro-abate-active-network@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:Sandro Abate - Active Network · TBD
@@ -306,7 +289,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270409-active-network-giovinazzo-dia@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:ACTIVE NETWORK | Serie A Futsal | J26 | 🏟️ | Giovinazzo 🇮
@@ -315,7 +298,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A (Futsal)
 END:VEVENT
 BEGIN:VEVENT
 UID:futsal-seriea-20270409-active-network-giovinazzo@sportcal
-DTSTAMP:20261121T081735Z
+DTSTAMP:20261122T083356Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Active Network - Giovinazzo · TBD

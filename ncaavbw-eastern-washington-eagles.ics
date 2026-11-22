@@ -5,24 +5,24 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eastern Washington Eagles · NCAA WVB
 BEGIN:VEVENT
-UID:ncaavbw-20261121-weber-state-wildcats-eastern-washington-eagles-dia@spo
- rtcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:EASTERN WASHINGTON EAGLES | NCAA WVB | J3 | ✈️ | Weber State Wi
- ldcats 🇺🇸
-DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women Volleybal
- l\nEstadi: Swenson Gym\, Ogden\, Utah
+UID:ncaavbw-20261124-utah-tech-trailblazers-eastern-washington-eagles-dia@s
+ portcal
+DTSTAMP:20261122T083356Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:EASTERN WASHINGTON EAGLES | NCAA WVB | J4 | ✈️ | Utah Tech Trai
+ lblazers 🇺🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Volleybal
+ l\nEstadi: Rolle Activity Center\, Flagstaff\, Arizona
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaavbw-20261121-weber-state-wildcats-eastern-washington-eagles@sportca
- l
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T010000Z
-DTEND:20261121T024500Z
-SUMMARY:Weber State Wildcats - Eastern Washington Eagles
+UID:ncaavbw-20261124-utah-tech-trailblazers-eastern-washington-eagles@sport
+ cal
+DTSTAMP:20261122T083356Z
+DTSTART:20261123T230000Z
+DTEND:20261124T004500Z
+SUMMARY:Utah Tech Trailblazers - Eastern Washington Eagles
 DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Swenson Gym\, Ogden\, Utah
+LOCATION:Rolle Activity Center\, Flagstaff\, Arizona
 END:VEVENT
 END:VCALENDAR

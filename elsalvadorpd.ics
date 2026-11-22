@@ -5,67 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Primera División
 BEGIN:VEVENT
-UID:elsalvadorpd-dia-20261121-j2@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:PRIMERA DIVISIÓN | J2
-DESCRIPTION:22:00 Atlético Balboa - CD Luis Ángel Firpo\n22:00 CD FAS - C
- D Cacahuatique\n22:00 CD Municipal Limeño - Alianza FC\n22:00 AD Isidro M
- etapán - Inter FA\n22:00 CD Águila - CD Platense Municipal\n22:30 CD Fue
- rte San Francisco - CD Inca
+UID:elsalvadorpd-dia-20261122-j3@sportcal
+DTSTAMP:20261122T083356Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:PRIMERA DIVISIÓN | J3
+DESCRIPTION:22:00 CD Fuerte San Francisco - CD Inca
 END:VEVENT
 BEGIN:VEVENT
-UID:elsalvadorpd-20261121-atletico-balboa-cd-luis-angel-firpo@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T210000Z
-DTEND:20261121T224500Z
-SUMMARY:Atlético Balboa - CD Luis Ángel Firpo
-DESCRIPTION:Primera División
-LOCATION:Estadio Marcelino Imbers\, La Union
-END:VEVENT
-BEGIN:VEVENT
-UID:elsalvadorpd-20261121-cd-fas-cd-cacahuatique@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T210000Z
-DTEND:20261121T224500Z
-SUMMARY:CD FAS - CD Cacahuatique
-DESCRIPTION:Primera División
-LOCATION:Estadio Óscar Alberto Quiteño\, Santa Ana
-END:VEVENT
-BEGIN:VEVENT
-UID:elsalvadorpd-20261121-cd-municipal-limeno-alianza-fc@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T210000Z
-DTEND:20261121T224500Z
-SUMMARY:CD Municipal Limeño - Alianza FC
-DESCRIPTION:Primera División
-LOCATION:Estadio Doctor José Ramón Flores Berríos\, Santa Rosa de Lima
-END:VEVENT
-BEGIN:VEVENT
-UID:elsalvadorpd-20261121-ad-isidro-metapan-inter-fa@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T210000Z
-DTEND:20261121T224500Z
-SUMMARY:AD Isidro Metapán - Inter FA
-DESCRIPTION:Primera División
-LOCATION:Estadio Jorge "Calero" Suarez\, Metapán
-END:VEVENT
-BEGIN:VEVENT
-UID:elsalvadorpd-20261121-cd-aguila-cd-platense-municipal@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T210000Z
-DTEND:20261121T224500Z
-SUMMARY:CD Águila - CD Platense Municipal
-DESCRIPTION:Primera División
-LOCATION:Estadio Juan Francisco Barraza\, San Miguel
-END:VEVENT
-BEGIN:VEVENT
-UID:elsalvadorpd-20261121-cd-fuerte-san-francisco-cd-inca@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T213000Z
-DTEND:20261121T231500Z
+UID:elsalvadorpd-20261122-cd-fuerte-san-francisco-cd-inca@sportcal
+DTSTAMP:20261122T083356Z
+DTSTART:20261122T210000Z
+DTEND:20261122T224500Z
 SUMMARY:CD Fuerte San Francisco - CD Inca
 DESCRIPTION:Primera División
+LOCATION:Estadio Correcaminos\, San Salvador
 END:VEVENT
 END:VCALENDAR
