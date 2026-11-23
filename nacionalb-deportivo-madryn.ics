@@ -5,27 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Deportivo Madryn · Primera Nacional
 BEGIN:VEVENT
-UID:nacionalb-20261122-gimnasia-jujuy-deportivo-madryn-dia@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:DEPORTIVO MADRYN | Primera Nacional | J38 | ✈️ | Gimnasia Jujuy
-  🇦🇷
-DESCRIPTION:Inici: 01:30 (Europe/Madrid) · Primera Nacional\nEstadi: 23 de
-  Agosto
-END:VEVENT
-BEGIN:VEVENT
-UID:nacionalb-20261122-gimnasia-jujuy-deportivo-madryn@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T003000Z
-DTEND:20261122T021500Z
-SUMMARY:Gimnasia Jujuy - Deportivo Madryn
-DESCRIPTION:Primera Nacional
-LOCATION:23 de Agosto
-END:VEVENT
-BEGIN:VEVENT
 UID:nacionalb-20261128-deportivo-madryn-gimnasia-jujuy-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:DEPORTIVO MADRYN | Primera Nacional | J39 | 🏟️ | Gimnasia Juju
@@ -34,7 +15,7 @@ DESCRIPTION:Hora pendent de confirmació · Primera Nacional
 END:VEVENT
 BEGIN:VEVENT
 UID:nacionalb-20261128-deportivo-madryn-gimnasia-jujuy@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Deportivo Madryn - Gimnasia Jujuy · TBD

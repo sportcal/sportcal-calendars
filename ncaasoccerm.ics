@@ -5,22 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NCAA Division I Men Soccer
 BEGIN:VEVENT
-UID:ncaasoccerm-dia-20261122-j2@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:NCAA DIVISION I MEN SOCCER | J2
-DESCRIPTION:18:00 Indiana Hoosiers - Missouri State Bears\n19:00 Akron Zips
-  - Wake Forest Demon Deacons\n19:00 Maryland Terrapins - NC State Wolfpack
- \n20:00 Michigan State Spartans - Marshall Thundering Herd\n21:00 West Vir
- ginia Mountaineers - Washington Huskies\n21:00 Wisconsin Badgers - Charlot
- te 49ers\n23:00 Georgetown Hoyas - Syracuse Orange\n23:00 North Carolina T
- ar Heels - UNC Wilmington Seahawks\n23:00 Pittsburgh Panthers - Grand Cany
- on Lopes
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaasoccerm-dia-20261123-j3@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:NCAA DIVISION I MEN SOCCER | J3
@@ -31,142 +17,83 @@ DESCRIPTION:00:00 Clemson Tigers - Vermont Catamounts\n00:00 Kansas City Ro
   Bruins - Omaha Mavericks
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerm-dia-20261128-j1@sportcal
-DTSTAMP:20261122T083356Z
+UID:ncaasoccerm-dia-20261128-j3@sportcal
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:NCAA DIVISION I MEN SOCCER | J1
-DESCRIPTION:Partits per determinar\nPartits per determinar
+SUMMARY:NCAA DIVISION I MEN SOCCER | J3
+DESCRIPTION:23:00 Georgetown Hoyas - UCLA Bruins
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerm-dia-20261129-j5@sportcal
-DTSTAMP:20261122T083356Z
+UID:ncaasoccerm-dia-20261129-j1@sportcal
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:NCAA DIVISION I MEN SOCCER | J5
-DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
- erminar\nPartits per determinar\nPartits per determinar
+SUMMARY:NCAA DIVISION I MEN SOCCER | J1
+DESCRIPTION:Partits per determinar\n01:15 SMU Mustangs - Wisconsin Badgers
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerm-dia-20261204-j15@sportcal
-DTSTAMP:20261122T083356Z
+UID:ncaasoccerm-dia-20261129-j3@sportcal
+DTSTAMP:20261123T081753Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:NCAA DIVISION I MEN SOCCER | J3
+DESCRIPTION:01:00 Marshall Thundering Herd - Wake Forest Demon Deacons\n23:
+ 00 North Carolina Tar Heels - South Carolina Gamecocks
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-dia-20261129-j4@sportcal
+DTSTAMP:20261123T081753Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:NCAA DIVISION I MEN SOCCER | J4
+DESCRIPTION:23:00 Cornell Big Red - Grand Canyon Lopes
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-dia-20261130-j2@sportcal
+DTSTAMP:20261123T081753Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:NCAA DIVISION I MEN SOCCER | J2
+DESCRIPTION:00:00 Kansas City Roos - Vermont Catamounts\n01:00 Indiana Hoos
+ iers - Washington Huskies
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-dia-20261204-j3@sportcal
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:NCAA DIVISION I MEN SOCCER | J15
+SUMMARY:NCAA DIVISION I MEN SOCCER | J3
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerm-dia-20261205-j17@sportcal
-DTSTAMP:20261122T083356Z
+UID:ncaasoccerm-dia-20261205-j5@sportcal
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:NCAA DIVISION I MEN SOCCER | J17
+SUMMARY:NCAA DIVISION I MEN SOCCER | J5
 DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
  erminar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerm-dia-20261211-j23@sportcal
-DTSTAMP:20261122T083356Z
+UID:ncaasoccerm-dia-20261211-j11@sportcal
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:NCAA DIVISION I MEN SOCCER | J23
+SUMMARY:NCAA DIVISION I MEN SOCCER | J11
 DESCRIPTION:Partits per determinar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerm-dia-20261214-j27@sportcal
-DTSTAMP:20261122T083356Z
+UID:ncaasoccerm-dia-20261214-j15@sportcal
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:NCAA DIVISION I MEN SOCCER | J27
+SUMMARY:NCAA DIVISION I MEN SOCCER | J15
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaasoccerm-20261122-indiana-hoosiers-missouri-state-bears@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T170000Z
-DTEND:20261122T184500Z
-SUMMARY:Indiana Hoosiers - Missouri State Bears
-DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:Bill Armstrong Stadium\, Bloomington\, Indiana
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerm-20261122-akron-zips-wake-forest-demon-deacons@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T180000Z
-DTEND:20261122T194500Z
-SUMMARY:Akron Zips - Wake Forest Demon Deacons
-DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:FirstEnergy Stadium\, Akron
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerm-20261122-maryland-terrapins-nc-state-wolfpack@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T180000Z
-DTEND:20261122T194500Z
-SUMMARY:Maryland Terrapins - NC State Wolfpack
-DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:Ludwig Field\, College Park
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerm-20261122-michigan-state-spartans-marshall-thundering-herd@s
- portcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T190000Z
-DTEND:20261122T204500Z
-SUMMARY:Michigan State Spartans - Marshall Thundering Herd
-DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:DeMartin Stadium\, East Lansing
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerm-20261122-west-virginia-mountaineers-washington-huskies@spor
- tcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T200000Z
-DTEND:20261122T214500Z
-SUMMARY:West Virginia Mountaineers - Washington Huskies
-DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:Dick Dlesk Soccer Stadium\, Morgantown
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerm-20261122-wisconsin-badgers-charlotte-49ers@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T200000Z
-DTEND:20261122T214500Z
-SUMMARY:Wisconsin Badgers - Charlotte 49ers
-DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:McClimon Track/Soccer Complex\, Madison\, Wisconsin
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerm-20261122-georgetown-hoyas-syracuse-orange@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T220000Z
-DTEND:20261122T234500Z
-SUMMARY:Georgetown Hoyas - Syracuse Orange
-DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:Shaw Field\, Washington\, District of Columbia
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerm-20261122-north-carolina-tar-heels-unc-wilmington-seahawks@s
- portcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T220000Z
-DTEND:20261122T234500Z
-SUMMARY:North Carolina Tar Heels - UNC Wilmington Seahawks
-DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:Dorrance Field\, Chapel Hill\, North Carolina
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaasoccerm-20261122-pittsburgh-panthers-grand-canyon-lopes@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T220000Z
-DTEND:20261122T234500Z
-SUMMARY:Pittsburgh Panthers - Grand Canyon Lopes
-DESCRIPTION:NCAA Division I Men Soccer
-LOCATION:Ambrose Urbanic Field\, Pittsburgh\, Pennsylvania
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaasoccerm-20261123-clemson-tigers-vermont-catamounts@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261122T230000Z
 DTEND:20261123T004500Z
 SUMMARY:Clemson Tigers - Vermont Catamounts
@@ -175,7 +102,7 @@ LOCATION:Historic Riggs Field\, Clemson\, South Carolina
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerm-20261123-kansas-city-roos-stanford-cardinal@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261122T230000Z
 DTEND:20261123T004500Z
 SUMMARY:Kansas City Roos - Stanford Cardinal
@@ -185,7 +112,7 @@ LOCATION:Stanley H. Durwood Soccer Stadium & Recreational Field\, Kansas Ci
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerm-20261123-louisville-cardinals-oregon-state-beavers@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261122T230000Z
 DTEND:20261123T004500Z
 SUMMARY:Louisville Cardinals - Oregon State Beavers
@@ -194,7 +121,7 @@ LOCATION:Dr. Mark and Cindy Lynn Stadium\, Louisville\, Kentucky
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerm-20261123-rutgers-scarlet-knights-cornell-big-red@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261122T230000Z
 DTEND:20261123T004500Z
 SUMMARY:Rutgers Scarlet Knights - Cornell Big Red
@@ -203,7 +130,7 @@ LOCATION:RWJBarnabas Health Stadium at Yurcak Field\, Piscataway
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerm-20261123-smu-mustangs-bryant-bulldogs@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261123T000000Z
 DTEND:20261123T014500Z
 SUMMARY:SMU Mustangs - Bryant Bulldogs
@@ -212,7 +139,7 @@ LOCATION:Washburne Soccer and Track Stadium\, Dallas
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerm-20261123-south-carolina-gamecocks-portland-pilots@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261123T000000Z
 DTEND:20261123T014500Z
 SUMMARY:South Carolina Gamecocks - Portland Pilots
@@ -221,11 +148,77 @@ LOCATION:Eugene E. Stone III Stadium\, Columbia\, South Carolina
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaasoccerm-20261123-ucla-bruins-omaha-mavericks@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261123T000000Z
 DTEND:20261123T014500Z
 SUMMARY:UCLA Bruins - Omaha Mavericks
 DESCRIPTION:NCAA Division I Men Soccer
 LOCATION:Wallis Annenberg Stadium\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261128-georgetown-hoyas-ucla-bruins@sportcal
+DTSTAMP:20261123T081753Z
+DTSTART:20261128T220000Z
+DTEND:20261128T234500Z
+SUMMARY:Georgetown Hoyas - UCLA Bruins
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Shaw Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261129-marshall-thundering-herd-wake-forest-demon-deacons
+ @sportcal
+DTSTAMP:20261123T081753Z
+DTSTART:20261129T000000Z
+DTEND:20261129T014500Z
+SUMMARY:Marshall Thundering Herd - Wake Forest Demon Deacons
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Hoops Family Field\, Huntington
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261129-smu-mustangs-wisconsin-badgers@sportcal
+DTSTAMP:20261123T081753Z
+DTSTART:20261129T001500Z
+DTEND:20261129T020000Z
+SUMMARY:SMU Mustangs - Wisconsin Badgers
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Washburne Soccer and Track Stadium\, Dallas
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261129-cornell-big-red-grand-canyon-lopes@sportcal
+DTSTAMP:20261123T081753Z
+DTSTART:20261129T220000Z
+DTEND:20261129T234500Z
+SUMMARY:Cornell Big Red - Grand Canyon Lopes
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Charles F. Berman Field\, Ithaca
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261129-north-carolina-tar-heels-south-carolina-gamecocks@
+ sportcal
+DTSTAMP:20261123T081753Z
+DTSTART:20261129T220000Z
+DTEND:20261129T234500Z
+SUMMARY:North Carolina Tar Heels - South Carolina Gamecocks
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Dorrance Field\, Chapel Hill\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261130-kansas-city-roos-vermont-catamounts@sportcal
+DTSTAMP:20261123T081753Z
+DTSTART:20261129T230000Z
+DTEND:20261130T004500Z
+SUMMARY:Kansas City Roos - Vermont Catamounts
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Stanley H. Durwood Soccer Stadium & Recreational Field\, Kansas Ci
+ ty\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaasoccerm-20261130-indiana-hoosiers-washington-huskies@sportcal
+DTSTAMP:20261123T081753Z
+DTSTART:20261130T000000Z
+DTEND:20261130T014500Z
+SUMMARY:Indiana Hoosiers - Washington Huskies
+DESCRIPTION:NCAA Division I Men Soccer
+LOCATION:Bill Armstrong Stadium\, Bloomington\, Indiana
 END:VEVENT
 END:VCALENDAR

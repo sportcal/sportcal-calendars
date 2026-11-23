@@ -5,25 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Athletic de Bilbao · Lliga
 BEGIN:VEVENT
-UID:laliga-20261122-athletic-de-bilbao-espanyol-dia@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:ATHLETIC DE BILBAO | Lliga | J13 | 🏟️ | Espanyol 🇪🇸
-DESCRIPTION:Hora pendent de confirmació · LaLiga
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-20261122-athletic-de-bilbao-espanyol@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Athletic de Bilbao - Espanyol · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · LaLiga
-END:VEVENT
-BEGIN:VEVENT
 UID:laliga-20261129-malaga-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J14 | ✈️ | Malaga 🇪🇸
@@ -31,7 +14,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261129-malaga-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Malaga - Athletic de Bilbao · TBD
@@ -40,7 +23,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261206-athletic-de-bilbao-real-madrid-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J15 | 🏟️ | Real Madrid 🇪🇸
@@ -48,7 +31,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261206-athletic-de-bilbao-real-madrid@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Athletic de Bilbao - Real Madrid · TBD
@@ -57,7 +40,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261213-rc-deportivo-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J16 | ✈️ | RC Deportivo 🇪🇸
@@ -65,7 +48,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261213-rc-deportivo-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:RC Deportivo - Athletic de Bilbao · TBD
@@ -74,7 +57,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261220-athletic-de-bilbao-real-betis-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J17 | 🏟️ | Real Betis 🇪🇸
@@ -82,7 +65,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20261220-athletic-de-bilbao-real-betis@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Athletic de Bilbao - Real Betis · TBD
@@ -91,7 +74,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270103-racing-de-santander-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J18 | ✈️ | Racing de Santander 
@@ -100,7 +83,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270103-racing-de-santander-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Racing de Santander - Athletic de Bilbao · TBD
@@ -109,7 +92,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270110-athletic-de-bilbao-villarreal-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J19 | 🏟️ | Villarreal 🇪🇸
@@ -117,7 +100,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270110-athletic-de-bilbao-villarreal@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Athletic de Bilbao - Villarreal · TBD
@@ -126,7 +109,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270117-getafe-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J20 | ✈️ | Getafe 🇪🇸
@@ -134,7 +117,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270117-getafe-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Getafe - Athletic de Bilbao · TBD
@@ -143,7 +126,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270124-athletic-de-bilbao-levante-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J21 | 🏟️ | Levante 🇪🇸
@@ -151,7 +134,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270124-athletic-de-bilbao-levante@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Athletic de Bilbao - Levante · TBD
@@ -160,7 +143,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270131-sevilla-fc-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J22 | ✈️ | Sevilla FC 🇪🇸
@@ -168,7 +151,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270131-sevilla-fc-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Sevilla FC - Athletic de Bilbao · TBD
@@ -177,7 +160,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270207-athletic-de-bilbao-ca-osasuna-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J23 | 🏟️ | CA Osasuna 🇪🇸
@@ -185,7 +168,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270207-athletic-de-bilbao-ca-osasuna@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Athletic de Bilbao - CA Osasuna · TBD
@@ -194,7 +177,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270214-real-madrid-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J24 | ✈️ | Real Madrid 🇪🇸
@@ -202,7 +185,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270214-real-madrid-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Real Madrid - Athletic de Bilbao · TBD
@@ -211,7 +194,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270221-athletic-de-bilbao-celta-de-vigo-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J25 | 🏟️ | Celta de Vigo 🇪🇸
@@ -219,7 +202,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270221-athletic-de-bilbao-celta-de-vigo@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Athletic de Bilbao - Celta de Vigo · TBD
@@ -228,7 +211,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270228-athletic-de-bilbao-fc-barcelona-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J26 | 🏟️ | FC Barcelona 🇪🇸
@@ -236,7 +219,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270228-athletic-de-bilbao-fc-barcelona@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Athletic de Bilbao - FC Barcelona · TBD
@@ -245,7 +228,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270307-deportivo-alaves-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J27 | ✈️ | Deportivo Alavés 🇪
@@ -254,7 +237,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270307-deportivo-alaves-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Deportivo Alavés - Athletic de Bilbao · TBD
@@ -263,7 +246,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270314-athletic-de-bilbao-valencia-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J28 | 🏟️ | Valencia 🇪🇸
@@ -271,7 +254,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270314-athletic-de-bilbao-valencia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Athletic de Bilbao - Valencia · TBD
@@ -280,7 +263,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270321-espanyol-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J29 | ✈️ | Espanyol 🇪🇸
@@ -288,7 +271,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270321-espanyol-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Espanyol - Athletic de Bilbao · TBD
@@ -297,7 +280,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270404-athletic-de-bilbao-racing-de-santander-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J30 | 🏟️ | Racing de Santander 
@@ -306,7 +289,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270404-athletic-de-bilbao-racing-de-santander@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Athletic de Bilbao - Racing de Santander · TBD
@@ -315,7 +298,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270411-villarreal-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J31 | ✈️ | Villarreal 🇪🇸
@@ -323,7 +306,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270411-villarreal-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Villarreal - Athletic de Bilbao · TBD
@@ -332,7 +315,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270418-real-betis-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J32 | ✈️ | Real Betis 🇪🇸
@@ -340,7 +323,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270418-real-betis-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Real Betis - Athletic de Bilbao · TBD
@@ -349,7 +332,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270421-athletic-de-bilbao-rc-deportivo-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J33 | 🏟️ | RC Deportivo 🇪🇸
@@ -357,7 +340,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270421-athletic-de-bilbao-rc-deportivo@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:Athletic de Bilbao - RC Deportivo · TBD
@@ -366,7 +349,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270502-real-sociedad-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J34 | ✈️ | Real Sociedad 🇪🇸
@@ -374,7 +357,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270502-real-sociedad-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Real Sociedad - Athletic de Bilbao · TBD
@@ -383,7 +366,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270509-athletic-de-bilbao-malaga-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J35 | 🏟️ | Malaga 🇪🇸
@@ -391,7 +374,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270509-athletic-de-bilbao-malaga@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Athletic de Bilbao - Malaga · TBD
@@ -400,7 +383,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270516-elche-cf-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J36 | ✈️ | Elche CF 🇪🇸
@@ -408,7 +391,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270516-elche-cf-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:Elche CF - Athletic de Bilbao · TBD
@@ -417,7 +400,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270523-atletico-madrid-athletic-de-bilbao-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J37 | ✈️ | Atlético Madrid 🇪
@@ -426,7 +409,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270523-atletico-madrid-athletic-de-bilbao@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:Atlético Madrid - Athletic de Bilbao · TBD
@@ -435,7 +418,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270530-athletic-de-bilbao-rayo-vallecano-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:ATHLETIC DE BILBAO | Lliga | J38 | 🏟️ | Rayo Vallecano 🇪
@@ -444,7 +427,7 @@ DESCRIPTION:Hora pendent de confirmació · LaLiga
 END:VEVENT
 BEGIN:VEVENT
 UID:laliga-20270530-athletic-de-bilbao-rayo-vallecano@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:Athletic de Bilbao - Rayo Vallecano · TBD

@@ -5,28 +5,30 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Stephen F. Austin Lumberjacks · NCAA
 BEGIN:VEVENT
-UID:ncaam-20261122-stephen-f-austin-lumberjacks-temple-owls-dia@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J3 | 🏟️ | Temple Owls 
- 🇺🇸
-DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Elridg
+UID:ncaam-20261124-utah-valley-wolverines-stephen-f-austin-lumberjacks-dia@
+ sportcal
+DTSTAMP:20261123T081753Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J4 | ✈️ | Utah Valley Wo
+ lverines 🇺🇸
+DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Elridg
  e Blake Sports and Fitness Center\, Charlotte Amalie\, Virgin Islands
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaam-20261122-stephen-f-austin-lumberjacks-temple-owls@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T223000Z
-DTEND:20261123T001500Z
-SUMMARY:Stephen F. Austin Lumberjacks - Temple Owls
+UID:ncaam-20261124-utah-valley-wolverines-stephen-f-austin-lumberjacks@spor
+ tcal
+DTSTAMP:20261123T081753Z
+DTSTART:20261124T010000Z
+DTEND:20261124T024500Z
+SUMMARY:Utah Valley Wolverines - Stephen F. Austin Lumberjacks
 DESCRIPTION:NCAA Division I
 LOCATION:Elridge Blake Sports and Fitness Center\, Charlotte Amalie\, Virgi
  n Islands
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261202-smu-mustangs-stephen-f-austin-lumberjacks-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J6 | ✈️ | SMU Mustangs 
@@ -36,7 +38,7 @@ DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Moody
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261202-smu-mustangs-stephen-f-austin-lumberjacks@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261202T010000Z
 DTEND:20261202T024500Z
 SUMMARY:SMU Mustangs - Stephen F. Austin Lumberjacks
@@ -46,18 +48,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261205-stephen-f-austin-lumberjacks-east-texas-a-m-lions-dia@sp
  ortcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J79 | 🏟️ | East Texas A
- &M Lions 🇺🇸
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J6 | 🏟️ | East Texas A&
+ M Lions 🇺🇸
 DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
  m R. Johnson Coliseum\, Nacogdoches\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261205-stephen-f-austin-lumberjacks-east-texas-a-m-lions@sportc
  al
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261205T223000Z
 DTEND:20261206T001500Z
 SUMMARY:Stephen F. Austin Lumberjacks - East Texas A&M Lions
@@ -67,10 +69,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261210-stephen-f-austin-lumberjacks-ut-arlington-mavericks-dia@
  sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J6 | 🏟️ | UT Arlington 
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J8 | 🏟️ | UT Arlington 
  Mavericks 🇺🇸
 DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
  m R. Johnson Coliseum\, Nacogdoches\, TX
@@ -78,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261210-stephen-f-austin-lumberjacks-ut-arlington-mavericks@spor
  tcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261210T003000Z
 DTEND:20261210T021500Z
 SUMMARY:Stephen F. Austin Lumberjacks - UT Arlington Mavericks
@@ -88,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261212-louisiana-tech-bulldogs-stephen-f-austin-lumberjacks-dia
  @sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J9 | ✈️ | Louisiana Tech
@@ -99,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261212-louisiana-tech-bulldogs-stephen-f-austin-lumberjacks@spo
  rtcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261212T210000Z
 DTEND:20261212T224500Z
 SUMMARY:Louisiana Tech Bulldogs - Stephen F. Austin Lumberjacks
@@ -109,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-ut-rio-grande-valley-vaqueros-stephen-f-austin-lumberjac
  ks-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J9 | ✈️ | UT Rio Grande 
@@ -120,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-ut-rio-grande-valley-vaqueros-stephen-f-austin-lumberjac
  ks@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261219T223000Z
 DTEND:20261220T001500Z
 SUMMARY:UT Rio Grande Valley Vaqueros - Stephen F. Austin Lumberjacks
@@ -130,10 +132,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261222-texas-a-m-corpus-christi-islanders-stephen-f-austin-lumb
  erjacks-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J85 | ✈️ | Texas A&M-Cor
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J10 | ✈️ | Texas A&M-Cor
  pus Christi Islanders 🇺🇸
 DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hillia
  rd Center\, Corpus Christi\, TX
@@ -141,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261222-texas-a-m-corpus-christi-islanders-stephen-f-austin-lumb
  erjacks@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261222T010000Z
 DTEND:20261222T024500Z
 SUMMARY:Texas A&M-Corpus Christi Islanders - Stephen F. Austin Lumberjacks
@@ -151,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261230-stephen-f-austin-lumberjacks-northwestern-state-demons-d
  ia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J10 | 🏟️ | Northwestern
@@ -162,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261230-stephen-f-austin-lumberjacks-northwestern-state-demons@s
  portcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261230T003000Z
 DTEND:20261230T021500Z
 SUMMARY:Stephen F. Austin Lumberjacks - Northwestern State Demons
@@ -172,10 +174,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-stephen-f-austin-lumberjacks-southeastern-louisiana-lion
  s-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J11 | 🏟️ | Southeastern
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J12 | 🏟️ | Southeastern
   Louisiana Lions 🇺🇸
 DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
  m R. Johnson Coliseum\, Nacogdoches\, TX
@@ -183,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-stephen-f-austin-lumberjacks-southeastern-louisiana-lion
  s@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270102T223000Z
 DTEND:20270103T001500Z
 SUMMARY:Stephen F. Austin Lumberjacks - Southeastern Louisiana Lions
@@ -193,17 +195,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270105-mcneese-cowboys-stephen-f-austin-lumberjacks-dia@sportca
  l
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J12 | ✈️ | McNeese Cowbo
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J13 | ✈️ | McNeese Cowbo
  ys 🇺🇸
 DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Townsl
  ey Law Arena\, Lake Charles\, LA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270105-mcneese-cowboys-stephen-f-austin-lumberjacks@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270105T003000Z
 DTEND:20270105T021500Z
 SUMMARY:McNeese Cowboys - Stephen F. Austin Lumberjacks
@@ -213,10 +215,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270109-houston-christian-huskies-stephen-f-austin-lumberjacks-d
  ia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J13 | ✈️ | Houston Chris
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J14 | ✈️ | Houston Chris
  tian Huskies 🇺🇸
 DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I\nEstadi: Sharp 
  Gymnasium\, Houston\, TX
@@ -224,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270109-houston-christian-huskies-stephen-f-austin-lumberjacks@s
  portcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270109T213000Z
 DTEND:20270109T231500Z
 SUMMARY:Houston Christian Huskies - Stephen F. Austin Lumberjacks
@@ -234,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270112-incarnate-word-cardinals-stephen-f-austin-lumberjacks-di
  a@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J15 | ✈️ | Incarnate Wor
@@ -245,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270112-incarnate-word-cardinals-stephen-f-austin-lumberjacks@sp
  ortcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270112T000000Z
 DTEND:20270112T014500Z
 SUMMARY:Incarnate Word Cardinals - Stephen F. Austin Lumberjacks
@@ -255,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270116-stephen-f-austin-lumberjacks-lsu-new-orleans-privateers-
  dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J17 | 🏟️ | LSU New Orle
@@ -266,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270116-stephen-f-austin-lumberjacks-lsu-new-orleans-privateers@
  sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270116T223000Z
 DTEND:20270117T001500Z
 SUMMARY:Stephen F. Austin Lumberjacks - LSU New Orleans Privateers
@@ -276,17 +278,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270119-stephen-f-austin-lumberjacks-nicholls-colonels-dia@sport
  cal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J16 | 🏟️ | Nicholls Col
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J17 | 🏟️ | Nicholls Col
  onels 🇺🇸
 DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
  m R. Johnson Coliseum\, Nacogdoches\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270119-stephen-f-austin-lumberjacks-nicholls-colonels@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270119T003000Z
 DTEND:20270119T021500Z
 SUMMARY:Stephen F. Austin Lumberjacks - Nicholls Colonels
@@ -296,17 +298,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270123-stephen-f-austin-lumberjacks-mcneese-cowboys-dia@sportca
  l
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J17 | 🏟️ | McNeese Cowb
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J18 | 🏟️ | McNeese Cowb
  oys 🇺🇸
 DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
  m R. Johnson Coliseum\, Nacogdoches\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270123-stephen-f-austin-lumberjacks-mcneese-cowboys@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270123T223000Z
 DTEND:20270124T001500Z
 SUMMARY:Stephen F. Austin Lumberjacks - McNeese Cowboys
@@ -316,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270127-southeastern-louisiana-lions-stephen-f-austin-lumberjack
  s-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J19 | ✈️ | Southeastern 
@@ -327,7 +329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270127-southeastern-louisiana-lions-stephen-f-austin-lumberjack
  s@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270127T000000Z
 DTEND:20270127T014500Z
 SUMMARY:Southeastern Louisiana Lions - Stephen F. Austin Lumberjacks
@@ -337,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270130-stephen-f-austin-lumberjacks-lamar-cardinals-dia@sportca
  l
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J20 | 🏟️ | Lamar Cardin
@@ -347,7 +349,7 @@ DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270130-stephen-f-austin-lumberjacks-lamar-cardinals@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270130T223000Z
 DTEND:20270131T001500Z
 SUMMARY:Stephen F. Austin Lumberjacks - Lamar Cardinals
@@ -357,10 +359,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270202-northwestern-state-demons-stephen-f-austin-lumberjacks-d
  ia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J20 | ✈️ | Northwestern 
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J21 | ✈️ | Northwestern 
  State Demons 🇺🇸
 DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Prathe
  r Coliseum\, Natchitoches\, LA
@@ -368,7 +370,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270202-northwestern-state-demons-stephen-f-austin-lumberjacks@s
  portcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270202T003000Z
 DTEND:20270202T021500Z
 SUMMARY:Northwestern State Demons - Stephen F. Austin Lumberjacks
@@ -378,17 +380,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270207-lamar-cardinals-stephen-f-austin-lumberjacks-dia@sportca
  l
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J21 | ✈️ | Lamar Cardina
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J22 | ✈️ | Lamar Cardina
  ls 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Montag
  ne Center\, Beaumont\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270207-lamar-cardinals-stephen-f-austin-lumberjacks@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270207T000000Z
 DTEND:20270207T014500Z
 SUMMARY:Lamar Cardinals - Stephen F. Austin Lumberjacks
@@ -398,10 +400,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270209-east-texas-a-m-lions-stephen-f-austin-lumberjacks-dia@sp
  ortcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J24 | ✈️ | East Texas A&
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J23 | ✈️ | East Texas A&
  M Lions 🇺🇸
 DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: The Fi
  eld House\, Commerce\, TX
@@ -409,7 +411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270209-east-texas-a-m-lions-stephen-f-austin-lumberjacks@sportc
  al
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270209T003000Z
 DTEND:20270209T021500Z
 SUMMARY:East Texas A&M Lions - Stephen F. Austin Lumberjacks
@@ -419,10 +421,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270213-stephen-f-austin-lumberjacks-ut-rio-grande-valley-vaquer
  os-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J22 | 🏟️ | UT Rio Grand
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J24 | 🏟️ | UT Rio Grand
  e Valley Vaqueros 🇺🇸
 DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
  m R. Johnson Coliseum\, Nacogdoches\, TX
@@ -430,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270213-stephen-f-austin-lumberjacks-ut-rio-grande-valley-vaquer
  os@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270213T223000Z
 DTEND:20270214T001500Z
 SUMMARY:Stephen F. Austin Lumberjacks - UT Rio Grande Valley Vaqueros
@@ -440,7 +442,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270216-stephen-f-austin-lumberjacks-texas-a-m-corpus-christi-is
  landers-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J25 | 🏟️ | Texas A&M-Co
@@ -451,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270216-stephen-f-austin-lumberjacks-texas-a-m-corpus-christi-is
  landers@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270216T003000Z
 DTEND:20270216T021500Z
 SUMMARY:Stephen F. Austin Lumberjacks - Texas A&M-Corpus Christi Islanders
@@ -461,17 +463,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270220-nicholls-colonels-stephen-f-austin-lumberjacks-dia@sport
  cal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J25 | ✈️ | Nicholls Colo
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J26 | ✈️ | Nicholls Colo
  nels 🇺🇸
 DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: David 
  R. Stopher Gymnasium\, Thibodaux\, LA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270220-nicholls-colonels-stephen-f-austin-lumberjacks@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270220T210000Z
 DTEND:20270220T224500Z
 SUMMARY:Nicholls Colonels - Stephen F. Austin Lumberjacks
@@ -481,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270223-lsu-new-orleans-privateers-stephen-f-austin-lumberjacks-
  dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J27 | ✈️ | LSU New Orlea
@@ -492,7 +494,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270223-lsu-new-orleans-privateers-stephen-f-austin-lumberjacks@
  sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270223T003000Z
 DTEND:20270223T021500Z
 SUMMARY:LSU New Orleans Privateers - Stephen F. Austin Lumberjacks
@@ -502,10 +504,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270227-stephen-f-austin-lumberjacks-houston-christian-huskies-d
  ia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J27 | 🏟️ | Houston Chri
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J28 | 🏟️ | Houston Chri
  stian Huskies 🇺🇸
 DESCRIPTION:Inici: 23:30 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
  m R. Johnson Coliseum\, Nacogdoches\, TX
@@ -513,7 +515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270227-stephen-f-austin-lumberjacks-houston-christian-huskies@s
  portcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270227T223000Z
 DTEND:20270228T001500Z
 SUMMARY:Stephen F. Austin Lumberjacks - Houston Christian Huskies
@@ -523,10 +525,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270302-stephen-f-austin-lumberjacks-incarnate-word-cardinals-di
  a@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J27 | 🏟️ | Incarnate Wo
+SUMMARY:STEPHEN F. AUSTIN LUMBERJACKS | NCAA | J29 | 🏟️ | Incarnate Wo
  rd Cardinals 🇺🇸
 DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Willia
  m R. Johnson Coliseum\, Nacogdoches\, TX
@@ -534,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270302-stephen-f-austin-lumberjacks-incarnate-word-cardinals@sp
  ortcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270302T003000Z
 DTEND:20270302T021500Z
 SUMMARY:Stephen F. Austin Lumberjacks - Incarnate Word Cardinals

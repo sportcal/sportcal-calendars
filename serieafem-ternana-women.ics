@@ -5,24 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ternana Women · Serie A Women
 BEGIN:VEVENT
-UID:serieafem-20261122-ternana-women-inter-women-dia@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:TERNANA WOMEN | Serie A Women | J8 | 🏟️ | Inter Women 🇮🇹
-DESCRIPTION:Inici: 12:30 (Europe/Madrid) · Serie A Women
-END:VEVENT
-BEGIN:VEVENT
-UID:serieafem-20261122-ternana-women-inter-women@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T113000Z
-DTEND:20261122T131500Z
-SUMMARY:Ternana Women - Inter Women
-DESCRIPTION:Serie A Women
-END:VEVENT
-BEGIN:VEVENT
 UID:serieafem-20261213-napoli-women-ternana-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:TERNANA WOMEN | Serie A Women | J9 | ✈️ | Napoli Women 🇮🇹
@@ -30,7 +14,7 @@ DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20261213-napoli-women-ternana-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261213T140000Z
 DTEND:20261213T154500Z
 SUMMARY:Napoli Women - Ternana Women
@@ -38,7 +22,7 @@ DESCRIPTION:Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270116-ternana-women-roma-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:TERNANA WOMEN | Serie A Women | J10 | 🏟️ | Roma Women 🇮🇹
@@ -46,7 +30,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270116-ternana-women-roma-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Ternana Women - Roma Women · TBD
@@ -55,7 +39,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270123-juventus-women-ternana-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:TERNANA WOMEN | Serie A Women | J11 | ✈️ | Juventus Women 🇮
@@ -64,7 +48,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270123-juventus-women-ternana-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Juventus Women - Ternana Women · TBD
@@ -73,7 +57,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270130-como-women-ternana-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:TERNANA WOMEN | Serie A Women | J12 | ✈️ | Como Women 🇮🇹
@@ -81,7 +65,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270130-como-women-ternana-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Como Women - Ternana Women · TBD
@@ -90,7 +74,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270206-ternana-women-parma-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:TERNANA WOMEN | Serie A Women | J13 | 🏟️ | Parma Women 🇮
@@ -99,7 +83,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270206-ternana-women-parma-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Ternana Women - Parma Women · TBD
@@ -108,7 +92,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270213-s-s-lazio-women-ternana-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:TERNANA WOMEN | Serie A Women | J14 | ✈️ | S.S. Lazio Women 
@@ -117,7 +101,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270213-s-s-lazio-women-ternana-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:S.S. Lazio Women - Ternana Women · TBD
@@ -126,7 +110,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270220-ternana-women-milan-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:TERNANA WOMEN | Serie A Women | J15 | 🏟️ | Milan Women 🇮
@@ -135,7 +119,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270220-ternana-women-milan-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Ternana Women - Milan Women · TBD
@@ -144,7 +128,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270313-como-1907-women-ternana-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:TERNANA WOMEN | Serie A Women | J16 | ✈️ | Como 1907 Women 🇮
@@ -153,7 +137,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270313-como-1907-women-ternana-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Como 1907 Women - Ternana Women · TBD
@@ -162,7 +146,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270320-fiorentina-women-ternana-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:TERNANA WOMEN | Serie A Women | J17 | ✈️ | Fiorentina Women 
@@ -171,7 +155,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270320-fiorentina-women-ternana-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Fiorentina Women - Ternana Women · TBD
@@ -180,7 +164,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270403-ternana-women-us-sassuolo-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:TERNANA WOMEN | Serie A Women | J18 | 🏟️ | US Sassuolo Women 
@@ -189,7 +173,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270403-ternana-women-us-sassuolo-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:Ternana Women - US Sassuolo Women · TBD
@@ -198,7 +182,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270410-inter-women-ternana-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:TERNANA WOMEN | Serie A Women | J19 | ✈️ | Inter Women 🇮🇹
@@ -206,7 +190,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270410-inter-women-ternana-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:Inter Women - Ternana Women · TBD
@@ -215,7 +199,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270501-ternana-women-napoli-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:TERNANA WOMEN | Serie A Women | J20 | 🏟️ | Napoli Women 🇮
@@ -224,7 +208,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270501-ternana-women-napoli-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Ternana Women - Napoli Women · TBD
@@ -233,7 +217,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270508-roma-women-ternana-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:TERNANA WOMEN | Serie A Women | J21 | ✈️ | Roma Women 🇮🇹
@@ -241,7 +225,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270508-roma-women-ternana-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Roma Women - Ternana Women · TBD
@@ -250,7 +234,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270515-ternana-women-juventus-women-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:TERNANA WOMEN | Serie A Women | J22 | 🏟️ | Juventus Women 🇮
@@ -259,7 +243,7 @@ DESCRIPTION:Hora pendent de confirmació · Serie A Women
 END:VEVENT
 BEGIN:VEVENT
 UID:serieafem-20270515-ternana-women-juventus-women@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Ternana Women - Juventus Women · TBD

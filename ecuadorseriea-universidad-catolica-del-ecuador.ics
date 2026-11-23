@@ -5,28 +5,28 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Universidad Catolica del Ecuador · Serie A
 BEGIN:VEVENT
-UID:ecuadorseriea-20261129-universidad-catolica-del-ecuador-independiente-d
+UID:ecuadorseriea-20261128-universidad-catolica-del-ecuador-independiente-d
  el-valle-dia@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
+DTSTAMP:20261123T081753Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
 SUMMARY:UNIVERSIDAD CATOLICA DEL ECUADOR | Serie A | J38 | 🏟️ | Indepe
  ndiente del Valle 🇪🇨
-DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Ecuador Serie A
+DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Ecuador Serie A
 END:VEVENT
 BEGIN:VEVENT
-UID:ecuadorseriea-20261129-universidad-catolica-del-ecuador-independiente-d
+UID:ecuadorseriea-20261128-universidad-catolica-del-ecuador-independiente-d
  el-valle@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261129T000000Z
-DTEND:20261129T014500Z
+DTSTAMP:20261123T081753Z
+DTSTART:20261128T163000Z
+DTEND:20261128T181500Z
 SUMMARY:Universidad Catolica del Ecuador - Independiente del Valle
 DESCRIPTION:Ecuador Serie A
 END:VEVENT
 BEGIN:VEVENT
 UID:ecuadorseriea-20261206-aucas-universidad-catolica-del-ecuador-dia@sport
  cal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:UNIVERSIDAD CATOLICA DEL ECUADOR | Serie A | J39 | ✈️ | Aucas 
@@ -35,7 +35,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Ecuador Serie A
 END:VEVENT
 BEGIN:VEVENT
 UID:ecuadorseriea-20261206-aucas-universidad-catolica-del-ecuador@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261206T000000Z
 DTEND:20261206T014500Z
 SUMMARY:Aucas - Universidad Catolica del Ecuador
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecuadorseriea-20261213-universidad-catolica-del-ecuador-ldu-de-quito-di
  a@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:UNIVERSIDAD CATOLICA DEL ECUADOR | Serie A | J40 | 🏟️ | LDU de
@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecuadorseriea-20261213-universidad-catolica-del-ecuador-ldu-de-quito@sp
  ortcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261213T000000Z
 DTEND:20261213T014500Z
 SUMMARY:Universidad Catolica del Ecuador - LDU de Quito

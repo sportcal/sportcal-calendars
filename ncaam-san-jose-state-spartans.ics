@@ -5,39 +5,59 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:San José State Spartans · NCAA
 BEGIN:VEVENT
-UID:ncaam-20261123-loyola-chicago-ramblers-san-jose-state-spartans-dia@spor
+UID:ncaam-20261123-san-jose-state-spartans-loyola-chicago-ramblers-dia@spor
  tcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J3 | ✈️ | Loyola Chicago Ramb
- lers 🇺🇸
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J3 | 🏟️ | Loyola Chicago Ram
+ blers 🇺🇸
 DESCRIPTION:Inici: 05:59 (Europe/Madrid) · NCAA Division I\nEstadi: Acrisu
  re Arena\, Palm Springs\, CA
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaam-20261123-loyola-chicago-ramblers-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+UID:ncaam-20261123-san-jose-state-spartans-loyola-chicago-ramblers@sportcal
+DTSTAMP:20261123T081753Z
 DTSTART:20261123T045900Z
 DTEND:20261123T064400Z
-SUMMARY:Loyola Chicago Ramblers - San José State Spartans
+SUMMARY:San José State Spartans - Loyola Chicago Ramblers
+DESCRIPTION:NCAA Division I
+LOCATION:Acrisure Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-uc-san-diego-tritons-san-jose-state-spartans-dia@sportca
+ l
+DTSTAMP:20261123T081753Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J4 | ✈️ | UC San Diego Triton
+ s 🇺🇸
+DESCRIPTION:Inici: 05:59 (Europe/Madrid) · NCAA Division I\nEstadi: Acrisu
+ re Arena\, Palm Springs\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaam-20261124-uc-san-diego-tritons-san-jose-state-spartans@sportcal
+DTSTAMP:20261123T081753Z
+DTSTART:20261124T045900Z
+DTEND:20261124T064400Z
+SUMMARY:UC San Diego Tritons - San José State Spartans
 DESCRIPTION:NCAA Division I
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261128-utah-valley-wolverines-san-jose-state-spartans-dia@sport
  cal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J4 | ✈️ | Utah Valley Wolveri
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J5 | ✈️ | Utah Valley Wolveri
  nes 🇺🇸
 DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I\nEstadi: UCCU C
  enter\, Orem\, UT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261128-utah-valley-wolverines-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261128T210000Z
 DTEND:20261128T224500Z
 SUMMARY:Utah Valley Wolverines - San José State Spartans
@@ -46,7 +66,7 @@ LOCATION:UCCU Center\, Orem\, UT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261206-san-jose-state-spartans-seattle-u-redhawks-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J7 | 🏟️ | Seattle U Redhawks
@@ -56,7 +76,7 @@ DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Provid
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261206-san-jose-state-spartans-seattle-u-redhawks@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261206T020000Z
 DTEND:20261206T034500Z
 SUMMARY:San José State Spartans - Seattle U Redhawks
@@ -66,17 +86,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261209-san-jose-state-spartans-long-beach-state-beach-dia@sport
  cal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J9 | 🏟️ | Long Beach State B
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J7 | 🏟️ | Long Beach State B
  each 🇺🇸
 DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Provid
  ent Credit Union Event Center\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261209-san-jose-state-spartans-long-beach-state-beach@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261209T030000Z
 DTEND:20261209T044500Z
 SUMMARY:San José State Spartans - Long Beach State Beach
@@ -86,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261212-san-jose-state-spartans-southern-utah-thunderbirds-dia@s
  portcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J9 | 🏟️ | Southern Utah Thun
@@ -97,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261212-san-jose-state-spartans-southern-utah-thunderbirds@sport
  cal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261212T220000Z
 DTEND:20261212T234500Z
 SUMMARY:San José State Spartans - Southern Utah Thunderbirds
@@ -106,7 +126,7 @@ LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-stanford-cardinal-san-jose-state-spartans-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J9 | ✈️ | Stanford Cardinal 
@@ -116,7 +136,7 @@ DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Maples
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-stanford-cardinal-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261219T030000Z
 DTEND:20261219T044500Z
 SUMMARY:Stanford Cardinal - San José State Spartans
@@ -126,17 +146,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261223-san-jose-state-spartans-uc-san-diego-tritons-dia@sportca
  l
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J9 | 🏟️ | UC San Diego Trito
- ns 🇺🇸
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J10 | 🏟️ | UC San Diego Trit
+ ons 🇺🇸
 DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Provid
  ent Credit Union Event Center\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261223-san-jose-state-spartans-uc-san-diego-tritons@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261223T003000Z
 DTEND:20261223T021500Z
 SUMMARY:San José State Spartans - UC San Diego Tritons
@@ -146,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261230-san-jose-state-spartans-lincoln-ca-oaklanders-dia@sportc
  al
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J10 | 🏟️ | Lincoln (CA) Oakl
@@ -156,7 +176,7 @@ DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I\nEstadi: Provid
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261230-san-jose-state-spartans-lincoln-ca-oaklanders@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20261230T003000Z
 DTEND:20261230T021500Z
 SUMMARY:San José State Spartans - Lincoln (CA) Oaklanders
@@ -166,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-san-jose-state-spartans-hawai-i-rainbow-warriors-dia@spo
  rtcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J11 | 🏟️ | Hawai'i Rainbow W
@@ -176,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-san-jose-state-spartans-hawai-i-rainbow-warriors@sportca
  l
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:San José State Spartans - Hawai'i Rainbow Warriors · TBD
@@ -185,7 +205,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270106-air-force-falcons-san-jose-state-spartans-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J13 | ✈️ | Air Force Falcons 
@@ -195,7 +215,7 @@ DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I\nEstadi: Clune
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270106-air-force-falcons-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270106T013000Z
 DTEND:20270106T031500Z
 SUMMARY:Air Force Falcons - San José State Spartans
@@ -204,7 +224,7 @@ LOCATION:Clune Arena\, Colorado Springs\, CO
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270109-san-jose-state-spartans-unlv-rebels-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J13 | 🏟️ | UNLV Rebels 🇺
@@ -213,7 +233,7 @@ DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270109-san-jose-state-spartans-unlv-rebels@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:San José State Spartans - UNLV Rebels · TBD
@@ -222,17 +242,17 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270114-san-jose-state-spartans-grand-canyon-lopes-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J14 | 🏟️ | Grand Canyon Lope
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J16 | 🏟️ | Grand Canyon Lope
  s 🇺🇸
 DESCRIPTION:Inici: 05:00 (Europe/Madrid) · NCAA Division I\nEstadi: Provid
  ent Credit Union Event Center\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270114-san-jose-state-spartans-grand-canyon-lopes@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270114T040000Z
 DTEND:20270114T054500Z
 SUMMARY:San José State Spartans - Grand Canyon Lopes
@@ -241,7 +261,7 @@ LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270117-uc-davis-aggies-san-jose-state-spartans-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J16 | ✈️ | UC Davis Aggies 
@@ -251,7 +271,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Univer
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270117-uc-davis-aggies-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270117T000000Z
 DTEND:20270117T014500Z
 SUMMARY:UC Davis Aggies - San José State Spartans
@@ -260,17 +280,17 @@ LOCATION:University Credit Union Center\, Davis\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270121-new-mexico-lobos-san-jose-state-spartans-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J16 | ✈️ | New Mexico Lobos 
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J18 | ✈️ | New Mexico Lobos 
  🇺🇸
 DESCRIPTION:Inici: 05:00 (Europe/Madrid) · NCAA Division I\nEstadi: The Pi
  t\, Albuquerque\, NM
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270121-new-mexico-lobos-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270121T040000Z
 DTEND:20270121T054500Z
 SUMMARY:New Mexico Lobos - San José State Spartans
@@ -279,7 +299,7 @@ LOCATION:The Pit\, Albuquerque\, NM
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270123-san-jose-state-spartans-nevada-wolf-pack-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J18 | 🏟️ | Nevada Wolf Pack 
@@ -288,7 +308,7 @@ DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270123-san-jose-state-spartans-nevada-wolf-pack@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:San José State Spartans - Nevada Wolf Pack · TBD
@@ -297,7 +317,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270131-utep-miners-san-jose-state-spartans-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J18 | ✈️ | UTEP Miners 🇺
@@ -307,7 +327,7 @@ DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I\nEstadi: Don Ha
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270131-utep-miners-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270131T020000Z
 DTEND:20270131T034500Z
 SUMMARY:UTEP Miners - San José State Spartans
@@ -316,17 +336,17 @@ LOCATION:Don Haskins Center\, El Paso\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270203-san-jose-state-spartans-new-mexico-lobos-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J22 | 🏟️ | New Mexico Lobos 
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J20 | 🏟️ | New Mexico Lobos 
  🇺🇸
 DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Provid
  ent Credit Union Event Center\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270203-san-jose-state-spartans-new-mexico-lobos@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270203T030000Z
 DTEND:20270203T044500Z
 SUMMARY:San José State Spartans - New Mexico Lobos
@@ -335,7 +355,7 @@ LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270207-unlv-rebels-san-jose-state-spartans-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J21 | ✈️ | UNLV Rebels 🇺
@@ -345,7 +365,7 @@ DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Thomas
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270207-unlv-rebels-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270206T230000Z
 DTEND:20270207T004500Z
 SUMMARY:UNLV Rebels - San José State Spartans
@@ -354,17 +374,17 @@ LOCATION:Thomas & Mack Center\, Las Vegas\, NV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270210-san-jose-state-spartans-uc-davis-aggies-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J23 | 🏟️ | UC Davis Aggies 
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J22 | 🏟️ | UC Davis Aggies 
  🇺🇸
 DESCRIPTION:Inici: 04:30 (Europe/Madrid) · NCAA Division I\nEstadi: Provid
  ent Credit Union Event Center\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270210-san-jose-state-spartans-uc-davis-aggies@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270210T033000Z
 DTEND:20270210T051500Z
 SUMMARY:San José State Spartans - UC Davis Aggies
@@ -373,7 +393,7 @@ LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270213-san-jose-state-spartans-air-force-falcons-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J22 | 🏟️ | Air Force Falcons
@@ -382,7 +402,7 @@ DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270213-san-jose-state-spartans-air-force-falcons@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:San José State Spartans - Air Force Falcons · TBD
@@ -392,7 +412,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270216-hawai-i-rainbow-warriors-san-jose-state-spartans-dia@spo
  rtcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J25 | ✈️ | Hawai'i Rainbow Wa
@@ -402,7 +422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270216-hawai-i-rainbow-warriors-san-jose-state-spartans@sportca
  l
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:Hawai'i Rainbow Warriors - San José State Spartans · TBD
@@ -411,7 +431,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270220-san-jose-state-spartans-wyoming-cowboys-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J25 | 🏟️ | Wyoming Cowboys 
@@ -420,7 +440,7 @@ DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270220-san-jose-state-spartans-wyoming-cowboys@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:San José State Spartans - Wyoming Cowboys · TBD
@@ -429,7 +449,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270224-nevada-wolf-pack-san-jose-state-spartans-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J26 | ✈️ | Nevada Wolf Pack 
@@ -439,7 +459,7 @@ DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NCAA Division I\nEstadi: Lawlor
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270224-nevada-wolf-pack-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270224T030000Z
 DTEND:20270224T044500Z
 SUMMARY:Nevada Wolf Pack - San José State Spartans
@@ -448,17 +468,17 @@ LOCATION:Lawlor Events Center\, Reno\, NV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270227-grand-canyon-lopes-san-jose-state-spartans-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J26 | ✈️ | Grand Canyon Lopes
+SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J27 | ✈️ | Grand Canyon Lopes
   🇺🇸
 DESCRIPTION:Inici: 05:00 (Europe/Madrid) · NCAA Division I\nEstadi: Global
   Credit Union Arena\, Phoenix\, AZ
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270227-grand-canyon-lopes-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270227T040000Z
 DTEND:20270227T054500Z
 SUMMARY:Grand Canyon Lopes - San José State Spartans
@@ -467,7 +487,7 @@ LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270302-san-jose-state-spartans-utep-miners-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J27 | 🏟️ | UTEP Miners 🇺
@@ -476,7 +496,7 @@ DESCRIPTION:Hora pendent de confirmació · NCAA Division I
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270302-san-jose-state-spartans-utep-miners@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:San José State Spartans - UTEP Miners · TBD
@@ -485,7 +505,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270306-wyoming-cowboys-san-jose-state-spartans-dia@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:SAN JOSÉ STATE SPARTANS | NCAA | J29 | ✈️ | Wyoming Cowboys 
@@ -495,7 +515,7 @@ DESCRIPTION:Inici: 05:00 (Europe/Madrid) · NCAA Division I\nEstadi: Arena-
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270306-wyoming-cowboys-san-jose-state-spartans@sportcal
-DTSTAMP:20261122T083356Z
+DTSTAMP:20261123T081753Z
 DTSTART:20270306T040000Z
 DTEND:20270306T054500Z
 SUMMARY:Wyoming Cowboys - San José State Spartans
