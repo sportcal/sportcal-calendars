@@ -5,21 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Universitario de Deportes · Liga 1
 BEGIN:VEVENT
-UID:peruliga1-20261122-sport-huancayo-universitario-de-deportes-dia@sportca
+UID:peruliga1-20261128-sport-huancayo-universitario-de-deportes-dia@sportca
  l
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:UNIVERSITARIO DE DEPORTES | Liga 1 | J1 | ✈️ | Sport Huancayo 
+DTSTAMP:20261124T092206Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:UNIVERSITARIO DE DEPORTES | Liga 1 | J2 | ✈️ | Sport Huancayo 
  🇵🇪
 DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Liga 1\nEstadi: Estadio Huancay
  o\, Huancayo
 END:VEVENT
 BEGIN:VEVENT
-UID:peruliga1-20261122-sport-huancayo-universitario-de-deportes@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T200000Z
-DTEND:20261122T214500Z
+UID:peruliga1-20261128-sport-huancayo-universitario-de-deportes@sportcal
+DTSTAMP:20261124T092206Z
+DTSTART:20261128T200000Z
+DTEND:20261128T214500Z
 SUMMARY:Sport Huancayo - Universitario de Deportes
 DESCRIPTION:Liga 1
 LOCATION:Estadio Huancayo\, Huancayo

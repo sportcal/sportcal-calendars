@@ -5,39 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Boston College Eagles · NCAA MH
 BEGIN:VEVENT
-UID:ncaaihm-20261127-notre-dame-fighting-irish-boston-college-eagles-dia@sp
- ortcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J5 | ✈️ | Notre Dame Fighting
-  Irish 🇺🇸
-DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
- adi: Compton Family Ice Arena\, South Bend\, IN
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihm-20261127-notre-dame-fighting-irish-boston-college-eagles@sportc
- al
-DTSTAMP:20261123T081753Z
-DTSTART:20261127T200000Z
-DTEND:20261127T214500Z
-SUMMARY:Notre Dame Fighting Irish - Boston College Eagles
-DESCRIPTION:NCAA Division I Men Hockey
-LOCATION:Compton Family Ice Arena\, South Bend\, IN
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaaihm-20261129-harvard-crimson-boston-college-eagles-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J6 | ✈️ | Harvard Crimson 
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J2 | ✈️ | Harvard Crimson 
  🇺🇸
 DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Bright-Landry Hockey Center\, Boston\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261129-harvard-crimson-boston-college-eagles@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261129T210000Z
 DTEND:20261129T224500Z
 SUMMARY:Harvard Crimson - Boston College Eagles
@@ -47,10 +26,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261205-boston-college-eagles-umass-lowell-river-hawks-dia@spo
  rtcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J5 | 🏟️ | UMass Lowell River
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J2 | 🏟️ | UMass Lowell River
   Hawks 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Conte Forum\, Chestnut Hill\, MA
@@ -58,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261205-boston-college-eagles-umass-lowell-river-hawks@sportca
  l
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261205T000000Z
 DTEND:20261205T014500Z
 SUMMARY:Boston College Eagles - UMass Lowell River Hawks
@@ -68,10 +47,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261206-umass-lowell-river-hawks-boston-college-eagles-dia@spo
  rtcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J6 | ✈️ | UMass Lowell River 
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J3 | ✈️ | UMass Lowell River 
  Hawks 🇺🇸
 DESCRIPTION:Inici: 00:05 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Tsongas Center\, Lowell\, MA
@@ -79,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261206-umass-lowell-river-hawks-boston-college-eagles@sportca
  l
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261205T230500Z
 DTEND:20261206T005000Z
 SUMMARY:UMass Lowell River Hawks - Boston College Eagles
@@ -88,17 +67,17 @@ LOCATION:Tsongas Center\, Lowell\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270109-boston-college-eagles-stonehill-skyhawks-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J10 | 🏟️ | Stonehill Skyhawk
- s 🇺🇸
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J6 | 🏟️ | Stonehill Skyhawks
+  🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270109-boston-college-eagles-stonehill-skyhawks@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270109T000000Z
 DTEND:20270109T014500Z
 SUMMARY:Boston College Eagles - Stonehill Skyhawks
@@ -107,17 +86,17 @@ LOCATION:Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270116-providence-friars-boston-college-eagles-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J15 | ✈️ | Providence Friars 
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J6 | ✈️ | Providence Friars 
  🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Schneider Arena\, Providence\, RI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270116-providence-friars-boston-college-eagles@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270116T000000Z
 DTEND:20270116T014500Z
 SUMMARY:Providence Friars - Boston College Eagles
@@ -126,17 +105,17 @@ LOCATION:Schneider Arena\, Providence\, RI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270117-boston-college-eagles-providence-friars-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J13 | 🏟️ | Providence Friars
-  🇺🇸
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J7 | 🏟️ | Providence Friars 
+ 🇺🇸
 DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270117-boston-college-eagles-providence-friars@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270116T230000Z
 DTEND:20270117T004500Z
 SUMMARY:Boston College Eagles - Providence Friars
@@ -146,17 +125,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270123-boston-college-eagles-new-hampshire-wildcats-dia@sport
  cal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J14 | 🏟️ | New Hampshire Wil
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J11 | 🏟️ | New Hampshire Wil
  dcats 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270123-boston-college-eagles-new-hampshire-wildcats@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270123T000000Z
 DTEND:20270123T014500Z
 SUMMARY:Boston College Eagles - New Hampshire Wildcats
@@ -166,17 +145,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270124-new-hampshire-wildcats-boston-college-eagles-dia@sport
  cal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J15 | ✈️ | New Hampshire Wild
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J10 | ✈️ | New Hampshire Wild
  cats 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Whittemore Center\, Durham\, NH
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270124-new-hampshire-wildcats-boston-college-eagles@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270124T000000Z
 DTEND:20270124T014500Z
 SUMMARY:New Hampshire Wildcats - Boston College Eagles
@@ -186,10 +165,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270130-boston-college-eagles-boston-university-terriers-dia@s
  portcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J13 | 🏟️ | Boston University
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J11 | 🏟️ | Boston University
   Terriers 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Conte Forum\, Chestnut Hill\, MA
@@ -197,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270130-boston-college-eagles-boston-university-terriers@sport
  cal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270130T000000Z
 DTEND:20270130T014500Z
 SUMMARY:Boston College Eagles - Boston University Terriers
@@ -207,10 +186,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270202-boston-college-eagles-boston-university-terriers-dia@s
  portcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J17 | 🏟️ | Boston University
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J13 | 🏟️ | Boston University
   Terriers 🇺🇸
 DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: TD Garden\, Boston\, MA
@@ -218,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270202-boston-college-eagles-boston-university-terriers@sport
  cal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270202T010000Z
 DTEND:20270202T024500Z
 SUMMARY:Boston College Eagles - Boston University Terriers
@@ -227,17 +206,17 @@ LOCATION:TD Garden\, Boston\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270206-vermont-catamounts-boston-college-eagles-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J17 | ✈️ | Vermont Catamounts
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J15 | ✈️ | Vermont Catamounts
   🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Gutterson Fieldhouse\, Burlington\, VT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270206-vermont-catamounts-boston-college-eagles@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270206T000000Z
 DTEND:20270206T014500Z
 SUMMARY:Vermont Catamounts - Boston College Eagles
@@ -246,17 +225,17 @@ LOCATION:Gutterson Fieldhouse\, Burlington\, VT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270213-boston-college-eagles-uconn-huskies-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J19 | 🏟️ | UConn Huskies 
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J15 | 🏟️ | UConn Huskies 
  🇺🇸
 DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270213-boston-college-eagles-uconn-huskies@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270213T003000Z
 DTEND:20270213T021500Z
 SUMMARY:Boston College Eagles - UConn Huskies
@@ -265,17 +244,17 @@ LOCATION:Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270213-uconn-huskies-boston-college-eagles-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J19 | ✈️ | UConn Huskies 🇺
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J15 | ✈️ | UConn Huskies 🇺
  🇸
 DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Toscano Family Ice Forum\, Storrs\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270213-uconn-huskies-boston-college-eagles@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270213T210000Z
 DTEND:20270213T224500Z
 SUMMARY:UConn Huskies - Boston College Eagles
@@ -284,17 +263,17 @@ LOCATION:Toscano Family Ice Forum\, Storrs\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270220-merrimack-warriors-boston-college-eagles-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J24 | ✈️ | Merrimack Warriors
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J15 | ✈️ | Merrimack Warriors
   🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Lawler Arena\, North Andover\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270220-merrimack-warriors-boston-college-eagles@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270220T000000Z
 DTEND:20270220T014500Z
 SUMMARY:Merrimack Warriors - Boston College Eagles
@@ -303,17 +282,17 @@ LOCATION:Lawler Arena\, North Andover\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270221-boston-college-eagles-merrimack-warriors-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J22 | 🏟️ | Merrimack Warrior
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J16 | 🏟️ | Merrimack Warrior
  s 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270221-boston-college-eagles-merrimack-warriors@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270221T000000Z
 DTEND:20270221T014500Z
 SUMMARY:Boston College Eagles - Merrimack Warriors
@@ -323,10 +302,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270227-boston-college-eagles-boston-university-terriers-dia@s
  portcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J21 | 🏟️ | Boston University
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J17 | 🏟️ | Boston University
   Terriers 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Conte Forum\, Chestnut Hill\, MA
@@ -334,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270227-boston-college-eagles-boston-university-terriers@sport
  cal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270227T000000Z
 DTEND:20270227T014500Z
 SUMMARY:Boston College Eagles - Boston University Terriers
@@ -344,10 +323,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270228-boston-university-terriers-boston-college-eagles-dia@s
  portcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J22 | ✈️ | Boston University 
+SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J18 | ✈️ | Boston University 
  Terriers 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Agganis Arena\, Boston\, MA
@@ -355,50 +334,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270228-boston-university-terriers-boston-college-eagles@sport
  cal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270228T000000Z
 DTEND:20270228T014500Z
 SUMMARY:Boston University Terriers - Boston College Eagles
 DESCRIPTION:NCAA Division I Men Hockey
 LOCATION:Agganis Arena\, Boston\, MA
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihm-20270306-northeastern-huskies-boston-college-eagles-dia@sportca
- l
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J25 | ✈️ | Northeastern Huski
- es 🇺🇸
-DESCRIPTION:Hora pendent de confirmació · NCAA Division I Men Hockey
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihm-20270306-northeastern-huskies-boston-college-eagles@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
-SUMMARY:Northeastern Huskies - Boston College Eagles · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · NCAA Division I Men Hockey
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihm-20270306-boston-college-eagles-massachusetts-minutemen-dia@spor
- tcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
-SUMMARY:BOSTON COLLEGE EAGLES | NCAA MH | J25 | 🏟️ | Massachusetts Min
- utemen 🇺🇸
-DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
- adi: Conte Forum\, Chestnut Hill\, MA
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihm-20270306-boston-college-eagles-massachusetts-minutemen@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART:20270306T000000Z
-DTEND:20270306T014500Z
-SUMMARY:Boston College Eagles - Massachusetts Minutemen
-DESCRIPTION:NCAA Division I Men Hockey
-LOCATION:Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 END:VCALENDAR

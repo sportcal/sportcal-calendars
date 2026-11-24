@@ -5,21 +5,22 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Racing Club de Montevideo · Primera División
 BEGIN:VEVENT
-UID:uruguaypd-20261120-racing-club-de-montevideo-central-espanol-dia@sportc
- al
-DTSTAMP:20261119T093809Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:RACING CLUB DE MONTEVIDEO | Primera División | J37 | 🏟️ | Cen
- tral Español 🇺🇾
-DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Uruguayan Primera División
+UID:uruguaypd-20261128-racing-club-de-montevideo-liverpool-montevideo-dia@s
+ portcal
+DTSTAMP:20261124T092206Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:RACING CLUB DE MONTEVIDEO | Primera División | J38 | 🏟️ | Liv
+ erpool Montevideo 🇺🇾
+DESCRIPTION:Inici: 00:30 (Europe/Madrid) · Uruguayan Primera División
 END:VEVENT
 BEGIN:VEVENT
-UID:uruguaypd-20261120-racing-club-de-montevideo-central-espanol@sportcal
-DTSTAMP:20261119T093809Z
-DTSTART:20261120T193000Z
-DTEND:20261120T211500Z
-SUMMARY:Racing Club de Montevideo - Central Español
+UID:uruguaypd-20261128-racing-club-de-montevideo-liverpool-montevideo@sport
+ cal
+DTSTAMP:20261124T092206Z
+DTSTART:20261127T233000Z
+DTEND:20261128T011500Z
+SUMMARY:Racing Club de Montevideo - Liverpool Montevideo
 DESCRIPTION:Uruguayan Primera División
 END:VEVENT
 END:VCALENDAR

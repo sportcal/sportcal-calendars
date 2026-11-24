@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Real Sociedad · UEFA Women's Europa Cup
 BEGIN:VEVENT
 UID:uweuropacup-20270203-eintracht-frankfurt-real-sociedad-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:REAL SOCIEDAD | UEFA Women's Europa Cup | J1 | ✈️ | Eintracht F
@@ -15,28 +15,10 @@ DESCRIPTION:Hora pendent de confirmació · UEFA Women's Europa Cup
 END:VEVENT
 BEGIN:VEVENT
 UID:uweuropacup-20270203-eintracht-frankfurt-real-sociedad@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Eintracht Frankfurt - Real Sociedad · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · UEFA Women's Europa Cup
-END:VEVENT
-BEGIN:VEVENT
-UID:uweuropacup-20270210-real-sociedad-eintracht-frankfurt-dia@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
-SUMMARY:REAL SOCIEDAD | UEFA Women's Europa Cup | J2 | 🏟️ | Eintracht 
- Frankfurt 🇩🇪
-DESCRIPTION:Hora pendent de confirmació · UEFA Women's Europa Cup
-END:VEVENT
-BEGIN:VEVENT
-UID:uweuropacup-20270210-real-sociedad-eintracht-frankfurt@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
-SUMMARY:Real Sociedad - Eintracht Frankfurt · TBD
 DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
  al. · UEFA Women's Europa Cup
 END:VEVENT

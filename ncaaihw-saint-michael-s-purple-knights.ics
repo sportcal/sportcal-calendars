@@ -5,33 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Saint Michael's Purple Knights · NCAA WH
 BEGIN:VEVENT
-UID:ncaaihw-20270108-franklin-pierce-ravens-saint-michael-s-purple-knights-
- dia@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270108
-DTEND;VALUE=DATE:20270109
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J9 | ✈️ | Franklin P
- ierce Ravens 🇺🇸
-DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
- stadi: Jason Ritchie Ice Arena\, Rindge\, NH
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270108-franklin-pierce-ravens-saint-michael-s-purple-knights@
- sportcal
-DTSTAMP:20261123T081753Z
-DTSTART:20270108T210000Z
-DTEND:20270108T224500Z
-SUMMARY:Franklin Pierce Ravens - Saint Michael's Purple Knights
-DESCRIPTION:NCAA Division I Women Hockey
-LOCATION:Jason Ritchie Ice Arena\, Rindge\, NH
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaaihw-20270109-franklin-pierce-ravens-saint-michael-s-purple-knights-
  dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J8 | ✈️ | Franklin P
+SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J9 | ✈️ | Franklin P
  ierce Ravens 🇺🇸
 DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
  stadi: Jason Ritchie Ice Arena\, Rindge\, NH
@@ -39,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270109-franklin-pierce-ravens-saint-michael-s-purple-knights@
  sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270109T220000Z
 DTEND:20270109T234500Z
 SUMMARY:Franklin Pierce Ravens - Saint Michael's Purple Knights
@@ -49,18 +28,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270113-union-garnet-chargers-saint-michael-s-purple-knights-d
  ia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J13 | ✈️ | Union Gar
- net Chargers 🇺🇸
+SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J9 | ✈️ | Union Garn
+ et Chargers 🇺🇸
 DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
  stadi: Messa Rink at Achilles Center\, Schenectady\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270113-union-garnet-chargers-saint-michael-s-purple-knights@s
  portcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270112T230000Z
 DTEND:20270113T004500Z
 SUMMARY:Union Garnet Chargers - Saint Michael's Purple Knights
@@ -68,33 +47,12 @@ DESCRIPTION:NCAA Division I Women Hockey
 LOCATION:Messa Rink at Achilles Center\, Schenectady\, NY
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaaihw-20270115-stonehill-skyhawks-saint-michael-s-purple-knights-dia@
- sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J13 | ✈️ | Stonehill
-  Skyhawks 🇺🇸
-DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
- stadi: Bridgewater Ice Arena\, Bridgewater\, MA
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270115-stonehill-skyhawks-saint-michael-s-purple-knights@spor
- tcal
-DTSTAMP:20261123T081753Z
-DTSTART:20270115T220000Z
-DTEND:20270115T234500Z
-SUMMARY:Stonehill Skyhawks - Saint Michael's Purple Knights
-DESCRIPTION:NCAA Division I Women Hockey
-LOCATION:Bridgewater Ice Arena\, Bridgewater\, MA
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaaihw-20270116-stonehill-skyhawks-saint-michael-s-purple-knights-dia@
  sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J11 | ✈️ | Stonehill
+SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J10 | ✈️ | Stonehill
   Skyhawks 🇺🇸
 DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
  stadi: Bridgewater Ice Arena\, Bridgewater\, MA
@@ -102,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270116-stonehill-skyhawks-saint-michael-s-purple-knights@spor
  tcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270116T190000Z
 DTEND:20270116T204500Z
 SUMMARY:Stonehill Skyhawks - Saint Michael's Purple Knights
@@ -112,10 +70,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270123-saint-michael-s-purple-knights-long-island-university-
  sharks-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J15 | 🏟️ | Long Isl
+SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J12 | 🏟️ | Long Isl
  and University Sharks 🇺🇸
 DESCRIPTION:Inici: 01:20 (Europe/Madrid) · NCAA Division I Women Hockey\nE
  stadi: C. Douglas Cairns Recreation Arena\, Burlington\, VT
@@ -123,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270123-saint-michael-s-purple-knights-long-island-university-
  sharks@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270123T002000Z
 DTEND:20270123T020500Z
 SUMMARY:Saint Michael's Purple Knights - Long Island University Sharks
@@ -131,82 +89,19 @@ DESCRIPTION:NCAA Division I Women Hockey
 LOCATION:C. Douglas Cairns Recreation Arena\, Burlington\, VT
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaaihw-20270123-saint-michael-s-purple-knights-long-island-university-
- sharks-dia@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J15 | 🏟️ | Long Isl
- and University Sharks 🇺🇸
-DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
- stadi: C. Douglas Cairns Recreation Arena\, Burlington\, VT
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270123-saint-michael-s-purple-knights-long-island-university-
- sharks@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART:20270123T200000Z
-DTEND:20270123T214500Z
-SUMMARY:Saint Michael's Purple Knights - Long Island University Sharks
-DESCRIPTION:NCAA Division I Women Hockey
-LOCATION:C. Douglas Cairns Recreation Arena\, Burlington\, VT
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270129-saint-anselm-hawks-saint-michael-s-purple-knights-dia@
- sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270129
-DTEND;VALUE=DATE:20270130
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J17 | ✈️ | Saint Ans
- elm Hawks 🇺🇸
-DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
- stadi: Sullivan Arena (NH)\, Manchester\, NH
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270129-saint-anselm-hawks-saint-michael-s-purple-knights@spor
- tcal
-DTSTAMP:20261123T081753Z
-DTSTART:20270129T210000Z
-DTEND:20270129T224500Z
-SUMMARY:Saint Anselm Hawks - Saint Michael's Purple Knights
-DESCRIPTION:NCAA Division I Women Hockey
-LOCATION:Sullivan Arena (NH)\, Manchester\, NH
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270130-saint-anselm-hawks-saint-michael-s-purple-knights-dia@
- sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J17 | ✈️ | Saint Ans
- elm Hawks 🇺🇸
-DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
- stadi: Sullivan Arena (NH)\, Manchester\, NH
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270130-saint-anselm-hawks-saint-michael-s-purple-knights@spor
- tcal
-DTSTAMP:20261123T081753Z
-DTSTART:20270130T200000Z
-DTEND:20270130T214500Z
-SUMMARY:Saint Anselm Hawks - Saint Michael's Purple Knights
-DESCRIPTION:NCAA Division I Women Hockey
-LOCATION:Sullivan Arena (NH)\, Manchester\, NH
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaaihw-20270206-saint-michael-s-purple-knights-post-eagles-dia@sportca
  l
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J19 | 🏟️ | Post Eag
+SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J11 | 🏟️ | Post Eag
  les 🇺🇸
 DESCRIPTION:Inici: 01:20 (Europe/Madrid) · NCAA Division I Women Hockey\nE
  stadi: C. Douglas Cairns Recreation Arena\, Burlington\, VT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270206-saint-michael-s-purple-knights-post-eagles@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270206T002000Z
 DTEND:20270206T020500Z
 SUMMARY:Saint Michael's Purple Knights - Post Eagles
@@ -214,32 +109,12 @@ DESCRIPTION:NCAA Division I Women Hockey
 LOCATION:C. Douglas Cairns Recreation Arena\, Burlington\, VT
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaaihw-20270206-saint-michael-s-purple-knights-post-eagles-dia@sportca
- l
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J19 | 🏟️ | Post Eag
- les 🇺🇸
-DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
- stadi: C. Douglas Cairns Recreation Arena\, Burlington\, VT
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270206-saint-michael-s-purple-knights-post-eagles@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART:20270206T210000Z
-DTEND:20270206T224500Z
-SUMMARY:Saint Michael's Purple Knights - Post Eagles
-DESCRIPTION:NCAA Division I Women Hockey
-LOCATION:C. Douglas Cairns Recreation Arena\, Burlington\, VT
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaaihw-20270212-sacred-heart-pioneers-saint-michael-s-purple-knights-d
  ia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J19 | ✈️ | Sacred He
+SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J11 | ✈️ | Sacred He
  art Pioneers 🇺🇸
 DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
  stadi: Total Mortgage Arena\, Bridgeport\, CT
@@ -247,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270212-sacred-heart-pioneers-saint-michael-s-purple-knights@s
  portcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270212T190000Z
 DTEND:20270212T204500Z
 SUMMARY:Sacred Heart Pioneers - Saint Michael's Purple Knights
@@ -257,10 +132,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270213-sacred-heart-pioneers-saint-michael-s-purple-knights-d
  ia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J20 | ✈️ | Sacred He
+SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J10 | ✈️ | Sacred He
  art Pioneers 🇺🇸
 DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I Women Hockey\nE
  stadi: Total Mortgage Arena\, Bridgeport\, CT
@@ -268,53 +143,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihw-20270213-sacred-heart-pioneers-saint-michael-s-purple-knights@s
  portcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270213T180000Z
 DTEND:20270213T194500Z
 SUMMARY:Sacred Heart Pioneers - Saint Michael's Purple Knights
 DESCRIPTION:NCAA Division I Women Hockey
 LOCATION:Total Mortgage Arena\, Bridgeport\, CT
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270220-saint-michael-s-purple-knights-assumption-greyhounds-d
- ia@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J22 | 🏟️ | Assumpti
- on Greyhounds 🇺🇸
-DESCRIPTION:Inici: 01:30 (Europe/Madrid) · NCAA Division I Women Hockey\nE
- stadi: C. Douglas Cairns Recreation Arena\, Burlington\, VT
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270220-saint-michael-s-purple-knights-assumption-greyhounds@s
- portcal
-DTSTAMP:20261123T081753Z
-DTSTART:20270220T003000Z
-DTEND:20270220T021500Z
-SUMMARY:Saint Michael's Purple Knights - Assumption Greyhounds
-DESCRIPTION:NCAA Division I Women Hockey
-LOCATION:C. Douglas Cairns Recreation Arena\, Burlington\, VT
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270220-saint-michael-s-purple-knights-assumption-greyhounds-d
- ia@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
-SUMMARY:SAINT MICHAEL'S PURPLE KNIGHTS | NCAA WH | J22 | 🏟️ | Assumpti
- on Greyhounds 🇺🇸
-DESCRIPTION:Inici: 22:30 (Europe/Madrid) · NCAA Division I Women Hockey\nE
- stadi: C. Douglas Cairns Recreation Arena\, Burlington\, VT
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaihw-20270220-saint-michael-s-purple-knights-assumption-greyhounds@s
- portcal
-DTSTAMP:20261123T081753Z
-DTSTART:20270220T213000Z
-DTEND:20270220T231500Z
-SUMMARY:Saint Michael's Purple Knights - Assumption Greyhounds
-DESCRIPTION:NCAA Division I Women Hockey
-LOCATION:C. Douglas Cairns Recreation Arena\, Burlington\, VT
 END:VEVENT
 END:VCALENDAR

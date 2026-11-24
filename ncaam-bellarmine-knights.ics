@@ -5,36 +5,37 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bellarmine Knights · NCAA
 BEGIN:VEVENT
-UID:ncaam-20261124-georgia-southern-eagles-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:BELLARMINE KNIGHTS | NCAA | J4 | ✈️ | Georgia Southern Eagles 
+UID:ncaam-20261125-georgia-southern-eagles-bellarmine-knights-dia@sportcal
+DTSTAMP:20261124T092206Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BELLARMINE KNIGHTS | NCAA | J1 | ✈️ | Georgia Southern Eagles 
  🇺🇸
-DESCRIPTION:Hora pendent de confirmació · NCAA Division I
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Truist
+  Arena\, Highland Heights\, KY
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaam-20261124-georgia-southern-eagles-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Georgia Southern Eagles - Bellarmine Knights · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · NCAA Division I
+UID:ncaam-20261125-georgia-southern-eagles-bellarmine-knights@sportcal
+DTSTAMP:20261124T092206Z
+DTSTART:20261125T000000Z
+DTEND:20261125T014500Z
+SUMMARY:Georgia Southern Eagles - Bellarmine Knights
+DESCRIPTION:NCAA Division I
+LOCATION:Truist Arena\, Highland Heights\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261126-northern-kentucky-norse-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:BELLARMINE KNIGHTS | NCAA | J19 | ✈️ | Northern Kentucky Norse 
+SUMMARY:BELLARMINE KNIGHTS | NCAA | J11 | ✈️ | Northern Kentucky Norse 
  🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Truist
   Arena\, Highland Heights\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261126-northern-kentucky-norse-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261126T000000Z
 DTEND:20261126T014500Z
 SUMMARY:Northern Kentucky Norse - Bellarmine Knights
@@ -43,16 +44,16 @@ LOCATION:Truist Arena\, Highland Heights\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261127-butler-bulldogs-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:BELLARMINE KNIGHTS | NCAA | J37 | ✈️ | Butler Bulldogs 🇺🇸
+SUMMARY:BELLARMINE KNIGHTS | NCAA | J29 | ✈️ | Butler Bulldogs 🇺🇸
 DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: Hinkle
   Fieldhouse\, Indianapolis\, IN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261127-butler-bulldogs-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261127T200000Z
 DTEND:20261127T214500Z
 SUMMARY:Butler Bulldogs - Bellarmine Knights
@@ -61,7 +62,7 @@ LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261203-morehead-state-eagles-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J7 | ✈️ | Morehead State Eagles 
@@ -71,7 +72,7 @@ DESCRIPTION:Inici: 01:45 (Europe/Madrid) · NCAA Division I\nEstadi: Ellis
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261203-morehead-state-eagles-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261203T004500Z
 DTEND:20261203T023000Z
 SUMMARY:Morehead State Eagles - Bellarmine Knights
@@ -81,17 +82,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261205-bellarmine-knights-eastern-illinois-panthers-dia@sportca
  l
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:BELLARMINE KNIGHTS | NCAA | J71 | 🏟️ | Eastern Illinois Panthe
+SUMMARY:BELLARMINE KNIGHTS | NCAA | J63 | 🏟️ | Eastern Illinois Panthe
  rs 🇺🇸
 DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
  s Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261205-bellarmine-knights-eastern-illinois-panthers@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261205T190000Z
 DTEND:20261205T204500Z
 SUMMARY:Bellarmine Knights - Eastern Illinois Panthers
@@ -100,7 +101,7 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261211-bellarmine-knights-spalding-pelicans-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J8 | 🏟️ | Spalding Pelicans 🇺
@@ -110,7 +111,7 @@ DESCRIPTION:Inici: 00:30 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261211-bellarmine-knights-spalding-pelicans@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261210T233000Z
 DTEND:20261211T011500Z
 SUMMARY:Bellarmine Knights - Spalding Pelicans
@@ -120,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261217-southern-indiana-screaming-eagles-bellarmine-knights-dia
  @sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J9 | ✈️ | Southern Indiana Screamin
@@ -131,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261217-southern-indiana-screaming-eagles-bellarmine-knights@spo
  rtcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261217T010000Z
 DTEND:20261217T024500Z
 SUMMARY:Southern Indiana Screaming Eagles - Bellarmine Knights
@@ -140,7 +141,7 @@ LOCATION:Liberty Arena (IN)\, Evansville\, IN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-austin-peay-governors-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J9 | ✈️ | Austin Peay Governors 
@@ -150,7 +151,7 @@ DESCRIPTION:Inici: 21:00 (Europe/Madrid) · NCAA Division I\nEstadi: F&M Ba
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261219-austin-peay-governors-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261219T200000Z
 DTEND:20261219T214500Z
 SUMMARY:Austin Peay Governors - Bellarmine Knights
@@ -160,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261221-bellarmine-knights-iu-columbus-crimson-pride-dia@sportca
  l
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J10 | 🏟️ | IU Columbus Crimson Pri
@@ -170,7 +171,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261221-bellarmine-knights-iu-columbus-crimson-pride@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261221T190000Z
 DTEND:20261221T204500Z
 SUMMARY:Bellarmine Knights - IU Columbus Crimson Pride
@@ -179,17 +180,17 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261231-bellarmine-knights-north-alabama-lions-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:BELLARMINE KNIGHTS | NCAA | J10 | 🏟️ | North Alabama Lions 
+SUMMARY:BELLARMINE KNIGHTS | NCAA | J12 | 🏟️ | North Alabama Lions 
  🇺🇸
 DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
  s Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20261231-bellarmine-knights-north-alabama-lions@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20261231T190000Z
 DTEND:20261231T204500Z
 SUMMARY:Bellarmine Knights - North Alabama Lions
@@ -198,7 +199,7 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-bellarmine-knights-west-georgia-wolves-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J11 | 🏟️ | West Georgia Wolves 
@@ -208,7 +209,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270102-bellarmine-knights-west-georgia-wolves@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270102T190000Z
 DTEND:20270102T204500Z
 SUMMARY:Bellarmine Knights - West Georgia Wolves
@@ -217,7 +218,7 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270108-north-florida-ospreys-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J13 | ✈️ | North Florida Ospreys 
@@ -227,7 +228,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: UNF Ar
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270108-north-florida-ospreys-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270108T000000Z
 DTEND:20270108T014500Z
 SUMMARY:North Florida Ospreys - Bellarmine Knights
@@ -236,7 +237,7 @@ LOCATION:UNF Arena\, Jacksonville\, FL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270110-jacksonville-dolphins-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J16 | ✈️ | Jacksonville Dolphins 
@@ -246,7 +247,7 @@ DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I\nEstadi: Swishe
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270110-jacksonville-dolphins-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270109T230000Z
 DTEND:20270110T004500Z
 SUMMARY:Jacksonville Dolphins - Bellarmine Knights
@@ -256,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270115-bellarmine-knights-florida-gulf-coast-eagles-dia@sportca
  l
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J17 | 🏟️ | Florida Gulf Coast Eagl
@@ -266,7 +267,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270115-bellarmine-knights-florida-gulf-coast-eagles@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270115T000000Z
 DTEND:20270115T014500Z
 SUMMARY:Bellarmine Knights - Florida Gulf Coast Eagles
@@ -275,7 +276,7 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270116-bellarmine-knights-stetson-hatters-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J17 | 🏟️ | Stetson Hatters 🇺
@@ -285,7 +286,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270116-bellarmine-knights-stetson-hatters@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270116T190000Z
 DTEND:20270116T204500Z
 SUMMARY:Bellarmine Knights - Stetson Hatters
@@ -294,7 +295,7 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270124-lipscomb-bisons-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J19 | ✈️ | Lipscomb Bisons 🇺🇸
@@ -303,7 +304,7 @@ DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I\nEstadi: Allen
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270124-lipscomb-bisons-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270124T010000Z
 DTEND:20270124T024500Z
 SUMMARY:Lipscomb Bisons - Bellarmine Knights
@@ -312,7 +313,7 @@ LOCATION:Allen Arena\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270129-queens-university-royals-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J20 | ✈️ | Queens University Royals
@@ -322,7 +323,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Curry
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270129-queens-university-royals-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270129T000000Z
 DTEND:20270129T014500Z
 SUMMARY:Queens University Royals - Bellarmine Knights
@@ -331,7 +332,7 @@ LOCATION:Curry Arena\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270130-west-florida-argonauts-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J21 | ✈️ | West Florida Argonauts 
@@ -341,7 +342,7 @@ DESCRIPTION:Inici: 19:00 (Europe/Madrid) · NCAA Division I\nEstadi: UWF Fi
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270130-west-florida-argonauts-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270130T180000Z
 DTEND:20270130T194500Z
 SUMMARY:West Florida Argonauts - Bellarmine Knights
@@ -350,7 +351,7 @@ LOCATION:UWF Field House\, Pensacola\, FL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270205-bellarmine-knights-jacksonville-dolphins-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J22 | 🏟️ | Jacksonville Dolphins 
@@ -360,7 +361,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270205-bellarmine-knights-jacksonville-dolphins@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270205T000000Z
 DTEND:20270205T014500Z
 SUMMARY:Bellarmine Knights - Jacksonville Dolphins
@@ -369,7 +370,7 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270206-bellarmine-knights-north-florida-ospreys-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J23 | 🏟️ | North Florida Ospreys 
@@ -379,7 +380,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270206-bellarmine-knights-north-florida-ospreys@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270206T190000Z
 DTEND:20270206T204500Z
 SUMMARY:Bellarmine Knights - North Florida Ospreys
@@ -388,7 +389,7 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270212-stetson-hatters-bellarmine-knights-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J23 | ✈️ | Stetson Hatters 🇺🇸
@@ -397,7 +398,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Insigh
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270212-stetson-hatters-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270212T000000Z
 DTEND:20270212T014500Z
 SUMMARY:Stetson Hatters - Bellarmine Knights
@@ -407,7 +408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270213-florida-gulf-coast-eagles-bellarmine-knights-dia@sportca
  l
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J25 | ✈️ | Florida Gulf Coast Eagle
@@ -417,7 +418,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Alico
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270213-florida-gulf-coast-eagles-bellarmine-knights@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270213T190000Z
 DTEND:20270213T204500Z
 SUMMARY:Florida Gulf Coast Eagles - Bellarmine Knights
@@ -426,7 +427,7 @@ LOCATION:Alico Arena\, Fort Myers\, FL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270221-bellarmine-knights-lipscomb-bisons-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J26 | 🏟️ | Lipscomb Bisons 🇺
@@ -436,7 +437,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270221-bellarmine-knights-lipscomb-bisons@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270221T000000Z
 DTEND:20270221T014500Z
 SUMMARY:Bellarmine Knights - Lipscomb Bisons
@@ -445,7 +446,7 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270226-bellarmine-knights-west-florida-argonauts-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J27 | 🏟️ | West Florida Argonauts 
@@ -455,7 +456,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270226-bellarmine-knights-west-florida-argonauts@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270226T000000Z
 DTEND:20270226T014500Z
 SUMMARY:Bellarmine Knights - West Florida Argonauts
@@ -464,7 +465,7 @@ LOCATION:Knights Hall\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270227-bellarmine-knights-queens-university-royals-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:BELLARMINE KNIGHTS | NCAA | J28 | 🏟️ | Queens University Royal
@@ -474,7 +475,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I\nEstadi: Knight
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaam-20270227-bellarmine-knights-queens-university-royals@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261124T092206Z
 DTSTART:20270227T190000Z
 DTEND:20270227T204500Z
 SUMMARY:Bellarmine Knights - Queens University Royals
