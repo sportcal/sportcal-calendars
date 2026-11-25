@@ -7,21 +7,21 @@ X-WR-CALNAME:Chinnor · Champ Rugby
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
-UID:champrugby-20261121-doncaster-knights-chinnor-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:CHINNOR | Champ Rugby | J9 | ✈️ | Doncaster Knights 🇬🇧
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Castle Par
- k
+UID:champrugby-20261206-chinnor-ampthill-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:CHINNOR | Champ Rugby | J10 | 🏟️ | Ampthill 🇬🇧
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Champ Rugby\nEstadi: Kingsey Ro
+ ad
 END:VEVENT
 BEGIN:VEVENT
-UID:champrugby-20261121-doncaster-knights-chinnor@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T150000Z
-DTEND:20261121T164500Z
-SUMMARY:Doncaster Knights - Chinnor
+UID:champrugby-20261206-chinnor-ampthill@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261206T160000Z
+DTEND:20261206T174500Z
+SUMMARY:Chinnor - Ampthill
 DESCRIPTION:Champ Rugby
-LOCATION:Castle Park
+LOCATION:Kingsey Road
 END:VEVENT
 END:VCALENDAR

@@ -5,28 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Montana State Bobcats · NCAA W
 BEGIN:VEVENT
-UID:ncaaw-20261124-montana-state-bobcats-oklahoma-sooners-dia@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:MONTANA STATE BOBCATS | NCAA W | J4 | 🏟️ | Oklahoma Sooners 
- 🇺🇸
-DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
- The Reef\, Jacksonville\, FL
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaw-20261124-montana-state-bobcats-oklahoma-sooners@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261124T210000Z
-DTEND:20261124T224500Z
-SUMMARY:Montana State Bobcats - Oklahoma Sooners
-DESCRIPTION:NCAA Division I Women
-LOCATION:The Reef\, Jacksonville\, FL
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaaw-20261125-montana-state-bobcats-middle-tennessee-blue-raiders-dia@
  sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J4 | 🏟️ | Middle Tennessee Bl
@@ -37,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261125-montana-state-bobcats-middle-tennessee-blue-raiders@spor
  tcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261125T210000Z
 DTEND:20261125T224500Z
 SUMMARY:Montana State Bobcats - Middle Tennessee Blue Raiders
@@ -47,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261205-montana-state-bobcats-northern-arizona-lumberjacks-dia@s
  portcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J8 | 🏟️ | Northern Arizona Lu
@@ -58,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261205-montana-state-bobcats-northern-arizona-lumberjacks@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261205T210000Z
 DTEND:20261205T224500Z
 SUMMARY:Montana State Bobcats - Northern Arizona Lumberjacks
@@ -67,7 +48,7 @@ LOCATION:Worthington Arena\, Bozeman\, MT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261208-houston-cougars-montana-state-bobcats-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J7 | ✈️ | Houston Cougars 🇺
@@ -77,7 +58,7 @@ DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261208-houston-cougars-montana-state-bobcats@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261208T010000Z
 DTEND:20261208T024500Z
 SUMMARY:Houston Cougars - Montana State Bobcats
@@ -87,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261211-montana-state-bobcats-montana-state-billings-yellowjacke
  ts-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J8 | 🏟️ | Montana State-Billi
@@ -98,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261211-montana-state-bobcats-montana-state-billings-yellowjacke
  ts@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261211T020000Z
 DTEND:20261211T034500Z
 SUMMARY:Montana State Bobcats - Montana State-Billings Yellowjackets
@@ -108,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261213-montana-state-bobcats-south-dakota-state-jackrabbits-dia
  @sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J8 | 🏟️ | South Dakota State 
@@ -119,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261213-montana-state-bobcats-south-dakota-state-jackrabbits@spo
  rtcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261213T210000Z
 DTEND:20261213T224500Z
 SUMMARY:Montana State Bobcats - South Dakota State Jackrabbits
@@ -128,7 +109,7 @@ LOCATION:Worthington Arena\, Bozeman\, MT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261219-oregon-ducks-montana-state-bobcats-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J8 | ✈️ | Oregon Ducks 🇺
@@ -138,7 +119,7 @@ DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261219-oregon-ducks-montana-state-bobcats@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261219T220000Z
 DTEND:20261219T234500Z
 SUMMARY:Oregon Ducks - Montana State Bobcats
@@ -147,7 +128,7 @@ LOCATION:Matthew Knight Arena\, Eugene\, OR
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261221-santa-clara-broncos-montana-state-bobcats-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J9 | ✈️ | Santa Clara Broncos 
@@ -157,7 +138,7 @@ DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261221-santa-clara-broncos-montana-state-bobcats@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261221T210000Z
 DTEND:20261221T224500Z
 SUMMARY:Santa Clara Broncos - Montana State Bobcats
@@ -167,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261231-portland-state-vikings-montana-state-bobcats-dia@sportca
  l
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J11 | ✈️ | Portland State Viki
@@ -177,7 +158,7 @@ DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261231-portland-state-vikings-montana-state-bobcats@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261231T220000Z
 DTEND:20261231T234500Z
 SUMMARY:Portland State Vikings - Montana State Bobcats
@@ -187,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270102-northern-colorado-bears-montana-state-bobcats-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J13 | ✈️ | Northern Colorado B
@@ -197,7 +178,7 @@ DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270102-northern-colorado-bears-montana-state-bobcats@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270102T210000Z
 DTEND:20270102T224500Z
 SUMMARY:Northern Colorado Bears - Montana State Bobcats
@@ -206,7 +187,7 @@ LOCATION:Bank of Colorado Arena\, Greeley\, CO
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270108-montana-state-bobcats-idaho-state-bengals-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J14 | 🏟️ | Idaho State Bengal
@@ -216,7 +197,7 @@ DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270108-montana-state-bobcats-idaho-state-bengals@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270108T020000Z
 DTEND:20270108T034500Z
 SUMMARY:Montana State Bobcats - Idaho State Bengals
@@ -225,7 +206,7 @@ LOCATION:Worthington Arena\, Bozeman\, MT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270109-montana-state-bobcats-weber-state-wildcats-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:MONTANA STATE BOBCATS | NCAA W | J13 | 🏟️ | Weber State Wildca
@@ -235,7 +216,7 @@ DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270109-montana-state-bobcats-weber-state-wildcats@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270109T210000Z
 DTEND:20270109T224500Z
 SUMMARY:Montana State Bobcats - Weber State Wildcats
@@ -243,12 +224,51 @@ DESCRIPTION:NCAA Division I Women
 LOCATION:Worthington Arena\, Bozeman\, MT
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaw-20270115-eastern-washington-eagles-montana-state-bobcats-dia@spor
+ tcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J14 | ✈️ | Eastern Washington 
+ Eagles 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reese Court\, Cheney\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270115-eastern-washington-eagles-montana-state-bobcats@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270115T020000Z
+DTEND:20270115T034500Z
+SUMMARY:Eastern Washington Eagles - Montana State Bobcats
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reese Court\, Cheney\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270116-idaho-vandals-montana-state-bobcats-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J15 | ✈️ | Idaho Vandals 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270116-idaho-vandals-montana-state-bobcats@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270116T210000Z
+DTEND:20270116T224500Z
+SUMMARY:Idaho Vandals - Montana State Bobcats
+DESCRIPTION:NCAA Division I Women
+LOCATION:ICCU Arena\, Moscow\, ID
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaw-20270119-montana-state-bobcats-southern-utah-thunderbirds-dia@spo
  rtcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:MONTANA STATE BOBCATS | NCAA W | J14 | 🏟️ | Southern Utah Thun
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J15 | 🏟️ | Southern Utah Thun
  derbirds 🇺🇸
 DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Worthington Arena\, Bozeman\, MT
@@ -256,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270119-montana-state-bobcats-southern-utah-thunderbirds@sportca
  l
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270119T020000Z
 DTEND:20270119T034500Z
 SUMMARY:Montana State Bobcats - Southern Utah Thunderbirds
@@ -264,12 +284,51 @@ DESCRIPTION:NCAA Division I Women
 LOCATION:Worthington Arena\, Bozeman\, MT
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaw-20270123-montana-state-bobcats-montana-lady-griz-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J17 | 🏟️ | Montana Lady Griz 
+ 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270123-montana-state-bobcats-montana-lady-griz@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270123T210000Z
+DTEND:20270123T224500Z
+SUMMARY:Montana State Bobcats - Montana Lady Griz
+DESCRIPTION:NCAA Division I Women
+LOCATION:Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270126-utah-tech-trailblazers-montana-state-bobcats-dia@sportca
+ l
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J20 | ✈️ | Utah Tech Trailblaz
+ ers 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Burns Arena\, St. George\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270126-utah-tech-trailblazers-montana-state-bobcats@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270126T020000Z
+DTEND:20270126T034500Z
+SUMMARY:Utah Tech Trailblazers - Montana State Bobcats
+DESCRIPTION:NCAA Division I Women
+LOCATION:Burns Arena\, St. George\, UT
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaw-20270129-northern-arizona-lumberjacks-montana-state-bobcats-dia@s
  portcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:MONTANA STATE BOBCATS | NCAA W | J15 | ✈️ | Northern Arizona Lu
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J19 | ✈️ | Northern Arizona Lu
  mberjacks 🇺🇸
 DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Rolle Activity Center\, Flagstaff\, AZ
@@ -277,7 +336,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270129-northern-arizona-lumberjacks-montana-state-bobcats@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270129T010000Z
 DTEND:20270129T024500Z
 SUMMARY:Northern Arizona Lumberjacks - Montana State Bobcats
@@ -285,18 +344,97 @@ DESCRIPTION:NCAA Division I Women
 LOCATION:Rolle Activity Center\, Flagstaff\, AZ
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaw-20270205-montana-state-bobcats-northern-colorado-bears-dia@sportc
+ al
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J21 | 🏟️ | Northern Colorado 
+ Bears 🇺🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270205-montana-state-bobcats-northern-colorado-bears@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270205T020000Z
+DTEND:20270205T034500Z
+SUMMARY:Montana State Bobcats - Northern Colorado Bears
+DESCRIPTION:NCAA Division I Women
+LOCATION:Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270206-montana-state-bobcats-portland-state-vikings-dia@sportca
+ l
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J21 | 🏟️ | Portland State Vik
+ ings 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270206-montana-state-bobcats-portland-state-vikings@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270206T210000Z
+DTEND:20270206T224500Z
+SUMMARY:Montana State Bobcats - Portland State Vikings
+DESCRIPTION:NCAA Division I Women
+LOCATION:Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270212-montana-state-bobcats-idaho-vandals-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J22 | 🏟️ | Idaho Vandals 🇺
+ 🇸
+DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270212-montana-state-bobcats-idaho-vandals@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270212T020000Z
+DTEND:20270212T034500Z
+SUMMARY:Montana State Bobcats - Idaho Vandals
+DESCRIPTION:NCAA Division I Women
+LOCATION:Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-montana-state-bobcats-eastern-washington-eagles-dia@spor
+ tcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J21 | 🏟️ | Eastern Washington
+  Eagles 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270213-montana-state-bobcats-eastern-washington-eagles@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270213T210000Z
+DTEND:20270213T224500Z
+SUMMARY:Montana State Bobcats - Eastern Washington Eagles
+DESCRIPTION:NCAA Division I Women
+LOCATION:Worthington Arena\, Bozeman\, MT
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaw-20270219-weber-state-wildcats-montana-state-bobcats-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:MONTANA STATE BOBCATS | NCAA W | J16 | ✈️ | Weber State Wildcat
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J24 | ✈️ | Weber State Wildcat
  s 🇺🇸
 DESCRIPTION:Inici: 02:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Dee Events Center\, Ogden\, UT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270219-weber-state-wildcats-montana-state-bobcats@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270219T010000Z
 DTEND:20270219T024500Z
 SUMMARY:Weber State Wildcats - Montana State Bobcats
@@ -304,12 +442,31 @@ DESCRIPTION:NCAA Division I Women
 LOCATION:Dee Events Center\, Ogden\, UT
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaw-20270220-idaho-state-bengals-montana-state-bobcats-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J22 | ✈️ | Idaho State Bengals
+  🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270220-idaho-state-bengals-montana-state-bobcats@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270220T210000Z
+DTEND:20270220T224500Z
+SUMMARY:Idaho State Bengals - Montana State Bobcats
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reed Gym\, Pocatello\, ID
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaw-20270223-southern-utah-thunderbirds-montana-state-bobcats-dia@spo
  rtcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:MONTANA STATE BOBCATS | NCAA W | J18 | ✈️ | Southern Utah Thund
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J25 | ✈️ | Southern Utah Thund
  erbirds 🇺🇸
 DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  America First Event Center\, Cedar City\, UT
@@ -317,7 +474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270223-southern-utah-thunderbirds-montana-state-bobcats@sportca
  l
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270223T013000Z
 DTEND:20270223T031500Z
 SUMMARY:Southern Utah Thunderbirds - Montana State Bobcats
@@ -325,19 +482,38 @@ DESCRIPTION:NCAA Division I Women
 LOCATION:America First Event Center\, Cedar City\, UT
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaw-20270227-montana-lady-griz-montana-state-bobcats-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J27 | ✈️ | Montana Lady Griz 
+ 🇺🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Dahlberg Arena\, Missoula\, MT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270227-montana-lady-griz-montana-state-bobcats@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270227T210000Z
+DTEND:20270227T224500Z
+SUMMARY:Montana Lady Griz - Montana State Bobcats
+DESCRIPTION:NCAA Division I Women
+LOCATION:Dahlberg Arena\, Missoula\, MT
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaw-20270302-montana-state-bobcats-utah-tech-trailblazers-dia@sportca
  l
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:MONTANA STATE BOBCATS | NCAA W | J15 | 🏟️ | Utah Tech Trailbla
+SUMMARY:MONTANA STATE BOBCATS | NCAA W | J28 | 🏟️ | Utah Tech Trailbla
  zers 🇺🇸
 DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Worthington Arena\, Bozeman\, MT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270302-montana-state-bobcats-utah-tech-trailblazers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270302T020000Z
 DTEND:20270302T034500Z
 SUMMARY:Montana State Bobcats - Utah Tech Trailblazers

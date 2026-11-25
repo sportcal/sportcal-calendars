@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tenerife · Copa del Rey
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:copadelrey-20261202-eldense-tenerife-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:TENERIFE | Copa del Rey | ✈️ | Eldense 🇪🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · Copa del Rey\nEstadi: Estadio M
+ unicipal Nuevo Pepico Amat\, Elda
+END:VEVENT
+BEGIN:VEVENT
+UID:copadelrey-20261202-eldense-tenerife@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261202T190000Z
+DTEND:20261202T204500Z
+SUMMARY:Eldense - Tenerife
+DESCRIPTION:Copa del Rey
+LOCATION:Estadio Municipal Nuevo Pepico Amat\, Elda
+END:VEVENT
+END:VCALENDAR

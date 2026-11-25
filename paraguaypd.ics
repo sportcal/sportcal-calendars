@@ -5,94 +5,69 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Paraguay Primera División
 BEGIN:VEVENT
-UID:paraguaypd-dia-20261124-j20@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:PRIMERA DIVISIÓN | J20
-DESCRIPTION:00:15 Nacional Asuncion - Cerro Porteno
-END:VEVENT
-BEGIN:VEVENT
-UID:paraguaypd-dia-20261125-j21@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
+UID:paraguaypd-dia-20261127-j21@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
 SUMMARY:PRIMERA DIVISIÓN | J21
-DESCRIPTION:01:00 Cerro Porteno - Club Guarani\n01:00 Libertad Asuncion - 2
-  de Mayo\n01:00 Nacional Asuncion - Rubio Ñú\n01:00 Sportivo Trinidense 
- - Deportivo Recoleta\n01:00 Sportivo San Lorenzo - Sportivo Ameliano\n01:0
- 0 Sportivo Luqueno - Olimpia
+DESCRIPTION:21:30 Nacional Asuncion - Rubio Ñú
 END:VEVENT
 BEGIN:VEVENT
-UID:paraguaypd-dia-20261129-j22@sportcal
-DTSTAMP:20261124T092206Z
+UID:paraguaypd-dia-20261128-j21@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:PRIMERA DIVISIÓN | J21
+DESCRIPTION:00:00 Sportivo Luqueno - Olimpia
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-dia-20261129-j21@sportcal
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
+SUMMARY:PRIMERA DIVISIÓN | J21
+DESCRIPTION:00:00 Sportivo Trinidense - Deportivo Recoleta\n01:00 Olimpia -
+  Sportivo San Lorenzo\n01:00 Rubio Ñú - Cerro Porteno\n01:00 Club Guaran
+ i - Sportivo Trinidense\n01:00 2 de Mayo - Nacional Asuncion\n01:00 Deport
+ ivo Recoleta - Sportivo Luqueno\n01:00 Sportivo Ameliano - Libertad Asunci
+ on\n21:30 Cerro Porteno - Club Guarani
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-dia-20261130-j22@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
 SUMMARY:PRIMERA DIVISIÓN | J22
-DESCRIPTION:01:00 Olimpia - Sportivo San Lorenzo\n01:00 Rubio Ñú - Cerro 
- Porteno\n01:00 Club Guarani - Sportivo Trinidense\n01:00 2 de Mayo - Nacio
- nal Asuncion\n01:00 Deportivo Recoleta - Sportivo Luqueno\n01:00 Sportivo 
- Ameliano - Libertad Asuncion
+DESCRIPTION:00:00 Libertad Asuncion - 2 de Mayo\n00:00 Sportivo San Lorenzo
+  - Sportivo Ameliano
 END:VEVENT
 BEGIN:VEVENT
-UID:paraguaypd-20261124-nacional-asuncion-cerro-porteno@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261123T231500Z
-DTEND:20261124T010000Z
-SUMMARY:Nacional Asuncion - Cerro Porteno
-DESCRIPTION:Paraguay Primera División
-END:VEVENT
-BEGIN:VEVENT
-UID:paraguaypd-20261125-cerro-porteno-club-guarani@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261125T000000Z
-DTEND:20261125T014500Z
-SUMMARY:Cerro Porteno - Club Guarani
-DESCRIPTION:Paraguay Primera División
-END:VEVENT
-BEGIN:VEVENT
-UID:paraguaypd-20261125-libertad-asuncion-2-de-mayo@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261125T000000Z
-DTEND:20261125T014500Z
-SUMMARY:Libertad Asuncion - 2 de Mayo
-DESCRIPTION:Paraguay Primera División
-END:VEVENT
-BEGIN:VEVENT
-UID:paraguaypd-20261125-nacional-asuncion-rubio-nu@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261125T000000Z
-DTEND:20261125T014500Z
+UID:paraguaypd-20261127-nacional-asuncion-rubio-nu@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261127T203000Z
+DTEND:20261127T221500Z
 SUMMARY:Nacional Asuncion - Rubio Ñú
 DESCRIPTION:Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
-UID:paraguaypd-20261125-sportivo-trinidense-deportivo-recoleta@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261125T000000Z
-DTEND:20261125T014500Z
-SUMMARY:Sportivo Trinidense - Deportivo Recoleta
-DESCRIPTION:Paraguay Primera División
-END:VEVENT
-BEGIN:VEVENT
-UID:paraguaypd-20261125-sportivo-san-lorenzo-sportivo-ameliano@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261125T000000Z
-DTEND:20261125T014500Z
-SUMMARY:Sportivo San Lorenzo - Sportivo Ameliano
-DESCRIPTION:Paraguay Primera División
-END:VEVENT
-BEGIN:VEVENT
-UID:paraguaypd-20261125-sportivo-luqueno-olimpia@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261125T000000Z
-DTEND:20261125T014500Z
+UID:paraguaypd-20261128-sportivo-luqueno-olimpia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261127T230000Z
+DTEND:20261128T004500Z
 SUMMARY:Sportivo Luqueno - Olimpia
 DESCRIPTION:Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
+UID:paraguaypd-20261129-sportivo-trinidense-deportivo-recoleta@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261128T230000Z
+DTEND:20261129T004500Z
+SUMMARY:Sportivo Trinidense - Deportivo Recoleta
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
 UID:paraguaypd-20261129-olimpia-sportivo-san-lorenzo@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:Olimpia - Sportivo San Lorenzo
@@ -100,7 +75,7 @@ DESCRIPTION:Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
 UID:paraguaypd-20261129-rubio-nu-cerro-porteno@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:Rubio Ñú - Cerro Porteno
@@ -108,7 +83,7 @@ DESCRIPTION:Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
 UID:paraguaypd-20261129-club-guarani-sportivo-trinidense@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:Club Guarani - Sportivo Trinidense
@@ -116,7 +91,7 @@ DESCRIPTION:Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
 UID:paraguaypd-20261129-2-de-mayo-nacional-asuncion@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:2 de Mayo - Nacional Asuncion
@@ -124,7 +99,7 @@ DESCRIPTION:Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
 UID:paraguaypd-20261129-deportivo-recoleta-sportivo-luqueno@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:Deportivo Recoleta - Sportivo Luqueno
@@ -132,10 +107,34 @@ DESCRIPTION:Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
 UID:paraguaypd-20261129-sportivo-ameliano-libertad-asuncion@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:Sportivo Ameliano - Libertad Asuncion
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261129-cerro-porteno-club-guarani@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261129T203000Z
+DTEND:20261129T221500Z
+SUMMARY:Cerro Porteno - Club Guarani
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261130-libertad-asuncion-2-de-mayo@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261129T230000Z
+DTEND:20261130T004500Z
+SUMMARY:Libertad Asuncion - 2 de Mayo
+DESCRIPTION:Paraguay Primera División
+END:VEVENT
+BEGIN:VEVENT
+UID:paraguaypd-20261130-sportivo-san-lorenzo-sportivo-ameliano@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261129T230000Z
+DTEND:20261130T004500Z
+SUMMARY:Sportivo San Lorenzo - Sportivo Ameliano
 DESCRIPTION:Paraguay Primera División
 END:VEVENT
 END:VCALENDAR

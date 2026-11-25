@@ -5,25 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Wrexham AFC · Championship
 BEGIN:VEVENT
-UID:championship-20261124-bristol-city-fc-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:WREXHAM AFC | Championship | J17 | ✈️ | Bristol City FC 🇬
- 🇧
-DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-UID:championship-20261124-bristol-city-fc-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261124T194500Z
-DTEND:20261124T213000Z
-SUMMARY:Bristol City FC - Wrexham AFC
-DESCRIPTION:EFL Championship
-END:VEVENT
-BEGIN:VEVENT
 UID:championship-20261128-wrexham-afc-portsmouth-fc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:WREXHAM AFC | Championship | J18 | 🏟️ | Portsmouth FC 🇬🇧
@@ -31,7 +14,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261128-wrexham-afc-portsmouth-fc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261128T150000Z
 DTEND:20261128T164500Z
 SUMMARY:Wrexham AFC - Portsmouth FC
@@ -39,7 +22,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261205-norwich-city-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:WREXHAM AFC | Championship | J19 | ✈️ | Norwich City 🇬🇧
@@ -47,7 +30,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261205-norwich-city-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261205T150000Z
 DTEND:20261205T164500Z
 SUMMARY:Norwich City - Wrexham AFC
@@ -55,7 +38,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261208-wrexham-afc-charlton-athletic-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:WREXHAM AFC | Championship | J20 | 🏟️ | Charlton Athletic 🇬
@@ -64,7 +47,7 @@ DESCRIPTION:Inici: 20:45 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261208-wrexham-afc-charlton-athletic@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261208T194500Z
 DTEND:20261208T213000Z
 SUMMARY:Wrexham AFC - Charlton Athletic
@@ -72,7 +55,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261211-bolton-wanderers-fc-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:WREXHAM AFC | Championship | J21 | ✈️ | Bolton Wanderers FC 
@@ -81,7 +64,7 @@ DESCRIPTION:Inici: 21:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261211-bolton-wanderers-fc-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261211T200000Z
 DTEND:20261211T214500Z
 SUMMARY:Bolton Wanderers FC - Wrexham AFC
@@ -89,7 +72,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261219-wrexham-afc-queens-park-rangers-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:WREXHAM AFC | Championship | J22 | 🏟️ | Queens Park Rangers 
@@ -98,7 +81,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261219-wrexham-afc-queens-park-rangers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261219T150000Z
 DTEND:20261219T164500Z
 SUMMARY:Wrexham AFC - Queens Park Rangers
@@ -106,7 +89,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261226-stoke-city-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:WREXHAM AFC | Championship | J23 | ✈️ | Stoke City 🇬🇧
@@ -114,7 +97,7 @@ DESCRIPTION:Inici: 16:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261226-stoke-city-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261226T150000Z
 DTEND:20261226T164500Z
 SUMMARY:Stoke City - Wrexham AFC
@@ -122,7 +105,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261229-wrexham-afc-blackburn-rovers-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:WREXHAM AFC | Championship | J24 | 🏟️ | Blackburn Rovers 🇬
@@ -131,7 +114,7 @@ DESCRIPTION:Inici: 19:00 (Europe/Madrid) · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20261229-wrexham-afc-blackburn-rovers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261229T180000Z
 DTEND:20261229T194500Z
 SUMMARY:Wrexham AFC - Blackburn Rovers
@@ -139,7 +122,7 @@ DESCRIPTION:EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270101-wrexham-afc-bolton-wanderers-fc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:WREXHAM AFC | Championship | J25 | 🏟️ | Bolton Wanderers FC 
@@ -148,7 +131,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270101-wrexham-afc-bolton-wanderers-fc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Wrexham AFC - Bolton Wanderers FC · TBD
@@ -157,7 +140,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270116-preston-north-end-fc-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:WREXHAM AFC | Championship | J26 | ✈️ | Preston North End FC 
@@ -166,7 +149,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270116-preston-north-end-fc-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Preston North End FC - Wrexham AFC · TBD
@@ -175,7 +158,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270123-wrexham-afc-sheffield-united-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:WREXHAM AFC | Championship | J27 | 🏟️ | Sheffield United 🇬
@@ -184,7 +167,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270123-wrexham-afc-sheffield-united@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Wrexham AFC - Sheffield United · TBD
@@ -193,7 +176,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270127-middlesbrough-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:WREXHAM AFC | Championship | J28 | ✈️ | Middlesbrough 🇬🇧
@@ -201,7 +184,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270127-middlesbrough-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Middlesbrough - Wrexham AFC · TBD
@@ -210,7 +193,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270130-wolverhampton-wanderers-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:WREXHAM AFC | Championship | J29 | ✈️ | Wolverhampton Wanderers
@@ -219,7 +202,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270130-wolverhampton-wanderers-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Wolverhampton Wanderers - Wrexham AFC · TBD
@@ -228,7 +211,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270206-wrexham-afc-lincoln-city-fc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:WREXHAM AFC | Championship | J30 | 🏟️ | Lincoln City FC 🇬
@@ -237,7 +220,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270206-wrexham-afc-lincoln-city-fc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Wrexham AFC - Lincoln City FC · TBD
@@ -246,7 +229,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270213-wrexham-afc-west-ham-united-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:WREXHAM AFC | Championship | J31 | 🏟️ | West Ham United 🇬
@@ -255,7 +238,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270213-wrexham-afc-west-ham-united@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Wrexham AFC - West Ham United · TBD
@@ -264,7 +247,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270216-west-bromwich-albion-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:WREXHAM AFC | Championship | J32 | ✈️ | West Bromwich Albion 
@@ -273,7 +256,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270216-west-bromwich-albion-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:West Bromwich Albion - Wrexham AFC · TBD
@@ -282,7 +265,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270220-southampton-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:WREXHAM AFC | Championship | J33 | ✈️ | Southampton 🇬🇧
@@ -290,7 +273,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270220-southampton-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Southampton - Wrexham AFC · TBD
@@ -299,7 +282,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270227-wrexham-afc-derby-county-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:WREXHAM AFC | Championship | J34 | 🏟️ | Derby County 🇬🇧
@@ -307,7 +290,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270227-wrexham-afc-derby-county@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Wrexham AFC - Derby County · TBD
@@ -316,7 +299,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270302-watford-fc-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:WREXHAM AFC | Championship | J35 | ✈️ | Watford FC 🇬🇧
@@ -324,7 +307,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270302-watford-fc-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:Watford FC - Wrexham AFC · TBD
@@ -333,7 +316,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270306-wrexham-afc-cardiff-city-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:WREXHAM AFC | Championship | J36 | 🏟️ | Cardiff City 🇬🇧
@@ -341,7 +324,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270306-wrexham-afc-cardiff-city@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Wrexham AFC - Cardiff City · TBD
@@ -350,7 +333,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270313-portsmouth-fc-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:WREXHAM AFC | Championship | J37 | ✈️ | Portsmouth FC 🇬🇧
@@ -358,7 +341,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270313-portsmouth-fc-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Portsmouth FC - Wrexham AFC · TBD
@@ -367,7 +350,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270316-wrexham-afc-norwich-city-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:WREXHAM AFC | Championship | J38 | 🏟️ | Norwich City 🇬🇧
@@ -375,7 +358,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270316-wrexham-afc-norwich-city@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:Wrexham AFC - Norwich City · TBD
@@ -384,7 +367,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270320-wrexham-afc-stoke-city-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:WREXHAM AFC | Championship | J39 | 🏟️ | Stoke City 🇬🇧
@@ -392,7 +375,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270320-wrexham-afc-stoke-city@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Wrexham AFC - Stoke City · TBD
@@ -401,7 +384,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270403-queens-park-rangers-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:WREXHAM AFC | Championship | J40 | ✈️ | Queens Park Rangers 
@@ -410,7 +393,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270403-queens-park-rangers-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:Queens Park Rangers - Wrexham AFC · TBD
@@ -419,7 +402,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270406-burnley-fc-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:WREXHAM AFC | Championship | J41 | ✈️ | Burnley FC 🇬🇧
@@ -427,7 +410,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270406-burnley-fc-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:Burnley FC - Wrexham AFC · TBD
@@ -436,7 +419,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270410-wrexham-afc-swansea-city-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:WREXHAM AFC | Championship | J42 | 🏟️ | Swansea City 🇬🇧
@@ -444,7 +427,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270410-wrexham-afc-swansea-city@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:Wrexham AFC - Swansea City · TBD
@@ -453,7 +436,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270417-birmingham-city-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:WREXHAM AFC | Championship | J43 | ✈️ | Birmingham City 🇬
@@ -462,7 +445,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270417-birmingham-city-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Birmingham City - Wrexham AFC · TBD
@@ -471,7 +454,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270420-wrexham-afc-millwall-fc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:WREXHAM AFC | Championship | J44 | 🏟️ | Millwall FC 🇬🇧
@@ -479,7 +462,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270420-wrexham-afc-millwall-fc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Wrexham AFC - Millwall FC · TBD
@@ -488,7 +471,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270424-charlton-athletic-wrexham-afc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:WREXHAM AFC | Championship | J45 | ✈️ | Charlton Athletic 🇬
@@ -497,7 +480,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270424-charlton-athletic-wrexham-afc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Charlton Athletic - Wrexham AFC · TBD
@@ -506,7 +489,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270501-wrexham-afc-bristol-city-fc-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:WREXHAM AFC | Championship | J46 | 🏟️ | Bristol City FC 🇬
@@ -515,7 +498,7 @@ DESCRIPTION:Hora pendent de confirmació · EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 UID:championship-20270501-wrexham-afc-bristol-city-fc@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Wrexham AFC - Bristol City FC · TBD

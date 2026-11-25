@@ -7,21 +7,21 @@ X-WR-CALNAME:Cornish Pirates · Champ Rugby
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
-UID:champrugby-20261122-nottingham-cornish-pirates-dia@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:CORNISH PIRATES | Champ Rugby | J9 | ✈️ | Nottingham 🇬🇧
-DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Champ Rugby\nEstadi: Lady Bay S
- ports Ground
+UID:champrugby-20261205-cornish-pirates-hartpury-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CORNISH PIRATES | Champ Rugby | J10 | 🏟️ | Hartpury 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Mennaye Fi
+ eld
 END:VEVENT
 BEGIN:VEVENT
-UID:champrugby-20261122-nottingham-cornish-pirates@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T160000Z
-DTEND:20261122T174500Z
-SUMMARY:Nottingham - Cornish Pirates
+UID:champrugby-20261205-cornish-pirates-hartpury@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Cornish Pirates - Hartpury
 DESCRIPTION:Champ Rugby
-LOCATION:Lady Bay Sports Ground
+LOCATION:Mennaye Field
 END:VEVENT
 END:VCALENDAR

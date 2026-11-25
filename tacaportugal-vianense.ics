@@ -5,21 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Vianense · Taça de Portugal
 BEGIN:VEVENT
-UID:tacaportugal-20261122-vianense-rio-ave-tdp-dia@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:VIANENSE | Taça de Portugal | 🏟️ | Rio Ave [TdP] 🇵🇹
-DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Taça de Portugal\nEstadi: Est
- ádio Dr. José de Matos
+UID:tacaportugal-20261216-vianense-mafra-tdp-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:VIANENSE | Taça de Portugal | 🏟️ | Mafra [TdP] 🇵🇹
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Taça de Portugal
 END:VEVENT
 BEGIN:VEVENT
-UID:tacaportugal-20261122-vianense-rio-ave-tdp@sportcal
-DTSTAMP:20261122T083356Z
-DTSTART:20261122T140000Z
-DTEND:20261122T154500Z
-SUMMARY:Vianense - Rio Ave [TdP]
+UID:tacaportugal-20261216-vianense-mafra-tdp@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261216T150000Z
+DTEND:20261216T164500Z
+SUMMARY:Vianense - Mafra [TdP]
 DESCRIPTION:Taça de Portugal
-LOCATION:Estádio Dr. José de Matos
 END:VEVENT
 END:VCALENDAR

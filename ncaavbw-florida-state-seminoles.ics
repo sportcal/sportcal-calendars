@@ -5,28 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Florida State Seminoles · NCAA WVB
 BEGIN:VEVENT
-UID:ncaavbw-20261124-clemson-tigers-florida-state-seminoles-dia@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:FLORIDA STATE SEMINOLES | NCAA WVB | J5 | ✈️ | Clemson Tigers 
- 🇺🇸
-DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Volleybal
- l\nEstadi: Jervey Gym\, Clemson\, South Carolina
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261124-clemson-tigers-florida-state-seminoles@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261124T190000Z
-DTEND:20261124T204500Z
-SUMMARY:Clemson Tigers - Florida State Seminoles
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Jervey Gym\, Clemson\, South Carolina
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaavbw-20261128-florida-state-seminoles-virginia-cavaliers-dia@sportca
  l
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:FLORIDA STATE SEMINOLES | NCAA WVB | J6 | 🏟️ | Virginia Cavali
@@ -36,7 +17,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women Volleybal
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-florida-state-seminoles-virginia-cavaliers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Florida State Seminoles - Virginia Cavaliers

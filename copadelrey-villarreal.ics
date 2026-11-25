@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Villarreal · Copa del Rey
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:copadelrey-20261202-sestao-river-villarreal-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:VILLARREAL | Copa del Rey | ✈️ | Sestao River 🇪🇸
+DESCRIPTION:Inici: 21:00 (Europe/Madrid) · Copa del Rey\nEstadi: Las Llana
+ s\, Sestao
+END:VEVENT
+BEGIN:VEVENT
+UID:copadelrey-20261202-sestao-river-villarreal@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261202T200000Z
+DTEND:20261202T214500Z
+SUMMARY:Sestao River - Villarreal
+DESCRIPTION:Copa del Rey
+LOCATION:Las Llanas\, Sestao
+END:VEVENT
+END:VCALENDAR

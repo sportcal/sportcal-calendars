@@ -7,21 +7,21 @@ X-WR-CALNAME:Coventry · Champ Rugby
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
-UID:champrugby-20261121-coventry-worcester-warriors-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:COVENTRY | Champ Rugby | J9 | 🏟️ | Worcester Warriors 🇬🇧
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Butts Park
-  Arena
+UID:champrugby-20261205-bedford-blues-coventry-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:COVENTRY | Champ Rugby | J10 | ✈️ | Bedford Blues 🇬🇧
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Champ Rugby\nEstadi: Goldington
+  Rpad
 END:VEVENT
 BEGIN:VEVENT
-UID:champrugby-20261121-coventry-worcester-warriors@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T150000Z
-DTEND:20261121T164500Z
-SUMMARY:Coventry - Worcester Warriors
+UID:champrugby-20261205-bedford-blues-coventry@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Bedford Blues - Coventry
 DESCRIPTION:Champ Rugby
-LOCATION:Butts Park Arena
+LOCATION:Goldington Rpad
 END:VEVENT
 END:VCALENDAR

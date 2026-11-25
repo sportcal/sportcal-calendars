@@ -5,21 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CD Tondela [TdP] · Taça de Portugal
 BEGIN:VEVENT
-UID:tacaportugal-20261121-avs-cd-tondela-tdp-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:CD TONDELA [TDP] | Taça de Portugal | ✈️ | AVS 🇵🇹
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Taça de Portugal\nEstadi: Est
- ádio do Clube Desportivo das Aves
+UID:tacaportugal-20261216-benfica-cd-tondela-tdp-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:CD TONDELA [TDP] | Taça de Portugal | ✈️ | Benfica 🇵🇹
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Taça de Portugal
 END:VEVENT
 BEGIN:VEVENT
-UID:tacaportugal-20261121-avs-cd-tondela-tdp@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T150000Z
-DTEND:20261121T164500Z
-SUMMARY:AVS - CD Tondela [TdP]
+UID:tacaportugal-20261216-benfica-cd-tondela-tdp@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261216T150000Z
+DTEND:20261216T164500Z
+SUMMARY:Benfica - CD Tondela [TdP]
 DESCRIPTION:Taça de Portugal
-LOCATION:Estádio do Clube Desportivo das Aves
 END:VEVENT
 END:VCALENDAR

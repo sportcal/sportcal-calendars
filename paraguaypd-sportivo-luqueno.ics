@@ -5,34 +5,34 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sportivo Luqueno · Primera División
 BEGIN:VEVENT
-UID:paraguaypd-20261125-sportivo-luqueno-olimpia-dia@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
+UID:paraguaypd-20261128-sportivo-luqueno-olimpia-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
 SUMMARY:SPORTIVO LUQUENO | Primera División | J21 | 🏟️ | Olimpia 🇵
  🇾
-DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Paraguay Primera División
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
-UID:paraguaypd-20261125-sportivo-luqueno-olimpia@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261125T000000Z
-DTEND:20261125T014500Z
+UID:paraguaypd-20261128-sportivo-luqueno-olimpia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261127T230000Z
+DTEND:20261128T004500Z
 SUMMARY:Sportivo Luqueno - Olimpia
 DESCRIPTION:Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
 UID:paraguaypd-20261129-deportivo-recoleta-sportivo-luqueno-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:SPORTIVO LUQUENO | Primera División | J22 | ✈️ | Deportivo Rec
+SUMMARY:SPORTIVO LUQUENO | Primera División | J21 | ✈️ | Deportivo Rec
  oleta 🇵🇾
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · Paraguay Primera División
 END:VEVENT
 BEGIN:VEVENT
 UID:paraguaypd-20261129-deportivo-recoleta-sportivo-luqueno@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:Deportivo Recoleta - Sportivo Luqueno

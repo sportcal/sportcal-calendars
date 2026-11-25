@@ -7,27 +7,8 @@ X-WR-CALNAME:Athletic Futsal · Futsal CL
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
-UID:futsalcl-20261124-athletic-futsal-futsal-club-semey-dia@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:ATHLETIC FUTSAL | Futsal CL | R16 1st leg | 🏟️ | Futsal Club S
- emey 🇰🇿
-DESCRIPTION:Inici: 18:00 (Europe/Madrid) · UEFA Futsal Champions League\nE
- stadi: FMF Futsal Arena\, Ciorescu
-END:VEVENT
-BEGIN:VEVENT
-UID:futsalcl-20261124-athletic-futsal-futsal-club-semey@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART:20261124T170000Z
-DTEND:20261124T184500Z
-SUMMARY:Athletic Futsal - Futsal Club Semey
-DESCRIPTION:UEFA Futsal Champions League
-LOCATION:FMF Futsal Arena\, Ciorescu
-END:VEVENT
-BEGIN:VEVENT
 UID:futsalcl-20261205-futsal-club-semey-athletic-futsal-dia@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:ATHLETIC FUTSAL | Futsal CL | R16 2nd leg | ✈️ | Futsal Club Se
@@ -37,7 +18,7 @@ DESCRIPTION:Inici: 15:00 (Europe/Madrid) · UEFA Futsal Champions League\nE
 END:VEVENT
 BEGIN:VEVENT
 UID:futsalcl-20261205-futsal-club-semey-athletic-futsal@sportcal
-DTSTAMP:20261123T081753Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261205T140000Z
 DTEND:20261205T154500Z
 SUMMARY:Futsal Club Semey - Athletic Futsal

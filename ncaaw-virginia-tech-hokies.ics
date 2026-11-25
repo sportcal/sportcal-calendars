@@ -5,29 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Virginia Tech Hokies · NCAA W
 BEGIN:VEVENT
-UID:ncaaw-20261124-michigan-state-spartans-virginia-tech-hokies-dia@sportca
- l
-DTSTAMP:20261124T092206Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J4 | ✈️ | Michigan State Sparta
- ns 🇺🇸
-DESCRIPTION:Inici: 20:30 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
- Raider Arena\, Destin\, FL
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaaw-20261124-michigan-state-spartans-virginia-tech-hokies@sportcal
-DTSTAMP:20261124T092206Z
-DTSTART:20261124T193000Z
-DTEND:20261124T211500Z
-SUMMARY:Michigan State Spartans - Virginia Tech Hokies
-DESCRIPTION:NCAA Division I Women
-LOCATION:Raider Arena\, Destin\, FL
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaaw-20261129-virginia-tech-hokies-unc-greensboro-spartans-dia@sportca
  l
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J4 | 🏟️ | UNC Greensboro Spart
@@ -37,7 +17,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261129-virginia-tech-hokies-unc-greensboro-spartans@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261129T190000Z
 DTEND:20261129T204500Z
 SUMMARY:Virginia Tech Hokies - UNC Greensboro Spartans
@@ -47,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261204-virginia-tech-hokies-tennessee-lady-volunteers-dia@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J5 | 🏟️ | Tennessee Lady Volun
@@ -57,7 +37,7 @@ DESCRIPTION:Inici: 03:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261204-virginia-tech-hokies-tennessee-lady-volunteers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261204T020000Z
 DTEND:20261204T034500Z
 SUMMARY:Virginia Tech Hokies - Tennessee Lady Volunteers
@@ -66,7 +46,7 @@ LOCATION:Cassell Coliseum\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261206-duke-blue-devils-virginia-tech-hokies-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J6 | ✈️ | Duke Blue Devils 🇺
@@ -76,7 +56,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261206-duke-blue-devils-virginia-tech-hokies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261206T190000Z
 DTEND:20261206T204500Z
 SUMMARY:Duke Blue Devils - Virginia Tech Hokies
@@ -85,7 +65,7 @@ LOCATION:Cameron Indoor Stadium\, Durham\, NC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261210-virginia-tech-hokies-app-state-mountaineers-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J7 | 🏟️ | App State Mountainee
@@ -95,7 +75,7 @@ DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261210-virginia-tech-hokies-app-state-mountaineers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261209T230000Z
 DTEND:20261210T004500Z
 SUMMARY:Virginia Tech Hokies - App State Mountaineers
@@ -105,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261213-virginia-tech-hokies-campbell-fighting-camels-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J8 | 🏟️ | Campbell Fighting Ca
@@ -115,7 +95,7 @@ DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261213-virginia-tech-hokies-campbell-fighting-camels@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261213T220000Z
 DTEND:20261213T234500Z
 SUMMARY:Virginia Tech Hokies - Campbell Fighting Camels
@@ -125,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261219-virginia-tech-hokies-wake-forest-demon-deacons-dia@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J8 | 🏟️ | Wake Forest Demon De
@@ -135,7 +115,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261219-virginia-tech-hokies-wake-forest-demon-deacons@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261219T190000Z
 DTEND:20261219T204500Z
 SUMMARY:Virginia Tech Hokies - Wake Forest Demon Deacons
@@ -144,7 +124,7 @@ LOCATION:Cassell Coliseum\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261221-virginia-tech-hokies-radford-highlanders-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J10 | 🏟️ | Radford Highlanders
@@ -154,7 +134,7 @@ DESCRIPTION:Inici: 18:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261221-virginia-tech-hokies-radford-highlanders@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261221T170000Z
 DTEND:20261221T184500Z
 SUMMARY:Virginia Tech Hokies - Radford Highlanders
@@ -163,7 +143,7 @@ LOCATION:Cassell Coliseum\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261228-virginia-tech-hokies-charleston-cougars-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J9 | 🏟️ | Charleston Cougars 
@@ -173,7 +153,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261228-virginia-tech-hokies-charleston-cougars@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261228T190000Z
 DTEND:20261228T204500Z
 SUMMARY:Virginia Tech Hokies - Charleston Cougars
@@ -182,7 +162,7 @@ LOCATION:Cassell Coliseum\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261231-pittsburgh-panthers-virginia-tech-hokies-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J11 | ✈️ | Pittsburgh Panthers 
@@ -192,7 +172,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20261231-pittsburgh-panthers-virginia-tech-hokies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261231T190000Z
 DTEND:20261231T204500Z
 SUMMARY:Pittsburgh Panthers - Virginia Tech Hokies
@@ -201,7 +181,7 @@ LOCATION:Petersen Events Center\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270103-virginia-tech-hokies-syracuse-orange-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J13 | 🏟️ | Syracuse Orange 
@@ -211,7 +191,7 @@ DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270103-virginia-tech-hokies-syracuse-orange@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270103T210000Z
 DTEND:20270103T224500Z
 SUMMARY:Virginia Tech Hokies - Syracuse Orange
@@ -221,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270108-virginia-tech-hokies-notre-dame-fighting-irish-dia@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J14 | 🏟️ | Notre Dame Fighting
@@ -231,7 +211,7 @@ DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270108-virginia-tech-hokies-notre-dame-fighting-irish@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270107T230000Z
 DTEND:20270108T004500Z
 SUMMARY:Virginia Tech Hokies - Notre Dame Fighting Irish
@@ -240,7 +220,7 @@ LOCATION:Cassell Coliseum\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270110-virginia-cavaliers-virginia-tech-hokies-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J15 | ✈️ | Virginia Cavaliers 
@@ -250,7 +230,7 @@ DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270110-virginia-cavaliers-virginia-tech-hokies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270110T190000Z
 DTEND:20270110T204500Z
 SUMMARY:Virginia Cavaliers - Virginia Tech Hokies
@@ -258,18 +238,37 @@ DESCRIPTION:NCAA Division I Women
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaw-20270115-nc-state-wolfpack-virginia-tech-hokies-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J16 | ✈️ | NC State Wolfpack 
+ 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Reynolds Coliseum\, Raleigh\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270115-nc-state-wolfpack-virginia-tech-hokies@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270115T000000Z
+DTEND:20270115T014500Z
+SUMMARY:NC State Wolfpack - Virginia Tech Hokies
+DESCRIPTION:NCAA Division I Women
+LOCATION:Reynolds Coliseum\, Raleigh\, NC
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaw-20270117-virginia-tech-hokies-louisville-cardinals-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J15 | 🏟️ | Louisville Cardinal
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J16 | 🏟️ | Louisville Cardinal
  s 🇺🇸
 DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Cassell Coliseum\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270117-virginia-tech-hokies-louisville-cardinals@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270117T190000Z
 DTEND:20270117T204500Z
 SUMMARY:Virginia Tech Hokies - Louisville Cardinals
@@ -277,18 +276,38 @@ DESCRIPTION:NCAA Division I Women
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaw-20270124-virginia-tech-hokies-florida-state-seminoles-dia@sportca
+ l
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J17 | 🏟️ | Florida State Semin
+ oles 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cassell Coliseum\, Blacksburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270124-virginia-tech-hokies-florida-state-seminoles@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270124T190000Z
+DTEND:20270124T204500Z
+SUMMARY:Virginia Tech Hokies - Florida State Seminoles
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cassell Coliseum\, Blacksburg\, VA
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaw-20270129-boston-college-eagles-virginia-tech-hokies-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J16 | ✈️ | Boston College Eagle
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J19 | ✈️ | Boston College Eagle
  s 🇺🇸
 DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270129-boston-college-eagles-virginia-tech-hokies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270128T230000Z
 DTEND:20270129T004500Z
 SUMMARY:Boston College Eagles - Virginia Tech Hokies
@@ -296,19 +315,58 @@ DESCRIPTION:NCAA Division I Women
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaw-20270131-virginia-tech-hokies-california-golden-bears-dia@sportca
+ l
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J20 | 🏟️ | California Golden B
+ ears 🇺🇸
+DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cassell Coliseum\, Blacksburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270131-virginia-tech-hokies-california-golden-bears@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270131T190000Z
+DTEND:20270131T204500Z
+SUMMARY:Virginia Tech Hokies - California Golden Bears
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cassell Coliseum\, Blacksburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270205-clemson-tigers-virginia-tech-hokies-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J21 | ✈️ | Clemson Tigers 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Littlejohn Coliseum\, Clemson\, SC
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270205-clemson-tigers-virginia-tech-hokies@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270204T230000Z
+DTEND:20270205T004500Z
+SUMMARY:Clemson Tigers - Virginia Tech Hokies
+DESCRIPTION:NCAA Division I Women
+LOCATION:Littlejohn Coliseum\, Clemson\, SC
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaw-20270207-north-carolina-tar-heels-virginia-tech-hokies-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J18 | ✈️ | North Carolina Tar H
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J22 | ✈️ | North Carolina Tar H
  eels 🇺🇸
 DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Carmichael Arena\, Chapel Hill\, NC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270207-north-carolina-tar-heels-virginia-tech-hokies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270207T190000Z
 DTEND:20270207T204500Z
 SUMMARY:North Carolina Tar Heels - Virginia Tech Hokies
@@ -316,18 +374,37 @@ DESCRIPTION:NCAA Division I Women
 LOCATION:Carmichael Arena\, Chapel Hill\, NC
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaw-20270212-virginia-tech-hokies-smu-mustangs-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J22 | 🏟️ | SMU Mustangs 🇺
+ 🇸
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
+ Cassell Coliseum\, Blacksburg\, VA
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaw-20270212-virginia-tech-hokies-smu-mustangs@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20270211T230000Z
+DTEND:20270212T004500Z
+SUMMARY:Virginia Tech Hokies - SMU Mustangs
+DESCRIPTION:NCAA Division I Women
+LOCATION:Cassell Coliseum\, Blacksburg\, VA
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaw-20270219-virginia-tech-hokies-stanford-cardinal-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J15 | 🏟️ | Stanford Cardinal 
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J24 | 🏟️ | Stanford Cardinal 
  🇺🇸
 DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Cassell Coliseum\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270219-virginia-tech-hokies-stanford-cardinal@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270218T230000Z
 DTEND:20270219T004500Z
 SUMMARY:Virginia Tech Hokies - Stanford Cardinal
@@ -337,10 +414,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270221-georgia-tech-yellow-jackets-virginia-tech-hokies-dia@spo
  rtcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J21 | ✈️ | Georgia Tech Yellow 
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J24 | ✈️ | Georgia Tech Yellow 
  Jackets 🇺🇸
 DESCRIPTION:Inici: 20:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  McCamish Pavilion\, Atlanta\, GA
@@ -348,7 +425,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270221-georgia-tech-yellow-jackets-virginia-tech-hokies@sportca
  l
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270221T190000Z
 DTEND:20270221T204500Z
 SUMMARY:Georgia Tech Yellow Jackets - Virginia Tech Hokies
@@ -357,17 +434,17 @@ LOCATION:McCamish Pavilion\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270226-miami-hurricanes-virginia-tech-hokies-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J21 | ✈️ | Miami Hurricanes 
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J23 | ✈️ | Miami Hurricanes 
  🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Watsco Center\, Coral Gables\, FL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270226-miami-hurricanes-virginia-tech-hokies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270226T000000Z
 DTEND:20270226T014500Z
 SUMMARY:Miami Hurricanes - Virginia Tech Hokies
@@ -376,17 +453,17 @@ LOCATION:Watsco Center\, Coral Gables\, FL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270301-virginia-tech-hokies-virginia-cavaliers-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J22 | 🏟️ | Virginia Cavaliers 
+SUMMARY:VIRGINIA TECH HOKIES | NCAA W | J2 | 🏟️ | Virginia Cavaliers 
  🇺🇸
 DESCRIPTION:Inici: 00:00 (Europe/Madrid) · NCAA Division I Women\nEstadi: 
  Cassell Coliseum\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaw-20270301-virginia-tech-hokies-virginia-cavaliers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270228T230000Z
 DTEND:20270301T004500Z
 SUMMARY:Virginia Tech Hokies - Virginia Cavaliers

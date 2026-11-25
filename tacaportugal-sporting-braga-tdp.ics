@@ -5,22 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sporting Braga [TdP] · Taça de Portugal
 BEGIN:VEVENT
-UID:tacaportugal-20261121-vitoria-guimaraes-sporting-braga-tdp-dia@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:SPORTING BRAGA [TDP] | Taça de Portugal | ✈️ | Vitoria Guimara
- es 🇵🇹
-DESCRIPTION:Inici: 21:30 (Europe/Madrid) · Taça de Portugal\nEstadi: Est
- ádio D. Afonso Henriques
+UID:tacaportugal-20261216-gil-vicente-sporting-braga-tdp-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:SPORTING BRAGA [TDP] | Taça de Portugal | ✈️ | Gil Vicente 
+ 🇵🇹
+DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Taça de Portugal
 END:VEVENT
 BEGIN:VEVENT
-UID:tacaportugal-20261121-vitoria-guimaraes-sporting-braga-tdp@sportcal
-DTSTAMP:20261121T081735Z
-DTSTART:20261121T203000Z
-DTEND:20261121T221500Z
-SUMMARY:Vitoria Guimaraes - Sporting Braga [TdP]
+UID:tacaportugal-20261216-gil-vicente-sporting-braga-tdp@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261216T150000Z
+DTEND:20261216T164500Z
+SUMMARY:Gil Vicente - Sporting Braga [TdP]
 DESCRIPTION:Taça de Portugal
-LOCATION:Estádio D. Afonso Henriques
 END:VEVENT
 END:VCALENDAR

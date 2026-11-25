@@ -7,10 +7,10 @@ X-WR-CALNAME:Michigan Tech Huskies · NCAA MH
 BEGIN:VEVENT
 UID:ncaaihm-20261205-northern-michigan-wildcats-michigan-tech-huskies-dia@s
  portcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J2 | ✈️ | Northern Michigan W
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J5 | ✈️ | Northern Michigan W
  ildcats 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Berry Events Center\, Marquette\, MI
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261205-northern-michigan-wildcats-michigan-tech-huskies@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261205T000700Z
 DTEND:20261205T015200Z
 SUMMARY:Northern Michigan Wildcats - Michigan Tech Huskies
@@ -28,10 +28,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261206-michigan-tech-huskies-northern-michigan-wildcats-dia@s
  portcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J3 | 🏟️ | Northern Michigan 
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J6 | 🏟️ | Northern Michigan 
  Wildcats 🇺🇸
 DESCRIPTION:Inici: 00:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: MacInnes Student Ice Arena\, Houghton\, MI
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261206-michigan-tech-huskies-northern-michigan-wildcats@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261205T230700Z
 DTEND:20261206T005200Z
 SUMMARY:Michigan Tech Huskies - Northern Michigan Wildcats
@@ -47,19 +47,39 @@ DESCRIPTION:NCAA Division I Men Hockey
 LOCATION:MacInnes Student Ice Arena\, Houghton\, MI
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaihm-20261212-bemidji-state-beavers-michigan-tech-huskies-dia@sportc
+ al
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J9 | ✈️ | Bemidji State Beave
+ rs 🇺🇸
+DESCRIPTION:Inici: 02:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Sanford Center\, Bemidji\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261212-bemidji-state-beavers-michigan-tech-huskies@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261212T010700Z
+DTEND:20261212T025200Z
+SUMMARY:Bemidji State Beavers - Michigan Tech Huskies
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Sanford Center\, Bemidji\, MN
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaihm-20261213-bemidji-state-beavers-michigan-tech-huskies-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J5 | ✈️ | Bemidji State Beave
- rs 🇺🇸
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J10 | ✈️ | Bemidji State Beav
+ ers 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Sanford Center\, Bemidji\, MN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261213-bemidji-state-beavers-michigan-tech-huskies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261213T000700Z
 DTEND:20261213T015200Z
 SUMMARY:Bemidji State Beavers - Michigan Tech Huskies
@@ -67,18 +87,39 @@ DESCRIPTION:NCAA Division I Men Hockey
 LOCATION:Sanford Center\, Bemidji\, MN
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaihm-20261229-michigan-tech-huskies-western-michigan-broncos-dia@spo
+ rtcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J9 | 🏟️ | Western Michigan B
+ roncos 🇺🇸
+DESCRIPTION:Inici: 21:30 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Van Andel Arena\, Grand Rapids\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261229-michigan-tech-huskies-western-michigan-broncos@sportca
+ l
+DTSTAMP:20261125T081654Z
+DTSTART:20261229T203000Z
+DTEND:20261229T221500Z
+SUMMARY:Michigan Tech Huskies - Western Michigan Broncos
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Van Andel Arena\, Grand Rapids\, MI
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaihm-20270109-augustana-vikings-michigan-tech-huskies-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J6 | ✈️ | Augustana Vikings 
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J10 | ✈️ | Augustana Vikings 
  🇺🇸
 DESCRIPTION:Inici: 02:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Midco Arena\, Sioux Falls\, SD
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270109-augustana-vikings-michigan-tech-huskies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270109T010700Z
 DTEND:20270109T025200Z
 SUMMARY:Augustana Vikings - Michigan Tech Huskies
@@ -87,17 +128,17 @@ LOCATION:Midco Arena\, Sioux Falls\, SD
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270110-augustana-vikings-michigan-tech-huskies-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J7 | ✈️ | Augustana Vikings 
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J11 | ✈️ | Augustana Vikings 
  🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Midco Arena\, Sioux Falls\, SD
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270110-augustana-vikings-michigan-tech-huskies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270110T000700Z
 DTEND:20270110T015200Z
 SUMMARY:Augustana Vikings - Michigan Tech Huskies
@@ -107,17 +148,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270116-michigan-tech-huskies-ferris-state-bulldogs-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J7 | 🏟️ | Ferris State Bulld
- ogs 🇺🇸
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J15 | 🏟️ | Ferris State Bull
+ dogs 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: MacInnes Student Ice Arena\, Houghton\, MI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270116-michigan-tech-huskies-ferris-state-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270116T000700Z
 DTEND:20270116T015200Z
 SUMMARY:Michigan Tech Huskies - Ferris State Bulldogs
@@ -127,17 +168,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270117-michigan-tech-huskies-ferris-state-bulldogs-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J7 | 🏟️ | Ferris State Bulld
- ogs 🇺🇸
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J13 | 🏟️ | Ferris State Bull
+ dogs 🇺🇸
 DESCRIPTION:Inici: 00:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: MacInnes Student Ice Arena\, Houghton\, MI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270117-michigan-tech-huskies-ferris-state-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270116T230700Z
 DTEND:20270117T005200Z
 SUMMARY:Michigan Tech Huskies - Ferris State Bulldogs
@@ -147,18 +188,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270123-michigan-tech-huskies-northern-michigan-wildcats-dia@s
  portcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J9 | 🏟️ | Northern Michigan 
- Wildcats 🇺🇸
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J14 | 🏟️ | Northern Michigan
+  Wildcats 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: MacInnes Student Ice Arena\, Houghton\, MI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270123-michigan-tech-huskies-northern-michigan-wildcats@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270123T000700Z
 DTEND:20270123T015200Z
 SUMMARY:Michigan Tech Huskies - Northern Michigan Wildcats
@@ -168,10 +209,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270124-northern-michigan-wildcats-michigan-tech-huskies-dia@s
  portcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J10 | ✈️ | Northern Michigan 
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J15 | ✈️ | Northern Michigan 
  Wildcats 🇺🇸
 DESCRIPTION:Inici: 00:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Berry Events Center\, Marquette\, MI
@@ -179,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270124-northern-michigan-wildcats-michigan-tech-huskies@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270123T230700Z
 DTEND:20270124T005200Z
 SUMMARY:Northern Michigan Wildcats - Michigan Tech Huskies
@@ -189,10 +230,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270130-lake-superior-state-lakers-michigan-tech-huskies-dia@s
  portcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J11 | ✈️ | Lake Superior Stat
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J13 | ✈️ | Lake Superior Stat
  e Lakers 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Taffy Abel Arena\, Sault Sainte Marie\, MI
@@ -200,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270130-lake-superior-state-lakers-michigan-tech-huskies@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270130T000700Z
 DTEND:20270130T015200Z
 SUMMARY:Lake Superior State Lakers - Michigan Tech Huskies
@@ -210,18 +251,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270131-lake-superior-state-lakers-michigan-tech-huskies-dia@s
  portcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J7 | ✈️ | Lake Superior State
-  Lakers 🇺🇸
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J15 | ✈️ | Lake Superior Stat
+ e Lakers 🇺🇸
 DESCRIPTION:Inici: 00:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Taffy Abel Arena\, Sault Sainte Marie\, MI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270131-lake-superior-state-lakers-michigan-tech-huskies@sport
  cal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270130T230700Z
 DTEND:20270131T005200Z
 SUMMARY:Lake Superior State Lakers - Michigan Tech Huskies
@@ -231,10 +272,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270206-michigan-tech-huskies-minnesota-state-mavericks-dia@sp
  ortcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J15 | 🏟️ | Minnesota State M
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J17 | 🏟️ | Minnesota State M
  avericks 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: MacInnes Student Ice Arena\, Houghton\, MI
@@ -242,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270206-michigan-tech-huskies-minnesota-state-mavericks@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270206T000700Z
 DTEND:20270206T015200Z
 SUMMARY:Michigan Tech Huskies - Minnesota State Mavericks
@@ -252,10 +293,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270206-michigan-tech-huskies-minnesota-state-mavericks-dia@sp
  ortcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J15 | 🏟️ | Minnesota State M
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J17 | 🏟️ | Minnesota State M
  avericks 🇺🇸
 DESCRIPTION:Inici: 23:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: MacInnes Student Ice Arena\, Houghton\, MI
@@ -263,7 +304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270206-michigan-tech-huskies-minnesota-state-mavericks@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270206T220700Z
 DTEND:20270206T235200Z
 SUMMARY:Michigan Tech Huskies - Minnesota State Mavericks
@@ -273,17 +314,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270220-bowling-green-falcons-michigan-tech-huskies-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J15 | ✈️ | Bowling Green Falc
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J24 | ✈️ | Bowling Green Falc
  ons 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Slater Family Ice Arena\, Bowling Green\, OH
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270220-bowling-green-falcons-michigan-tech-huskies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270220T000700Z
 DTEND:20270220T015200Z
 SUMMARY:Bowling Green Falcons - Michigan Tech Huskies
@@ -293,17 +334,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270221-bowling-green-falcons-michigan-tech-huskies-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J16 | ✈️ | Bowling Green Falc
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J22 | ✈️ | Bowling Green Falc
  ons 🇺🇸
 DESCRIPTION:Inici: 00:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Slater Family Ice Arena\, Bowling Green\, OH
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270221-bowling-green-falcons-michigan-tech-huskies@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270220T230700Z
 DTEND:20270221T005200Z
 SUMMARY:Bowling Green Falcons - Michigan Tech Huskies
@@ -313,17 +354,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270227-michigan-tech-huskies-bemidji-state-beavers-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J20 | 🏟️ | Bemidji State Bea
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J21 | 🏟️ | Bemidji State Bea
  vers 🇺🇸
 DESCRIPTION:Inici: 01:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: MacInnes Student Ice Arena\, Houghton\, MI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270227-michigan-tech-huskies-bemidji-state-beavers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270227T000700Z
 DTEND:20270227T015200Z
 SUMMARY:Michigan Tech Huskies - Bemidji State Beavers
@@ -333,17 +374,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270228-michigan-tech-huskies-bemidji-state-beavers-dia@sportc
  al
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
-SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J22 | 🏟️ | Bemidji State Bea
+SUMMARY:MICHIGAN TECH HUSKIES | NCAA MH | J24 | 🏟️ | Bemidji State Bea
  vers 🇺🇸
 DESCRIPTION:Inici: 00:07 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: MacInnes Student Ice Arena\, Houghton\, MI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270228-michigan-tech-huskies-bemidji-state-beavers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270227T230700Z
 DTEND:20270228T005200Z
 SUMMARY:Michigan Tech Huskies - Bemidji State Beavers

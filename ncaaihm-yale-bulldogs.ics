@@ -5,17 +5,35 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Yale Bulldogs · NCAA MH
 BEGIN:VEVENT
+UID:ncaaihm-20261128-omaha-mavericks-yale-bulldogs-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:YALE BULLDOGS | NCAA MH | J5 | ✈️ | Omaha Mavericks 🇺🇸
+DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Baxter Arena\, Omaha\, NE
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261128-omaha-mavericks-yale-bulldogs@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261128T000000Z
+DTEND:20261128T014500Z
+SUMMARY:Omaha Mavericks - Yale Bulldogs
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Baxter Arena\, Omaha\, NE
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaihm-20261129-omaha-mavericks-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:YALE BULLDOGS | NCAA MH | J2 | ✈️ | Omaha Mavericks 🇺🇸
+SUMMARY:YALE BULLDOGS | NCAA MH | J6 | ✈️ | Omaha Mavericks 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Baxter Arena\, Omaha\, NE
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261129-omaha-mavericks-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:Omaha Mavericks - Yale Bulldogs
@@ -24,16 +42,16 @@ LOCATION:Baxter Arena\, Omaha\, NE
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261206-stonehill-skyhawks-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:YALE BULLDOGS | NCAA MH | J3 | ✈️ | Stonehill Skyhawks 🇺🇸
+SUMMARY:YALE BULLDOGS | NCAA MH | J6 | ✈️ | Stonehill Skyhawks 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Bridgewater Ice Arena\, Bridgewater\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20261206-stonehill-skyhawks-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20261206T000000Z
 DTEND:20261206T014500Z
 SUMMARY:Stonehill Skyhawks - Yale Bulldogs
@@ -41,17 +59,36 @@ DESCRIPTION:NCAA Division I Men Hockey
 LOCATION:Bridgewater Ice Arena\, Bridgewater\, MA
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaaihm-20261229-sacred-heart-pioneers-yale-bulldogs-dia@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:YALE BULLDOGS | NCAA MH | J8 | ✈️ | Sacred Heart Pioneers 🇺
+ 🇸
+DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
+ adi: Martire Family Arena\, Fairfield\, CT
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaaihm-20261229-sacred-heart-pioneers-yale-bulldogs@sportcal
+DTSTAMP:20261125T081654Z
+DTSTART:20261229T210000Z
+DTEND:20261229T224500Z
+SUMMARY:Sacred Heart Pioneers - Yale Bulldogs
+DESCRIPTION:NCAA Division I Men Hockey
+LOCATION:Martire Family Arena\, Fairfield\, CT
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaaihm-20270102-yale-bulldogs-harvard-crimson-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:YALE BULLDOGS | NCAA MH | J7 | 🏟️ | Harvard Crimson 🇺🇸
+SUMMARY:YALE BULLDOGS | NCAA MH | J12 | 🏟️ | Harvard Crimson 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270102-yale-bulldogs-harvard-crimson@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270102T000000Z
 DTEND:20270102T014500Z
 SUMMARY:Yale Bulldogs - Harvard Crimson
@@ -60,17 +97,17 @@ LOCATION:Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270103-yale-bulldogs-dartmouth-big-green-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-SUMMARY:YALE BULLDOGS | NCAA MH | J7 | 🏟️ | Dartmouth Big Green 🇺
+SUMMARY:YALE BULLDOGS | NCAA MH | J12 | 🏟️ | Dartmouth Big Green 🇺
  🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270103-yale-bulldogs-dartmouth-big-green@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270103T000000Z
 DTEND:20270103T014500Z
 SUMMARY:Yale Bulldogs - Dartmouth Big Green
@@ -79,17 +116,17 @@ LOCATION:Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270109-st-lawrence-saints-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:YALE BULLDOGS | NCAA MH | J6 | ✈️ | St. Lawrence Saints 🇺
+SUMMARY:YALE BULLDOGS | NCAA MH | J10 | ✈️ | St. Lawrence Saints 🇺
  🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Appleton Arena\, Canton\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270109-st-lawrence-saints-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270109T000000Z
 DTEND:20270109T014500Z
 SUMMARY:St. Lawrence Saints - Yale Bulldogs
@@ -98,17 +135,17 @@ LOCATION:Appleton Arena\, Canton\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270109-clarkson-golden-knights-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:YALE BULLDOGS | NCAA MH | J6 | ✈️ | Clarkson Golden Knights 
+SUMMARY:YALE BULLDOGS | NCAA MH | J10 | ✈️ | Clarkson Golden Knights 
  🇺🇸
 DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Cheel Arena\, Potsdam\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270109-clarkson-golden-knights-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270109T210000Z
 DTEND:20270109T224500Z
 SUMMARY:Clarkson Golden Knights - Yale Bulldogs
@@ -117,17 +154,17 @@ LOCATION:Cheel Arena\, Potsdam\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270116-yale-bulldogs-rensselaer-engineers-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:YALE BULLDOGS | NCAA MH | J8 | 🏟️ | Rensselaer Engineers 🇺
+SUMMARY:YALE BULLDOGS | NCAA MH | J15 | 🏟️ | Rensselaer Engineers 🇺
  🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270116-yale-bulldogs-rensselaer-engineers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270116T000000Z
 DTEND:20270116T014500Z
 SUMMARY:Yale Bulldogs - Rensselaer Engineers
@@ -136,17 +173,17 @@ LOCATION:Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270117-yale-bulldogs-union-garnet-chargers-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:YALE BULLDOGS | NCAA MH | J7 | 🏟️ | Union Garnet Chargers 🇺
- 🇸
+SUMMARY:YALE BULLDOGS | NCAA MH | J13 | 🏟️ | Union Garnet Chargers 
+ 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270117-yale-bulldogs-union-garnet-chargers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270117T000000Z
 DTEND:20270117T014500Z
 SUMMARY:Yale Bulldogs - Union Garnet Chargers
@@ -155,16 +192,16 @@ LOCATION:Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270123-yale-bulldogs-princeton-tigers-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:YALE BULLDOGS | NCAA MH | J11 | 🏟️ | Princeton Tigers 🇺🇸
+SUMMARY:YALE BULLDOGS | NCAA MH | J15 | 🏟️ | Princeton Tigers 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270123-yale-bulldogs-princeton-tigers@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270123T000000Z
 DTEND:20270123T014500Z
 SUMMARY:Yale Bulldogs - Princeton Tigers
@@ -173,17 +210,17 @@ LOCATION:Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270124-yale-bulldogs-quinnipiac-bobcats-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-SUMMARY:YALE BULLDOGS | NCAA MH | J10 | 🏟️ | Quinnipiac Bobcats 🇺
+SUMMARY:YALE BULLDOGS | NCAA MH | J15 | 🏟️ | Quinnipiac Bobcats 🇺
  🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270124-yale-bulldogs-quinnipiac-bobcats@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270124T000000Z
 DTEND:20270124T014500Z
 SUMMARY:Yale Bulldogs - Quinnipiac Bobcats
@@ -192,17 +229,17 @@ LOCATION:Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270129-quinnipiac-bobcats-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:YALE BULLDOGS | NCAA MH | J12 | ✈️ | Quinnipiac Bobcats 🇺
+SUMMARY:YALE BULLDOGS | NCAA MH | J16 | ✈️ | Quinnipiac Bobcats 🇺
  🇸
 DESCRIPTION:Inici: 22:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: PeoplesBank Arena\, Hartford\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270129-quinnipiac-bobcats-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270129T210000Z
 DTEND:20270129T224500Z
 SUMMARY:Quinnipiac Bobcats - Yale Bulldogs
@@ -211,16 +248,16 @@ LOCATION:PeoplesBank Arena\, Hartford\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270206-brown-bears-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:YALE BULLDOGS | NCAA MH | J15 | ✈️ | Brown Bears 🇺🇸
+SUMMARY:YALE BULLDOGS | NCAA MH | J17 | ✈️ | Brown Bears 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Meehan Auditorium\, Providence\, RI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270206-brown-bears-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270206T000000Z
 DTEND:20270206T014500Z
 SUMMARY:Brown Bears - Yale Bulldogs
@@ -229,16 +266,16 @@ LOCATION:Meehan Auditorium\, Providence\, RI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270213-cornell-big-red-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:YALE BULLDOGS | NCAA MH | J15 | ✈️ | Cornell Big Red 🇺🇸
+SUMMARY:YALE BULLDOGS | NCAA MH | J19 | ✈️ | Cornell Big Red 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Lynah Rink\, Ithaca\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270213-cornell-big-red-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270213T000000Z
 DTEND:20270213T014500Z
 SUMMARY:Cornell Big Red - Yale Bulldogs
@@ -247,16 +284,16 @@ LOCATION:Lynah Rink\, Ithaca\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270213-colgate-raiders-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:YALE BULLDOGS | NCAA MH | J14 | ✈️ | Colgate Raiders 🇺🇸
+SUMMARY:YALE BULLDOGS | NCAA MH | J19 | ✈️ | Colgate Raiders 🇺🇸
 DESCRIPTION:Inici: 23:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Class of 1965 Arena\, Hamilton\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270213-colgate-raiders-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270213T220000Z
 DTEND:20270213T234500Z
 SUMMARY:Colgate Raiders - Yale Bulldogs
@@ -265,17 +302,17 @@ LOCATION:Class of 1965 Arena\, Hamilton\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270220-yale-bulldogs-clarkson-golden-knights-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:YALE BULLDOGS | NCAA MH | J15 | 🏟️ | Clarkson Golden Knights 
+SUMMARY:YALE BULLDOGS | NCAA MH | J21 | 🏟️ | Clarkson Golden Knights 
  🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270220-yale-bulldogs-clarkson-golden-knights@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270220T000000Z
 DTEND:20270220T014500Z
 SUMMARY:Yale Bulldogs - Clarkson Golden Knights
@@ -284,17 +321,17 @@ LOCATION:Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270221-yale-bulldogs-st-lawrence-saints-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-SUMMARY:YALE BULLDOGS | NCAA MH | J16 | 🏟️ | St. Lawrence Saints 🇺
+SUMMARY:YALE BULLDOGS | NCAA MH | J22 | 🏟️ | St. Lawrence Saints 🇺
  🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270221-yale-bulldogs-st-lawrence-saints@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270221T000000Z
 DTEND:20270221T014500Z
 SUMMARY:Yale Bulldogs - St. Lawrence Saints
@@ -303,17 +340,17 @@ LOCATION:Ingalls Rink\, New Haven\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270227-quinnipiac-bobcats-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:YALE BULLDOGS | NCAA MH | J20 | ✈️ | Quinnipiac Bobcats 🇺
+SUMMARY:YALE BULLDOGS | NCAA MH | J23 | ✈️ | Quinnipiac Bobcats 🇺
  🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: M&T Bank Arena\, Hamden\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270227-quinnipiac-bobcats-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270227T000000Z
 DTEND:20270227T014500Z
 SUMMARY:Quinnipiac Bobcats - Yale Bulldogs
@@ -322,16 +359,16 @@ LOCATION:M&T Bank Arena\, Hamden\, CT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270228-princeton-tigers-yale-bulldogs-dia@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
-SUMMARY:YALE BULLDOGS | NCAA MH | J22 | ✈️ | Princeton Tigers 🇺🇸
+SUMMARY:YALE BULLDOGS | NCAA MH | J24 | ✈️ | Princeton Tigers 🇺🇸
 DESCRIPTION:Inici: 01:00 (Europe/Madrid) · NCAA Division I Men Hockey\nEst
  adi: Hobey Baker Memorial Rink\, Princeton\, NJ
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaaihm-20270228-princeton-tigers-yale-bulldogs@sportcal
-DTSTAMP:20261124T092206Z
+DTSTAMP:20261125T081654Z
 DTSTART:20270228T000000Z
 DTEND:20270228T014500Z
 SUMMARY:Princeton Tigers - Yale Bulldogs
