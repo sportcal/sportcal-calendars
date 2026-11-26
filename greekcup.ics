@@ -8,88 +8,88 @@ X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
 UID:greekcup-dia-20261202-j4@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:GREEK CUP
-DESCRIPTION:TBD Olympiacos - Panathinaikos
+DESCRIPTION:18:00 Olympiacos - Panathinaikos
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-dia-20261202-j5@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:GREEK CUP
-DESCRIPTION:TBD Niki Volos - Marko\nTBD Kalamata - PAOK\nTBD OFI - Volos\nT
- BD Aris - Panserraikos\nTBD Atromitos - Nestos Chrysoupoli\nTBD A.E. Kifis
- ia - AEL\n18:00 AEK Athens - Asteras Tripolis
+DESCRIPTION:18:00 Niki Volos - Marko\n18:00 Kalamata - PAOK\n18:00 OFI - Vo
+ los\n18:00 Aris - Panserraikos\n18:00 Atromitos - Nestos Chrysoupoli\n18:0
+ 0 A.E. Kifisia - AEL\n18:00 AEK Athens - Asteras Tripolis
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-niki-volos-marko@sportcal
-DTSTAMP:20261125T081654Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Niki Volos - Marko · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
+DTSTAMP:20261126T081733Z
+DTSTART:20261202T170000Z
+DTEND:20261202T184500Z
+SUMMARY:Niki Volos - Marko
+DESCRIPTION:Greek Cup
+LOCATION:Pantelis Magoulas Stadium\, Volos
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-kalamata-paok@sportcal
-DTSTAMP:20261125T081654Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Kalamata - PAOK · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
+DTSTAMP:20261126T081733Z
+DTSTART:20261202T170000Z
+DTEND:20261202T184500Z
+SUMMARY:Kalamata - PAOK
+DESCRIPTION:Greek Cup
+LOCATION:Neapoli Stadium\, Nikaia\, Attica
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-ofi-volos@sportcal
-DTSTAMP:20261125T081654Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:OFI - Volos · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
+DTSTAMP:20261126T081733Z
+DTSTART:20261202T170000Z
+DTEND:20261202T184500Z
+SUMMARY:OFI - Volos
+DESCRIPTION:Greek Cup
+LOCATION:Pankritio Stadium\, Heraklion
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-aris-panserraikos@sportcal
-DTSTAMP:20261125T081654Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Aris - Panserraikos · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
+DTSTAMP:20261126T081733Z
+DTSTART:20261202T170000Z
+DTEND:20261202T184500Z
+SUMMARY:Aris - Panserraikos
+DESCRIPTION:Greek Cup
+LOCATION:Kleanthis Vikelidis Stadium\, Thessaloniki
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-atromitos-nestos-chrysoupoli@sportcal
-DTSTAMP:20261125T081654Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Atromitos - Nestos Chrysoupoli · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
+DTSTAMP:20261126T081733Z
+DTSTART:20261202T170000Z
+DTEND:20261202T184500Z
+SUMMARY:Atromitos - Nestos Chrysoupoli
+DESCRIPTION:Greek Cup
+LOCATION:Peristeri Stadium\, Peristeri
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-olympiacos-panathinaikos@sportcal
-DTSTAMP:20261125T081654Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Olympiacos - Panathinaikos · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
+DTSTAMP:20261126T081733Z
+DTSTART:20261202T170000Z
+DTEND:20261202T184500Z
+SUMMARY:Olympiacos - Panathinaikos
+DESCRIPTION:Greek Cup
+LOCATION:Karaiskakis Stadium\, Piraeus
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-a-e-kifisia-ael@sportcal
-DTSTAMP:20261125T081654Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:A.E. Kifisia - AEL · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Greek Cup
+DTSTAMP:20261126T081733Z
+DTSTART:20261202T170000Z
+DTEND:20261202T184500Z
+SUMMARY:A.E. Kifisia - AEL
+DESCRIPTION:Greek Cup
+LOCATION:Leoforos Alexandras Stadium\, Ampelokipoi
 END:VEVENT
 BEGIN:VEVENT
 UID:greekcup-20261202-aek-athens-asteras-tripolis@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART:20261202T170000Z
 DTEND:20261202T184500Z
 SUMMARY:AEK Athens - Asteras Tripolis

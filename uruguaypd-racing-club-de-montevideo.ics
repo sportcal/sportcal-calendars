@@ -5,22 +5,22 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Racing Club de Montevideo · Primera División
 BEGIN:VEVENT
-UID:uruguaypd-20261128-racing-club-de-montevideo-liverpool-montevideo-dia@s
+UID:uruguaypd-20261128-liverpool-montevideo-racing-club-de-montevideo-dia@s
  portcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:RACING CLUB DE MONTEVIDEO | Primera División | J38 | 🏟️ | Liv
- erpool Montevideo 🇺🇾
+SUMMARY:RACING CLUB DE MONTEVIDEO | Primera División | J38 | ✈️ | Live
+ rpool Montevideo 🇺🇾
 DESCRIPTION:Inici: 00:30 (Europe/Madrid) · Uruguayan Primera División
 END:VEVENT
 BEGIN:VEVENT
-UID:uruguaypd-20261128-racing-club-de-montevideo-liverpool-montevideo@sport
+UID:uruguaypd-20261128-liverpool-montevideo-racing-club-de-montevideo@sport
  cal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART:20261127T233000Z
 DTEND:20261128T011500Z
-SUMMARY:Racing Club de Montevideo - Liverpool Montevideo
+SUMMARY:Liverpool Montevideo - Racing Club de Montevideo
 DESCRIPTION:Uruguayan Primera División
 END:VEVENT
 END:VCALENDAR

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Hamburger SV · Bundesliga
 BEGIN:VEVENT
 UID:bundesliga-20261128-hamburger-sv-bayern-munchen-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:HAMBURGER SV | Bundesliga | J11 | 🏟️ | Bayern München 🇩
@@ -15,7 +15,7 @@ DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20261128-hamburger-sv-bayern-munchen@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART:20261128T143000Z
 DTEND:20261128T161500Z
 SUMMARY:Hamburger SV - Bayern München
@@ -23,7 +23,7 @@ DESCRIPTION:Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20261205-1-fc-union-berlin-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:HAMBURGER SV | Bundesliga | J12 | ✈️ | 1. FC Union Berlin 🇩
@@ -32,7 +32,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20261205-1-fc-union-berlin-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:1. FC Union Berlin - Hamburger SV · TBD
@@ -41,7 +41,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20261212-hamburger-sv-fc-schalke-04-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:HAMBURGER SV | Bundesliga | J13 | 🏟️ | FC Schalke 04 🇩🇪
@@ -49,7 +49,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20261212-hamburger-sv-fc-schalke-04@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Hamburger SV - FC Schalke 04 · TBD
@@ -58,7 +58,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20261219-sv-elversberg-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:HAMBURGER SV | Bundesliga | J14 | ✈️ | SV Elversberg 🇩🇪
@@ -66,7 +66,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20261219-sv-elversberg-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:SV Elversberg - Hamburger SV · TBD
@@ -75,7 +75,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270109-hamburger-sv-bayer-leverkusen-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:HAMBURGER SV | Bundesliga | J15 | 🏟️ | Bayer Leverkusen 🇩
@@ -84,7 +84,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270109-hamburger-sv-bayer-leverkusen@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Hamburger SV - Bayer Leverkusen · TBD
@@ -93,7 +93,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270113-sc-freiburg-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:HAMBURGER SV | Bundesliga | J16 | ✈️ | SC Freiburg 🇩🇪
@@ -101,7 +101,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270113-sc-freiburg-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:SC Freiburg - Hamburger SV · TBD
@@ -110,7 +110,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270116-hamburger-sv-fc-augsburg-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:HAMBURGER SV | Bundesliga | J17 | 🏟️ | FC Augsburg 🇩🇪
@@ -118,7 +118,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270116-hamburger-sv-fc-augsburg@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Hamburger SV - FC Augsburg · TBD
@@ -127,7 +127,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270123-hamburger-sv-borussia-dortmund-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:HAMBURGER SV | Bundesliga | J18 | 🏟️ | Borussia Dortmund 🇩
@@ -136,7 +136,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270123-hamburger-sv-borussia-dortmund@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Hamburger SV - Borussia Dortmund · TBD
@@ -145,7 +145,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270130-fsv-mainz-05-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:HAMBURGER SV | Bundesliga | J19 | ✈️ | FSV Mainz 05 🇩🇪
@@ -153,7 +153,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270130-fsv-mainz-05-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:FSV Mainz 05 - Hamburger SV · TBD
@@ -162,7 +162,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270206-hamburger-sv-rb-leipzig-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:HAMBURGER SV | Bundesliga | J20 | 🏟️ | RB Leipzig 🇩🇪
@@ -170,7 +170,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270206-hamburger-sv-rb-leipzig@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Hamburger SV - RB Leipzig · TBD
@@ -179,7 +179,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270213-1-fc-koln-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:HAMBURGER SV | Bundesliga | J21 | ✈️ | 1.FC Köln 🇩🇪
@@ -187,7 +187,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270213-1-fc-koln-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:1.FC Köln - Hamburger SV · TBD
@@ -196,7 +196,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270220-hamburger-sv-1899-hoffenheim-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:HAMBURGER SV | Bundesliga | J22 | 🏟️ | 1899 Hoffenheim 🇩
@@ -205,7 +205,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270220-hamburger-sv-1899-hoffenheim@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Hamburger SV - 1899 Hoffenheim · TBD
@@ -214,7 +214,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270227-vfb-stuttgart-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:HAMBURGER SV | Bundesliga | J23 | ✈️ | VfB Stuttgart 🇩🇪
@@ -222,7 +222,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270227-vfb-stuttgart-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:VfB Stuttgart - Hamburger SV · TBD
@@ -231,7 +231,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270303-hamburger-sv-sc-paderborn-07-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:HAMBURGER SV | Bundesliga | J24 | 🏟️ | SC Paderborn 07 🇩
@@ -240,7 +240,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270303-hamburger-sv-sc-paderborn-07@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:Hamburger SV - SC Paderborn 07 · TBD
@@ -249,7 +249,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270306-hamburger-sv-eintracht-frankfurt-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:HAMBURGER SV | Bundesliga | J25 | 🏟️ | Eintracht Frankfurt 
@@ -258,7 +258,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270306-hamburger-sv-eintracht-frankfurt@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Hamburger SV - Eintracht Frankfurt · TBD
@@ -267,7 +267,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270313-borussia-monchengladbach-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:HAMBURGER SV | Bundesliga | J26 | ✈️ | Borussia Mönchengladbac
@@ -276,7 +276,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270313-borussia-monchengladbach-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Borussia Mönchengladbach - Hamburger SV · TBD
@@ -285,7 +285,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270320-hamburger-sv-werder-bremen-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:HAMBURGER SV | Bundesliga | J27 | 🏟️ | Werder Bremen 🇩🇪
@@ -293,7 +293,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270320-hamburger-sv-werder-bremen@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Hamburger SV - Werder Bremen · TBD
@@ -302,7 +302,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270403-bayern-munchen-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:HAMBURGER SV | Bundesliga | J28 | ✈️ | Bayern München 🇩🇪
@@ -310,7 +310,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270403-bayern-munchen-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:Bayern München - Hamburger SV · TBD
@@ -319,7 +319,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270410-hamburger-sv-1-fc-union-berlin-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:HAMBURGER SV | Bundesliga | J29 | 🏟️ | 1. FC Union Berlin 🇩
@@ -328,7 +328,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270410-hamburger-sv-1-fc-union-berlin@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:Hamburger SV - 1. FC Union Berlin · TBD
@@ -337,7 +337,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270417-fc-schalke-04-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:HAMBURGER SV | Bundesliga | J30 | ✈️ | FC Schalke 04 🇩🇪
@@ -345,7 +345,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270417-fc-schalke-04-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:FC Schalke 04 - Hamburger SV · TBD
@@ -354,7 +354,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270424-hamburger-sv-sv-elversberg-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:HAMBURGER SV | Bundesliga | J31 | 🏟️ | SV Elversberg 🇩🇪
@@ -362,7 +362,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270424-hamburger-sv-sv-elversberg@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Hamburger SV - SV Elversberg · TBD
@@ -371,7 +371,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270508-bayer-leverkusen-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:HAMBURGER SV | Bundesliga | J32 | ✈️ | Bayer Leverkusen 🇩
@@ -380,7 +380,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270508-bayer-leverkusen-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Bayer Leverkusen - Hamburger SV · TBD
@@ -389,7 +389,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270515-hamburger-sv-sc-freiburg-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:HAMBURGER SV | Bundesliga | J33 | 🏟️ | SC Freiburg 🇩🇪
@@ -397,7 +397,7 @@ DESCRIPTION:Hora pendent de confirmació · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270515-hamburger-sv-sc-freiburg@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Hamburger SV - SC Freiburg · TBD
@@ -406,7 +406,7 @@ DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270522-fc-augsburg-hamburger-sv-dia@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 SUMMARY:HAMBURGER SV | Bundesliga | J34 | ✈️ | FC Augsburg 🇩🇪
@@ -414,7 +414,7 @@ DESCRIPTION:Inici: 15:30 (Europe/Madrid) · Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-20270522-fc-augsburg-hamburger-sv@sportcal
-DTSTAMP:20261125T081654Z
+DTSTAMP:20261126T081733Z
 DTSTART:20270522T133000Z
 DTEND:20270522T151500Z
 SUMMARY:FC Augsburg - Hamburger SV

@@ -7,20 +7,21 @@ X-WR-CALNAME:Platense · Copa Argentina
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
-UID:copaargentina-20261202-boca-juniors-platense-dia@sportcal
-DTSTAMP:20261125T081654Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
+UID:copaargentina-20261203-boca-juniors-platense-dia@sportcal
+DTSTAMP:20261126T081733Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
 SUMMARY:PLATENSE | Copa Argentina | ✈️ | Boca Juniors 🇦🇷
-DESCRIPTION:Hora pendent de confirmació · Copa Argentina
+DESCRIPTION:Inici: 00:00 (Europe/Madrid) · Copa Argentina\nEstadi: Estadio
+  Único Madre de Ciudades\, Santiago del Estero
 END:VEVENT
 BEGIN:VEVENT
-UID:copaargentina-20261202-boca-juniors-platense@sportcal
-DTSTAMP:20261125T081654Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Boca Juniors - Platense · TBD
-DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
- al. · Copa Argentina
+UID:copaargentina-20261203-boca-juniors-platense@sportcal
+DTSTAMP:20261126T081733Z
+DTSTART:20261202T230000Z
+DTEND:20261203T004500Z
+SUMMARY:Boca Juniors - Platense
+DESCRIPTION:Copa Argentina
+LOCATION:Estadio Único Madre de Ciudades\, Santiago del Estero
 END:VEVENT
 END:VCALENDAR
