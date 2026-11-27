@@ -7,20 +7,56 @@ X-WR-CALNAME:PGE GiEK Skra Bełchatów · Tauron Liga
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
+UID:plusliga-20261128-slepsk-malow-suwa-ki-pge-giek-skra-be-chatow-dia@spor
+ tcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:PGE GIEK SKRA BEŁCHATÓW | Tauron Liga | J9 | ✈️ | Ślepsk Mal
+ ow Suwałki 🇵🇱
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261128-slepsk-malow-suwa-ki-pge-giek-skra-be-chatow@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261128T110000Z
+DTEND:20261128T124500Z
+SUMMARY:Ślepsk Malow Suwałki - PGE GiEK Skra Bełchatów
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
 UID:plusliga-20261202-pge-giek-skra-be-chatow-stilon-gorzow-dia@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:PGE GIEK SKRA BEŁCHATÓW | Tauron Liga | J8 | 🏟️ | Stilon Gor
+SUMMARY:PGE GIEK SKRA BEŁCHATÓW | Tauron Liga | J9 | 🏟️ | Stilon Gor
  zów 🇵🇱
 DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Tauron Liga
 END:VEVENT
 BEGIN:VEVENT
 UID:plusliga-20261202-pge-giek-skra-be-chatow-stilon-gorzow@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261202T193000Z
 DTEND:20261202T211500Z
 SUMMARY:PGE GiEK Skra Bełchatów - Stilon Gorzów
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261205-pge-giek-skra-be-chatow-jastrzebie-barkom-dia@sportca
+ l
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:PGE GIEK SKRA BEŁCHATÓW | Tauron Liga | J10 | 🏟️ | Jastrzęb
+ ie Barkom 🇵🇱
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261205-pge-giek-skra-be-chatow-jastrzebie-barkom@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261205T193000Z
+DTEND:20261205T211500Z
+SUMMARY:PGE GiEK Skra Bełchatów - Jastrzębie Barkom
 DESCRIPTION:Tauron Liga
 END:VEVENT
 END:VCALENDAR

@@ -7,22 +7,59 @@ X-WR-CALNAME:ZAKSA Kędzierzyn-Koźle · Tauron Liga
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
+UID:plusliga-20261128-neonet-norwid-czestochowa-zaksa-kedzierzyn-kozle-dia@
+ sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ZAKSA KĘDZIERZYN-KOŹLE | Tauron Liga | J9 | ✈️ | Neonet Norwi
+ d Częstochowa 🇵🇱
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261128-neonet-norwid-czestochowa-zaksa-kedzierzyn-kozle@spor
+ tcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261128T140000Z
+DTEND:20261128T154500Z
+SUMMARY:Neonet Norwid Częstochowa - ZAKSA Kędzierzyn-Koźle
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
 UID:plusliga-20261202-zaksa-kedzierzyn-kozle-podziemia-kredowe-chks-che-m-d
  ia@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:ZAKSA KĘDZIERZYN-KOŹLE | Tauron Liga | J8 | 🏟️ | Podziemia K
+SUMMARY:ZAKSA KĘDZIERZYN-KOŹLE | Tauron Liga | J9 | 🏟️ | Podziemia K
  redowe ChKS Chełm 🇵🇱
 DESCRIPTION:Inici: 17:30 (Europe/Madrid) · Tauron Liga
 END:VEVENT
 BEGIN:VEVENT
 UID:plusliga-20261202-zaksa-kedzierzyn-kozle-podziemia-kredowe-chks-che-m@s
  portcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261202T163000Z
 DTEND:20261202T181500Z
 SUMMARY:ZAKSA Kędzierzyn-Koźle - Podziemia Kredowe ChKS Chełm
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261206-zaksa-kedzierzyn-kozle-pge-projekt-warsaw-dia@sportca
+ l
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:ZAKSA KĘDZIERZYN-KOŹLE | Tauron Liga | J11 | 🏟️ | PGE Projek
+ t Warsaw 🇵🇱
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261206-zaksa-kedzierzyn-kozle-pge-projekt-warsaw@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:ZAKSA Kędzierzyn-Koźle - PGE Projekt Warsaw
 DESCRIPTION:Tauron Liga
 END:VEVENT
 END:VCALENDAR

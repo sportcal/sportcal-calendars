@@ -7,21 +7,41 @@ X-WR-CALNAME:Aluron CMC Warta Zawiercie · Tauron Liga
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
-UID:plusliga-20261124-aluron-cmc-warta-zawiercie-jastrzebie-barkom-dia@spor
- tcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:ALURON CMC WARTA ZAWIERCIE | Tauron Liga | J8 | 🏟️ | Jastrzęb
- ie Barkom 🇵🇱
+UID:plusliga-20261129-podziemia-kredowe-chks-che-m-aluron-cmc-warta-zawierc
+ ie-dia@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:ALURON CMC WARTA ZAWIERCIE | Tauron Liga | J10 | ✈️ | Podziemia
+  Kredowe ChKS Chełm 🇵🇱
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261129-podziemia-kredowe-chks-che-m-aluron-cmc-warta-zawierc
+ ie@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Podziemia Kredowe ChKS Chełm - Aluron CMC Warta Zawiercie
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261204-aluron-cmc-warta-zawiercie-neonet-norwid-czestochowa-
+ dia@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:ALURON CMC WARTA ZAWIERCIE | Tauron Liga | J10 | 🏟️ | Neonet N
+ orwid Częstochowa 🇵🇱
 DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Tauron Liga
 END:VEVENT
 BEGIN:VEVENT
-UID:plusliga-20261124-aluron-cmc-warta-zawiercie-jastrzebie-barkom@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART:20261124T193000Z
-DTEND:20261124T211500Z
-SUMMARY:Aluron CMC Warta Zawiercie - Jastrzębie Barkom
+UID:plusliga-20261204-aluron-cmc-warta-zawiercie-neonet-norwid-czestochowa@
+ sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261204T193000Z
+DTEND:20261204T211500Z
+SUMMARY:Aluron CMC Warta Zawiercie - Neonet Norwid Częstochowa
 DESCRIPTION:Tauron Liga
 END:VEVENT
 END:VCALENDAR

@@ -7,20 +7,55 @@ X-WR-CALNAME:Stilon Gorzów · Tauron Liga
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
+UID:plusliga-20261128-stilon-gorzow-energa-indykpol-azs-olsztyn-dia@sportca
+ l
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:STILON GORZÓW | Tauron Liga | J9 | 🏟️ | Energa Indykpol AZS O
+ lsztyn 🇵🇱
+DESCRIPTION:Inici: 18:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261128-stilon-gorzow-energa-indykpol-azs-olsztyn@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:Stilon Gorzów - Energa Indykpol AZS Olsztyn
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
 UID:plusliga-20261202-pge-giek-skra-be-chatow-stilon-gorzow-dia@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:STILON GORZÓW | Tauron Liga | J8 | ✈️ | PGE GiEK Skra Bełchat
+SUMMARY:STILON GORZÓW | Tauron Liga | J9 | ✈️ | PGE GiEK Skra Bełchat
  ów 🇵🇱
 DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Tauron Liga
 END:VEVENT
 BEGIN:VEVENT
 UID:plusliga-20261202-pge-giek-skra-be-chatow-stilon-gorzow@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261202T193000Z
 DTEND:20261202T211500Z
 SUMMARY:PGE GiEK Skra Bełchatów - Stilon Gorzów
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261205-asseco-resovia-stilon-gorzow-dia@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:STILON GORZÓW | Tauron Liga | J10 | ✈️ | Asseco Resovia 🇵
+ 🇱
+DESCRIPTION:Inici: 15:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261205-asseco-resovia-stilon-gorzow@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261205T140000Z
+DTEND:20261205T154500Z
+SUMMARY:Asseco Resovia - Stilon Gorzów
 DESCRIPTION:Tauron Liga
 END:VEVENT
 END:VCALENDAR

@@ -7,21 +7,38 @@ X-WR-CALNAME:Jastrzębie Barkom · Tauron Liga
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
-UID:plusliga-20261124-aluron-cmc-warta-zawiercie-jastrzebie-barkom-dia@spor
- tcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:JASTRZĘBIE BARKOM | Tauron Liga | J8 | ✈️ | Aluron CMC Warta Z
- awiercie 🇵🇱
+UID:plusliga-20261128-jastrzebie-barkom-bogdanka-luk-lublin-dia@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:JASTRZĘBIE BARKOM | Tauron Liga | J9 | 🏟️ | Bogdanka LUK Lubl
+ in 🇵🇱
 DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Tauron Liga
 END:VEVENT
 BEGIN:VEVENT
-UID:plusliga-20261124-aluron-cmc-warta-zawiercie-jastrzebie-barkom@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART:20261124T193000Z
-DTEND:20261124T211500Z
-SUMMARY:Aluron CMC Warta Zawiercie - Jastrzębie Barkom
+UID:plusliga-20261128-jastrzebie-barkom-bogdanka-luk-lublin@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261128T193000Z
+DTEND:20261128T211500Z
+SUMMARY:Jastrzębie Barkom - Bogdanka LUK Lublin
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261205-pge-giek-skra-be-chatow-jastrzebie-barkom-dia@sportca
+ l
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:JASTRZĘBIE BARKOM | Tauron Liga | J10 | ✈️ | PGE GiEK Skra Be
+ łchatów 🇵🇱
+DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261205-pge-giek-skra-be-chatow-jastrzebie-barkom@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261205T193000Z
+DTEND:20261205T211500Z
+SUMMARY:PGE GiEK Skra Bełchatów - Jastrzębie Barkom
 DESCRIPTION:Tauron Liga
 END:VEVENT
 END:VCALENDAR

@@ -5,20 +5,22 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sporting Braga [TdP] · Taça de Portugal
 BEGIN:VEVENT
-UID:tacaportugal-20261216-gil-vicente-sporting-braga-tdp-dia@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+UID:tacaportugal-20270103-gil-vicente-sporting-braga-tdp-dia@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
 SUMMARY:SPORTING BRAGA [TDP] | Taça de Portugal | ✈️ | Gil Vicente 
  🇵🇹
-DESCRIPTION:Inici: 16:00 (Europe/Madrid) · Taça de Portugal
+DESCRIPTION:Inici: 19:00 (Europe/Madrid) · Taça de Portugal\nEstadi: Est
+ ádio Cidade de Barcelos
 END:VEVENT
 BEGIN:VEVENT
-UID:tacaportugal-20261216-gil-vicente-sporting-braga-tdp@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART:20261216T150000Z
-DTEND:20261216T164500Z
+UID:tacaportugal-20270103-gil-vicente-sporting-braga-tdp@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20270103T180000Z
+DTEND:20270103T194500Z
 SUMMARY:Gil Vicente - Sporting Braga [TdP]
 DESCRIPTION:Taça de Portugal
+LOCATION:Estádio Cidade de Barcelos
 END:VEVENT
 END:VCALENDAR

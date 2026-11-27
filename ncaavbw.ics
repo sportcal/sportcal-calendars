@@ -5,37 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NCAA Division I Women Volleyball
 BEGIN:VEVENT
-UID:ncaavbw-dia-20261126-j4@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:NCAA DIVISION I WOMEN VOLLEYBALL | J4
-DESCRIPTION:01:30 Iowa State Cyclones - Houston Cougars\n03:00 Arizona Stat
- e Sun Devils - Kansas State Wildcats
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-dia-20261126-j5@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:NCAA DIVISION I WOMEN VOLLEYBALL | J5
-DESCRIPTION:00:00 UC Santa Barbara Gauchos - UC San Diego Tritons\n02:00 Ar
- izona Wildcats - Kansas Jayhawks\n02:00 Colorado State Rams - San Diego St
- ate Aztecs\n02:00 Nebraska Cornhuskers - Wisconsin Badgers\n02:00 San Fran
- cisco Dons - San Diego Toreros\n03:00 Cal State Bakersfield Roadrunners - 
- Sacramento State Hornets\n03:00 Utah Utes - TCU Horned Frogs
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-dia-20261126-j6@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:NCAA DIVISION I WOMEN VOLLEYBALL | J6
-DESCRIPTION:02:00 Utah Tech Trailblazers - Northern Colorado Bears
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaavbw-dia-20261127-j5@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:NCAA DIVISION I WOMEN VOLLEYBALL | J5
@@ -46,7 +17,7 @@ DESCRIPTION:19:00 Cincinnati Bearcats - Baylor Bears\n19:00 Miami Hurricane
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-dia-20261127-j6@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:NCAA DIVISION I WOMEN VOLLEYBALL | J6
@@ -54,7 +25,7 @@ DESCRIPTION:21:00 Wake Forest Demon Deacons - Clemson Tigers
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-dia-20261128-j4@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:NCAA DIVISION I WOMEN VOLLEYBALL | J4
@@ -63,7 +34,7 @@ DESCRIPTION:20:00 Minnesota Golden Gophers - High Point Panthers\n23:00 Pac
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-dia-20261128-j5@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:NCAA DIVISION I WOMEN VOLLEYBALL | J5
@@ -78,7 +49,7 @@ DESCRIPTION:00:00 Long Beach State Beach - UC San Diego Tritons\n02:00 Ariz
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-dia-20261128-j6@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:NCAA DIVISION I WOMEN VOLLEYBALL | J6
@@ -88,108 +59,15 @@ DESCRIPTION:19:00 Boston College Eagles - California Golden Bears\n20:00 Fl
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-dia-20261129-j1@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:NCAA DIVISION I WOMEN VOLLEYBALL | J1
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaavbw-20261126-uc-santa-barbara-gauchos-uc-san-diego-tritons@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART:20261125T230000Z
-DTEND:20261126T004500Z
-SUMMARY:UC Santa Barbara Gauchos - UC San Diego Tritons
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Mott Athletics Center\, San Luis Obispo\, California
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261126-iowa-state-cyclones-houston-cougars@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART:20261126T003000Z
-DTEND:20261126T021500Z
-SUMMARY:Iowa State Cyclones - Houston Cougars
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Hilton Coliseum\, Ames\, Iowa
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261126-arizona-wildcats-kansas-jayhawks@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART:20261126T010000Z
-DTEND:20261126T024500Z
-SUMMARY:Arizona Wildcats - Kansas Jayhawks
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:McKale Center at ALKEME Arena\, Tucson\, Arizona
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261126-colorado-state-rams-san-diego-state-aztecs@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART:20261126T010000Z
-DTEND:20261126T024500Z
-SUMMARY:Colorado State Rams - San Diego State Aztecs
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Moby Arena\, Fort Collins\, Colorado
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261126-nebraska-cornhuskers-wisconsin-badgers@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART:20261126T010000Z
-DTEND:20261126T024500Z
-SUMMARY:Nebraska Cornhuskers - Wisconsin Badgers
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Fishers Event Center\, Fishers\, Indiana
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261126-san-francisco-dons-san-diego-toreros@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART:20261126T010000Z
-DTEND:20261126T024500Z
-SUMMARY:San Francisco Dons - San Diego Toreros
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:The Sobrato Center\, San Francisco\, California
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261126-utah-tech-trailblazers-northern-colorado-bears@sportca
- l
-DTSTAMP:20261126T081733Z
-DTSTART:20261126T010000Z
-DTEND:20261126T024500Z
-SUMMARY:Utah Tech Trailblazers - Northern Colorado Bears
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Rolle Activity Center\, Flagstaff\, Arizona
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261126-arizona-state-sun-devils-kansas-state-wildcats@sportca
- l
-DTSTAMP:20261126T081733Z
-DTSTART:20261126T020000Z
-DTEND:20261126T034500Z
-SUMMARY:Arizona State Sun Devils - Kansas State Wildcats
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Desert Financial Arena\, Tempe\, Arizona
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261126-cal-state-bakersfield-roadrunners-sacramento-state-hor
- nets@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART:20261126T020000Z
-DTEND:20261126T034500Z
-SUMMARY:Cal State Bakersfield Roadrunners - Sacramento State Hornets
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Mott Athletics Center\, San Luis Obispo\, California
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaavbw-20261126-utah-utes-tcu-horned-frogs@sportcal
-DTSTAMP:20261126T081733Z
-DTSTART:20261126T020000Z
-DTEND:20261126T034500Z
-SUMMARY:Utah Utes - TCU Horned Frogs
-DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:Jon M. Huntsman Center\, Salt Lake City\, Utah
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaavbw-20261127-cincinnati-bearcats-baylor-bears@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261127T180000Z
 DTEND:20261127T194500Z
 SUMMARY:Cincinnati Bearcats - Baylor Bears
@@ -198,7 +76,7 @@ LOCATION:Fifth Third Arena\, Cincinnati\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261127-miami-hurricanes-north-carolina-tar-heels@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261127T180000Z
 DTEND:20261127T194500Z
 SUMMARY:Miami Hurricanes - North Carolina Tar Heels
@@ -207,7 +85,7 @@ LOCATION:James L. Knight Center\, Miami\, Florida
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261127-ucf-knights-utah-utes@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261127T183000Z
 DTEND:20261127T201500Z
 SUMMARY:UCF Knights - Utah Utes
@@ -216,7 +94,7 @@ LOCATION:The Venue at UCF\, Orlando\, Florida
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261127-colorado-buffaloes-iowa-state-cyclones@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261127T200000Z
 DTEND:20261127T214500Z
 SUMMARY:Colorado Buffaloes - Iowa State Cyclones
@@ -225,7 +103,7 @@ LOCATION:CU Events Center\, Boulder\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261127-wake-forest-demon-deacons-clemson-tigers@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261127T200000Z
 DTEND:20261127T214500Z
 SUMMARY:Wake Forest Demon Deacons - Clemson Tigers
@@ -235,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261127-west-virginia-mountaineers-texas-tech-red-raiders@spor
  tcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261127T200000Z
 DTEND:20261127T214500Z
 SUMMARY:West Virginia Mountaineers - Texas Tech Red Raiders
@@ -244,7 +122,7 @@ LOCATION:WVU Coliseum\, Morgantown\, West Virginia
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-long-beach-state-beach-uc-san-diego-tritons@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261127T230000Z
 DTEND:20261128T004500Z
 SUMMARY:Long Beach State Beach - UC San Diego Tritons
@@ -253,16 +131,16 @@ LOCATION:Mott Athletics Center\, San Luis Obispo\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-arizona-wildcats-kansas-state-wildcats@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T010000Z
 DTEND:20261128T024500Z
 SUMMARY:Arizona Wildcats - Kansas State Wildcats
 DESCRIPTION:NCAA Division I Women Volleyball
-LOCATION:McKale Center at ALKEME Arena\, Tucson\, Arizona
+LOCATION:McKale Memorial Center\, Tucson\, Arizona
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-byu-cougars-tcu-horned-frogs@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T013000Z
 DTEND:20261128T031500Z
 SUMMARY:BYU Cougars - TCU Horned Frogs
@@ -271,7 +149,7 @@ LOCATION:George Albert Smith Fieldhouse\, Provo\, Utah
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-arizona-state-sun-devils-kansas-jayhawks@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T020000Z
 DTEND:20261128T034500Z
 SUMMARY:Arizona State Sun Devils - Kansas Jayhawks
@@ -280,7 +158,7 @@ LOCATION:Desert Financial Arena\, Tempe\, Arizona
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-cal-poly-mustangs-sacramento-state-hornets@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T020000Z
 DTEND:20261128T034500Z
 SUMMARY:Cal Poly Mustangs - Sacramento State Hornets
@@ -289,7 +167,7 @@ LOCATION:Mott Athletics Center\, San Luis Obispo\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-boston-college-eagles-california-golden-bears@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T180000Z
 DTEND:20261128T194500Z
 SUMMARY:Boston College Eagles - California Golden Bears
@@ -298,7 +176,7 @@ LOCATION:Margot Connell Recreation Center\, Chestnut Hill\, Massachusetts
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-louisville-cardinals-smu-mustangs@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T180000Z
 DTEND:20261128T194500Z
 SUMMARY:Louisville Cardinals - SMU Mustangs
@@ -307,7 +185,7 @@ LOCATION:KFC Yum! Center\, Louisville\, Kentucky
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-notre-dame-fighting-irish-syracuse-orange@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T180000Z
 DTEND:20261128T194500Z
 SUMMARY:Notre Dame Fighting Irish - Syracuse Orange
@@ -316,7 +194,7 @@ LOCATION:Purcell Pavilion\, South Bend\, Indiana
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-pittsburgh-panthers-nc-state-wolfpack@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T180000Z
 DTEND:20261128T194500Z
 SUMMARY:Pittsburgh Panthers - NC State Wolfpack
@@ -326,7 +204,7 @@ LOCATION:Victory Heights Arena and Sports Performance Center\, Pittsburgh\,
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-florida-state-seminoles-virginia-cavaliers@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Florida State Seminoles - Virginia Cavaliers
@@ -335,7 +213,7 @@ LOCATION:Tully Gymnasium\, Tallahassee\, Florida
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-minnesota-golden-gophers-high-point-panthers@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Minnesota Golden Gophers - High Point Panthers
@@ -344,7 +222,7 @@ LOCATION:Maturi Pavilion (MN)\, Minneapolis\, Minnesota
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-duke-blue-devils-virginia-tech-hokies@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T200000Z
 DTEND:20261128T214500Z
 SUMMARY:Duke Blue Devils - Virginia Tech Hokies
@@ -353,7 +231,7 @@ LOCATION:Cameron Indoor Stadium\, Durham\, North Carolina
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-georgia-tech-yellow-jackets-stanford-cardinal@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T200000Z
 DTEND:20261128T214500Z
 SUMMARY:Georgia Tech Yellow Jackets - Stanford Cardinal
@@ -362,7 +240,7 @@ LOCATION:O'Keefe Gymnasium\, Atlanta\, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-pepperdine-waves-seattle-u-redhawks@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T200000Z
 DTEND:20261128T214500Z
 SUMMARY:Pepperdine Waves - Seattle U Redhawks
@@ -371,7 +249,7 @@ LOCATION:Firestone Fieldhouse\, Malibu\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-loyola-marymount-lions-portland-pilots@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T210000Z
 DTEND:20261128T224500Z
 SUMMARY:Loyola Marymount Lions - Portland Pilots
@@ -380,7 +258,7 @@ LOCATION:Gersten Pavilion\, Los Angeles\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaavbw-20261128-pacific-tigers-saint-mary-s-gaels@sportcal
-DTSTAMP:20261126T081733Z
+DTSTAMP:20261127T081651Z
 DTSTART:20261128T220000Z
 DTEND:20261128T234500Z
 SUMMARY:Pacific Tigers - Saint Mary's Gaels

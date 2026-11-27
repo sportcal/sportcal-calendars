@@ -7,20 +7,40 @@ X-WR-CALNAME:Ślepsk Malow Suwałki · Tauron Liga
 X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
  SA 4.0
 BEGIN:VEVENT
-UID:plusliga-20261123-bogdanka-luk-lublin-slepsk-malow-suwa-ki-dia@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:ŚLEPSK MALOW SUWAŁKI | Tauron Liga | J8 | ✈️ | Bogdanka LUK L
- ublin 🇵🇱
-DESCRIPTION:Inici: 20:30 (Europe/Madrid) · Tauron Liga
+UID:plusliga-20261128-slepsk-malow-suwa-ki-pge-giek-skra-be-chatow-dia@spor
+ tcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ŚLEPSK MALOW SUWAŁKI | Tauron Liga | J9 | 🏟️ | PGE GiEK Skra
+  Bełchatów 🇵🇱
+DESCRIPTION:Inici: 12:00 (Europe/Madrid) · Tauron Liga
 END:VEVENT
 BEGIN:VEVENT
-UID:plusliga-20261123-bogdanka-luk-lublin-slepsk-malow-suwa-ki@sportcal
-DTSTAMP:20261123T081753Z
-DTSTART:20261123T193000Z
-DTEND:20261123T211500Z
-SUMMARY:Bogdanka LUK Lublin - Ślepsk Malow Suwałki
+UID:plusliga-20261128-slepsk-malow-suwa-ki-pge-giek-skra-be-chatow@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261128T110000Z
+DTEND:20261128T124500Z
+SUMMARY:Ślepsk Malow Suwałki - PGE GiEK Skra Bełchatów
+DESCRIPTION:Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261203-energa-indykpol-azs-olsztyn-slepsk-malow-suwa-ki-dia@
+ sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:ŚLEPSK MALOW SUWAŁKI | Tauron Liga | J10 | ✈️ | Energa Indykp
+ ol AZS Olsztyn 🇵🇱
+DESCRIPTION:Inici: 17:00 (Europe/Madrid) · Tauron Liga
+END:VEVENT
+BEGIN:VEVENT
+UID:plusliga-20261203-energa-indykpol-azs-olsztyn-slepsk-malow-suwa-ki@spor
+ tcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261203T160000Z
+DTEND:20261203T174500Z
+SUMMARY:Energa Indykpol AZS Olsztyn - Ślepsk Malow Suwałki
 DESCRIPTION:Tauron Liga
 END:VEVENT
 END:VCALENDAR

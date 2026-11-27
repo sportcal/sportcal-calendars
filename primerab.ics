@@ -4,4 +4,58 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Primera B
+BEGIN:VEVENT
+UID:primerab-dia-20261129-j45@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:PRIMERA B | J45
+DESCRIPTION:21:00 Deportivo Armenio - Arsenal de Sarandí\n21:00 Deportivo 
+ Camioneros - Talleres Remedios
+END:VEVENT
+BEGIN:VEVENT
+UID:primerab-dia-20261205-j46@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:PRIMERA B | J46
+DESCRIPTION:TBD Talleres Remedios - Deportivo Camioneros\nTBD Arsenal de Sa
+ randí - Deportivo Armenio
+END:VEVENT
+BEGIN:VEVENT
+UID:primerab-20261129-deportivo-armenio-arsenal-de-sarandi@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:Deportivo Armenio - Arsenal de Sarandí
+DESCRIPTION:Primera B
+LOCATION:Estadio Armenia
+END:VEVENT
+BEGIN:VEVENT
+UID:primerab-20261129-deportivo-camioneros-talleres-remedios@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART:20261129T200000Z
+DTEND:20261129T214500Z
+SUMMARY:Deportivo Camioneros - Talleres Remedios
+DESCRIPTION:Primera B
+LOCATION:Estadio Hugo Moyano
+END:VEVENT
+BEGIN:VEVENT
+UID:primerab-20261205-talleres-remedios-deportivo-camioneros@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Talleres Remedios - Deportivo Camioneros · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primera B
+END:VEVENT
+BEGIN:VEVENT
+UID:primerab-20261205-arsenal-de-sarandi-deportivo-armenio@sportcal
+DTSTAMP:20261127T081651Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Arsenal de Sarandí - Deportivo Armenio · TBD
+DESCRIPTION:Pendent de confirmació: l’hora d’inici encara no és ofici
+ al. · Primera B
+END:VEVENT
 END:VCALENDAR
