@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportCal//Calendaris//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jeonbuk Hyundai Motors · K League 1
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
+BEGIN:VEVENT
+UID:kleague1-20261129-ulsan-hd-jeonbuk-hyundai-motors-dia@sportcal
+DTSTAMP:20261127T085538Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:JEONBUK HYUNDAI MOTORS | K League 1 | J37 | ✈️ | Ulsan HD 🇰
+ 🇷
+DESCRIPTION:Inici: 06:00 (Europe/Madrid) · K League 1\nEstadi: Ulsan Munsu
+  Football Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:kleague1-20261129-ulsan-hd-jeonbuk-hyundai-motors@sportcal
+DTSTAMP:20261127T085538Z
+DTSTART:20261129T050000Z
+DTEND:20261129T064500Z
+SUMMARY:Ulsan HD - Jeonbuk Hyundai Motors
+DESCRIPTION:K League 1
+LOCATION:Ulsan Munsu Football Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:kleague1-20261206-jeonbuk-hyundai-motors-incheon-united-dia@sportcal
+DTSTAMP:20261127T085538Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:JEONBUK HYUNDAI MOTORS | K League 1 | J38 | 🏟️ | Incheon Unite
+ d 🇰🇷
+DESCRIPTION:Inici: 06:00 (Europe/Madrid) · K League 1\nEstadi: Jeonju Worl
+ d Cup Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:kleague1-20261206-jeonbuk-hyundai-motors-incheon-united@sportcal
+DTSTAMP:20261127T085538Z
+DTSTART:20261206T050000Z
+DTEND:20261206T064500Z
+SUMMARY:Jeonbuk Hyundai Motors - Incheon United
+DESCRIPTION:K League 1
+LOCATION:Jeonju World Cup Stadium
+END:VEVENT
+END:VCALENDAR

@@ -4,135 +4,151 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:K League 1
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
 UID:kleague1-dia-20261128-j37@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261127T085538Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:K LEAGUE 1 | J37
-DESCRIPTION:06:00 FC Seoul - Daejeon Citizen\n06:00 Anyang - Jeju United\n0
- 8:30 Pohang Steelers - Gwangju\n08:30 Bucheon 1995 - Sangju Sangmu
+DESCRIPTION:06:00 FC Seoul - Daejeon Hana Citizen\n06:00 FC Anyang - Jeju S
+ K\n08:30 Pohang Steelers - Gwangju FC\n08:30 Bucheon FC 1995 - Gimcheon Sa
+ ngmu
 END:VEVENT
 BEGIN:VEVENT
 UID:kleague1-dia-20261129-j37@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261127T085538Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:K LEAGUE 1 | J37
-DESCRIPTION:06:00 Ulsan - Jeonbuk Motors\n08:30 Incheon United - Gangwon
+DESCRIPTION:06:00 Ulsan HD - Jeonbuk Hyundai Motors\n08:30 Incheon United -
+  Gangwon FC
 END:VEVENT
 BEGIN:VEVENT
 UID:kleague1-dia-20261205-j38@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261127T085538Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:K LEAGUE 1 | J38
-DESCRIPTION:06:00 Sangju Sangmu - Pohang Steelers\n06:00 Anyang - Gwangju\n
- 06:00 Jeju United - Bucheon 1995
+DESCRIPTION:06:00 Jeju SK - Bucheon FC 1995\n06:00 FC Anyang - Gwangju FC\n
+ 06:00 Gimcheon Sangmu - Pohang Steelers
 END:VEVENT
 BEGIN:VEVENT
 UID:kleague1-dia-20261206-j38@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261127T085538Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:K LEAGUE 1 | J38
-DESCRIPTION:06:00 Gangwon - FC Seoul\n06:00 Daejeon Citizen - Ulsan\n06:00 
- Jeonbuk Motors - Incheon United
+DESCRIPTION:06:00 Daejeon Hana Citizen - Ulsan HD\n06:00 Gangwon FC - FC Se
+ oul\n06:00 Jeonbuk Hyundai Motors - Incheon United
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261128-fc-seoul-daejeon-citizen@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261128-fc-seoul-daejeon-hana-citizen@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261128T050000Z
 DTEND:20261128T064500Z
-SUMMARY:FC Seoul - Daejeon Citizen
+SUMMARY:FC Seoul - Daejeon Hana Citizen
 DESCRIPTION:K League 1
+LOCATION:Seoul World Cup Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261128-anyang-jeju-united@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261128-fc-anyang-jeju-sk@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261128T050000Z
 DTEND:20261128T064500Z
-SUMMARY:Anyang - Jeju United
+SUMMARY:FC Anyang - Jeju SK
 DESCRIPTION:K League 1
+LOCATION:Anyang Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261128-pohang-steelers-gwangju@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261128-pohang-steelers-gwangju-fc@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261128T073000Z
 DTEND:20261128T091500Z
-SUMMARY:Pohang Steelers - Gwangju
+SUMMARY:Pohang Steelers - Gwangju FC
 DESCRIPTION:K League 1
+LOCATION:Pohang Steel Yard
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261128-bucheon-1995-sangju-sangmu@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261128-bucheon-fc-1995-gimcheon-sangmu@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261128T073000Z
 DTEND:20261128T091500Z
-SUMMARY:Bucheon 1995 - Sangju Sangmu
+SUMMARY:Bucheon FC 1995 - Gimcheon Sangmu
 DESCRIPTION:K League 1
+LOCATION:Bucheon Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261129-ulsan-jeonbuk-motors@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261129-ulsan-hd-jeonbuk-hyundai-motors@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261129T050000Z
 DTEND:20261129T064500Z
-SUMMARY:Ulsan - Jeonbuk Motors
+SUMMARY:Ulsan HD - Jeonbuk Hyundai Motors
 DESCRIPTION:K League 1
+LOCATION:Ulsan Munsu Football Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261129-incheon-united-gangwon@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261129-incheon-united-gangwon-fc@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261129T073000Z
 DTEND:20261129T091500Z
-SUMMARY:Incheon United - Gangwon
+SUMMARY:Incheon United - Gangwon FC
 DESCRIPTION:K League 1
+LOCATION:Incheon Football Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261205-sangju-sangmu-pohang-steelers@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261205-jeju-sk-bucheon-fc-1995@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261205T050000Z
 DTEND:20261205T064500Z
-SUMMARY:Sangju Sangmu - Pohang Steelers
+SUMMARY:Jeju SK - Bucheon FC 1995
 DESCRIPTION:K League 1
+LOCATION:Jeju World Cup Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261205-anyang-gwangju@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261205-fc-anyang-gwangju-fc@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261205T050000Z
 DTEND:20261205T064500Z
-SUMMARY:Anyang - Gwangju
+SUMMARY:FC Anyang - Gwangju FC
 DESCRIPTION:K League 1
+LOCATION:Anyang Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261205-jeju-united-bucheon-1995@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261205-gimcheon-sangmu-pohang-steelers@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261205T050000Z
 DTEND:20261205T064500Z
-SUMMARY:Jeju United - Bucheon 1995
+SUMMARY:Gimcheon Sangmu - Pohang Steelers
 DESCRIPTION:K League 1
+LOCATION:Gimcheon Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261206-gangwon-fc-seoul@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261206-daejeon-hana-citizen-ulsan-hd@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261206T050000Z
 DTEND:20261206T064500Z
-SUMMARY:Gangwon - FC Seoul
+SUMMARY:Daejeon Hana Citizen - Ulsan HD
 DESCRIPTION:K League 1
+LOCATION:Daejeon World Cup Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261206-daejeon-citizen-ulsan@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261206-gangwon-fc-fc-seoul@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261206T050000Z
 DTEND:20261206T064500Z
-SUMMARY:Daejeon Citizen - Ulsan
+SUMMARY:Gangwon FC - FC Seoul
 DESCRIPTION:K League 1
+LOCATION:Gangneung HIGH1 ARENA
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261206-jeonbuk-motors-incheon-united@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261206-jeonbuk-hyundai-motors-incheon-united@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261206T050000Z
 DTEND:20261206T064500Z
-SUMMARY:Jeonbuk Motors - Incheon United
+SUMMARY:Jeonbuk Hyundai Motors - Incheon United
 DESCRIPTION:K League 1
+LOCATION:Jeonju World Cup Stadium
 END:VEVENT
 END:VCALENDAR

@@ -4,36 +4,43 @@ PRODID:-//SportCal//Calendaris//CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:FC Seoul · K League 1
+X-WR-CALDESC:Data from Wikipedia (en.wikipedia.org)\, licensed under CC BY-
+ SA 4.0
 BEGIN:VEVENT
-UID:kleague1-20261128-fc-seoul-daejeon-citizen-dia@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261128-fc-seoul-daejeon-hana-citizen-dia@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:FC SEOUL | K League 1 | J37 | 🏟️ | Daejeon Citizen 🇰🇷
-DESCRIPTION:Inici: 06:00 (Europe/Madrid) · K League 1
+SUMMARY:FC SEOUL | K League 1 | J37 | 🏟️ | Daejeon Hana Citizen 🇰
+ 🇷
+DESCRIPTION:Inici: 06:00 (Europe/Madrid) · K League 1\nEstadi: Seoul World
+  Cup Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261128-fc-seoul-daejeon-citizen@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261128-fc-seoul-daejeon-hana-citizen@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261128T050000Z
 DTEND:20261128T064500Z
-SUMMARY:FC Seoul - Daejeon Citizen
+SUMMARY:FC Seoul - Daejeon Hana Citizen
 DESCRIPTION:K League 1
+LOCATION:Seoul World Cup Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261206-gangwon-fc-seoul-dia@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261206-gangwon-fc-fc-seoul-dia@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:FC SEOUL | K League 1 | J38 | ✈️ | Gangwon 🇰🇷
-DESCRIPTION:Inici: 06:00 (Europe/Madrid) · K League 1
+SUMMARY:FC SEOUL | K League 1 | J38 | ✈️ | Gangwon FC 🇰🇷
+DESCRIPTION:Inici: 06:00 (Europe/Madrid) · K League 1\nEstadi: Gangneung H
+ IGH1 ARENA
 END:VEVENT
 BEGIN:VEVENT
-UID:kleague1-20261206-gangwon-fc-seoul@sportcal
-DTSTAMP:20261127T081651Z
+UID:kleague1-20261206-gangwon-fc-fc-seoul@sportcal
+DTSTAMP:20261127T085538Z
 DTSTART:20261206T050000Z
 DTEND:20261206T064500Z
-SUMMARY:Gangwon - FC Seoul
+SUMMARY:Gangwon FC - FC Seoul
 DESCRIPTION:K League 1
+LOCATION:Gangneung HIGH1 ARENA
 END:VEVENT
 END:VCALENDAR
