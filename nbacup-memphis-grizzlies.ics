@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Memphis Grizzlies · NBA Cup
 BEGIN:VEVENT
 UID:nbacup-20261128-minnesota-timberwolves-memphis-grizzlies-dia@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:MEMPHIS GRIZZLIES | NBA Cup | ✈️ | Minnesota Timberwolves 🇺
@@ -16,11 +16,30 @@ DESCRIPTION:Inici: 02:30 (Europe/Madrid) · NBA Cup\nEstadi: Target Center\
 END:VEVENT
 BEGIN:VEVENT
 UID:nbacup-20261128-minnesota-timberwolves-memphis-grizzlies@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T013000Z
 DTEND:20261128T031500Z
 SUMMARY:Minnesota Timberwolves - Memphis Grizzlies
 DESCRIPTION:NBA Cup
 LOCATION:Target Center\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261206-portland-trail-blazers-memphis-grizzlies-dia@sportcal
+DTSTAMP:20261128T085844Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:MEMPHIS GRIZZLIES | NBA Cup | ✈️ | Portland Trail Blazers 🇺
+ 🇸
+DESCRIPTION:Inici: 04:00 (Europe/Madrid) · NBA Cup\nEstadi: Moda Center\, 
+ Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:nbacup-20261206-portland-trail-blazers-memphis-grizzlies@sportcal
+DTSTAMP:20261128T085844Z
+DTSTART:20261206T030000Z
+DTEND:20261206T044500Z
+SUMMARY:Portland Trail Blazers - Memphis Grizzlies
+DESCRIPTION:NBA Cup
+LOCATION:Moda Center\, Portland\, OR
 END:VEVENT
 END:VCALENDAR

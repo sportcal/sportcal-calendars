@@ -5,27 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Aurora · División Profesional
 BEGIN:VEVENT
-UID:boliviadp-20261129-aurora-the-strongest-dia@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:AURORA | División Profesional | J2 | 🏟️ | The Strongest 🇧
- 🇴
-DESCRIPTION:Inici: 20:00 (Europe/Madrid) · División Profesional\nEstadi: 
- Estadio Félix Capriles\, Cochabamba
-END:VEVENT
-BEGIN:VEVENT
-UID:boliviadp-20261129-aurora-the-strongest@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261129T190000Z
-DTEND:20261129T204500Z
-SUMMARY:Aurora - The Strongest
-DESCRIPTION:División Profesional
-LOCATION:Estadio Félix Capriles\, Cochabamba
-END:VEVENT
-BEGIN:VEVENT
 UID:boliviadp-20261204-aurora-independiente-petrolero-dia@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:AURORA | División Profesional | J3 | 🏟️ | Independiente Petro
@@ -35,7 +16,7 @@ DESCRIPTION:Inici: 01:00 (Europe/Madrid) · División Profesional\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:boliviadp-20261204-aurora-independiente-petrolero@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261204T000000Z
 DTEND:20261204T014500Z
 SUMMARY:Aurora - Independiente Petrolero
@@ -44,7 +25,7 @@ LOCATION:Estadio Félix Capriles\, Cochabamba
 END:VEVENT
 BEGIN:VEVENT
 UID:boliviadp-20261206-bolivar-aurora-dia@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:AURORA | División Profesional | J4 | ✈️ | Bolívar 🇧🇴
@@ -53,7 +34,7 @@ DESCRIPTION:Inici: 21:00 (Europe/Madrid) · División Profesional\nEstadi:
 END:VEVENT
 BEGIN:VEVENT
 UID:boliviadp-20261206-bolivar-aurora@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261206T200000Z
 DTEND:20261206T214500Z
 SUMMARY:Bolívar - Aurora

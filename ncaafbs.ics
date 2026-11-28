@@ -5,76 +5,47 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NCAA Division I FBS
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261127-j2@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:NCAA DIVISION I FBS | J2
-DESCRIPTION:18:00 Akron Zips - Buffalo Bulls\n18:00 Ohio Bobcats - Toledo R
- ockets
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20261127-j3@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:NCAA DIVISION I FBS | J3
-DESCRIPTION:02:00 Texas Tech Red Raiders - TCU Horned Frogs\n18:00 Ole Miss
-  Rebels - Mississippi State Bulldogs\n18:00 UTSA Roadrunners - Tulsa Golde
- n Hurricane\n18:08 Iowa Hawkeyes - Nebraska Cornhuskers\n21:00 South Alaba
- ma Jaguars - App State Mountaineers\n21:30 Florida State Seminoles - Flori
- da Gators\n21:30 Memphis Tigers - Temple Owls\n21:30 San José State Spart
- ans - North Dakota State Bison\n22:30 New Mexico Lobos - Air Force Falcons
-END:VEVENT
-BEGIN:VEVENT
 UID:ncaafbs-dia-20261128-j2@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:NCAA DIVISION I FBS | J2
-DESCRIPTION:18:00 Ball State Cardinals - Central Michigan Chippewas\n21:30 
- Bowling Green Falcons - UMass Minutemen
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20261128-j3@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:NCAA DIVISION I FBS | J3
 DESCRIPTION:01:30 Texas A&M Aggies - Texas Longhorns\n01:30 Wisconsin Badge
  rs - Minnesota Golden Gophers\n03:00 Utah Utes - West Virginia Mountaineer
- s\n18:00 Charlotte 49ers - Navy Midshipmen\n18:00 Georgia Southern Eagles 
- - Louisiana Tech Bulldogs\n18:00 Kentucky Wildcats - Louisville Cardinals\
- n18:00 Miami Hurricanes - Boston College Eagles\n18:00 North Carolina Tar 
- Heels - NC State Wolfpack\n18:00 Ohio State Buckeyes - Michigan Wolverines
- \n18:00 Syracuse Orange - Notre Dame Fighting Irish\n18:00 Wyoming Cowboys
-  - UConn Huskies\n18:30 Northwestern Wildcats - Illinois Fighting Illini\n
- 18:45 Arkansas Razorbacks - LSU Tigers\n19:00 East Carolina Pirates - Flor
- ida Atlantic Owls\n19:00 Old Dominion Monarchs - Southern Miss Golden Eagl
- es\n19:00 UL Monroe Warhawks - Marshall Thundering Herd\n19:00 Western Ken
- tucky Hilltoppers - Kennesaw State Owls\n20:00 Colorado Buffaloes - UCF Kn
- ights\n20:00 Florida International Panthers - Sam Houston Bearkats\n20:00 
- Georgia State Panthers - Louisiana Ragin' Cajuns\n20:00 Iowa State Cyclone
- s - Kansas State Wildcats\n20:00 James Madison Dukes - Coastal Carolina Ch
- anticleers\n20:00 Middle Tennessee Blue Raiders - New Mexico State Aggies\
- n20:00 Missouri State Bears - Liberty Flames\n20:00 Rice Owls - Army Black
-  Knights\n21:00 Arkansas State Red Wolves - Troy Trojans\n21:00 Clemson Ti
- gers - South Carolina Gamecocks\n21:00 Virginia Tech Hokies - Virginia Cav
- aliers\n21:30 BYU Cougars - Cincinnati Bearcats\n21:30 Delaware Blue Hens 
- - Jacksonville State Gamecocks\n21:30 Georgia Bulldogs - Georgia Tech Yell
- ow Jackets\n21:30 Maryland Terrapins - Penn State Nittany Lions\n21:30 Nor
- thern Illinois Huskies - UTEP Miners\n21:30 South Florida Bulls - Tulane G
- reen Wave\n21:30 Stanford Cardinal - SMU Mustangs\n21:30 UCLA Bruins - USC
-  Trojans\n21:30 Wake Forest Demon Deacons - Duke Blue Devils\n22:00 North 
- Texas Mean Green - UAB Blazers\n22:15 Missouri Tigers - Oklahoma Sooners\n
- 22:15 Rutgers Scarlet Knights - Michigan State Spartans
+ s\n18:00 Ball State Cardinals - Central Michigan Chippewas\n18:00 Charlott
+ e 49ers - Navy Midshipmen\n18:00 Georgia Southern Eagles - Louisiana Tech 
+ Bulldogs\n18:00 Kentucky Wildcats - Louisville Cardinals\n18:00 Miami Hurr
+ icanes - Boston College Eagles\n18:00 North Carolina Tar Heels - NC State 
+ Wolfpack\n18:00 Ohio State Buckeyes - Michigan Wolverines\n18:00 Syracuse 
+ Orange - Notre Dame Fighting Irish\n18:00 Wyoming Cowboys - UConn Huskies\
+ n18:30 Northwestern Wildcats - Illinois Fighting Illini\n18:45 Arkansas Ra
+ zorbacks - LSU Tigers\n19:00 East Carolina Pirates - Florida Atlantic Owls
+ \n19:00 Old Dominion Monarchs - Southern Miss Golden Eagles\n19:00 UL Monr
+ oe Warhawks - Marshall Thundering Herd\n19:00 Western Kentucky Hilltoppers
+  - Kennesaw State Owls\n20:00 Colorado Buffaloes - UCF Knights\n20:00 Flor
+ ida International Panthers - Sam Houston Bearkats\n20:00 Georgia State Pan
+ thers - Louisiana Ragin' Cajuns\n20:00 Iowa State Cyclones - Kansas State 
+ Wildcats\n20:00 James Madison Dukes - Coastal Carolina Chanticleers\n20:00
+  Middle Tennessee Blue Raiders - New Mexico State Aggies\n20:00 Missouri S
+ tate Bears - Liberty Flames\n20:00 Rice Owls - Army Black Knights\n21:00 A
+ rkansas State Red Wolves - Troy Trojans\n21:00 Clemson Tigers - South Caro
+ lina Gamecocks\n21:00 Virginia Tech Hokies - Virginia Cavaliers\n21:30 BYU
+  Cougars - Cincinnati Bearcats\n21:30 Bowling Green Falcons - UMass Minute
+ men\n21:30 Delaware Blue Hens - Jacksonville State Gamecocks\n21:30 Georgi
+ a Bulldogs - Georgia Tech Yellow Jackets\n21:30 Maryland Terrapins - Penn 
+ State Nittany Lions\n21:30 Northern Illinois Huskies - UTEP Miners\n21:30 
+ South Florida Bulls - Tulane Green Wave\n21:30 Stanford Cardinal - SMU Mus
+ tangs\n21:30 UCLA Bruins - USC Trojans\n21:30 Wake Forest Demon Deacons - 
+ Duke Blue Devils\n22:00 North Texas Mean Green - UAB Blazers\n22:15 Missou
+ ri Tigers - Oklahoma Sooners\n22:15 Rutgers Scarlet Knights - Michigan Sta
+ te Spartans
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261129-j3@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261129-j2@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:NCAA DIVISION I FBS | J3
+SUMMARY:NCAA DIVISION I FBS | J2
 DESCRIPTION:00:00 Colorado State Rams - Boise State Broncos\n00:15 Oklahoma
   State Cowboys - Kansas Jayhawks\n00:30 Washington State Cougars - San Die
  go State Aztecs\n01:00 Indiana Hoosiers - Purdue Boilermakers\n01:00 Vande
@@ -88,334 +59,209 @@ DESCRIPTION:00:00 Colorado State Rams - Boise State Broncos\n00:15 Oklahoma
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-dia-20261205-j1@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:NCAA DIVISION I FBS | J1
 DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
- erminar\nPartits per determinar
+ erminar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261205-j4@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261205-j3@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:NCAA DIVISION I FBS | J4
+SUMMARY:NCAA DIVISION I FBS | J3
 DESCRIPTION:01:00 Liberty Flames - Jacksonville State Gamecocks\n02:00 Bois
  e State Broncos - San Diego State Aztecs\n02:00 Utah Utes - Texas Tech Red
-  Raiders\n18:00 Miami Hurricanes - Wake Forest Demon Deacons
+  Raiders\n18:00 Buffalo Bulls - Toledo Rockets\n18:00 Miami Hurricanes - W
+ ake Forest Demon Deacons
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261206-j7@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261206-j5@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:NCAA DIVISION I FBS | J7
+SUMMARY:NCAA DIVISION I FBS | J5
 DESCRIPTION:Partits per determinar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261212-j3@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:NCAA DIVISION I FBS | J3
-DESCRIPTION:21:00 Army Black Knights - Navy Midshipmen
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20261212-j11@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:NCAA DIVISION I FBS | J11
-DESCRIPTION:Partits per determinar
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20261215-j13@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261215-j9@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:NCAA DIVISION I FBS | J13
+SUMMARY:NCAA DIVISION I FBS | J9
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261216-j15@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261216-j11@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
+SUMMARY:NCAA DIVISION I FBS | J11
+DESCRIPTION:Partits per determinar\nPartits per determinar
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-dia-20261218-j15@sportcal
+DTSTAMP:20261128T085844Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
 SUMMARY:NCAA DIVISION I FBS | J15
 DESCRIPTION:Partits per determinar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261218-j19@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:NCAA DIVISION I FBS | J19
-DESCRIPTION:Partits per determinar\nPartits per determinar
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20261219-j23@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261219-j19@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:NCAA DIVISION I FBS | J23
+SUMMARY:NCAA DIVISION I FBS | J19
 DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
  erminar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261220-j29@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261220-j25@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-SUMMARY:NCAA DIVISION I FBS | J29
+SUMMARY:NCAA DIVISION I FBS | J25
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261221-j31@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261221-j27@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
+SUMMARY:NCAA DIVISION I FBS | J27
+DESCRIPTION:Partits per determinar\nPartits per determinar
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-dia-20261223-j31@sportcal
+DTSTAMP:20261128T085844Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
 SUMMARY:NCAA DIVISION I FBS | J31
 DESCRIPTION:Partits per determinar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261222-j35@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261223
-SUMMARY:NCAA DIVISION I FBS | J35
-DESCRIPTION:Partits per determinar\nPartits per determinar
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20261223-j39@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:NCAA DIVISION I FBS | J39
-DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
- erminar
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20261224-j45@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261224-j35@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:NCAA DIVISION I FBS | J45
+SUMMARY:NCAA DIVISION I FBS | J35
 DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
  erminar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261225-j51@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261225-j41@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
+SUMMARY:NCAA DIVISION I FBS | J41
+DESCRIPTION:Partits per determinar
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-dia-20261226-j43@sportcal
+DTSTAMP:20261128T085844Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:NCAA DIVISION I FBS | J43
+DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
+ erminar\nPartits per determinar
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-dia-20261227-j51@sportcal
+DTSTAMP:20261128T085844Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
 SUMMARY:NCAA DIVISION I FBS | J51
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261226-j53@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-SUMMARY:NCAA DIVISION I FBS | J53
-DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
- erminar\nPartits per determinar
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20261227-j61@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:NCAA DIVISION I FBS | J61
-DESCRIPTION:Partits per determinar
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20261228-j63@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261228-j53@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-SUMMARY:NCAA DIVISION I FBS | J63
+SUMMARY:NCAA DIVISION I FBS | J53
 DESCRIPTION:Partits per determinar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261229-j67@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261229-j57@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:NCAA DIVISION I FBS | J67
+SUMMARY:NCAA DIVISION I FBS | J57
 DESCRIPTION:Partits per determinar\nPartits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261230-j71@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261230-j61@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:NCAA DIVISION I FBS | J71
+SUMMARY:NCAA DIVISION I FBS | J61
 DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
  erminar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20261231-j77@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20261231-j67@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:NCAA DIVISION I FBS | J77
-DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
- erminar\nPartits per determinar
+SUMMARY:NCAA DIVISION I FBS | J67
+DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20270101-j85@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20270101-j69@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-SUMMARY:NCAA DIVISION I FBS | J85
-DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
- erminar\nPartits per determinar
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-dia-20270102-j93@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
-SUMMARY:NCAA DIVISION I FBS | J93
+SUMMARY:NCAA DIVISION I FBS | J69
 DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
  erminar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20270103-j99@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20270102-j75@sportcal
+DTSTAMP:20261128T085844Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:NCAA DIVISION I FBS | J75
+DESCRIPTION:Partits per determinar\nPartits per determinar\nPartits per det
+ erminar
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaafbs-dia-20270103-j81@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-SUMMARY:NCAA DIVISION I FBS | J99
+SUMMARY:NCAA DIVISION I FBS | J81
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20270115-j101@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20270115-j83@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:NCAA DIVISION I FBS | J101
+SUMMARY:NCAA DIVISION I FBS | J83
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20270116-j103@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20270116-j85@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:NCAA DIVISION I FBS | J103
+SUMMARY:NCAA DIVISION I FBS | J85
 DESCRIPTION:Partits per determinar
 END:VEVENT
 BEGIN:VEVENT
-UID:ncaafbs-dia-20270126-j105@sportcal
-DTSTAMP:20261127T081651Z
+UID:ncaafbs-dia-20270126-j87@sportcal
+DTSTAMP:20261128T085844Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-SUMMARY:NCAA DIVISION I FBS | J105
+SUMMARY:NCAA DIVISION I FBS | J87
 DESCRIPTION:Partits per determinar
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-texas-tech-red-raiders-tcu-horned-frogs@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T010000Z
-DTEND:20261127T024500Z
-SUMMARY:Texas Tech Red Raiders - TCU Horned Frogs
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Galaxy Stadium\, Lubbock\, TX
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-akron-zips-buffalo-bulls@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T170000Z
-DTEND:20261127T184500Z
-SUMMARY:Akron Zips - Buffalo Bulls
-DESCRIPTION:NCAA Division I FBS
-LOCATION:InfoCision Stadium\, Akron\, OH
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-ohio-bobcats-toledo-rockets@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T170000Z
-DTEND:20261127T184500Z
-SUMMARY:Ohio Bobcats - Toledo Rockets
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Peden Stadium\, Athens\, OH
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-ole-miss-rebels-mississippi-state-bulldogs@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T170000Z
-DTEND:20261127T184500Z
-SUMMARY:Ole Miss Rebels - Mississippi State Bulldogs
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-utsa-roadrunners-tulsa-golden-hurricane@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T170000Z
-DTEND:20261127T184500Z
-SUMMARY:UTSA Roadrunners - Tulsa Golden Hurricane
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Alamodome\, San Antonio\, TX
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-iowa-hawkeyes-nebraska-cornhuskers@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T170800Z
-DTEND:20261127T185300Z
-SUMMARY:Iowa Hawkeyes - Nebraska Cornhuskers
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Kinnick Stadium\, Iowa City\, IA
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-south-alabama-jaguars-app-state-mountaineers@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T200000Z
-DTEND:20261127T214500Z
-SUMMARY:South Alabama Jaguars - App State Mountaineers
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Hancock Whitney Stadium\, Mobile\, AL
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-florida-state-seminoles-florida-gators@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T203000Z
-DTEND:20261127T221500Z
-SUMMARY:Florida State Seminoles - Florida Gators
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-memphis-tigers-temple-owls@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T203000Z
-DTEND:20261127T221500Z
-SUMMARY:Memphis Tigers - Temple Owls
-DESCRIPTION:NCAA Division I FBS
-LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-san-jose-state-spartans-north-dakota-state-bison@sport
- cal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T203000Z
-DTEND:20261127T221500Z
-SUMMARY:San José State Spartans - North Dakota State Bison
-DESCRIPTION:NCAA Division I FBS
-LOCATION:CEFCU Stadium\, San Jose\, CA
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261127-new-mexico-lobos-air-force-falcons@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261127T213000Z
-DTEND:20261127T231500Z
-SUMMARY:New Mexico Lobos - Air Force Falcons
-DESCRIPTION:NCAA Division I FBS
-LOCATION:University Stadium (NM)\, Albuquerque\, NM
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-texas-a-m-aggies-texas-longhorns@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T003000Z
 DTEND:20261128T021500Z
 SUMMARY:Texas A&M Aggies - Texas Longhorns
@@ -424,7 +270,7 @@ LOCATION:Kyle Field\, College Station\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-wisconsin-badgers-minnesota-golden-gophers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T003000Z
 DTEND:20261128T021500Z
 SUMMARY:Wisconsin Badgers - Minnesota Golden Gophers
@@ -433,7 +279,7 @@ LOCATION:Camp Randall Stadium\, Madison\, WI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-utah-utes-west-virginia-mountaineers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T020000Z
 DTEND:20261128T034500Z
 SUMMARY:Utah Utes - West Virginia Mountaineers
@@ -443,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-ball-state-cardinals-central-michigan-chippewas@sportc
  al
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T170000Z
 DTEND:20261128T184500Z
 SUMMARY:Ball State Cardinals - Central Michigan Chippewas
@@ -452,7 +298,7 @@ LOCATION:Scheumann Stadium\, Muncie\, IN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-charlotte-49ers-navy-midshipmen@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T170000Z
 DTEND:20261128T184500Z
 SUMMARY:Charlotte 49ers - Navy Midshipmen
@@ -462,7 +308,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-georgia-southern-eagles-louisiana-tech-bulldogs@sportc
  al
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T170000Z
 DTEND:20261128T184500Z
 SUMMARY:Georgia Southern Eagles - Louisiana Tech Bulldogs
@@ -471,7 +317,7 @@ LOCATION:Allen E. Paulson Stadium\, Statesboro\, GA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-kentucky-wildcats-louisville-cardinals@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T170000Z
 DTEND:20261128T184500Z
 SUMMARY:Kentucky Wildcats - Louisville Cardinals
@@ -480,7 +326,7 @@ LOCATION:Kroger Field\, Lexington\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-miami-hurricanes-boston-college-eagles@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T170000Z
 DTEND:20261128T184500Z
 SUMMARY:Miami Hurricanes - Boston College Eagles
@@ -489,7 +335,7 @@ LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-north-carolina-tar-heels-nc-state-wolfpack@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T170000Z
 DTEND:20261128T184500Z
 SUMMARY:North Carolina Tar Heels - NC State Wolfpack
@@ -498,7 +344,7 @@ LOCATION:Kenan Stadium\, Chapel Hill\, NC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-ohio-state-buckeyes-michigan-wolverines@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T170000Z
 DTEND:20261128T184500Z
 SUMMARY:Ohio State Buckeyes - Michigan Wolverines
@@ -507,7 +353,7 @@ LOCATION:Ohio Stadium\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-syracuse-orange-notre-dame-fighting-irish@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T170000Z
 DTEND:20261128T184500Z
 SUMMARY:Syracuse Orange - Notre Dame Fighting Irish
@@ -516,7 +362,7 @@ LOCATION:JMA Wireless Dome\, Syracuse\, NY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-wyoming-cowboys-uconn-huskies@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T170000Z
 DTEND:20261128T184500Z
 SUMMARY:Wyoming Cowboys - UConn Huskies
@@ -526,7 +372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-northwestern-wildcats-illinois-fighting-illini@sportca
  l
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T173000Z
 DTEND:20261128T191500Z
 SUMMARY:Northwestern Wildcats - Illinois Fighting Illini
@@ -535,7 +381,7 @@ LOCATION:Ryan Field\, Evanston\, IL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-arkansas-razorbacks-lsu-tigers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T174500Z
 DTEND:20261128T193000Z
 SUMMARY:Arkansas Razorbacks - LSU Tigers
@@ -544,7 +390,7 @@ LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-east-carolina-pirates-florida-atlantic-owls@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T180000Z
 DTEND:20261128T194500Z
 SUMMARY:East Carolina Pirates - Florida Atlantic Owls
@@ -554,7 +400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-old-dominion-monarchs-southern-miss-golden-eagles@spor
  tcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T180000Z
 DTEND:20261128T194500Z
 SUMMARY:Old Dominion Monarchs - Southern Miss Golden Eagles
@@ -563,7 +409,7 @@ LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-ul-monroe-warhawks-marshall-thundering-herd@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T180000Z
 DTEND:20261128T194500Z
 SUMMARY:UL Monroe Warhawks - Marshall Thundering Herd
@@ -573,7 +419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-western-kentucky-hilltoppers-kennesaw-state-owls@sport
  cal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T180000Z
 DTEND:20261128T194500Z
 SUMMARY:Western Kentucky Hilltoppers - Kennesaw State Owls
@@ -582,7 +428,7 @@ LOCATION:Houchens Industries-L.T. Smith Stadium\, Bowling Green\, KY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-colorado-buffaloes-ucf-knights@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Colorado Buffaloes - UCF Knights
@@ -592,7 +438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-florida-international-panthers-sam-houston-bearkats@sp
  ortcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Florida International Panthers - Sam Houston Bearkats
@@ -601,7 +447,7 @@ LOCATION:Pitbull Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-georgia-state-panthers-louisiana-ragin-cajuns@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Georgia State Panthers - Louisiana Ragin' Cajuns
@@ -610,7 +456,7 @@ LOCATION:Center Parc Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-iowa-state-cyclones-kansas-state-wildcats@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Iowa State Cyclones - Kansas State Wildcats
@@ -620,7 +466,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-james-madison-dukes-coastal-carolina-chanticleers@spor
  tcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:James Madison Dukes - Coastal Carolina Chanticleers
@@ -630,7 +476,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-middle-tennessee-blue-raiders-new-mexico-state-aggies@
  sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Middle Tennessee Blue Raiders - New Mexico State Aggies
@@ -639,7 +485,7 @@ LOCATION:Johnny "Red" Floyd Stadium\, Murfreesboro\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-missouri-state-bears-liberty-flames@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Missouri State Bears - Liberty Flames
@@ -648,7 +494,7 @@ LOCATION:Robert W. Plaster Stadium\, Springfield\, MO
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-rice-owls-army-black-knights@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T190000Z
 DTEND:20261128T204500Z
 SUMMARY:Rice Owls - Army Black Knights
@@ -657,7 +503,7 @@ LOCATION:First Community Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-arkansas-state-red-wolves-troy-trojans@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T200000Z
 DTEND:20261128T214500Z
 SUMMARY:Arkansas State Red Wolves - Troy Trojans
@@ -666,7 +512,7 @@ LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-clemson-tigers-south-carolina-gamecocks@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T200000Z
 DTEND:20261128T214500Z
 SUMMARY:Clemson Tigers - South Carolina Gamecocks
@@ -675,7 +521,7 @@ LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-virginia-tech-hokies-virginia-cavaliers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T200000Z
 DTEND:20261128T214500Z
 SUMMARY:Virginia Tech Hokies - Virginia Cavaliers
@@ -684,7 +530,7 @@ LOCATION:Lane Stadium\, Blacksburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-byu-cougars-cincinnati-bearcats@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:BYU Cougars - Cincinnati Bearcats
@@ -693,7 +539,7 @@ LOCATION:LaVell Edwards Stadium\, Provo\, UT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-bowling-green-falcons-umass-minutemen@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:Bowling Green Falcons - UMass Minutemen
@@ -703,7 +549,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-delaware-blue-hens-jacksonville-state-gamecocks@sportc
  al
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:Delaware Blue Hens - Jacksonville State Gamecocks
@@ -712,7 +558,7 @@ LOCATION:Delaware Stadium\, Newark\, DE
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-georgia-bulldogs-georgia-tech-yellow-jackets@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:Georgia Bulldogs - Georgia Tech Yellow Jackets
@@ -721,7 +567,7 @@ LOCATION:Sanford Stadium\, Athens\, GA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-maryland-terrapins-penn-state-nittany-lions@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:Maryland Terrapins - Penn State Nittany Lions
@@ -730,7 +576,7 @@ LOCATION:SECU Stadium\, College Park\, MD
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-northern-illinois-huskies-utep-miners@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:Northern Illinois Huskies - UTEP Miners
@@ -739,7 +585,7 @@ LOCATION:Huskie Stadium\, Dekalb\, IL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-south-florida-bulls-tulane-green-wave@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:South Florida Bulls - Tulane Green Wave
@@ -748,7 +594,7 @@ LOCATION:Raymond James Stadium\, Tampa\, FL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-stanford-cardinal-smu-mustangs@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:Stanford Cardinal - SMU Mustangs
@@ -757,7 +603,7 @@ LOCATION:Stanford Stadium\, Stanford\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-ucla-bruins-usc-trojans@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:UCLA Bruins - USC Trojans
@@ -766,7 +612,7 @@ LOCATION:Rose Bowl\, Pasadena\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-wake-forest-demon-deacons-duke-blue-devils@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T203000Z
 DTEND:20261128T221500Z
 SUMMARY:Wake Forest Demon Deacons - Duke Blue Devils
@@ -775,7 +621,7 @@ LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-north-texas-mean-green-uab-blazers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T210000Z
 DTEND:20261128T224500Z
 SUMMARY:North Texas Mean Green - UAB Blazers
@@ -784,7 +630,7 @@ LOCATION:DATCU Stadium\, Denton\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-missouri-tigers-oklahoma-sooners@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T211500Z
 DTEND:20261128T230000Z
 SUMMARY:Missouri Tigers - Oklahoma Sooners
@@ -794,7 +640,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261128-rutgers-scarlet-knights-michigan-state-spartans@sportc
  al
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T211500Z
 DTEND:20261128T230000Z
 SUMMARY:Rutgers Scarlet Knights - Michigan State Spartans
@@ -803,7 +649,7 @@ LOCATION:SHI Stadium\, Piscataway\, NJ
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-colorado-state-rams-boise-state-broncos@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T230000Z
 DTEND:20261129T004500Z
 SUMMARY:Colorado State Rams - Boise State Broncos
@@ -812,7 +658,7 @@ LOCATION:Canvas Stadium\, Fort Collins\, CO
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-oklahoma-state-cowboys-kansas-jayhawks@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T231500Z
 DTEND:20261129T010000Z
 SUMMARY:Oklahoma State Cowboys - Kansas Jayhawks
@@ -822,7 +668,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-washington-state-cougars-san-diego-state-aztecs@sportc
  al
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261128T233000Z
 DTEND:20261129T011500Z
 SUMMARY:Washington State Cougars - San Diego State Aztecs
@@ -831,7 +677,7 @@ LOCATION:Martin Stadium\, Pullman\, WA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-indiana-hoosiers-purdue-boilermakers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:Indiana Hoosiers - Purdue Boilermakers
@@ -840,7 +686,7 @@ LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-vanderbilt-commodores-tennessee-volunteers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T000000Z
 DTEND:20261129T014500Z
 SUMMARY:Vanderbilt Commodores - Tennessee Volunteers
@@ -849,7 +695,7 @@ LOCATION:FirstBank Stadium\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-alabama-crimson-tide-auburn-tigers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T003000Z
 DTEND:20261129T021500Z
 SUMMARY:Alabama Crimson Tide - Auburn Tigers
@@ -858,7 +704,7 @@ LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-california-golden-bears-pittsburgh-panthers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T003000Z
 DTEND:20261129T021500Z
 SUMMARY:California Golden Bears - Pittsburgh Panthers
@@ -867,7 +713,7 @@ LOCATION:California Memorial Stadium\, Berkeley\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-oregon-ducks-washington-huskies@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T003000Z
 DTEND:20261129T021500Z
 SUMMARY:Oregon Ducks - Washington Huskies
@@ -876,7 +722,7 @@ LOCATION:Autzen Stadium\, Eugene\, OR
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-arizona-wildcats-arizona-state-sun-devils@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T020000Z
 DTEND:20261129T034500Z
 SUMMARY:Arizona Wildcats - Arizona State Sun Devils
@@ -885,7 +731,7 @@ LOCATION:Casino Del Sol Stadium\, Tucson\, AZ
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-unlv-rebels-nevada-wolf-pack@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T020000Z
 DTEND:20261129T034500Z
 SUMMARY:UNLV Rebels - Nevada Wolf Pack
@@ -894,7 +740,7 @@ LOCATION:Allegiant Stadium\, Las Vegas\, NV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-houston-cougars-baylor-bears@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T023000Z
 DTEND:20261129T041500Z
 SUMMARY:Houston Cougars - Baylor Bears
@@ -903,7 +749,7 @@ LOCATION:TDECU Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-utah-state-aggies-texas-state-bobcats@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T023000Z
 DTEND:20261129T041500Z
 SUMMARY:Utah State Aggies - Texas State Bobcats
@@ -912,7 +758,7 @@ LOCATION:Maverik Stadium\, Logan\, UT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-fresno-state-bulldogs-oregon-state-beavers@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T030000Z
 DTEND:20261129T044500Z
 SUMMARY:Fresno State Bulldogs - Oregon State Beavers
@@ -922,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261129-hawai-i-rainbow-warriors-sacramento-state-hornets@spor
  tcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261129T040000Z
 DTEND:20261129T054500Z
 SUMMARY:Hawai'i Rainbow Warriors - Sacramento State Hornets
@@ -931,7 +777,7 @@ LOCATION:Clarence T.C. Ching Athletics Complex\, Honolulu\, HI
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261205-liberty-flames-jacksonville-state-gamecocks@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261205T000000Z
 DTEND:20261205T014500Z
 SUMMARY:Liberty Flames - Jacksonville State Gamecocks
@@ -940,7 +786,7 @@ LOCATION:Williams Stadium (VA)\, Lynchburg\, VA
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261205-boise-state-broncos-san-diego-state-aztecs@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261205T010000Z
 DTEND:20261205T024500Z
 SUMMARY:Boise State Broncos - San Diego State Aztecs
@@ -949,7 +795,7 @@ LOCATION:Albertsons Stadium\, Boise\, ID
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaafbs-20261205-utah-utes-texas-tech-red-raiders@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261205T010000Z
 DTEND:20261205T024500Z
 SUMMARY:Utah Utes - Texas Tech Red Raiders
@@ -957,21 +803,21 @@ DESCRIPTION:NCAA Division I FBS
 LOCATION:AT&T Stadium\, Arlington\, TX
 END:VEVENT
 BEGIN:VEVENT
+UID:ncaafbs-20261205-buffalo-bulls-toledo-rockets@sportcal
+DTSTAMP:20261128T085844Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:Buffalo Bulls - Toledo Rockets
+DESCRIPTION:NCAA Division I FBS
+LOCATION:Ford Field\, Detroit\, MI
+END:VEVENT
+BEGIN:VEVENT
 UID:ncaafbs-20261205-miami-hurricanes-wake-forest-demon-deacons@sportcal
-DTSTAMP:20261127T081651Z
+DTSTAMP:20261128T085844Z
 DTSTART:20261205T170000Z
 DTEND:20261205T184500Z
 SUMMARY:Miami Hurricanes - Wake Forest Demon Deacons
 DESCRIPTION:NCAA Division I FBS
 LOCATION:Bank of America Stadium\, Charlotte\, NC
-END:VEVENT
-BEGIN:VEVENT
-UID:ncaafbs-20261212-army-black-knights-navy-midshipmen@sportcal
-DTSTAMP:20261127T081651Z
-DTSTART:20261212T200000Z
-DTEND:20261212T214500Z
-SUMMARY:Army Black Knights - Navy Midshipmen
-DESCRIPTION:NCAA Division I FBS
-LOCATION:MetLife Stadium\, East Rutherford\, NJ
 END:VEVENT
 END:VCALENDAR
